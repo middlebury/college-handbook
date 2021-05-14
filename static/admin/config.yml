@@ -1,0 +1,51 @@
+backend:
+  name: github
+  repo: middlebury/college-handbook
+
+media_folder: static/img
+public_folder: /img
+
+collections: 
+  - name: 'language-schools'
+    label: 'Policies for the Language Schools'
+    folder: 'content/language-schools'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', default: 'document name', widget: 'string', hint: 'Title field is for naming emails within Netlify. It is not displayed in the email.', required: false }
+      - { label: 'Category', name: 'category', widget: 'select',  options: ['I. Middlebury-Wide Policies', 'II. Policies for the Undergraduate College', 'III. Policies for the Language Schools', 'IV. Policies for the Institute of International Studies', 'Previous Handbooks'], required: false }
+      - { label: 'Text', name: 'body', widget: 'markdown', editor_components: [], required: false }
+  - name: 'middlebury-wide'
+    label: 'Middlebury Wide Policies'
+    folder: 'content/middlebury-wide'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', default: 'document name', widget: 'string', hint: 'Title field is for naming emails within Netlify. It is not displayed in the email.', required: false }
+      - { label: 'Category', name: 'category', widget: 'select',  options: ['I. Middlebury-Wide Policies', 'II. Policies for the Undergraduate College', 'III. Policies for the Language Schools', 'IV. Policies for the Institute of International Studies', 'Previous Handbooks'], required: false }
+      - { label: 'Text', name: 'body', widget: 'markdown', editor_components: [], required: false }  
+  - name: 'miis-policies'
+    label: 'Policies for the Institute of International Studies'
+    folder: 'content/miis-policies'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', default: 'document name', widget: 'string', hint: 'Title field is for naming emails within Netlify. It is not displayed in the email.', required: false }
+      - { label: 'Category', name: 'category', widget: 'select',  options: ['I. Middlebury-Wide Policies', 'II. Policies for the Undergraduate College', 'III. Policies for the Language Schools', 'IV. Policies for the Institute of International Studies', 'Previous Handbooks'], required: false }
+      - { label: 'Text', name: 'body', widget: 'markdown', editor_components: [], required: false }
+  - name: 'previous-handbooks'
+    label: 'Previous Handbooks'
+    folder: 'content/previous-handbooks'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', default: 'document name', widget: 'string', hint: 'Title field is for naming emails within Netlify. It is not displayed in the email.', required: false }
+      - { label: 'Category', name: 'category', widget: 'select',  options: ['I. Middlebury-Wide Policies', 'II. Policies for the Undergraduate College', 'III. Policies for the Language Schools', 'IV. Policies for the Institute of International Studies', 'Previous Handbooks'], required: false }
+      - { label: 'Text', name: 'body', widget: 'markdown', editor_components: [], required: false }    
+  - name: 'undergraduate-college'
+    label: 'Policies for the Undergraduate College'
+    folder: 'content/undergraduate-college'
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', default: 'document name', widget: 'string', hint: 'Title field is for naming emails within Netlify. It is not displayed in the email.', required: false }
+      - { label: 'Category', name: 'category', widget: 'select',  options: ['I. Middlebury-Wide Policies', 'II. Policies for the Undergraduate College', 'III. Policies for the Language Schools', 'IV. Policies for the Institute of International Studies', 'Previous Handbooks'], required: false }
+      - { label: 'Text', name: 'body', widget: 'markdown', editor_components: [], required: false }  
+  
+
+

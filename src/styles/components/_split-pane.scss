@@ -1,0 +1,103 @@
+
+.split-pane-row {
+  width: 100vw;
+  height: calc(100% - 131px);
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;
+}
+
+.split-pane-right,
+.split-pane-left {
+  flex: 1;
+  overflow: hidden;
+  padding: 20px;
+}
+
+.split-pane-left {
+  width: 25%;
+  overflow-y: auto;
+  // min-width: 350px;
+}
+
+.split-pane-right {
+  background-color: #fff;
+  background-size: 100% 1.2em;
+  z-index: 10;
+  overflow-y: scroll;
+}
+
+.separator-col {
+  border: 5px solid lighten($gray, 30%);
+  cursor: col-resize;
+  z-index: 10;
+}
+
+.separator-row {
+  border: 5px solid black;
+  cursor: row-resize;
+}
+
+ul li {
+  margin: 1rem;
+  // list-style-type: square;
+}
+
+ul a {
+  text-decoration: none;
+  color: darkblue;
+  font-size: large;
+}
+
+ul a:hover {
+  color: black;
+}
+
+blockquote {
+  border-left: 10px solid #ccc;
+  margin: 5.5em 0 0 0;
+  quotes: "\201C""\201D""\2018""\2019";
+  padding: 2rem 0 1rem;
+}
+
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote p {
+  display: inline;
+}
+
+.quote {
+  max-width: 60%;
+  text-align: right;
+  margin: auto;
+  font-style: italic;
+}
+
+.quote span {
+  font-weight: bold;
+}
+
+@media print {
+  .global-header, .navbar, .split-pane-left, .separator-col {
+    display: none;
+  }
+  #right-pane > .print-section {
+      background-color: white;
+      height: 3000px;
+      width: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      margin: 0;
+      padding: 15px;
+      font-size: 14px;
+      line-height: 18px;
+  }
+}
