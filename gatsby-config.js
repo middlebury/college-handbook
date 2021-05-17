@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Middlebury College Handbook`,
-    description: `This 2019-2020 Handbook supersedes previous editions of the College, Institute, and Language Schools Handbooks as of its online publication date.  Section I applies to all students, faculty and staff of Middlebury programs, while other sections may apply only to specific populations, such as students in a particular program.`,
+    description: `Middlebury College Handbook`,
   },
   plugins: [
     "gatsby-plugin-netlify-cms",
@@ -42,6 +42,40 @@ module.exports = {
         name: "v-handbook_archive",
         path: `${__dirname}/content/v-handbook_archive`,
       }
+    },
+    {
+      resolve: 'gatsby-plugin-local-search',
+      options: {
+        name: 'pages',
+        engine: 'flexsearch',
+        engineOptions: 'speed',
+        query: `
+        {
+          allMarkdownRemark {
+            nodes {
+              id
+              frontmatter {
+                slug
+                title
+              }
+              excerpt
+              rawMarkdownBody
+            }
+          }
+        }
+        `,
+        ref: 'id',
+        index: ['slug', 'title'],
+        store: ['id', 'slug', 'title', 'body', 'excerpt'],
+        normalizer: ({ data }) =>
+          data.allMarkdownRemark.nodes.map((node) => ({
+            id: node.id,
+            slug: node.frontmatter.slug,
+            title: node.frontmatter.title,
+            body: node.rawMarkdownBody,
+            excerpt: node.excerpt
+          })),
+      },
     },
   ],
 };

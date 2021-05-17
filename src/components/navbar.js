@@ -5,8 +5,9 @@ import {
     FaForward, 
     FaStepForward, 
     FaBackward, 
-    FaStepBackward, 
-    FaSearch } from "react-icons/fa";
+    FaStepBackward 
+} from "react-icons/fa";
+import SearchBar from "./search-bar";
 import { navigate } from "gatsby";
 
 const Navbar = (props) => {
@@ -26,7 +27,7 @@ const Navbar = (props) => {
         
         if (props.page.parent) {
             let found = 0;
-            let obj = props.page.parent.children ? props.page.parent.children : parentObj;
+            let obj = props.page.parent.children || parentObj;
             let value = '';
             
             if (button === 'fast-backward') {
@@ -90,17 +91,11 @@ const Navbar = (props) => {
         <nav className="navbar">
             <div className="navbar__container">
                 <div className="navbar__search-content">
-                    <form className="navbar__input-group" action="http://www.middlebury.edu/search" method="GET">
-                        <input
-                            type="search"
-                            className="navbar__search"
-                            placeholder="Search"
-                            required
-                        />
-                        <button type="submit" className="navbar__button search">
-                            <FaSearch />
-                        </button>
-                    </form>
+                    <SearchBar 
+                        localSearchPages={props.localSearchPages}
+                        setResults={props.setResults}
+                        valueCallback={props.valueCallback}
+                    />
                     <h2 style={{color:'black'}} className="navbar__heading">
                         <span style={{cursor:'pointer'}} onClick={(e)=>{navigate('/'); props.valueCallback('/');}}>Middlebury College Handbook</span>
                     </h2>

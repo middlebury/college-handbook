@@ -20,8 +20,10 @@ export const SplitPaneLeft = ({ children, ...props }) => {
   const resizeSection = () => {
     setClientWidth(document.getElementsByTagName('html')[0].clientWidth/4);
   }
-
-  window.onresize = resizeSection;
+  
+  useEffect (() => {
+    window.onresize = resizeSection;
+  }, []); 
 
   useEffect(() => {
     if (!clientWidth) {
