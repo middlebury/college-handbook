@@ -6,8 +6,8 @@ module.exports = {
   plugins: [
     "gatsby-plugin-netlify-cms",
     "gatsby-plugin-sass",
-    "gatsby-plugin-mdx",
     "gatsby-transformer-remark",
+    "gatsby-plugin-react-helmet",
     {
       resolve: "gatsby-source-filesystem",
       options: {

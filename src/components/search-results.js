@@ -1,11 +1,10 @@
 import React from "react";
 import { navigate } from "gatsby";
 
-const SearchResults = ({ results, valueCallback, expandCallback }) => {
+const SearchResults = ({ results, expandCallback }) => {
     const handleClick = (e, slug) => {
         e.preventDefault();
         navigate(`${slug}`);
-        // valueCallback(slug);
         expandCallback(slug);
     };
 
@@ -19,11 +18,9 @@ const SearchResults = ({ results, valueCallback, expandCallback }) => {
                 results.map(result => {
                     return (
                         <div className="search-results__item">
-                            {/* <Link to={`${result.slug}`}> */}
                             <a href="#" onClick={(e) => handleClick(e, result.slug)}>
                                 <h3>{result.title}</h3>
                             </a>
-                            {/* </Link> */}
                             <p
                                 dangerouslySetInnerHTML={{
                                     __html: `${result.excerpt.slice(0,60)}...`,

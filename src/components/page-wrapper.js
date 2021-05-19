@@ -7,6 +7,7 @@ import SplitPane, {
     SplitPaneLeft,
     SplitPaneRight,
 } from "./split-pane";
+import Footer from "./footer";
 import CheckboxTree from 'react-checkbox-tree';
 import { nodes } from '../data/handbook';
 import { navigate } from 'gatsby';
@@ -47,7 +48,6 @@ const PageWrapper = (props) => {
                 arr.splice(0, 0, currentExpanded.join('/'));
                 currentExpanded = currentExpanded.slice(0, currentExpanded.length-1);
             }
-            setExpanded(arr);
             
             // Find the selected page's parent in the nodes object
             for (var j = 0; j < arr.length-1; j++) {
@@ -64,6 +64,7 @@ const PageWrapper = (props) => {
         currentPage.value = url.slice(url.indexOf('pages')+1, url.length).join('/');
         
         setValue(currentPage.value);
+        setExpanded(arr);
         setPage(currentPage);
     };
 
@@ -83,6 +84,15 @@ const PageWrapper = (props) => {
         } 
     }, [value]);
 
+    // useEffect (() => {
+    //     if(page.parent && expanded.includes(page.parent.value)) {
+    //         let element = document.getElementsByClassName(currentClass)[0];
+    //         if(element !== undefined) {
+    //             element.children[0].children[2].classList.add("active");
+    //         }
+    //     }
+    // }, [expanded]);
+
     useEffect (() => {
         handlePageLoad(expand);
     }, [expand]);
@@ -95,9 +105,11 @@ const PageWrapper = (props) => {
 
     const handleHighlight = (className) => {
         if (prevClass.current !== "" && prevClass.current !== undefined && document.getElementsByClassName(prevClass.current)[0] !== undefined) {
+            console.log(prevClass.current);
             document.getElementsByClassName(prevClass.current)[0].children[0].children[2].classList.remove("active");
         }
         if(document.getElementsByClassName(className)[0] !== undefined) {
+            console.log(currentClass);
             document.getElementsByClassName(className)[0].children[0].children[2].classList.add("active");
         }
         
@@ -149,6 +161,7 @@ const PageWrapper = (props) => {
                             {props.children}
                         </SplitPaneRight>
                     </SplitPane>
+                <Footer />
             </div>
         </Layout>
   );

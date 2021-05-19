@@ -1,7 +1,7 @@
 
 .split-pane-row {
   width: 100vw;
-  height: calc(100% - 131px);
+  height: calc(100% - 162px);
   display: flex;
   flex-direction: row;
   overflow: hidden;
@@ -15,7 +15,7 @@
 }
 
 .split-pane-left {
-  width: 25%;
+  min-width: 25vw;
   overflow-y: auto;
   // min-width: 350px;
 }

@@ -1,7 +1,8 @@
 .navbar {
     left: 0;
     top: 0;
-    height: 46px;
+    // height: 46px;
+    height:fit-content;
     width: 100%;
     padding: 0 0.5rem;
     background-color: $white;
@@ -18,7 +19,11 @@
 .navbar__search-content {
     display: flex;
     align-items: center;
-    width: 50%;
+    width: 60%;
+
+    @include media(lg) {
+        width: 50%;
+    }
 }
 
 .navbar__input-group {

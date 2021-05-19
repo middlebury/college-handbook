@@ -1,8 +1,7 @@
 ---
 slug: "/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin"
 date: "2021-05-01"
-title: "B.1.b. Non-Discrimination Investigations & Resolutions Procedure
-A. General Provisions"
+title: "B.1.b. Non-Discrimination Investigations & Resolutions Procedure"
 ---
 
 

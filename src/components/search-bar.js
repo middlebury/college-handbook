@@ -24,6 +24,9 @@ const SearchBar = ({ localSearchPages, setResults }) => {
                 placeholder="Search"
                 value={query}
                 onChange={e => {
+                    if(e.target.value.length === 0) {
+                        setResults([]);
+                    }
                     setQuery(e.target.value);
                 }}
             />
