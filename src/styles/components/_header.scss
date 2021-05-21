@@ -1,6 +1,10 @@
 .App {
-    overflow: hidden;
-    height: 100vh;
+    // overflow: hidden
+
+    @include media(lg) {
+        height: 100vh;
+        overflow: hidden;
+    }    
 }
 
 .global-header {

@@ -23,7 +23,6 @@
     "gatsby-source-filesystem": "^3.3.0",
     "gatsby-transformer-remark": "^4.1.0",
     "netlify-cms-app": "^2.14.46",
-    "netlify-identity-widget": "^1.9.1",
     "query-string": "^7.0.0",
     "react": "^17.0.1",
     "react-checkbox-tree": "^1.6.0",

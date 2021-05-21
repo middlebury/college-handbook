@@ -132,7 +132,7 @@ const PageWrapper = (props) => {
                         valueCallback={(value) => {setValue(value)}}
                         localSearchPages={data.localSearchPages}
                         setResults={setResults}
-                    />
+                    /> 
                     <SplitPane className="split-pane-row">
                         <SplitPaneLeft>
                             <SearchResults 
@@ -154,7 +154,7 @@ const PageWrapper = (props) => {
                                     setExpand('');
                                     handleClick(targetNode.value);
                                 }}
-                            />
+                            /> 
                         </SplitPaneLeft>
                         <Divider className="separator-col" />
                         <SplitPaneRight>

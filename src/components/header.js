@@ -10,7 +10,7 @@ const Header = () => {
                         src={CollegeLogo}
                         sizes="(min-width: 1280px) 180px, 120px"
                         alt="Logo for Middlebury College"
-                        className="d-none d-sm-block"
+                        className="d-block"
                     />                 
                 </a>
             </div>

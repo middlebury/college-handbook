@@ -22,18 +22,21 @@ export const SplitPaneLeft = ({ children, ...props }) => {
   }
   
   useEffect (() => {
-    window.onresize = resizeSection;
+    if(document.documentElement.clientWidth >= 1024) {
+      window.onresize = resizeSection;
+    }
   }, []); 
 
   useEffect(() => {
-    if (!clientWidth) {
-      setClientWidth(topRef.current.clientWidth / 2);
-      return;
+    if(document.documentElement.clientWidth >= 1024) {
+      if (!clientWidth) {
+        setClientWidth(topRef.current.clientWidth / 2);
+        return;
+      }
+
+      topRef.current.style.minWidth = clientWidth + "px";
+      topRef.current.style.maxWidth = clientWidth + "px";
     }
-
-    topRef.current.style.minWidth = clientWidth + "px";
-    topRef.current.style.maxWidth = clientWidth + "px";
-
   }, [clientWidth]);
 
   return ( 
@@ -82,13 +85,15 @@ const SplitPane = ({ children, ...props }) => {
   };
 
   useEffect(() => {
-    document.addEventListener("mouseup", onMouseHoldUp);
-    document.addEventListener("mousemove", onMouseHoldMove);
+    if(document.documentElement.clientWidth >= 1024) {
+      document.addEventListener("mouseup", onMouseHoldUp);
+      document.addEventListener("mousemove", onMouseHoldMove);
 
-    return () => {
-      document.removeEventListener("mouseup", onMouseHoldUp);
-      document.removeEventListener("mousemove", onMouseHoldMove);
-    };
+      return () => {
+        document.removeEventListener("mouseup", onMouseHoldUp);
+        document.removeEventListener("mousemove", onMouseHoldMove);
+      };
+    }
   });
 
   return (

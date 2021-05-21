@@ -3,8 +3,12 @@
   width: 100vw;
   height: calc(100% - 162px);
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   overflow: hidden;
+
+  @include media(lg) {
+    flex-direction: row;
+  }
 }
 
 .split-pane-right,
@@ -24,7 +28,11 @@
   background-color: #fff;
   background-size: 100% 1.2em;
   z-index: 10;
-  overflow-y: scroll;
+  overflow: scroll;
+
+  @include media(lg) {
+    overflow-x: hidden;
+  }
 }
 
 .separator-col {

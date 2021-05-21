@@ -1,5 +1,4 @@
 import React from "react";
-import PropTypes from "prop-types";
 import { Helmet } from "react-helmet";
 import { useStaticQuery, graphql } from "gatsby";
 
@@ -18,8 +17,6 @@ const Layout = ({ title, children }) => {
             }
         `
     );
-    
-    // const { title } = data.site.siteMetadata;
    
     return (
         <div>
@@ -37,9 +34,5 @@ const Layout = ({ title, children }) => {
         </div>
     );
 };
-
-// Layout.propTypes = {
-//     children: PropTypes.func
-// };
 
 export default Layout; 
