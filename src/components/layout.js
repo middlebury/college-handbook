@@ -23,11 +23,7 @@ const Layout = ({ title, children }) => {
             <Helmet>
                 <title>{title}</title>
                 <meta name="description" content={data.site.siteMetadata.description} />
-                <link 
-                    href="https://fonts.googleapis.com/css?family=Domine:400|Open+Sans:400,700"
-                    rel="stylesheets"
-                    type="text/css"
-                />
+                <link href="https://fonts.googleapis.com/css2?family=Domine:wght@400;700&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
             </Helmet>
             {children}

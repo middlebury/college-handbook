@@ -1,10 +1,11 @@
 import React from "react";
 import { navigate } from "gatsby";
 
-const SearchResults = ({ results, expandCallback }) => {
+const SearchResults = ({ results, setResults, expandCallback }) => {
     const handleClick = (e, slug) => {
         e.preventDefault();
         navigate(`${slug}`);
+        setResults([]);
         expandCallback(slug);
     };
 

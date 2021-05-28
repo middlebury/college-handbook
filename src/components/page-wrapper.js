@@ -12,7 +12,9 @@ import CheckboxTree from 'react-checkbox-tree';
 import { nodes } from '../data/handbook';
 import { navigate } from 'gatsby';
 import SearchResults from "./search-results";
+// import SearchBar from "./search-bar";
 import { useStaticQuery, graphql } from "gatsby";
+import { check } from "prettier";
 
 const PageWrapper = (props) => {
     const [checked, setChecked] = useState([]);
@@ -22,8 +24,10 @@ const PageWrapper = (props) => {
     const [value, setValue] = useState('');
     const [currentClass, setCurrentClass] = useState('');
     const [results, setResults] = useState([]);
+    const [printResults, setPrintResults] = useState('');
     const prevClass = useRef();
     let allNodes = Object.values(nodes);
+    let buffer = '';
 
     const data = useStaticQuery(graphql`
         query {
@@ -34,6 +38,7 @@ const PageWrapper = (props) => {
         }
     `);
 
+    const store = Object.values(data.localSearchPages.store);
     const handlePageLoad = (slug) => {
         let url = slug ? slug.split('/') : window.location.href.split('/');
         if (url[url.length-1] === "") { url.pop() }
@@ -84,15 +89,6 @@ const PageWrapper = (props) => {
         } 
     }, [value]);
 
-    // useEffect (() => {
-    //     if(page.parent && expanded.includes(page.parent.value)) {
-    //         let element = document.getElementsByClassName(currentClass)[0];
-    //         if(element !== undefined) {
-    //             element.children[0].children[2].classList.add("active");
-    //         }
-    //     }
-    // }, [expanded]);
-
     useEffect (() => {
         handlePageLoad(expand);
     }, [expand]);
@@ -105,11 +101,9 @@ const PageWrapper = (props) => {
 
     const handleHighlight = (className) => {
         if (prevClass.current !== "" && prevClass.current !== undefined && document.getElementsByClassName(prevClass.current)[0] !== undefined) {
-            console.log(prevClass.current);
             document.getElementsByClassName(prevClass.current)[0].children[0].children[2].classList.remove("active");
         }
         if(document.getElementsByClassName(className)[0] !== undefined) {
-            console.log(currentClass);
             document.getElementsByClassName(className)[0].children[0].children[2].classList.add("active");
         }
         
@@ -122,6 +116,14 @@ const PageWrapper = (props) => {
         }
     };
 
+    const handleChecked = (checked) => {
+        for (let i = 0; i < checked.length; i++) {
+            let ele = store.map((obj) => {return obj.slug}).indexOf(`/pages/${checked[i]}`);
+            buffer = buffer.concat(`<br><h2>${store[ele].title}</h2>`, store[ele].html);
+        }
+        setPrintResults(buffer);
+    }
+ 
     return (
         <Layout title={props.path === '/' ? 'Middlebury College Handbook' : props.data?.markdownRemark?.frontmatter.title}>
             <div className="App">
@@ -132,20 +134,21 @@ const PageWrapper = (props) => {
                         valueCallback={(value) => {setValue(value)}}
                         localSearchPages={data.localSearchPages}
                         setResults={setResults}
+                        printResults={printResults}
                     /> 
                     <SplitPane className="split-pane-row">
                         <SplitPaneLeft>
-                            <SearchResults 
-                                results={results} 
-                                valueCallback={(value) => {setValue(value)}}
-                                expandCallback = {(expand) => {setExpand(expand)}}
-                            />
                             <CheckboxTree
                                 nodes={nodes}
+                                checkModel='all'
                                 checked={checked}
                                 expanded={expanded}
+                                expandOnClick
                                 showNodeIcon={false}
-                                onCheck={checked => setChecked(checked)}
+                                onCheck={checked => {
+                                    setChecked(checked);
+                                    handleChecked(checked);
+                                }}
                                 onExpand={expanded => setExpanded(expanded)}
                                 onClick={targetNode => {
                                     navigate(`/pages/${targetNode.value}`);
@@ -158,7 +161,16 @@ const PageWrapper = (props) => {
                         </SplitPaneLeft>
                         <Divider className="separator-col" />
                         <SplitPaneRight>
-                            {props.children}
+                            {
+                                results.length === 0 ?
+                                props.children :
+                                <SearchResults 
+                                    results={results}
+                                    setResults={setResults} 
+                                    valueCallback={(value) => {setValue(value)}}
+                                    expandCallback = {(expand) => {setExpand(expand)}}
+                                />
+                            }
                         </SplitPaneRight>
                     </SplitPane>
                 <Footer />

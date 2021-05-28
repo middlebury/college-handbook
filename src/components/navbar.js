@@ -65,7 +65,11 @@ const Navbar = (props) => {
         doc.open();
         doc.write('<html><head><title>' + document.title  + '</title>');
         doc.write('</head><body >');
-        doc.write(divText);
+        if (props.printResults.length === 0) {
+            doc.write(divText);
+        } else {
+            doc.write(props.printResults);
+        }
         doc.write('</body></html>');
         doc.close();
         myWindow.focus(); // necessary for IE >= 10*/
@@ -97,7 +101,7 @@ const Navbar = (props) => {
                         valueCallback={props.valueCallback}
                     />
                     <h2 style={{color:'black'}} className="navbar__heading">
-                        <span style={{cursor:'pointer'}} onClick={(e)=>{navigate('/'); props.valueCallback('/');}}>Middlebury College Handbook</span>
+                        <button style={{cursor:'pointer', backgroundColor: 'none', color: 'inherit', border: 'none', padding: '0', font: 'inherit'}} onClick={(e)=>{navigate('/'); props.valueCallback('/');}}>Middlebury College Handbook</button>
                     </h2>
                 </div>
                 <div className="navbar__buttons">

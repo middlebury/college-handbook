@@ -8,12 +8,14 @@
 
   @include media(lg) {
     flex-direction: row;
+    min-height: 90vh;
+    max-height: 90vh;
   }
 }
 
 .split-pane-right,
 .split-pane-left {
-  flex: 1;
+  // flex: 1;
   overflow: hidden;
   padding: 20px;
 }
@@ -21,7 +23,6 @@
 .split-pane-left {
   min-width: 25vw;
   overflow-y: auto;
-  // min-width: 350px;
 }
 
 .split-pane-right {
@@ -29,7 +30,8 @@
   background-size: 100% 1.2em;
   z-index: 10;
   overflow: scroll;
-
+  width: 100%;
+  
   @include media(lg) {
     overflow-x: hidden;
   }
@@ -37,8 +39,11 @@
 
 .separator-col {
   border: 5px solid lighten($gray, 30%);
-  cursor: col-resize;
   z-index: 10;
+
+  @include media(lg){
+    cursor: col-resize;
+  }
 }
 
 .separator-row {
@@ -49,16 +54,6 @@
 ul li {
   margin: 1rem;
   // list-style-type: square;
-}
-
-ul a {
-  text-decoration: none;
-  color: darkblue;
-  font-size: large;
-}
-
-ul a:hover {
-  color: black;
 }
 
 blockquote {

@@ -19,6 +19,29 @@ $spacers: (
   4: 6rem
 );
 
+$spacing-0: 0 !default;
+$spacing-1: rem(4) !default;
+$spacing-2: rem(8) !default;
+$spacing-3: rem(16) !default;
+$spacing-4: rem(24) !default;
+$spacing-5: rem(32) !default;
+$spacing-6: rem(40) !default;
+$spacing-7: rem(48) !default;
+$spacing-8: rem(64) !default;
+$spacing-9: rem(96) !default;
+
+$spacing: (
+  0: $spacing-0,
+  1: $spacing-1,
+  2: $spacing-2,
+  3: $spacing-3,
+  4: $spacing-4,
+  5: $spacing-5,
+  6: $spacing-6,
+  7: $spacing-7,
+  8: $spacing-8,
+  9: $spacing-9
+);
 
 // Font families
 $font-family-sans-serif: ('open sans', helvetica, arial, sans-serif);

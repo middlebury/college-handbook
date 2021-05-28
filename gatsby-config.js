@@ -60,20 +60,22 @@ module.exports = {
               }
               excerpt
               rawMarkdownBody
+              html
             }
           }
         }
         `,
         ref: 'id',
         index: ['slug', 'title'],
-        store: ['id', 'slug', 'title', 'body', 'excerpt'],
+        store: ['id', 'slug', 'title', 'body', 'excerpt', 'html'],
         normalizer: ({ data }) =>
           data.allMarkdownRemark.nodes.map((node) => ({
             id: node.id,
             slug: node.frontmatter.slug,
             title: node.frontmatter.title,
             body: node.rawMarkdownBody,
-            excerpt: node.excerpt
+            excerpt: node.excerpt,
+            html: node.html
           })),
       },
     },

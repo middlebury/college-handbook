@@ -29,7 +29,7 @@ collections:
   - name: 'miis-policies'
     label: 'Policies for the Institute of International Studies'
     folder: 'content/iv.-policies-for-the-institute'
-    path: '{{slug}}/'
+    path: '{{slug}}/{{slug}}/'
     create: true
     fields:
       - { label: 'Title', name: 'title', default: 'document name', widget: 'string', hint: 'Title field is for naming emails within Netlify. It is not displayed in the email.', required: false }
@@ -47,7 +47,7 @@ collections:
   - name: 'undergraduate-college'
     label: 'Policies for the Undergraduate College'
     folder: 'content/ii-ug-college-policies'
-    path: '{{slug}}/{{slug}}/'
+    path: '{{slug}}/{{slug}}/{{slug}}/'
     create: true
     fields:
       - { label: 'Title', name: 'title', default: 'document name', widget: 'string', hint: 'Title field is for naming emails within Netlify. It is not displayed in the email.', required: false }

@@ -13,7 +13,7 @@ const SearchBar = ({ localSearchPages, setResults }) => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        setResults(results.slice(0, 10));
+        setResults(results.slice(0, 15));
     };
 
     return (
