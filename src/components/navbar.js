@@ -101,7 +101,7 @@ const Navbar = (props) => {
                         valueCallback={props.valueCallback}
                     />
                     <h2 style={{color:'black'}} className="navbar__heading">
-                        <button style={{cursor:'pointer', backgroundColor: 'none', color: 'inherit', border: 'none', padding: '0', font: 'inherit'}} onClick={(e)=>{navigate('/'); props.valueCallback('/');}}>Middlebury College Handbook</button>
+                        <button style={{cursor:'pointer', backgroundColor: '#fff', color: 'inherit', border: 'none', padding: '0', font: 'inherit'}} onClick={(e)=>{navigate('/'); props.valueCallback('/');}}>Middlebury College Handbook</button>
                     </h2>
                 </div>
                 <div className="navbar__buttons">
