@@ -10,7 +10,7 @@ const SearchResults = ({ results, setResults, expandCallback }) => {
     };
 
     return (
-        <div className="search-results">
+        <div aria-label="Search Results" className="search-results">
             {results.length === 0 ? (
                 <div className="search-results__item">
                     <p>0 Results</p>

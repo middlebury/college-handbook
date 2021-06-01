@@ -101,32 +101,32 @@ const Navbar = (props) => {
                         valueCallback={props.valueCallback}
                     />
                     <h2 style={{color:'black'}} className="navbar__heading">
-                        <button style={{cursor:'pointer', backgroundColor: '#fff', color: 'inherit', border: 'none', padding: '0', font: 'inherit'}} onClick={(e)=>{navigate('/'); props.valueCallback('/');}}>Middlebury College Handbook</button>
+                        <button aria-label='Home' style={{cursor:'pointer', backgroundColor: '#fff', color: 'inherit', border: 'none', padding: '0', font: 'inherit'}} onClick={(e)=>{navigate('/'); props.valueCallback('/');}}>Middlebury College Handbook</button>
                     </h2>
                 </div>
                 <div className="navbar__buttons">
-                    <button className="navbar__button" onClick={(e) => {handleFont(e, 'increase')}}>
+                    <button aria-label='Text Zoom In' className="navbar__button" onClick={(e) => {handleFont(e, 'increase')}}>
                         <FaFont />
                         <span style={{margin:'0px', fontSize:'16pt', verticalAlign:'super'}}>+</span>
                     </button>
-                    <button className="navbar__button" onClick={(e) => {handleFont(e, 'decrease')}}>
+                    <button aria-label='Text Zoom Out' className="navbar__button" onClick={(e) => {handleFont(e, 'decrease')}}>
                         <FaFont />
                         <span style={{margin:'0px', fontSize:'16pt', verticalAlign:'super'}}>-</span>
                     </button>
-                    <button className="navbar__button" onClick={handlePrint}>
+                    <button aria-label='Print Page' className="navbar__button" onClick={handlePrint}>
                         <FaPrint />
                     </button>
                     <span style={{fontSize:'30px'}}>|</span>
-                    <button className="navbar__button" onClick={(e) => handleClick(e, 'fast-backward')}>
+                    <button aria-label='Skip to first page' className="navbar__button" onClick={(e) => handleClick(e, 'fast-backward')}>
                         <FaStepBackward />
                     </button>
-                    <button className="navbar__button" onClick={(e) => handleClick(e, 'backward')}>
+                    <button aria-label='Previous Page' className="navbar__button" onClick={(e) => handleClick(e, 'backward')}>
                         <FaBackward />
                     </button>
-                    <button className="navbar__button" onClick={(e) => handleClick(e, 'forward')}>
+                    <button aria-label='Next Page' className="navbar__button" onClick={(e) => handleClick(e, 'forward')}>
                         <FaForward />
                     </button>
-                    <button className="navbar__button" onClick={(e) => handleClick(e, 'fast-forward')}>
+                    <button aria-label='Skip to last page' className="navbar__button" onClick={(e) => handleClick(e, 'fast-forward')}>
                         <FaStepForward />
                     </button>
                 </div>

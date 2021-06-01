@@ -22,8 +22,9 @@ export const SplitPaneLeft = ({ children, ...props }) => {
   }
   
   useEffect (() => {
+    if(document.documentElement.clientWidth >= 1024) {
       window.addEventListener('resize', resizeSection);
-      
+    }
       return () => {
         window.removeEventListener('resize', resizeSection);
       }
@@ -46,19 +47,19 @@ export const SplitPaneLeft = ({ children, ...props }) => {
   }, [clientWidth]);
 
   return ( 
-      <div {...props} className="split-pane-left" ref={topRef}>
+      <aside {...props} className="split-pane-left" ref={topRef}>
         {children}
-      </div>
+      </aside>
     );
 };
 
 export const SplitPaneRight = ({children, ...props}) => {
   return (
-    <div {...props} className="split-pane-right" id="right-plane">
+    <main {...props} className="split-pane-right" id="right-plane" aria-label={children?.props?.data?.markdownRemark.frontmatter.title}>
       <div id="print-section">
         {children}
       </div>
-    </div>
+    </main>
   );
 };
 

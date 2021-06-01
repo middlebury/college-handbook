@@ -8,6 +8,7 @@
 .midd-footer__list {
     padding-left:0;
     margin: 0;
+    list-style-type: none;
   @include media(lg) {
     display: flex;
     justify-content: flex-end;
