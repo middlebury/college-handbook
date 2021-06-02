@@ -1,10 +1,9 @@
 ---
-slug: "/pages/iii.-policies-for-the-language-schools/a.-student-life-policies"
-date: "2021-05-01"
-title: "A. Student Conduct Policies"
+slug: /pages/iii.-policies-for-the-language-schools/a.-student-life-policies
+date: 2021-05-01
+title: A. Student Conduct Policies
 ---
-
-All Middlebury Language Schools students are subject to the [<span>Middlebury-wide Policies</span>](http://www.middlebury.edu/about/handbook/policies-for-all) in the Middlebury Handbook. In addition, students are subject to the policies listed below:
+All Middlebury Language Schools students are subject to the [Middlebury-wide Policies](http://www.middlebury.edu/about/handbook/policies-for-all) in the Middlebury Handbook. In addition, students are subject to the policies listed below:
 
 [Community Standards](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/a.-introductory-matters#community-standards)
 
