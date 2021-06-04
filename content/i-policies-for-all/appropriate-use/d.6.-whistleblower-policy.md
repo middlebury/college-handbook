@@ -1,9 +1,8 @@
 ---
-slug: "/pages/i-policies-for-all/appropriate-use/d.6.-whistleblower-policy"
-date: "2021-05-01"
-title: "D.6. Whistleblower Policy"
+slug: /pages/i-policies-for-all/appropriate-use/d.6.-whistleblower-policy
+date: 2021-05-01
+title: D.6. Whistleblower Policy
 ---
-
 #### **Policy Statement**
 
 Middlebury College has a deep commitment to responsible stewardship of its financial resources and accountability for the public and private support that enables the College to pursue its mission.  Middlebury College is committed to compliance with the laws and regulations to which it is subject, and to promulgate College policies and procedures to interpret and apply these laws and regulations in the College setting.   
@@ -40,26 +39,24 @@ Consultation with the College’s general counsel is required before negotiating
 
 For questions about the policy, contact:
 
-Enterprise Risk Management  
-Old Chapel  
-Middlebury, VT 05753  
-Phone: 802-443-5001  
+Enterprise Risk Management\
+Old Chapel\
+Middlebury, VT 05753\
+Phone: 802-443-5001\
 [vprisk@middlebury.edu](mailto:vprisk@middlebury.edu)
 
 #### **Related Documents / Policies**
 
 **Code of Conduct for Employees**
 
-[http://www.middlebury.edu/about/handbook/ug-college-policies/commun-policies/empl-conduct](http://www.middlebury.edu/about/handbook/ug-college-policies/commun-policies/empl-conduct)<span style="text-decoration:underline">  
-
-</span>
+<http://www.middlebury.edu/about/handbook/ug-college-policies/commun-policies/empl-conduct>
 
 **Misconduct in Research – Policies and Procedures**
 
-[http://www.middlebury.edu/about/handbook/ug-college-policies/faculty/research_misconduct](http://www.middlebury.edu/about/handbook/ug-college-policies/faculty/research_misconduct)
+<http://www.middlebury.edu/about/handbook/ug-college-policies/faculty/research_misconduct>
 
 **Anti-Harassment and Discrimination Policy**
 
-[http://www.middlebury.edu/about/handbook/policies-for-all/non-discrim-policies/anti-harassment-discrimin](http://www.middlebury.edu/about/handbook/policies-for-all/non-discrim-policies/anti-harassment-discrimin)
+<http://www.middlebury.edu/about/handbook/policies-for-all/non-discrim-policies/anti-harassment-discrimin>
 
-_Updated May 3, 2019_
+*Updated May 3, 2019*
