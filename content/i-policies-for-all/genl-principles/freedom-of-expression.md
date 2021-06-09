@@ -1,14 +1,13 @@
 ---
-slug: "/pages/i-policies-for-all/genl-principles/freedom-of-expression"
-date: "2021-05-01"
-title: "A.5. Policy on Open Expression"
+slug: /pages/i-policies-for-all/genl-principles/freedom-of-expression
+date: 2021-05-01
+title: A.5. Policy on Open Expression
 ---
-
 <div class="field-item even">
 
 <span style="margin:0px">Middlebury is a community of learners that dedicates itself to creating a world with a robust and inclusive public sphere, including on our campuses.<span style="margin:0px"></span> A robust and inclusive public sphere is one where all voices can be heard and have the opportunity to contribute to the conversation.<span style="margin:0px"></span> Middlebury’s mission is to prepare students to lead engaged, consequential, and creative lives, to contribute to their communities, and to address the world’s most challenging problems.<span style="margin:0px"></span> This mission requires a learning environment where all community members practice engaging across difference, perspective taking, and critical thinking to expand their understanding of the range of attitudes, values, ideas, actions, issues, policies, and practices that exist on campus and in the world beyond.</span> <span style="margin:0px"><span style="margin:0px"> </span></span><span style="margin:0px">Learning occurs inside and outside the classroom, often involving public speech and action through which people affirm and enact their values.</span>
 
-<span style="margin:0px">Academic freedom is essential to Middlebury’s mission and freedom of expression is a vital component of academic freedom.<span style="margin:0px"></span> Campus community members engaging in open expression—and in response to the expression of others—are expected to do so in a way that affirms our three pillars of academic freedom, integrity, and respect.Protecting open expression does not mean that Middlebury approves of or endorses all views expressed, especially where the expression conflicts with our fundamental commitment to inclusivity – that the contributions of every community member are valued.<span style="margin:0px"></span> Moreover, there are legal limits on the range of expression permitted.<span style="margin:0px"></span> Speech that incites or threatens physical violence, speech that is defamatory, and forms of expression that violate our Anti-Harassment/Discrimination policy, are inconsistent with our educational mission and our shared community values. <span style="margin:0px"> </span>We recognize that open expression can result in hurt and harm to members of our community and our sense of shared purpose, and we continue to dedicate ourselves to making Middlebury a more inclusive community. </span>
+<span style="margin:0px">Academic freedom is essential to Middlebury’s mission and freedom of expression is a vital component of academic freedom. Campus community members engaging in open expression—and in response to the expression of others—are expected to do so in a way that affirms our three pillars of academic freedom, integrity, and respect.Protecting open expression does not mean that Middlebury approves of or endorses all views expressed, especially where the expression conflicts with our fundamental commitment to inclusivity – that the contributions of every community member are valued.<span style="margin:0px"></span> Moreover, there are legal limits on the range of expression permitted.<span style="margin:0px"></span> Speech that incites or threatens physical violence, speech that is defamatory, and forms of expression that violate our Anti-Harassment/Discrimination policy, are inconsistent with our educational mission and our shared community values. <span style="margin:0px"> </span>We recognize that open expression can result in hurt and harm to members of our community and our sense of shared purpose, and we continue to dedicate ourselves to making Middlebury a more inclusive community. </span>
 
 <span style="margin:0px">Campus community members planning to invite an outside speaker must review and follow the [Policy on Scheduling Middlebury Space for Events](http://www.middlebury.edu/about/handbook/policies-for-all/appropriate-use/d.7.-policy-on-scheduling-middlebury-space-for-events) and are responsible for communicating Middlebury’s expectations to invited guests.</span> <span style="margin:0px"> </span>
 
@@ -42,6 +41,6 @@ title: "A.5. Policy on Open Expression"
 
 <span style="margin:0px"><span style="margin:0px"><span>4.</span><span style="margin:0px"></span> </span></span>[<span>Open Expression Resources Page</span>](http://www.middlebury.edu/about/open-expression/speech-inclusion-resources)
 
-_<span>Effective 11-21-19</span>_
+*<span>Effective 11-21-19</span>*
 
 </div>
