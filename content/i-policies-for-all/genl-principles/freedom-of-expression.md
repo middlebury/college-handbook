@@ -11,7 +11,7 @@ title: A.5. Policy on Open Expression
 
 <span style="margin:0px">Campus community members planning to invite an outside speaker must review and follow the [Policy on Scheduling Middlebury Space for Events](http://www.middlebury.edu/pages/i-policies-for-all/appropriate-use/d.7.-policy-on-scheduling-middlebury-space-for-events) and are responsible for communicating Middlebury’s expectations to invited guests.</span> <span style="margin:0px"> </span>
 
-**<span style="margin:0px">Peaceful protest and demonstration are important forms of activism</span>**
+**Peaceful protest and demonstration are important forms of activism**
 
 <span style="margin:0px">Middlebury recognizes the historical importance of nonviolent public demonstration and protest. Activism enables community members to publicly display their concerns, their values and their aspirations. Middlebury supports the expression of one's own ideas and the response to others' ideas. We affirm the right to assemble peacefully to evince dissent and to call on others to take action.</span><span style="margin:0px"> </span>
 
