@@ -20,19 +20,19 @@ The subpages in this section apply to all members of the Middlebury community in
 
 <td>
 
-*   [C.1\. Emergency Preparedness for Middlebury Schools and Programs](/about/handbook/policies-for-all/health-safety/emerg-prepare)
-*   [C.2\. Threat Assessment and Response Policy](/about/handbook/policies-for-all/health-safety/tam-policy)
-*   [C.3\. Emergency Removals Policy](/about/handbook/policies-for-all/health-safety/emerg-removals)
-*   [C.4\. Demonstration Regulations](/about/handbook/policies-for-all/health-safety/demonst-protests)
+- [C.1\. Emergency Preparedness for Middlebury Schools and Programs](/pages/i-policies-for-all/health-safety/emerg-prepare)
+- [C.2\. Threat Assessment and Response Policy](/pages/i-policies-for-all/health-safety/tam-policy)
+- [C.3\. Emergency Removals Policy](/pages/i-policies-for-all/health-safety/emerg-removals)
+- [C.4\. Demonstration Regulations](/pages/i-policies-for-all/health-safety/demonst-protests)
 
 </td>
 
 <td>
 
-*   [C.5\. Minors on Campus Policy](/about/handbook/policies-for-all/health-safety/minors-on-campus)
-*   [C.6\. Weapons Policy](/about/handbook/policies-for-all/health-safety/weapons)
-*   [C.7\. Alcohol, Tobacco and Other Drugs](/about/handbook/policies-for-all/health-safety/alcohol-drugs)
-*   [C.8\. No Smoking Policy](/about/handbook/policies-for-all/health-safety/no-smoking)
+- [C.5\. Minors on Campus Policy](/pages/i-policies-for-all/health-safety/minors-on-campus)
+- [C.6\. Weapons Policy](/pages/i-policies-for-all/health-safety/weapons)
+- [C.7\. Alcohol, Tobacco and Other Drugs](/pages/i-policies-for-all/health-safety/alcohol-drugs)
+- [C.8\. No Smoking Policy](/pages/i-policies-for-all/health-safety/no-smoking)
 
 </td>
 

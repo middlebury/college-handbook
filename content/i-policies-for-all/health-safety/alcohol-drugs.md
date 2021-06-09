@@ -6,18 +6,18 @@ title: "C.7. Alcohol, Tobacco and Other Drugs"
 
 **September 9 2019**
 
-*   **[Introduction](http://www.middlebury.edu/about/handbook/student_policies/alcohol_drugs_policy#intro)**
-*   **[Policies](http://www.middlebury.edu/about/handbook/student_policies/alcohol_drugs_policy#policies)**
-*   **[Alcohol](http://www.middlebury.edu/about/handbook/student_policies/alcohol_drugs_policy#alcohol)**
-*   **[Drugs](http://www.middlebury.edu/about/handbook/student_policies/alcohol_drugs_policy#drugs)**
-*   **[Tobacco](http://www.middlebury.edu/about/handbook/student_policies/alcohol_drugs_policy#tobacco)**
-*   **[Disciplinary Sanctions for Students](http://www.middlebury.edu/about/handbook/student_policies/alcohol_drugs_policy#dfs)**
-*   **[Medical Amnesty Policy](http://www.middlebury.edu/about/handbook/student_policies/alcohol_drugs_policy#amensty)**
-*   **[Disciplinary Sanctions for Faculty and Staff](http://www.middlebury.edu/about/handbook/student_policies/alcohol_drugs_policy#dffs)**
-*   **[Health and Community Responsibility](http://www.middlebury.edu/about/handbook/student_policies/alcohol_drugs_policy#health)**
-*   **[Laws and Resources](http://www.middlebury.edu/about/handbook/student_policies/alcohol_drugs_policy#laws)**
+- **[Introduction](http://www.middlebury.edu/pages/student_policies/alcohol_drugs_policy#intro)**
+- **[Policies](http://www.middlebury.edu/pages/student_policies/alcohol_drugs_policy#policies)**
+- **[Alcohol](http://www.middlebury.edu/pages/student_policies/alcohol_drugs_policy#alcohol)**
+- **[Drugs](http://www.middlebury.edu/pages/student_policies/alcohol_drugs_policy#drugs)**
+- **[Tobacco](http://www.middlebury.edu/pages/student_policies/alcohol_drugs_policy#tobacco)**
+- **[Disciplinary Sanctions for Students](http://www.middlebury.edu/pages/student_policies/alcohol_drugs_policy#dfs)**
+- **[Medical Amnesty Policy](http://www.middlebury.edu/pages/student_policies/alcohol_drugs_policy#amensty)**
+- **[Disciplinary Sanctions for Faculty and Staff](http://www.middlebury.edu/pages/student_policies/alcohol_drugs_policy#dffs)**
+- **[Health and Community Responsibility](http://www.middlebury.edu/pages/student_policies/alcohol_drugs_policy#health)**
+- **[Laws and Resources](http://www.middlebury.edu/pages/student_policies/alcohol_drugs_policy#laws)**
 
-* * *
+---
 
 **<a name="intro" id="intro"></a>Introduction**  
 Middlebury is committed to promoting individual and community health, safety, and responsibility. We require all students and employees to observe local, state, and federal laws governing the possession, use, and furnishing of alcoholic beverages, tobacco and controlled substances, also referred to as illegal drugs, and failure to do so is prohibited. We are also committed to ensuring that, in accordance with the Drug-Free Schools and Community Act of 1989 and the Drug-Free Schools and Campuses Regulations, our policies concerning alcohol, tobacco and drugs contain clear statements about: (1) the standards of conduct prohibiting the unlawful possession, use, or distribution of tobacco, illegal drugs and alcohol by students and employees; (2) that Middlebury will impose disciplinary sanctions on students and employees who violate these policies (consistent with local, state, and federal law); (3) the applicable legal sanctions under local, state, or federal law for the unlawful possession or distribution of tobacco, illegal drugs and alcohol; and (4) health risks and information regarding tobacco, drug or alcohol counseling, treatment or rehabilitation, or reentry programs that are available to students and employees. When tobacco, drug, or alcohol violations occur, disciplinary sanctions will be imposed in accordance with this policy. Serious incidents that put a student or others at risk of harm, as well as repeated offenses, may require a more vigorous response, including referral to counseling or a treatment facility, a leave of absence, and/or disciplinary outcomes as appropriate.
@@ -60,13 +60,13 @@ j. Repeated unsafe intoxication.
 
 k. <span style="text-decoration:underline">Middlebury-College Specific</span>: The following actions are specifically prohibited at Middlebury College:
 
-1.  Violating party regulations. Party regulations may be found in the office of the Dean of Students and the Department of Public Safety, and at [go/party](http://www.middlebury.edu/student-life/community-living/residential-life/student-responsibilities-and-expectation/party-information). Small, informal gatherings held in individual rooms, suites, and small houses occupied by students of legal age, at which alcoholic beverages are consumed, do not have to be registered. Residents of the living space will be treated as "party hosts," and held responsible for the actions of individuals in attendance. Students are responsible for unregistered gatherings and related activities that occur in their rooms, whether or not they are present.  
+1.  Violating party regulations. Party regulations may be found in the office of the Dean of Students and the Department of Public Safety, and at [go/party](http://www.middlebury.edu/student-life/community-living/residential-life/student-responsibilities-and-expectation/party-information). Small, informal gatherings held in individual rooms, suites, and small houses occupied by students of legal age, at which alcoholic beverages are consumed, do not have to be registered. Residents of the living space will be treated as "party hosts," and held responsible for the actions of individuals in attendance. Students are responsible for unregistered gatherings and related activities that occur in their rooms, whether or not they are present.
 
-2.  For purposes of this policy, residential hallways are normally considered private spaces. Students of legal age may transport open alcohol containers for personal use within residence halls, but the use of hallways for parties is prohibited. Individual Commons may designate certain spaces in residence halls as senior commons rooms; these spaces will be considered private.  
+2.  For purposes of this policy, residential hallways are normally considered private spaces. Students of legal age may transport open alcohol containers for personal use within residence halls, but the use of hallways for parties is prohibited. Individual Commons may designate certain spaces in residence halls as senior commons rooms; these spaces will be considered private.
 
-3.  Possession of alcohol in first-year residence halls.  
+3.  Possession of alcohol in first-year residence halls.
 
-4.  Possession of kegs or common containers. Possession by students of kegs or common containers (e.g., punch bowls) without advance party registration with the appropriate office (see [go/party](http://www.middlebury.edu/student-life/community-living/residential-life/student-responsibilities-and-expectation/party-information)) is prohibited. Unauthorized kegs or common containers will be confiscated, along with taps, and the Department of Public Safety will return confiscated kegs and taps to the vendor.  
+4.  Possession of kegs or common containers. Possession by students of kegs or common containers (e.g., punch bowls) without advance party registration with the appropriate office (see [go/party](http://www.middlebury.edu/student-life/community-living/residential-life/student-responsibilities-and-expectation/party-information)) is prohibited. Unauthorized kegs or common containers will be confiscated, along with taps, and the Department of Public Safety will return confiscated kegs and taps to the vendor.
 
 5.  Multiple instances involving assignment to a sober friend, and single or multiple instances involving alcohol/drug-related transport to the hospital and/or to detoxification facilities may also result in disciplinary action, consistent with the Medical Amnesty Policy (below).
 
@@ -100,7 +100,7 @@ The following actions are prohibited:</span>
 
 <span>j. Repeated unsafe consumption and/or impairment.</span>
 
-<span>See also Middlebury's "[No Smoking Policy](http://www.middlebury.edu/about/handbook/policies-for-all/health-safety/no-smoking)"</span>
+<span>See also Middlebury's "[No Smoking Policy](http://www.middlebury.edu/pages/i-policies-for-all/health-safety/no-smoking)"</span>
 
 **<a name="disc_sanctions" id="disc_sanctions"></a>Disciplinary Sanctions: Students**
 
@@ -108,11 +108,11 @@ The following actions are prohibited:</span>
 
 Student wellness and overall health inform the College’s responses to the use of alcohol, tobacco and other drugs. As such, the primary goal of the conduct system is to educate and engage students by providing information, tools, and space for facilitated reflection. The College utilizes evidence-based educational opportunities to support informed decision making regarding students’ personal and academic success, as informed by Middlebury’s Community Standards, listed below.
 
-*   Cultivating respect and responsibility for self, others, and our shared environment;
-*   Encouraging personal and intellectual courage and growth;
-*   Manifesting integrity and honesty in all decisions and actions;
-*   Promoting healthy, safe, and balanced lifestyles; and
-*   Fostering a diverse and inclusive community committed to civility, open-mindedness and finding common ground.
+- Cultivating respect and responsibility for self, others, and our shared environment;
+- Encouraging personal and intellectual courage and growth;
+- Manifesting integrity and honesty in all decisions and actions;
+- Promoting healthy, safe, and balanced lifestyles; and
+- Fostering a diverse and inclusive community committed to civility, open-mindedness and finding common ground.
 
 To address concerning behaviors, students will complete an educational sanction designed to help them understand the effects of alcohol, tobacco and other drugs on their mind, body and community, and to reflect on their individual goals and values. Failure to complete educational sanctions will result in an additional charge of failure to engage and may affect the student’s current or future standing at Middlebury. Repeated documented incidents will result in a probationary period for students. Once a student has exhausted the educational interventions available to them through Middlebury, or refuses to engage in educational intervention methods, the student will, in effect, jeopardize their ability to remain a student at Middlebury and will likely face discipline up to and including suspension or expulsion.
 
@@ -124,15 +124,15 @@ Educational and/or preventative responses such as a group class, online course, 
 
 2\. Outcomes may vary depending on the nature, severity, and impact, actual or potential, of the policy violation(s) and the student’s conduct and health history.
 
-3\. The range of possible disciplinary sanctions, in addition to educational sanctions, is set forth and defined in the General Disciplinary Processes under “[Sanctions](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process#sanctions)” and, depending on the severity of the conduct, may also include referral for prosecution (as determined by the state’s attorney or other appropriate officials) and/or the completion of an appropriate rehabilitation program. Disciplinary sanctions may be assigned to students in addition to educational sanctions.
+3\. The range of possible disciplinary sanctions, in addition to educational sanctions, is set forth and defined in the General Disciplinary Processes under “[Sanctions](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process#sanctions)” and, depending on the severity of the conduct, may also include referral for prosecution (as determined by the state’s attorney or other appropriate officials) and/or the completion of an appropriate rehabilitation program. Disciplinary sanctions may be assigned to students in addition to educational sanctions.
 
 **Sanctions for Students at Middlebury's Language Schools, Schools Abroad, Bread Loaf, School of the Environment and MiddCORE Summer Programs**  
-Disciplinary sanctions for students enrolled in Middlebury programs other than the undergraduate program (e.g., Language Schools, Schools Abroad, Bread Loaf School of English, MiddCORE Summer program) will be issued in accordance with the disciplinary procedures applicable to the program in which the student is enrolled at the time of the incident. Sanctions may include warnings, reprimands, probationary status, a letter of official college discipline, suspension or expulsion (see also [Sanctions](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process#sanctions)). The disciplinary officials in those programs may, in their discretion, issue sanctions in accordance with the general outline of expected outcomes in the Sanctions chart referenced above (including educational outcomes).
+Disciplinary sanctions for students enrolled in Middlebury programs other than the undergraduate program (e.g., Language Schools, Schools Abroad, Bread Loaf School of English, MiddCORE Summer program) will be issued in accordance with the disciplinary procedures applicable to the program in which the student is enrolled at the time of the incident. Sanctions may include warnings, reprimands, probationary status, a letter of official college discipline, suspension or expulsion (see also [Sanctions](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process#sanctions)). The disciplinary officials in those programs may, in their discretion, issue sanctions in accordance with the general outline of expected outcomes in the Sanctions chart referenced above (including educational outcomes).
 
 **Sanctions for Students at the Middlebury Institute of International Studies at Monterey**  
-Disciplinary sanctions for students who violate this policy will be imposed in accordance with the procedures set forth in the [Student Conduct Disciplinary Process](http://www.middlebury.edu/about/handbook/iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process). While discipline is cumulative at the Institute, which may mean the assignment of greater sanctions for repeated or accumulated violations, it is not progressive. That is, depending on the severity of the violation, a student may receive any sanction, even for a first offense. Outcomes may vary depending on the nature, severity, and impact, actual or potential, of any of the violations and the student's conduct and health history. Sanctions could also include referral to an educational or rehabilitation program. 
+Disciplinary sanctions for students who violate this policy will be imposed in accordance with the procedures set forth in the [Student Conduct Disciplinary Process](http://www.middlebury.edu/pages/iv-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process). While discipline is cumulative at the Institute, which may mean the assignment of greater sanctions for repeated or accumulated violations, it is not progressive. That is, depending on the severity of the violation, a student may receive any sanction, even for a first offense. Outcomes may vary depending on the nature, severity, and impact, actual or potential, of any of the violations and the student's conduct and health history. Sanctions could also include referral to an educational or rehabilitation program.
 
-The range of possible sanctions is set forth and defined in the "[Sanctions](http://www.middlebury.edu/about/handbook/iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process/d.-sanctions-for-general-non-academic-offenses)" section of the [Student Conduct Disciplinary Process](http://www.middlebury.edu/about/handbook/iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process) and, depending on the severity of the conduct, may also include referral for prosecution (as determined by the state's attorney or other appropriate officials) and/or the completion of an appropriate rehabilitation program. These sanctions are defined in the Student Conduct Disciplinary process and include a warning, reprimand, probation, loss of privileges, fines, restitution, discretionary sanctions, suspension, expulsion, and revocation of admission and/or degree. The Institute may also temporarily withhold awarding a degree otherwise earned until the completion of the process set forth in the Student Conduct Disciplinary Process, including the completion of all sanctions imposed, if any. More than one of the sanctions listed above may be imposed for any single violation. For more information regarding sanctions, please see the Student Conduct Disciplinary Process.
+The range of possible sanctions is set forth and defined in the "[Sanctions](http://www.middlebury.edu/pages/iv-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process/d.-sanctions-for-general-non-academic-offenses)" section of the [Student Conduct Disciplinary Process](http://www.middlebury.edu/pages/iv-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process) and, depending on the severity of the conduct, may also include referral for prosecution (as determined by the state's attorney or other appropriate officials) and/or the completion of an appropriate rehabilitation program. These sanctions are defined in the Student Conduct Disciplinary process and include a warning, reprimand, probation, loss of privileges, fines, restitution, discretionary sanctions, suspension, expulsion, and revocation of admission and/or degree. The Institute may also temporarily withhold awarding a degree otherwise earned until the completion of the process set forth in the Student Conduct Disciplinary Process, including the completion of all sanctions imposed, if any. More than one of the sanctions listed above may be imposed for any single violation. For more information regarding sanctions, please see the Student Conduct Disciplinary Process.
 
 **<a name="amensty" id="amensty"></a>Medical Amnesty Policy**  
 Middlebury’s Medical Amnesty Policy is intended to encourage students to seek swift medical assistance for themselves and others without fear of penalty. Our primary concern is the health and safety of our students. We urge students not only to take care of their own well-being, but to behave in an equally responsible way with their peers.
@@ -146,19 +146,19 @@ This policy cannot protect students from action by law enforcement personnel, bu
 **<a name="dffs" id="dffs"></a>Disciplinary Sanctions: Faculty and Staff**  
 Disciplinary sanctions for faculty and staff will be imposed under Middlebury’s and the Institute's established disciplinary practices and procedures for members of the faculty and staff, as applicable. Disciplinary sanctions may include written warnings, written reprimands, completion of an appropriate rehabilitation program, termination of employment, and/or referral for prosecution (depending on the severity of the conduct). See also the following:
 
-[Employee Code of Conduct](http://www.middlebury.edu/about/handbook/ug-college-policies/commun-policies/empl-conduct)
+[Employee Code of Conduct](http://www.middlebury.edu/pages/ii-ug-college-policies/commun-policies/empl-conduct)
 
-[Progressive Discipline](http://www.middlebury.edu/about/handbook/ug-college-policies/employee/processes_development/progressive_discipline)
+[Progressive Discipline](http://www.middlebury.edu/pages/ii-ug-college-policies/employee/processes_development/progressive_discipline)
 
-[Discharge](http://www.middlebury.edu/about/handbook/ug-college-policies/employee/leaving_midd/discharge)
+[Discharge](http://www.middlebury.edu/pages/ii-ug-college-policies/employee/leaving_midd/discharge)
 
-[Faculty Misconduct](http://www.middlebury.edu/about/handbook/ug-college-policies/faculty)
+[Faculty Misconduct](http://www.middlebury.edu/pages/ii-ug-college-policies/faculty)
 
-[Middlebury Institute Employee Handbook](http://www.middlebury.edu/about/handbook/iv.-policies-for-the-institute/d.-employee-handbook)
+[Middlebury Institute Employee Handbook](http://www.middlebury.edu/pages/iv-policies-for-the-institute/d.-employee-handbook)
 
 [Employee Resources](https://www.middlebury.edu/institute/offices-services/human-resources/employee-resources)
 
-[Middlebury Institute Faculty Handbook](http://www.middlebury.edu/about/handbook/iv.-policies-for-the-institute/c.-faculty-handbook)
+[Middlebury Institute Faculty Handbook](http://www.middlebury.edu/pages/iv-policies-for-the-institute/c.-faculty-handbook)
 
 **<a name="health" id="health"></a>Health and Community Responsibility**  
 Middlebury believes that alcohol and other drug-related problems affect our entire community and that each of us has a responsibility to help safeguard the community health by respecting policy and intervening in situations of abuse. Any member of the Middlebury community having knowledge of an individual on campus who is abusing alcohol or in possession of or using illegal drugs, or misusing legal substances to cause impairment/hallucination, is urged to encourage the individual to seek counseling and/or medical assistance. All members of the community are also expected to help protect the community health by informing appropriate staff members of instances of alcohol and/or drug misuse, distribution, and/or sales.
@@ -174,4 +174,4 @@ For information specific to state and federal laws governing the use, possession
 
 [Middlebury Institute's Annual Drug-Free Schools and Communities Act Notice](https://www.middlebury.edu/institute/student-life/student-policies/annual-drug-free-schools-and-communities-act-notice)
 
-* * *
+---

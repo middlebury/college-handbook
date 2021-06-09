@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iii.-policies-for-the-language-schools/b.-academic-policies/b.8-student-records"
+slug: "/pages/iii-policies-for-the-language-schools/b.-academic-policies/b.8-student-records"
 date: "2021-05-01"
 title: "B.8 Grades and Transcripts"
 ---
@@ -12,7 +12,7 @@ Courses dropped after the end of the add/drop deadlines but on or before July 23
 
 A change in grade will only be allowed in a case of clerical error or for the reason of fairness to the student.Students who wish to appeal a course grade should consult with the instructor of the course and the director of the School. Students must write a letter stating the reasons for the appeal and should include copies of all relevant supporting materials. A Change of Grade Form must be completed by the instructor of the course and the director. Subsequent appeal may be made to the dean of the Language Schools whose decision is final. **Appeal must be made in the six months following receipt of the course final grade.**
 
-**NOTE:** Alll Language Schools courses are included in the Middlebury College GPA. (see [For Middlebury College Undergraduates](http://www.middlebury.edu/about/handbook/iii.-policies-for-the-language-schools/b.-academic-policies/b.5-for-middlebury-college-undergraduates))
+**NOTE:** Alll Language Schools courses are included in the Middlebury College GPA. (see [For Middlebury College Undergraduates](http://www.middlebury.edu/pages/iii-policies-for-the-language-schools/b.-academic-policies/b.5-for-middlebury-college-undergraduates))
 
 **Incompletes**
 

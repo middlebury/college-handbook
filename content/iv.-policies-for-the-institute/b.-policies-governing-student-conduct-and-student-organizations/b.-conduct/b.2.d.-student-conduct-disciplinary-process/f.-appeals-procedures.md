@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process/f.-appeals-procedures"
+slug: "/pages/iv-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process/f.-appeals-procedures"
 date: "2021-05-01"
 title: "F. Appeals Procedures"
 ---
@@ -12,13 +12,13 @@ Appeals are reviewed by different Institute officials and adjudicators than thos
 
 A student found responsible by the Conduct Judicial Board of violating MIIS policy has the right of appeal to the VPAA/DOI on one or more of the following grounds:
 
-*   discovery of significant new factual material not available to the board with original jurisdiction that could have affected the result; however, prior omission of factual information that the student knew or should reasonably have known about is not a ground for an appeal;
-*   procedural error where the error prevented fundamental fairness;
-*   abuse of discretion in the issuance of a sanction, meaning that the board imposed a sanction significantly disproportionate to the offense.
+- discovery of significant new factual material not available to the board with original jurisdiction that could have affected the result; however, prior omission of factual information that the student knew or should reasonably have known about is not a ground for an appeal;
+- procedural error where the error prevented fundamental fairness;
+- abuse of discretion in the issuance of a sanction, meaning that the board imposed a sanction significantly disproportionate to the offense.
 
 If any of the appeal grounds above are present, the VPAA/DOI or designee, in consultation with other relevant individuals (if needed) may identify the appropriate process for further adjudication. In cases where none of the appeals grounds have been met, the VPAA/DOI may deny the appeal.
 
-#### **2.  Procedures**
+#### **2. Procedures**
 
 A student found responsible for a Middlebury policy violation by the Conduct Judicial Board, may appeal the decision by submitting a written appeal to the VPAA/DOI within 10 business days of receipt of written notification of the board’s decision. The written notification must include evidence and/or arguments they believe support any of the three grounds for appeal listed above, and their explanation of the evidence or arguments.
 
@@ -32,9 +32,9 @@ For periods of the academic year when MIIS is not in regular session, dates for 
 
 #### **3\. Finality for All Appeals**
 
-*   If reconsideration is not granted, the original decision stands to take effect as of the date specified in the decision letter.
-*   All penalties are suspended during an appeal, except in emergency circumstances as discussed above.
-*   The board hearing an appeal may reverse a decision or mitigate sanctions, but may not increase a sanction.
-*   Decisions by the VPAA/DOI and the board hearing an appeal are final.
+- If reconsideration is not granted, the original decision stands to take effect as of the date specified in the decision letter.
+- All penalties are suspended during an appeal, except in emergency circumstances as discussed above.
+- The board hearing an appeal may reverse a decision or mitigate sanctions, but may not increase a sanction.
+- Decisions by the VPAA/DOI and the board hearing an appeal are final.
 
 </div>

@@ -14,13 +14,13 @@ title: "B. Policies for Undergraduate College Students"
 
 <td>
 
-*   [B.1\. Academic Policies](/about/handbook/ug-college-policies/ug-policies/academics)
+- [B.1\. Academic Policies](/pages/ii-ug-college-policies/ug-policies/academics)
 
 </td>
 
 <td>
 
-*   [B.2\. Policies Governing Student Conduct, Residential Life, and Student Organizations](/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies)
+- [B.2\. Policies Governing Student Conduct, Residential Life, and Student Organizations](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies)
 
 </td>
 

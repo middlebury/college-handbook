@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iv.-policies-for-the-institute/a.-academic-policies/a.7.-policies-concerning-enrollment-and-payment-fees/a.7.f.-auditing-courses"
+slug: "/pages/iv-policies-for-the-institute/a.-academic-policies/a.7.-policies-concerning-enrollment-and-payment-fees/a.7.f.-auditing-courses"
 date: "2021-05-01"
 title: "A.7.g. Auditing Courses"
 ---
@@ -10,4 +10,4 @@ Part-time students who wish to audit courses may do so by registering in the Rec
 
 The instructor of record establishes the student attendance requirements and required deliverables for auditing a course and has the right to refuse auditors. No credit is awarded for courses that are audited. The student’s permanent record shows an AU for audit if the student has met the instructor’s attendance requirements for awarding an AU. If the student fails to meet the instructor’s attendance requirements, the instructor of record so informs the Records Office and no record of the course appears on the student’s permanent transcript. Note: students in Translation and/or Interpretation may be required to audit only half of a four (4) credit course as part of their degree program, in which case the audit will be recorded as only two (2) credits.
 
-#### [Return to table of contents](http://www.middlebury.edu/about/handbook/iv.-policies-for-the-institute/a.-academic-policies/a.7.-policies-concerning-enrollment-and-payment-fees)
+#### [Return to table of contents](http://www.middlebury.edu/pages/iv-policies-for-the-institute/a.-academic-policies/a.7.-policies-concerning-enrollment-and-payment-fees)

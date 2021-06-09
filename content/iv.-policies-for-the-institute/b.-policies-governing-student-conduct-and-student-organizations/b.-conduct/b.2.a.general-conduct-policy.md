@@ -1,22 +1,22 @@
 ---
-slug: "/pages/iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.a.general-conduct-policy"
+slug: "/pages/iv-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.a.general-conduct-policy"
 date: "2021-05-01"
 title: "B.2.b. General Conduct Policy"
 ---
 
 #### **A. Respect for Persons**
 
-All students, as members of the Middlebury community, are expected to respect the dignity, freedom, and rights of others.  
+All students, as members of the Middlebury community, are expected to respect the dignity, freedom, and rights of others.
 
-Middlebury prohibits the use of violence against any individual, including dating misconduct, the negligent or reckless use of physical force, as well as the incitement or provocation to violence.  Middlebury also prohibits conduct that may reasonably be expected to exploit or coerce, including sexual exploitation, and/or domestic/dating misconduct.  Sexual exploitation occurs when a person takes sexual advantage of another person for the benefit of anyone other than that other person without that other person’s consent, such as recording video or audio of someone’s sexual activity, intimate body parts or nudity, without that person’s consent.  Domestic or dating misconduct is threatening or coercive behavior that does not involve violence but occurs in a domestic or dating relationship. 
+Middlebury prohibits the use of violence against any individual, including dating misconduct, the negligent or reckless use of physical force, as well as the incitement or provocation to violence.  Middlebury also prohibits conduct that may reasonably be expected to exploit or coerce, including sexual exploitation, and/or domestic/dating misconduct.  Sexual exploitation occurs when a person takes sexual advantage of another person for the benefit of anyone other than that other person without that other person’s consent, such as recording video or audio of someone’s sexual activity, intimate body parts or nudity, without that person’s consent.  Domestic or dating misconduct is threatening or coercive behavior that does not involve violence but occurs in a domestic or dating relationship.
 
-In addition, students may not engage in behavior that prevents someone’s ability to communicate or move freely, behavior that violates someone’s privacy; entering someone’s room or office without authorization or invitation, or stalking. Stalking is defined as two or more acts that would cause a reasonable person to fear for the person’s safety or the safety of others, OR to suffer substantial emotional distress.  Stalking can include non-consensual communication in any manner; pursuing, waiting or showing up uninvited in places frequented by the person; surveillance or voyeurism, trespassing, vandalism, non-consensual touching, threats, threats to harm oneself, and use of a third party to accomplish any of these actions.  
+In addition, students may not engage in behavior that prevents someone’s ability to communicate or move freely, behavior that violates someone’s privacy; entering someone’s room or office without authorization or invitation, or stalking. Stalking is defined as two or more acts that would cause a reasonable person to fear for the person’s safety or the safety of others, OR to suffer substantial emotional distress.  Stalking can include non-consensual communication in any manner; pursuing, waiting or showing up uninvited in places frequented by the person; surveillance or voyeurism, trespassing, vandalism, non-consensual touching, threats, threats to harm oneself, and use of a third party to accomplish any of these actions.
 
 Finally, behavior that violates common standards of decency, fails to comply with local laws or statutes, or demonstrates contempt for the generally accepted values of the intellectual community is prohibited.
 
 #### **B. Communicating with Honesty and Integrity**
 
-Middlebury’s General Conduct Standards and [Middlebury-Wide Policies](/about/handbook/policies-for-all)  include acting with integrity and honesty in all actions and communications relating to Middlebury. Therefore, providing information to any member of the Middlebury staff or faculty that an individual knows or reasonably should know is false or misleading is a serious violation of Middlebury policy.
+Middlebury’s General Conduct Standards and [Middlebury-Wide Policies](/pages/i-policies-for-all)  include acting with integrity and honesty in all actions and communications relating to Middlebury. Therefore, providing information to any member of the Middlebury staff or faculty that an individual knows or reasonably should know is false or misleading is a serious violation of Middlebury policy.
 
 #### **C. Respect for Middlebury’s Educational Function**
 

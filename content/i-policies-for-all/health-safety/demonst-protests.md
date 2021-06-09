@@ -115,7 +115,7 @@ Middlebury’s mission is to promote intellectual inquiry and exchange in accord
 
 5.  Middlebury may choose to record demonstrations, protests, rallies, etc., as it does a number of events, by photos and/or videos.  Such recording may occur through security cameras, whether stationary or not, with personal cameras, by Middlebury staff or local law enforcement, as well as other practical means. Documenting a demonstration provides protection both for those participating as evidence of peaceful activity and for Middlebury as evidence of any violation of policy, and is helpful for holding both participants and Middlebury accountable for compliance with all policies.
 
-6.  Community members may be asked for Middlebury-issued identification at any time, including during demonstrations, protests or other related events, by Middlebury officials to confirm that the person is a member of the community and has the ability to be on our campus. Students, specifically, are obligated under our [Handbook policies](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) to identify themselves when asked to do so by a Middlebury official, including Public Safety as well as other staff. Members of the public may also be asked for identification.
+6.  Community members may be asked for Middlebury-issued identification at any time, including during demonstrations, protests or other related events, by Middlebury officials to confirm that the person is a member of the community and has the ability to be on our campus. Students, specifically, are obligated under our [Handbook policies](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) to identify themselves when asked to do so by a Middlebury official, including Public Safety as well as other staff. Members of the public may also be asked for identification.
 
 7.  Public Safety staff are responsible for keeping the peace, in accordance with their departmental policies, as well as for coordinating with and supporting local law enforcement in order to keep the peace.  Public Safety has the authority to respond to acts of violence, threats of violence, or overcrowding as appropriate to protect the safety of Middlebury community members.  Public Safety ordinarily responds to substantially disruptive behavior by asking the person or persons to identify themselves and to stop the behavior, prior to documenting the person’s conduct as a violation of policy or taking further action, such as engaging law enforcement, as appropriate to the circumstances. Other Middlebury officials may also issue warnings to individuals or groups to facilitate enforcement of Middlebury’s Policy on Open Expression.
 
@@ -123,28 +123,28 @@ Middlebury’s mission is to promote intellectual inquiry and exchange in accord
 
 9.  Guidelines for Sanctions - Students
     <p style="padding-left:60px">a. The following guidelines are provided to ensure consistent and transparent
-            sanctions for students who violate the Policy on Open Expression and these Demonstration Regulations.
-            The recommended sanctions are typical examples and should not be read to prevent lesser sanctions for
-            less serious behavior, or greater penalties for more serious behavior. The range of sanctions below is
-            not an exhaustive list as other sanctions including loss or restriction of Middlebury privileges or
-            future Middlebury opportunities, educational/reparative assignments and/or fines or restitution may be
-            issued as appropriate to the circumstances (see also <a
-                    href="http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process#sanctions">Sanctions</a>).
-            Prior conduct and judicial history may also be taken into account in determining sanctions.
+    sanctions for students who violate the Policy on Open Expression and these Demonstration Regulations.
+    The recommended sanctions are typical examples and should not be read to prevent lesser sanctions for
+    less serious behavior, or greater penalties for more serious behavior. The range of sanctions below is
+    not an exhaustive list as other sanctions including loss or restriction of Middlebury privileges or
+    future Middlebury opportunities, educational/reparative assignments and/or fines or restitution may be
+    issued as appropriate to the circumstances (see also <a
+                        href="http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process#sanctions">Sanctions</a>).
+    Prior conduct and judicial history may also be taken into account in determining sanctions.
     </p>
     <p style="padding-left:90px">i.<em> </em>Warned about substantial disruption, asked to leave, leaves voluntarily
-            without further disruption: <em>Range is ordinarily no sanction; a reprimand may be appropriate for
-                    disruption clearly intended to prevent someone else’s expression.</em></p>
+    without further disruption: <em>Range is ordinarily no sanction; a reprimand may be appropriate for
+    disruption clearly intended to prevent someone else’s expression.</em></p>
     <p style="padding-left:90px">ii.<em> </em>Warned about substantial disruption, asked to leave, leaves
-            voluntarily though disruptively: <em>Range is ordinarily a reprimand to probationary status.</em></p>
+    voluntarily though disruptively: <em>Range is ordinarily a reprimand to probationary status.</em></p>
     <p style="padding-left:90px">iii. Warned, asked to leave, refuses and/or must be escorted or arrested by law
-            enforcement officers: <em>Range is ordinarily from probationary status to letter of official college
-                    discipline, depending on the severity of the disruption</em>.</p>
+    enforcement officers: <em>Range is ordinarily from probationary status to letter of official college
+    discipline, depending on the severity of the disruption</em>.</p>
     <p style="padding-left:90px">iv. Warned, asked to leave, refuses and/or must be escorted or arrested by law
-            enforcement and effectively prevents open expression: <em>Depending on the severity of disruption, range
-                    is ordinarily from a letter of official college discipline to suspension.</em></p>
+    enforcement and effectively prevents open expression: <em>Depending on the severity of disruption, range
+    is ordinarily from a letter of official college discipline to suspension.</em></p>
     <p style="padding-left:90px">v. Removed, including by arrest, due to physical violence against another person or
-            property damage: <em>Range is ordinarily from suspension to expulsion</em>.</p>
-For more information on the interpretation and enforcement of the [Open Expression Policy](http://www.middlebury.edu/about/handbook/policies-for-all/genl-principles/freedom-of-expression) and these Regulations, please see the related [Frequently Asked Questions](http://www.middlebury.edu/about/open-expression/faqs) and [Resources](http://www.middlebury.edu/about/open-expression/speech-inclusion-resources).
+    property damage: <em>Range is ordinarily from suspension to expulsion</em>.</p>
+    For more information on the interpretation and enforcement of the [Open Expression Policy](http://www.middlebury.edu/pages/i-policies-for-all/genl-principles/freedom-of-expression) and these Regulations, please see the related [Frequently Asked Questions](http://www.middlebury.edu/about/open-expression/faqs) and [Resources](http://www.middlebury.edu/about/open-expression/speech-inclusion-resources).
 
 _Effective 11-21-19_

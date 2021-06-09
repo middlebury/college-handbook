@@ -30,7 +30,7 @@ F = 0
 
 **e.** Honors, pass, fail: winter term independent projects and some designated winter term or summer study courses
 
-**f.** P (pass), does not count in the grade point average  
+**f.** P (pass), does not count in the grade point average
 
 Note: The Middlebury grade point average (GPA) is truncated at two decimal points; any values beyond the second decimal place are not considered in the GPA calculation.
 
@@ -38,7 +38,7 @@ Note: The Middlebury grade point average (GPA) is truncated at two decimal point
 
 All undergraduate students have the same probation and failure rules. These rules also apply to Middlebury undergraduates who enroll in Language Schools, Schools Abroad, Bread Loaf School of English, School of the Environment, and externally sponsored programs approved by the office of International Programs and Off-Campus Study. The Administration Committee will exercise considerable leniency in responding to first-year, first-term students and therefore will give strong consideration to readmitting a student who has received academic failure unless the student has demonstrated flagrant neglect of school work.
 
-_**Probation** (please also refer to the section on [Student Status](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/academics/student-status))**:**_
+_**Probation** (please also refer to the section on [Student Status](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/academics/student-status))**:**_
 
 2 Ds  
 1 D and 1 F  
@@ -46,7 +46,7 @@ D or F in winter term
 D or F in summer study  
 1 D or 1 F for students completing only three courses in term
 
-_**Failure** (please also refer to the section on [Student Status](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/academics/student-status))**:**_
+_**Failure** (please also refer to the section on [Student Status](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/academics/student-status))**:**_
 
 3 Ds  
 2 Fs  
@@ -86,7 +86,7 @@ When a course would have relatively little value unless followed by a second se
 
 Incompletes are issued only in unanticipated, exceptional circumstances that arise near the end of the term and when a student has been meeting the majority of course expectations. Incompletes are granted by the Commons dean, after consultation with the faculty member involved. In order for the dean to grant an incomplete, the faculty member will provide the dean and the Registrar's Office with a provisional grade that would be assigned if the remaining work in the course were not completed. When the faculty member submits grades for the course, s/he will submit an incomplete for the student.
 
-The dean will share the provisional grade with the student and will set the deadline for the submission of all remaining work, which will ordinarily be before the deadline for adding classes in the following Fall or Spring semester. The deadline may be no later than the deadline to drop classes in the following semester. Incompletes in winter term courses will follow the same procedures: the deadline for the submission of all remaining work may be no later than the deadline to drop classes in the Spring semester. It is the student's responsibility to ensure that all work is completed by the deadline.  Should the faculty member be unavailable to evaluate the remaining work, it will be the responsibility of the department chair or program director, or designee, to complete the evaluation of submitted work. If the course is not completed by the deadline, the provisional grade based on the work that has been completed will be recorded by the Registrar's Office. 
+The dean will share the provisional grade with the student and will set the deadline for the submission of all remaining work, which will ordinarily be before the deadline for adding classes in the following Fall or Spring semester. The deadline may be no later than the deadline to drop classes in the following semester. Incompletes in winter term courses will follow the same procedures: the deadline for the submission of all remaining work may be no later than the deadline to drop classes in the Spring semester. It is the student's responsibility to ensure that all work is completed by the deadline.  Should the faculty member be unavailable to evaluate the remaining work, it will be the responsibility of the department chair or program director, or designee, to complete the evaluation of submitted work. If the course is not completed by the deadline, the provisional grade based on the work that has been completed will be recorded by the Registrar's Office.
 
 If the Registrar's Office has not received either a provisional or a final grade by the deadline, the grade will ordinarily be recorded as an F. The Registrar's Office will notify the student that the grade has been recorded. Students seeking incompletes based on a disability or medical condition should be directed to the Student Accessibility Services (SAS) Office. When the SAS staff determines that an incomplete is a reasonable accommodation for a disability, the dean will be notified and will grant the incomplete, which should ordinarily follow the procedures described above, unless the SAS Office determines a modification is necessary.
 
@@ -104,13 +104,13 @@ Students wishing to protest a grade may do so by speaking first to the instructo
 
 **c.** **_Graduation honors_** (on the basis of cumulative grades from the Middlebury undergraduate, summer, and overseas schools, all other approved programs abroad, and approved programs of domestic off-campus study):
 
-**i.** _Cum laude:_ graduation average of 3.40 or higher
+**i.** *Cum laude:* graduation average of 3.40 or higher
 
-**ii.** _Magna cum laude:_ graduation average of 3.60 or higher
+**ii.** *Magna cum laude:* graduation average of 3.60 or higher
 
-**iii.** _Summa cum laude:_ graduation average of 3.80 or higher
+**iii.** *Summa cum laude:* graduation average of 3.80 or higher
 
-Standards for graduation honors are the same for all students eligible for a degree, regardless of the number of courses taken at Middlebury.  
+Standards for graduation honors are the same for all students eligible for a degree, regardless of the number of courses taken at Middlebury.
 
 Except for valedictory and salutatory honors, no class rank is computed for official College purposes. Transfer students are not eligible for valedictory or salutatory honors.
 
@@ -140,7 +140,7 @@ The transcript and information in the student file may be released to persons or
 
 A fee of $5 is charged for each official transcript requested. A request form is available at [http://go.middlebury.edu/transcript](http://go.middlebury.edu/transcript). Transcript requests are accepted by mail, and in person Monday through Friday in Forest Hall during regular office hours.  Students may also request a transcript through the online ordering system. An additional surcharge is applied to transcript orders placed via the online ordering system. Please plan on two days for processing requests, and longer during end of term grading periods.  Students and alumni continue to have access to their own academic records on BannerWeb. No transcript will be issued to students who are financially indebted to the College until satisfactory arrangements have been made with the Office of Student Financial Services.
 
-**11.  Registrar**  
+**11.  Registrar**
 
 **Registrar's Office**   
 E-mail: [registrar@middlebury.edu](mailto:registrar@middlebury.edu)   

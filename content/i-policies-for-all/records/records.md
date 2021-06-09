@@ -14,13 +14,13 @@ The subpages in this section apply to all members of the Middlebury community in
 
 <td>
 
-*   [E.1\. Student Privacy Rights Under U.S. Federal Law (FERPA)](/about/handbook/policies-for-all/records/ferpa)
+- [E.1\. Student Privacy Rights Under U.S. Federal Law (FERPA)](/pages/i-policies-for-all/records/ferpa)
 
 </td>
 
 <td>
 
-*   [E.2\. Access to Student Data for Research](/about/handbook/policies-for-all/records/student-data-for-research)
+- [E.2\. Access to Student Data for Research](/pages/i-policies-for-all/records/student-data-for-research)
 
 </td>
 

@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iv.-policies-for-the-institute/a.-academic-policies/a.8.-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation/a.8.g."
+slug: "/pages/iv-policies-for-the-institute/a.-academic-policies/a.8.-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation/a.8.g."
 date: "2021-05-01"
 title: "A.8.g. Return of Title IV (Federal) Funds"
 ---

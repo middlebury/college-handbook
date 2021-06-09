@@ -14,15 +14,15 @@ Policies in this section and its subsections are specifically for members of the
 
 <td>
 
-*   [A. Policies for the College Community](/about/handbook/ug-college-policies/commun-policies)
-*   [B. Policies for Undergraduate College Students](/about/handbook/ug-college-policies/ug-policies)
+- [A. Policies for the College Community](/pages/ii-ug-college-policies/commun-policies)
+- [B. Policies for Undergraduate College Students](/pages/ii-ug-college-policies/ug-policies)
 
 </td>
 
 <td>
 
-*   [C. Faculty Handbook](/about/handbook/ug-college-policies/faculty)
-*   [D. Employee Handbook](/about/handbook/ug-college-policies/employee)
+- [C. Faculty Handbook](/pages/ii-ug-college-policies/faculty)
+- [D. Employee Handbook](/pages/ii-ug-college-policies/employee)
 
 </td>
 

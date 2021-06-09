@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iii.-policies-for-the-language-schools/e.-policies-for-faculty"
+slug: "/pages/iii-policies-for-the-language-schools/e.-policies-for-faculty"
 date: "2021-05-01"
 title: "E. Policies for Faculty"
 ---
@@ -32,7 +32,7 @@ We urge you to refer students who seem to be experiencing trouble adjusting to t
 
 <span style="text-decoration:underline">Student Records</span>
 
-In accordance with [FERPA](http://www.middlebury.edu/about/handbook/policies-for-all/records/ferpa) (Family Educational Rights and Privacy Act of 1974), students or former students of Middlebury College have the right to inspect all educational records placed in their files after January 1975\. Note: For additional information, contact the Registrar's Office at ext. 5770.
+In accordance with [FERPA](http://www.middlebury.edu/pages/i-policies-for-all/records/ferpa) (Family Educational Rights and Privacy Act of 1974), students or former students of Middlebury College have the right to inspect all educational records placed in their files after January 1975\. Note: For additional information, contact the Registrar's Office at ext. 5770.
 
 <span style="text-decoration:underline">Class Lists</span>
 
@@ -44,15 +44,15 @@ Once you receive the revised lists, please check to ensure that adds and drops h
 
 <span style="text-decoration:underline">Course Changes</span>
 
-Students who wish to add or drop a course, or change from one section to another, must present you with add/drop cards for your signature and approval. The director or associate director of your School must also sign the cards. Please note the add/drop deadlines for [Middlebury campus programs](http://www.middlebury.edu/about/handbook/iii.-policies-for-the-language-schools/b.-academic-policies/b.4-registration) and [Bennington campus programs](http://www.middlebury.edu/about/handbook/iii.-policies-for-the-language-schools/b.-academic-policies/b.4-registration).
+Students who wish to add or drop a course, or change from one section to another, must present you with add/drop cards for your signature and approval. The director or associate director of your School must also sign the cards. Please note the add/drop deadlines for [Middlebury campus programs](http://www.middlebury.edu/pages/iii-policies-for-the-language-schools/b.-academic-policies/b.4-registration) and [Bennington campus programs](http://www.middlebury.edu/pages/iii-policies-for-the-language-schools/b.-academic-policies/b.4-registration).
 
 <span style="text-decoration:underline">Plagiarism</span>
 
-Please review Middlebury College's policies on [Academic Honesty](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/academics/acad-honesty), as U.S. institutions are very strict about these matters. In particular, please emphasize to your students how sources are to be cited, and what, if any, consultation about work may take place among students.
+Please review Middlebury College's policies on [Academic Honesty](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/academics/acad-honesty), as U.S. institutions are very strict about these matters. In particular, please emphasize to your students how sources are to be cited, and what, if any, consultation about work may take place among students.
 
 <span style="text-decoration:underline">Grades and Evaluations</span>
 
-Please conform carefully to the [grading system](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/academics/grades-transcripts) used at Middlebury College. If this system differs from that of your home institution, or if you are unfamiliar with U.S. grading practices, please discuss the matter with the director of your School.
+Please conform carefully to the [grading system](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/academics/grades-transcripts) used at Middlebury College. If this system differs from that of your home institution, or if you are unfamiliar with U.S. grading practices, please discuss the matter with the director of your School.
 
 Changes in grades are permitted only to correct clerical errors or to ensure fairness to a student. If you find it necessary to change a grade, you must obtain a grade change form from your School office and submit the completed form to the director of your School.
 
@@ -66,7 +66,7 @@ All work submitted by students must be their own. It is unacceptable for student
 
 The use of online dictionaries is acceptable because students are responsible for using the provided words or short phrases, choosing the most appropriate one, putting it in the proper grammatical context, and providing all necessary punctuation. A translation program, on the other hand, provides a complete phrase or longer piece of text; here a student has only to copy the provided words. Therefore, anything created by a translation program cannot be considered the student's own work and, such work will be considered academic misconduct, which is a serious offense and can result in punishment up to and including expulsion from the Language Schools.
 
-Middlebury Language Schools students are bound by the Middlebury [Honor Code](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/academics/acad-honesty).   
+Middlebury Language Schools students are bound by the Middlebury [Honor Code](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/academics/acad-honesty).   
 <span></span>
 
 <span style="text-decoration:underline">Grade Rosters</span>
@@ -80,4 +80,4 @@ All surveys or questionnaires, of any kind, involving faculty, students, or staf
 <span style="text-decoration:underline">Copyright and Fair Use Guidelines</span>
 
 U.S. law provides protection to authors, creators, and publishers of works of literature or art. The law also enumerates specific uses that do not infringe on copyright for purposes such as criticism, comment, news reporting, teaching, scholarship, or research (e.g. fair use). Middlebury College values and respects intellectual property rights, even as it recognizes an equal responsibility to advance the needs of scholarship and teaching within the framework of the law.  
-Please review the [Intellectual Property Policy.](http://www.middlebury.edu/about/handbook/policies-for-all/appropriate-use/intell-property)
+Please review the [Intellectual Property Policy.](http://www.middlebury.edu/pages/i-policies-for-all/appropriate-use/intell-property)

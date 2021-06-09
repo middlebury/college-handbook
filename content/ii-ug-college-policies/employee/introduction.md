@@ -14,9 +14,9 @@ Please select from the following content:
 
 <td>
 
-*   [1.1 Introduction](/about/handbook/ug-college-policies/employee/introduction/intro)
-*   [1.2 Middlebury College Expects](/about/handbook/ug-college-policies/employee/introduction/expects)
-*   [1.3 Middlebury College Offers](/about/handbook/ug-college-policies/employee/introduction/offers)
+- [1.1 Introduction](/pages/ii-ug-college-policies/employee/introduction/intro)
+- [1.2 Middlebury College Expects](/pages/ii-ug-college-policies/employee/introduction/expects)
+- [1.3 Middlebury College Offers](/pages/ii-ug-college-policies/employee/introduction/offers)
 
 </td>
 

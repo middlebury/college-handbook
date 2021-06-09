@@ -12,16 +12,16 @@ title: "B. Non-Discrimination Policies"
 
 <td>
 
-*   [B.1.a. Non-Discrimination Policy](/about/handbook/policies-for-all/non-discrim-policies/b.1.a.non-discrimination-policy)
-*   [B.1.b. Non-Discrimination Investigations & Resolutions Procedure](/about/handbook/policies-for-all/non-discrim-policies/anti-harassment-discrimin)
-*   [B.1.b (1) Title IX Investigation & Resolutions Policy](/about/handbook/policies-for-all/non-discrim-policies/b.1.b-1-title-ix-investigation-resolutions-policy)
+- [B.1.a. Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b.1.a.non-discrimination-policy)
+- [B.1.b. Non-Discrimination Investigations & Resolutions Procedure](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin)
+- [B.1.b (1) Title IX Investigation & Resolutions Policy](/pages/i-policies-for-all/non-discrim-policies/b.1.b-1-title-ix-investigation-resolutions-policy)
 
 </td>
 
 <td>
 
-*   [B.1.c. Americans with Disabilities Act Policy](/about/handbook/policies-for-all/non-discrim-policies/ada-policy)
-*   [B.1.d. Service and Assistance Animals Policy](/about/handbook/policies-for-all/non-discrim-policies/svc-assist-animals)
+- [B.1.c. Americans with Disabilities Act Policy](/pages/i-policies-for-all/non-discrim-policies/ada-policy)
+- [B.1.d. Service and Assistance Animals Policy](/pages/i-policies-for-all/non-discrim-policies/svc-assist-animals)
 
 </td>
 

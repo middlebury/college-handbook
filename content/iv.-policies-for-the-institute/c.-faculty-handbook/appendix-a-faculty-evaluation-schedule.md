@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iv.-policies-for-the-institute/c.-faculty-handbook/appendix-a-faculty-evaluation-schedule"
+slug: "/pages/iv-policies-for-the-institute/c.-faculty-handbook/appendix-a-faculty-evaluation-schedule"
 date: "2021-05-01"
 title: "Appendix A: Faculty Evaluation Schedule"
 ---
@@ -140,7 +140,7 @@ Faculty submission
 
 <td valign="top" width="246">
 
-Dean   
+Dean
 
 </td>
 
@@ -238,7 +238,7 @@ March 31
 
 <td valign="top" width="246">
 
-Administration Notification  
+Administration Notification
 
 </td>
 
@@ -272,7 +272,7 @@ Administration Notification  
 
 <td valign="top" width="246">
 
-Proposed names of external reviewers submitted by Candidate and Dean to the VPAA          
+Proposed names of external reviewers submitted by Candidate and Dean to the VPAA
 
 </td>
 
@@ -320,7 +320,7 @@ February 15
 
 <td valign="top" width="246">
 
-Dean   
+Dean
 
 </td>
 
@@ -336,7 +336,7 @@ February 28
 
 <td valign="top" width="246">
 
-FEC    
+FEC
 
 </td>
 
@@ -392,7 +392,7 @@ _Note: the faculty submission and administration notification dates (bolded abov
 
 <td valign="top" width="246">
 
-Sabbatical Leave 
+Sabbatical Leave
 
 </td>
 
@@ -408,7 +408,7 @@ September 15
 
 <td valign="top" width="246">
 
-Annual Review  
+Annual Review
 
 </td>
 
@@ -440,7 +440,7 @@ October 15
 
 <td valign="top" width="246">
 
-Promotion  
+Promotion
 
 </td>
 
@@ -472,7 +472,7 @@ January 15
 
 <td valign="top" width="246">
 
-Sabbatical Leave 
+Sabbatical Leave
 
 </td>
 
@@ -488,7 +488,7 @@ September 30
 
 <td valign="top" width="246">
 
-Contract Renewal 
+Contract Renewal
 
 </td>
 
@@ -538,7 +538,7 @@ February 15
 
 <td valign="top" width="246">
 
-Sabbatical Leave  
+Sabbatical Leave
 
 </td>
 
@@ -554,7 +554,7 @@ October 15
 
 <td valign="top" width="246">
 
-Annual Review  
+Annual Review
 
 </td>
 
@@ -570,7 +570,7 @@ March 15
 
 <td valign="top" width="246">
 
-Contract Renewal  
+Contract Renewal
 
 </td>
 
@@ -620,7 +620,7 @@ February 28
 
 <td valign="top" width="246">
 
-Sabbatical Leave 
+Sabbatical Leave
 
 </td>
 
@@ -636,7 +636,7 @@ November 30
 
 <td valign="top" width="246">
 
-Contract Renewal 
+Contract Renewal
 
 </td>
 
@@ -718,7 +718,7 @@ April 30
 
 <td valign="top" width="246">
 
-Promotion 
+Promotion
 
 </td>
 
@@ -734,6 +734,6 @@ June 30
 
 </table>
 
-*encompassing the provost, president and Board reviews where necessary
+\*encompassing the provost, president and Board reviews where necessary
 
 </div>

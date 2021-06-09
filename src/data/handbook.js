@@ -44,9 +44,9 @@ export const nodes = [
         children: [
           {
             value:
-              "i-policies-for-all/non-discrim-policies/b.1.a.non-discrimination-policy",
+              "i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy",
             label: "B.1.a. Non-Discrimination Policy",
-            className: "b.1.a.non-discrimination-policy",
+            className: "b-1-a-non-discrimination-policy",
           },
           {
             value:
@@ -57,9 +57,9 @@ export const nodes = [
           },
           {
             value:
-              "i-policies-for-all/non-discrim-policies/b.1.b-1-title-ix-investigation-resolutions-policy",
+              "i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy",
             label: "B.1.b (1). Title IX Investigation & Resolutions Policy",
-            className: "b.1.b-1-title-ix-investigation-resolutions-policy",
+            className: "b-1-b-1-title-ix-investigation-resolutions-policy",
           },
           {
             value: "i-policies-for-all/non-discrim-policies/ada-policy",
@@ -154,15 +154,15 @@ export const nodes = [
           },
           {
             value:
-              "i-policies-for-all/appropriate-use/d.6.-whistleblower-policy",
+              "i-policies-for-all/appropriate-use/d-6-whistleblower-policy",
             label: "D.6. Whistleblower Policy",
-            className: "d.6.-whistleblower-policy",
+            className: "d-6-whistleblower-policy",
           },
           {
             value:
-              "i-policies-for-all/appropriate-use/d.7.-policy-on-scheduling-middlebury-space-for-events",
+              "i-policies-for-all/appropriate-use/d-7-policy-on-scheduling-middlebury-space-for-events",
             label: "D.7. Policy on Scheduling Middlebury Space for Events",
-            className: "d.7.-policy-on-scheduling-middlebury-space-for-events",
+            className: "d-7-policy-on-scheduling-middlebury-space-for-events",
           },
         ],
       },
@@ -184,9 +184,9 @@ export const nodes = [
         ],
       },
       {
-        value: "i-policies-for-all/f.-required-disclosures",
+        value: "i-policies-for-all/f-required-disclosures",
         label: "F. Required Disclosures",
-        className: "f.-required-disclosures",
+        className: "f-required-disclosures",
       },
     ],
   },
@@ -221,9 +221,9 @@ export const nodes = [
             className: "department-sacs",
           },
           {
-            value: "ii-ug-college-policies/commun-policies/MCSC_Constitution",
+            value: "ii-ug-college-policies/commun-policies/mcsc-constitution",
             label: "A.5. Middlebury Staff Council (MSC) Constitution",
-            className: "MCSC_Constitution",
+            className: "mcsc-constitution",
           },
           {
             value: "ii-ug-college-policies/commun-policies/pets",
@@ -238,9 +238,9 @@ export const nodes = [
           },
           {
             value:
-              "ii-ug-college-policies/commun-policies/a.8.-committee-on-art-in-public-places",
+              "ii-ug-college-policies/commun-policies/a-8-committee-on-art-in-public-places",
             label: "A.8. Committee on Art in Public Places",
-            className: "a.8.-committee-on-art-in-public-places",
+            className: "a-8-committee-on-art-in-public-places",
           },
         ],
       },
@@ -343,9 +343,9 @@ export const nodes = [
             children: [
               {
                 value:
-                  "ii-ug-college-policies/ug-policies/res-life-conduct-policies/a.-introductory-matters",
+                  "ii-ug-college-policies/ug-policies/res-life-conduct-policies/a-introductory-matters",
                 label: "B.2.a. Introductory Matters",
-                className: "a.-introductory-matters",
+                className: "a-introductory-matters",
               },
               {
                 value:
@@ -367,9 +367,9 @@ export const nodes = [
               },
               {
                 value:
-                  "ii-ug-college-policies/ug-policies/res-life-conduct-policies/b.2.e.-sanctions",
+                  "ii-ug-college-policies/ug-policies/res-life-conduct-policies/b-2-e-sanctions",
                 label: "B.2.e. Sanctions",
-                className: "b.2.e.-sanctions",
+                className: "b-2-e-sanctions",
               },
               {
                 value:
@@ -387,9 +387,9 @@ export const nodes = [
               },
               {
                 value:
-                  "ii-ug-college-policies/ug-policies/res-life-conduct-policies/g.-student-health-policies",
+                  "ii-ug-college-policies/ug-policies/res-life-conduct-policies/g-student-health-policies",
                 label: "B.2.g. Student Health Policies",
-                className: "g.-student-health-policies",
+                className: "g-student-health-policies",
               },
               {
                 value:
@@ -417,14 +417,14 @@ export const nodes = [
             className: "faculty-committees",
           },
           {
-            value: "ii-ug-college-policies/faculty/faculty_rules",
+            value: "ii-ug-college-policies/faculty/faculty-rules",
             label: "C.3. Rules of Appointment and Tenure for Academic Faculty",
-            className: "faculty_rules",
+            className: "faculty-rules",
           },
           {
-            value: "ii-ug-college-policies/faculty/pe_faculty_rules",
+            value: "ii-ug-college-policies/faculty/pe-faculty-rules",
             label: "C.4. Rules of Reappointment for Physical Education Faculty",
-            className: "pe_faculty_rules",
+            className: "pe-faculty-rules",
           },
           {
             value: "ii-ug-college-policies/faculty/appeals",
@@ -437,49 +437,49 @@ export const nodes = [
             className: "misconduct",
           },
           {
-            value: "ii-ug-college-policies/faculty/leave_program",
+            value: "ii-ug-college-policies/faculty/leave-program",
             label: "C.7. Research Leave Program",
-            className: "leave_program",
+            className: "leave-program",
           },
           {
-            value: "ii-ug-college-policies/faculty/faculty_development",
+            value: "ii-ug-college-policies/faculty/faculty-development",
             label: "C.8. Faculty Professional Development",
-            className: "faculty_development",
+            className: "faculty-development",
           },
           {
-            value: "ii-ug-college-policies/faculty/dep_care_policy",
+            value: "ii-ug-college-policies/faculty/dep-care-policy",
             label: "C.9. Dependent Care Program",
-            className: "dep_care_policy",
+            className: "dep-care-policy",
           },
           {
-            value: "ii-ug-college-policies/faculty/research_policies",
+            value: "ii-ug-college-policies/faculty/research-policies",
             label: "C.10. Research Policies",
-            className: "research_policies",
+            className: "research-policies",
           },
           {
-            value: "ii-ug-college-policies/faculty/research_misconduct",
+            value: "ii-ug-college-policies/faculty/research-misconduct",
             label: "C.11. Misconduct in Research - Policies and Procedures",
-            className: "research_misconduct",
+            className: "research-misconduct",
           },
           {
-            value: "ii-ug-college-policies/faculty/reprints_subventions",
+            value: "ii-ug-college-policies/faculty/reprints-subventions",
             label: "C.12. Reprints, Subvention, and Open Access",
-            className: "reprints_subventions",
+            className: "reprints-subventions",
           },
           {
-            value: "ii-ug-college-policies/faculty/contract_policy",
+            value: "ii-ug-college-policies/faculty/contract-policy",
             label: "C.13. Grants & Contracts",
-            className: "contract_policy",
+            className: "contract-policy",
           },
           {
-            value: "ii-ug-college-policies/faculty/outside_employment",
+            value: "ii-ug-college-policies/faculty/outside-employment",
             label: "C.14. Consulting and Outside Employment Policies",
-            className: "outside_employment",
+            className: "outside-employment",
           },
           {
-            value: "ii-ug-college-policies/faculty/faculty_lecture_payments",
+            value: "ii-ug-college-policies/faculty/faculty-lecture-payments",
             label: "C.15. Payment for Faculty Lectures Policy",
-            className: "faculty_lecture_payments",
+            className: "faculty-lecture-payments",
           },
           {
             value: "ii-ug-college-policies/faculty/extra-service-pay-policy",
@@ -492,40 +492,40 @@ export const nodes = [
             className: "faculty-and-athletics",
           },
           {
-            value: "ii-ug-college-policies/faculty/special_provisions",
+            value: "ii-ug-college-policies/faculty/special-provisions",
             label:
               "C.18. Special Provisions (associate status and release from contract)",
-            className: "special_provisions",
+            className: "special-provisions",
           },
           {
-            value: "ii-ug-college-policies/faculty/administrative_appt",
+            value: "ii-ug-college-policies/faculty/administrative-appt",
             label: "C.19. Administrative Appointments - Terms/Conditions",
-            className: "administrative_appt",
+            className: "administrative-appt",
           },
           {
-            value: "ii-ug-college-policies/faculty/familial_leaves",
+            value: "ii-ug-college-policies/faculty/familial-leaves",
             label: "C.20. Leaves of Absence (nonacademic)",
-            className: "familial_leaves",
+            className: "familial-leaves",
           },
           {
-            value: "ii-ug-college-policies/faculty/disability_pay",
+            value: "ii-ug-college-policies/faculty/disability-pay",
             label: "C.21. Disability",
-            className: "disability_pay",
+            className: "disability-pay",
           },
           {
-            value: "ii-ug-college-policies/faculty/death_benefit",
+            value: "ii-ug-college-policies/faculty/death-benefit",
             label: "C.22. Death Benefits",
-            className: "death_benefit",
+            className: "death-benefit",
           },
           {
-            value: "ii-ug-college-policies/faculty/faculty_housing",
+            value: "ii-ug-college-policies/faculty/faculty-housing",
             label: "C.23. Housing Programs",
-            className: "faculty_housing",
+            className: "faculty-housing",
           },
           {
-            value: "ii-ug-college-policies/faculty/misc_policies",
+            value: "ii-ug-college-policies/faculty/misc-policies",
             label: "C.24. Miscellaneous Policies",
-            className: "misc_policies",
+            className: "misc-policies",
           },
         ],
       },
@@ -563,9 +563,9 @@ export const nodes = [
             children: [
               {
                 value:
-                  "ii-ug-college-policies/employee/employment/2.1-equal-employment-opportunity-policy-",
+                  "ii-ug-college-policies/employee/employment/2-1-equal-employment-opportunity-policy",
                 label: "2.1 Equal Employment Opportunity Policy",
-                className: "2.1-equal-employment-opportunity-policy-",
+                className: "2-1-equal-employment-opportunity-policy",
               },
               {
                 value: "ii-ug-college-policies/employee/employment/ada",
@@ -573,24 +573,24 @@ export const nodes = [
                 className: "ada",
               },
               {
-                value: "ii-ug-college-policies/employee/employment/basic_info",
+                value: "ii-ug-college-policies/employee/employment/basic-info",
                 label:
                   "2.3 Basic Information about Employment at Middlebury College",
-                className: "basic_info",
+                className: "basic-info",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/employment/2.4-release-of-information-and-employment-confidentiality",
+                  "ii-ug-college-policies/employee/employment/2-4-release-of-information-and-employment-confidentiality",
                 label:
                   "2.4 Release of Information and Employment Confidentiality",
                 className:
-                  "2.4-release-of-information-and-employment-confidentiality",
+                  "2-4-release-of-information-and-employment-confidentiality",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/employment/employment_family",
+                  "ii-ug-college-policies/employee/employment/employment-family",
                 label: "2.5 Employment of Family Members",
-                className: "employment_family",
+                className: "employment-family",
               },
               {
                 value: "ii-ug-college-policies/employee/employment/orientation",
@@ -599,27 +599,27 @@ export const nodes = [
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/employment/starting_work",
+                  "ii-ug-college-policies/employee/employment/starting-work",
                 label: "2.7 Starting Work",
-                className: "starting_work",
+                className: "starting-work",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/employment/provisional_period",
+                  "ii-ug-college-policies/employee/employment/provisional-period",
                 label: "2.8 Provisional Period",
-                className: "provisional_period",
+                className: "provisional-period",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/employment/scheduling_hours_operation",
+                  "ii-ug-college-policies/employee/employment/scheduling-hours-operation",
                 label: "2.9 Scheduling and Hours of Operation",
-                className: "scheduling_hours_operation",
+                className: "scheduling-hours-operation",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/employment/safety_security",
+                  "ii-ug-college-policies/employee/employment/safety-security",
                 label: "2.10 Safety & Security",
-                className: "safety_security",
+                className: "safety-security",
               },
               {
                 value:
@@ -630,23 +630,23 @@ export const nodes = [
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/employment/hr_controlled_sub_cdl",
+                  "ii-ug-college-policies/employee/employment/hr-controlled-sub-cdl",
                 label:
                   "2.12 Controlled Substance and Alcohol Testing for Employees with a Work-required CDL",
-                className: "hr_controlled_sub_cdl",
+                className: "hr-controlled-sub-cdl",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/employment/alcohol_testing_captains",
+                  "ii-ug-college-policies/employee/employment/alcohol-testing-captains",
                 label:
                   "2.13 Controlled Substance and Alcohol Testing for Captains and Crew Members",
-                className: "alcohol_testing_captains",
+                className: "alcohol-testing-captains",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/employment/criminal_background_ch",
+                  "ii-ug-college-policies/employee/employment/criminal-background-ch",
                 label: "2.14 Background Checks",
-                className: "criminal_background_ch",
+                className: "criminal-background-ch",
               },
               {
                 value: "ii-ug-college-policies/employee/employment/popes",
@@ -654,15 +654,15 @@ export const nodes = [
                 className: "popes",
               },
               {
-                value: "ii-ug-college-policies/employee/employment/MiddPoints",
+                value: "ii-ug-college-policies/employee/employment/midd-points",
                 label: "2.16 MiddPoints",
-                className: "MiddPoints",
+                className: "midd-points",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/employment/internal_career",
+                  "ii-ug-college-policies/employee/employment/internal-career",
                 label: "2.17 Internal Career Opportunities",
-                className: "internal_career",
+                className: "internal-career",
               },
               {
                 value: "ii-ug-college-policies/employee/employment/rehire",
@@ -671,9 +671,9 @@ export const nodes = [
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/employment/staff_computer_use",
+                  "ii-ug-college-policies/employee/employment/staff-computer-use",
                 label: "2.19 Staff E-mail and Computer Use Policy",
-                className: "staff_computer_use",
+                className: "staff-computer-use",
               },
             ],
           },
@@ -683,21 +683,21 @@ export const nodes = [
             className: "benefits",
             children: [
               {
-                value: "ii-ug-college-policies/employee/benefits/general_info",
+                value: "ii-ug-college-policies/employee/benefits/general-info",
                 label: "3.1 General Information",
-                className: "general_info",
+                className: "general-info",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/benefits/benefit_changes",
+                  "ii-ug-college-policies/employee/benefits/benefit-changes",
                 label: "3.2 Benefit Changes",
-                className: "benefit_changes",
+                className: "benefit-changes",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/benefits/health_welfare",
+                  "ii-ug-college-policies/employee/benefits/health-welfare",
                 label: "3.3 Health and Welfare Benefit Plan",
-                className: "health_welfare",
+                className: "health-welfare",
               },
               {
                 value: "ii-ug-college-policies/employee/benefits/efap",
@@ -710,33 +710,33 @@ export const nodes = [
                 className: "retirement",
               },
               {
-                value: "ii-ug-college-policies/employee/benefits/phased_ret",
+                value: "ii-ug-college-policies/employee/benefits/phased-ret",
                 label: "3.6 Phased Retirement",
-                className: "phased_ret",
+                className: "phased-ret",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/benefits/educational_assistance",
+                  "ii-ug-college-policies/employee/benefits/educational-assistance",
                 label: "3.7 Educational Assistance",
-                className: "educational_assistance",
+                className: "educational-assistance",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/benefits/sick_leave_conversion",
+                  "ii-ug-college-policies/employee/benefits/sick-leave-conversion",
                 label: "3.8 Sick Leave Conversion",
-                className: "sick_leave_conversion",
+                className: "sick-leave-conversion",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/benefits/survivor_benefits",
+                  "ii-ug-college-policies/employee/benefits/survivor-benefits",
                 label: "3.9 Survivor Benefits",
-                className: "survivor_benefits",
+                className: "survivor-benefits",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/benefits/midd_card_priveleges",
+                  "ii-ug-college-policies/employee/benefits/midd-card-priveleges",
                 label: "3.10 Midd Card Privileges",
-                className: "midd_card_priveleges",
+                className: "midd-card-priveleges",
               },
               {
                 value: "ii-ug-college-policies/employee/benefits/discounts",
@@ -745,94 +745,94 @@ export const nodes = [
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/benefits/nursing_mothers",
+                  "ii-ug-college-policies/employee/benefits/nursing-mothers",
                 label: "3.12 Nursing Mothers",
-                className: "nursing_mothers",
+                className: "nursing-mothers",
               },
             ],
           },
           {
-            value: "ii-ug-college-policies/employee/time_away",
+            value: "ii-ug-college-policies/employee/time-away",
             label: "4. Time Away from Work",
-            className: "time_away",
+            className: "time-away",
             children: [
               {
                 value:
-                  "ii-ug-college-policies/employee/time_away/reporting_absences",
+                  "ii-ug-college-policies/employee/time-away/reporting-absences",
                 label: "4.1 Reporting Absences",
-                className: "reporting_absences",
+                className: "reporting-absences",
               },
               {
-                value: "ii-ug-college-policies/employee/time_away/cto",
+                value: "ii-ug-college-policies/employee/time-away/cto",
                 label: "4.2 Combined Time Off",
                 className: "cto",
               },
               {
-                value: "ii-ug-college-policies/employee/time_away/slr",
+                value: "ii-ug-college-policies/employee/time-away/slr",
                 label: "4.3 Sick Leave Reserve",
                 className: "slr",
               },
               {
-                value: "ii-ug-college-policies/employee/time_away/holidays",
+                value: "ii-ug-college-policies/employee/time-away/holidays",
                 label: "4.4 Holidays",
                 className: "holidays",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/time_away/staff_parental_leave",
+                  "ii-ug-college-policies/employee/time-away/staff-parental-leave",
                 label: "4.5 Staff Parental Leave Policy",
-                className: "staff_parental_leave",
+                className: "staff-parental-leave",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/time_away/family_medical_leave",
+                  "ii-ug-college-policies/employee/time-away/family-medical-leave",
                 label: "4.6 Family & Medical Leave",
-                className: "family_medical_leave",
+                className: "family-medical-leave",
               },
               {
-                value: "ii-ug-college-policies/employee/time_away/jury_duty",
+                value: "ii-ug-college-policies/employee/time-away/jury-duty",
                 label: "4.7 Jury Duty",
-                className: "jury_duty",
+                className: "jury-duty",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/time_away/military_reserve",
+                  "ii-ug-college-policies/employee/time-away/military-reserve",
                 label: "4.8 Military Reserve",
-                className: "military_reserve",
+                className: "military-reserve",
               },
               {
-                value: "ii-ug-college-policies/employee/time_away/bereavement",
+                value: "ii-ug-college-policies/employee/time-away/bereavement",
                 label: "4.9 Bereavement",
                 className: "bereavement",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/time_away/personal_leave",
+                  "ii-ug-college-policies/employee/time-away/personal-leave",
                 label: "4.10 Personal Leave of Absence",
-                className: "personal_leave",
+                className: "personal-leave",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/time_away/weather_emergencies",
+                  "ii-ug-college-policies/employee/time-away/weather-emergencies",
                 label: "4.11 Weather Emergencies",
-                className: "weather_emergencies",
+                className: "weather-emergencies",
               },
               {
-                value: "ii-ug-college-policies/employee/time_away/release_time",
+                value: "ii-ug-college-policies/employee/time-away/release-time",
                 label: "4.12 Release Time",
-                className: "release_time",
+                className: "release-time",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/time_away/4.13-vermont-earned-sick-time-act",
+                  "ii-ug-college-policies/employee/time-away/4-13-vermont-earned-sick-time-act",
                 label: "4.13 Vermont Earned Sick Time Act",
-                className: "4.13-vermont-earned-sick-time-act",
+                className: "4-13-vermont-earned-sick-time-act",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/time_away/4.14-vermont-earned-sick-time",
+                  "ii-ug-college-policies/employee/time-away/4-14-vermont-earned-sick-time",
                 label: "4.14 Vermont Earned Sick Time",
-                className: "4.14-vermont-earned-sick-time",
+                className: "4-14-vermont-earned-sick-time",
               },
             ],
           },
@@ -842,9 +842,9 @@ export const nodes = [
             className: "payroll",
             children: [
               {
-                value: "ii-ug-college-policies/employee/payroll/direct_deposit",
+                value: "ii-ug-college-policies/employee/payroll/direct-deposit",
                 label: "5.1 Direct Deposit",
-                className: "direct_deposit",
+                className: "direct-deposit",
               },
               {
                 value: "ii-ug-college-policies/employee/payroll/deductions",
@@ -857,51 +857,51 @@ export const nodes = [
                 className: "advances",
               },
               {
-                value: "ii-ug-college-policies/employee/payroll/payroll_issues",
+                value: "ii-ug-college-policies/employee/payroll/payroll-issues",
                 label: "5.4 Reporting Time and Payroll Issues",
-                className: "payroll_issues",
+                className: "payroll-issues",
               },
             ],
           },
           {
-            value: "ii-ug-college-policies/employee/wage_salary",
+            value: "ii-ug-college-policies/employee/wage-salary",
             label: "6. Staff Compensation",
-            className: "wage_salary",
+            className: "wage-salary",
             children: [
               {
                 value:
-                  "ii-ug-college-policies/employee/wage_salary/staff_compensation_program",
+                  "ii-ug-college-policies/employee/wage-salary/staff-compensation-program",
                 label: "6.1 Staff Compensation Program",
-                className: "staff_compensation_program",
+                className: "staff-compensation-program",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/wage_salary/job_descriptions",
+                  "ii-ug-college-policies/employee/wage-salary/job-descriptions",
                 label: "6.2 Job Descriptions",
-                className: "job_descriptions",
+                className: "job-descriptions",
               },
               {
-                value: "ii-ug-college-policies/employee/wage_salary/overtime",
+                value: "ii-ug-college-policies/employee/wage-salary/overtime",
                 label: "6.3 Eligibility for Overtime and FLSA Compliance",
                 className: "overtime",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/wage_salary/shift_differentials",
+                  "ii-ug-college-policies/employee/wage-salary/shift-differentials",
                 label: "6.4 Shift Differentials",
-                className: "shift_differentials",
+                className: "shift-differentials",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/wage_salary/compensation_issue_resolution_process",
+                  "ii-ug-college-policies/employee/wage-salary/compensation-issue-resolution-process",
                 label: "6.5 Compensation Issue Resolution Process",
-                className: "compensation_issue_resolution_process",
+                className: "compensation-issue-resolution-process",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/wage_salary/travel_time",
+                  "ii-ug-college-policies/employee/wage-salary/travel-time",
                 label: "6.6 Travel Time",
-                className: "travel_time",
+                className: "travel-time",
               },
             ],
           },
@@ -911,60 +911,60 @@ export const nodes = [
             className: "evaluating",
           },
           {
-            value: "ii-ug-college-policies/employee/processes_development",
+            value: "ii-ug-college-policies/employee/processes-development",
             label: "8. Employee Relations",
-            className: "processes_development",
+            className: "processes-development",
             children: [
               {
                 value:
-                  "ii-ug-college-policies/employee/processes_development/problem_solving",
+                  "ii-ug-college-policies/employee/processes-development/problem-solving",
                 label: "8.1 Problem Solving",
-                className: "problem_solving",
+                className: "problem-solving",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/processes_development/progressive_discipline",
+                  "ii-ug-college-policies/employee/processes-development/progressive-discipline",
                 label: "8.2 Progressive Discipline",
-                className: "progressive_discipline",
+                className: "progressive-discipline",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/processes_development/staff_dev_funds",
+                  "ii-ug-college-policies/employee/processes-development/staff-dev-funds",
                 label: "8.3 Staff Development Funds",
-                className: "staff_dev_funds",
+                className: "staff-dev-funds",
               },
             ],
           },
           {
-            value: "ii-ug-college-policies/employee/leaving_midd",
+            value: "ii-ug-college-policies/employee/leaving-midd",
             label: "9. Leaving Middlebury College",
-            className: "leaving_midd",
+            className: "leaving-midd",
             children: [
               {
                 value:
-                  "ii-ug-college-policies/employee/leaving_midd/leaving_middlebury_college",
+                  "ii-ug-college-policies/employee/leaving-midd/leaving-middlebury-college",
                 label: "9.1 Leaving Middlebury College",
-                className: "leaving_middlebury_college",
+                className: "leaving-middlebury-college",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/leaving_midd/resignation",
+                  "ii-ug-college-policies/employee/leaving-midd/resignation",
                 label: "9.2 Voluntary Termination of Employment: Resignation",
                 className: "resignation",
               },
               {
-                value: "ii-ug-college-policies/employee/leaving_midd/discharge",
+                value: "ii-ug-college-policies/employee/leaving-midd/discharge",
                 label: "9.3 Discharge",
                 className: "discharge",
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/leaving_midd/retirement",
+                  "ii-ug-college-policies/employee/leaving-midd/retirement",
                 label: "9.4 Retirement",
                 className: "retirement",
               },
               {
-                value: "ii-ug-college-policies/employee/leaving_midd/rif",
+                value: "ii-ug-college-policies/employee/leaving-midd/rif",
                 label: "9.5 Reduction in Force",
                 className: "rif",
               },
@@ -975,423 +975,422 @@ export const nodes = [
     ],
   },
   {
-    value: "iii.-policies-for-the-language-schools",
+    value: "iii-policies-for-the-language-schools",
     label: "III. Policies for the Language Schools",
-    className: "iii.-policies-for-the-language-schools",
+    className: "iii-policies-for-the-language-schools",
     children: [
       {
-        value:
-          "iii.-policies-for-the-language-schools/a.-student-life-policies",
+        value: "iii-policies-for-the-language-schools/a-student-life-policies",
         label: "A. Student Conduct Policies",
-        className: "a.-student-life-policies",
+        className: "a-student-life-policies",
       },
       {
-        value: "iii.-policies-for-the-language-schools/b.-academic-policies",
+        value: "iii-policies-for-the-language-schools/b-academic-policies",
         label: "B. Academic Policies",
-        className: "b.-academic-policies",
+        className: "b-academic-policies",
         children: [
           {
             value:
-              "iii.-policies-for-the-language-schools/b.-academic-policies/b.1-academic-honesty",
+              "iii-policies-for-the-language-schools/b-academic-policies/b-1-academic-honesty",
             label: "B.1 Academic Honesty",
-            className: "b.1-academic-honesty",
+            className: "b-1-academic-honesty",
           },
           {
             value:
-              "iii.-policies-for-the-language-schools/b.-academic-policies/b.2-language-pledge",
+              "iii-policies-for-the-language-schools/b-academic-policies/b-2-language-pledge",
             label: "B.2 Language Pledge",
-            className: "b.2-language-pledge",
+            className: "b-2-language-pledge",
           },
           {
             value:
-              "iii.-policies-for-the-language-schools/b.-academic-policies/b.3-general-policies",
+              "iii-policies-for-the-language-schools/b-academic-policies/b-3-general-policies",
             label: "B.3 General Policies",
-            className: "b.3-general-policies",
+            className: "b-3-general-policies",
           },
           {
             value:
-              "iii.-policies-for-the-language-schools/b.-academic-policies/b.4-registration",
+              "iii-policies-for-the-language-schools/b-academic-policies/b-4-registration",
             label: "B.4 Registration",
-            className: "b.4-registration",
+            className: "b-4-registration",
           },
           {
             value:
-              "iii.-policies-for-the-language-schools/b.-academic-policies/b.5-for-middlebury-college-undergraduates",
+              "iii-policies-for-the-language-schools/b-academic-policies/b-5-for-middlebury-college-undergraduates",
             label: "B.5 For Middlebury College Undergraduates",
-            className: "b.5-for-middlebury-college-undergraduates",
+            className: "b-5-for-middlebury-college-undergraduates",
           },
           {
             value:
-              "iii.-policies-for-the-language-schools/b.-academic-policies/b.6-master-of-arts",
+              "iii-policies-for-the-language-schools/b-academic-policies/b-6-master-of-arts",
             label: "B.6 Master of Arts",
-            className: "b.6-master-of-arts",
+            className: "b-6-master-of-arts",
           },
           {
             value:
-              "iii.-policies-for-the-language-schools/b.-academic-policies/b.7-doctor-of-modern-languages",
+              "iii-policies-for-the-language-schools/b-academic-policies/b-7-doctor-of-modern-languages",
             label: "B.7 Doctor of Modern Languages",
-            className: "b.7-doctor-of-modern-languages",
+            className: "b-7-doctor-of-modern-languages",
           },
           {
             value:
-              "iii.-policies-for-the-language-schools/b.-academic-policies/b.8-student-records",
+              "iii-policies-for-the-language-schools/b-academic-policies/b-8-student-records",
             label: "B.8 Grades and Transcripts",
-            className: "b.8-student-records",
+            className: "b-8-student-records",
           },
         ],
       },
       {
-        value: "iii.-policies-for-the-language-schools/c.-financial-policies",
+        value: "iii-policies-for-the-language-schools/c-financial-policies",
         label: "C. Financial Policies",
-        className: "c.-financial-policies",
+        className: "c-financial-policies",
         children: [
           {
             value:
-              "iii.-policies-for-the-language-schools/c.-financial-policie/c.1-fees",
+              "iii-policies-for-the-language-schools/c-financial-policie/c-1-fees",
             label: "C.1 Fees",
-            className: "c.1-fees",
+            className: "c-1-fees",
           },
           {
             value:
-              "iii.-policies-for-the-language-schools/c.-financial-policie/c.2-employment",
+              "iii-policies-for-the-language-schools/c-financial-policie/c-2-employment",
             label: "C.2 Employment",
-            className: "c.2-employment",
+            className: "c-2-employment",
           },
           {
             value:
-              "iii.-policies-for-the-language-schools/c.-financial-policie/c.3-withdrawals-and-refunds",
+              "iii-policies-for-the-language-schools/c-financial-policie/c-3-withdrawals-and-refunds",
             label: "C.3 Withdrawals and Refunds",
-            className: "c.3-withdrawals-and-refunds",
+            className: "c-3-withdrawals-and-refunds",
           },
         ],
       },
       {
         value:
-          "iii.-policies-for-the-language-schools/d.-residential-life-policies",
+          "iii-policies-for-the-language-schools/d-residential-life-policies",
         label: "D. Residential Life Policies",
-        className: "d.-residential-life-policies",
+        className: "d-residential-life-policies",
       },
       {
-        value: "iii.-policies-for-the-language-schools/e.-policies-for-faculty",
+        value: "iii-policies-for-the-language-schools/e-policies-for-faculty",
         label: "E. Policies for Faculty",
-        className: "e.-policies-for-faculty",
+        className: "e-policies-for-faculty",
       },
     ],
   },
   {
-    value: "iv.-policies-for-the-institute",
+    value: "iv-policies-for-the-institute",
     label: "IV. Policies for the Institute of International Studies",
-    className: "iv.-policies-for-the-institute",
+    className: "iv-policies-for-the-institute",
     children: [
       {
-        value: "iv.-policies-for-the-institute/a.-academic-policies",
+        value: "iv-policies-for-the-institute/a-academic-policies",
         label: "A. Academic Policies and Standards",
-        className: "a.-academic-policies",
+        className: "a-academic-policies",
         children: [
           {
             value:
-              "iv.-policies-for-the-institute/a.-academic-policies/a.1.-introduction",
+              "iv-policies-for-the-institute/a-academic-policies/a-1-introduction",
             label: "A.1. Introduction",
-            className: "a.1.-introduction",
+            className: "a-1-introduction",
           },
           {
             value:
-              "iv.-policies-for-the-institute/a.-academic-policies/a.2.-academic-honesty",
+              "iv-policies-for-the-institute/a-academic-policies/a-2-academic-honesty",
             label: "A.2. Academic Honesty",
-            className: "a.2.-academic-honesty",
+            className: "a-2-academic-honesty",
           },
           {
             value:
-              "iv.-policies-for-the-institute/a.-academic-policies/a.3.-academic-programs",
+              "iv-policies-for-the-institute/a-academic-policies/a-3-academic-programs",
             label: "A.3. Academic Programs",
-            className: "a.3.-academic-programs",
+            className: "a-3-academic-programs",
           },
           {
             value:
-              "iv.-policies-for-the-institute/a.-academic-policies/a.4.-change-of-academic-program",
+              "iv-policies-for-the-institute/a-academic-policies/a-4-change-of-academic-program",
             label: "A.4. Change of Academic Program",
-            className: "a.4.-change-of-academic-program",
+            className: "a-4-change-of-academic-program",
             children: [
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.4.-change-of-academic-program/a.4.a.-admission-of-bais-students-to-a-master-s-program",
+                  "iv-policies-for-the-institute/a-academic-policies/a-4-change-of-academic-program/a-4-a-admission-of-bais-students-to-a-master-s-program",
                 label:
                   "A.4.a. Admission of BAIS Students to a Master's Program",
                 className:
-                  "a.4.a.-admission-of-bais-students-to-a-master-s-program",
+                  "a-4-a-admission-of-bais-students-to-a-master-s-program",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.4.-change-of-academic-program/a.4.b.-change-of-degree-program",
+                  "iv-policies-for-the-institute/a-academic-policies/a-4-change-of-academic-program/a-4-b-change-of-degree-program",
                 label: "A.4.b. Change of Degree Program",
-                className: "a.4.b.-change-of-degree-program",
+                className: "a-4-b-change-of-degree-program",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.4.-change-of-academic-program/a.4.c.-change-of-degree-program",
+                  "iv-policies-for-the-institute/a-academic-policies/a-4-change-of-academic-program/a-4-c-change-of-degree-program",
                 label: "A.4.c. Admission to a Second Graduate Degree Program",
-                className: "a.4.c.-change-of-degree-program",
+                className: "a-4-c-change-of-degree-program",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.4.-change-of-academic-program/a.4.d.-special-admission-and-registration-policies-for-non-degree-students",
+                  "iv-policies-for-the-institute/a-academic-policies/a-4-change-of-academic-program/a-4-d-special-admission-and-registration-policies-for-non-degree-students",
                 label:
                   "A.4.d. Special Admission and Registration Policies for Non-Degree Students",
                 className:
-                  "a.4.d.-special-admission-and-registration-policies-for-non-degree-students",
+                  "a-4-d-special-admission-and-registration-policies-for-non-degree-students",
               },
             ],
           },
           {
             value:
-              "iv.-policies-for-the-institute/a.-academic-policies/a.5.-instruction",
+              "iv-policies-for-the-institute/a-academic-policies/a-5-instruction",
             label: "A.5. Instruction",
-            className: "a.5.-instruction",
+            className: "a-5-instruction",
             children: [
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.5.-instruction/a.5.a.-assessment-and-grading",
+                  "iv-policies-for-the-institute/a-academic-policies/a-5-instruction/a-5-a-assessment-and-grading",
                 label: "A.5.a. Assessment and Grading",
-                className: "a.5.a.-assessment-and-grading",
+                className: "a-5-a-assessment-and-grading",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.5.-instruction/a.5.b.-course-syllabus",
+                  "iv-policies-for-the-institute/a-academic-policies/a-5-instruction/a-5-b-course-syllabus",
                 label: "A.5.b. Course Syllabus",
-                className: "a.5.b.-course-syllabus",
+                className: "a-5-b-course-syllabus",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.5.-instruction/a.5.c.-student-grading-of-other-students-work",
+                  "iv-policies-for-the-institute/a-academic-policies/a-5-instruction/a-5-c-student-grading-of-other-students-work",
                 label: "A.5.c. Student Grading of Other Students' Work",
-                className: "a.5.c.-student-grading-of-other-students-work",
+                className: "a-5-c-student-grading-of-other-students-work",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.5.-instruction/a.5.d.-external-study-and-study-abroad",
+                  "iv-policies-for-the-institute/a-academic-policies/a-5-instruction/a-5-d-external-study-and-study-abroad",
                 label: "A.5.d. External Study and Study Abroad",
-                className: "a.5.d.-external-study-and-study-abroad",
+                className: "a-5-d-external-study-and-study-abroad",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.5.-instruction/a.5.e.-internships",
+                  "iv-policies-for-the-institute/a-academic-policies/a-5-instruction/a-5-e-internships",
                 label: "A.5.e. Internships",
-                className: "a.5.e.-internships",
+                className: "a-5-e-internships",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.5.-instruction/a.5.f.-language-and-intercultural-competency-icc-requirements-at-the-middlebury-institute",
+                  "iv-policies-for-the-institute/a-academic-policies/a-5-instruction/a-5-f-language-and-intercultural-competency-icc-requirements-at-the-middlebury-institute",
                 label:
                   "A.5.f. Language and Intercultural Competency (ICC) Requirements at the Middlebury Institute",
                 className:
-                  "a.5.f.-language-and-intercultural-competency-icc-requirements-at-the-middlebury-institute",
+                  "a-5-f-language-and-intercultural-competency-icc-requirements-at-the-middlebury-institute",
               },
             ],
           },
           {
             value:
-              "iv.-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies",
+              "iv-policies-for-the-institute/a-academic-policies/a-6-grades-credits-and-academic-policies",
             label: "A.6. Grades, Credits and Academic Policies",
-            className: "a.6.-grades-credits-and-academic-policies",
+            className: "a-6-grades-credits-and-academic-policies",
             children: [
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.a.-grades-and-credits",
+                  "iv-policies-for-the-institute/a-academic-policies/a-6-grades-credits-and-academic-policies/a-6-a-grades-and-credits",
                 label: "A.6.a. Grades and Credits",
-                className: "a.6.a.-grades-and-credits",
+                className: "a-6-a-grades-and-credits",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.b.-disputed-academic-evaluation-procedures",
+                  "iv-policies-for-the-institute/a-academic-policies/a-6-grades-credits-and-academic-policies/a-6-b-disputed-academic-evaluation-procedures",
                 label: "A.6.b. Disputed Academic Evaluation Procedures",
-                className: "a.6.b.-disputed-academic-evaluation-procedures",
+                className: "a-6-b-disputed-academic-evaluation-procedures",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.c.-pass-no-pass-p-np-option",
+                  "iv-policies-for-the-institute/a-academic-policies/a-6-grades-credits-and-academic-policies/a-6-c-pass-no-pass-p-np-option",
                 label: "A.6.c. Pass/No Pass (P/NP) Option",
-                className: "a.6.c.-pass-no-pass-p-np-option",
+                className: "a-6-c-pass-no-pass-p-np-option",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.d.-pass-fail-p-f-option",
+                  "iv-policies-for-the-institute/a-academic-policies/a-6-grades-credits-and-academic-policies/a-6-d-pass-fail-p-f-option",
                 label: "A.6.d. Pass/Fail (P/F) Option",
-                className: "a.6.d.-pass-fail-p-f-option",
+                className: "a-6-d-pass-fail-p-f-option",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.e.-incomplete-grades",
+                  "iv-policies-for-the-institute/a-academic-policies/a-6-grades-credits-and-academic-policies/a-6-e-incomplete-grades",
                 label: "A.6.e. Incomplete Grades",
-                className: "a.6.e.-incomplete-grades",
+                className: "a-6-e-incomplete-grades",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.f.",
+                  "iv-policies-for-the-institute/a-academic-policies/a-6-grades-credits-and-academic-policies/a-6-f",
                 label: 'A.6.f. Assignment of "In Progress"',
-                className: "a.6.f.",
+                className: "a-6-f",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.g.-academic-standing",
+                  "iv-policies-for-the-institute/a-academic-policies/a-6-grades-credits-and-academic-policies/a-6-g-academic-standing",
                 label: "A.6.g. Academic Standing",
-                className: "a.6.g.-academic-standing",
+                className: "a-6-g-academic-standing",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.h.-academic-probation",
+                  "iv-policies-for-the-institute/a-academic-policies/a-6-grades-credits-and-academic-policies/a-6-h-academic-probation",
                 label: "A.6.h. Academic Probation",
-                className: "a.6.h.-academic-probation",
+                className: "a-6-h-academic-probation",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.i.-dismissal",
+                  "iv-policies-for-the-institute/a-academic-policies/a-6-grades-credits-and-academic-policies/a-6-i-dismissal",
                 label: "A.6.i. Dismissal",
-                className: "a.6.i.-dismissal",
+                className: "a-6-i-dismissal",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.j.-time-limit-for-completion-of-degree-requirements-currency-",
+                  "iv-policies-for-the-institute/a-academic-policies/a-6-grades-credits-and-academic-policies/a-6-j-time-limit-for-completion-of-degree-requirements-currency",
                 label:
                   "A.6.j. Time Limit for Completion of Degree Requirements (Currency)",
                 className:
-                  "a.6.j.-time-limit-for-completion-of-degree-requirements-currency-",
+                  "a-6-j-time-limit-for-completion-of-degree-requirements-currency",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.k.-petition-for-waiver-of-academic-regulations",
+                  "iv-policies-for-the-institute/a-academic-policies/a-6-grades-credits-and-academic-policies/a-6-k-petition-for-waiver-of-academic-regulations",
                 label: "A.6.k. Petition for Waiver of Academic Regulations",
-                className: "a.6.k.-petition-for-waiver-of-academic-regulations",
+                className: "a-6-k-petition-for-waiver-of-academic-regulations",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.l.-transfer-of-academic-credit-from-other-institutions",
+                  "iv-policies-for-the-institute/a-academic-policies/a-6-grades-credits-and-academic-policies/a-6-l-transfer-of-academic-credit-from-other-institutions",
                 label:
                   "A.6.l. Transfer of Academic Credit from Other Institutions",
                 className:
-                  "a.6.l.-transfer-of-academic-credit-from-other-institutions",
+                  "a-6-l-transfer-of-academic-credit-from-other-institutions",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.m.-challenge-examinations",
+                  "iv-policies-for-the-institute/a-academic-policies/a-6-grades-credits-and-academic-policies/a-6-m-challenge-examinations",
                 label: "A.6.m. Challenge Examinations",
-                className: "a.6.m.-challenge-examinations",
+                className: "a-6-m-challenge-examinations",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.n.-graduation-with-honors",
+                  "iv-policies-for-the-institute/a-academic-policies/a-6-grades-credits-and-academic-policies/a-6-n-graduation-with-honors",
                 label: "A.6.n. Graduation with Honors",
-                className: "a.6.n.-graduation-with-honors",
+                className: "a-6-n-graduation-with-honors",
               },
             ],
           },
           {
             value:
-              "iv.-policies-for-the-institute/a.-academic-policies/a.7.-policies-concerning-enrollment-and-payment-fees",
+              "iv-policies-for-the-institute/a-academic-policies/a-7-policies-concerning-enrollment-and-payment-fees",
             label: "A.7. Policies Concerning Enrollment and Payment Fees",
-            className: "a.7.-policies-concerning-enrollment-and-payment-fees",
+            className: "a-7-policies-concerning-enrollment-and-payment-fees",
             children: [
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.7.-policies-concerning-enrollment-and-payment-fees/a.7.a-full-time-and-part-time-enrollment-status",
+                  "iv-policies-for-the-institute/a-academic-policies/a-7-policies-concerning-enrollment-and-payment-fees/a-7-a-full-time-and-part-time-enrollment-status",
                 label: "A.7.a Full-Time and Part-Time Enrollment Status",
-                className: "a.7.a-full-time-and-part-time-enrollment-status",
+                className: "a-7-a-full-time-and-part-time-enrollment-status",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.7.-policies-concerning-enrollment-and-payment-fees/a.7.b.-payment-of-fees",
+                  "iv-policies-for-the-institute/a-academic-policies/a-7-policies-concerning-enrollment-and-payment-fees/a-7-b-payment-of-fees",
                 label: "A.7.b. Payment of Fees",
-                className: "a.7.b.-payment-of-fees",
+                className: "a-7-b-payment-of-fees",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.7.-policies-concerning-enrollment-and-payment-fees/a.7.c.-tuition-refunds",
+                  "iv-policies-for-the-institute/a-academic-policies/a-7-policies-concerning-enrollment-and-payment-fees/a-7-c-tuition-refunds",
                 label: "A.7.c. Tuition Refunds",
-                className: "a.7.c.-tuition-refunds",
+                className: "a-7-c-tuition-refunds",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.7.-policies-concerning-enrollment-and-payment-fees/a.7.d.-course-load-and-overloads",
+                  "iv-policies-for-the-institute/a-academic-policies/a-7-policies-concerning-enrollment-and-payment-fees/a-7-d-course-load-and-overloads",
                 label: "A.7.d. Course Load and Overloads",
-                className: "a.7.d.-course-load-and-overloads",
+                className: "a-7-d-course-load-and-overloads",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.7.-policies-concerning-enrollment-and-payment-fees/a.7.e.-adding-courses",
+                  "iv-policies-for-the-institute/a-academic-policies/a-7-policies-concerning-enrollment-and-payment-fees/a-7-e-adding-courses",
                 label: "A.7.e. Adding Courses",
-                className: "a.7.e.-adding-courses",
+                className: "a-7-e-adding-courses",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.7.-policies-concerning-enrollment-and-payment-fees/a.7.f.-dropping-courses",
+                  "iv-policies-for-the-institute/a-academic-policies/a-7-policies-concerning-enrollment-and-payment-fees/a-7-f-dropping-courses",
                 label: "A.7.f. Dropping Courses",
-                className: "a.7.f.-dropping-courses",
+                className: "a-7-f-dropping-courses",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.7.-policies-concerning-enrollment-and-payment-fees/a.7.f.-auditing-courses",
+                  "iv-policies-for-the-institute/a-academic-policies/a-7-policies-concerning-enrollment-and-payment-fees/a-7-f-auditing-courses",
                 label: "A.7.g. Auditing Courses",
-                className: "a.7.f.-auditing-courses",
+                className: "a-7-f-auditing-courses",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.7.-policies-concerning-enrollment-and-payment-fees/a.7.g.-repeating-courses",
+                  "iv-policies-for-the-institute/a-academic-policies/a-7-policies-concerning-enrollment-and-payment-fees/a-7-g-repeating-courses",
                 label: "A.7.h. Repeating Courses",
-                className: "a.7.g.-repeating-courses",
+                className: "a-7-g-repeating-courses",
               },
             ],
           },
           {
             value:
-              "iv.-policies-for-the-institute/a.-academic-policies/a.8.-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation",
+              "iv-policies-for-the-institute/a-academic-policies/a-8-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation",
             label:
               "A.8. Leaves of Absence, Withdrawal, Suspension, Expulsion, and Graduation",
             className:
-              "a.8.-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation",
+              "a-8-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation",
             children: [
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.8.-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation/a.8.a.-leave-of-absence---student-initiated",
+                  "iv-policies-for-the-institute/a-academic-policies/a-8-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation/a-8-a-leave-of-absence-student-initiated",
                 label: "A.8.a. Leave of Absence - Student Initiated",
-                className: "a.8.a.-leave-of-absence---student-initiated",
+                className: "a-8-a-leave-of-absence-student-initiated",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.8.-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation/a.8.b.-institute-initiated-leave-of-absence-emergency-withdrawal-suspension-or-expulsion",
+                  "iv-policies-for-the-institute/a-academic-policies/a-8-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation/a-8-b-institute-initiated-leave-of-absence-emergency-withdrawal-suspension-or-expulsion",
                 label:
                   "A.8.b. Institute Initiated Leave of Absence, Emergency Withdrawal, Suspension or Expulsion",
                 className:
-                  "a.8.b.-institute-initiated-leave-of-absence-emergency-withdrawal-suspension-or-expulsion",
+                  "a-8-b-institute-initiated-leave-of-absence-emergency-withdrawal-suspension-or-expulsion",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.8.-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation/a.8.c.-graduation",
+                  "iv-policies-for-the-institute/a-academic-policies/a-8-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation/a-8-c-graduation",
                 label: "A.8.c. Graduation",
-                className: "a.8.c.-graduation",
+                className: "a-8-c-graduation",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.8.-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation/a.8.d.-withdrawal-from-middlebury-institute",
+                  "iv-policies-for-the-institute/a-academic-policies/a-8-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation/a-8-d-withdrawal-from-middlebury-institute",
                 label: "A.8.d. Withdrawal from the Middlebury Institute",
-                className: "a.8.d.-withdrawal-from-middlebury-institute",
+                className: "a-8-d-withdrawal-from-middlebury-institute",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.8.-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation/a.8.e.-readmission-to-the-middlebury-institute",
+                  "iv-policies-for-the-institute/a-academic-policies/a-8-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation/a-8-e-readmission-to-the-middlebury-institute",
                 label: "A.8.e. Readmission to the Middlebury Institute",
-                className: "a.8.e.-readmission-to-the-middlebury-institute",
+                className: "a-8-e-readmission-to-the-middlebury-institute",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.8.-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation/a.8.f.-withdrawal-procedures",
+                  "iv-policies-for-the-institute/a-academic-policies/a-8-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation/a-8-f-withdrawal-procedures",
                 label:
                   "A.8.f. Withdrawal Procedures for Students Who Are Military Dependents Whose Families Must Move Due to Redeployment/Relocation",
-                className: "a.8.f.-withdrawal-procedures",
+                className: "a-8-f-withdrawal-procedures",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/a.-academic-policies/a.8.-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation/a.8.g.",
+                  "iv-policies-for-the-institute/a-academic-policies/a-8-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation/a-8-g",
                 label: "A.8.g. Return of Title IV (Federal) Funds",
-                className: "a.8.g.",
+                className: "a-8-g",
               },
             ],
           },
@@ -1399,77 +1398,77 @@ export const nodes = [
       },
       {
         value:
-          "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations",
+          "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations",
         label:
           "B. Policies Governing Student Conduct and Student Organizations",
         className:
-          "b.-policies-governing-student-conduct-and-student-organizations",
+          "b-policies-governing-student-conduct-and-student-organizations",
         children: [
           {
             value:
-              "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/a.-general",
+              "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/a-general",
             label: "B.1. General Policies",
-            className: "a.-general",
+            className: "a-general",
           },
           {
             value:
-              "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct",
+              "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct",
             label: "B.2. Conduct",
-            className: "b.-conduct",
+            className: "b-conduct",
             children: [
               {
                 value:
-                  "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.a.general-conduct-policy",
+                  "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-a-general-conduct-policy",
                 label: "B.2.a. General Conduct Policy",
-                className: "b.2.a.general-conduct-policy",
+                className: "b-2-a-general-conduct-policy",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.c.-student-conduct-policy-overview",
+                  "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-c-student-conduct-policy-overview",
                 label: "B.2.b. Student Conduct Policy Overview",
-                className: "b.2.c.-student-conduct-policy-overview",
+                className: "b-2-c-student-conduct-policy-overview",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process",
+                  "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-d-student-conduct-disciplinary-process",
                 label: "B.2.c. Student Conduct Disciplinary Process",
-                className: "b.2.d.-student-conduct-disciplinary-process",
+                className: "b-2-d-student-conduct-disciplinary-process",
                 children: [
                   {
                     value:
-                      "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process/a.-overview",
+                      "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-d-student-conduct-disciplinary-process/a-overview",
                     label: "A. Overview",
-                    className: "a.-overview",
+                    className: "a-overview",
                   },
                   {
                     value:
-                      "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process/b.-the-judicial-system",
+                      "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-d-student-conduct-disciplinary-process/b-the-judicial-system",
                     label: "B. The Judicial System",
-                    className: "b.-the-judicial-system",
+                    className: "b-the-judicial-system",
                   },
                   {
                     value:
-                      "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process/c.-hearing-procedures",
+                      "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-d-student-conduct-disciplinary-process/c-hearing-procedures",
                     label: "C. Hearing Procedures",
-                    className: "c.-hearing-procedures",
+                    className: "c-hearing-procedures",
                   },
                   {
                     value:
-                      "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process/d.-sanctions-for-general-non-academic-offenses",
+                      "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-d-student-conduct-disciplinary-process/d-sanctions-for-general-non-academic-offenses",
                     label: "D. Sanctions for General Non-Academic Offenses",
-                    className: "d.-sanctions-for-general-non-academic-offenses",
+                    className: "d-sanctions-for-general-non-academic-offenses",
                   },
                   {
                     value:
-                      "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process/e.-sanctions-for-academic-offenses",
+                      "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-d-student-conduct-disciplinary-process/e-sanctions-for-academic-offenses",
                     label: "E. Sanctions for Academic Offenses",
-                    className: "e.-sanctions-for-academic-offenses",
+                    className: "e-sanctions-for-academic-offenses",
                   },
                   {
                     value:
-                      "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process/f.-appeals-procedures",
+                      "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-d-student-conduct-disciplinary-process/f-appeals-procedures",
                     label: "F. Appeals Procedures",
-                    className: "f.-appeals-procedures",
+                    className: "f-appeals-procedures",
                   },
                 ],
               },
@@ -1477,171 +1476,171 @@ export const nodes = [
           },
           {
             value:
-              "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/c.-health-wellness",
+              "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/c-health-wellness",
             label: "B.3. Health & Wellness",
-            className: "c.-health-wellness",
+            className: "c-health-wellness",
           },
           {
             value:
-              "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/d.-student-clubs-and-organizations",
+              "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/d-student-clubs-and-organizations",
             label: "B.4. Student Clubs and Organizations",
-            className: "d.-student-clubs-and-organizations",
+            className: "d-student-clubs-and-organizations",
             children: [
               {
                 value:
-                  "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/d.-student-clubs-and-organizations/b.4.-club-approval",
+                  "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/d-student-clubs-and-organizations/b-4-club-approval",
                 label: "B.4.a. Start a Club",
-                className: "b.4.-club-approval",
+                className: "b-4-club-approval",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/d.-student-clubs-and-organizations/b.4.b.-club-funding",
+                  "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/d-student-clubs-and-organizations/b-4-b-club-funding",
                 label: "B.4.b. Club Funding",
-                className: "b.4.b.-club-funding",
+                className: "b-4-b-club-funding",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/d.-student-clubs-and-organizations/b.4.c.-event-identification-policy",
+                  "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/d-student-clubs-and-organizations/b-4-c-event-identification-policy",
                 label: "B.4.c. Event Identification Policy",
-                className: "b.4.c.-event-identification-policy",
+                className: "b-4-c-event-identification-policy",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/d.-student-clubs-and-organizations/b.4.d.-alochol-policy-serving-alcohol-at-events-",
+                  "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/d-student-clubs-and-organizations/b-4-d-alochol-policy-serving-alcohol-at-events",
                 label: "B.4.d. Alcohol Policy (serving alcohol at events)",
-                className: "b.4.d.-alochol-policy-serving-alcohol-at-events-",
+                className: "b-4-d-alochol-policy-serving-alcohol-at-events",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/d.-student-clubs-and-organizations/b.4.e.-guest-policy",
+                  "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/d-student-clubs-and-organizations/b-4-e-guest-policy",
                 label: "B.4.e. Guest Policy for Events",
-                className: "b.4.e.-guest-policy",
+                className: "b-4-e-guest-policy",
               },
               {
                 value:
-                  "iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/d.-student-clubs-and-organizations/b.4.f.-food-and-beverage-policy",
+                  "iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/d-student-clubs-and-organizations/b-4-f-food-and-beverage-policy",
                 label: "B.4.f. Food and Beverage Policy",
-                className: "b.4.f.-food-and-beverage-policy",
+                className: "b-4-f-food-and-beverage-policy",
               },
             ],
           },
         ],
       },
       {
-        value: "iv.-policies-for-the-institute/c.-faculty-handbook",
+        value: "iv-policies-for-the-institute/c-faculty-handbook",
         label: "C. Faculty Handbook",
-        className: "c.-faculty-handbook",
+        className: "c-faculty-handbook",
         children: [
           {
             value:
-              "iv.-policies-for-the-institute/c.-faculty-handbook/1.-introduction",
+              "iv-policies-for-the-institute/c-faculty-handbook/1-introduction",
             label: "C.1. Introduction",
-            className: "1.-introduction",
+            className: "1-introduction",
           },
           {
             value:
-              "iv.-policies-for-the-institute/c.-faculty-handbook/2.-administrative-roles",
+              "iv-policies-for-the-institute/c-faculty-handbook/2-administrative-roles",
             label: "C.2. Administrative Roles",
-            className: "2.-administrative-roles",
+            className: "2-administrative-roles",
           },
           {
             value:
-              "iv.-policies-for-the-institute/c.-faculty-handbook/3.-faculty-roles",
+              "iv-policies-for-the-institute/c-faculty-handbook/3-faculty-roles",
             label: "C.3. Faculty Roles",
-            className: "3.-faculty-roles",
+            className: "3-faculty-roles",
           },
           {
             value:
-              "iv.-policies-for-the-institute/c.-faculty-handbook/4.-faculty-organization-and-governance",
+              "iv-policies-for-the-institute/c-faculty-handbook/4-faculty-organization-and-governance",
             label: "C.4. Faculty Organization and Governance",
-            className: "4.-faculty-organization-and-governance",
+            className: "4-faculty-organization-and-governance",
           },
           {
             value:
-              "iv.-policies-for-the-institute/c.-faculty-handbook/5.-policies-and-procedures-for-members-of-the-faculty",
+              "iv-policies-for-the-institute/c-faculty-handbook/5-policies-and-procedures-for-members-of-the-faculty",
             label: "C.5. Policies and Procedures for Members of the Faculty",
-            className: "5.-policies-and-procedures-for-members-of-the-faculty",
+            className: "5-policies-and-procedures-for-members-of-the-faculty",
           },
           {
             value:
-              "iv.-policies-for-the-institute/c.-faculty-handbook/6.-evaluation-of-the-faculty",
+              "iv-policies-for-the-institute/c-faculty-handbook/6-evaluation-of-the-faculty",
             label: "C.6. Evaluation of the Faculty",
-            className: "6.-evaluation-of-the-faculty",
+            className: "6-evaluation-of-the-faculty",
           },
           {
             value:
-              "iv.-policies-for-the-institute/c.-faculty-handbook/7.-separation-from-the-institute",
+              "iv-policies-for-the-institute/c-faculty-handbook/7-separation-from-the-institute",
             label: "C.7. Separation from the Institute",
-            className: "7.-separation-from-the-institute",
+            className: "7-separation-from-the-institute",
           },
           {
             value:
-              "iv.-policies-for-the-institute/c.-faculty-handbook/8.-other-faculty-matters",
+              "iv-policies-for-the-institute/c-faculty-handbook/8-other-faculty-matters",
             label: "C.8. Other Faculty Matters",
-            className: "8.-other-faculty-matters",
+            className: "8-other-faculty-matters",
           },
           {
             value:
-              "iv.-policies-for-the-institute/c.-faculty-handbook/appendix-a-faculty-evaluation-schedule",
+              "iv-policies-for-the-institute/c-faculty-handbook/appendix-a-faculty-evaluation-schedule",
             label: "Appendix A: Faculty Evaluation Schedule",
             className: "appendix-a-faculty-evaluation-schedule",
           },
           {
             value:
-              "iv.-policies-for-the-institute/c.-faculty-handbook/appendix-b-aaup-guidelines",
+              "iv-policies-for-the-institute/c-faculty-handbook/appendix-b-aaup-guidelines",
             label: "Appendix B: AAUP Guidelines",
             className: "appendix-b-aaup-guidelines",
           },
         ],
       },
       {
-        value: "iv.-policies-for-the-institute/d.-employee-handbook",
+        value: "iv-policies-for-the-institute/d-employee-handbook",
         label: "D. Employee Handbook",
-        className: "d.-employee-handbook",
+        className: "d-employee-handbook",
         children: [
           {
             value:
-              "iv.-policies-for-the-institute/d.-employee-handbook/d.1-employment-policies-and-practices",
+              "iv-policies-for-the-institute/d-employee-handbook/d-1-employment-policies-and-practices",
             label: "D.1. Employment Policies and Practices",
-            className: "d.1-employment-policies-and-practices",
+            className: "d-1-employment-policies-and-practices",
           },
           {
             value:
-              "iv.-policies-for-the-institute/d.-employee-handbook/d.2.-employee-relations",
+              "iv-policies-for-the-institute/d-employee-handbook/d-2-employee-relations",
             label: "D.2. Employee Relations",
-            className: "d.2.-employee-relations",
+            className: "d-2-employee-relations",
           },
           {
             value:
-              "iv.-policies-for-the-institute/d.-employee-handbook/d.3-employee-benefits",
+              "iv-policies-for-the-institute/d-employee-handbook/d-3-employee-benefits",
             label: "D.3. Employee Benefits",
-            className: "d.3-employee-benefits",
+            className: "d-3-employee-benefits",
           },
           {
             value:
-              "iv.-policies-for-the-institute/d.-employee-handbook/d.4-employee-conduct",
+              "iv-policies-for-the-institute/d-employee-handbook/d-4-employee-conduct",
             label: "D.4. Employee Conduct",
-            className: "d.4-employee-conduct",
+            className: "d-4-employee-conduct",
           },
           {
             value:
-              "iv.-policies-for-the-institute/d.-employee-handbook/d.5-leaves-of-absence",
+              "iv-policies-for-the-institute/d-employee-handbook/d-5-leaves-of-absence",
             label: "D.5. Leaves of Absence",
-            className: "d.5-leaves-of-absence",
+            className: "d-5-leaves-of-absence",
           },
           {
             value:
-              "iv.-policies-for-the-institute/d.-employee-handbook/d.6-miscellaneous-considerations",
+              "iv-policies-for-the-institute/d-employee-handbook/d-6-miscellaneous-considerations",
             label: "D.6. Miscellaneous Considerations",
-            className: "d.6-miscellaneous-considerations",
+            className: "d-6-miscellaneous-considerations",
           },
         ],
       },
     ],
   },
   {
-    value: "v-handbook_archive",
+    value: "v-handbook-archive",
     label: "Previous Handbooks",
-    className: "v-handbook_archive",
+    className: "v-handbook-archive",
   },
 ];

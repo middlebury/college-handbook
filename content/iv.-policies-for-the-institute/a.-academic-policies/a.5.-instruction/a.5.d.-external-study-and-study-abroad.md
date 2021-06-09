@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iv.-policies-for-the-institute/a.-academic-policies/a.5.-instruction/a.5.d.-external-study-and-study-abroad"
+slug: "/pages/iv-policies-for-the-institute/a.-academic-policies/a.5.-instruction/a.5.d.-external-study-and-study-abroad"
 date: "2021-05-01"
 title: "A.5.d. External Study and Study Abroad"
 ---

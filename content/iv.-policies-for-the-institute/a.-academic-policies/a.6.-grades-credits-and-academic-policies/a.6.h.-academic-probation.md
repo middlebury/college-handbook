@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iv.-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.h.-academic-probation"
+slug: "/pages/iv-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.h.-academic-probation"
 date: "2021-05-01"
 title: "A.6.h. Academic Probation"
 ---

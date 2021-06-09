@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iii.-policies-for-the-language-schools/b.-academic-policies/b.4-registration"
+slug: "/pages/iii-policies-for-the-language-schools/b.-academic-policies/b.4-registration"
 date: "2021-05-01"
 title: "B.4 Registration"
 ---
@@ -20,7 +20,7 @@ Arabic, Chinese, Japanese, Korean, and Russian 8-week sessions: July 6
 
 All 3 and 4-week sessions: end of the third day of class
 
-** Last date to drop without grade penalty for all programs is July 23 *
+\*_ Last date to drop without grade penalty for all programs is July 23 _
 
 **Credits and Credit Load**
 

@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iv.-policies-for-the-institute/a.-academic-policies/a.8.-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation/a.8.e.-readmission-to-the-middlebury-institute"
+slug: "/pages/iv-policies-for-the-institute/a.-academic-policies/a.8.-leaves-of-absence-withdrawal-suspension-expulsion-and-graduation/a.8.e.-readmission-to-the-middlebury-institute"
 date: "2021-05-01"
 title: "A.8.e. Readmission to the Middlebury Institute"
 ---

@@ -20,17 +20,17 @@ The College, in accordance with the Immigration Reform and Control Act of 1986, 
 
 Employees are responsible for taking an active role in keeping their records current and accurate. Notification to Human Resources of any changes in personal status is critical. Such information is necessary to ensure correct coverage and, if appropriate, deductions for taxes, medical insurance, life insurance, etc. Incorrect or outdated information may affect employee benefits and the ability of the College to make the appropriate contacts in an emergency. The accuracy of an employee's entry in the College directory depends on the accuracy of that employee's files. Some changes that should be reported promptly include:
 
-*   Name
-*   Home address
-*   Telephone number
-*   Marital status
-*   Names and social security numbers of dependents
-*   Birth dates of dependents
-*   Changes in dependent(s) status
-*   Changes in emergency contact information
-*   Beneficiary designations for benefit plans, such as retirement plan, life insurance, etc.
+- Name
+- Home address
+- Telephone number
+- Marital status
+- Names and social security numbers of dependents
+- Birth dates of dependents
+- Changes in dependent(s) status
+- Changes in emergency contact information
+- Beneficiary designations for benefit plans, such as retirement plan, life insurance, etc.
 
-Employees may review the personal information in their personnel files by setting up an appointment with a representative of Human Resources. One business day notice is required.  
+Employees may review the personal information in their personnel files by setting up an appointment with a representative of Human Resources. One business day notice is required.
 
 Failure to notify Human Resources of changes or falsification of records may result in disciplinary action up to and including termination.
 
@@ -38,7 +38,7 @@ Failure to notify Human Resources of changes or falsification of records may res
 
 A series of employment categories identify the type of position held by each staff and faculty member. The employee's position type should be included in the letter notifying him or her of employment.
 
-If at any time, an employee is unclear about the type of appointment s/he holds, the employee should seek clarification from either the department head or Human Resources. See [section 3, Employee Benefits](http://www.middlebury.edu/about/handbook/employee/benefits) for benefit eligibility information.
+If at any time, an employee is unclear about the type of appointment s/he holds, the employee should seek clarification from either the department head or Human Resources. See [section 3, Employee Benefits](http://www.middlebury.edu/pages/employee/benefits) for benefit eligibility information.
 
 _Faculty members_ teach students. Faculty titles include: professor, associate professor, assistant professor, instructor, visiting assistant professor, visiting instructor, lecturer, visiting lecturer, and assistant in instruction.
 
@@ -140,7 +140,7 @@ Yes
 
 <td>
 
-Part-Time - Not Benefits Eligible**
+Part-Time - Not Benefits Eligible\*\*
 
 </td>
 
@@ -420,14 +420,14 @@ No
 
 </table>
 
-****1,000 Hour Rule**
+\***\*1,000 Hour Rule**
 
 Casual employees hired into positions such as those classified as: temporary, on-call, adjunct, seasonal, or other very part-time hour arrangements are, by definition, expected to work for a limited duration and/or for a low number of hours and as such are not budgeted to be benefits-eligible. To ensure compliance with various benefits laws and contracts such casual employees are <span style="text-decoration:underline">limited to a total – in ALL Middlebury jobs – of 999 work hours</span> in a rolling 12 month period.  At or before reaching 999 hours in a given period a casual employee must either be terminated from employment OR may be left “active” but not allowed to work until a new 12 month period begins.
 
 Exceptions to the 1,000 Hour Rule are granted only for compelling business reasons and require <span style="text-decoration:underline">advance</span> approval.  Options are:
 
 1.  <span style="text-decoration:underline">Convert the job to benefits-eligible status</span>: requires approval from the area Vice President and the Ways and Means Committee.
-2.  <span style="text-decoration:underline">Allow employee to continue working in the casual position for an additional limited period:</span> requires approval from Human Resources, the area Vice President and in most cases the Budget Office, and will only be considered in rare circumstances that are legally, contractually, and budgetarily permissible. 
+2.  <span style="text-decoration:underline">Allow employee to continue working in the casual position for an additional limited period:</span> requires approval from Human Resources, the area Vice President and in most cases the Budget Office, and will only be considered in rare circumstances that are legally, contractually, and budgetarily permissible.
 
 To ensure transparency and alignment of expectations, managers should discuss these work hour limitations with applicants when hiring for casual positions, and offer/appointment letters should include information regarding worked-hour limitations.
 

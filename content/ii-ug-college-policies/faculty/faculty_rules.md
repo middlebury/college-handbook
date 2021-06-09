@@ -43,7 +43,7 @@ g. [Confidentiality and Access](#confidentiality)
 
 a. [First Review](#firstr)
 
-b. [Post-Review Consultation](http://www.middlebury.edu/about/handbook/ug-college-policies/faculty/faculty_rules#postreviewconsult)
+b. [Post-Review Consultation](http://www.middlebury.edu/pages/ii-ug-college-policies/faculty/faculty_rules#postreviewconsult)
 
 c. [Review for Tenure](#tenure)
 
@@ -77,13 +77,13 @@ The Rules of Appointment and Tenure set forth the regulations and the procedures
 
 **<a name="principles" id="principles"></a>b. Principles**
 
-**i.** **_Teaching_**_._ Middlebury College expects to appoint to the faculty people of exceptional promise and achievement as teachers and as scholars or artists, who will help students to grow and to develop habits of lifelong learning, critical inquiry, and lucid communication.
+**i.** **_Teaching_\***.\* Middlebury College expects to appoint to the faculty people of exceptional promise and achievement as teachers and as scholars or artists, who will help students to grow and to develop habits of lifelong learning, critical inquiry, and lucid communication.
 
 As a residential liberal arts college, Middlebury views teaching from a broad perspective that extends beyond the activities in classrooms, laboratories, studios, and recital halls. Advising students, providing guidance for independent projects, and the careful evaluation of student work are important components of a faculty member's responsibilities. Public lectures, presentations, or performances also contribute to teaching at Middlebury.
 
-**ii.** **_Scholarship_**_._ Middlebury believes that a faculty actively engaged in scholarship enriches the intellectual climate of the College. The mastery of new knowledge or skills, including those outside of the faculty member's own discipline, is valued as a contribution to the intellectual life of the College; however, the quality of a faculty member's scholarship is evaluated primarily through his or her published, performed, or executed works. Scholarly achievement that is recognized as of significantly high quality by scholars or artists beyond Middlebury College is a prerequisite for promotion to tenure.
+**ii.** **_Scholarship_\***.\* Middlebury believes that a faculty actively engaged in scholarship enriches the intellectual climate of the College. The mastery of new knowledge or skills, including those outside of the faculty member's own discipline, is valued as a contribution to the intellectual life of the College; however, the quality of a faculty member's scholarship is evaluated primarily through his or her published, performed, or executed works. Scholarly achievement that is recognized as of significantly high quality by scholars or artists beyond Middlebury College is a prerequisite for promotion to tenure.
 
-**iii.** **_Service_**_._ The Middlebury faculty has a vital role to play in sustaining the intellectual climate of the College outside the classroom, in governing the College, and in extending the impact of the College beyond the bounds of the campus. Beyond teaching and scholarship, the service roles played by individual faculty members include departmental, program, and committee responsibilities, activities with student organizations, participation in admissions or alumni activities, and other activities that benefit Middlebury College.
+**iii.** **_Service_\***.\* The Middlebury faculty has a vital role to play in sustaining the intellectual climate of the College outside the classroom, in governing the College, and in extending the impact of the College beyond the bounds of the campus. Beyond teaching and scholarship, the service roles played by individual faculty members include departmental, program, and committee responsibilities, activities with student organizations, participation in admissions or alumni activities, and other activities that benefit Middlebury College.
 
 **iv._ Academic Freedom_**. Adapted from the 1940 "Statement of Principles on Academic Freedom and Tenure" of the American Association of University Professors:
 
@@ -93,7 +93,7 @@ Academic freedom is essential to these purposes and applies to both teaching and
 
 Tenure is a means to certain ends; specifically: (1) freedom of teaching and research and of extramural activities and (2) a sufficient degree of economic security to make the profession attractive to men and women of ability. Freedom and economic security, hence, tenure, are indispensable to the success of an institution in fulfilling its obligations to its students and to society.
 
-_(b) Principles._ The teacher is entitled to full freedom in research and in the publication of the results, subject to the adequate performance of his or her other academic duties; but research for pecuniary return should be based upon an understanding with the authorities of the institution.
+*(b) Principles.* The teacher is entitled to full freedom in research and in the publication of the results, subject to the adequate performance of his or her other academic duties; but research for pecuniary return should be based upon an understanding with the authorities of the institution.
 
 The teacher is entitled to freedom in the classroom in discussing his or her subject, but should be careful not to introduce into his or her teaching controversial matter which has no relation to the subject. Limitations of academic freedom because of religious or other aims of the institution should be clearly stated in writing at the time of the appointment.
 
@@ -103,39 +103,39 @@ Consistent with AAUP’s 1940 “Statement of Principles on Academic Freedom and
 
 **<a name="faculty_appts" id="faculty_appts"></a>c. Faculty Appointments**
 
-**i. _Regular and Term Appointments_**. Both term and regular appointments may be offered at any faculty rank. Regular appointments are renewable and subject to the Review and Reappointment procedures described in subsections 1.e. and 1.f. below. Faculty on regular appointment normally pass through a probationary period whose length may vary with prior service elsewhere, during that time undergoing one or more reviews that will evaluate, both for the faculty member and for the College, the progress they have made in developing the qualities that may lead to appointment without limit of tenure.
+**i. *Regular and Term Appointments***. Both term and regular appointments may be offered at any faculty rank. Regular appointments are renewable and subject to the Review and Reappointment procedures described in subsections 1.e. and 1.f. below. Faculty on regular appointment normally pass through a probationary period whose length may vary with prior service elsewhere, during that time undergoing one or more reviews that will evaluate, both for the faculty member and for the College, the progress they have made in developing the qualities that may lead to appointment without limit of tenure.
 
 Term appointments are either for specified terms only, or renewable, but faculty on term appointments are not eligible for tenure. Whether a faculty position is to be a regular or term appointment shall be determined by the provost, with the advice of the Educational Affairs Committee, prior to the filling of the position. Any change from a term to a regular appointment must be initiated by the appropriate department chair, recommended by the EAC, and approved by the provost. A faculty member who holds a regular Middlebury faculty appointment cannot be appointed after the first review to a full-time faculty position outside of rank. Faculty appointments are considered to be in rank when they use the following titles:
 
-_(a) Instructor:_ Normal rank for faculty who have not completed the Ph.D. degree or equivalent terminal degree. The completion of the degree normally leads to promotion to Assistant Professor without a review by the Council on Reviews.
+*(a) Instructor:* Normal rank for faculty who have not completed the Ph.D. degree or equivalent terminal degree. The completion of the degree normally leads to promotion to Assistant Professor without a review by the Council on Reviews.
 
-_(b) Assistant Professor:_ Normal rank for faculty who have completed a terminal degree, but who have not been reviewed for and appointed to tenure.
+*(b) Assistant Professor:* Normal rank for faculty who have completed a terminal degree, but who have not been reviewed for and appointed to tenure.
 
-_(c) Associate Professor:_ Normal rank for first appointment with tenure, or whose initial appointment, based on accomplishment elsewhere, is at the rank of associate professor.
+*(c) Associate Professor:* Normal rank for first appointment with tenure, or whose initial appointment, based on accomplishment elsewhere, is at the rank of associate professor.
 
-_(d) Professor:_ The rank awarded to faculty who have passed the post-tenure review described in 1.f.iv. below, or whose initial appointment, based on accomplishment elsewhere, is at the rank of professor.
+*(d) Professor:* The rank awarded to faculty who have passed the post-tenure review described in 1.f.iv. below, or whose initial appointment, based on accomplishment elsewhere, is at the rank of professor.
 
-**ii. _Special Appointments_**. Individuals with special appointments normally do not follow the schedule of reviews and promotions of regular faculty. Special appointments are assigned one of the faculty titles below. Special appointments may be within or outside of rank, do not carry tenure, and are not subject to the review and reappointment procedures described in subsection 1.e. However, faculty members on renewable special appointment are subject to periodic Contract Reviews by the Reappointments Committee, as specified in subsection 3.f., below.
+**ii. *Special Appointments***. Individuals with special appointments normally do not follow the schedule of reviews and promotions of regular faculty. Special appointments are assigned one of the faculty titles below. Special appointments may be within or outside of rank, do not carry tenure, and are not subject to the review and reappointment procedures described in subsection 1.e. However, faculty members on renewable special appointment are subject to periodic Contract Reviews by the Reappointments Committee, as specified in subsection 3.f., below.
 
-_(a) Lecturer and Senior Lecturer:_ Renewable full- or part-time term appointments to fulfill specialized teaching responsibilities. Lecturers are not required to have a terminal degree. After at least nine years of consecutive service and following a successful Contract Review, Lecturers will be reappointed as Senior Lecturers.
+*(a) Lecturer and Senior Lecturer:* Renewable full- or part-time term appointments to fulfill specialized teaching responsibilities. Lecturers are not required to have a terminal degree. After at least nine years of consecutive service and following a successful Contract Review, Lecturers will be reappointed as Senior Lecturers.
 
-_(b) Assistant Professor (non-tenure-track):_ Multi-year appointments of two to five years in length with less than full-time teaching responsibilities. Faculty appointed to this rank must have a terminal degree. Those individuals hired at this rank who are ABD will initially be appointed as Instructor. For those on two-year contracts, the department or program will normally request an increase to at least a three-year contract if it requests a second renewal. For those on three-year contracts, the department or program will normally request an increase to a five-year contract if it requests a second renewal. 
+_(b) Assistant Professor (non-tenure-track):_ Multi-year appointments of two to five years in length with less than full-time teaching responsibilities. Faculty appointed to this rank must have a terminal degree. Those individuals hired at this rank who are ABD will initially be appointed as Instructor. For those on two-year contracts, the department or program will normally request an increase to at least a three-year contract if it requests a second renewal. For those on three-year contracts, the department or program will normally request an increase to a five-year contract if it requests a second renewal.
 
-_(c) Associate Professor (without tenure):_ Faculty appointed as Assistant Professor (non-tenure-track) may be promoted to Associate Professor (without tenure) after at least two successful contract reviews, as described in subsection 3.f. below, and at least six years of consecutive service.
+*(c) Associate Professor (without tenure):* Faculty appointed as Assistant Professor (non-tenure-track) may be promoted to Associate Professor (without tenure) after at least two successful contract reviews, as described in subsection 3.f. below, and at least six years of consecutive service.
 
-_(d) Assistant in Instruction:_ Full- or part-time renewable term appointments to fulfill specialized teaching functions associated with courses. Assistants in Instruction serve as teaching assistants, work one-on-one with students, and/or provide technical support for student work. 
+*(d) Assistant in Instruction:* Full- or part-time renewable term appointments to fulfill specialized teaching functions associated with courses. Assistants in Instruction serve as teaching assistants, work one-on-one with students, and/or provide technical support for student work.
 
-_(e) Laboratory Instructor:_ Full- or part-time renewable term appointments to fulfill specialized teaching functions associated with the laboratory components of courses. Laboratory Instructors have full responsibility for teaching and curriculum design of laboratory sections. Laboratory Instructors must have an advanced degree, but do not have a terminal degree.
+*(e) Laboratory Instructor:* Full- or part-time renewable term appointments to fulfill specialized teaching functions associated with the laboratory components of courses. Laboratory Instructors have full responsibility for teaching and curriculum design of laboratory sections. Laboratory Instructors must have an advanced degree, but do not have a terminal degree.
 
-_(f) Assistant Laboratory Professor:_ Full- or part-time renewable term appointments to fulfill specialized teaching functions associated with the laboratory components of courses. Assistant Laboratory Professors have full responsibility for teaching and curriculum design of laboratory sections. Assistant Laboratory Professors must have a terminal degree. 
+*(f) Assistant Laboratory Professor:* Full- or part-time renewable term appointments to fulfill specialized teaching functions associated with the laboratory components of courses. Assistant Laboratory Professors have full responsibility for teaching and curriculum design of laboratory sections. Assistant Laboratory Professors must have a terminal degree.
 
-_(g) Associate Laboratory Professor:_ Full-or part-time renewable term appointments to fulfill specialized teaching functions associate with the laboratory components of courses. Faculty appointed as Assistant Laboratory Professor may be promoted to Associate Laboratory Professor after at least two successful contract reviews, as described in subsection 3.f. below, and at least six years of consecutive service. Associate Laboratory Professors must have a terminal degree.
+*(g) Associate Laboratory Professor:* Full-or part-time renewable term appointments to fulfill specialized teaching functions associate with the laboratory components of courses. Faculty appointed as Assistant Laboratory Professor may be promoted to Associate Laboratory Professor after at least two successful contract reviews, as described in subsection 3.f. below, and at least six years of consecutive service. Associate Laboratory Professors must have a terminal degree.
 
-_(h) Visiting Appointments:_ Visiting appointments are full- or part-time term appointments that may be offered to faculty for no more than three years. At the conclusion of the term of the visiting appointment, it may be converted to a new renewable contract or regular appointment under the provisions specified above.
+*(h) Visiting Appointments:* Visiting appointments are full- or part-time term appointments that may be offered to faculty for no more than three years. At the conclusion of the term of the visiting appointment, it may be converted to a new renewable contract or regular appointment under the provisions specified above.
 
-_(i) Adjunct Appointments:_ Adjunct appointments are part-time term appointments that may be made at any adjunct title and may be renewed. Adjunct appointments normally are offered to individuals whose major professional responsibilities lie outside teaching.
+*(i) Adjunct Appointments:* Adjunct appointments are part-time term appointments that may be made at any adjunct title and may be renewed. Adjunct appointments normally are offered to individuals whose major professional responsibilities lie outside teaching.
 
-_(j) Physical Education:_ Faculty in the Department of Physical Education receive renewable term appointments in rank, and are subject to the review procedures as outlined in the contiguous section "Reviews for Physical Education Faculty".   Physical Education Faculty appointments are considered as such when they use the following titles:
+*(j) Physical Education:* Faculty in the Department of Physical Education receive renewable term appointments in rank, and are subject to the review procedures as outlined in the contiguous section "Reviews for Physical Education Faculty".   Physical Education Faculty appointments are considered as such when they use the following titles:
 
 i. Instructor in Physical Education – This is the normal starting rank for coaches who have limited coaching background.  Term contracts are issued for one or two years.
 
@@ -145,17 +145,17 @@ iii. Associate in Physical Education – This is the normal rank for coaching f
 
 iv. Senior Associate in Physical Education – This is the rank awarded to coaching faculty who have undergone a major contract review during the tenth year as an Associate and continue to demonstrate superior coaching and teaching ability. A faculty member with a Senior Contract will be granted a renewable seven-year contract.
 
-_(f) Administrative Appointments:_ Senior College administrators whose major professional responsibilities are in support of the instructional program may be granted faculty rank.
+*(f) Administrative Appointments:* Senior College administrators whose major professional responsibilities are in support of the instructional program may be granted faculty rank.
 
-**iii. _Associate Appointments_**. Associate appointments are regular faculty appointments in rank which normally carry no more than one-half the normal College teaching responsibility. Associates have all the rights, responsibilities, and privileges of their rank, including tenure for associates at the rank of associate professor or professor. (See section a. in _Special Provisions of Appointment_ for procedures and conditions.)
+**iii. *Associate Appointments***. Associate appointments are regular faculty appointments in rank which normally carry no more than one-half the normal College teaching responsibility. Associates have all the rights, responsibilities, and privileges of their rank, including tenure for associates at the rank of associate professor or professor. (See section a. in *Special Provisions of Appointment* for procedures and conditions.)
 
-**iv. _Appointments and Voting Rights_**. All faculty on regular appointment, regular faculty on associate status, senior College administrators with faculty rank, and full-time and part-time teaching faculty on special appointment, except for adjunct faculty, may vote.
+**iv. *Appointments and Voting Rights***. All faculty on regular appointment, regular faculty on associate status, senior College administrators with faculty rank, and full-time and part-time teaching faculty on special appointment, except for adjunct faculty, may vote.
 
-**v. _Appointments and Committee Assignments_**. Faculty members on regular, full-time special appointment, or associate appointment are eligible for assignment or election to all faculty committees and councils, provided all conditions for membership are met. All faculty members are expected to fulfill normal advising and administrative responsibilities.
+**v. *Appointments and Committee Assignments***. Faculty members on regular, full-time special appointment, or associate appointment are eligible for assignment or election to all faculty committees and councils, provided all conditions for membership are met. All faculty members are expected to fulfill normal advising and administrative responsibilities.
 
 **<a name="procedure_appt" id="procedure_appt"></a>d. Procedures of Appointment**
 
-**i. _New appointments_**. New appointments are made by the president or the president's designate in accordance with the authority vested in them by the Board of Trustees. New appointments, reappointments, and promotions are reported by the president to the board at its regular meetings.
+**i. *New appointments***. New appointments are made by the president or the president's designate in accordance with the authority vested in them by the Board of Trustees. New appointments, reappointments, and promotions are reported by the president to the board at its regular meetings.
 
 In considering appointment to the faculty of a person not already serving on it, the president will solicit the advice of the chair of the department concerned and such other advice and recommendation as they may deem appropriate.
 
@@ -167,31 +167,31 @@ In considering appointment to the faculty of a person not already serving on it,
 
 **<a name="review_reappt" id="review_reappt"></a>e. Review and Reappointment**
 
-**i. _Review schedule_**. Faculty on regular appointment whose first full-time appointment is at Middlebury are reviewed in the third year of appointment. Those who are reappointed following the first review will normally be reviewed for tenure in the spring of the seventh year after initial appointment. A request for early review that anticipates notification by December 15 or February 15 should be received by the Promotions Committee by May 15 prior; a request that anticipates notification by May 15 should be received by December 15 prior.
+**i. *Review schedule***. Faculty on regular appointment whose first full-time appointment is at Middlebury are reviewed in the third year of appointment. Those who are reappointed following the first review will normally be reviewed for tenure in the spring of the seventh year after initial appointment. A request for early review that anticipates notification by December 15 or February 15 should be received by the Promotions Committee by May 15 prior; a request that anticipates notification by May 15 should be received by December 15 prior.
 
-**ii. _First Review_**. In the third year of appointment to the faculty, unless there is credit for prior service, the Reappointments Committee undertakes a thorough review of the faculty member for evidence of accomplishment in teaching, scholarly or creative activity, and promise of outstanding teaching and developing scholarly or artistic achievement appropriate to the year in which the review takes place. The composition and long-term needs of the department and the faculty will also be considered. The procedures to be followed for the first review are set forth below.
+**ii. *First Review***. In the third year of appointment to the faculty, unless there is credit for prior service, the Reappointments Committee undertakes a thorough review of the faculty member for evidence of accomplishment in teaching, scholarly or creative activity, and promise of outstanding teaching and developing scholarly or artistic achievement appropriate to the year in which the review takes place. The composition and long-term needs of the department and the faculty will also be considered. The procedures to be followed for the first review are set forth below.
 
 The Reappointments Committee will arrange a meeting with successful first review candidates within one month of the review. The only persons present will be the candidate, the Reappointments Committee, and the vice president for Academic Affairs and dean of the faculty (VPAA/DoF), as secretary to the Reappointments Committee.
 
 **iii.** **_Post Review Consultation_**. After passing the first review and within a month after the obligatory meeting between the Reappointments Committee and the faculty member, the dean for faculty development and research (DFDR) shall arrange a meeting with the faculty member and the department chair to discuss the development of the faculty member's career from the perspectives of both the individual and the department chair. The procedures for these interviews are set forth below.
 
-**iv. _Appointments Following a Negative Review_**. Faculty who, having undergone review for tenure, are denied reappointment shall be offered a one-year terminal appointment, but in no case will such appointment extend beyond the academic year following the year of the review. No person who has failed a review and left the Middlebury Faculty may be considered for any appointment to the Faculty.
+**iv. *Appointments Following a Negative Review***. Faculty who, having undergone review for tenure, are denied reappointment shall be offered a one-year terminal appointment, but in no case will such appointment extend beyond the academic year following the year of the review. No person who has failed a review and left the Middlebury Faculty may be considered for any appointment to the Faculty.
 
 **<a name="promote_tenure" id="promote_tenure"></a>f. Promotion to Tenure**
 
-**i. _Institutional Assumptions Regarding Promotion to Tenure_**. The granting of tenure, whether with or without promotion in rank, is recommended by the president to the Board of Trustees or its designated committee or subcommittee for approval. The College expects to appoint to tenure faculty who are of exceptional quality as teachers and who are scholars or artists of significant achievement as recognized by the broader academic community beyond Middlebury. Such long-term institutional commitment to an individual's career comes with the expectation of a demonstrable reciprocal commitment by the faculty member to the departmental and College curricula and to the broader life of the institution. College involvement cannot compensate for an absence of scholarly or creative achievement, but its presence must be considered as the institution assesses tenurability. Tenure reviews will be based solely on the performance of the candidate, without regard to numerical quotas.
+**i. *Institutional Assumptions Regarding Promotion to Tenure***. The granting of tenure, whether with or without promotion in rank, is recommended by the president to the Board of Trustees or its designated committee or subcommittee for approval. The College expects to appoint to tenure faculty who are of exceptional quality as teachers and who are scholars or artists of significant achievement as recognized by the broader academic community beyond Middlebury. Such long-term institutional commitment to an individual's career comes with the expectation of a demonstrable reciprocal commitment by the faculty member to the departmental and College curricula and to the broader life of the institution. College involvement cannot compensate for an absence of scholarly or creative achievement, but its presence must be considered as the institution assesses tenurability. Tenure reviews will be based solely on the performance of the candidate, without regard to numerical quotas.
 
 Procedures for the review for tenure are set forth below.
 
 **ii.** **_Tenure_**. Appointment as associate professor or professor, after the passing of a Review for Tenure, is normally without limit of time (to normal retirement). Faculty at these ranks are regarded by the College as having tenure. Because Middlebury is primarily a teaching institution, there is an expectation of continued dedication to and high performance in teaching, in addition to an expectation of continuing achievement in scholarship and of service to the College.
 
-**iii.** _**Initial Appointment with Tenure.**_ Initial appointment to the Middlebury faculty at the rank of professor or associate professor with tenure shall be made by the president after consultation with the provost and the Promotions Committee and with the approval of the Board of Trustees. The Promotions Committee shall apply the same criteria in these appointments when advising the president and provost as in those from within the College. Such appointments will be rare and made only for appointees of exceptional qualifications.
+**iii.** **_Initial Appointment with Tenure._** Initial appointment to the Middlebury faculty at the rank of professor or associate professor with tenure shall be made by the president after consultation with the provost and the Promotions Committee and with the approval of the Board of Trustees. The Promotions Committee shall apply the same criteria in these appointments when advising the president and provost as in those from within the College. Such appointments will be rare and made only for appointees of exceptional qualifications.
 
-**iv. _Review for Promotion to Professor_**. Associate professors are first reviewed by the Promotions Committee at a time of their choosing, no earlier than the fifth and no later than the tenth year (eighth year for faculty tenured prior to 2011) following appointment to tenure, for possible promotion to professor. This review is regarded as an opportunity for reassessment of professional achievements, and the basis for promotion will be evidence of continued excellence in teaching, achievement in scholarship, and service to the institution. Should the faculty member not be promoted, a similar review will be conducted at intervals of the faculty member's choosing, no earlier than three and no later than five years following the unsuccessful review until the faculty member has been promoted to professor or has departed from the faculty. When initial appointment to the Middlebury faculty is at the rank of associate professor with tenure, the date of review for promotion to the rank of professor shall be determined at the time of appointment and stated in the letter of appointment.
+**iv. *Review for Promotion to Professor***. Associate professors are first reviewed by the Promotions Committee at a time of their choosing, no earlier than the fifth and no later than the tenth year (eighth year for faculty tenured prior to 2011) following appointment to tenure, for possible promotion to professor. This review is regarded as an opportunity for reassessment of professional achievements, and the basis for promotion will be evidence of continued excellence in teaching, achievement in scholarship, and service to the institution. Should the faculty member not be promoted, a similar review will be conducted at intervals of the faculty member's choosing, no earlier than three and no later than five years following the unsuccessful review until the faculty member has been promoted to professor or has departed from the faculty. When initial appointment to the Middlebury faculty is at the rank of associate professor with tenure, the date of review for promotion to the rank of professor shall be determined at the time of appointment and stated in the letter of appointment.
 
 Procedures for the promotion review are set forth below.
 
-**v. _Ten-year review_**. In the tenth year after promotion to full professor and every ten years thereafter, each full professor will undergo a professional review by the Reappointments Committee. The review has two goals: to assess professional achievements since promotion to full professor (or since the last ten-year review) and to aid in formulating plans for further growth and development.
+**v. *Ten-year review***. In the tenth year after promotion to full professor and every ten years thereafter, each full professor will undergo a professional review by the Reappointments Committee. The review has two goals: to assess professional achievements since promotion to full professor (or since the last ten-year review) and to aid in formulating plans for further growth and development.
 
 As a result of the review, the vice president for Academic Affairs/dean of the faculty (VPAA/DoF) may choose to recognize unusually distinguished service or consider action with respect to problems that have become apparent during the review. The VPAA/DoF will also discuss with the faculty member under review ways in which the College might help that person attain his or her goals for professional growth. Within the limits of its financial means, and in the interest of continuing faculty development, the College will attempt to offer leave opportunities to faculty members shortly after the ten-year review.
 
@@ -205,39 +205,39 @@ The review procedures complement the Rules of Reappointment and Tenure by enumer
 
 **<a name="review_eval_teach" id="review_eval_teach"></a>b. Evaluation of Teaching**
 
-**i. _Criteria_**. Evaluation of teaching effectiveness includes an assessment by oneself and by one's peers, and the evaluations by students. In no case will evaluation of teaching be based solely on course response forms. Teaching should be taken in its broad sense, to include not only formal classroom work, but also the candidate's contributions to the curriculum, advising, and other teaching outside the classroom. Nonetheless, evaluation will always include observation of classroom teaching _(see Classroom Visits below)._
+**i. *Criteria***. Evaluation of teaching effectiveness includes an assessment by oneself and by one's peers, and the evaluations by students. In no case will evaluation of teaching be based solely on course response forms. Teaching should be taken in its broad sense, to include not only formal classroom work, but also the candidate's contributions to the curriculum, advising, and other teaching outside the classroom. Nonetheless, evaluation will always include observation of classroom teaching *(see Classroom Visits below).*
 
 Criteria considered for evaluation of teaching will include:
 
-_(a)_ overall quality of the learning experience provided to students;
+*(a)* overall quality of the learning experience provided to students;
 
-_(b)_ effectiveness in promoting student thinking and learning;
+*(b)* effectiveness in promoting student thinking and learning;
 
-_(c)_ quality of classroom instruction;
+*(c)* quality of classroom instruction;
 
-_(d)_ organization of courses;
+*(d)* organization of courses;
 
-_(e)_ availability and helpfulness to students;
+*(e)* availability and helpfulness to students;
 
-_(f)_ care in evaluating student work;
+*(f)* care in evaluating student work;
 
-_(g)_ ability to teach a broad range of students; and
+*(g)* ability to teach a broad range of students; and
 
-_(h)_ teaching outside the classroom.
+*(h)* teaching outside the classroom.
 
-_**ii. C****ourse Response Forms**_. Faculty members will receive a pdf of their course response forms via email following the end of the term and after all grades have been submitted.  Faculty member's course response forms are stored electronically on a secure server with the Office of Vice President for Academic Affairs and Dean of the Faculty, where they may be consulted only by the president, the provost, the vice president for Academic Affairs and dean of the faculty, the department chair, and the Reappointments Committee or Promotions Committee. Program directors will have access to all course response forms for courses taught with an explicit program label, either as a standalone or cross-listed course.  . A faculty member may request the addition of personal comments or other materials  with the course response forms which they believe may be useful in the interpretation of the forms.  Faculty members must share their personal copies of course response forms with colleagues writing on their behalf. The VPAA/DoF cannot grant access to electronic files to anyone other than those listed above. All course response forms are kept until the faculty member is reviewed for tenure. After the tenure review, CRFs five years and older will be deleted. 
+_**ii. C\*\***ourse Response Forms\*\*_. Faculty members will receive a pdf of their course response forms via email following the end of the term and after all grades have been submitted.  Faculty member's course response forms are stored electronically on a secure server with the Office of Vice President for Academic Affairs and Dean of the Faculty, where they may be consulted only by the president, the provost, the vice president for Academic Affairs and dean of the faculty, the department chair, and the Reappointments Committee or Promotions Committee. Program directors will have access to all course response forms for courses taught with an explicit program label, either as a standalone or cross-listed course.  . A faculty member may request the addition of personal comments or other materials  with the course response forms which they believe may be useful in the interpretation of the forms.  Faculty members must share their personal copies of course response forms with colleagues writing on their behalf. The VPAA/DoF cannot grant access to electronic files to anyone other than those listed above. All course response forms are kept until the faculty member is reviewed for tenure. After the tenure review, CRFs five years and older will be deleted.
 
 Faculty who have completed the equivalent of two years of full-time teaching may designate one course every two years as "CRF-optional". In these cases, those forms are held separately and not uploaded to the server. The faculty member may then decide whether to include the forms in their file held by the administration.
 
-**iii. _Classroom Visits_**. In the semester preceding the term in which the review takes place, the candidate should arrange with the department chair an appropriate schedule of class visits over the two terms. The chair (or a senior member of the department designated by the chair and acceptable to the candidate) will visit at least two classes. Other colleagues may visit classes if the candidate invites them. It is the responsibility of the chair to ensure that the visits are not unnecessarily disruptive. Following classroom visits, and before the end of the term during which the visits take place, if the candidate wishes it, each visiting colleague will meet with the individual being evaluated to discuss his or her performance in the classes visited and to make suggestions for possible improvement. Members of the Reappointments Committee or Promotions Committee, however, will not normally offer such commentaries. In all cases, which classes will be visited will be agreed on in advance by the candidate and the visitors.
+**iii. *Classroom Visits***. In the semester preceding the term in which the review takes place, the candidate should arrange with the department chair an appropriate schedule of class visits over the two terms. The chair (or a senior member of the department designated by the chair and acceptable to the candidate) will visit at least two classes. Other colleagues may visit classes if the candidate invites them. It is the responsibility of the chair to ensure that the visits are not unnecessarily disruptive. Following classroom visits, and before the end of the term during which the visits take place, if the candidate wishes it, each visiting colleague will meet with the individual being evaluated to discuss his or her performance in the classes visited and to make suggestions for possible improvement. Members of the Reappointments Committee or Promotions Committee, however, will not normally offer such commentaries. In all cases, which classes will be visited will be agreed on in advance by the candidate and the visitors.
 
 **<a name="review_eval_scholarship" id="review_eval_scholarship"></a>c. Evaluation of Scholarship**
 
 A candidate's scholarship or artistic production is considered in terms of activity and of achievement.
 
-_Scholarly activity_ represents a pattern of related professional involvements, which may include: research and experimentation; writing, analyzing, creating; presentations to peers or to the public; responsible roles in professional organizations; visiting professorships; applying for and receiving outside grants and fellowships; and developing new fields of expertise.
+*Scholarly activity* represents a pattern of related professional involvements, which may include: research and experimentation; writing, analyzing, creating; presentations to peers or to the public; responsible roles in professional organizations; visiting professorships; applying for and receiving outside grants and fellowships; and developing new fields of expertise.
 
-_Scholarly achievement_ is the result of that activity, primarily as evidenced in work that has been (a) performed, executed, or published (as original research communicated to specialists or as the synthesis and interpretation of scholarly material for a more general audience), and (b) recognized as being of significantly high quality by scholars and artists within the broader academic community beyond Middlebury College.
+*Scholarly achievement* is the result of that activity, primarily as evidenced in work that has been (a) performed, executed, or published (as original research communicated to specialists or as the synthesis and interpretation of scholarly material for a more general audience), and (b) recognized as being of significantly high quality by scholars and artists within the broader academic community beyond Middlebury College.
 
 Evaluation is undertaken by colleagues and by other appropriate professionals in the candidate's field. In reviews for tenure and for full professor (not required for faculty who were awarded tenure prior to 2011), scholars from outside the College will be asked to judge the candidate's scholarship. Evaluators will be supplied with the Handbook description of the scholarly activity and achievement appropriate to the review in question and will be asked to evaluate it on that basis.
 
@@ -269,129 +269,129 @@ The first review examines a faculty member's performance for evidence of accompl
 
 _i. The Candidate_
 
-_(a)_ Candidates are expected to have completed the requirements for the terminal degree. Failure to complete the terminal degree (normally the Ph.D.) by the time of the first review creates the presumption that the criterion of scholarly activity has not been satisfied. This presumption can be rebutted only by strong evidence (1) that the required written or artistic work is completed, but not yet defended, or (2) that there is other scholarly achievement of exceptionally high quality.
+*(a)* Candidates are expected to have completed the requirements for the terminal degree. Failure to complete the terminal degree (normally the Ph.D.) by the time of the first review creates the presumption that the criterion of scholarly activity has not been satisfied. This presumption can be rebutted only by strong evidence (1) that the required written or artistic work is completed, but not yet defended, or (2) that there is other scholarly achievement of exceptionally high quality.
 
-_(b)_ To arrange with the chair, or the chair's designate, an appropriate schedule of classroom visits.
+*(b)* To arrange with the chair, or the chair's designate, an appropriate schedule of classroom visits.
 
-_(c)_ If the candidate so desires, to invite other colleagues to visit classes.
+*(c)* If the candidate so desires, to invite other colleagues to visit classes.
 
 _(d)_ To submit to the department chair and to the Reappointments Committee in a timely manner a complete vita, course syllabi, and other materials requested, as well as materials that the candidate thinks pertinent. For example, a faculty member may request the inclusion of personal comments or other materials with the course response forms which they believe may be useful in the interpretation of the forms.  To submit to the program director, when relevant, a complete vita, syllabi from relevant courses, and an example of scholarly work.
 
-_(e)_ To submit to the Reappointments Committee scholarly publications, a dissertation, and/or other appropriate evidence of scholarship or artistic activity.
+*(e)* To submit to the Reappointments Committee scholarly publications, a dissertation, and/or other appropriate evidence of scholarship or artistic activity.
 
-_(f)_ To arrange with members of the Reappointments Committee an appropriate schedule of classroom visits.
+*(f)* To arrange with members of the Reappointments Committee an appropriate schedule of classroom visits.
 
-_(g) _To prepare a self-evaluation that concentrates on teaching performance and scholarly activity with reference to the criteria listed in 2.b. and 2.c. above. The evaluation of scholarly activity should project a program leading to a level of scholarly achievement suitable for tenure. The letter may include identification of any factors that have hindered progress.
+\_(g) _To prepare a self-evaluation that concentrates on teaching performance and scholarly activity with reference to the criteria listed in 2.b. and 2.c. above. The evaluation of scholarly activity should project a program leading to a level of scholarly achievement suitable for tenure. The letter may include identification of any factors that have hindered progress.
 
 _ii. Reappointments Committee_
 
-_(a) _To meet with the candidates for the first review, in a group or individually, to explain to them the procedures; and to invite the candidates to submit, either orally or in writing, any additional information that may be pertinent to their reviews. A candidate's decision not to submit such materials is in no way prejudicial to reappointment.
+\_(a) _To meet with the candidates for the first review, in a group or individually, to explain to them the procedures; and to invite the candidates to submit, either orally or in writing, any additional information that may be pertinent to their reviews. A candidate's decision not to submit such materials is in no way prejudicial to reappointment.
 
-_(b)_ To have one of its members serve as a liaison to the faculty member during the review and to meet with the faculty member early in the term of the review, and later during that term if necessary or if requested by the candidate to explain the procedures for the review, answer any questions, and receive additional information the candidate considers pertinent to the review.
+*(b)* To have one of its members serve as a liaison to the faculty member during the review and to meet with the faculty member early in the term of the review, and later during that term if necessary or if requested by the candidate to explain the procedures for the review, answer any questions, and receive additional information the candidate considers pertinent to the review.
 
-_(c) _To arrange with the candidate an appropriate schedule of classroom visits. At least two members should each visit at least two of the candidate's classes, or one class and one public lecture. Additional classroom visits may be scheduled as deemed necessary by the committee. (Commentary on teaching will not be offered by members of the Reappointments Committee.)
+\_(c) _To arrange with the candidate an appropriate schedule of classroom visits. At least two members should each visit at least two of the candidate's classes, or one class and one public lecture. Additional classroom visits may be scheduled as deemed necessary by the committee. (Commentary on teaching will not be offered by members of the Reappointments Committee.)
 
-_(d)_ To interview or to request information from other members of the College community, alumni, and persons off campus, as it deems necessary.
+*(d)* To interview or to request information from other members of the College community, alumni, and persons off campus, as it deems necessary.
 
-_(e) _To request letters of recommendation from current students and from recent graduates who have taken at least one course from the person under review. The Reappointments Committee will request letters from at least three students and at least three alumni in all reviews. Students may be asked to comment specifically on the particular criteria for teaching listed under Evaluation of Teaching, above.
+\_(e) _To request letters of recommendation from current students and from recent graduates who have taken at least one course from the person under review. The Reappointments Committee will request letters from at least three students and at least three alumni in all reviews. Students may be asked to comment specifically on the particular criteria for teaching listed under Evaluation of Teaching, above.
 
-_(f)_ To request a letter from the department chair evaluating the candidate's scholarly activity, promise of achievement, and teaching, and assessing the candidate's role in the long-term patterns of the department.
+*(f)* To request a letter from the department chair evaluating the candidate's scholarly activity, promise of achievement, and teaching, and assessing the candidate's role in the long-term patterns of the department.
 
-_(g)_ To request a letter from the program director, when relevant, evaluating the candidate's scholarly activity, promise of achievement, and teaching, and assessing the candidate's role in the long-term patterns of the program.
+*(g)* To request a letter from the program director, when relevant, evaluating the candidate's scholarly activity, promise of achievement, and teaching, and assessing the candidate's role in the long-term patterns of the program.
 
-_(h)_ To request letters of evaluation from other tenured members of the candidate's department, and, when appropriate, to invite comments from tenured colleagues in other departments.
+*(h)* To request letters of evaluation from other tenured members of the candidate's department, and, when appropriate, to invite comments from tenured colleagues in other departments.
 
-_(i)_ To review the scholarly materials submitted by the candidate; to read and consider such opinions of it as may be pertinent, such as reviews or reports of readers.
+*(i)* To review the scholarly materials submitted by the candidate; to read and consider such opinions of it as may be pertinent, such as reviews or reports of readers.
 
-_(j)_ To examine all the materials submitted to the committee in the case, and all other materials that may be pertinent to the review, including letters from other colleagues at Middlebury, letters from students and alumni, and others.
+*(j)* To examine all the materials submitted to the committee in the case, and all other materials that may be pertinent to the review, including letters from other colleagues at Middlebury, letters from students and alumni, and others.
 
-_(k)_ To read and consider the course response forms.
+*(k)* To read and consider the course response forms.
 
-_(l) _To keep written records of all interviews.
+\_(l) _To keep written records of all interviews.
 
-_(m) _In any case where the committee determines that a departmental recommendation requires further clarification, or when the Reappointments Committee is inclined to reject the departmental recommendation, to interview the department chair, and, if the Reappointments Committee so chooses, any other tenured member or members of the department/program the Reappointments Committee deems appropriate; in either or each instance to place a written summary of the meeting(s) in the candidate's file.
+\_(m) _In any case where the committee determines that a departmental recommendation requires further clarification, or when the Reappointments Committee is inclined to reject the departmental recommendation, to interview the department chair, and, if the Reappointments Committee so chooses, any other tenured member or members of the department/program the Reappointments Committee deems appropriate; in either or each instance to place a written summary of the meeting(s) in the candidate's file.
 
-_(n)_ To convey to the provost the committee's conclusions about the constituent considerations of the review, a final recommendation and the reasons for it. To record its final recommendation and make it a part of the review file.
+*(n)* To convey to the provost the committee's conclusions about the constituent considerations of the review, a final recommendation and the reasons for it. To record its final recommendation and make it a part of the review file.
 
-_(o)_ In the case that the Reappointments Committee does not recommend reappointment, to explain to the provost the reasons for doing so, and to include this document in the review file.
+*(o)* In the case that the Reappointments Committee does not recommend reappointment, to explain to the provost the reasons for doing so, and to include this document in the review file.
 
-_(p)_ To hear and respond to any conclusions of the provost that may differ from their own. To review with the provost those materials that pertain directly to any area of disagreement.
+*(p)* To hear and respond to any conclusions of the provost that may differ from their own. To review with the provost those materials that pertain directly to any area of disagreement.
 
-_(q) _To meet with the candidate within four weeks of the completion of a successful review to provide an assessment of the candidate's performance, to summarize the information on which the Reappointments Committee based its decision, and to provide the candidate and the chairperson of the candidate's department with a written summary of the meeting prepared by the VPAA/DoF. In this meeting, the committee should interpret the views of others without revealing their names. All summaries of reappointment review meetings will begin with the following paragraph: "The following summary of a meeting between ______________(the candidate) and the Reappointments Committee is made available to the candidate, who has successfully passed a review for reappointment at Middlebury College, and to the candidate's department chair, solely for the purpose of providing a record of the meeting held to discuss the review just completed. Nothing stated in the summary, or in the course of the review, carries with it any presumption about the outcome of any subsequent review. Similarly, the findings and recommendations of the Reappointments Committee at this review are not determinative of any assessment of the candidate's professional development at a later review. At all reviews, the Reappointments Committee or Promotions Committee makes an independent determination governed only by the standards for reappointment, promotion, and tenure as then published in the College's Rules of Appointment and Tenure, with which faculty members are expected to be familiar."
+\_(q) _To meet with the candidate within four weeks of the completion of a successful review to provide an assessment of the candidate's performance, to summarize the information on which the Reappointments Committee based its decision, and to provide the candidate and the chairperson of the candidate's department with a written summary of the meeting prepared by the VPAA/DoF. In this meeting, the committee should interpret the views of others without revealing their names. All summaries of reappointment review meetings will begin with the following paragraph: "The following summary of a meeting between **\*\***\_\_**\*\***(the candidate) and the Reappointments Committee is made available to the candidate, who has successfully passed a review for reappointment at Middlebury College, and to the candidate's department chair, solely for the purpose of providing a record of the meeting held to discuss the review just completed. Nothing stated in the summary, or in the course of the review, carries with it any presumption about the outcome of any subsequent review. Similarly, the findings and recommendations of the Reappointments Committee at this review are not determinative of any assessment of the candidate's professional development at a later review. At all reviews, the Reappointments Committee or Promotions Committee makes an independent determination governed only by the standards for reappointment, promotion, and tenure as then published in the College's Rules of Appointment and Tenure, with which faculty members are expected to be familiar."
 
-_(r)_ In the case of unsuccessful review, to offer to meet with the candidate for the same purpose.
+*(r)* In the case of unsuccessful review, to offer to meet with the candidate for the same purpose.
 
 _iii. Vice President for Academic Affairs and Dean of the Faculty (VPAA/DoF)_
 
-_(a)_ To initiate the review, in a timely fashion, so that all necessary information and documentation may be obtained from the candidate and other sources.
+*(a)* To initiate the review, in a timely fashion, so that all necessary information and documentation may be obtained from the candidate and other sources.
 
-_(b)_ To solicit information, on behalf of the Reappointments Committee, from candidates under review; to gather information from other sources when so requested by the Reappointments Committee.
+*(b)* To solicit information, on behalf of the Reappointments Committee, from candidates under review; to gather information from other sources when so requested by the Reappointments Committee.
 
-_(c)_ To maintain the candidates' review files, including course response forms.
+*(c)* To maintain the candidates' review files, including course response forms.
 
-_(d)_ To serve as recording secretary of the Reappointments Committee.
+*(d)* To serve as recording secretary of the Reappointments Committee.
 
-_(e)_ To provide counsel to the Reappointments Committee during the course of its deliberations.
+*(e)* To provide counsel to the Reappointments Committee during the course of its deliberations.
 
-_(f)_ To provide counsel to the provost when the Reappointments Committee's deliberations are completed.
+*(f)* To provide counsel to the provost when the Reappointments Committee's deliberations are completed.
 
-_(g)_ In the case that the Reappointments Committee does not recommend reappointment, to prepare a written summary explaining to the provost the committee’s reasons for doing so, and to include this document in the review file.
+*(g)* In the case that the Reappointments Committee does not recommend reappointment, to prepare a written summary explaining to the provost the committee’s reasons for doing so, and to include this document in the review file.
 
 _iv. Dean for Faculty Development and Research (DFDR)_
 
-_(a)_ In the case of a review of a department chair or program director, to assume the role of chair or director for that review.
+*(a)* In the case of a review of a department chair or program director, to assume the role of chair or director for that review.
 
 _v. Department Chair_
 
-_(a)_ To arrange with the candidate an appropriate schedule of classroom visits by the chair or chair's designate, and to ensure that the number of visits by other colleagues does not unnecessarily disrupt the candidate's courses.
+*(a)* To arrange with the candidate an appropriate schedule of classroom visits by the chair or chair's designate, and to ensure that the number of visits by other colleagues does not unnecessarily disrupt the candidate's courses.
 
-_(b)_ To provide the Reappointments Committee with lists of at least six current students and six recent graduates who have taken at least one course from the candidate.
+*(b)* To provide the Reappointments Committee with lists of at least six current students and six recent graduates who have taken at least one course from the candidate.
 
-_(c)_ To review the candidate's course response forms, available online through the Office of the Vice President for Academic Affairs and Dean of the Faculty.
+*(c)* To review the candidate's course response forms, available online through the Office of the Vice President for Academic Affairs and Dean of the Faculty.
 
-__(d)_ _To meet with the candidate to discuss the contents of the departmental evaluation.
+\_*(d)* _To meet with the candidate to discuss the contents of the departmental evaluation.
 
-_(e)_ To submit a letter to the Reappointments Committee containing the departmental evaluation according to section 2.e. The focus of the departmental evaluation shall be upon teaching, scholarship, contribution to the departmental program, and promise as a teacher and scholar. This letter will be shared with the tenured members of the department and the candidate undergoing the review.
+*(e)* To submit a letter to the Reappointments Committee containing the departmental evaluation according to section 2.e. The focus of the departmental evaluation shall be upon teaching, scholarship, contribution to the departmental program, and promise as a teacher and scholar. This letter will be shared with the tenured members of the department and the candidate undergoing the review.
 
-_(f)_ To write a letter to the Reappointments Committee, giving a personal recommendation, as a tenured member of the department, regarding the candidate.
+*(f)* To write a letter to the Reappointments Committee, giving a personal recommendation, as a tenured member of the department, regarding the candidate.
 
 _vi. Tenured Department Faculty Members_
 
-_(a) _To submit a letter of recommendation, when requested, to the Reappointments Committee, with a copy to the department chair, that speaks to those aspects of a candidate's work with which he or she is familiar. Tenured faculty are expected to provide a letter upon request of the Committee, whether on academic leave or not.
+\_(a) _To submit a letter of recommendation, when requested, to the Reappointments Committee, with a copy to the department chair, that speaks to those aspects of a candidate's work with which he or she is familiar. Tenured faculty are expected to provide a letter upon request of the Committee, whether on academic leave or not.
 
-_(b)_ Upon the invitation of a candidate, to observe a class or classes and to meet with the candidate to discuss his or her performance in the class, with suggestions for possible improvement. Such meetings will be held before the end of the term during which the visits take place.
+*(b)* Upon the invitation of a candidate, to observe a class or classes and to meet with the candidate to discuss his or her performance in the class, with suggestions for possible improvement. Such meetings will be held before the end of the term during which the visits take place.
 
 _vii. Program Director_
 
-_(a)_ To submit a letter to the Reappointments Committee containing the programmatic evaluation according to section 2.f. The focus of the programmatic evaluation shall be upon teaching, scholarship, contribution to the program, and promise as a teacher and scholar. This letter will be shared with the tenured program members who have been solicited by the VPAA/DoF to write letters and the candidate undergoing the review.
+*(a)* To submit a letter to the Reappointments Committee containing the programmatic evaluation according to section 2.f. The focus of the programmatic evaluation shall be upon teaching, scholarship, contribution to the program, and promise as a teacher and scholar. This letter will be shared with the tenured program members who have been solicited by the VPAA/DoF to write letters and the candidate undergoing the review.
 
 _viii. Provost_
 
-_(a)_ To review all items in the candidate's review file. (This includes letters related to the case received during the period of review from faculty, students, alumni, and others. The provost normally does not review all course response forms and scholarly publications.)
+*(a)* To review all items in the candidate's review file. (This includes letters related to the case received during the period of review from faculty, students, alumni, and others. The provost normally does not review all course response forms and scholarly publications.)
 
-_(b)_ To hear reports from the Reappointments Committee on the substance of its conclusions about each constituent part of the case and about the case as a whole.
+*(b)* To hear reports from the Reappointments Committee on the substance of its conclusions about each constituent part of the case and about the case as a whole.
 
-_(c)_ To consult with the VPAA/DoF about the individual cases.
+*(c)* To consult with the VPAA/DoF about the individual cases.
 
-_(d)_ To challenge any conclusion of the Reappointments Committee with which he or she disagrees and give the Reappointments Committee an opportunity to respond.
+*(d)* To challenge any conclusion of the Reappointments Committee with which he or she disagrees and give the Reappointments Committee an opportunity to respond.
 
-_(e)_ In the case of a reversal of the committee's recommendation, to explain to the committee the reasons for doing so, reasons which in a written summary become part of the review file.
+*(e)* In the case of a reversal of the committee's recommendation, to explain to the committee the reasons for doing so, reasons which in a written summary become part of the review file.
 
-_(f)_ To make the final decision and to notify the candidate in a letter that indicates the recommendation of the Reappointments Committee.
+*(f)* To make the final decision and to notify the candidate in a letter that indicates the recommendation of the Reappointments Committee.
 
 **<a name="Postreviewconsult" id="Postreviewconsult"></a>b. Post-Review Consultation**
 
 _i. Candidate's Responsibilities_
 
-_(a)_ To meet with the department chair and the dean for faculty development and research to discuss progress in scholarship and teaching.
+*(a)* To meet with the department chair and the dean for faculty development and research to discuss progress in scholarship and teaching.
 
 _ii. Dean for Faculty Development and Research (DFDR)_
 
-_(a)_ To arrange a meeting with the candidate and the department chair to discuss the candidate's progress in teaching and scholarship.
+*(a)* To arrange a meeting with the candidate and the department chair to discuss the candidate's progress in teaching and scholarship.
 
 _iii. Department Chair_
 
-_(a)_ To discuss with the candidate his or her progress in teaching and scholarship from the perspective of the department, with reference to the VPAA/DoF’s summary of the post-review meeting between the candidate and the Reappointments Committee.
+*(a)* To discuss with the candidate his or her progress in teaching and scholarship from the perspective of the department, with reference to the VPAA/DoF’s summary of the post-review meeting between the candidate and the Reappointments Committee.
 
 **<a name="tenure" id="tenure"></a>c. Review for Tenure**
 
@@ -401,132 +401,132 @@ The long-term institutional commitment to an individual's career that is made wi
 
 _i. The Candidate_
 
-_(a) _To arrange with the chair, or the chair's designate, an appropriate schedule of classroom visits.
+\_(a) _To arrange with the chair, or the chair's designate, an appropriate schedule of classroom visits.
 
-_(b)_  If the candidate so desires, to invite other colleagues to visit classes.
+*(b)*  If the candidate so desires, to invite other colleagues to visit classes.
 
 _(c)_ To submit to the department chair and to the Promotions Committee in a timely manner a complete vita, course syllabi, and other materials requested, as well as materials that the candidate thinks pertinent. For example, a faculty member may request the inclusion of personal comments or other materials with the course response forms which they believe may be useful in the interpretation of the forms. To submit to the program director, when relevant, a complete vita, syllabi from relevant courses, and an example of scholarly work.
 
-_(d)_ To submit to the Promotions Committee scholarly publications, and/or other appropriate evidence of scholarship or artistic achievement.
+*(d)* To submit to the Promotions Committee scholarly publications, and/or other appropriate evidence of scholarship or artistic achievement.
 
-_(e)_ To arrange with members of the Promotions Committee an appropriate schedule of classroom visits.
+*(e)* To arrange with members of the Promotions Committee an appropriate schedule of classroom visits.
 
-_(f) _To prepare a self-evaluation that concentrates on teaching performance, scholarly achievement, and service to the College community with reference to the criteria listed in 2.b., 2.c., and 2.d. above.  The letter may include identification of any factors that have hindered progress.
+\_(f) _To prepare a self-evaluation that concentrates on teaching performance, scholarly achievement, and service to the College community with reference to the criteria listed in 2.b., 2.c., and 2.d. above.  The letter may include identification of any factors that have hindered progress.
 
-_(g) _To furnish the Promotions Committee with a list of scholars or artists outside Middlebury who would be appropriate to evaluate the candidate's professional achievements.
+\_(g) _To furnish the Promotions Committee with a list of scholars or artists outside Middlebury who would be appropriate to evaluate the candidate's professional achievements.
 
 _ii. Promotions Committee_
 
-_(a) _To meet with the candidates for tenure review, in a group or individually, to explain to them the procedures; and to invite the candidates to submit, either orally or in writing, any additional information that may be pertinent to their reviews. A candidate's decision not to submit such materials is in no way prejudicial to promotion.
+\_(a) _To meet with the candidates for tenure review, in a group or individually, to explain to them the procedures; and to invite the candidates to submit, either orally or in writing, any additional information that may be pertinent to their reviews. A candidate's decision not to submit such materials is in no way prejudicial to promotion.
 
-_(b)_ To have one of its members serve as a liaison to the faculty member during the review and to meet with the faculty member early in the term of the review, and later during that term if necessary or if requested by the candidate to explain the procedures for the review, answer any questions, and receive additional information the candidate considers pertinent to the review.
+*(b)* To have one of its members serve as a liaison to the faculty member during the review and to meet with the faculty member early in the term of the review, and later during that term if necessary or if requested by the candidate to explain the procedures for the review, answer any questions, and receive additional information the candidate considers pertinent to the review.
 
-_(c) _To arrange with the candidate an appropriate schedule of classroom visits. At least two members should each visit at least two of the candidate's classes, or one class and one public lecture. Additional classroom visits may be scheduled as deemed necessary by the committee. (Commentary on teaching will not be offered by members of the Promotions Committee.)
+\_(c) _To arrange with the candidate an appropriate schedule of classroom visits. At least two members should each visit at least two of the candidate's classes, or one class and one public lecture. Additional classroom visits may be scheduled as deemed necessary by the committee. (Commentary on teaching will not be offered by members of the Promotions Committee.)
 
-_(d)_ To interview or to request information from other members of the College community, alumni, and persons off campus, as it deems necessary.
+*(d)* To interview or to request information from other members of the College community, alumni, and persons off campus, as it deems necessary.
 
-_(e) _To request letters of recommendation from current students and from recent graduates who have taken at least one course from the person under review. The Promotions Committee will request letters from at least three students and at least three alumni in all reviews. Students may be asked to comment specifically on the particular criteria for teaching listed under Evaluation of Teaching, above.
+\_(e) _To request letters of recommendation from current students and from recent graduates who have taken at least one course from the person under review. The Promotions Committee will request letters from at least three students and at least three alumni in all reviews. Students may be asked to comment specifically on the particular criteria for teaching listed under Evaluation of Teaching, above.
 
-_(f)_ To request a letter from the department chair evaluating the candidate's scholarly achievement, teaching, and service to the department.
+*(f)* To request a letter from the department chair evaluating the candidate's scholarly achievement, teaching, and service to the department.
 
-_(g)_ To request a letter from the program director, when relevant, evaluating the candidate's scholarly achievement, teaching, and service to the program.
+*(g)* To request a letter from the program director, when relevant, evaluating the candidate's scholarly achievement, teaching, and service to the program.
 
-_(h)_ To request letters of evaluation from other tenured members of the candidate's department, and, when appropriate, to invite comments from tenured colleagues in other departments.
+*(h)* To request letters of evaluation from other tenured members of the candidate's department, and, when appropriate, to invite comments from tenured colleagues in other departments.
 
-_(i) _To solicit from scholars outside the College an evaluation of the candidate's scholarship or artistic production.
+\_(i) _To solicit from scholars outside the College an evaluation of the candidate's scholarship or artistic production.
 
-_(j)_ To review the scholarly materials submitted by the candidate; to read and consider such opinions of it as may be pertinent, such as reviews or reports of readers.
+*(j)* To review the scholarly materials submitted by the candidate; to read and consider such opinions of it as may be pertinent, such as reviews or reports of readers.
 
-_(k)_ To examine all the materials submitted to the committee in the case, and all other materials that may be pertinent to the review, including letters from other colleagues at Middlebury, letters from students and alumni, and appropriate professionals outside Middlebury.
+*(k)* To examine all the materials submitted to the committee in the case, and all other materials that may be pertinent to the review, including letters from other colleagues at Middlebury, letters from students and alumni, and appropriate professionals outside Middlebury.
 
-_(l)_ To read and consider the course response forms.
+*(l)* To read and consider the course response forms.
 
-_(m) _To keep written records of all interviews.
+\_(m) _To keep written records of all interviews.
 
-_(n) _In any case where the committee determines that a departmental recommendation requires further clarification, or when the Promotions Committee is inclined to reject the departmental recommendation, to interview the department chair, and, if the Promotions Committee so chooses, any other tenured member or members of the department or program the Promotions Committee deems appropriate; in either or each instance to place a written summary of the meeting(s) in the candidate's file.
+\_(n) _In any case where the committee determines that a departmental recommendation requires further clarification, or when the Promotions Committee is inclined to reject the departmental recommendation, to interview the department chair, and, if the Promotions Committee so chooses, any other tenured member or members of the department or program the Promotions Committee deems appropriate; in either or each instance to place a written summary of the meeting(s) in the candidate's file.
 
-_(o)_ To convey to the president and the provost the committee’s conclusions about the constituent considerations of the review, a final recommendation and the reasons for it. To record its final recommendation and make it part of the review file.
+*(o)* To convey to the president and the provost the committee’s conclusions about the constituent considerations of the review, a final recommendation and the reasons for it. To record its final recommendation and make it part of the review file.
 
-_(p)_ In the case that the Promotions Committee does not recommend reappointment and promotion, to explain to the president and provost the reasons for doing so, records its recommendation, and to include this document in the review file.
+*(p)* In the case that the Promotions Committee does not recommend reappointment and promotion, to explain to the president and provost the reasons for doing so, records its recommendation, and to include this document in the review file.
 
-_(q)_ To hear and respond to any conclusions of the president and provost that may differ from their own. To review with the president and the provost those materials that pertain directly to any area of disagreement.
+*(q)* To hear and respond to any conclusions of the president and provost that may differ from their own. To review with the president and the provost those materials that pertain directly to any area of disagreement.
 
-_(r) _To meet with the candidate within four weeks of the completion of a successful review to provide an assessment of the candidate's performance, to summarize the information on which the Promotions Committee based its decision, and to provide the candidate and the chairperson of the candidate's department with a written summary of the meeting prepared by the VPAA/DoF. In this meeting, the committee should interpret the views of others without revealing their names. All summaries of promotion review meetings will begin with the following paragraph: "The following summary of a meeting between ______________ (the candidate) and the Promotions Committee is made available to the candidate, who has successfully passed a review for tenure at Middlebury College, and to the candidate's department chair, solely for the purpose of providing a record of the meeting held to discuss the review just completed. Nothing stated in the summary, or in the course of the review, carries with it any presumption about the outcome of any subsequent review. Similarly, the findings and recommendations of the Promotions Committee at this review are not determinative of any assessment of the candidate's professional development at a later review. At all reviews, the Reappointments Committee or Promotions Committee makes an independent determination governed only by the standards for reappointment, promotion, and tenure as then published in the College's Rules of Appointment and Tenure, with which faculty members are expected to be familiar."
+\_(r) _To meet with the candidate within four weeks of the completion of a successful review to provide an assessment of the candidate's performance, to summarize the information on which the Promotions Committee based its decision, and to provide the candidate and the chairperson of the candidate's department with a written summary of the meeting prepared by the VPAA/DoF. In this meeting, the committee should interpret the views of others without revealing their names. All summaries of promotion review meetings will begin with the following paragraph: "The following summary of a meeting between **\*\***\_\_**\*\*** (the candidate) and the Promotions Committee is made available to the candidate, who has successfully passed a review for tenure at Middlebury College, and to the candidate's department chair, solely for the purpose of providing a record of the meeting held to discuss the review just completed. Nothing stated in the summary, or in the course of the review, carries with it any presumption about the outcome of any subsequent review. Similarly, the findings and recommendations of the Promotions Committee at this review are not determinative of any assessment of the candidate's professional development at a later review. At all reviews, the Reappointments Committee or Promotions Committee makes an independent determination governed only by the standards for reappointment, promotion, and tenure as then published in the College's Rules of Appointment and Tenure, with which faculty members are expected to be familiar."
 
-_(s)_ In the case of unsuccessful review, to offer to meet with the candidate for the same purpose.
+*(s)* In the case of unsuccessful review, to offer to meet with the candidate for the same purpose.
 
-_(t)_ At the time of the tenure review, the Promotions Committee does not consider the long-term staffing needs of the department and the faculty.
+*(t)* At the time of the tenure review, the Promotions Committee does not consider the long-term staffing needs of the department and the faculty.
 
 _iii. Vice President for Academic Affairs and Dean of the Faculty (VPAA/DoF)_
 
-_(a)_ To initiate the review, in a timely fashion, so that all necessary information and documentation may be obtained from the candidate and other sources.
+*(a)* To initiate the review, in a timely fashion, so that all necessary information and documentation may be obtained from the candidate and other sources.
 
-_(b)_ To solicit information, on behalf of the Promotions Committee, from candidates under review; to gather information from other sources when so requested by the Promotions Committee.
+*(b)* To solicit information, on behalf of the Promotions Committee, from candidates under review; to gather information from other sources when so requested by the Promotions Committee.
 
-_(c)_ To maintain the candidates' review files, including course response forms.
+*(c)* To maintain the candidates' review files, including course response forms.
 
-_(d)_ To serve as recording secretary of the Promotions Committee.
+*(d)* To serve as recording secretary of the Promotions Committee.
 
-_(e)_ To provide counsel to the Promotions Committee during the course of its deliberations.
+*(e)* To provide counsel to the Promotions Committee during the course of its deliberations.
 
-_(f)_ To provide counsel to the president and the provost when the Promotions Committee's deliberations are completed.
+*(f)* To provide counsel to the president and the provost when the Promotions Committee's deliberations are completed.
 
-_(g)_ In the case that the Promotions Committee does not recommend reappointment and promotion, to prepare a written summary explaining to the president and the provost the committee’s reasons for doing so, and to include this document in the review file.
+*(g)* In the case that the Promotions Committee does not recommend reappointment and promotion, to prepare a written summary explaining to the president and the provost the committee’s reasons for doing so, and to include this document in the review file.
 
-_(h)_ To ensure that the candidate knows the identity of all scholars outside the College from whom the Promotions Committee seeks an evaluation of the candidate's scholarship.
+*(h)* To ensure that the candidate knows the identity of all scholars outside the College from whom the Promotions Committee seeks an evaluation of the candidate's scholarship.
 
-_(i)_ To prepare a brief written summary of the views of the outside evaluators, without attribution, to be reviewed by the Promotions Committee in advance of a final recommendation of the Committee to the President.
+*(i)* To prepare a brief written summary of the views of the outside evaluators, without attribution, to be reviewed by the Promotions Committee in advance of a final recommendation of the Committee to the President.
 
 _iv. Dean for Faculty Development and Research (DFDR)_
 
-_(a)_ If the chair or director is untenured, to assume the responsibility of the department chair or program director for the review.
+*(a)* If the chair or director is untenured, to assume the responsibility of the department chair or program director for the review.
 
 _v. Department Chair_
 
-_(a)_ To arrange with the candidate an appropriate schedule of classroom visits by the chair or chair's designate, and to ensure that the number of visits by other colleagues does not unnecessarily disrupt the candidate's courses.
+*(a)* To arrange with the candidate an appropriate schedule of classroom visits by the chair or chair's designate, and to ensure that the number of visits by other colleagues does not unnecessarily disrupt the candidate's courses.
 
-_(b)_ To provide the Promotions Committee with lists of at least six current students and six recent graduates who have taken at least one course from the candidate.
+*(b)* To provide the Promotions Committee with lists of at least six current students and six recent graduates who have taken at least one course from the candidate.
 
 _(c)_ To review the candidate's course response forms available electronically through the Office of the Vice President for Academic Affairs and Dean of the Faculty.
 
-_(d)_ To meet with the candidate to discuss the contents of the departmental evaluation.
+*(d)* To meet with the candidate to discuss the contents of the departmental evaluation.
 
-_(e) _To submit a letter to the Promotions Committee containing the departmental evaluation according to section 2.e. above. The focus of the departmental evaluation shall be upon the candidate's teaching, scholarly achievement, and service to the department. This letter should not speak to the composition and long-term needs of the department and faculty. The letter is shared with the tenured members of the department and the candidate undergoing the review.
+\_(e) _To submit a letter to the Promotions Committee containing the departmental evaluation according to section 2.e. above. The focus of the departmental evaluation shall be upon the candidate's teaching, scholarly achievement, and service to the department. This letter should not speak to the composition and long-term needs of the department and faculty. The letter is shared with the tenured members of the department and the candidate undergoing the review.
 
-_(f)_ To write a letter to the Promotions Committee, giving a personal recommendation, as a tenured member of the department, regarding the candidate.
+*(f)* To write a letter to the Promotions Committee, giving a personal recommendation, as a tenured member of the department, regarding the candidate.
 
 _vi. Tenured Department Faculty Members_
 
-_(a) _To submit a letter of recommendation, when requested, to the Promotions Committee, with a copy to the department chair, that speaks to those aspects of a candidate's work with which he or she is familiar. Tenured faculty are expected to provide a letter upon request of the Committee, whether on academic leave or not.
+\_(a) _To submit a letter of recommendation, when requested, to the Promotions Committee, with a copy to the department chair, that speaks to those aspects of a candidate's work with which he or she is familiar. Tenured faculty are expected to provide a letter upon request of the Committee, whether on academic leave or not.
 
-_(b)_ Upon the invitation of a candidate, to observe a class or classes and to meet with the candidate to discuss his or her performance in the class, with suggestions for possible improvement. Such meetings will be held before the end of the term during which the visits take place.
+*(b)* Upon the invitation of a candidate, to observe a class or classes and to meet with the candidate to discuss his or her performance in the class, with suggestions for possible improvement. Such meetings will be held before the end of the term during which the visits take place.
 
 _vii. Program Director_
 
-_(a)_ To submit a letter to the Promotions Committee containing the programmatic evaluation according to section 2.f. above. The focus of the programmatic evaluation shall be upon the candidate's teaching, scholarly achievement, and service to the program. This letter should not speak to the composition and long-term needs of the program and faculty. This letter will be shared with any tenured program members who have been solicited by the VPAA/DoF to write letters and with the candidate undergoing the review.
+*(a)* To submit a letter to the Promotions Committee containing the programmatic evaluation according to section 2.f. above. The focus of the programmatic evaluation shall be upon the candidate's teaching, scholarly achievement, and service to the program. This letter should not speak to the composition and long-term needs of the program and faculty. This letter will be shared with any tenured program members who have been solicited by the VPAA/DoF to write letters and with the candidate undergoing the review.
 
 _viii. President and Provost  
 _
 
-_(a) _To interview all candidates for tenure.
+\_(a) _To interview all candidates for tenure.
 
-_(b)_ To review all items in the candidate's tenure file. (This includes letters related to the case received during the period of review from faculty, students, alumni, outside referees, and others. The president and provost normally do not review all course response forms and scholarly publications.)
+*(b)* To review all items in the candidate's tenure file. (This includes letters related to the case received during the period of review from faculty, students, alumni, outside referees, and others. The president and provost normally do not review all course response forms and scholarly publications.)
 
-_(c)_ To hear reports from the Promotions Committee on the substance of its conclusions about each constituent part of the case and about the case as a whole.
+*(c)* To hear reports from the Promotions Committee on the substance of its conclusions about each constituent part of the case and about the case as a whole.
 
-_(d)_ To challenge any conclusion of the Promotions Committee with which he or she disagrees and give the Promotions Committee an opportunity to respond.
+*(d)* To challenge any conclusion of the Promotions Committee with which he or she disagrees and give the Promotions Committee an opportunity to respond.
 
-_(e)_ To consult with the VPAA/DoF about individual cases.
+*(e)* To consult with the VPAA/DoF about individual cases.
 
 _ix. President_
 
-_(a)_ In the case of the prospect that the president will not accept the Promotions Committee's recommendation, to offer the committee, prior to making a final decision, an explanation of the reason why he or she is disposed to overrule it.
+*(a)* In the case of the prospect that the president will not accept the Promotions Committee's recommendation, to offer the committee, prior to making a final decision, an explanation of the reason why he or she is disposed to overrule it.
 
-_(b)_ In the case of a reversal of the Promotions Committee's recommendations, to explain to the committee the reasons for doing so, reasons which in a written summary become part of the review file; to invite the committee to prepare a written report explaining in detail the reasons for its recommendation; and to present this report to the trustees in an appropriate and timely fashion.
+*(b)* In the case of a reversal of the Promotions Committee's recommendations, to explain to the committee the reasons for doing so, reasons which in a written summary become part of the review file; to invite the committee to prepare a written report explaining in detail the reasons for its recommendation; and to present this report to the trustees in an appropriate and timely fashion.
 
-_(c)_ To determine, after completing the steps listed above, whether a recommendation for tenure is to be advanced to the Board of Trustees, and to do so, if tenure is to be recommended.
+*(c)* To determine, after completing the steps listed above, whether a recommendation for tenure is to be advanced to the Board of Trustees, and to do so, if tenure is to be recommended.
 
-_(d)_ To notify the candidate of the final disposition of the case.
+*(d)* To notify the candidate of the final disposition of the case.
 
 **<a name="review_promotion" id="review_promotion"></a>d. Review for Promotion to Professor**
 
@@ -534,76 +534,76 @@ This review, which normally takes place no earlier than the fifth and no later 
 
 _i. The Candidate_
 
-_(a)_ To arrange with the department chair, or chair's designate, an appropriate schedule of classroom visits.
+*(a)* To arrange with the department chair, or chair's designate, an appropriate schedule of classroom visits.
 
-_(b)_ If the candidate so desires, to invite other colleagues to visit classes.
+*(b)* If the candidate so desires, to invite other colleagues to visit classes.
 
 _(c)_ To submit to the department chair and to the Promotions Committee in a timely manner a complete vita, course syllabi, and other materials requested, as well as materials that the candidate thinks pertinent. For example, a faculty member may request the inclusion of personal comments or other materials with the course response forms which they believe may be useful in the interpretation of the forms. To submit to the program director, when relevant, a complete vita, syllabi from relevant courses, and an example of scholarly work.
 
-_(d)_ To submit to the Promotions Committee scholarly publications, and/or other appropriate evidence of scholarship or artistic achievement
+*(d)* To submit to the Promotions Committee scholarly publications, and/or other appropriate evidence of scholarship or artistic achievement
 
-_(e)_ To arrange with members of the Promotions Committee an appropriate schedule of classroom visits.
+*(e)* To arrange with members of the Promotions Committee an appropriate schedule of classroom visits.
 
-_(f)_ To write a self-evaluation that assesses the individual's career at Middlebury since promotion to tenure. The report should include an updated curriculum vitae, a schedule of courses taught since the previous review, and the faculty member's assessment of his or her research, teaching, publications and/or artistic performances, and service to the College. It should also contain a proposal for future professional development. The self-evaluation should be accompanied by pertinent publications, reviews of publications, and/or records and reviews of artistic performances, and it may, in addition, include letters of testimony from department chairs, program directors, colleagues, and/or outside professionals in the field.
+*(f)* To write a self-evaluation that assesses the individual's career at Middlebury since promotion to tenure. The report should include an updated curriculum vitae, a schedule of courses taught since the previous review, and the faculty member's assessment of his or her research, teaching, publications and/or artistic performances, and service to the College. It should also contain a proposal for future professional development. The self-evaluation should be accompanied by pertinent publications, reviews of publications, and/or records and reviews of artistic performances, and it may, in addition, include letters of testimony from department chairs, program directors, colleagues, and/or outside professionals in the field.
 
-_ (g)_ To furnish the Promotions Committee with a list of scholars or artists outside Middlebury who would be appropriate to evaluate the candidate's professional achievements. (This is not required for faculty who were awarded tenure prior to 2011.)
+* (g)* To furnish the Promotions Committee with a list of scholars or artists outside Middlebury who would be appropriate to evaluate the candidate's professional achievements. (This is not required for faculty who were awarded tenure prior to 2011.)
 
 _ii. Promotions Committee_
 
-_(a)_ To have one of its members interview the candidate.
+*(a)* To have one of its members interview the candidate.
 
-_(b) _To review the teaching program, scholarly work, and administrative and other College service during the period since the granting of tenure.
+\_(b) _To review the teaching program, scholarly work, and administrative and other College service during the period since the granting of tenure.
 
-_(c) _To examine the candidate's course response forms, publications, and other material submitted for the review.
+\_(c) _To examine the candidate's course response forms, publications, and other material submitted for the review.
 
-_(d) _To have one or more of its members visit the candidate's classes.
+\_(d) _To have one or more of its members visit the candidate's classes.
 
-_(e)_ To solicit the recommendation of the candidate's department.
+*(e)* To solicit the recommendation of the candidate's department.
 
-_(f)_ To solicit, when relevant, the recommendation of the candidate's program.
+*(f)* To solicit, when relevant, the recommendation of the candidate's program.
 
-_(g) _To solicit, as it deems appropriate, the opinions of students or recent alumni.
+\_(g) _To solicit, as it deems appropriate, the opinions of students or recent alumni.
 
-_(h) _To solicit from scholars outside the College an evaluation of the candidate's scholarship or artistic production.
+\_(h) _To solicit from scholars outside the College an evaluation of the candidate's scholarship or artistic production.
 
-_(i)_ To recommend to the president and provost whether or not the candidate should be promoted.
+*(i)* To recommend to the president and provost whether or not the candidate should be promoted.
 
 _iii. Vice President for Academic Affairs and Dean of the Faculty (VPAA/DoF)_
 
-_(a)_ To collect and make available material requested by the Promotions Committee.
+*(a)* To collect and make available material requested by the Promotions Committee.
 
-_(b)_ To be available for consultation by the Promotions Committee, the president, and the provost.
+*(b)* To be available for consultation by the Promotions Committee, the president, and the provost.
 
-_(c)_ To ensure that the candidate knows the identity of all those scholars outside the College from whom the Promotions Committee seeks an evaluation of the candidate's scholarship.
+*(c)* To ensure that the candidate knows the identity of all those scholars outside the College from whom the Promotions Committee seeks an evaluation of the candidate's scholarship.
 
 _iv. Department Chair_
 
-_(a)_ To recommend, after reviewing the candidate's course response forms, making a classroom visit or visits, and reviewing the written recommendations of departmental colleagues who are full professors, whether or not the candidate should be promoted on grounds of continued excellence in teaching, achievement in scholarship, and service to the institution.
+*(a)* To recommend, after reviewing the candidate's course response forms, making a classroom visit or visits, and reviewing the written recommendations of departmental colleagues who are full professors, whether or not the candidate should be promoted on grounds of continued excellence in teaching, achievement in scholarship, and service to the institution.
 
 _v. Program Director_
 
-_(a)_ When relevant, to recommend, after consultation with programmatic colleagues who are full professors, and after classroom visit(s), whether or not the candidate should be promoted on grounds of continued excellence in teaching, achievement in scholarship, and service to the institution.
+*(a)* When relevant, to recommend, after consultation with programmatic colleagues who are full professors, and after classroom visit(s), whether or not the candidate should be promoted on grounds of continued excellence in teaching, achievement in scholarship, and service to the institution.
 
 _vi. Dean for Faculty Development and Research (DFDR)_
 
-_(a)_ In the case of a review of a department chair or program director, to assume the role of chair or director for that review.
+*(a)* In the case of a review of a department chair or program director, to assume the role of chair or director for that review.
 
 _vii. Department Faculty Members who Hold the Rank of Professor_
 
-_(a) _To submit a letter of recommendation, when requested, to the Promotions Committee, with a copy to the department chair, that speaks to those aspects of a candidate's work with which he or she is familiar. Tenured faculty are expected to provide a letter upon request of the Committee, whether on academic leave or not.
+\_(a) _To submit a letter of recommendation, when requested, to the Promotions Committee, with a copy to the department chair, that speaks to those aspects of a candidate's work with which he or she is familiar. Tenured faculty are expected to provide a letter upon request of the Committee, whether on academic leave or not.
 
-_(b)_ Upon the invitation of a candidate, to observe a class or classes and to meet with the candidate to discuss his or her performance in the class, with suggestions for possible improvement. Such meetings will be held before the end of the term during which the visits take place.
+*(b)* Upon the invitation of a candidate, to observe a class or classes and to meet with the candidate to discuss his or her performance in the class, with suggestions for possible improvement. Such meetings will be held before the end of the term during which the visits take place.
 
 _viii. President and Provost  
 _
 
-_(a)_ To become familiar with the candidate's case.
+*(a)* To become familiar with the candidate's case.
 
-_(b)_ To consult with the Promotions Committee and to discuss with the committee its recommendation.
+*(b)* To consult with the Promotions Committee and to discuss with the committee its recommendation.
 
 _ix. President_
 
-_(a)_ To make the final decision and to notify the candidate.
+*(a)* To make the final decision and to notify the candidate.
 
 **<a name="ten_year_rev" id="ten_year_rev"></a>e. Ten-Year Review**
 
@@ -611,125 +611,125 @@ The ten-year review assesses professional achievements and service to the Colleg
 
 _i. The Candidate_
 
-_(a)_ To write a self-evaluation that assesses the individual's career at Middlebury since promotion to full professor or since the last ten-year review. The report should include an updated curriculum vitae, a schedule of courses taught since the previous review, and the faculty member's assessment of his or her research, teaching, publications, and/or artistic performances, and service to the College. It should also contain a proposal for future professional development. The self-evaluation should be accompanied by pertinent publications, reviews of publications, and/or records and reviews of artistic performances, and it may, in addition, include letters of testimony from department chairs, program directors, colleagues, and/or outside professionals in the field.
+*(a)* To write a self-evaluation that assesses the individual's career at Middlebury since promotion to full professor or since the last ten-year review. The report should include an updated curriculum vitae, a schedule of courses taught since the previous review, and the faculty member's assessment of his or her research, teaching, publications, and/or artistic performances, and service to the College. It should also contain a proposal for future professional development. The self-evaluation should be accompanied by pertinent publications, reviews of publications, and/or records and reviews of artistic performances, and it may, in addition, include letters of testimony from department chairs, program directors, colleagues, and/or outside professionals in the field.
 
 _ii. Reappointments Committee_
 
-_(a)_ To have one of its members meet with the candidate to discuss the candidate's report and any supporting material presented.
+*(a)* To have one of its members meet with the candidate to discuss the candidate's report and any supporting material presented.
 
-_(b)_ To visit classes or to view videotapes of classroom performance if the Reappointments Committee considers it appropriate or should the candidate so request.
+*(b)* To visit classes or to view videotapes of classroom performance if the Reappointments Committee considers it appropriate or should the candidate so request.
 
-_(c) _To solicit, as it deems appropriate, the opinions of students or recent alumni.
+\_(c) _To solicit, as it deems appropriate, the opinions of students or recent alumni.
 
-_(d) _To consult course response forms.
+\_(d) _To consult course response forms.
 
-_(e) _To consult, as it deems appropriate, the department chair, program director, or other senior colleagues.
+\_(e) _To consult, as it deems appropriate, the department chair, program director, or other senior colleagues.
 
-_(f)_ To draft a letter expressing its conclusions from the review. This letter will be sent first to the faculty member who may choose to respond to the Reappointments Committee's letter in writing and/or to request a meeting with the committee. The Reappointments Committee will then submit to the provost and the VPAA/DoF copies of the revised letter and any written response from the faculty member.
+*(f)* To draft a letter expressing its conclusions from the review. This letter will be sent first to the faculty member who may choose to respond to the Reappointments Committee's letter in writing and/or to request a meeting with the committee. The Reappointments Committee will then submit to the provost and the VPAA/DoF copies of the revised letter and any written response from the faculty member.
 
 _iii. Vice President for Academic Affairs and Dean of the Faculty (VPAA/DoF)_
 
-_(a)_ To meet with the Reappointments Committee when requested.
+*(a)* To meet with the Reappointments Committee when requested.
 
-_(b)_ As appropriate, to recognize unusually distinguished service, or to consider action with respect to problems that have become apparent during the review.
+*(b)* As appropriate, to recognize unusually distinguished service, or to consider action with respect to problems that have become apparent during the review.
 
-_(c)_ To discuss, as appropriate, with the faculty member under review ways in which the College might help that person attain his or her goals for professional growth.
+*(c)* To discuss, as appropriate, with the faculty member under review ways in which the College might help that person attain his or her goals for professional growth.
 
 **<a name="contract_rev" id="contract_rev"></a>f. Contract Reviews**
 
 A contract review concentrates on promise and performance as a teacher and, in the case of Special Appointment faculty undergoing a review for promotion to Associate Professor (without tenure) or Associate Laboratory Professor, on service and scholarship and/or pedagogical innovation. Among the information considered by the Reappointments Committee, the departmental or programmatic evaluation will be accorded the greatest weight; however, the Reappointments Committee will also review course materials, and course response forms, and will consider the composition and long-term needs of the department or program and the faculty in arriving at its final recommendation. In the case of Special Appointment faculty undergoing a review for promotion to Associate Professor (without tenure) or Associate Laboratory Professor, the Reappointments Committee will also examine evidence for scholarship and/or pedagogical innovation. The review will follow the procedures in 3.f.i. through 3.f.vii. below.
 
-When a candidate on a term appointment may be renewed, and the Educational Affairs Committee has authorized a continuation of the position held, the candidates' performance in teaching, as the teaching responsibilities are defined by the position held, will be reviewed. The review will follow the procedures in 3.f.i. through 3.f.vii. below, except that expectations for performance in teaching will rise as the candidate becomes more senior in service. 
+When a candidate on a term appointment may be renewed, and the Educational Affairs Committee has authorized a continuation of the position held, the candidates' performance in teaching, as the teaching responsibilities are defined by the position held, will be reviewed. The review will follow the procedures in 3.f.i. through 3.f.vii. below, except that expectations for performance in teaching will rise as the candidate becomes more senior in service.
 
-Special Appointment faculty holding positions of 0.5 FTE or greater who have had two successful Contract Reviews may request that a subsequent review include consideration of promotion to Associate Professor (without tenure) or Associate Laboratory Professor, as appropriate. In that case, the Reappointments Committee will also consider service to the institution and scholarship and/or pedagogical innovation as a component of the review. Excellence in teaching will remain the sole criterion for reappointment, but candidates who have completed significant service to the institution, as defined in subsection 2.d. and who have established a clear record of significant scholarly activity and/or pedagogical innovation may be recommended for promotion to Associate Professor (without tenure) or Associate Laboratory Professor. In the event that the record of scholarly activity and/or pedagogical innovation is not deemed  adequate for promotion, but the record of teaching excellence is deemed appropriate for reappointment, the faculty member will be reappointed as Assistant Professor (non-tenure-track) or Assistant Laboratory Professor. 
+Special Appointment faculty holding positions of 0.5 FTE or greater who have had two successful Contract Reviews may request that a subsequent review include consideration of promotion to Associate Professor (without tenure) or Associate Laboratory Professor, as appropriate. In that case, the Reappointments Committee will also consider service to the institution and scholarship and/or pedagogical innovation as a component of the review. Excellence in teaching will remain the sole criterion for reappointment, but candidates who have completed significant service to the institution, as defined in subsection 2.d. and who have established a clear record of significant scholarly activity and/or pedagogical innovation may be recommended for promotion to Associate Professor (without tenure) or Associate Laboratory Professor. In the event that the record of scholarly activity and/or pedagogical innovation is not deemed  adequate for promotion, but the record of teaching excellence is deemed appropriate for reappointment, the faculty member will be reappointed as Assistant Professor (non-tenure-track) or Assistant Laboratory Professor.
 
-A candidate on visiting appointment with a title normally associated with a regular appointment (e.g., Visiting Assistant Professor) may be renewed, but only up to a maximum of three years in that position. After that point, at the time of renewal the position will be converted to the appropriate level Special Appointment (e.g., Associate Professor, non-tenure-track). 
+A candidate on visiting appointment with a title normally associated with a regular appointment (e.g., Visiting Assistant Professor) may be renewed, but only up to a maximum of three years in that position. After that point, at the time of renewal the position will be converted to the appropriate level Special Appointment (e.g., Associate Professor, non-tenure-track).
 
 _<a name="contract_responsibilities" id="contract_responsibilities"></a>i. The Candidate_
 
-_(a)_ To arrange with the chair or director, or the chair's or director's designate, an appropriate schedule of classroom visits.
+*(a)* To arrange with the chair or director, or the chair's or director's designate, an appropriate schedule of classroom visits.
 
-_(b)_ If the candidate so desires, to invite other colleagues to visit classes.
+*(b)* If the candidate so desires, to invite other colleagues to visit classes.
 
-_(c) _To submit to the department chair and to the Promotions Committee in a timely manner a complete vita, course syllabi, and other materials requested, as well as materials that the candidate thinks pertinent. For example, a faculty member may request the inclusion of personal comments or other materials with the course response forms which they believe may be useful in the interpretation of the forms. To submit to the program director, when relevant, a complete vita, syllabi from relevant courses, and an example of scholarly work.
+\_(c) _To submit to the department chair and to the Promotions Committee in a timely manner a complete vita, course syllabi, and other materials requested, as well as materials that the candidate thinks pertinent. For example, a faculty member may request the inclusion of personal comments or other materials with the course response forms which they believe may be useful in the interpretation of the forms. To submit to the program director, when relevant, a complete vita, syllabi from relevant courses, and an example of scholarly work.
 
-_(d)_ To prepare and submit to the Reappointments Committee a self-evaluation, concentrating particularly on teaching with reference to the criteria listed in 2.b. above. For reviews of faculty appointed as Associate Professor (without tenure) or Associate Laboratory Professor or those reviews associated with a request to be appointed as Associate Professor (without tenure) or Associate Laboratory Professor, the self-evaluation should also address the candidate's activity in scholarship and/or pedagogical innovation. 
+*(d)* To prepare and submit to the Reappointments Committee a self-evaluation, concentrating particularly on teaching with reference to the criteria listed in 2.b. above. For reviews of faculty appointed as Associate Professor (without tenure) or Associate Laboratory Professor or those reviews associated with a request to be appointed as Associate Professor (without tenure) or Associate Laboratory Professor, the self-evaluation should also address the candidate's activity in scholarship and/or pedagogical innovation.
 
 _ii. Reappointments Committee_
 
-_(a)_ To meet with the candidates undergoing contract reviews, in a group or individually, to explain to them the procedures and to invite the candidates to submit, either orally or in writing, any additional information that may be pertinent to their reviews. A candidate's decision not to submit such materials is in no way prejudicial to reappointment.
+*(a)* To meet with the candidates undergoing contract reviews, in a group or individually, to explain to them the procedures and to invite the candidates to submit, either orally or in writing, any additional information that may be pertinent to their reviews. A candidate's decision not to submit such materials is in no way prejudicial to reappointment.
 
-_(b)_ To interview or to request information from other members of the College community, alumni, and persons off campus, as it deems necessary.
+*(b)* To interview or to request information from other members of the College community, alumni, and persons off campus, as it deems necessary.
 
-_(c)_ To examine all the materials submitted to the committee in the case, and all other materials that may be pertinent to the review, including letters from other colleagues at Middlebury, and letters from students, alumni, or appropriate professionals outside Middlebury.
+*(c)* To examine all the materials submitted to the committee in the case, and all other materials that may be pertinent to the review, including letters from other colleagues at Middlebury, and letters from students, alumni, or appropriate professionals outside Middlebury.
 
-_(d)_ To read and consider the course response forms.
+*(d)* To read and consider the course response forms.
 
-_(e)_ To make visits to a candidate's classes or public lectures or performances if the committee deems it appropriate to do so, and in the case of classroom visits, to make arrangements in advance. (Commentary on teaching will not be offered by members of the Reappointments Committee if visits are made.)
+*(e)* To make visits to a candidate's classes or public lectures or performances if the committee deems it appropriate to do so, and in the case of classroom visits, to make arrangements in advance. (Commentary on teaching will not be offered by members of the Reappointments Committee if visits are made.)
 
-_(f) _To keep written records of all interviews.
+\_(f) _To keep written records of all interviews.
 
-_(g) _In any case where the committee determines that a departmental or programmatic recommendation requires further clarification, or when the Reappointments Committee is inclined to reject the departmental or programmatic recommendation, to interview the department chair or program director, and, if the Reappointments Committee so chooses, any other tenured member or members of the department or program the Reappointments Committee deems appropriate; in either or each instance to place a written summary of the meeting(s) in the candidate's file.
+\_(g) _In any case where the committee determines that a departmental or programmatic recommendation requires further clarification, or when the Reappointments Committee is inclined to reject the departmental or programmatic recommendation, to interview the department chair or program director, and, if the Reappointments Committee so chooses, any other tenured member or members of the department or program the Reappointments Committee deems appropriate; in either or each instance to place a written summary of the meeting(s) in the candidate's file.
 
-_(h) _To convey to the provost the committee's conclusions about the constituent considerations of the review, a final recommendation and the reasons for it. To record its final recommendation and make it a part of the review file. In the case of reviews associated with a request to be appointed as Associate Professor (without tenure) or Associate Laboratory Professor, the committee will make recommendations about both the renewal and the appointment as Associate Professor (without tenure) or Associate Laboratory Professor. A candidate for review who has met the teaching criteria for reappointment but has not demonstrated significant scholarly activity and/or pedagogical innovation will be reappointed as Assistant Professor (non-tenure-track) or Assistant Laboratory Professor.
+\_(h) _To convey to the provost the committee's conclusions about the constituent considerations of the review, a final recommendation and the reasons for it. To record its final recommendation and make it a part of the review file. In the case of reviews associated with a request to be appointed as Associate Professor (without tenure) or Associate Laboratory Professor, the committee will make recommendations about both the renewal and the appointment as Associate Professor (without tenure) or Associate Laboratory Professor. A candidate for review who has met the teaching criteria for reappointment but has not demonstrated significant scholarly activity and/or pedagogical innovation will be reappointed as Assistant Professor (non-tenure-track) or Assistant Laboratory Professor.
 
-_(i)_ In the case that the Reappointments Committee does not recommend contract renewal, to explain to the provost the reasons for doing so, to prepare a written summary explaining these reasons, and to include this document in the review file.
+*(i)* In the case that the Reappointments Committee does not recommend contract renewal, to explain to the provost the reasons for doing so, to prepare a written summary explaining these reasons, and to include this document in the review file.
 
-_(j) _To hear and respond to any conclusions of the provost that may differ from their own. To review with the provost those materials that pertain directly to any area of disagreement.
+\_(j) _To hear and respond to any conclusions of the provost that may differ from their own. To review with the provost those materials that pertain directly to any area of disagreement.
 
-_(k) _To meet with the candidate, or authorize the VPAA/DoF to meet on their behalf, within four weeks of the completion of a successful review to provide an assessment of the candidate's performance, to summarize the information on which the Reappointments Committee based its decision, and to provide the candidate and the chairperson of the candidate's department or director of the candidate's program with a written summary of the meeting prepared by the VPAA/DoF. In this meeting, the committee should interpret the views of others without revealing their names. All summaries of reappointment review meetings will begin with the following paragraph: "The following summary of a meeting between _________________ (the candidate) and the Reappointments Committee is made available to the candidate, who has successfully passed a review for reappointment at Middlebury College, and to the candidate's department chair or program director, solely for the purpose of providing a record of the meeting held to discuss the review just completed. Nothing stated in the summary, or in the course of the review, carries with it any presumption about the outcome of any subsequent review. Similarly, the findings and recommendations of the Reappointments Committee at this review are not determinative of any assessment of the candidate's professional development at a later review. At all reviews, the Reappointments Committee or the Promotions Committee makes an independent determination governed only by the standards for reappointment, promotion, and tenure as then published in the College's Rules of Appointment and Tenure, with which faculty members are expected to be familiar."
+\_(k) _To meet with the candidate, or authorize the VPAA/DoF to meet on their behalf, within four weeks of the completion of a successful review to provide an assessment of the candidate's performance, to summarize the information on which the Reappointments Committee based its decision, and to provide the candidate and the chairperson of the candidate's department or director of the candidate's program with a written summary of the meeting prepared by the VPAA/DoF. In this meeting, the committee should interpret the views of others without revealing their names. All summaries of reappointment review meetings will begin with the following paragraph: "The following summary of a meeting between **\*\*\*\***\_**\*\*\*\*** (the candidate) and the Reappointments Committee is made available to the candidate, who has successfully passed a review for reappointment at Middlebury College, and to the candidate's department chair or program director, solely for the purpose of providing a record of the meeting held to discuss the review just completed. Nothing stated in the summary, or in the course of the review, carries with it any presumption about the outcome of any subsequent review. Similarly, the findings and recommendations of the Reappointments Committee at this review are not determinative of any assessment of the candidate's professional development at a later review. At all reviews, the Reappointments Committee or the Promotions Committee makes an independent determination governed only by the standards for reappointment, promotion, and tenure as then published in the College's Rules of Appointment and Tenure, with which faculty members are expected to be familiar."
 
-_(l)_ In the case of unsuccessful review, to offer to meet with the candidate for the same purpose.
+*(l)* In the case of unsuccessful review, to offer to meet with the candidate for the same purpose.
 
 _iii. Vice President for Academic Affairs and Dean of the Faculty (VPAA/DoF)_
 
-_(a)_ To initiate the review, in a timely fashion, so that all necessary information and documentation may be obtained from the candidate and other sources.
+*(a)* To initiate the review, in a timely fashion, so that all necessary information and documentation may be obtained from the candidate and other sources.
 
-_(b)_ To solicit information, on behalf of the Reappointments Committee, from candidates under review; to gather information from other sources when so requested by the Reappointments Committee.
+*(b)* To solicit information, on behalf of the Reappointments Committee, from candidates under review; to gather information from other sources when so requested by the Reappointments Committee.
 
-_(c)_ To maintain the candidates' review files, including course response forms.
+*(c)* To maintain the candidates' review files, including course response forms.
 
-_(d)_ To serve as recording secretary of the Reappointments Committee.
+*(d)* To serve as recording secretary of the Reappointments Committee.
 
-_(e)_ To provide counsel to the Reappointments Committee during the course of its deliberations.
+*(e)* To provide counsel to the Reappointments Committee during the course of its deliberations.
 
-_(f)_ To provide counsel to the provost when the Reappointments Committee's deliberations are completed.
+*(f)* To provide counsel to the provost when the Reappointments Committee's deliberations are completed.
 
-_(g)_ In the case that the Reappointments Committee does not recommend contract renewal, to prepare a written summary explaining to the provost the committee's reasons for doing so, and to include this document in the review file.
+*(g)* In the case that the Reappointments Committee does not recommend contract renewal, to prepare a written summary explaining to the provost the committee's reasons for doing so, and to include this document in the review file.
 
 _iv. Dean for Faculty Development and Research (DFDR)_
 
-_(a)_ In the case of a review of a department chair or program director, to assume the role of chair or director for that review.
+*(a)* In the case of a review of a department chair or program director, to assume the role of chair or director for that review.
 
 _v. Department Chair or Program Director_
 
-_(a)_ To arrange with the candidate an appropriate schedule of classroom visits by the chair or director or the chair's or director's designate, and to ensure that the number of visits by other colleagues does not unnecessarily disrupt the candidate's courses.
+*(a)* To arrange with the candidate an appropriate schedule of classroom visits by the chair or director or the chair's or director's designate, and to ensure that the number of visits by other colleagues does not unnecessarily disrupt the candidate's courses.
 
-_(b)_ To review the candidate's course response forms, available electronically through the Office of the Vice President for Academic Affairs and Dean of the Faculty.
+*(b)* To review the candidate's course response forms, available electronically through the Office of the Vice President for Academic Affairs and Dean of the Faculty.
 
-_(c) _To submit a letter to the Reappointments Committee containing the departmental or programmatic evaluation according to section 2.e. or 2.f. The focus of the departmental or programmatic evaluation will be upon the candidate's teaching performance and promise as a teacher and scholar. This letter will be shared with the tenured members of the department or program and the candidate undergoing the review.
+\_(c) _To submit a letter to the Reappointments Committee containing the departmental or programmatic evaluation according to section 2.e. or 2.f. The focus of the departmental or programmatic evaluation will be upon the candidate's teaching performance and promise as a teacher and scholar. This letter will be shared with the tenured members of the department or program and the candidate undergoing the review.
 
-_(d)_ To make available to the candidate a copy of the departmental or programmatic letter.
+*(d)* To make available to the candidate a copy of the departmental or programmatic letter.
 
-_(e) _To meet with the candidate to discuss the contents of the departmental or programmatic evaluation.
+\_(e) _To meet with the candidate to discuss the contents of the departmental or programmatic evaluation.
 
 _vi. Tenured Department or Program Faculty Members_
 
-_(a) _To submit a letter of recommendation, when requested, to the Reappointments Committee, with a copy to the department chair or program director, that speaks to those aspects of a candidate's work with which he or she is familiar. Tenured faculty are expected to provide a letter upon request by the Committee, whether on academic leave or not.
+\_(a) _To submit a letter of recommendation, when requested, to the Reappointments Committee, with a copy to the department chair or program director, that speaks to those aspects of a candidate's work with which he or she is familiar. Tenured faculty are expected to provide a letter upon request by the Committee, whether on academic leave or not.
 
-_(b)_ Upon the invitation of a candidate, to observe a class or classes and to meet with the candidate to discuss his or her performance in the class, with suggestions for possible improvement. Such meetings will be held before the end of the term during which the visits take place.
+*(b)* Upon the invitation of a candidate, to observe a class or classes and to meet with the candidate to discuss his or her performance in the class, with suggestions for possible improvement. Such meetings will be held before the end of the term during which the visits take place.
 
 _vii. Provost_
 
-_(a)_ To hear reports from the Reappointments Committee on the substance of its conclusions about each constituent part of the case and about the case as a whole.
+*(a)* To hear reports from the Reappointments Committee on the substance of its conclusions about each constituent part of the case and about the case as a whole.
 
-_(b)_ To consult with the VPAA/DoF about the individual cases.
+*(b)* To consult with the VPAA/DoF about the individual cases.
 
-_(c)_ To challenge any conclusion of the Reappointments Committee with which he or she disagrees and give the Reappointments Committee an opportunity to respond.
+*(c)* To challenge any conclusion of the Reappointments Committee with which he or she disagrees and give the Reappointments Committee an opportunity to respond.
 
-_(d)_ In the case of a reversal of the committee's recommendation, to explain to the committee the reasons for doing so, reasons which in a written summary become part of the review file.
+*(d)* In the case of a reversal of the committee's recommendation, to explain to the committee the reasons for doing so, reasons which in a written summary become part of the review file.
 
-_(e) _To make the final decision and to notify the candidate in a letter that indicates the recommendation of the Reappointments Committee.
+\_(e) _To make the final decision and to notify the candidate in a letter that indicates the recommendation of the Reappointments Committee.
 
 **<a name="prior_service" id="prior_service"></a>4\. PRIOR SERVICE, EARLY REVIEW, AND LENGTH OF APPOINTMENT UNDER "NEW" RULES**
 
@@ -896,12 +896,12 @@ Initial term appointments to the Middlebury College faculty may range from one t
 **<a name="length_appt_tenure" id="length_appt_tenure"></a>c. Length of Appointment and Tenure**  
 A faculty member with a regular full-time appointment may not serve beyond the eighth year (at Middlebury or as accumulated) without review for tenure, except when the initial term appointment carries beyond the eighth year (as accumulated). With the exceptions noted below, faculty members holding special full-time appointments may not be reappointed beyond the eighth year of full-time teaching at Middlebury College. This limitation does not apply to faculty members in the following categories as defined previously in section 1.c.ii., Faculty Appointments, Special Appointments.
 
-i._ Lecturers and Senior Lecturers  
-_ii._ Assistant Professor (non-tenure-track) and Associate Professor (without tenure)  
-_iii._ Assistants in Instruction  
-_iv._ Laboratory Instructor, Assistant Laboratory Professor, and Associate Laboratory Professor  
+i.* Lecturers and Senior Lecturers  
+\_ii.* Assistant Professor (non-tenure-track) and Associate Professor (without tenure)  
+*iii.* Assistants in Instruction  
+*iv.* Laboratory Instructor, Assistant Laboratory Professor, and Associate Laboratory Professor  
 _v. _Members of the Department of Physical Education  
-_vi. _Administrative appointments with faculty rank_
+\_vi. _Administrative appointments with faculty rank_
 
 When (following a stringent review by the Reappointments Committee) a full-time faculty member is appointed beyond the eighth year, the length of the employment contract will normally be from three to five years.
 

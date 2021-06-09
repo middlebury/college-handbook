@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process/d.-sanctions-for-general-non-academic-offenses"
+slug: "/pages/iv-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process/d.-sanctions-for-general-non-academic-offenses"
 date: "2021-05-01"
 title: "D. Sanctions for General Non-Academic Offenses"
 ---
@@ -16,7 +16,7 @@ Although discipline is cumulative at the Institute, which may result in greater 
 
 The sanctions below are listed in order of increasing severity.
 
-#### **1.  Unofficial Forms of Discipline**
+#### **1. Unofficial Forms of Discipline**
 
 #### **<span style="color:#660000">a. Warnings</span>**
 
@@ -60,4 +60,4 @@ For particularly serious offenses, students may be permanently expelled from the
 
 Fines or restitution commensurate with the nature of the offense may also be assigned. The monetary cost of the harm done may be taken into account in assessment of a fine or an order of restitution.
 
-A sanction of suspension or expulsion is ordinarily stayed pending the outcome of any authorized appeal. However, if the judicial authority which imposed this sanction makes a finding that imminent danger to one or more members of the Institute community may exist, suspension or expulsion will take effect immediately regardless of the pendency of an appeal. Please also see the section Institute Initiated Leave of Absence, Emergency Withdrawal, Suspension or Expulsion in the [Student Conduct Policy Overview](http://www.middlebury.edu/about/handbook/iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.c.-student-conduct-policy-overview).
+A sanction of suspension or expulsion is ordinarily stayed pending the outcome of any authorized appeal. However, if the judicial authority which imposed this sanction makes a finding that imminent danger to one or more members of the Institute community may exist, suspension or expulsion will take effect immediately regardless of the pendency of an appeal. Please also see the section Institute Initiated Leave of Absence, Emergency Withdrawal, Suspension or Expulsion in the [Student Conduct Policy Overview](http://www.middlebury.edu/pages/iv-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.c.-student-conduct-policy-overview).

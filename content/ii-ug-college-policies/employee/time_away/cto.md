@@ -10,7 +10,7 @@ It is not necessary to distinguish how the time is being used (i.e. vacation, si
 
 ## Eligibility
 
-Most full-time regular staff employees and benefits-eligible part-time staff employees accrue CTO, beginning in the first pay period in which the employees are paid. (See Handbook section [2.3 Basic Information about Employment at Middlebury College](http://www.middlebury.edu/about/handbook/employee/employment/basic_info) for definitions of regular full-time and benefits-eligible part-time.)
+Most full-time regular staff employees and benefits-eligible part-time staff employees accrue CTO, beginning in the first pay period in which the employees are paid. (See Handbook section [2.3 Basic Information about Employment at Middlebury College](http://www.middlebury.edu/pages/employee/employment/basic_info) for definitions of regular full-time and benefits-eligible part-time.)
 
 Faculty, temporary, seasonal, part-time employees in positions budgeted for less than 1,000 hours per year, as well as a small number of special jobs, are not eligible for CTO.
 
@@ -138,7 +138,7 @@ Over 20 Years
 
 ## <a name="CTO_MAX" id="CTO_MAX"></a>CTO Maximum
 
-<span>The following chart outlines CTO maximum accruals.  
+<span>The following chart outlines CTO maximum accruals.
 
 </span>
 
@@ -152,7 +152,7 @@ Over 20 Years
 
 <td style="border:1px solid #000000; width:197px" valign="top">
 
-**Maximum (hours) at fiscal year end***
+**Maximum (hours) at fiscal year end\***
 
 </td>
 
@@ -194,7 +194,7 @@ Staff on 7.75 Hrs./Day Schedules
 
 </table>
 
-*The fiscal year end maximum is applied at the end of the fiscal year in June. Any CTO over the maximum will be automatically moved to SLR.
+\*The fiscal year end maximum is applied at the end of the fiscal year in June. Any CTO over the maximum will be automatically moved to SLR.
 
 At any other time of year there is no maximum accrual.
 
@@ -208,9 +208,9 @@ In all cases of separation, final CTO payout may be withheld until keys, ID card
 
 ### General CTO guidelines
 
-The combination of CTO and regular worked hours each pay period should equal an employee's regular scheduled hours. Part-time employees may not enter CTO in excess of their scheduled hours. Employees not on a formal leave status must use CTO to cover absences from work unless their supervisor and/or Human Resources has granted an unpaid absence. Employees may not choose to take time unpaid.  
+The combination of CTO and regular worked hours each pay period should equal an employee's regular scheduled hours. Part-time employees may not enter CTO in excess of their scheduled hours. Employees not on a formal leave status must use CTO to cover absences from work unless their supervisor and/or Human Resources has granted an unpaid absence. Employees may not choose to take time unpaid.
 
-Please refer to the [Personal Leave of Absence Policy](http://www.middlebury.edu/about/handbook/employee/time_away/personal_leave) for unpaid absences in excess of a full pay period.
+Please refer to the [Personal Leave of Absence Policy](http://www.middlebury.edu/pages/employee/time_away/personal_leave) for unpaid absences in excess of a full pay period.
 
 ### Non-exempt staff CTO Use
 

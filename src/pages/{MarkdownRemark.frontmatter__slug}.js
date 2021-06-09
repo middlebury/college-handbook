@@ -1,5 +1,5 @@
-import React from "react";
-import { graphql } from "gatsby";
+import React from 'react';
+import { graphql } from 'gatsby';
 
 export default function Template({ data }) {
   const { markdownRemark } = data;
@@ -13,8 +13,8 @@ export default function Template({ data }) {
 }
 
 export const query = graphql`
-  query ($slug: String!) {
-    markdownRemark(frontmatter: { slug: { eq: $slug } }) {
+  query ($id: String!) {
+    markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")

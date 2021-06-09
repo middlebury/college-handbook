@@ -4,7 +4,7 @@ date: "2021-05-01"
 title: "B.1.d. Service and Assistance Animals Policy"
 ---
 
-This policy addresses Service Animals and Assistance Animals, as defined below, while they are on campus. For policies regarding general pets and animals on the Vermont campus, see the Pet Policy section of the College Handbook ([II.A.6\. Pet Policy](http://www.middlebury.edu/about/handbook/ug-college-policies/commun-policies/pets)).
+This policy addresses Service Animals and Assistance Animals, as defined below, while they are on campus. For policies regarding general pets and animals on the Vermont campus, see the Pet Policy section of the College Handbook ([II.A.6\. Pet Policy](http://www.middlebury.edu/pages/ii-ug-college-policies/commun-policies/pets)).
 
 **A.      <span>Service Animals</span>**
 
@@ -24,9 +24,9 @@ Middlebury encourages students, faculty, and staff to register their service ani
 
 The definition of assistance animals under the FHA (Fair Housing Act) and for the purposes of Middlebury’s policies is broader than the definition of "service animal" under the ADA, and may include animals that work, provide assistance, or perform tasks for the benefit of a person with a disability, but do not meet the ADA definition of "service animal" as defined above. Assistance animals can also provide emotional support that alleviates one or more identified symptoms of a person's disability. An assistance animal is not a pet.
 
-The United States Department of Housing and Urban Development applies the FHA to numerous housing situations including dorms and residence halls on college and university campuses. It requires such entities to provide _reasonable accommodations_ for people with disabilities living in dorms and residence halls. Assistance animals are considered a reasonable accommodation under the FHA. 
+The United States Department of Housing and Urban Development applies the FHA to numerous housing situations including dorms and residence halls on college and university campuses. It requires such entities to provide _reasonable accommodations_ for people with disabilities living in dorms and residence halls. Assistance animals are considered a reasonable accommodation under the FHA.
 
-Because assistance animals do not qualify as service animals under the ADA, they are only allowed in the room and building of the student, faculty or staff member who has been approved for reasonable accommodation. They will be allowed in outdoor spaces under proper handling when appropriate, but they are not allowed in other rooms or buildings on campus. 
+Because assistance animals do not qualify as service animals under the ADA, they are only allowed in the room and building of the student, faculty or staff member who has been approved for reasonable accommodation. They will be allowed in outdoor spaces under proper handling when appropriate, but they are not allowed in other rooms or buildings on campus.
 
 **i.  Reasonable Accommodation Request for Assistance Animals**
 
@@ -82,6 +82,6 @@ Middlebury maintains the right to remove an animal under certain circumstances i
 
 -if it causes disturbances such as noise, barking, or excessive odors, or
 
--if it poses a direct threat to any member of the Middlebury community. 
+-if it poses a direct threat to any member of the Middlebury community.
 
 _Updated: March 29, 2019_

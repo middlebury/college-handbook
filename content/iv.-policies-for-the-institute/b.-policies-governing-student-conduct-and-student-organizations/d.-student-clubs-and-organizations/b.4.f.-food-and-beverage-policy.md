@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/d.-student-clubs-and-organizations/b.4.f.-food-and-beverage-policy"
+slug: "/pages/iv-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/d.-student-clubs-and-organizations/b.4.f.-food-and-beverage-policy"
 date: "2021-05-01"
 title: "B.4.f. Food and Beverage Policy"
 ---

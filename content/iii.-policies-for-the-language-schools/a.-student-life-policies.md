@@ -1,22 +1,23 @@
 ---
-slug: /pages/iii.-policies-for-the-language-schools/a.-student-life-policies
+slug: /pages/iii-policies-for-the-language-schools/a.-student-life-policies
 date: 2021-05-01
 title: A. Student Conduct Policies
 ---
-All Middlebury Language Schools students are subject to the [Middlebury-wide Policies](http://www.middlebury.edu/about/handbook/policies-for-all) in the Middlebury Handbook. In addition, students are subject to the policies listed below:
 
-[Community Standards](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/a.-introductory-matters#community-standards)
+All Middlebury Language Schools students are subject to the [Middlebury-wide Policies](http://www.middlebury.edu/pages/i-policies-for-all) in the Middlebury Handbook. In addition, students are subject to the policies listed below:
 
-[Scope of Oversight](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/a.-introductory-matters#scope-of-oversight)
+[Community Standards](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a.-introductory-matters#community-standards)
 
-[Pending Discipline](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/a.-introductory-matters#pending-discipline)
+[Scope of Oversight](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a.-introductory-matters#scope-of-oversight)
 
-[Disciplinary Process](http://www.middlebury.edu/about/handbook/iii.-policies-for-the-language-schools/a.-student-life-policies/disciplinary-process)
+[Pending Discipline](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a.-introductory-matters#pending-discipline)
 
-[General Conduct Standards](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards)
+[Disciplinary Process](http://www.middlebury.edu/pages/iii-policies-for-the-language-schools/a.-student-life-policies/disciplinary-process)
 
-[Policy Against Hazing](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy)
+[General Conduct Standards](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards)
 
-[Community Bias Response Team Policy](http://www.middlebury.edu/about/handbook/ug-college-policies/commun-policies/cbrt)
+[Policy Against Hazing](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy)
 
-[Withdrawals and Readmission](http://www.middlebury.edu/about/handbook/iii.-policies-for-the-language-schools/a.-student-life-policies/withdrawals-and-readmission)
+[Community Bias Response Team Policy](http://www.middlebury.edu/pages/ii-ug-college-policies/commun-policies/cbrt)
+
+[Withdrawals and Readmission](http://www.middlebury.edu/pages/iii-policies-for-the-language-schools/a.-student-life-policies/withdrawals-and-readmission)

@@ -4,8 +4,8 @@ date: "2021-05-01"
 title: "B.2.d. Student Conduct Process"
 ---
 
-* * *
-    
+---
+
 <p><strong>TABLE OF CONTENTS</strong></p>
 <p><a href="#intro"><strong>I. Introduction to Middlebury Student Discipline Processes</strong></a></p>
 <p style="padding-left:30px"><a href="#overview">a. Overview</a></p>
@@ -26,17 +26,17 @@ title: "B.2.d. Student Conduct Process"
 <p><a href="#appeals"><strong>VIII. Appeals</strong></a></p>
 <p><strong>&nbsp;</strong></p>
 
-* * *
+---
 
 # <a name="intro" id="intro"></a>I. Introduction to Middlebury Student Discipline Processes
 
 ### <a name="overview" id="overview"></a>a. Overview
 
-Middlebury strives to balance individual growth with community health and growth, through our shared [Community Standards](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/a.-introductory-matters), [Middlebury-Wide Policies](http://www.middlebury.edu/about/handbook/policies-for-all), [General Conduct Standards](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) for students, and the student discipline procedures that enforce general conduct expectations. Our discipline processes are intended to be educational, first and foremost. Where other Middlebury policies specify separate procedures, those procedures will apply.
+Middlebury strives to balance individual growth with community health and growth, through our shared [Community Standards](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a.-introductory-matters), [Middlebury-Wide Policies](http://www.middlebury.edu/pages/i-policies-for-all), [General Conduct Standards](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) for students, and the student discipline procedures that enforce general conduct expectations. Our discipline processes are intended to be educational, first and foremost. Where other Middlebury policies specify separate procedures, those procedures will apply.
 
 The Office of Community Standards and the Judicial Board’s enforcement of Middlebury policies is under the oversight of the Vice-President for Student Affairs and the Dean of Students.  The VPSA/DOS is responsible for consulting with the Vice-President of Academic Affairs/Dean of the Faculty in regards to academic honesty and integrity, and other student conduct expectations.  The VPSA/DOS is responsible for establishing appropriate investigation, adjudication, and appeal procedures for the Judicial Board.  These procedures are published in the Middlebury Handbook.  Suggested revisions may be submitted to the Office of Community Standards, and/or the VPSA at any time, although revisions are ordinarily implemented during the summer.  The Office of Community Standards will make available to the faculty a report about Judicial Board matters in the aggregate, without personally identifiable information, on an annual basis.
 
-Concerns about student behavior should be shared with the Office of Community Standards as a starting point, although the Office may refer specific behaviors to other processes, for example the TIX Sexual Harassment Investigations & Resolutions Procedure.   The Office of Community Standards administers the disciplinary procedures for both academic conduct, and student life conduct.  Concerns about academic integrity as well as non-academic student behavior should first directed to the Office of Community Standards, unless they involve discrimination, in which case they should be directed first to the Civil Rights/Title IX Coordinator. 
+Concerns about student behavior should be shared with the Office of Community Standards as a starting point, although the Office may refer specific behaviors to other processes, for example the TIX Sexual Harassment Investigations & Resolutions Procedure.   The Office of Community Standards administers the disciplinary procedures for both academic conduct, and student life conduct.  Concerns about academic integrity as well as non-academic student behavior should first directed to the Office of Community Standards, unless they involve discrimination, in which case they should be directed first to the Civil Rights/Title IX Coordinator.
 
 Conduct matters may be resolved in several ways.  Restorative justice may be available for both academic and non-academic issues.  Conduct issues where the relevant facts are not in dispute will ordinarily be resolved by the assignment of a sanction from the Office of Community Standards.  If a student is assigned a sanction of official college discipline, they may appeal that sanction to the appropriate Vice-President or Dean.  For conduct issues where the facts are disputed, a hearing will be held before the Judicial Board.  The Board will determine the facts and make a recommendation regarding sanction to the Office of Community Standards.  Procedures for Judicial Board hearings are outlined below.
 
@@ -44,7 +44,7 @@ Conduct matters may be resolved in several ways.  Restorative justice may be av
 
 ### <a name="applicability" id="applicability"></a>a. Applicability of These Procedures
 
-As described in [Section B.2.a.iii, Scope of Oversight](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/a.-introductory-matters), students will be held accountable for policy violations that take place between the time they first arrive on campus to begin their Middlebury program and their graduation, or the College's confirmation of their withdrawal or resignation.  As described in [Section B.2.a.iv, Pending Discipline](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/a.-introductory-matters), a student respondent will not be permitted to graduate from or otherwise be deemed to have officially completed a Middlebury program in which they are enrolled while a disciplinary matter is pending.
+As described in [Section B.2.a.iii, Scope of Oversight](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a.-introductory-matters), students will be held accountable for policy violations that take place between the time they first arrive on campus to begin their Middlebury program and their graduation, or the College's confirmation of their withdrawal or resignation.  As described in [Section B.2.a.iv, Pending Discipline](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a.-introductory-matters), a student respondent will not be permitted to graduate from or otherwise be deemed to have officially completed a Middlebury program in which they are enrolled while a disciplinary matter is pending.
 
 ### <a name="adminresolution" id="adminresolution"></a>b. Administrative resolution
 
@@ -68,9 +68,9 @@ Consistent with Middlebury’s core requirement of honesty and cooperation, stud
 
 ### <a name="fairness" id="fairness"></a>f. Principles of Fundamental Fairness
 
-Middlebury’s discipline procedures are driven by our commitment to fundamental fairness.  Among the considerations weighed by the Vice President for Student Affairs in establishing these procedures are: (1) ensuring that Middlebury’s conduct expectations are reasonable, (2) ensuring that students have reasonable notice (they know or should have known) about the conduct expectations, (3) providing that disciplinary procedures are carried out by individuals who are properly trained and authorized to act, (4) utilizing procedures that result in outcomes based on meaningful evidence, and (5) ensuring that students have notice of the charges against them, as well as an opportunity to present evidence, and (6) providing for appeals in processes that result in a sanction of official College discipline. 
+Middlebury’s discipline procedures are driven by our commitment to fundamental fairness.  Among the considerations weighed by the Vice President for Student Affairs in establishing these procedures are: (1) ensuring that Middlebury’s conduct expectations are reasonable, (2) ensuring that students have reasonable notice (they know or should have known) about the conduct expectations, (3) providing that disciplinary procedures are carried out by individuals who are properly trained and authorized to act, (4) utilizing procedures that result in outcomes based on meaningful evidence, and (5) ensuring that students have notice of the charges against them, as well as an opportunity to present evidence, and (6) providing for appeals in processes that result in a sanction of official College discipline.
 
-Colleges are not courts of law, and Middlebury’s disciplinary proceedings have as their fundamental goal _education_, rather than criminal punishment or compensation.  Middlebury does not have the power to subpoena evidence or place witnesses under oath, and procedures are therefore necessarily different from a civil or criminal legal proceeding. However, the procedures outlined below and in the [TIX Sexual Harassment Investigations and Resolutions Procedure](http://www.middlebury.edu/about/handbook/policies-for-all/non-discrim-policies/b.1.b-1-title-ix-investigation-resolutions-policy), as well as the [Non-Discrimination Investigations and Resolutions Procedure](http://www.middlebury.edu/about/handbook/policies-for-all/non-discrim-policies/anti-harassment-discrimin), are designed to provide fundamental fairness and to protect students from arbitrary or capricious disciplinary action. All disciplinary authorities of Middlebury, including judicial board members, deans and Human Relations Officers conduct their proceedings in the spirit of these principles. If exceptional circumstances dictate variation from these procedures, the variation will not invalidate a decision unless it prevented fundamental fairness.
+Colleges are not courts of law, and Middlebury’s disciplinary proceedings have as their fundamental goal _education_, rather than criminal punishment or compensation.  Middlebury does not have the power to subpoena evidence or place witnesses under oath, and procedures are therefore necessarily different from a civil or criminal legal proceeding. However, the procedures outlined below and in the [TIX Sexual Harassment Investigations and Resolutions Procedure](http://www.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/b.1.b-1-title-ix-investigation-resolutions-policy), as well as the [Non-Discrimination Investigations and Resolutions Procedure](http://www.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin), are designed to provide fundamental fairness and to protect students from arbitrary or capricious disciplinary action. All disciplinary authorities of Middlebury, including judicial board members, deans and Human Relations Officers conduct their proceedings in the spirit of these principles. If exceptional circumstances dictate variation from these procedures, the variation will not invalidate a decision unless it prevented fundamental fairness.
 
 # [III. Charges and Evidence](#chargesevidence)
 
@@ -78,13 +78,13 @@ a. Concerns regarding student behavior may be brought to the Office of Community
 
 b. A faculty member who believes a student has engaged in academic dishonesty shall submit a written statement of the facts supporting the charge to the Office of Community Standards. The faculty member's statement will serve as the formal presentation of charges to the Judicial Board, and therefore should be sufficiently detailed to enable all parties to respond and prepare for the hearing, if necessary.
 
-c. The Office of Community Standards may conduct an initial inquiry into the concern to determine whether or not to bring charges against a student. This inquiry may include gathering evidence, including statements from witnesses and documentary evidence, as well as other steps to understand the issue. 
+c. The Office of Community Standards may conduct an initial inquiry into the concern to determine whether or not to bring charges against a student. This inquiry may include gathering evidence, including statements from witnesses and documentary evidence, as well as other steps to understand the issue.
 
 d. The Office of Community Standards may have an investigative report prepared, for example by the Department of Public Safety, ITS, or other individual, as appropriate.
 
 e. The Office of Community Standards will ordinarily notify the student with a written statement of the charges being considered, and explain how the student may provide information for consideration.
 
-f. Formal or legal rules of evidence do not apply in Middlebury disciplinary proceedings.  The Office of Community Standards is responsible for administering procedures to ensure they are based on meaningful evidence.  If a hearing occurs, the chair will make decisions on evidentiary or procedural questions that must be resolved during the hearing.  The majority of the Board may override the chair’s decision, if they disagree. 
+f. Formal or legal rules of evidence do not apply in Middlebury disciplinary proceedings.  The Office of Community Standards is responsible for administering procedures to ensure they are based on meaningful evidence.  If a hearing occurs, the chair will make decisions on evidentiary or procedural questions that must be resolved during the hearing.  The majority of the Board may override the chair’s decision, if they disagree.
 
 # <a name="restorativeresolutions" id="restorativeresolutions"></a>IV. Restorative Resolutions
 
@@ -100,17 +100,17 @@ e. Restorative Panels will be comprised by one faculty, one staff, and two stude
 
 # <a name="deansdisposition" id="deansdisposition"></a>V. Dean’s Dispositions
 
-a. After written notice of the concern or charges against them, and the student’s opportunity to provide evidence, the Office of Community Standards will determine whether there are disputed facts at issue. 
+a. After written notice of the concern or charges against them, and the student’s opportunity to provide evidence, the Office of Community Standards will determine whether there are disputed facts at issue.
 
 b. At any time, a student respondent may notify the Office of Community Standards that they do not contest the charges and the Office may issue a sanction appropriate to the violation.
 
-c. Where there are no disputed facts at issue, the Office of Community Standards will issue a sanction appropriate to the violation. 
+c. Where there are no disputed facts at issue, the Office of Community Standards will issue a sanction appropriate to the violation.
 
 d. If the student objects to a sanction other than official College discipline, they may submit a statement of their objection within three days to both the Associate Dean and the Dean of Students. The Dean of Students and the Associate Dean shall discuss the sanction and the student’s objection, and provide a written explanation of a decision to retain or adjust the sanction if appropriate.
 
 e. If the sanction is a form of official College discipline for academic misconduct, the respondent may appeal the determination of responsibility to the VPAA/Dean of Faculty, as described below.
 
-f. If the sanction is a form of official College discipline for non-academic misconduct, the respondent may appeal the determination of responsibility to the VPSA or Dean of Students, as described below. 
+f. If the sanction is a form of official College discipline for non-academic misconduct, the respondent may appeal the determination of responsibility to the VPSA or Dean of Students, as described below.
 
 # <a name="judicialboard" id="judicialboard"></a>VI. The Judicial Board
 
@@ -119,7 +119,7 @@ f. If the sanction is a form of official College discipline for non-academic mis
 i. The Judicial Board is comprised of students, faculty and staff, specifically: (1) a member of the faculty or academic administration appointed by the president of Middlebury, (2) two faculty members, (3) four students, (4) a dean of student life, and (5) a staff member.  There will be two student alternates, one faculty alternate, and one staff alternate.  Alternates will only substitute for absent members of their own constituency.  Either the presidential appointee or a dean of student life shall serve as the chair of the Judicial Board.
 
 1.  Faculty Council appoints the faculty members.
-2.  Community Council appoints student members recommended by the selection committee. First-year students may not serve on the Judicial Board, however,  Febs are eligible to apply for the fall semester after their arrival on campus.  A student charged with a serious conduct infraction during their term of service may be required to step down from the Judicial Board, upon the request of the Office of Community Standards or a majority of the Judicial Board. 
+2.  Community Council appoints student members recommended by the selection committee. First-year students may not serve on the Judicial Board, however,  Febs are eligible to apply for the fall semester after their arrival on campus.  A student charged with a serious conduct infraction during their term of service may be required to step down from the Judicial Board, upon the request of the Office of Community Standards or a majority of the Judicial Board.
 3.  Staff members are recommended by Staff Council and appointed by the President.
 4.  After the Judicial Board is constituted, it will elect from its members a student co-chair.  At least one co-chair must be present to convene a hearing.
 
@@ -133,13 +133,13 @@ v. Disqualification:   Any member of the Judicial Board who has a conflict of 
 
 ### <a name="hearingprocedures" id="hearingprocedures"></a>b. Hearing Procedures
 
-i. The Office of Community Standards administers hearings, including but not limited to assisting in scheduling, identifying and approving witnesses, providing required notice to parties, witnesses and Board members, identifying and preparing materials to be reviewed by the Board, and offering access to those materials to the parties.  Staff of the Office must be present during deliberations of the Board and may provide procedural advice to the Board, to ensure consistency and equity.  Staff of the Office serve as secretary to the Board, to formally record factual findings and recommendations of the Board regarding sanction.  Hearings and all Board deliberations are confidential. 
+i. The Office of Community Standards administers hearings, including but not limited to assisting in scheduling, identifying and approving witnesses, providing required notice to parties, witnesses and Board members, identifying and preparing materials to be reviewed by the Board, and offering access to those materials to the parties.  Staff of the Office must be present during deliberations of the Board and may provide procedural advice to the Board, to ensure consistency and equity.  Staff of the Office serve as secretary to the Board, to formally record factual findings and recommendations of the Board regarding sanction.  Hearings and all Board deliberations are confidential.
 
 ii. The burden of proof rests on Middlebury to establish by a preponderance of the evidence that the charged conduct occurred.
 
 iii. Accused students will be provided with access to the charge statement, if applicable, and all related materials that will be shared with the Board, in advance of a hearing.
 
-iv. Normally, a hearing will be scheduled at least one week after the charge statement has been provided to the student. (Shorter deadlines may apply in cases involving seniors at the end of their final term, or with the agreement of the accused student(s).)  Participants will be notified of the date, time and location of the hearing at least two business days before the hearing. 
+iv. Normally, a hearing will be scheduled at least one week after the charge statement has been provided to the student. (Shorter deadlines may apply in cases involving seniors at the end of their final term, or with the agreement of the accused student(s).)  Participants will be notified of the date, time and location of the hearing at least two business days before the hearing.
 
 v. The responding student will be notified in advance of the identity of any complainant as well as any witnesses who will attend the hearing.
 
@@ -155,7 +155,7 @@ x. Individuals participating in the hearing as a complainant (including a facult
 
 xi. The respondent has the right to be present throughout the hearing and to hear adverse testimony. In no case should the Board consider evidence against a student unless the source, author, and content of any statement or other evidence has been identified to the student, and the student has been given the opportunity to rebut the statement or respond to the evidence.
 
-xii. Immediately after a hearing, the Board will deliberate and make determinations of the facts, based on the preponderance of the evidence under consideration at the hearing.  After the facts have been determined, the Judicial Board will make a recommendation to the Office of Community Standards on whether or not the respondent should be found responsible, or not responsible for a policy violation. 
+xii. Immediately after a hearing, the Board will deliberate and make determinations of the facts, based on the preponderance of the evidence under consideration at the hearing.  After the facts have been determined, the Judicial Board will make a recommendation to the Office of Community Standards on whether or not the respondent should be found responsible, or not responsible for a policy violation.
 
 xiii. After a finding of responsibility, the Office of Community Standards may share a written character reference relating to the respondent with the Judicial Board, for their consideration in connection with their recommendation for a sanction.
 
@@ -165,9 +165,9 @@ xv. The Office of Community Standards will ordinarily give written notification 
 
 # <a name="sanctions" id="sanctions"></a>VII. Sanctions
 
-Middlebury College’s sanctions are generally described in Section B. 2\. e. of the Handbook and the information below is specific to conduct matters addressed under this process. 
+Middlebury College’s sanctions are generally described in Section B. 2\. e. of the Handbook and the information below is specific to conduct matters addressed under this process.
 
-a. After the Board makes the factual findings and if it makes a finding of responsibility, the respondent student is notified by letter.  The student may submit a sanctioning statement, which may include information about significant mitigating circumstances, to the Office of Community Standards, within 24 hours of receiving the outcome letter. 
+a. After the Board makes the factual findings and if it makes a finding of responsibility, the respondent student is notified by letter.  The student may submit a sanctioning statement, which may include information about significant mitigating circumstances, to the Office of Community Standards, within 24 hours of receiving the outcome letter.
 
 b. Sanctioning Philosophy: When assigning a sanction, mitigating factors such as apparent motivation of behavior or a student’s response to the process may be considered. Additionally, since conduct is cumulative at Middlebury, disciplinary history may be a factor in sanctioning. To the extent possible, sanctions will balance the principles of consistency and equity.
 
@@ -177,23 +177,23 @@ d. Plagiarism, cheating, or any other violation of the Undergraduate Honor Syste
 
 # <a name="appeals" id="appeals"></a>VIII. Appeals
 
-a. Appeals are reviewed by Middlebury authorities who did not participate in the initial determination, and are trained to be impartial and free from a conflict of interest.  
+a. Appeals are reviewed by Middlebury authorities who did not participate in the initial determination, and are trained to be impartial and free from a conflict of interest.
 
 b. Appeals are permitted on the following bases only:
 
 i. Discovery of significant new factual evidence not available to the initial decision-maker (does not include omission by the respondent of information or testimony)
 
-ii. A procedural error or violation that prevented fundamental fairness.  A determination that a procedural error or violation occurred and prevented fundamental fairness may result in a new determination using the correct procedures but a procedural error is not a factor in reducing a sanction when the appeal upholds the finding of responsibility for violating a policy. 
+ii. A procedural error or violation that prevented fundamental fairness.  A determination that a procedural error or violation occurred and prevented fundamental fairness may result in a new determination using the correct procedures but a procedural error is not a factor in reducing a sanction when the appeal upholds the finding of responsibility for violating a policy.
 
 c. Appeal submissions that do not satisfy at least one of these bases will be denied without further process, either by the Office of Community Standards or the appeal authority.
 
-d. A sanction of suspension or expulsion is ordinarily stayed pending the outcome of any appeal authorized by the Handbook. However, in circumstances that satisfy the [Emergency Removals](http://www.middlebury.edu/about/handbook/policies-for-all/health-safety/emerg-removals) provision in Middlebury-Wide Policies, suspension or expulsion will take effect immediately regardless of the pendency of an appeal.
+d. A sanction of suspension or expulsion is ordinarily stayed pending the outcome of any appeal authorized by the Handbook. However, in circumstances that satisfy the [Emergency Removals](http://www.middlebury.edu/pages/i-policies-for-all/health-safety/emerg-removals) provision in Middlebury-Wide Policies, suspension or expulsion will take effect immediately regardless of the pendency of an appeal.
 
 e. Appeals from Dean’s Dispositions and Judicial Board hearing procedures:
 
 i. If the sanction is a form of official College discipline for academic misconduct, the respondent may appeal the determination of responsibility to the VPAA/Dean of Faculty by submitting a written appeal within five business days of being notified of the determination and sanction
 
-ii. If the sanction is a form of official College discipline for non-academic misconduct, the respondent may appeal the determination of responsibility by submitting a written appeal within five business days to the VPSA or Dean of Students. 
+ii. If the sanction is a form of official College discipline for non-academic misconduct, the respondent may appeal the determination of responsibility by submitting a written appeal within five business days to the VPSA or Dean of Students.
 
 iii. Appeals to the VPAA/DOF and the VPSA will follow the same process:
 
@@ -206,4 +206,3 @@ iii. Appeals to the VPAA/DOF and the VPSA will follow the same process:
 7\. Decisions of the VPAA/DOF and the VPSA, or reconsideration of the initial determination by the Dean or the Board after a successful appeal are final, and not subject to further appeal, absent extraordinary circumstances.
 
 _Adopted as a provisional policy on Sept. 11, 2020_
-

@@ -1,10 +1,10 @@
 ---
-slug: "/pages/iv.-policies-for-the-institute/a.-academic-policies/a.3.-academic-programs"
+slug: "/pages/iv-policies-for-the-institute/a.-academic-policies/a.3.-academic-programs"
 date: "2021-05-01"
 title: "A.3. Academic Programs"
 ---
 
-The Middlebury Institute is organized into **two schools** that offer **degree programs** as listed below. Please see the Institute’s Web site for program descriptions and admissions and degree requirements. 
+The Middlebury Institute is organized into **two schools** that offer **degree programs** as listed below. Please see the Institute’s Web site for program descriptions and admissions and degree requirements.
 
 **1. Graduate School of International Policy and Management (GSIPM)**
 
@@ -40,7 +40,7 @@ Joint BA in International Policy/MPA
 
 Joint BA in International Policy/MA in International Policy and Development
 
-Joint BA in International Policy/MA in Nonproliferation and Terrorism Studies 
+Joint BA in International Policy/MA in Nonproliferation and Terrorism Studies
 
 **2. Graduate School of Translation, Interpretation, and Language Education (GSTILE)**
 

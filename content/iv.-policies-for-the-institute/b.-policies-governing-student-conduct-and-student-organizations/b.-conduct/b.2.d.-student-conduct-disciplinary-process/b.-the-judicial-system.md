@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process/b.-the-judicial-system"
+slug: "/pages/iv-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process/b.-the-judicial-system"
 date: "2021-05-01"
 title: "B. The Judicial System"
 ---
@@ -12,7 +12,7 @@ The judicial system at the Institute consists of two judicial bodies: The Conduc
 
 The Conduct Judicial Board normally adjudicates allegations of significant non-academic and academic conduct infractions.
 
-If the Conduct Judicial Board cannot be convened because the Institute is in recess for the summer or J-term, a student responding to allegations of a disciplinary offense may choose to have the matter resolved through the [Disposition without Hearing](http://www.middlebury.edu/about/handbook/iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process/c.-hearing-procedures) process, or to postpone a hearing until the Conduct Judicial Board can be convened in the fall or spring. A student who chooses to postpone a hearing under these circumstances and who is subsequently suspended for the fall or spring semester, or expelled, will receive a full reimbursement of tuition and all Institute fees for that semester.
+If the Conduct Judicial Board cannot be convened because the Institute is in recess for the summer or J-term, a student responding to allegations of a disciplinary offense may choose to have the matter resolved through the [Disposition without Hearing](http://www.middlebury.edu/pages/iv-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process/c.-hearing-procedures) process, or to postpone a hearing until the Conduct Judicial Board can be convened in the fall or spring. A student who chooses to postpone a hearing under these circumstances and who is subsequently suspended for the fall or spring semester, or expelled, will receive a full reimbursement of tuition and all Institute fees for that semester.
 
 Conduct issues that do not fall under our Anti-Harassment/Discrimination Policy or our Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct or Stalking, and, that occur during our Summer Intensive Language Program (SILP), or one of our intensive English language programs, will be handled according to the conduct policies and procedures established for the relevant program.
 
@@ -52,7 +52,7 @@ The Conduct Judicial Board is accountable to the VPAA/DOI who is responsible for
 
 #### <span style="text-decoration:underline;color:#660000">**a. Jurisdiction**
 
-The Judicial Appeals Board has jurisdiction, as specified in the [Appeals Procedures](http://www.middlebury.edu/about/handbook/iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process/f.-appeals-procedures) to hear appeals of decisions of the Conduct Judicial Board under certain circumstances.
+The Judicial Appeals Board has jurisdiction, as specified in the [Appeals Procedures](http://www.middlebury.edu/pages/iv-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/b.-conduct/b.2.d.-student-conduct-disciplinary-process/f.-appeals-procedures) to hear appeals of decisions of the Conduct Judicial Board under certain circumstances.
 
 #### <span style="text-decoration:underline;color:#660000">**b. Organization**
 

@@ -14,15 +14,15 @@ title: "IV. Policies for the Institute of International Studies"
 
 <td>
 
-*   [A. Academic Policies and Standards](/about/handbook/iv.-policies-for-the-institute/a.-academic-policies)
-*   [B. Policies Governing Student Conduct and Student Organizations](/about/handbook/iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations)
+- [A. Academic Policies and Standards](/pages/iv-policies-for-the-institute/a.-academic-policies)
+- [B. Policies Governing Student Conduct and Student Organizations](/pages/iv-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations)
 
 </td>
 
 <td>
 
-*   [C. Faculty Handbook](/about/handbook/iv.-policies-for-the-institute/c.-faculty-handbook)
-*   [D. Employee Handbook](/about/handbook/iv.-policies-for-the-institute/d.-employee-handbook)
+- [C. Faculty Handbook](/pages/iv-policies-for-the-institute/c.-faculty-handbook)
+- [D. Employee Handbook](/pages/iv-policies-for-the-institute/d.-employee-handbook)
 
 </td>
 

@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iii.-policies-for-the-language-schools/b.-academic-policies/b.3-general-policies"
+slug: "/pages/iii-policies-for-the-language-schools/b.-academic-policies/b.3-general-policies"
 date: "2021-05-01"
 title: "B.3 General Policies"
 ---
@@ -20,7 +20,7 @@ Middlebury Language Schools offer admission to one language school. It is rarely
 
 **Curriculum**
 
-In the intensive language curriculum (3100–3504), you may enroll in courses in one language only, and should normally enroll in courses at one level only. The first digit of the course number does not indicate level**.** 
+In the intensive language curriculum (3100–3504), you may enroll in courses in one language only, and should normally enroll in courses at one level only. The first digit of the course number does not indicate level**.**
 
 At the graduate level, Middlebury offers the Master of Arts and the Doctor of Modern Languages degrees. The graduate curriculum in Arabic, Chinese, French, German, Teaching Hebrew as a Second Language, Italian, Russian, and Spanish (courses numbered 6501–6999) is made up of courses in language analysis, literature, the social sciences, history, art and music history, and foreign language pedagogy. A normal load is three courses to be selected in consultation with the Director or Associate Director. First-year graduate students are placed in courses most appropriate to their linguistic proficiency, as determined by the results of placement tests taken prior to registration. Some students may be required to take one or more lower-level courses for undergraduate credit before beginning a full load of graduate work.
 

@@ -1,10 +1,10 @@
 ---
-slug: "/pages/iv.-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.k.-petition-for-waiver-of-academic-regulations"
+slug: "/pages/iv-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.k.-petition-for-waiver-of-academic-regulations"
 date: "2021-05-01"
 title: "A.6.k. Petition for Waiver of Academic Regulations"
 ---
 
-Students who wish to be considered for a waiver of anyacademic policy or requirement for any degree program should obtain a Petition for Waiver of Academic Regulations from the Records Office. 
+Students who wish to be considered for a waiver of anyacademic policy or requirement for any degree program should obtain a Petition for Waiver of Academic Regulations from the Records Office.
 
 The student should specify on the Petition whichacademic policy or requirement s/he wishes to waive, and why the waiver is necessary and justified. Additional documentation may be submitted with the form which supports the request.
 

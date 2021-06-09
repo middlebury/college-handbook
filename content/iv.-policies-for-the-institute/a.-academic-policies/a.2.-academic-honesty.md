@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iv.-policies-for-the-institute/a.-academic-policies/a.2.-academic-honesty"
+slug: "/pages/iv-policies-for-the-institute/a.-academic-policies/a.2.-academic-honesty"
 date: "2021-05-01"
 title: "A.2. Academic Honesty"
 ---
@@ -42,16 +42,16 @@ At the beginning of each term, professors are strongly encouraged to discuss or 
 
 ### D. Violations of the Academic Honesty Policy, Procedures, and Disciplinary Actions
 
-*   Any member of the Institute community (student, faculty, or administrator) who is aware of a case of academic dishonesty is morally obligated to report it to the professor, the dean of the relevant school or the associate dean of student services (ADSS).
+- Any member of the Institute community (student, faculty, or administrator) who is aware of a case of academic dishonesty is morally obligated to report it to the professor, the dean of the relevant school or the associate dean of student services (ADSS).
 
-*   Those who cheat are morally obliged to report their own offense to the professor, the dean of the relevant school or the ADSS.
+- Those who cheat are morally obliged to report their own offense to the professor, the dean of the relevant school or the ADSS.
 
-*   Alleged violations will be handled according to the academic disciplinary policies. For cases that are heard by the Conduct Judicial Board, hearings may not be conducted with fewer than three members. Three votes are needed for a finding of responsibility for a policy violation. In the event of a finding of responsibility for a policy violation, sanctions shall be determined by majority vote.
+- Alleged violations will be handled according to the academic disciplinary policies. For cases that are heard by the Conduct Judicial Board, hearings may not be conducted with fewer than three members. Three votes are needed for a finding of responsibility for a policy violation. In the event of a finding of responsibility for a policy violation, sanctions shall be determined by majority vote.
 
-*   Academic dishonesty is normally punishable by suspension from the Institute. However, the penalty may be modified when, in the opinion of the dean of the relevant program and the Conduct Judicial Board, conclusive reasons warrant such action.
+- Academic dishonesty is normally punishable by suspension from the Institute. However, the penalty may be modified when, in the opinion of the dean of the relevant program and the Conduct Judicial Board, conclusive reasons warrant such action.
 
-*   Should the accused be found not guilty, all records of the proceeding will be destroyed.
+- Should the accused be found not guilty, all records of the proceeding will be destroyed.
 
-*   Right of Appeal: A student found guilty of an offense will have the right of appeal to the Judicial Appeals Board in all cases.
+- Right of Appeal: A student found guilty of an offense will have the right of appeal to the Judicial Appeals Board in all cases.
 
-*   All deliberations of the Conduct Judicial Board concerning academic dishonesty violations will be conducted in confidence.
+- All deliberations of the Conduct Judicial Board concerning academic dishonesty violations will be conducted in confidence.

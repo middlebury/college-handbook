@@ -8,4 +8,4 @@ The College expects employees to accomplish their tasks and duties competently a
 
 An attitude of cooperation and goodwill benefits everyone, in work and in the contacts with students, alumni, and visitors to the campus.
 
-Middlebury College expects all employees to abide by the [Code of Conduct for Employees](http://www.middlebury.edu/about/handbook/ug-college-policies/commun-policies/empl-conduct) policy.
+Middlebury College expects all employees to abide by the [Code of Conduct for Employees](http://www.middlebury.edu/pages/ii-ug-college-policies/commun-policies/empl-conduct) policy.

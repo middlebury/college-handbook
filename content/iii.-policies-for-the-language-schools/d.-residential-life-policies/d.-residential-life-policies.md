@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iii.-policies-for-the-language-schools/d.-residential-life-policies"
+slug: "/pages/iii-policies-for-the-language-schools/d.-residential-life-policies"
 date: "2021-05-01"
 title: "D. Residential Life Policies"
 ---
@@ -12,16 +12,16 @@ The Language Schools cannot provide housing for members of a student's family no
 
 ### The following residential life policies apply to the Language Schools:
 
-[Fundamental Purposes](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies#fundamental)
+[Fundamental Purposes](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies#fundamental)
 
-[Student Responsibilities & Expectations](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies#student)
+[Student Responsibilities & Expectations](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies#student)
 
-[Living & Learning](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies#living)
+[Living & Learning](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies#living)
 
-[Entry by College Officials](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies#entry)
+[Entry by College Officials](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies#entry)
 
-[Fire Safety Regulations](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies#firesafety)
+[Fire Safety Regulations](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies#firesafety)
 
-[Noise Regulations](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies#noise)
+[Noise Regulations](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies#noise)
 
-[Pet Policy](http://www.middlebury.edu/about/handbook/ug-college-policies/commun-policies/pets)
+[Pet Policy](http://www.middlebury.edu/pages/ii-ug-college-policies/commun-policies/pets)

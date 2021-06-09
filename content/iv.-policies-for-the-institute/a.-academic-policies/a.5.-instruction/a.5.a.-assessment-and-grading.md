@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iv.-policies-for-the-institute/a.-academic-policies/a.5.-instruction/a.5.a.-assessment-and-grading"
+slug: "/pages/iv-policies-for-the-institute/a.-academic-policies/a.5.-instruction/a.5.a.-assessment-and-grading"
 date: "2021-05-01"
 title: "A.5.a. Assessment and Grading"
 ---

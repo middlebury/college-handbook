@@ -14,10 +14,10 @@ Please select from the following content:
 
 <td>
 
-*   [5.1 Direct Deposit](/about/handbook/ug-college-policies/employee/payroll/direct_deposit)
-*   [5.2 Deductions](/about/handbook/ug-college-policies/employee/payroll/deductions)
-*   [5.3 Advances](/about/handbook/ug-college-policies/employee/payroll/advances)
-*   [5.4 Reporting Time and Payroll Issues](/about/handbook/ug-college-policies/employee/payroll/payroll_issues)
+- [5.1 Direct Deposit](/pages/ii-ug-college-policies/employee/payroll/direct_deposit)
+- [5.2 Deductions](/pages/ii-ug-college-policies/employee/payroll/deductions)
+- [5.3 Advances](/pages/ii-ug-college-policies/employee/payroll/advances)
+- [5.4 Reporting Time and Payroll Issues](/pages/ii-ug-college-policies/employee/payroll/payroll_issues)
 
 </td>
 

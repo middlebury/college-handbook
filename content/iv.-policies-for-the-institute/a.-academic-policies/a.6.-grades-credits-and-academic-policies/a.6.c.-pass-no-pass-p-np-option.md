@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iv.-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.c.-pass-no-pass-p-np-option"
+slug: "/pages/iv-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.c.-pass-no-pass-p-np-option"
 date: "2021-05-01"
 title: "A.6.c. Pass/No Pass (P/NP) Option"
 ---

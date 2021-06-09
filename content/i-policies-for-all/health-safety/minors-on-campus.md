@@ -28,63 +28,63 @@ Minors who are on campus with one or both of their parents, legal guardians or o
 
 All program sponsors, authorized adults, or any other individual who supervises or interacts with minors on Middlebury property or in connection with Middlebury programs are expected to conduct themselves appropriately and maintain the highest standards of professionalism, ethics, and personal behavior. Prohibited conduct includes, but is not limited to, any of the following behaviors directed towards a minor and/or in the presence of a minor:
 
-*Sexually abusing a minor or placing a minor at significant risk of sexual abuse
+\*Sexually abusing a minor or placing a minor at significant risk of sexual abuse
 
-*Harming a minor by physical injury, abuse, neglect, emotional maltreatment, or abandonment
+\*Harming a minor by physical injury, abuse, neglect, emotional maltreatment, or abandonment
 
-*Placing a minor at significant risk of physical or emotional harm
+\*Placing a minor at significant risk of physical or emotional harm
 
-*Sexually provocative games
+\*Sexually provocative games
 
-*Inappropriate touching, including but not limited to contact with the minor’s buttocks, groin, breasts, mouth, or genitals, or where the minor is required or encouraged to have inappropriate contact with the buttocks, groin, breasts, mouth or genitals of another
+\*Inappropriate touching, including but not limited to contact with the minor’s buttocks, groin, breasts, mouth, or genitals, or where the minor is required or encouraged to have inappropriate contact with the buttocks, groin, breasts, mouth or genitals of another
 
-*Sexual misconduct, domestic violence, dating violence, stalking or related retaliation as defined by Middlebury’s [Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct, and Stalking](http://www.middlebury.edu/about/handbook/policies-for-all/non-discrim-policies/smdvs).
+\*Sexual misconduct, domestic violence, dating violence, stalking or related retaliation as defined by Middlebury’s [Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct, and Stalking](http://www.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/smdvs).
 
-*Harassment or related retaliation as defined by Middlebury’s [Anti-Harassment/Discrimination Policy](http://www.middlebury.edu/about/handbook/policies-for-all/non-discrim-policies/anti-harassment-discrimin)
+\*Harassment or related retaliation as defined by Middlebury’s [Anti-Harassment/Discrimination Policy](http://www.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin)
 
-*Hazing as defined by Middlebury’s [Policy Against Hazing](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy).
+\*Hazing as defined by Middlebury’s [Policy Against Hazing](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy).
 
-*Other misconduct as defined by Middlebury’s [conduct policies](http://www.middlebury.edu/about/handbook).
+\*Other misconduct as defined by Middlebury’s [conduct policies](http://www.middlebury.edu/about/handbook).
 
-*Providing alcohol or other illegal substances to a minor
+\*Providing alcohol or other illegal substances to a minor
 
-*Threatening, intimidating, coercive or demeaning behavior
+\*Threatening, intimidating, coercive or demeaning behavior
 
-*Retaliation as defined in Section 10, below.
+\*Retaliation as defined in Section 10, below.
 
 **4.  Authorization to Work with Minors**
 
-Criminal background checks will be performed on all new full-time and part-time benefits-eligible candidates prior to their employment at Middlebury. Other part-time candidates will be subject to criminal background checks if warranted by their specific job responsibilities.    
+Criminal background checks will be performed on all new full-time and part-time benefits-eligible candidates prior to their employment at Middlebury. Other part-time candidates will be subject to criminal background checks if warranted by their specific job responsibilities.
 
 In all cases, the following individuals must be criminal background checked and approved before they may work directly with any minor who participates in any Middlebury program or any program that occurs on Middlebury property:
 
-*Any staff, faculty, student, volunteer or third party who works at any Middlebury-sponsored sports camp or clinic, or who works at any sports camp or clinic sponsored or conducted by another entity that takes place on Middlebury property
+\*Any staff, faculty, student, volunteer or third party who works at any Middlebury-sponsored sports camp or clinic, or who works at any sports camp or clinic sponsored or conducted by another entity that takes place on Middlebury property
 
-*Any staff, faculty, student, volunteer or third party who provides instruction to minors who are not enrolled in any Middlebury program (e.g., educational instruction, swim lessons, music lessons or skating lessons to local youth)
+\*Any staff, faculty, student, volunteer or third party who provides instruction to minors who are not enrolled in any Middlebury program (e.g., educational instruction, swim lessons, music lessons or skating lessons to local youth)
 
-*Public Safety Officers
+\*Public Safety Officers
 
-*Third parties who provide child care on Middlebury property
+\*Third parties who provide child care on Middlebury property
 
-*Employees who have regular access to student residence spaces (e.g., CRDs, custodial staff, bilingual assistants)
+\*Employees who have regular access to student residence spaces (e.g., CRDs, custodial staff, bilingual assistants)
 
-*Other categories of employees or third parties as deemed appropriate by Middlebury
+\*Other categories of employees or third parties as deemed appropriate by Middlebury
 
 **Exception:** This section does not apply to current employees, students, volunteers or other third parties who:
 
-*Provide medical care or counseling to minors who are enrolled in any Middlebury program.
+\*Provide medical care or counseling to minors who are enrolled in any Middlebury program.
 
-*Teach, supervise, counsel, or otherwise interact with minors who are enrolled in any Middlebury program.
+\*Teach, supervise, counsel, or otherwise interact with minors who are enrolled in any Middlebury program.
 
-*Interact with prospective student-athletes or other prospective students in connection with Middlebury’s recruiting and admissions programs
+\*Interact with prospective student-athletes or other prospective students in connection with Middlebury’s recruiting and admissions programs
 
-*Host their own guests on campus.
+\*Host their own guests on campus.
 
-*Participate in community service programs (unless the program sponsor requires a background check).
+\*Participate in community service programs (unless the program sponsor requires a background check).
 
-*Participate in internship programs (unless the program sponsor requires a background check)
+\*Participate in internship programs (unless the program sponsor requires a background check)
 
-*Are authorized by another school (e.g., local high school or middle school) to work with minors in connection with sports camps, clinics, practices, games or other activities that take place on Middlebury property.
+\*Are authorized by another school (e.g., local high school or middle school) to work with minors in connection with sports camps, clinics, practices, games or other activities that take place on Middlebury property.
 
 **5.**  **Ratio of Authorized Adults to Minors Participating In College Programs**
 
@@ -236,7 +236,7 @@ These ratios do not apply to sports-related events, camps, practices or games in
 
 **A.  Release forms**
 
-All participants in events including minors must complete a [release form](http://www.middlebury.edu/offices/administration/vpfin/finance-office/bsnsvcs/insurance), which is available online at the Business Services Office and the parent or legal guardian must sign the form on behalf of the minor. The form must include a detailed description of the program, including a description of the level of supervision that will be provided while the participants are engaged in the program activity and, if applicable, the level of supervision that will be provided, if any, outside of the program’s hours of operation (e.g., while they are staying at and/or being transported to and from, a local hotel, motel, or residence for the duration of the program).  
+All participants in events including minors must complete a [release form](http://www.middlebury.edu/offices/administration/vpfin/finance-office/bsnsvcs/insurance), which is available online at the Business Services Office and the parent or legal guardian must sign the form on behalf of the minor. The form must include a detailed description of the program, including a description of the level of supervision that will be provided while the participants are engaged in the program activity and, if applicable, the level of supervision that will be provided, if any, outside of the program’s hours of operation (e.g., while they are staying at and/or being transported to and from, a local hotel, motel, or residence for the duration of the program).
 
 **B.  Pick up and Drop off (Students Not Enrolled in Middlebury’s Academic Programs)**
 
@@ -255,7 +255,7 @@ Any person who has reasonable cause to believe that a child has been abused or n
 
 Depending on the circumstances, reports may also be referred by Middlebury officials to local or state law enforcement authorities or other appropriate agencies (see also Sections 8 & 9, below).
 
-Complaints or reports under this policy will be addressed in accordance with existing policies, contracts, and/or appointment letters applicable to the individual and/or program at issue (e.g., Student Life Policies-General Disciplinary Processes [undergraduate students]; Language Schools policies [language schools students]; Bread Loaf School of English policies [Bread Loaf students]; Middlebury Institute policies [Institute students]; Employee Handbook, Faculty Handbook, or other policies, contracts or appointment letters applicable to the faculty or staff member for the particular program at issue). If the complaint includes allegations of sexual misconduct, domestic violence, dating violence, stalking, or harassment, the matter will be addressed in accordance with Middlebury’s [Policy Against Sexual Misconduct, Domestic  and Dating Violence and Misconduct, and Stalking](http://www.middlebury.edu/about/handbook/policies-for-all/non-discrim-policies/smdvs) and/or [Anti-Harassment/Discrimination Policy](http://www.middlebury.edu/about/handbook/policies-for-all/non-discrim-policies/anti-harassment-discrimin) (as applicable). Complaints against undergraduate students who are enrolled in another Middlebury program at the time the alleged conduct occurred may be addressed in accordance with that program’s disciplinary processes and/or in accordance with Middlebury’s Student Life Policy-General Disciplinary Processes, as appropriate. Complaints against student employees may be addressed in accordance with applicable employment policies and/or Middlebury’s Student Life policies, as appropriate. 
+Complaints or reports under this policy will be addressed in accordance with existing policies, contracts, and/or appointment letters applicable to the individual and/or program at issue (e.g., Student Life Policies-General Disciplinary Processes [undergraduate students]; Language Schools policies [language schools students]; Bread Loaf School of English policies [Bread Loaf students]; Middlebury Institute policies [Institute students]; Employee Handbook, Faculty Handbook, or other policies, contracts or appointment letters applicable to the faculty or staff member for the particular program at issue). If the complaint includes allegations of sexual misconduct, domestic violence, dating violence, stalking, or harassment, the matter will be addressed in accordance with Middlebury’s [Policy Against Sexual Misconduct, Domestic  and Dating Violence and Misconduct, and Stalking](http://www.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/smdvs) and/or [Anti-Harassment/Discrimination Policy](http://www.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin) (as applicable). Complaints against undergraduate students who are enrolled in another Middlebury program at the time the alleged conduct occurred may be addressed in accordance with that program’s disciplinary processes and/or in accordance with Middlebury’s Student Life Policy-General Disciplinary Processes, as appropriate. Complaints against student employees may be addressed in accordance with applicable employment policies and/or Middlebury’s Student Life policies, as appropriate.
 
 **8.**  **Mandated Reporting Under Vermont Law and Other Applicable State Laws**
 
@@ -263,16 +263,16 @@ Under Vermont law ([33 V.S.A. § 4913](http://legislature.vermont.gov/statutes/
 
 The following professionals are required to report:
 
-*   Health care provider, including any physicians (including resident physicians and interns), surgeons, osteopaths, chiropractors, physician's assistants, hospital administrators, nurses, medical examiners, dentists, psychologists, pharmacists, emergency medical personnel, or other health-care providers
-*   An individual who is employed by a school district or an approved or recognized independent school, or who is contracted and paid by a school district or an approved or recognized independent school to provide student services, including school superintendents, teachers, student teachers, school librarians, child care workers, school principals, school guidance counselors, mental health professionals, or social workers
-*   Employees, contractors, and grantees of the agency of human services who have contact with clients
-*   Probation officers, police officers
-*   Camp owners, camp administrators or camp counselors (camp includes any residential or nonresidential recreational program)
-*   Members of the clergy
+- Health care provider, including any physicians (including resident physicians and interns), surgeons, osteopaths, chiropractors, physician's assistants, hospital administrators, nurses, medical examiners, dentists, psychologists, pharmacists, emergency medical personnel, or other health-care providers
+- An individual who is employed by a school district or an approved or recognized independent school, or who is contracted and paid by a school district or an approved or recognized independent school to provide student services, including school superintendents, teachers, student teachers, school librarians, child care workers, school principals, school guidance counselors, mental health professionals, or social workers
+- Employees, contractors, and grantees of the agency of human services who have contact with clients
+- Probation officers, police officers
+- Camp owners, camp administrators or camp counselors (camp includes any residential or nonresidential recreational program)
+- Members of the clergy
 
 A mandatory reporter (as defined under Vermont law) who fails to report as required above may be subject to fines or imprisonment (see [33 V.S.A. § 4913 (h))](http://legislature.vermont.gov/statutes/section/33/049/04913).
 
-In addition to the above mandated reporters, Vermont law provides that any other person who has reasonable cause to believe that a child has been abused or neglected _may_ report or cause a report to be made to DCF in accordance with [33 V.S.A. § 4914](http://legislature.vermont.gov/statutes/section/33/049/04914).
+In addition to the above mandated reporters, Vermont law provides that any other person who has reasonable cause to believe that a child has been abused or neglected *may* report or cause a report to be made to DCF in accordance with [33 V.S.A. § 4914](http://legislature.vermont.gov/statutes/section/33/049/04914).
 
 Any person other than a person suspected of child abuse, who in good faith makes a report to the Department shall be immune from any civil or criminal liability which might otherwise be incurred or imposed as a result of making the report (see [33 V.S.A. § 4913](http://legislature.vermont.gov/statutes/section/33/049/04913)).
 
@@ -280,14 +280,14 @@ A person may not refuse to make a report required by law on the grounds that mak
 
 When a member of the clergy receives information about abuse or neglect of a child in a manner other than as described above, he or she is required to report on the basis of that information even though he or she may have also received a report of abuse or neglect about the same person or incident in the manner described in the previous paragraph.
 
-Reports shall be made orally or in writing to DCF. Reports shall contain the name and address or other contact information of the reporter as well as the names and addresses of the child and the parents or other persons responsible for the child's care, if known; the age of the child; the nature and extent of the child's injuries together with any evidence of previous abuse and neglect of the child or the child's siblings; and any other information that might be helpful in establishing the cause of the injuries or reasons for the neglect as well as in protecting the child and assisting the family (see [33 V.S.A. §4914](http://legislature.vermont.gov/statutes/section/33/049/04914)). 
+Reports shall be made orally or in writing to DCF. Reports shall contain the name and address or other contact information of the reporter as well as the names and addresses of the child and the parents or other persons responsible for the child's care, if known; the age of the child; the nature and extent of the child's injuries together with any evidence of previous abuse and neglect of the child or the child's siblings; and any other information that might be helpful in establishing the cause of the injuries or reasons for the neglect as well as in protecting the child and assisting the family (see [33 V.S.A. §4914](http://legislature.vermont.gov/statutes/section/33/049/04914)).
 
 The name of and any identifying information about either the person making the report to DCF or any person mentioned in the report shall be confidential unless:
 
-*   The person making the report specifically allows disclosure.
-*   A Human Services Board proceeding or a judicial proceeding results from the report.
-*   A court, after a hearing, finds probable cause to believe that the report was not made in good faith and orders the Department to make the name of the reporter available.
-*   A review of the allegation is requested and DCF determines that identifying information can be provided without compromising the safety of the reporter or the persons mentioned in the report.
+- The person making the report specifically allows disclosure.
+- A Human Services Board proceeding or a judicial proceeding results from the report.
+- A court, after a hearing, finds probable cause to believe that the report was not made in good faith and orders the Department to make the name of the reporter available.
+- A review of the allegation is requested and DCF determines that identifying information can be provided without compromising the safety of the reporter or the persons mentioned in the report.
 
 Under Vermont law, Middlebury is prohibited from taking any adverse employment action against an employee on the basis that he/she made a good faith report of suspected child abuse to the DCF.
 
@@ -297,15 +297,15 @@ Mandatory state law reporting requirements applicable to Middlebury programs in 
 
 Certain College employees are “[Campus Security Authorities](http://www.middlebury.edu/offices/health/publicsafety/csa)” (“CSA”) and are therefore required under federal law (the “Clery Act”) to report suspected crimes that have occurred on College property, on all public property (including thoroughfares, streets, sidewalks, and parking facilities) that is within the campus, or immediately adjacent to and accessible from the campus, and on certain nonpublic property (such as any building or property owned or controlled by the College that is used in direct support of, or in relation to, the College’s educational purposes, is frequently used by students, and is not within the same reasonably contiguous geographic area of the College). CSAs include the following individuals:
 
-*A campus police department or campus security department of an institution
+\*A campus police department or campus security department of an institution
 
-*Any individual or individuals who have responsibility for campus security but who do not constitute a campus police department or a campus security department
+\*Any individual or individuals who have responsibility for campus security but who do not constitute a campus police department or a campus security department
 
-*Any individual or organization specified in an institution’s statement of campus security policy as an individual or organization to which students and employees should report criminal offenses
+\*Any individual or organization specified in an institution’s statement of campus security policy as an individual or organization to which students and employees should report criminal offenses
 
-*An official of an institution who has significant responsibility for student and campus activities, including, but not limited to, student housing, student discipline and campus judicial proceedings
+\*An official of an institution who has significant responsibility for student and campus activities, including, but not limited to, student housing, student discipline and campus judicial proceedings
 
-*Middlebury's Campus Security Authorities include the following individuals:
+\*Middlebury's Campus Security Authorities include the following individuals:
 
 <span><span><span style="margin:0px">Associate Dean of the College/Director of Public Safety  
 Public Safety Staff  
@@ -343,21 +343,21 @@ A crime is reported when it is brought to the attention of a CSA, and the repor
 
 Crimes that fall within the scope of the Clery Act and must be reported include the following:
 
-*   Murder and non-negligent manslaughter
-*   Manslaughter by negligence
-*   Sexual assault/sex offenses (rape, fondling, incest, and statutory rape)
-*   Robbery
-*   Aggravated assault
-*   Burglary
-*   Motor vehicle theft
-*   Arson
-*   Liquor Law violation
-*   Drug law violation
-*   Weapon law violation
-*   Hate crimes: any of the serious crimes above (except manslaughter by negligence) and larceny-theft, destruction/damage/vandalism of property, intimidation (threats of injury or violence), or simple assault, if there is evidence that the victim was intentionally selected because of the perpetrator’s bias against the victim on the basis of race, religion, gender, gender identity, sexual orientation, ethnicity, national origin, or disability
-*   Domestic violence
-*   Dating violence
-*   Stalking
+- Murder and non-negligent manslaughter
+- Manslaughter by negligence
+- Sexual assault/sex offenses (rape, fondling, incest, and statutory rape)
+- Robbery
+- Aggravated assault
+- Burglary
+- Motor vehicle theft
+- Arson
+- Liquor Law violation
+- Drug law violation
+- Weapon law violation
+- Hate crimes: any of the serious crimes above (except manslaughter by negligence) and larceny-theft, destruction/damage/vandalism of property, intimidation (threats of injury or violence), or simple assault, if there is evidence that the victim was intentionally selected because of the perpetrator’s bias against the victim on the basis of race, religion, gender, gender identity, sexual orientation, ethnicity, national origin, or disability
+- Domestic violence
+- Dating violence
+- Stalking
 
 CSAs must also report arrests and referrals for campus disciplinary action for liquor law violations, drug law violations, and weapons law violations (e.g., possession, carrying, etc.).
 
@@ -460,7 +460,7 @@ Office: 102 Anderson
 
 [St. Johns College Security Department](http://www.sjc.edu/santa-fe/office-safety-and-security/case-emergency/)  
 505.984.6000 or 505.984.6025 or 505.660.8177  
-Dial 0 from any Campus Phone  
+Dial 0 from any Campus Phone
 
 Jim Ardis, Director of Security and Safety  
 505.984.6125
@@ -486,7 +486,7 @@ United Kingdom
 
 **Middlebury Institute of International Studies at Monterey**  
 [Human Relations Officers ](http://www.middlebury.edu/studentlife/doc/hro)[_<span>  
-</span>_](http://www.middlebury.edu/studentlife/doc/hro) 
+</span>_](http://www.middlebury.edu/studentlife/doc/hro)
 Ashley Fera Arrocha (Title IX Coordinator Designee for the Institute)  
 Associate Dean of Student Services  
 Office of Student Services  
@@ -551,7 +551,7 @@ Sunderland Language Center 206
 Middlebury College  
 Middlebury, VT 05753  
 802-443-3100  
-[lxie@middlebury.edu](mailto:lxie@middlebury.edu)  
+[lxie@middlebury.edu](mailto:lxie@middlebury.edu)
 
 **<span>DISTRICT OF COLUMBIA</span>**
 
@@ -580,17 +580,17 @@ Under California law, Cal. Penal Code § 11164-11174.3, certain individuals are�
 
 The following is a non-exhaustive list of professionals who are required to report:
 
-*   Clergy members and any custodian of records of a clergy member
-*   Child care providers
-*   Educators
-*   Law enforcement
-*   Medical professionals
-*   Mental health professionals
-*   Commercial film and photographic print processors
+- Clergy members and any custodian of records of a clergy member
+- Child care providers
+- Educators
+- Law enforcement
+- Medical professionals
+- Mental health professionals
+- Commercial film and photographic print processors
 
-A complete list of mandated reporters is provided in California Penal Code section 11165.7.[[1]](#_ftn1)
+A complete list of mandated reporters is provided in California Penal Code section 11165.7.[[1]](#\_ftn1)
 
-In addition to the above mandated reporters, California law provides that “any other person” who has knowledge, observes, or reasonably suspects that a child has been abused or neglected _may_ make a report to a county welfare department, probation department (if it is designated by the county to receive mandated reports), or to a police or sheriff’s department (not including a school district police or security department). California Penal Code sections 11166(g), 11165.9. 
+In addition to the above mandated reporters, California law provides that “any other person” who has knowledge, observes, or reasonably suspects that a child has been abused or neglected *may* make a report to a county welfare department, probation department (if it is designated by the county to receive mandated reports), or to a police or sheriff’s department (not including a school district police or security department). California Penal Code sections 11166(g), 11165.9.
 
 There are certain exceptions to the mandatory reporting requirement based on privilege. A clergy member who acquires evidence during a penitential communication is not required to report. The attorney-client privilege is preserved, such that a lawyer or his/her agent is not required to report. Reports shall contain the name, business address, and telephone number of the mandated reporter and the capacity that makes the person a mandated reporter. One who reports but is not a mandatory reporter is not required to include his/her name.
 
@@ -600,21 +600,21 @@ Under California law, Middlebury and its affiliates are prohibited from sanction
 
 #### **II.  New Mexico**
 
-Under New Mexico law, N.M.S.A.. § 32A-4-3, certain individuals are **required** to report any incident where the person knows or has a reasonable suspicion that a minor has been abused or neglected. The report **must** be made **immediately** to a local law enforcement agency, the Children, Youth, and Families Department, or a trial law enforcement or social services agency for any Indian child residing in an Indian county. 
+Under New Mexico law, N.M.S.A.. § 32A-4-3, certain individuals are **required** to report any incident where the person knows or has a reasonable suspicion that a minor has been abused or neglected. The report **must** be made **immediately** to a local law enforcement agency, the Children, Youth, and Families Department, or a trial law enforcement or social services agency for any Indian child residing in an Indian county.
 
 It is established that following professionals are required to report:
 
-*   Licensed physician, resident or intern, a registered nurse
-*   Law enforcement officer
-*   A school teacher or official
-*   A social worker acting in an official capacity
-*   A member of the clergy
+- Licensed physician, resident or intern, a registered nurse
+- Law enforcement officer
+- A school teacher or official
+- A social worker acting in an official capacity
+- A member of the clergy
 
-In addition to the above mandated reporters, it is presently an open question whether “every person” with knowledge or a reasonable suspicion of abuse or neglect is a mandated reporter under New Mexico law. [[2]](#_ftn2)
+In addition to the above mandated reporters, it is presently an open question whether “every person” with knowledge or a reasonable suspicion of abuse or neglect is a mandated reporter under New Mexico law. [[2]](#\_ftn2)
 
 A person may not refuse to make a report required by law on the grounds that making the report would be privileged as a matter of law, except for a member of the clergy. Reports shall contain the name, address, and telephone number of the reporter.
 
-A person reporting an instance of alleged child neglect or abuse is immune from civil or criminal liability, unless the person reporting acted in bad faith or with malicious purpose. New Mexico law does not, however, explicitly state that the reporter’s identity will remain confidential, nor does it explicitly protect the reporter from retaliation by his/her employer. 
+A person reporting an instance of alleged child neglect or abuse is immune from civil or criminal liability, unless the person reporting acted in bad faith or with malicious purpose. New Mexico law does not, however, explicitly state that the reporter’s identity will remain confidential, nor does it explicitly protect the reporter from retaliation by his/her employer.
 
 #### **III.  Washington, D.C.**
 
@@ -622,29 +622,29 @@ Under Washington D.C. law, D.C. Code § 4-1321.02, certain individuals are **re
 
 The following is a non-exhaustive list of professionals who are required to report:
 
-*   Child and Family Services Agency employees, agents, and contractors
-*   Every physician, psychologist, medical examiner, dentist, chiropractor, registered nurse, licensed practical nurse, person involved in the care and treatment of patients
-*   Law enforcement officers
-*   School officials, teachers, athletic coaches
-*   Domestic violence counselors
-*   Mental health professionals
+- Child and Family Services Agency employees, agents, and contractors
+- Every physician, psychologist, medical examiner, dentist, chiropractor, registered nurse, licensed practical nurse, person involved in the care and treatment of patients
+- Law enforcement officers
+- School officials, teachers, athletic coaches
+- Domestic violence counselors
+- Mental health professionals
 
 Whenever a person is required to report in his or her capacity as a member of the staff of a school, she or he shall immediately notify the person in charge of the institution, or his or her designated agent, who shall then be required to make the report. This requirement does not relieve the staff-member of his or her obligation to make a report to the Metropolitan Police Department of the District of Columbia or the Child and Family Services Agency.
 
-In addition to the above mandated reporters, Washington D.C. law provides that any other person _may_ make a report to the Metropolitan Police Department of the District of Columbia or the Child and Family Services Agency.
+In addition to the above mandated reporters, Washington D.C. law provides that any other person *may* make a report to the Metropolitan Police Department of the District of Columbia or the Child and Family Services Agency.
 
 The Washington D.C. statute does not explicitly state whether a party may refuse to make a report otherwise required by law on the basis of privilege. The report shall contain include:
 
-*   The name, age, sex, and address of (A) the child who is the subject of the report; (B) each of the child's siblings and other children in the household; and (C) each of the child's parents or other persons responsible for the child's care;
-*   The nature and extent of the abuse or neglect of the child and any previous abuse or neglect, if known;
-*   All other information which the person making the report believes may be helpful in establishing the cause of the abuse or neglect and the identity of the person responsible for the abuse or neglect.
+- The name, age, sex, and address of (A) the child who is the subject of the report; (B) each of the child's siblings and other children in the household; and (C) each of the child's parents or other persons responsible for the child's care;
+- The nature and extent of the abuse or neglect of the child and any previous abuse or neglect, if known;
+- All other information which the person making the report believes may be helpful in establishing the cause of the abuse or neglect and the identity of the person responsible for the abuse or neglect.
 
 If the reporter was required to report under Washington D.C. law, the report must also contain the identity and occupation of the source, how to contact the source, and a statement of the actions by the source concerning the child.
 
-Washington D.C. law does not specifically address the confidentiality of the identity of the reporter or provide any protections to the reporter against retaliation or adverse employment action. 
+Washington D.C. law does not specifically address the confidentiality of the identity of the reporter or provide any protections to the reporter against retaliation or adverse employment action.
 
-* * *
+---
 
-[[1]](#_ftnref1) See [http://law.onecle.com/california/penal/11165.7.html](http://law.onecle.com/california/penal/11165.7.html)
+[[1]](#\_ftnref1) See [http://law.onecle.com/california/penal/11165.7.html](http://law.onecle.com/california/penal/11165.7.html)
 
-[[2]](#_ftnref2) The statute reads that “every person” is required to report.  N.M.S.A. § 32A-4-3 (a).  Despite the statute’s plain language, the New Mexico Court of Appeals has held that that words “every person” only mean the professionals specifically identified in the statute (i.e. the professionals listed in the preceding bullet points).  _State v. Strauch_, 2014-NMCA-020, 317 P.3d 878, 881 (N.M. Ct.App. 2013). The New Mexico Supreme Court has decided to review this question. _State v. Strauch_, 321 P.3d 936 (N.M. Ct. App. 2014) (granting cert). Middlebury’s handling of related issues will comply with New Mexico law as applicable at the relevant time.
+[[2]](#_ftnref2) The statute reads that “every person” is required to report.  N.M.S.A. § 32A-4-3 (a).  Despite the statute’s plain language, the New Mexico Court of Appeals has held that that words “every person” only mean the professionals specifically identified in the statute (i.e. the professionals listed in the preceding bullet points).  _State v. Strauch_, 2014-NMCA-020, 317 P.3d 878, 881 (N.M. Ct.App. 2013). The New Mexico Supreme Court has decided to review this question. *State v. Strauch*, 321 P.3d 936 (N.M. Ct. App. 2014) (granting cert). Middlebury’s handling of related issues will comply with New Mexico law as applicable at the relevant time.

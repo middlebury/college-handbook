@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iv.-policies-for-the-institute/c.-faculty-handbook/appendix-b-aaup-guidelines"
+slug: "/pages/iv-policies-for-the-institute/c.-faculty-handbook/appendix-b-aaup-guidelines"
 date: "2021-05-01"
 title: "Appendix B: AAUP Guidelines"
 ---
@@ -14,7 +14,7 @@ This material has been taken from the sections, “1940 Statement of Principles 
 2.  Teachers are entitled to freedom in the classroom in discussing their subject, but they should be careful not to introduce into their teaching controversial matter that has no relation to their subject. Limitations of academic freedom because of religious or other aims of the institution should be clearly stated in writing at the time of the appointment.
 3.  College and university teachers are citizens, members of learned profession, and officers of an educational institution. When they speak or write as citizens, they should be free from institutional censorship or discipline, but their special position in the community imposes special obligations. As scholars and educational officers, they should remember that the public may judge their profession and their institution by their utterances. Hence they should at all times be accurate, should exercise appropriate restraint, should show respect for the opinions of others, and should make every effort to indicate that they are not speaking for the institution.
 
-**Student Rights and Freedomes in the Classroom**  
+**Student Rights and Freedomes in the Classroom**
 
 The professor in the classroom and in conference should encourage free discussion, inquiry, and expression. Student performance should be evaluated solely on an academic basis, not on opinions or conduct in matters unrelated to academic standards.
 

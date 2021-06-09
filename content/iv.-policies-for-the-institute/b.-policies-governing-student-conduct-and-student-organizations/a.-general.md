@@ -1,10 +1,10 @@
 ---
-slug: "/pages/iv.-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/a.-general"
+slug: "/pages/iv-policies-for-the-institute/b.-policies-governing-student-conduct-and-student-organizations/a.-general"
 date: "2021-05-01"
 title: "B.1. General Policies"
 ---
 
-All students at the Institute are responsible for knowing and complying with all [Middlebury-Wide Policies](http://www.middlebury.edu/about/handbook/policies-for-all) as well as the policies of the Institute.
+All students at the Institute are responsible for knowing and complying with all [Middlebury-Wide Policies](http://www.middlebury.edu/pages/i-policies-for-all) as well as the policies of the Institute.
 
 #### **A. Bike Policy**
 
@@ -28,11 +28,11 @@ Children <span>are not permitted to attend or be present during MIIS classes unl
 
 <span style="text-decoration:underline">3\. Pets</span>
 
-Pets are not allowed on campus, except when it is a service animal as defined by <span>the</span> [Service & Assistance Animals Policy](http://www.middlebury.edu/about/handbook/policies-for-all/non-discrim-policies/svc-assist-animals)<span>.</span>
+Pets are not allowed on campus, except when it is a service animal as defined by <span>the</span> [Service & Assistance Animals Policy](http://www.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/svc-assist-animals)<span>.</span>
 
 #### **C. Visitor Use Policies**
 
-<span>Visitor policies shall apply to the Samson Student Center, Holland Center, and Library. Students are allowed a maximum of three to five guests or visitors per person during operational hours. When using campus facilities, students must carry a current [MiddCard](http://www.middlebury.edu/about/handbook/policies-for-all/appropriate-use/id-cards). If a suspicious person or non-student or non–personnel is utilizing campus facilities, Campus Security should be notified by picking up a nearby blue campus phone or by dialing 647-4153, or simply dialing extension 4153 from an on-campus phone.</span>
+<span>Visitor policies shall apply to the Samson Student Center, Holland Center, and Library. Students are allowed a maximum of three to five guests or visitors per person during operational hours. When using campus facilities, students must carry a current [MiddCard](http://www.middlebury.edu/pages/i-policies-for-all/appropriate-use/id-cards). If a suspicious person or non-student or non–personnel is utilizing campus facilities, Campus Security should be notified by picking up a nearby blue campus phone or by dialing 647-4153, or simply dialing extension 4153 from an on-campus phone.</span>
 
 #### **D. On-Campus Student Parking**
 

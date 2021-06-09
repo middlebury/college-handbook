@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iv.-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.m.-challenge-examinations"
+slug: "/pages/iv-policies-for-the-institute/a.-academic-policies/a.6.-grades-credits-and-academic-policies/a.6.m.-challenge-examinations"
 date: "2021-05-01"
 title: "A.6.m. Challenge Examinations"
 ---
