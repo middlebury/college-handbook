@@ -8,6 +8,7 @@ module.exports = {
     PRESERVE_WEBPACK_CACHE: true
   },
   plugins: [
+    "gatsby-plugin-remove-fingerprints",
     "gatsby-plugin-netlify-cms",
     "gatsby-plugin-sass",
     "gatsby-transformer-remark",
