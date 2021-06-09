@@ -1,28 +1,26 @@
-import React from "react"; 
+import React from "react";
 import { graphql } from "gatsby";
 
 export default function Template({ data }) {
-    const { markdownRemark } = data;
-    const { frontmatter, html } = markdownRemark;
-    return (
-        <div>
-            <h2>{frontmatter.title}</h2>
-            <div
-                dangerouslySetInnerHTML={{ __html: html }}
-            />
-        </div>
-    );
-};
+  const { markdownRemark } = data;
+  const { frontmatter, html } = markdownRemark;
+  return (
+    <div>
+      <h2>{frontmatter.title}</h2>
+      <div dangerouslySetInnerHTML={{ __html: html }} />
+    </div>
+  );
+}
 
 export const query = graphql`
-    query($slug: String!) {
-        markdownRemark(frontmatter: { slug: { eq: $slug } }) {
-            html
-            frontmatter {
-                date(formatString: "MMMM DD, YYYY")
-                slug
-                title
-            }
-        }
+  query ($slug: String!) {
+    markdownRemark(frontmatter: { slug: { eq: $slug } }) {
+      html
+      frontmatter {
+        date(formatString: "MMMM DD, YYYY")
+        slug
+        title
+      }
     }
-`
+  }
+`;

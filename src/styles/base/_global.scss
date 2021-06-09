@@ -1,9 +1,9 @@
 * {
-    &,
-    &:before,
-    &:after {
-        box-sizing: border-box;
-    }
+  &,
+  &:before,
+  &:after {
+    box-sizing: border-box;
+  }
 }
 
 html,
@@ -13,57 +13,55 @@ body {
 }
 
 body {
-    color: $body-font-color;
-    font-family: $body-font-family;
-    font-size: 16px;
-    line-height: 1.7;
-    background-color: $body-bg-color;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  color: $body-font-color;
+  font-family: $body-font-family;
+  font-size: 16px;
+  line-height: 1.7;
+  background-color: $body-bg-color;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 a {
-    color: $link-color;
-    text-decoration: underline;
+  color: $link-color;
+  text-decoration: underline;
 
-    &:hover {
-        color: $link-color-hover;
-        text-decoration: none;
-    }
+  &:hover {
+    color: $link-color-hover;
+    text-decoration: none;
+  }
 }
 
 td a {
-    font-size: large;
-  }
+  font-size: large;
+}
 
 p {
-    font-family: $font-family-sans-serif;
-    margin-top: 0;
+  font-family: $font-family-sans-serif;
+  margin-top: 0;
 }
 
 img {
-    vertical-align: baseline;
-    max-width: 100%;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
 }
 
 ul,
 ol {
-    // margin: 0;
-    // padding: 0;
-    // list-style: none;
-    font-family: $font-family-sans-serif;
+  font-family: $font-family-sans-serif;
 }
 
-ol{
-    list-style: decimal;
+ol {
+  list-style: decimal;
 }
 
 svg {
-    fill: currentColor;
+  fill: currentColor;
 }
 
 figure {
-    margin: 0;
+  margin: 0;
 }
 
 h1,
@@ -72,27 +70,27 @@ h3,
 h4,
 h5,
 h6 {
-    font-weight: 400;
-    line-height: 1.2;
-    margin-top: 0;
-    margin-bottom: 1.25em;
-    color: $navy-dark;
+  font-weight: 400;
+  line-height: 1.2;
+  margin-top: 0;
+  margin-bottom: 1.25em;
+  color: $navy-dark;
 }
 
 table {
-    margin-bottom: 1em;
+  margin-bottom: 1em;
 }
 
 td {
-    font-size: 0.929em;
-    color: #404040;
-    font-weight: normal;
-    padding: 8px;
-    background: #FFFFFF;
-    border-top: 1px solid transparent;
+  font-size: 0.929em;
+  color: #404040;
+  font-weight: normal;
+  padding: 8px;
+  background: #ffffff;
+  border-top: 1px solid transparent;
 }
 
 td:hover {
-    background: #EFEEE9;
-    color: #404040;
+  background: #efeee9;
+  color: #404040;
 }

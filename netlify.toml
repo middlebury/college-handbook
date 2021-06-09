@@ -1,3 +1,5 @@
 [build]
-  ignore = "git diff --quiet HEAD^ HEAD content/"
-  command = "npm run build"
+  publish = "public"
+
+[[plugins]]
+  package = "netlify-plugin-gatsby-cache"

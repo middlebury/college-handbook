@@ -18,47 +18,44 @@ export const SplitPaneLeft = ({ children, ...props }) => {
   const { clientWidth, setClientWidth } = useContext(SplitPaneContext);
 
   const resizeSection = () => {
-    setClientWidth(document.getElementsByTagName('html')[0].clientWidth/4);
-  }
-  
-  useEffect (() => {
-    if(document.documentElement.clientWidth >= 1024) {
-      window.addEventListener('resize', resizeSection);
-    }
-      return () => {
-        window.removeEventListener('resize', resizeSection);
-      }
-  }, []); 
+    setClientWidth(document.getElementsByTagName("html")[0].clientWidth / 4);
+  };
 
   useEffect(() => {
-      if (!clientWidth) {
-        setClientWidth(topRef.current.clientWidth);
-        return;
-      }
+    if (document.documentElement.clientWidth >= 1024) {
+      window.addEventListener("resize", resizeSection);
+    }
+    return () => {
+      window.removeEventListener("resize", resizeSection);
+    };
+  }, []);
 
-      topRef.current.style.minWidth = clientWidth + "px";
+  useEffect(() => {
+    if (!clientWidth) {
+      setClientWidth(topRef.current.clientWidth);
+      return;
+    }
 
-      if(document.documentElement.clientWidth >= 1024) {
-        topRef.current.style.maxWidth = clientWidth + "px";
-      } else {
-        topRef.current.style.maxWidth = "initial";
-      }
+    topRef.current.style.minWidth = clientWidth + "px";
 
+    if (document.documentElement.clientWidth >= 1024) {
+      topRef.current.style.maxWidth = clientWidth + "px";
+    } else {
+      topRef.current.style.maxWidth = "initial";
+    }
   }, [clientWidth]);
 
-  return ( 
-      <aside {...props} className="split-pane-left" ref={topRef}>
-        {children}
-      </aside>
-    );
+  return (
+    <aside {...props} className="split-pane-left" ref={topRef}>
+      {children}
+    </aside>
+  );
 };
 
-export const SplitPaneRight = ({children, ...props}) => {
+export const SplitPaneRight = ({ children, ...props }) => {
   return (
-    <main {...props} className="split-pane-right" id="right-plane" aria-label={children?.props?.data?.markdownRemark.frontmatter.title}>
-      <div id="print-section">
-        {children}
-      </div>
+    <main {...props} className="split-pane-right" id="right-plane">
+      <div id="print-section">{children}</div>
     </main>
   );
 };
@@ -92,7 +89,7 @@ const SplitPane = ({ children, ...props }) => {
   };
 
   useEffect(() => {
-    if(document.documentElement.clientWidth >= 1024) {
+    if (document.documentElement.clientWidth >= 1024) {
       document.addEventListener("mouseup", onMouseHoldUp);
       document.addEventListener("mousemove", onMouseHoldMove);
     }

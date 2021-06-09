@@ -3,11 +3,6 @@ import { Link } from "gatsby";
 
 const Footer = () => {
   return (
-    // <div className="footer">
-    //     <Link to="/admin/#/">
-    //         <h3>Site editor login</h3>
-    //     </Link>
-    // </div>
     <nav className="midd-footer" aria-labelledby="midd-footer-label">
       <h2 id="midd-footer-label" className="sr-only">
         Additional navigation
@@ -15,7 +10,7 @@ const Footer = () => {
       <div className="container">
         <div className="row">
           <div className="col-lg-3">
-            <div className="mb-4 mb-lg-0" style={{height:'71px'}}>
+            <div className="mb-4 mb-lg-0">
               <a href="https://www.middlebury.edu">
                 <img
                   src="https://www.middlebury.edu/college/themes/custom/middlebury_theme/images/middlebury-logo-white.svg?fv=qtmpod"
@@ -77,11 +72,7 @@ const Footer = () => {
                 </a>
               </li>
               <li className="midd-footer__item">
-                <a
-                  href="/admin"
-                  className="midd-footer__link"
-                  rel="nofollow"
-                >
+                <a href="/admin" className="midd-footer__link" rel="nofollow">
                   Site-Editor Login
                 </a>
               </li>

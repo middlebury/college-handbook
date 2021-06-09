@@ -8,6 +8,11 @@ $grid-breakpoints: (
     xl: 1440px
 );
 
+$grid-gutter-width: rem(32) !default;
+$grid-gutter-width-lg: rem(64) !default;
+
+$container-max-width: 1440px !default;
+
 $spacer: 1rem;
 
 // prettier-ignore
@@ -40,12 +45,12 @@ $spacing: (
   6: $spacing-6,
   7: $spacing-7,
   8: $spacing-8,
-  9: $spacing-9
+  9: $spacing-9,
 );
 
 // Font families
-$font-family-sans-serif: ('open sans', helvetica, arial, sans-serif);
-$font-family-serif: ('domine', georgia, 'times new roman', serif);
+$font-family-sans-serif: ("open sans", helvetica, arial, sans-serif);
+$font-family-serif: ("domine", georgia, "times new roman", serif);
 
 // Font sizes
 $base-font-size: 16px;
