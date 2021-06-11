@@ -12,9 +12,7 @@ import CheckboxTree from "react-checkbox-tree";
 import { nodes } from "../data/handbook";
 import { navigate } from "gatsby";
 import SearchResults from "./search-results";
-// import SearchBar from "./search-bar";
 import { useStaticQuery, graphql } from "gatsby";
-import { check } from "prettier";
 
 const PageWrapper = (props) => {
   const [checked, setChecked] = useState([]);
