@@ -1,5 +1,4 @@
 import React from "react";
-import CollegeLogo from "../images/college-logo.svg";
 import MiddLogo from "../images/midd-shield.svg";
 
 const Header = () => {
