@@ -78,7 +78,7 @@ The ADA Coordinator(s), in consultation with appropriate campus personnel, coord
 
 <a name="section" id="section"></a>**E. Section 504 Coordinator**
 
-Middlebury designates the [Civil Rights and Title IX Coordinator](http://www.middlebury.edu/student-life/health-wellness-education-and-safety/campus-policies/human-relations-officer) to coordinate its efforts to comply with and carry out its responsibilities under Section 504 of the Rehabilitation Act of 1973\. Section 504, where applicable, generally prohibits discrimination in educational programs and employment, against qualified individuals with disabilities, on the basis of disability. See also Middlebury’s [Nondiscrimination Statement](http://www.middlebury.edu/pages/general/nondiscrimination).
+Middlebury designates the [Civil Rights and Title IX Coordinator](http://www.middlebury.edu/student-life/health-wellness-education-and-safety/campus-policies/human-relations-officer) to coordinate its efforts to comply with and carry out its responsibilities under Section 504 of the Rehabilitation Act of 1973\. Section 504, where applicable, generally prohibits discrimination in educational programs and employment, against qualified individuals with disabilities, on the basis of disability. See also Middlebury’s [Nondiscrimination Statement](http://www.middlebury.edu/about/handbook/general/nondiscrimination).
 
 <a name="accom-miis" id="accom-miis"></a>**F. Accommodations at the Middlebury Institute of International Studies at Monterey**
 
@@ -86,7 +86,7 @@ The Middlebury Institute has separate policies and procedures for qualified stud
 
 <a name="accom-empl" id="accom-empl"></a>**G. Accommodations for Employees**
 
-Faculty, staff, and other Middlebury employees who have ADA related concerns are assisted by Human Resources. For more information regarding the process by which employees can seek accommodations see [“Middlebury College Human Resources Procedures: ADA Compliance.”](http://www.middlebury.edu/pages/employee/employment/ada)
+Faculty, staff, and other Middlebury employees who have ADA related concerns are assisted by Human Resources. For more information regarding the process by which employees can seek accommodations see [“Middlebury College Human Resources Procedures: ADA Compliance.”](/pages/ii-ug-college-policies/employee)
 
 <a name="accessibility" id="accessibility"></a>**H. Accessibility of Campus Events and Programs**
 
@@ -220,7 +220,7 @@ The time periods stated herein for action on the part of the ADA Coordinator and
 
 ## <a name="complaints" id="complaints"></a>F. Complaints regarding Disability-related Harassment or Discrimination
 
-In addition to the above-stated appeals process regarding certification and/or accommodations decisions, students who feel that they have been harassed or discriminated against on the basis of their disability, in violation of Section 504 of the Rehabilitation Act of 1973, the ADA, or other applicable law, are encouraged to file a complaint under [Middlebury’s Anti-Harassment/Discrimination Policy](http://www.middlebury.edu/pages/misc/antiharassment) (“AH/D Policy”). Complaints should be directed to a [Human Relations Officer](http://www.middlebury.edu/student-life/health-wellness-education-and-safety/campus-policies/human-relations-officer) and will be handled in accordance with the procedures set forth in the AH/D policy.
+In addition to the above-stated appeals process regarding certification and/or accommodations decisions, students who feel that they have been harassed or discriminated against on the basis of their disability, in violation of Section 504 of the Rehabilitation Act of 1973, the ADA, or other applicable law, are encouraged to file a complaint under [Middlebury’s Anti-Harassment/Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin) (“AH/D Policy”). Complaints should be directed to a [Human Relations Officer](http://www.middlebury.edu/student-life/health-wellness-education-and-safety/campus-policies/human-relations-officer) and will be handled in accordance with the procedures set forth in the AH/D policy.
 
 ## <a name="stu-records" id="stu-records"></a>G. Student Records
 
@@ -240,7 +240,7 @@ Students requesting a single room as an accommodation are advised that such requ
 
 Assignments are made on the basis of availability of space and the level of need. In order to maximize Middlebury’s ability to grant such requests, notification for undergraduate students is requested by March 1st for the following academic year. Students who plan attend other Middlebury programs should notify the <span>DRC</span> of their need for housing accommodations upon enrollment. Requests made after this date may be more difficult to fulfill. The ADA Coordinator reserves the right to suggest alternative accommodations where appropriate to satisfy the request.
 
-Students requesting an air conditioner as an accommodation are advised that such requests should be made in accordance with the guidelines established in Middlebury’s [Thermal Comfort Policy](http://www.middlebury.edu/pages/misc/thermal_comfort.).
+Students requesting an air conditioner as an accommodation are advised that such requests should be made in accordance with the guidelines established in Middlebury’s [Thermal Comfort Policy](http://www.middlebury.edu/about/handbook/misc/thermal_comfort.).
 
 Students are expected to play a substantial role in specifying their needs and following through on arrangements for accommodations. It must be understood that arrangements for equipment, housing assignments, and other accommodations require advance notice.
 

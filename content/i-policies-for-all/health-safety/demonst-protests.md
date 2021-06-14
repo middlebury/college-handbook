@@ -115,7 +115,7 @@ Middlebury’s mission is to promote intellectual inquiry and exchange in accord
 
 5.  Middlebury may choose to record demonstrations, protests, rallies, etc., as it does a number of events, by photos and/or videos.  Such recording may occur through security cameras, whether stationary or not, with personal cameras, by Middlebury staff or local law enforcement, as well as other practical means. Documenting a demonstration provides protection both for those participating as evidence of peaceful activity and for Middlebury as evidence of any violation of policy, and is helpful for holding both participants and Middlebury accountable for compliance with all policies.
 
-6.  Community members may be asked for Middlebury-issued identification at any time, including during demonstrations, protests or other related events, by Middlebury officials to confirm that the person is a member of the community and has the ability to be on our campus. Students, specifically, are obligated under our [Handbook policies](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) to identify themselves when asked to do so by a Middlebury official, including Public Safety as well as other staff. Members of the public may also be asked for identification.
+6.  Community members may be asked for Middlebury-issued identification at any time, including during demonstrations, protests or other related events, by Middlebury officials to confirm that the person is a member of the community and has the ability to be on our campus. Students, specifically, are obligated under our [Handbook policies](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) to identify themselves when asked to do so by a Middlebury official, including Public Safety as well as other staff. Members of the public may also be asked for identification.
 
 7.  Public Safety staff are responsible for keeping the peace, in accordance with their departmental policies, as well as for coordinating with and supporting local law enforcement in order to keep the peace.  Public Safety has the authority to respond to acts of violence, threats of violence, or overcrowding as appropriate to protect the safety of Middlebury community members.  Public Safety ordinarily responds to substantially disruptive behavior by asking the person or persons to identify themselves and to stop the behavior, prior to documenting the person’s conduct as a violation of policy or taking further action, such as engaging law enforcement, as appropriate to the circumstances. Other Middlebury officials may also issue warnings to individuals or groups to facilitate enforcement of Middlebury’s Policy on Open Expression.
 
@@ -129,7 +129,7 @@ Middlebury’s mission is to promote intellectual inquiry and exchange in accord
     not an exhaustive list as other sanctions including loss or restriction of Middlebury privileges or
     future Middlebury opportunities, educational/reparative assignments and/or fines or restitution may be
     issued as appropriate to the circumstances (see also <a
-                        href="http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process#sanctions">Sanctions</a>).
+                        href="/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process#sanctions">Sanctions</a>).
     Prior conduct and judicial history may also be taken into account in determining sanctions.
     </p>
     <p style="padding-left:90px">i.<em> </em>Warned about substantial disruption, asked to leave, leaves voluntarily
@@ -145,6 +145,7 @@ Middlebury’s mission is to promote intellectual inquiry and exchange in accord
     is ordinarily from a letter of official college discipline to suspension.</em></p>
     <p style="padding-left:90px">v. Removed, including by arrest, due to physical violence against another person or
     property damage: <em>Range is ordinarily from suspension to expulsion</em>.</p>
-    For more information on the interpretation and enforcement of the [Open Expression Policy](http://www.middlebury.edu/pages/i-policies-for-all/genl-principles/freedom-of-expression) and these Regulations, please see the related [Frequently Asked Questions](http://www.middlebury.edu/about/open-expression/faqs) and [Resources](http://www.middlebury.edu/about/open-expression/speech-inclusion-resources).
+    
+    For more information on the interpretation and enforcement of the [Open Expression Policy](/pages/i-policies-for-all/genl-principles/freedom-of-expression) and these Regulations, please see the related [Frequently Asked Questions](http://www.middlebury.edu/about/open-expression/faqs) and [Resources](http://www.middlebury.edu/about/open-expression/speech-inclusion-resources).
 
 _Effective 11-21-19_

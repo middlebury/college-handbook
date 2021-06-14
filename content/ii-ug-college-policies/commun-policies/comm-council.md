@@ -42,7 +42,7 @@ The membership of the Residential Life Committee will be: one faculty member fro
 
 c. Appointments
 
-i.*Community Judicial Board and Academic Judicial Board.* Early in the spring semester, the Community Council will appoint one of its student members and one of its faculty or staff members to serve on the committee that selects the students members of the judicial boards. For more information, please see “[Student Life: General Disciplinary Processes](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).”
+i.*Community Judicial Board and Academic Judicial Board.* Early in the spring semester, the Community Council will appoint one of its student members and one of its faculty or staff members to serve on the committee that selects the students members of the judicial boards. For more information, please see “[Student Life: General Disciplinary Processes](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).”
 
 d. Recommendations
 

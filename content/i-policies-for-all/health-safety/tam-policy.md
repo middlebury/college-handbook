@@ -118,7 +118,7 @@ Assoc. Dir. of Public Safety
 
 <span style="text-decoration:underline">[dgaiotti@middlebury.edu](mailto:dgaiotti@middlebury.edu)</span>
 
-[kellery@middlebury.edu](%20kellery@middlebury.edu)
+[kellery@middlebury.edu](mailto:kellery@middlebury.edu)
 
 </td>
 

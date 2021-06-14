@@ -13,7 +13,7 @@ title: "E.2. Accessing Student Data for Research Projects"
 Students who are interested in pursuing data related to student information for an academic (independent study and/or mentored research) project must:                                                                                  
 
 *   be enrolled in a credit  bearing course (e.g., independent study) or a research project with an identified supervising faculty member
-*   submit his/her/their request for information to the [Dean of Students](/student-life/staff/Dean-of-Students) (DoS)
+*   submit his/her/their request for information to the [Dean of Students](http://www.middlebury.edu/college/student-life/dean-students) (DoS)
 *   submit a letter of support from the faculty mentor
 *   submit a timeline for research completion     
 
@@ -31,7 +31,7 @@ Following receipt of the request, the DoS will consult with the Director of [Ass
 
 The Director of AIR will also make a determination as to whether the requested data can be compiled within the student's proposed timeframe.                    
 
-Based on the information provided, the [DoS](/student-life/staff/Dean-of-Students) and Director of [Assessment & IR](/offices/administration/planning) will, in accordance with FERPA and HIPAA rules:
+Based on the information provided, the [DoS](http://www.middlebury.edu/college/student-life/dean-students) and Director of [Assessment & IR](http://www.middlebury.edu/offices/administration/planning) will, in accordance with FERPA and HIPAA rules:
 
 Identify whether and how the requested information can be shared (unit record or aggregated data). In cases where maintaining anonymity of a student is questionable, aggregate data will not be shared.
 
@@ -41,7 +41,7 @@ The DoS will respond to the student and supervising faculty member about the out
 
 When a request for data is approved:            
 
-*   Student submits an [IRB](/academics/resources/irb) proposal to the committee and send of copy of the proposal to DoS         
+*   Student submits an [IRB](http://www.middlebury.edu/academics/resources/irb) proposal to the committee and send of copy of the proposal to DoS         
 *   Upon IRB approval, the information will be made available in a timeframe that is feasible for Office of AIR and their workload                 
 
 Upon completion of the project, student will submit copies of completed work (e.g., paper, presentation, etc.) to DoS.                                                             

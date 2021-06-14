@@ -4,7 +4,7 @@ date: "2021-05-01"
 title: "D.5. Information Technology"
 ---
 
-Information technology is vital to the mission and function of Middlebury; our networks and central computing facilities are common resources upon which the whole community depends. Middlebury establishes policies governing its information technology equipment, networks, services, and systems that bind all students, faculty, staff as well as any other users of IT systems or services.  The policies described briefly in this overview are those most likely to impact most members of the Middlebury community; more detailed information about these and other policies can be found at the [ITS website](/offices/technology/its/policies)[](///C:/Users/mcdurfee/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/R7Z1LC5T/Draft%20Middlebury%20assets%20handbook%20section%209.6.17%20CLEAN.docx#_msocom_1)<span>.</span>
+Information technology is vital to the mission and function of Middlebury; our networks and central computing facilities are common resources upon which the whole community depends. Middlebury establishes policies governing its information technology equipment, networks, services, and systems that bind all students, faculty, staff as well as any other users of IT systems or services.  The policies described briefly in this overview are those most likely to impact most members of the Middlebury community; more detailed information about these and other policies can be found at the [ITS website](http://www.middlebury.edu/office/information-technology-services/policies)[](///C:/Users/mcdurfee/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/R7Z1LC5T/Draft%20Middlebury%20assets%20handbook%20section%209.6.17%20CLEAN.docx#_msocom_1)<span>.</span>
 
 ### **1.  Responsible Use of Computing and Network Services and Facilities**
 
@@ -22,7 +22,7 @@ Theft includes the unauthorized copying of copyrighted software, reproduction or
 
 **An example: Sharing Music & Videos**
 
-Many members of the Middlebury community have questions about the sharing of music and movies in digital format over the Internet. File sharing may violate U.S. copyright law and subject you to a lawsuit for copyright infringement, and it may also be a violation of Middlebury policy.  You should understand the risks of certain types file sharing given potential legal action. **Most commercially produced music, movies, games and software are copyrighted and are not to be freely shared without permission. <span style="text-decoration:underline">This is the law</span>**. Members of our community must follow the policies for appropriate use of technology resources under the law as described on the [ITS website](/offices/technology/its). _see:_ [Responsible Use of Computing and Network Service and Facilities](http://go.middlebury.edu/itsru); [Network Policies](http://go.middlebury.edu/netpolicies).
+Many members of the Middlebury community have questions about the sharing of music and movies in digital format over the Internet. File sharing may violate U.S. copyright law and subject you to a lawsuit for copyright infringement, and it may also be a violation of Middlebury policy.  You should understand the risks of certain types file sharing given potential legal action. **Most commercially produced music, movies, games and software are copyrighted and are not to be freely shared without permission. <span style="text-decoration:underline">This is the law</span>**. Members of our community must follow the policies for appropriate use of technology resources under the law as described on the [ITS website](http://www.middlebury.edu/office/information-technology-services/policies). _see:_ [Responsible Use of Computing and Network Service and Facilities](http://go.middlebury.edu/itsru); [Network Policies](http://go.middlebury.edu/netpolicies).
 
 <p align="center"><strong>Sources for legal downloading may be found at:</strong><strong><br></strong><a href="http://www.educause.edu/legalcontent" target="_blank"><strong>www.educause.edu/legalcontent </strong></a></p>
 
@@ -177,7 +177,7 @@ b.i. Middlebury also recognizes that contents of electronic publications or elec
 
 b.i. Middlebury’s website is built using the institution’s middlebury.edu domain. This website is an integrated-information system that provides information about the institution to external and internal audiences and enables access to institutional services and resources for research and scholarship for faculty, staff, and students.
 
-b.ii. All appropriate departments at Middlebury must have a presence on the institutional website. Departmental sub-sites must conform to the design and content standards as defined by the [Office of Communications and Marketing](/offices/administration/communications).
+b.ii. All appropriate departments at Middlebury must have a presence on the institutional website. Departmental sub-sites must conform to the design and content standards as defined by the [Office of Communications and Marketing](http://www.middlebury.edu/offices/administration/communications).
 
 b.iii. Departmental or institutional content hosted on other institution-supported websites and systems (such as blogs and wikis and course web pages) must follow the same guidelines as as those applying to the institution’s primary website.
 

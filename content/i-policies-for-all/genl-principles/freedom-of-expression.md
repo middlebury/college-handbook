@@ -7,7 +7,7 @@ title: A.5. Policy on Open Expression
 
 <span style="margin:0px">Academic freedom is essential to Middlebury’s mission and freedom of expression is a vital component of academic freedom.<span style="margin:0px"></span> Campus community members engaging in open expression—and in response to the expression of others—are expected to do so in a way that affirms our three pillars of academic freedom, integrity, and respect.Protecting open expression does not mean that Middlebury approves of or endorses all views expressed, especially where the expression conflicts with our fundamental commitment to inclusivity – that the contributions of every community member are valued.<span style="margin:0px"></span> Moreover, there are legal limits on the range of expression permitted.<span style="margin:0px"></span> Speech that incites or threatens physical violence, speech that is defamatory, and forms of expression that violate our Anti-Harassment/Discrimination policy, are inconsistent with our educational mission and our shared community values. <span style="margin:0px"> </span>We recognize that open expression can result in hurt and harm to members of our community and our sense of shared purpose, and we continue to dedicate ourselves to making Middlebury a more inclusive community. </span>
 
-<span style="margin:0px">Campus community members planning to invite an outside speaker must review and follow the [Policy on Scheduling Middlebury Space for Events](http://www.middlebury.edu/pages/i-policies-for-all/appropriate-use/d.7.-policy-on-scheduling-middlebury-space-for-events) and are responsible for communicating Middlebury’s expectations to invited guests.</span> <span style="margin:0px"> </span>
+<span style="margin:0px">Campus community members planning to invite an outside speaker must review and follow the [Policy on Scheduling Middlebury Space for Events](/pages/i-policies-for-all/appropriate-use/d-7-policy-on-scheduling-middlebury-space-for-events) and are responsible for communicating Middlebury’s expectations to invited guests.</span> <span style="margin:0px"> </span>
 
 **Peaceful protest and demonstration are important forms of activism**
 
@@ -31,9 +31,9 @@ title: A.5. Policy on Open Expression
 
 <span style="margin:0px">Related Policies and Documents:</span>
 
-<span style="margin:0px"><span style="margin:0px"><span>1.</span><span style="margin:0px"></span> </span></span>[<span>Demonstration Regulations</span>](http://www.middlebury.edu/pages/i-policies-for-all/health-safety/demonst-protests)
+<span style="margin:0px"><span style="margin:0px"><span>1.</span><span style="margin:0px"></span> </span></span>[<span>Demonstration Regulations</span>](/pages/i-policies-for-all/health-safety/demonst-protests)
 
-<span style="margin:0px"><span style="margin:0px"><span>2.</span><span style="margin:0px"></span> </span></span>[<span>Policy on Scheduling Middlebury Events</span>](http://www.middlebury.edu/pages/i-policies-for-all/appropriate-use/d.7.-policy-on-scheduling-middlebury-space-for-events)
+<span style="margin:0px"><span style="margin:0px"><span>2.</span><span style="margin:0px"></span> </span></span>[<span>Policy on Scheduling Middlebury Events</span>](/pages/i-policies-for-all/appropriate-use/d-7-policy-on-scheduling-middlebury-space-for-events)
 
 <span style="margin:0px"><span style="margin:0px"><span>3.</span><span style="margin:0px"></span> </span></span>[<span>Frequently Asked Questions about Open Expression</span>](http://www.middlebury.edu/about/open-expression/faqs)
 

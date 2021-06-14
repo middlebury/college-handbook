@@ -8,4 +8,4 @@ Middlebury College requires annual written performance evaluations for all staff
 
 The College encourages supervisors to provide opportunities throughout the year for less formal verbal performance feedback to employees.
 
-_see:_ [Procedures -- Performance Evaluations](/offices/business/hr/staffandfaculty/evals)
+_see:_ [Procedures -- Performance Evaluations](http://www.middlebury.edu/offices/business/hr/staffandfaculty/evals)

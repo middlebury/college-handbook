@@ -28,7 +28,7 @@ The primary purposes of regulations and discipline in an academic community are 
 
 - [D. Appropriate Use of Middlebury Resources and Assets](/pages/i-policies-for-all/appropriate-use)
 - [E. Records](/pages/i-policies-for-all/records)
-- [F. Required Disclosures](/pages/i-policies-for-all/f.-required-disclosures)
+- [F. Required Disclosures](/pages/i-policies-for-all/f-required-disclosures)
 
 </td>
 

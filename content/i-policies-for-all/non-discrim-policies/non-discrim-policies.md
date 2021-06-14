@@ -12,9 +12,9 @@ title: "B. Non-Discrimination Policies"
 
 <td>
 
-- [B.1.a. Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b.1.a.non-discrimination-policy)
+- [B.1.a. Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy)
 - [B.1.b. Non-Discrimination Investigations & Resolutions Procedure](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin)
-- [B.1.b (1) Title IX Investigation & Resolutions Policy](/pages/i-policies-for-all/non-discrim-policies/b.1.b-1-title-ix-investigation-resolutions-policy)
+- [B.1.b (1) Title IX Investigation & Resolutions Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy)
 
 </td>
 

@@ -4,7 +4,7 @@ date: "2021-05-01"
 title: "B.1.d. Service and Assistance Animals Policy"
 ---
 
-This policy addresses Service Animals and Assistance Animals, as defined below, while they are on campus. For policies regarding general pets and animals on the Vermont campus, see the Pet Policy section of the College Handbook ([II.A.6\. Pet Policy](http://www.middlebury.edu/pages/ii-ug-college-policies/commun-policies/pets)).
+This policy addresses Service Animals and Assistance Animals, as defined below, while they are on campus. For policies regarding general pets and animals on the Vermont campus, see the Pet Policy section of the College Handbook ([II.A.6\. Pet Policy](/pages/ii-ug-college-policies/commun-policies/pets)).
 
 **A.      <span>Service Animals</span>**
 

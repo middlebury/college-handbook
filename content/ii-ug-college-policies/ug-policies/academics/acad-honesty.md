@@ -50,7 +50,7 @@ Any work submitted to meet the requirements of a particular course is expected t
 
 **Constitution of the Undergraduate Honor System**
 
-All assigned academic work is conducted under the terms of the [Undergraduate Honor System](/studentlife-older-delete-pending/doc/honorcode), which follows in full:
+All assigned academic work is conducted under the terms of the [Undergraduate Honor System](http://www.middlebury.edu/studentlife-older-delete-pending/doc/honorcode), which follows in full:
 
 **Preamble**
 

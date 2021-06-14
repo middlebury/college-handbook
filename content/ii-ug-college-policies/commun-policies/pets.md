@@ -6,7 +6,7 @@ title: "A.6. Pet Policy"
 
 Pet Policy and Requirements for “Dogs at Work”
 
-1. Pets are not allowed in Middlebury buildings including residence halls. Service and assistance animals are covered by the [Service & Assistance Animal Policy](http://www.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/svc-assist-animals). Exceptions for "dogs at work" are described below.
+1. Pets are not allowed in Middlebury buildings including residence halls. Service and assistance animals are covered by the [Service & Assistance Animal Policy](/pages/i-policies-for-all/non-discrim-policies/svc-assist-animals). Exceptions for "dogs at work" are described below.
 
 Animals visiting campus grounds shall be on a leash at all times. Animals may not be left unattended or tied to any objects (e.g., structures, trees, or vehicles). All damages caused by an animal are the responsibility of the owner or guardian of the animal at the time of the damage; repairs will be billed accordingly.
 

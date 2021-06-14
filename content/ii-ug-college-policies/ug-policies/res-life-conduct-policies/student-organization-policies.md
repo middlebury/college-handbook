@@ -1,7 +1,7 @@
 ---
 slug: "/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/student-organization-policies"
 date: "2021-05-01"
-title: "B.2.f. Student Organization Policies"
+title: "B.2.h. Student Organization Policies"
 ---
 
 1.       [General](#general)
@@ -26,7 +26,7 @@ title: "B.2.f. Student Organization Policies"
 
 **<a name="general" id="general"></a>General**
 
-1.  All student organizations are subject to Middlebury policies, including but not limited to the [Anti-Harassment/Discrimination](http://www.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin) and [Hazing](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy) policies.
+1.  All student organizations are subject to Middlebury policies, including but not limited to the [Anti-Harassment/Discrimination](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin) and [Hazing](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy) policies.
 2.  All recognized student organizations must register annually with the Office of the Dean of Students (DOS) and have constitutions that have been approved by the Constitution Committee of the Student Government Association (SGA). The Constitution Committee may not approve a constitution with provisions that are in violation of federal, state, or local laws, or Middlebury policy.
 3.  All recognized student organizations must have an adviser who is a current, full-time Middlebury faculty or staff member or contract Middlebury employee. An adviser may inform an organization about its legal responsibilities and make appropriate suggestions about policy, but does not have authority to control policy or make personnel or financial decisions.
 4.  Student organizations are financed, in whole or in part, by the Student Activities Fee, which all students must pay in order to register for each term.
@@ -140,7 +140,7 @@ Recognized student organizations may distribute food in designated locations, as
 
 Middlebury may, at its discretion, approve selected student entrepreneurial activities to function on campus. These student-run businesses involve the sale of a product or service solely for students at Middlebury.
 
-Any Middlebury student desiring to conduct a student business on the Middlebury campus must first register and obtain approval from the [Business Services Office](/offices/administration/vpfin/finance-office/our-team/business-services-office). The approval process may be commenced by completing the "Student Vendor Authorization & Contract" form and submitting it to the director of Business Services. Student business applicants should be prepared to provide additional information about their business operation and plan and, if necessary, to meet with Business Services personnel before receiving approval to commence operations.
+Any Middlebury student desiring to conduct a student business on the Middlebury campus must first register and obtain approval from the [Business Services Office](http://www.middlebury.edu/offices/administration/vpfin/finance-office/our-team/business-services-office). The approval process may be commenced by completing the "Student Vendor Authorization & Contract" form and submitting it to the director of Business Services. Student business applicants should be prepared to provide additional information about their business operation and plan and, if necessary, to meet with Business Services personnel before receiving approval to commence operations.
 
 This policy applies not only to business activities designed and originated by Middlebury College students but also to businesses operated by off-campus entities which recruit Middlebury students to carry on business activity on their behalf on the Middlebury campus. Such "franchise" operations must comply with the parameters and process of the "Student Vendor Authorization & Contract" or will otherwise be deemed to be in violation of this policy.
 

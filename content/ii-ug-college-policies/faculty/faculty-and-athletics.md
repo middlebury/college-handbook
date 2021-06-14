@@ -711,7 +711,7 @@ Golf#
 
 **B. Guidelines for Handling Athletics-Explained Absences**
 
-The list of scheduled athletics contests you receive several times a year from the director of Athletics has been approved by the Athletic Policy Committee of the faculty (APC) acting under guidelines set forth in the *[Middlebury College Handbook](http://www.middlebury.edu/pages/governance/Faculty_Councils_and_Committees#athletic-policy).* This list tells you when legitimate absences from class may be expected by students because they are involved in a sanctioned athletic event scheduled for that date. The APC regards these lists as informative. They are an *explanation* for an absence, but they do not imply that the student is excused from the obligations of a course or the class work missed.
+The list of scheduled athletics contests you receive several times a year from the director of Athletics has been approved by the Athletic Policy Committee of the faculty (APC) acting under guidelines set forth in the *[Middlebury College Handbook](http://www.middlebury.edu/about/handbook/governance/Faculty_Councils_and_Committees#athletic-policy).* This list tells you when legitimate absences from class may be expected by students because they are involved in a sanctioned athletic event scheduled for that date. The APC regards these lists as informative. They are an *explanation* for an absence, but they do not imply that the student is excused from the obligations of a course or the class work missed.
 
 Although faculty members are expected to make their policy on course attendance clear at the beginning of each course, it is the individual student's responsibility to consult with his or her instructor as to the effect of explained absences.
 

@@ -24,8 +24,8 @@ The subpages in this section apply to all members of the Middlebury community in
 <td>
 
 - [D.5\. Information Technology](/pages/i-policies-for-all/appropriate-use/info-tech)
-- [D.6\. Whistleblower Policy](/pages/i-policies-for-all/appropriate-use/d.6.-whistleblower-policy)
-- [D.7\. Policy on Scheduling Middlebury Space for Events](/pages/i-policies-for-all/appropriate-use/d.7.-policy-on-scheduling-middlebury-space-for-events)
+- [D.6\. Whistleblower Policy](/pages/i-policies-for-all/appropriate-use/d-6-whistleblower-policy)
+- [D.7\. Policy on Scheduling Middlebury Space for Events](/pages/i-policies-for-all/appropriate-use/d-7-policy-on-scheduling-middlebury-space-for-events)
 
 </td>
 

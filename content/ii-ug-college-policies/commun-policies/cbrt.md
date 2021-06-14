@@ -37,7 +37,7 @@ The CBRT does not have the authority to conduct disciplinary proceedings or impo
 - Complaints of misconduct related to the behavior of staff members should be directed to [Human Resources](http://www.middlebury.edu/offices/business/hr);
 - Complaints of misconduct related to the behavior of faculty members should be directed to the [Dean of the Faculty](http://www.middlebury.edu/academics/administration/aa_staff/node/481277).
 
-Concerns of potential harassment or discrimination prohibited by Middlebury’s Anti-Harassment/Discrimination Policy should be directed to a [Human Relations Officer and/or the Title IX Coordinator](/student-life/health-wellness-education-and-safety/campus-policies/human-relations-officer) for review. When the CBRT is informed of conduct that could potentially violate Middlebury’s Anti-Harassment/Discrimination Policy, the CBRT will so inform the Title IX office.
+Concerns of potential harassment or discrimination prohibited by Middlebury’s Anti-Harassment/Discrimination Policy should be directed to a [Human Relations Officer and/or the Title IX Coordinator](https://www.middlebury.edu/college/student-life) for review. When the CBRT is informed of conduct that could potentially violate Middlebury’s Anti-Harassment/Discrimination Policy, the CBRT will so inform the Title IX office.
 
 Additional information about the CBRT and its members can be found [here](https://www.middlebury.edu/office/community-bias-response-team).
 
@@ -63,7 +63,7 @@ Harassment may include repeated slurs, or taunts in the guise of jokes, or dispa
 
 In Middlebury’s Vermont programs, harassment may also include conduct of the type described above that is based on or motivated by a student's family member's actual or perceived race, creed, color, national origin, marital status, sex, sexual orientation, gender identity, or disability, which has the type of purpose or effect described above.
 
-See also “[Sexual Harassment](http://www.middlebury.edu/pages/misc/antiharassment#Definitions)” as defined by Middlebury’s Anti-Harassment/Discrimination policy.
+See also “[Sexual Harassment](http://www.middlebury.edu/about/handbook/misc/antiharassment#Definitions)” as defined by Middlebury’s Anti-Harassment/Discrimination policy.
 
 Possible incidents of harassment should be directed to the [Title IX Coordinator, a Human Relations Officer](http://www.middlebury.edu/studentlife/doc/hro/node/285479) or [Public Safety](http://www.middlebury.edu/offices/health/publicsafety).
 
@@ -80,7 +80,7 @@ Possible incidents of hate crimes should be directed to the [Title IX Coordinat
 
 **<span><a name="Community" id="Community"></a>Community Standards</span>**
 
-Please see the full text of Middlebury's [Community Standards](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a.-introductory-matters#community-standards).
+Please see the full text of Middlebury's [Community Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a-introductory-matters#community-standards).
 
 **<span><a name="Anti" id="Anti"></a>Anti-Harassment/Discrimination Policy; Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct, and Stalking</span>**
 
@@ -122,4 +122,4 @@ Retaliating directly or indirectly against a person who has in good faith made a
 
 **<span><a name="Additional" id="Additional"></a>Additional Resources</span>**
 
-For additional resources for targeted persons of bias incidents or hate crimes, please click [here](http://www.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin#B).
+For additional resources for targeted persons of bias incidents or hate crimes, please click [here](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin#B).

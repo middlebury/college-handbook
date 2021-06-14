@@ -6,7 +6,7 @@ title: "B.2.c. Policy Against Hazing"
 
 _Last updated October 4, 2018_
 
-Middlebury’s [General Conduct Standards](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) include promoting healthy, safe, and balanced lifestyles. Student organizations and athletic teams can play a vital role in this process, and can provide transformative opportunities for friendship, leadership, and personal growth and discovery. Hazing of any kind is antithetical to these goals; therefore, Middlebury prohibits hazing activities, whether by an individual or an organization. In keeping with Middlebury’s prohibition of any kind of hazing, training and educational activities are periodically conducted with appropriate staff who support students and campus life.
+Middlebury’s [General Conduct Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) include promoting healthy, safe, and balanced lifestyles. Student organizations and athletic teams can play a vital role in this process, and can provide transformative opportunities for friendship, leadership, and personal growth and discovery. Hazing of any kind is antithetical to these goals; therefore, Middlebury prohibits hazing activities, whether by an individual or an organization. In keeping with Middlebury’s prohibition of any kind of hazing, training and educational activities are periodically conducted with appropriate staff who support students and campus life.
 
 **1\. Policy Statement**
 
@@ -14,7 +14,7 @@ Middlebury prohibits hazing activities of any kind, whether by an individual or 
 
 Hazing activity is subject to additional penalties or fines and/or criminal prosecution by the state of Vermont; _See_ 16 V.S.A. Sec. [570k](http://legislature.vermont.gov/statutes/section/16/009/00570k) & [570l](http://legislature.vermont.gov/statutes/section/16/009/00570l); see also _Referral to Law Enforcement_, below.
 
-The student leaders of all registered student organizations and athletics programs are required to acknowledge annually that they will comply with the terms of Middlebury’s _Policy Against Hazing_. Retaliation against any individual, directly or indirectly, for making or participating in a complaint about hazing is prohibited under Middlebury’s general [Retaliation policy](http://www.middlebury.edu/pages/i-policies-for-all/genl-principles/respectful-behavior).
+The student leaders of all registered student organizations and athletics programs are required to acknowledge annually that they will comply with the terms of Middlebury’s _Policy Against Hazing_. Retaliation against any individual, directly or indirectly, for making or participating in a complaint about hazing is prohibited under Middlebury’s general [Retaliation policy](/pages/i-policies-for-all/genl-principles/respectful-behavior).
 
 **2\. Definitions**
 
@@ -87,11 +87,11 @@ vi. After review of the investigator’s report, the evidentiary material and th
 
 a. Sanctions for organizations may range from permanent suspension of recognition or authorization to operate, through cancellation, termination or restriction of activities and events, and other sanctions tailored to the particular circumstances.
 
-b. Sanctions for individuals may include all of the usual sanctions under Middlebury’s [disciplinary policies](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process#sanctions), fines and restitution, as well as other sanctions tailored to the particular circumstances. The VPSA may refer hazing allegations concerning individual students to a judicial affairs officer for review, adjudication and sanctioning under the [General Disciplinary Process](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
+b. Sanctions for individuals may include all of the usual sanctions under Middlebury’s [disciplinary policies](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process#sanctions), fines and restitution, as well as other sanctions tailored to the particular circumstances. The VPSA may refer hazing allegations concerning individual students to a judicial affairs officer for review, adjudication and sanctioning under the [General Disciplinary Process](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
 
 **5\. Additional Policy Violations**
 
-Reported incidents may be referred to a judicial affairs officer, human relations officer, or other Middlebury official, as appropriate to the circumstances, to address alleged violations of other Middlebury policies, including but not limited to Middlebury’s [General Conduct Standards](http://www.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards), [Anti-Harassment/Discrimination Policy](http://www.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin) and [Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct and Stalking](http://www.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/smdvs).
+Reported incidents may be referred to a judicial affairs officer, human relations officer, or other Middlebury official, as appropriate to the circumstances, to address alleged violations of other Middlebury policies, including but not limited to Middlebury’s [General Conduct Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards), [Anti-Harassment/Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin) and [Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct and Stalking](/pages/i-policies-for-all/non-discrim-policies/smdvs).
 
 **6\. Referral to Law Enforcement**
 
