@@ -1,7 +1,7 @@
 ---
 slug: "/pages/iv-policies-for-the-institute/c-faculty-handbook/2-administrative-roles"
 date: "2021-05-01"
-title: "I. Middlebury-Wide Policies"
+title: "C.2. Administrative Roles"
 ---
 
 As a graduate school of Middlebury, the administration of the Institute operates within the larger Middlebury administrative structure.  The academic administration of the Institute resides within the purview of the provost, who is the chief academic officer of Middlebury.  The provost is charged with providing strategic and operational leadership and with ensuring the quality and integrity of all its academic programs and initiatives, including those of the Middlebury Institute of International Studies. In that capacity, the provost is involved in decision-making broadly across academic, financial, and operational spheres for the Institute.

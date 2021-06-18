@@ -232,7 +232,7 @@ Records pertaining to a student are disposed of seven (7) years after the studen
 
 Academic accommodations are intended to preserve essential academic program requirements while minimizing the effect of a certified disability upon a student's performance. For examples, please visit the [DRC website](http://www.middlebury.edu/student-life/community-living/diversity-inclusivity/american-disability-act) online. These examples are not intended to be exhaustive, or appropriate in all cases; each student's needs are individually assessed on a case-by-case basis.
 
-## <a name="housing" id="housing"></a>B. Housing Accommodations
+## <a name="housing-accom" id="housing-accom"></a>B. Housing Accommodations
 
 The ADA Coordinator works in collaboration with appropriate staff to arrange for reasonable accommodations for students with disabilities living in the residence halls. Live-in professional staff may be notified in advance of students with disabilities for whom residential accommodations have been approved. Middlebury encourages regular communication between students with disabilities and appropriate staff. It is the responsibility of the student to consult with Middlebury staff if there is a need to revise or modify the measures taken to accommodate the student's needs. Students who require quiet floor housing may request such accommodations through the <span>DRC</span>.
 
@@ -244,7 +244,7 @@ Students requesting an air conditioner as an accommodation are advised that such
 
 Students are expected to play a substantial role in specifying their needs and following through on arrangements for accommodations. It must be understood that arrangements for equipment, housing assignments, and other accommodations require advance notice.
 
-## <a name="dining" id="dining"></a>C. Dining Accommodations
+## <a name="dining-accom" id="dining-accom"></a>C. Dining Accommodations
 
 To initiate the process for dining related accommodations, students must fill out an [Accommodation Request Form (ARF)](https://forms.middlebury.edu/student-life/doc/ada/adaarfs) online or contact the [DRC](http://www.middlebury.edu/student-life/community-living/diversity-inclusivity/american-disability-act) to obtain an alternative format of the form. The information that students provide regarding any need for accommodation(s) will be shared only with those individuals involved in the coordination and facilitation of services and accommodations that are required to make Middlebury’s programs accessible.
 

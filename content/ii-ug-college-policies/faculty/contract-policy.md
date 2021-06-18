@@ -1,27 +1,69 @@
 ---
 slug: "/pages/ii-ug-college-policies/faculty/contract-policy"
 date: "2021-05-01"
-title: "C.12. Reprints, Subvention, and Open Access"
+title: "C.13. Grants & Contracts"
 ---
 
-The College supports the publication and broad dissemination of faculty scholarship in several ways. The College will assist faculty with production costs and reprint costs for scholarly publications through the _Scholarly Publication Subvention Fund (SPSF)._  All requests should be made using the [application](http://www.middlebury.edu/media/view/454905/original/spsfform_august_2013.docx) available on the Academic Affairs webpage and sent to the Office of the Dean for Faculty Development and Research (DFDR). Additionally, the College shares faculty scholarship through an open access repository.
+**_Please note:_** In light of ongoing changes in federal regulations and administrative structure, this section may be revised periodically. Please check with the dean for faculty development and research, or the Office of Grants and Sponsored Programs if you have questions regarding administrative policies or procedures.
 
-**1\. Reprints.** Assistance will be in the form of the cost of 100 reprints, normally not to exceed $300 for a single set.
+**1\.** The vice president for academic affairs (VPAA), and the dean for faculty development and research (DFDR), have overall responsibility for applications requesting funds from government agencies, foundations, corporations, and other sources. Day-to-day responsibilities are delegated to the Office of Grants and Sponsored Programs, which will work with faculty to assist with grant applications and the administration of funded grants and contracts. When notification of an available program comes directly to a department and the department wishes to make application for a grant, the Office of Grants and Sponsored Programs should be notified of this intent as soon as possible (not later than one month in advance of the closing date for the application). Scheduling should be coordinated with the Office of Grants and Sponsored Programs to allow two weeks for the review of draft proposals in appropriate administrative offices. Direct and indirect costs must be computed following sponsor and Middlebury policies, and, in cases for which matching funds or other commitments are required, the necessary administrative approvals must be obtained.
 
-**2\. Page Charges, Submission Fees, and Copyright Fees for articles.** There is a maximum grant amount of $2,000 per article.
+Awards made as a result of grant or contract proposals submitted by Middlebury faculty are typically legally-binding agreements between the sponsor and Middlebury.  The faculty principal investigator or project director (PI/PD) has responsibility for carrying out the approved project on behalf of Middlebury.
 
-**3\. Scholarly Books and Artistic Works.** Assistance will be provided (as funding permits) for tenured and tenure-track faculty and faculty whose appointments make them eligible to serve on Faculty Council (as defined by the faculty in November 2013) to cover production costs when an academic publisher requires a subvention as a condition for publication.  It may also be used for indexing, copyright or permission fees, or copyediting (i.e., copyediting of the final version of a manuscript after it has been accepted for publication).  The funds for copyediting will only be paid to an independently-hired editor (not to the publishing press).  The maximum grant amount for each book project is $2,500 and repayment is not required.  Because of the financial pressures affecting the world of publishing, there may be special circumstances that would warrant additional subvention support.  Faculty members may also apply to the vice president for Academic Affairs and dean of the faculty (VPAA/DOF) for a loan to cover production costs in excess of $2,500.  Such loans are to be repaid by payroll deduction over a period not to exceed 24 months at an interest rate to be established at the beginning of each academic year.  The remaining terms will be negotiated between the applicant and the VPAA/DOF as part of the application process.
+**2\.** Each research or other project proposal (or preliminary proposal that include an estimated budget or commitment of academic year time or institutional resources) to an outside agency requires a Proposal Endorsement and Tracking (PET) form submitted via the online InfoEd system.  The proposal and PET form must first be approved by the chair of the department in which it originates.  In this approval the department chair certifies that the proposed project is consistent with departmental and Middlebury objectives and policy, that space and facilities for effective performance are available, and that the individual initiating the proposal and such other personnel as may be required will be available without interference with their academic duties and will be able to perform the research or other project effectively.
 
-Applications may be submitted at any time and must include a written contract with a publisher (if applicable). The faculty member may not be the publisher, producer, or agent.
+**3\.** Following approval by the department chair, the research or other project proposal (or preliminary proposal) must then be approved by the dean for faculty development and research. An endorsement from the provost, vice president for Academic Affairs and dean of the faculty, dean of curriculum, director of the sciences, director of the arts, director of the humanities, or the vice president for Academic Affairs and dean of the Schools may also be required. Modifications of the proposal as they may deem necessary or desirable will be made at this time.
 
-[SPSF application](http://www.middlebury.edu/system/files/media/spsf_form_0.docx)
+**4**. Under some circumstances, it may be possible to include budget lines to pay for released time in a grant application. Faculty who wish to do so must consult with the department chair and dean of curriculum early in the grant conceptualization and writing process so the dean may assess the impact of a reduced teaching load  on department and college curriculum. The primary factors in deciding whether or not to allow inclusion of requests for released time in grant applications are the ability of the department to find a replacement if a replacement is authorized and/or the impact of losing a course in the department/college curriculum. The following guidelines apply:
 
-**4\. Open Access Policy**
+**a.** Winter term course releases are often the easiest for a department to absorb and replace, and should therefore be given primary consideration.
 
-The faculty members of Middlebury College are committed to broad dissemination of their research and scholarship. Therefore, faculty members grant Middlebury College permission to exercise the copyright in their scholarly articles in order to make those articles freely available. More specifically, each faculty member grants to Middlebury College a nonexclusive, worldwide license to exercise any and all rights under copyright relating to each of their scholarly articles, in any medium, provided that the articles are not sold for a profit, and to authorize others to do the same. Middlebury will grant these rights in turn to the authors themselves, so faculty authors may exercise the same rights. This applies to all scholarly articles authored or co-authored by Middlebury faculty. It does not apply to articles completed before the adoption of this policy, or to articles already under an incompatible licensing or assignment agreement at the time this policy was adopted (May 2016). The granting of this license will have no effect on the copyright ownership of the faculty articles, which remains with the faculty member unless they assign them to another party. This license is revocable at will for individual articles using the process described below.
+**b.** Having a grant-funded teaching reduction does not reduce obligations in advising, committee service, or chairing departments and programs.
 
-If directed by a faculty member, the Dean of the Faculty’s Office will automatically waive application of the license for particular articles or delay access for a specified period of time. Faculty members may request waivers at any time. A decision to obtain a waiver or failure to submit an article will have no bearing in annual or other reviews of faculty.
+**c.** In order to ensure continuity in the curriculum and equity in course loads, no more than three years out of a five-year period may include grant-funded released time for a given faculty member.
 
-Faculty will provide the author’s final version of each article to the Dean of the Faculty’s Office. Unless the faculty member has obtained a waiver, the Dean of the Faculty’s Office will make the article available to the public in an open-access repository. Otherwise, the article will be stored in the repository for archival purposes.
+**d.** It is expected that faculty with grant-funded released time will mentor more research students. Wherever possible, funds to pay for student research assistants should be built into grant budgets.
 
-_rev. 7/19/16_
+**e.** Faculty compensation for the purpose of the proposal is computed at 18% of the faculty member’s annual salary per course release, plus benefits.
+
+**5\.** Applications approved by the aforementioned officers must be reviewed by the Office of Grants and Sponsored Programs to ensure compliance with Middlebury and federal government (or other sponsor) requirements. The following guidelines apply:
+
+**a.** Project applications incorporating provisions for extra pay for research or other project work normally will be approved to provide for up to two months of extra work during the summer. One month's summer salary is equal to 1/9th of the annual contract salary for the prior academic year.  Exceptions to this policy must be approved by the VPAA/DOF, upon recommendation of the DFDR.
+
+**b.** The budget incorporated in the project application must include applicable indirect (F&A) costs at Middlebury’s federally-approved indirect cost rate unless the sponsor or solicitation otherwise limits them.  Exceptions to this policy must be approved in advance by the VPAA/DOF.
+
+**c.** All direct costs comprehensively defined will be reflected in the budget incorporated in the project application. When faculty apply for outside funding to support academic leaves, the level of support from the College is understood to be 75 percent of stated salary for a semester leave and 55 percent of stated salary for a year's leave.
+
+**d.** The adequacy of provisions in the proposed budget for equipment, building alterations, power consumption, etc., must be reviewed by the Office of Grants & Sponsored Programs  in consultation with the director of budget and financial planning, the director of Facilities Services, and/or other appropriate officials as applicable. and the chair of the department originating the proposal; Provisions for salaries must be made in consultation with the office of the vice president for Academic Affairs and dean of the faculty, and/or director of Human Resources, as appropriate. All applications in which support is requested for the purchase of computers or software or central technology needs must be approved by the associate vice president for Information Technology or designate.
+
+**e.** If the application calls for a cost share to be provided by the institution, the Proposal Endorsement and Tracking (PET) form must include the Middlebury budget from which these funds will come and an authorizing approval.
+
+**f**. If the application calls for purchase of equipment requiring maintenance after a warranty period, there must be a budget to be charged for maintenance.
+
+**g.** All grant proposals must disclose any family relationship between any individuals named in the proposal using the [Family Relationship Disclosure Form](http://www.middlebury.edu/media/view/129901/original/Famrel_Jan07_form.doc). No family members may be paid with grant funds unless that relationship was disclosed in the proposal or disclosed to the controller or designee after receipt of a grant award.
+
+**h.** Any “Significant Financial Interest” (as defined by Federal and [Middlebury policy](http://www.middlebury.edu/offices/support/grants/sro/policies/COI/coifull)) must be disclosed to the controller at the time of submission. After a grant is funded, significant financial interests must be disclosed at least annually and at any time such a new interest arises.   In lieu of the aforementioned requirement, proposals to and grants awarded by any Public Health Service entity including the National Institutes of Health are governed by the [PHS/NIH Financial Conflict of Interest Policy](http://www.middlebury.edu/offices/support/grants/sro/policies/phs-fcoi) posted on the Middlebury website.
+
+**i.** When applicable, the application and/or cover letter must state that payment of the contract or grant be directed to the controller and disbursements from it made under his or her direction. All accounting and financial reports will be handled by the Office of the Controller (or designate),
+
+**6\.**  Designated members of the Office of Grants and  Sponsored Programs staff are authorized to sign all grant applications on behalf of Middlebury  when they are  satisfied that all the above conditions have been met. A copy of the complete proposal must be provided to the Office of Grants and Sponsored Programs.
+
+Contract or Grant Agreements resulting from submitted applications must be reviewed and negotiated by the Office of Grants and Sponsored Programs and executed in accordance with [the Policy on Contracting for Middlebury.](http://www.middlebury.edu/offices/administration/vpfin/finance-office/bsnsvcs/contracting/policies/contracting-policy)
+
+**7\.** Upon receipt of contract or grant funds in response to an application approved and executed as set forth above, all procedures then in effect for disbursement of Middlebury funds from the regular Middlebury budget will apply. Middlebury must be at least as scrupulous in handling external funds as in handling its own funds, and in some instances will be called upon to observe even more meticulous requirements.   The project director/principal investigator (PD/PI)  will be the budget administrator for the grant and contract, responsible for adhering to the grant budget and these Middlebury policies and procedures.
+
+Commitments to pay for additional personnel must be cleared with Human Resources before such commitments are made. All purchases must comply with Middlebury purchasing and payment policies and procedures in advance of making the purchase commitments. Determination of whether or not proposed purchases or other charges are allowable under the terms of a grant or contract will be made by the Controller or his/her designate, who may require the prior approval of the sponsoring organization.
+
+**8\.** Middlebury has a primary responsibility for the scholarly needs of its faculty. Middlebury also recognizes its concern for the continued scholarly productivity of faculty departing for other institutions.
+
+When a departing faculty member requests release of certain research equipment brought to Middlebury through an investigator-initiated research grant, Middlebury will consider release of equipment to the other institution concerned on an individual basis and if:
+
+**a.** The equipment is critical to the investigator's research, and
+
+**b.** It will not or cannot be supplied by the institution to which he or she is going, and
+
+**c.** It is not critical to faculty research at Middlebury, and
+
+**d.** The conditions under which the equipment or funds used to purchase it were secured do not preclude disposition. "Critical" equipment is defined as equipment essential to research personally conducted or directed by the faculty member. The individual requesting the equipment has the responsibility for demonstrating to Middlebury his or her need for that equipment for the continuation of his or her personal research.
+
+_rev. 8/16/19_

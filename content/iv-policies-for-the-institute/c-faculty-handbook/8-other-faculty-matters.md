@@ -26,7 +26,7 @@ Any unexpected development preventing a faculty member from meeting a class shou
 
 **C.8.e. Policy Against Sexual Misconduct, Domestic Violence, Dating Violence and Stalking**
 
-Middlebury is committed to providing a campus and workplace environment that is safe and secure for all students, staff, faculty and others who participate in Middlebury’s programs. Sexual misconduct, domestic violence, dating violence, stalking, and related retaliation are strictly prohibited, and Middlebury will respond to such complaints in accordance with the [policy set forth in the Middlebury handbook](/pages/i-policies-for-all/non-discrim-policies/smdvs).
+Middlebury is committed to providing a campus and workplace environment that is safe and secure for all students, staff, faculty and others who participate in Middlebury’s programs. Sexual misconduct, domestic violence, dating violence, stalking, and related retaliation are strictly prohibited, and Middlebury will respond to such complaints in accordance with the [policy set forth in the Middlebury handbook](https://www.middlebury.edu/about/handbook/policies-for-all/non-discrim-policies/smdvs).
 
 **<a name="grievance" id="grievance"></a>C.8.f. Grievance Procedure**
 

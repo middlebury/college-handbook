@@ -16,7 +16,7 @@ Please select from the following content:
 
 - [3.1 General Information](/pages/ii-ug-college-policies/employee/benefits/general-info)
 - [3.2 Benefit Changes](/pages/ii-ug-college-policies/employee/benefits/benefit-changes)
-- [3.3 Health and Welfare Benefit Plan](/pages/ii-ug-college-policies/employee/benefits/health-welfard)
+- [3.3 Health and Welfare Benefit Plan](/pages/ii-ug-college-policies/employee/benefits/health-welfare)
 - [3.4 Employee & Family Assistance Plan (EFAP)](/pages/ii-ug-college-policies/employee/benefits/efap)
 - [3.5 Retirement Plan](/pages/ii-ug-college-policies/employee/benefits/retirement)
 - [3.6 Phased Retirement](/pages/ii-ug-college-policies/employee/benefits/phased-ret)

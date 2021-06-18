@@ -50,14 +50,14 @@ Phone: 802-443-5001\
 
 **Code of Conduct for Employees**
 
-</pages/ii-ug-college-policies/commun-policies/empl-conduct>
+[https://www.middlebury.edu/pages/ii-ug-college-policies/commun-policies/empl-conduct](/pages/ii-ug-college-policies/commun-policies/empl-conduct)
 
 **Misconduct in Research – Policies and Procedures**
 
-</pages/ii-ug-college-policies/faculty/research_misconduct>
+[https://www.middlebury.edu/pages/ii-ug-college-policies/faculty/research-misconduct](/pages/ii-ug-college-policies/faculty/research-misconduct)
 
 **Anti-Harassment and Discrimination Policy**
 
-</pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin>
+[https://www.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin)
 
 _Updated May 3, 2019_

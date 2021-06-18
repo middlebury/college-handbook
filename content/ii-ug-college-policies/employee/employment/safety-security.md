@@ -40,4 +40,4 @@ Middlebury College supports a Return to Work Transitional Duty Program (RTWTDP) 
 **Controlled Substance/Alcohol Testing for Employees with a Work-required CDL**
 
 All employees who hold a commercial driver’s license as part of their position responsibilities for travel within the state are required to participate in controlled substance/alcohol testing. This includes testing for pre-employment, random, post-accident, reasonable suspicion, and return to duty testing.  
-_see:_ [Controlled Substance/Alcohol Testing Procedure](http://www.middlebury.edu/pages/employee/employment/hr_controlled_sub_cdl)
+_see:_ [Controlled Substance/Alcohol Testing Procedure](/pages/ii-ug-college-policies/employee)

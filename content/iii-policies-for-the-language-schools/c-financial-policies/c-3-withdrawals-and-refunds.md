@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iii-policies-for-the-language-schools/c-financial-policie/c-3-withdrawals-and-refunds"
+slug: "/pages/iii-policies-for-the-language-schools/c-financial-policies/c-3-withdrawals-and-refunds"
 date: "2021-05-01"
 title: "C.3 Withdrawals and Refunds"
 ---

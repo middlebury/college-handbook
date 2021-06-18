@@ -23,8 +23,8 @@ title: "B. Academic Policies"
 
 - [B.5 For Middlebury College Undergraduates](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-5-for-middlebury-college-undergraduates)
 - [B.6 Master of Arts](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-6-master-of-arts)
-- [B.7 Doctor of Modern Languages](/pages/iii-policies-for-the-language-schools/b-academic-policies/doctor-of-modern-languages)
-- [B.8 Grades and Transcripts](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-7-student-records)
+- [B.7 Doctor of Modern Languages](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-7-doctor-of-modern-languages)
+- [B.8 Grades and Transcripts](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-8-student-records)
 
 </td>
 

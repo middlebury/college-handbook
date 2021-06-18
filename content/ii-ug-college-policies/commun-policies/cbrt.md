@@ -86,9 +86,9 @@ Please see the full text of Middlebury's [Community Standards](/pages/ii-ug-coll
 
 For information on filing reports under these policies, please refer to the following links:
 
-[Anti-Harassment/Discrimination Policy](http://www.middlebury.edu/pages/misc/antiharassment)
+[Anti-Harassment/Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin)
 
-[Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct, and Stalking](http://www.middlebury.edu/pages/misc/October)
+[Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct, and Stalking](http://www.middlebury.edu/about/handbook/misc/October)
 
 **<span><a name="Non" id="Non"></a>Non-Discrimination Statement</span>**
 

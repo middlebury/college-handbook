@@ -48,7 +48,7 @@ Students are responsible for what takes place in their rooms and common suite sp
 
 Students cannot switch rooms and keys or change residences without proper permission.
 
-Students are not expected to be in areas that are not regular living spaces. They should not use areas outside of their living spaces for storage unless authorized. The list of spaces excluded from student use includes any roof or outer surface of any Middlebury building. Accessing a roof in any manner or climbing on a building is considered dangerous behavior and is prohibited; fines will be assessed.  Unauthorized access to prohibited areas of Middlebury buildings (e. g. basements, closets, crawlspaces and/or attics) will incur fines (see [section on fines and fees](/offices/support/sfs/sfs-handbook)).
+Students are not expected to be in areas that are not regular living spaces. They should not use areas outside of their living spaces for storage unless authorized. The list of spaces excluded from student use includes any roof or outer surface of any Middlebury building. Accessing a roof in any manner or climbing on a building is considered dangerous behavior and is prohibited; fines will be assessed.  Unauthorized access to prohibited areas of Middlebury buildings (e. g. basements, closets, crawlspaces and/or attics) will incur fines (see [section on fines and fees](https://www.middlebury.edu/offices/support/sfs/sfs-handbook)).
 
 Students are expected to be considerate of others with respect to noise in the residence halls; see [Noise Regulations](http://www.middlebury.edu/offices/health/publicsafety/Noise_Regulations) for more information. Conduct that creates a public disturbance in a residence hall or interferes with another student’s ability to study is prohibited.
 

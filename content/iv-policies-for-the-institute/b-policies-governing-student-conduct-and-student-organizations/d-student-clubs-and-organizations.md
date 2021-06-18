@@ -20,7 +20,7 @@ title: "B.4. Student Clubs and Organizations"
 
 <td>
 
-- [B.4.d. Alcohol Policy (serving alcohol at events)](/pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/d-student-clubs-and-organizations/b-4-d-alochol-policy-serving-alcohol-at-events-)
+- [B.4.d. Alcohol Policy (serving alcohol at events)](/pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/d-student-clubs-and-organizations/b-4-d-alochol-policy-serving-alcohol-at-events)
 - [B.4.e. Guest Policy for Events](/pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/d-student-clubs-and-organizations/b-4-e-guest-policy)
 - [B.4.f. Food and Beverage Policy](/pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/d-student-clubs-and-organizations/b-4-f-food-and-beverage-policy)
 

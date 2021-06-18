@@ -108,7 +108,7 @@ Non-emergency: 802.443.5133
 [Vice President for Student Affairs (Interim) and Dean of Students](http://www.middlebury.edu/student-life/staff/leadership)  
 <span>Baishakhi Taylor</span>  
 <span>802.443.5771</span>  
-[taylorb@middlebury.edu](mailto:%20taylorb@middlebury.edu)
+[taylorb@middlebury.edu](mailto:taylorb@middlebury.edu)
 
 [Director of Athletics](http://athletics.middlebury.edu/information/directory/bios/quinn?view=bio)  
 Erin Quinn  

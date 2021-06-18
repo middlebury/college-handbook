@@ -30,7 +30,7 @@ b. Encourage an environment of enriching extracurricular and social opportunitie
 
 c. Educate members of the community through academic and student life programs and policies about the health risks associated with tobacco, alcohol and drug abuse, and refer students and employees to resources and health services such as tobacco, drug or alcohol counseling, treatment or rehabilitation, or re-entry programs that are available to students and employees, as applicable.
 
-**Middlebury Policies and Local, State, and Federal Law**  
+**<a name="polices" id="policies"></a>Middlebury Policies and Local, State, and Federal Law**  
 All students, faculty, staff, and visitors are subject to local, state, and federal laws, as well as Middlebury tobacco, drug and alcohol policy rules and regulations, while on Middlebury-owned or -leased properties or involved with off-campus activities sponsored by Middlebury or a registered Middlebury organization. Middlebury does not protect students or employees from prosecution for tobacco, drug or alcohol offenses under local, state, or federal laws, and does not interfere with legitimate law enforcement activities. Law enforcement officers may have a legal right to search individuals, and with consent or proper documentation may search property—including residences owned or leased by Middlebury —without prior notice. Middlebury also reserves the right to furnish the police with information regarding alleged illegal activities.
 
 <span style="text-decoration:underline">Middlebury College Specific</span>: In order to preserve the safety of our residents, the state of Vermont and the College both adhere to policies that limit disciplinary consequences under certain circumstances when appropriate care is sought for individuals in drug- or alcohol-related distress. Please see the [<span>Medical Amnesty Policy</span>](#amnesty) below for more information. Additionally, if student health and safety concerns resulting from a student’s use of alcohol and/or drugs arise, parents or guardians may be notified. See [Health and Community Responsibility](#health) below for more information.
@@ -102,7 +102,7 @@ The following actions are prohibited:</span>
 
 <span>See also Middlebury's "[No Smoking Policy](/pages/i-policies-for-all/health-safety/no-smoking)"</span>
 
-**<a name="disc_sanctions" id="disc_sanctions"></a>Disciplinary Sanctions: Students**
+**<a name="dfs" id="dfs"></a>Disciplinary Sanctions: Students**
 
 **Responses to Alcohol, Tobacco and Other Drugs Policy Violations**
 
@@ -148,7 +148,7 @@ Disciplinary sanctions for faculty and staff will be imposed under Middlebury’
 
 [Employee Code of Conduct](/pages/ii-ug-college-policies/commun-policies/empl-conduct)
 
-[Progressive Discipline](/pages/ii-ug-college-policies/employee/processes-development/progressive_discipline)
+[Progressive Discipline](/pages/ii-ug-college-policies/employee/processes-development/progressive-discipline)
 
 [Discharge](/pages/ii-ug-college-policies/employee/leaving-midd/discharge)
 

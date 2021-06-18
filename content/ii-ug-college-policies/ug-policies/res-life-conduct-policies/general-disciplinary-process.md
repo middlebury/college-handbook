@@ -72,7 +72,7 @@ Middlebury’s discipline procedures are driven by our commitment to fundamental
 
 Colleges are not courts of law, and Middlebury’s disciplinary proceedings have as their fundamental goal _education_, rather than criminal punishment or compensation.  Middlebury does not have the power to subpoena evidence or place witnesses under oath, and procedures are therefore necessarily different from a civil or criminal legal proceeding. However, the procedures outlined below and in the [TIX Sexual Harassment Investigations and Resolutions Procedure](/pages/i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy), as well as the [Non-Discrimination Investigations and Resolutions Procedure](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin), are designed to provide fundamental fairness and to protect students from arbitrary or capricious disciplinary action. All disciplinary authorities of Middlebury, including judicial board members, deans and Human Relations Officers conduct their proceedings in the spirit of these principles. If exceptional circumstances dictate variation from these procedures, the variation will not invalidate a decision unless it prevented fundamental fairness.
 
-# [III. Charges and Evidence](#chargesevidence)
+# <a name="chargesevidence" id="chargesevidence"></a>III. Charges and Evidence
 
 a. Concerns regarding student behavior may be brought to the Office of Community Standards by any individual, whether or not they are a member of the Middlebury College community.
 

@@ -4,13 +4,13 @@ date: "2021-05-01"
 title: "C.2. Threat Assessment and Response Policy"
 ---
 
-*   [**Introduction**](#intro)
-*   [**Threat Assessment Team**](#tam)
-*   [**Reporting Potential Threats**](#reporting)
-*   [**Confidentiality**](#confidential)
-*   [**Retaliation**](#retaliation)
+- [**Introduction**](#intro)
+- [**Threat Assessment Team**](#tam)
+- [**Reporting Potential Threats**](#reporting)
+- [**Confidentiality**](#confidential)
+- [**Retaliation**](#retaliation)
 
-* * *
+---
 
 **<a name="intro" id="intro"></a>I. Introduction & Purpose**
 
@@ -20,9 +20,9 @@ Nothing in this policy shall be construed to alter or amend other applicable Mid
 
 **<a name="tam" id="tam"></a>II. Threat Assessment Team**
 
-The Chief Risk Officer appoints the members of the Vermont TAM and names its chair, and appoints new or different team members as necessary; the VPAA/Dean of the Institute appoints the members of the Institute TAM.  Each TAM is advisory and makes recommendations to the appropriate office in the programs for which it is responsible. 
+The Chief Risk Officer appoints the members of the Vermont TAM and names its chair, and appoints new or different team members as necessary; the VPAA/Dean of the Institute appoints the members of the Institute TAM.  Each TAM is advisory and makes recommendations to the appropriate office in the programs for which it is responsible.
 
-The Vermont TAM is chaired by the Director of Public Safety, and ordinarily consists of representatives (or their designees) from the Department of Public Safety, Academic Affairs, Vice President for Student Affairs and Dean of the College Office, Office of the Chief Risk Officer, Human Resources, and a clinical psychologist from the Parton Center for Health and Wellness. 
+The Vermont TAM is chaired by the Director of Public Safety, and ordinarily consists of representatives (or their designees) from the Department of Public Safety, Academic Affairs, Vice President for Student Affairs and Dean of the College Office, Office of the Chief Risk Officer, Human Resources, and a clinical psychologist from the Parton Center for Health and Wellness.
 
 The Institute TAM is co-chaired by the Associate Dean of Student Services and the Executive Assistant to the Vice President.  Ordinarily, the Institute TAM consists of representatives from Advising, Career, Student Services, Human Resources, Information Technology Services, Communications, the Institute campus security, and the VP’s office.
 
@@ -84,7 +84,7 @@ Special Projects / Public Safety
 
 <td width="152" valign="top">
 
-<span style="text-decoration:underline">[eburchard@middlebury.edu](mailto:eburchard@middlebury.edu)</span>
+<span>[eburchard@middlebury.edu](mailto:eburchard@middlebury.edu)</span>
 
 </td>
 
@@ -108,7 +108,7 @@ Keith Ellery
 
 <td width="264" valign="top">
 
-Interim Dir. of Public Safety  
+Interim Dir. of Public Safety
 
 Assoc. Dir. of Public Safety
 
@@ -116,7 +116,7 @@ Assoc. Dir. of Public Safety
 
 <td width="152" valign="top">
 
-<span style="text-decoration:underline">[dgaiotti@middlebury.edu](mailto:dgaiotti@middlebury.edu)</span>
+<span>[dgaiotti@middlebury.edu](mailto:dgaiotti@middlebury.edu)</span>
 
 [kellery@middlebury.edu](mailto:kellery@middlebury.edu)
 
@@ -148,7 +148,7 @@ VP for Academic Affairs & Dean of Faculty
 
 <td width="152" valign="top">
 
-<span style="text-decoration:underline">[lloyd@middlebury.edu](mailto:lloyd@middlebury.edu)</span>
+<span>[lloyd@middlebury.edu](mailto:lloyd@middlebury.edu)</span>
 
 </td>
 
@@ -206,7 +206,7 @@ VP for Human Resources & Chief Risk Officer
 
 <td width="152" valign="top">
 
-<span style="text-decoration:underline">[karenm@middlebury.edu](mailto:karenm@middlebury.edu)</span>
+<span>[karenm@middlebury.edu](mailto:karenm@middlebury.edu)</span>
 
 </td>
 
@@ -234,7 +234,7 @@ VP for Human Resources & Chief Risk Officer
 
 <td width="120" valign="top">
 
-Laura Carotenuto 
+Laura Carotenuto
 
 </td>
 
@@ -246,7 +246,7 @@ Laura Carotenuto 
 
 <td width="152" valign="top">
 
-<span style="text-decoration:underline">[lcaroten@middlebury.edu](mailto:lcaroten@middlebury.edu)</span>
+<span>[lcaroten@middlebury.edu](mailto:lcaroten@middlebury.edu)</span>
 
 </td>
 
@@ -274,7 +274,7 @@ Exec. Dir., <span>Health and Counseling Services</span>
 
 <td width="152" valign="top">
 
-<span style="text-decoration:underline">[jordan@middlebury.edu](mailto:jordan@middlebury.edu)</span>
+<span>[jordan@middlebury.edu](mailto:jordan@middlebury.edu)</span>
 
 </td>
 
@@ -289,7 +289,6 @@ Exec. Dir., <span>Health and Counseling Services</span>
 <tr>
 
 <td colspan="4" width="622" valign="top"></td>
-
 
 </tr>
 
@@ -347,7 +346,7 @@ Co-Chair, Associate Dean of Student Services
 
 <td width="152" valign="top">
 
-[aarrocha@miis.edu](mailto:aarrocha@miis.edu)<span style="text-decoration:underline"></span>
+[aarrocha@miis.edu](mailto:aarrocha@miis.edu)<span></span>
 
 </td>
 
@@ -363,7 +362,7 @@ Co-Chair, Associate Dean of Student Services
 
 <td width="120" valign="top">
 
-Barbara Burke 
+Barbara Burke
 
 </td>
 
@@ -375,7 +374,7 @@ Co-Chair, Executive Assistant to the Vice President
 
 <td width="152" valign="top">
 
-[blburke@miis.edu](mailto:blburke@miis.edu)<span style="text-decoration:underline"></span>
+[blburke@miis.edu](mailto:blburke@miis.edu)<span></span>
 
 </td>
 
@@ -403,7 +402,7 @@ Campus Security Manager
 
 <td width="152" valign="top">
 
-[bdaniels@miis.edu](mailto:bdaniels@miis.edu)<span style="text-decoration:underline"></span>
+[bdaniels@miis.edu](mailto:bdaniels@miis.edu)<span></span>
 
 </td>
 
@@ -471,7 +470,7 @@ Senior Business Partner
 
 <td width="152" valign="top">
 
-[mulibarr@miis.edu](mailto:mulibarr@miis.edu)<span style="text-decoration:underline"></span>
+[mulibarr@miis.edu](mailto:mulibarr@miis.edu)<span></span>
 
 </td>
 
@@ -513,7 +512,7 @@ In cases where an assessment indicates that the threat is to self only, the matt
 
 **<a name="confidential" id="confidential"></a>IV. Confidentiality**
 
-All reports under this policy will be handled in a sensitive manner. Information will be shared with others only to the extent necessary to assess and manage the situation and in accordance with state and federal law. 
+All reports under this policy will be handled in a sensitive manner. Information will be shared with others only to the extent necessary to assess and manage the situation and in accordance with state and federal law.
 
 In general, the law recognizes and protects the confidentiality of communications between a person seeking care and a medical or mental health professional or religious adviser. The medical, mental health, and religious professionals at Middlebury respect and protect confidential communications from students, faculty, and staff to the extent that they are legally able to do so. One of these professionals may have to breach a confidence, however, when he or she perceives a serious risk of danger to another person or property.
 

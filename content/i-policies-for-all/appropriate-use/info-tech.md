@@ -62,15 +62,15 @@ The laws and policies governing acceptable use of computer networks and the Inte
 
 E-mail is the official method for communicating with Middlebury students, faculty, and staff. Official e-mail communications are intended to meet and serve academic and administrative needs. Middlebury expects that such communications, many of which are time-critical, will be received and read in a timely fashion. To enable this process, all students, faculty, and staff are issued a standardized Middlebury e-mail account.  Students, faculty, and staff who choose to forward e-mail from their Middlebury e-mail accounts are responsible for ensuring that all information, including attachments, is transmitted in its entirety to the preferred account. <span>Individual or institutional email accounts may not be used for direct advertising for personal profit or gain.</span>
 
-Middlebury has adopted guidelines for appropriate use of All Campus Email messages and such messages may only be sent by specific authorized individuals. More information is available [here](http://go.middlebury.edu/policy-email). 
+Middlebury has adopted guidelines for appropriate use of All Campus Email messages and such messages may only be sent by specific authorized individuals. More information is available [here](http://go.middlebury.edu/policy-email).
 
 #### **3. Network Monitoring Policy**
 
 **a. Purpose**  
-The primary purpose of network monitoring is to ensure the availability, performance and security of Middlebury’s network services. This includes identifying and blocking malicious activity in order to protect the College’s data, systems, and reputation.  
+The primary purpose of network monitoring is to ensure the availability, performance and security of Middlebury’s network services. This includes identifying and blocking malicious activity in order to protect the College’s data, systems, and reputation.
 
 **b. Scope**  
-The scope includes all computing systems and network infrastructure owned or managed by Middlebury.  
+The scope includes all computing systems and network infrastructure owned or managed by Middlebury.
 
 **c. Policy**  
 In order to protect data, designated ITS staff may use network monitoring technologies to log network activity and to scan data moving across the network. These technologies may include anti-virus software, firewalls, intrusion protection and intrusion detection systems, vulnerability management systems, and database and application monitoring systems. This information may be centrally correlated for analysis.
@@ -96,7 +96,7 @@ Please note that documents addressing the fluid issue of technology can rarely b
 
 **b. Scope of this Policy**
 
-This Policy applies to all participants in all of Middlebury’s programs, including students, faculty and staff, as well as any others who may regularly or incidentally use any of Middlebury’s information systems, devices and/or networks. 
+This Policy applies to all participants in all of Middlebury’s programs, including students, faculty and staff, as well as any others who may regularly or incidentally use any of Middlebury’s information systems, devices and/or networks.
 
 **c. Definitions**
 
@@ -105,29 +105,29 @@ This Policy applies to all participants in all of Middlebury’s programs, inclu
 **d. Policy**
 
 1.  Use of Middlebury Devices, Systems and Networks
-    1.  Middlebury provides devices, IT systems and networks for institutional purposes to support its teaching and learning mission. 
+    1.  Middlebury provides devices, IT systems and networks for institutional purposes to support its teaching and learning mission.
     2.  Incidental personal use of the Middlebury email system as well as for data storage on Middlebury file servers such as MiddFiles is permitted but not encouraged.
     3.  Individuals bear the responsibility to avoid libel, obscenity, undocumented allegations, attacks on personal integrity, and acts of harassment.  Please see Middlebury’s policy on “[Responsible Use of Computing and Network Services and Facilities](http://go.middlebury.edu/itsru)” for additional information regarding expectations of your use of Middlebury computing resources.
     4.  Unencrypted personally identifiable information (individual names associated with driver's license, social security, credit card or bank account numbers and access codes) and other confidential information related to Middlebury activities must not be stored on individual faculty, staff, or student employee computers, or personally-owned devices. Employees must not reconfigure a Middlebury-supplied laptop and personal computer to bypass the prompt for an authorized Middlebury username and password upon start-up: passwords must be keyed in, rather than set to be entered automatically. Loss or theft of any device (including a laptop, personal computer, tablet, or smartphone) that may contain institutional data must be immediately reported to ITS.  
         _see also,_ **_Banner Security Procedures_** _for additional policies & practices related to data integrity and stewardship._
 2.  Monitoring
-    1.  ITS is committed to maintaining the confidentiality, integrity and availability of information stored in Middlebury devices, networks and systems.  Middlebury uses a variety of automatic mechanisms to monitor its networks and systems at the aggregate, institutional level, and follows best practices to identify and diagnose system or security vulnerabilities and problems.   
-    2.  Middlebury does not routinely monitor the activity and accounts of individual users except under certain circumstances described in this Policy. 
-    3.  ITS may monitor and/or access electronic information when necessary to address system or security vulnerabilities and problems, or to otherwise preserve the integrity of Middlebury systems.  This includes but is not limited to ongoing maintenance, inspection, protecting against threats such as attacks, malware, and viruses; to protect the institution; and to ensure the integrity, security and availability of information in compliance with the law, contractual obligations, etc. Routine network monitoring may also include anti-virus software, firewalls, intrusion detection and prevention, vulnerability management systems, and database and application monitoring systems.  Middlebury must also ensure that essential operations can be maintained, which may include disaster recovery preparation, access to restricted data necessary for business purposes and other exceptional steps to ensure continued operations. 
+    1.  ITS is committed to maintaining the confidentiality, integrity and availability of information stored in Middlebury devices, networks and systems.  Middlebury uses a variety of automatic mechanisms to monitor its networks and systems at the aggregate, institutional level, and follows best practices to identify and diagnose system or security vulnerabilities and problems.
+    2.  Middlebury does not routinely monitor the activity and accounts of individual users except under certain circumstances described in this Policy.
+    3.  ITS may monitor and/or access electronic information when necessary to address system or security vulnerabilities and problems, or to otherwise preserve the integrity of Middlebury systems.  This includes but is not limited to ongoing maintenance, inspection, protecting against threats such as attacks, malware, and viruses; to protect the institution; and to ensure the integrity, security and availability of information in compliance with the law, contractual obligations, etc. Routine network monitoring may also include anti-virus software, firewalls, intrusion detection and prevention, vulnerability management systems, and database and application monitoring systems.  Middlebury must also ensure that essential operations can be maintained, which may include disaster recovery preparation, access to restricted data necessary for business purposes and other exceptional steps to ensure continued operations.
     4.  By choosing to attach privately-owned personal computers or other resources to Middlebury’s networks and systems, users consent to Middlebury’s monitoring activities under this Policy.
-    5.  No independent authorization is required for information technology personnel to conduct routine system protection, maintenance, management or business continuity activities as outlined above. 
+    5.  No independent authorization is required for information technology personnel to conduct routine system protection, maintenance, management or business continuity activities as outlined above.
 
- 3\.   Access
+3\.   Access
 
-*   1.  a. As a general matter, Middlebury does not guarantee the confidentiality of any content housed within or transmitted through its systems or networks, because in certain circumstances Middlebury may need to access information for legitimate institutional purposes, an illustrative but not exhaustive list of which are described below.
+- 1.  a. As a general matter, Middlebury does not guarantee the confidentiality of any content housed within or transmitted through its systems or networks, because in certain circumstances Middlebury may need to access information for legitimate institutional purposes, an illustrative but not exhaustive list of which are described below.
 
-   i.    Health and Safety Matters:  In situations where the safety of any human being is seriously threatened, Middlebury reserves the right to access information to reduce the health and safety risk.
+i.    Health and Safety Matters:  In situations where the safety of any human being is seriously threatened, Middlebury reserves the right to access information to reduce the health and safety risk.
 
-   ii.    As Required By Law: Middlebury must comply with legal process, including lawful demands for information in government investigations, law enforcement proceedings, etc. and it has obligations to preserve and produce information that is required in connection with threatened or pending litigation.  Subpoenas, court orders, or other demands for information should be directed to the Office of the General Counsel.
+ii.    As Required By Law: Middlebury must comply with legal process, including lawful demands for information in government investigations, law enforcement proceedings, etc. and it has obligations to preserve and produce information that is required in connection with threatened or pending litigation.  Subpoenas, court orders, or other demands for information should be directed to the Office of the General Counsel.
 
-    iii.    Institutional Investigations of Illegal Behavior or Misconduct:  Under its policies, Middlebury may and often is required to gather information to investigate a possible violation of law or a breach of Middlebury policy.  Access under such circumstances is restricted under the associated Procedure for Authorization, which ensures that appropriate senior leadership, such as the Vice-President for Human Resources, or the Dean of the Faculty, is informed in order to authorize access.  Senior leaders may consult with the General Counsel, as needed. 
+iii.    Institutional Investigations of Illegal Behavior or Misconduct:  Under its policies, Middlebury may and often is required to gather information to investigate a possible violation of law or a breach of Middlebury policy.  Access under such circumstances is restricted under the associated Procedure for Authorization, which ensures that appropriate senior leadership, such as the Vice-President for Human Resources, or the Dean of the Faculty, is informed in order to authorize access.  Senior leaders may consult with the General Counsel, as needed.
 
-    iv.    Operational Necessity: Middlebury may access information necessary to carry out essential business functions, which may include circumstances of unexpected absence, death or other unavailability.
+iv.    Operational Necessity: Middlebury may access information necessary to carry out essential business functions, which may include circumstances of unexpected absence, death or other unavailability.
 
 4\. Authorization Procedures
 
@@ -141,7 +141,7 @@ A. Investigations: Other than in an emergency, access to identifiable electronic
 6.  The Executive Director of Enrollment, Advising & Student Services for MIIS students
 7.  The VPAA/Dean of the Schools for faculty or students of the Schools
 
-ITS will notify the senior leader about a pending need for authorization.  The senior leader is responsible for weighing the needs of Middlebury against the privacy interests of the individual, in the context of applicable legal restrictions, and may take into consideration technological tools utilizing non-consumptive or data analytical techniques.  Senior leaders may consult with the General Counsel and others as needed.  Information provided under this exception will be limited to the information that is necessary to effectuate the institution’s purpose and must be maintained as confidential to the maximum extent possible. 
+ITS will notify the senior leader about a pending need for authorization.  The senior leader is responsible for weighing the needs of Middlebury against the privacy interests of the individual, in the context of applicable legal restrictions, and may take into consideration technological tools utilizing non-consumptive or data analytical techniques.  Senior leaders may consult with the General Counsel and others as needed.  Information provided under this exception will be limited to the information that is necessary to effectuate the institution’s purpose and must be maintained as confidential to the maximum extent possible.
 
 <span>B.  Emergencies: Emergency access to information needed to reduce a serious threat to a person’s health or safety may be authorized by an appropriate member of the Senior Leadership Group, who is responsible for notifying appropriate offices after the emergency has resolved of the actions taken.  Notice will ordinarily be given to an identified user within a reasonable period of time, although Middlebury may exercise discretion in such notifications.</span>
 
@@ -155,13 +155,13 @@ All institutional and departmental information should reside on the Middlebury w
 
 Materials and information created and posted on the Middlebury website are the intellectual property of the institution and/or its employees as provided in Middlebury’s Intellectual Property Policy.
 
-Faculty, staff, and students may create personal, group, and curricular websites and blogs outside the Middlebury website environment in keeping with institutional guidelines.  Use of the Middlebury domain for personal websites is a privilege and is subject to restrictions to protect the institution’s legal status, avoid confusion, and reduce risks to the institution.  Abuse of the privilege may result in an individual’s ability to make such uses being terminated. 
+Faculty, staff, and students may create personal, group, and curricular websites and blogs outside the Middlebury website environment in keeping with institutional guidelines.  Use of the Middlebury domain for personal websites is a privilege and is subject to restrictions to protect the institution’s legal status, avoid confusion, and reduce risks to the institution.  Abuse of the privilege may result in an individual’s ability to make such uses being terminated.
 
 **_a. Requirements for All Web Pages_**
 
 a.i. Materials and information created and posted on the Middlebury website must comply with copyright and fair use laws such as the Digital Millennium Copyright Act of 1998 and all relevant institutional policies, including those governing use of computing resources, nondiscrimination, harassment, use of Middlebury facilities and services for commercial purposes, and student and employee conduct.
 
-a.ii. Any use of the Middlebury website for illegal or inappropriate activities or harassment is prohibited. Illegal activities shall be defined as a violation of local, state, and/or federal laws. Inappropriate use shall be defined as a violation of the intended use of the Middlebury’s computing resources and policies, and/or the purpose and goals of the Middlebury website. Harassment is defined and addressed in the Middlebury [Anti-Harassment/Discrimination Policy](http://go.middlebury.edu/ahdp) Statement found in the Middlebury Handbook.
+a.ii. Any use of the Middlebury website for illegal or inappropriate activities or harassment is prohibited. Illegal activities shall be defined as a violation of local, state, and/or federal laws. Inappropriate use shall be defined as a violation of the intended use of the Middlebury’s computing resources and policies, and/or the purpose and goals of the Middlebury website. Harassment is defined and addressed in the Middlebury [Anti-Harassment/Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin) Statement found in the Middlebury Handbook.
 
 a.iii. Unauthorized use of Middlebury’s websites for commercial purposes is prohibited. Personal or institutional web pages may not be used for direct advertising for personal profit or gain. Direct links to non-Middlebury commercial entities, unless directly related to research or the curriculum, are prohibited unless approval is granted by Office of Communications and Marketing.
 
@@ -169,7 +169,7 @@ a.iv. Unauthorized use and/or distribution of others' intellectual property (inc
 
 a.v. Exploiting Middlebury’s website for malicious purposes is prohibited. Discovered exploits should be reported to [infosec@middlebury.edu](mailto:infosec@middlebury.edu), immediately. Public disclosure of means to exploit Middlebury’s website is prohibited and is subject to disciplinary action.
 
-b. As stated in the Middlebury [Anti-Harassment/Discrimination Policy](http://go.middlebury.edu/ahdp) Statement, Middlebury recognizes that the protection of free and open speech and the open exchange of ideas are essential to any academic or artistic community and crucial for the activity of scholars and artists. Free, honest intellectual inquiry, debate, and constructive dialogue are vital to the academic mission of the institution and must be protected, even when the views expressed are unpopular or controversial.
+b. As stated in the Middlebury [Anti-Harassment/Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin) Statement, Middlebury recognizes that the protection of free and open speech and the open exchange of ideas are essential to any academic or artistic community and crucial for the activity of scholars and artists. Free, honest intellectual inquiry, debate, and constructive dialogue are vital to the academic mission of the institution and must be protected, even when the views expressed are unpopular or controversial.
 
 b.i. Middlebury also recognizes that contents of electronic publications or electronic communications can be used specifically to intimidate or coerce and to inhibit genuine discourse, free inquiry, and learning. Such abuses are unacceptable. As an educational institution, Middlebury is committed to maintaining an environment where bigotry and intolerance, including discrimination on the basis of gender, sexual orientation, gender identity and expression, race, ethnicity, religious beliefs, physical ability, or age have no place, and where any form of coercion or harassment that insults the dignity of others and interferes with their freedom to learn or work is unacceptable.
 

@@ -19,4 +19,4 @@ Non-exempt and exempt employees on approved Personal LOAs _do not_ accrue CTO ti
 
 During an approved Personal Leave of Absence, employees have the same job protection afforded active employees.
 
-_\* Employees needing time off for medical reasons or to care for a family member with a serious medical condition should refer to the [\_Family and Medical Leave Act_ policy](/pages/ii-ug-college-policies/employee/time-away/family-medical-leave)\_.
+Employees needing time off for medical reasons or to care for a family member with a serious medical condition should refer to the *[Family and Medical Leave Act policy](/pages/ii-ug-college-policies/employee/time-away/family-medical-leave)*.

@@ -392,7 +392,7 @@ Middlebury College
 Service Building   
 Middlebury, VT 05753  
 802.443.3289  
-[mmccaleb@middlebury.edu](%20mmccaleb@middlebury.edu)
+[mmccaleb@middlebury.edu](mailto:mmccaleb@middlebury.edu)
 
 **<span>Senior Human Relations Officer</span>**  
 <span><span>Eric Lopez  
@@ -557,7 +557,8 @@ Middlebury, VT 05753
 
 **Emergencies: Dial 911**
 
-[Washington DC Metropolitan Police Department](http://mpdc.dc.gov/)300 Indiana Avenue, NW  
+[Washington DC Metropolitan Police Department](http://mpdc.dc.gov/)  
+300 Indiana Avenue, NW  
 Washington, DC 20001   
 Telephone: 202-727-9099  
 TTY: 711  
@@ -588,7 +589,7 @@ The following is a non-exhaustive list of professionals who are required to repo
 - Mental health professionals
 - Commercial film and photographic print processors
 
-A complete list of mandated reporters is provided in California Penal Code section 11165.7.[[1]](#\_ftn1)
+A complete list of mandated reporters is provided in California Penal Code section 11165.7.<a title="" id="_ftnref1" href="#_ftn1">[1]</a>
 
 In addition to the above mandated reporters, California law provides that “any other person” who has knowledge, observes, or reasonably suspects that a child has been abused or neglected *may* make a report to a county welfare department, probation department (if it is designated by the county to receive mandated reports), or to a police or sheriff’s department (not including a school district police or security department). California Penal Code sections 11166(g), 11165.9.
 
@@ -610,7 +611,7 @@ It is established that following professionals are required to report:
 - A social worker acting in an official capacity
 - A member of the clergy
 
-In addition to the above mandated reporters, it is presently an open question whether “every person” with knowledge or a reasonable suspicion of abuse or neglect is a mandated reporter under New Mexico law. [[2]](#\_ftn2)
+In addition to the above mandated reporters, it is presently an open question whether “every person” with knowledge or a reasonable suspicion of abuse or neglect is a mandated reporter under New Mexico law. <a title="" id="_ftnref2" href="#_ftn2">[2]</a>
 
 A person may not refuse to make a report required by law on the grounds that making the report would be privileged as a matter of law, except for a member of the clergy. Reports shall contain the name, address, and telephone number of the reporter.
 
@@ -645,6 +646,6 @@ Washington D.C. law does not specifically address the confidentiality of the ide
 
 ---
 
-[[1]](#\_ftnref1) See [http://law.onecle.com/california/penal/11165.7.html](http://law.onecle.com/california/penal/11165.7.html)
+<a title="" id="_ftn1" href="#_ftnref1">[1]</a> See [http://law.onecle.com/california/penal/11165.7.html](http://law.onecle.com/california/penal/11165.7.html)
 
-[[2]](#_ftnref2) The statute reads that “every person” is required to report.  N.M.S.A. § 32A-4-3 (a).  Despite the statute’s plain language, the New Mexico Court of Appeals has held that that words “every person” only mean the professionals specifically identified in the statute (i.e. the professionals listed in the preceding bullet points).  _State v. Strauch_, 2014-NMCA-020, 317 P.3d 878, 881 (N.M. Ct.App. 2013). The New Mexico Supreme Court has decided to review this question. *State v. Strauch*, 321 P.3d 936 (N.M. Ct. App. 2014) (granting cert). Middlebury’s handling of related issues will comply with New Mexico law as applicable at the relevant time.
+<a title="" id="_ftn2" href="#_ftnref2">[2]</a> The statute reads that “every person” is required to report.  N.M.S.A. § 32A-4-3 (a).  Despite the statute’s plain language, the New Mexico Court of Appeals has held that that words “every person” only mean the professionals specifically identified in the statute (i.e. the professionals listed in the preceding bullet points).  *State v. Strauch*, 2014-NMCA-020, 317 P.3d 878, 881 (N.M. Ct.App. 2013). The New Mexico Supreme Court has decided to review this question. *State v. Strauch*, 321 P.3d 936 (N.M. Ct. App. 2014) (granting cert). Middlebury’s handling of related issues will comply with New Mexico law as applicable at the relevant time.
