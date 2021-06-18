@@ -1,14 +1,6 @@
 import React from "react";
-import { navigate } from "gatsby";
 
-const SearchResults = ({ results, setResults, expandCallback }) => {
-  const handleClick = (e, slug) => {
-    e.preventDefault();
-    navigate(`${slug}`);
-    setResults([]);
-    expandCallback(slug);
-  };
-
+const SearchResults = ({ results }) => {
   return (
     <div aria-label="Search Results" className="search-results">
       {results.length === 0 ? (
@@ -19,7 +11,7 @@ const SearchResults = ({ results, setResults, expandCallback }) => {
         results.map((result) => {
           return (
             <div className="search-results__item">
-              <a href="#" onClick={(e) => handleClick(e, result.slug)}>
+              <a href={result.slug}>
                 <h3>{result.title}</h3>
               </a>
               <p

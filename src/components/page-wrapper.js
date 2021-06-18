@@ -23,6 +23,8 @@ const PageWrapper = (props) => {
   const [currentClass, setCurrentClass] = useState("");
   const [results, setResults] = useState([]);
   const [printResults, setPrintResults] = useState("");
+  const [index, setIndex] = useState("");
+  const [store, setStore] = useState({});
   const prevClass = useRef();
   let allNodes = Object.values(nodes);
   let buffer = "";
@@ -30,17 +32,23 @@ const PageWrapper = (props) => {
   const data = useStaticQuery(graphql`
     query {
       localSearchPages {
-        index
-        store
+        publicIndexURL
+        publicStoreURL
       }
     }
   `);
 
-  const store = Object.values(data.localSearchPages.store);
+  // const store = Object.values(data.localSearchPages.store);
   const handlePageLoad = (slug) => {
     let url = slug ? slug.split("/") : window.location.href.split("/");
     if (url[url.length - 1] === "") {
       url.pop();
+    }
+
+    // Taking care of links with # links
+    if (url[url.length - 1].includes("#")) {
+      let last = url.pop().split("#")[0];
+      if (last.length !== 0) url.push(last);
     }
     let currentExpanded =
       url.indexOf("pages") !== -1
@@ -87,6 +95,19 @@ const PageWrapper = (props) => {
   }, []);
 
   useEffect(() => {
+    fetch(data.localSearchPages.publicIndexURL)
+      .then((result) => result.text())
+      .then((res) => {
+        setIndex(res);
+      });
+    fetch(data.localSearchPages.publicStoreURL)
+      .then((result) => result.json())
+      .then((res) => {
+        setStore(res);
+      });
+  }, []);
+
+  useEffect(() => {
     prevClass.current = currentClass;
   }, [currentClass]);
 
@@ -99,7 +120,9 @@ const PageWrapper = (props) => {
   }, [value]);
 
   useEffect(() => {
-    handlePageLoad(expand);
+    if (expand.length > 0) {
+      handlePageLoad(expand);
+    }
   }, [expand]);
 
   const handleClick = (value) => {
@@ -135,27 +158,21 @@ const PageWrapper = (props) => {
 
   const handleChecked = (checked) => {
     for (let i = 0; i < checked.length; i++) {
-      let ele = store
+      let ele = Object.values(store)
         .map((obj) => {
           return obj.slug;
         })
         .indexOf(`/pages/${checked[i]}`);
       buffer = buffer.concat(
-        `<br><h2>${store[ele].title}</h2>`,
-        store[ele].html
+        `<br><h2>${Object.values(store)[ele].title}</h2>`,
+        Object.values(store)[ele].html
       );
     }
     setPrintResults(buffer);
   };
 
   return (
-    <Layout
-      title={
-        props.path === "/"
-          ? "Middlebury College Handbook"
-          : props.data?.markdownRemark?.frontmatter.title
-      }
-    >
+    <Layout title={props.data?.markdownRemark?.frontmatter.title}>
       <div className="App">
         <Header />
         <Navbar
@@ -164,7 +181,9 @@ const PageWrapper = (props) => {
           valueCallback={(value) => {
             setValue(value);
           }}
-          localSearchPages={data.localSearchPages}
+          // localSearchPages={data.localSearchPages}
+          index={index}
+          store={store}
           setResults={setResults}
           printResults={printResults}
         />
@@ -183,7 +202,6 @@ const PageWrapper = (props) => {
               }}
               onExpand={(expanded) => setExpanded(expanded)}
               onClick={(targetNode) => {
-                console.log(targetNode);
                 navigate(`/pages/${targetNode.value}`);
                 setPage(targetNode);
                 setValue("");

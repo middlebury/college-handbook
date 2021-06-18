@@ -7,7 +7,7 @@ import {
   FaBackward,
   FaStepBackward,
 } from "react-icons/fa";
-import SearchBar from "./search-bar";
+import { SearchBar, SearchBarPresentation } from "./search-bar";
 import { navigate } from "gatsby";
 
 const Navbar = (props) => {
@@ -25,19 +25,19 @@ const Navbar = (props) => {
       className: "ii-ug-college-policies",
     },
     {
-      value: "iii.-policies-for-the-language-schools",
+      value: "iii-policies-for-the-language-schools",
       label: "III. Policies for the Language Schools",
-      className: "iii.-policies-for-the-language-schools",
+      className: "iii-policies-for-the-language-schools",
     },
     {
-      value: "iv.-policies-for-the-institute",
+      value: "iv-policies-for-the-institute",
       label: "IV. Policies for the Institute of International Studies",
-      className: "iv.-policies-for-the-institute",
+      className: "iv-policies-for-the-institute",
     },
     {
-      value: "v-handbook_archive",
+      value: "v-handbook-archive",
       label: "Previous Handbooks",
-      className: "v-handbook_archive",
+      className: "v-handbook-archive",
     },
   ];
 
@@ -114,14 +114,16 @@ const Navbar = (props) => {
     <nav className="navbar">
       <div className="navbar__container">
         <div className="navbar__search-content">
-          <SearchBar
-            localSearchPages={props.localSearchPages}
-            setResults={props.setResults}
-            valueCallback={props.valueCallback}
-          />
-          {/* <h2 style={{color:'black'}} className="navbar__heading">
-                        <button aria-label='Home' style={{cursor:'pointer', backgroundColor: '#fff', color: 'inherit', border: 'none', padding: '0', font: 'inherit'}} onClick={(e)=>{navigate('/'); props.valueCallback('/');}}>Middlebury College Handbook</button>
-                    </h2> */}
+          {props.index !== "" ? (
+            <SearchBar
+              index={props.index}
+              store={props.store}
+              setResults={props.setResults}
+              valueCallback={props.valueCallback}
+            />
+          ) : (
+            <SearchBarPresentation />
+          )}
         </div>
         <div className="navbar__buttons">
           <button
