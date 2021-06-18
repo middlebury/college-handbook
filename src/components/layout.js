@@ -21,7 +21,7 @@ const Layout = ({ title, children }) => {
   return (
     <div>
       <Helmet>
-        <title>{data.site.siteMetadata.title}</title>
+        <title>{title || data.site.siteMetadata.title}</title>
         <meta name="description" content={data.site.siteMetadata.description} />
         <link
           href="https://fonts.googleapis.com/css2?family=Domine:wght@400;700&family=Open+Sans:wght@400;500;600;700&display=swap"
