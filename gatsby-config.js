@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Middlebury College Handbook`,
-    description: `Middlebury College Handbook`,
+    title: `Middlebury Handbook`,
+    description: `Middlebury Handbook`,
   },
   flags: {
     PRESERVE_FILE_DOWNLOAD_CACHE: true,
@@ -31,14 +31,14 @@ module.exports = {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "iii.-policies-for-the-language-schools",
-        path: `${__dirname}/content/iii.-policies-for-the-language-schools`,
+        path: `${__dirname}/content/iii-policies-for-the-language-schools`,
       },
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
         name: "iv.-policies-for-the-institute",
-        path: `${__dirname}/content/iv.-policies-for-the-institute`,
+        path: `${__dirname}/content/iv-policies-for-the-institute`,
       },
     },
     {
@@ -53,7 +53,10 @@ module.exports = {
       options: {
         name: "pages",
         engine: "flexsearch",
-        engineOptions: "speed",
+        engineOptions: {
+          encode: "icase",
+          async: false,
+        },
         query: `
         {
           allMarkdownRemark {
