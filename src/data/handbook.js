@@ -318,7 +318,7 @@ export const nodes = [
                 value:
                   "ii-ug-college-policies/ug-policies/academics/grades-transcripts",
                 label: "B.1.k. Grades and Transcripts",
-                className: "eval-student-work",
+                className: "grades-transcripts",
               },
               {
                 value:
@@ -983,6 +983,20 @@ export const nodes = [
         value: "iii-policies-for-the-language-schools/a-student-life-policies",
         label: "A. Student Conduct Policies",
         className: "a-student-life-policies",
+        children: [
+          {
+            value:
+              "iii-policies-for-the-language-schools/a-student-life-policies/disciplinary-process",
+            label: "Language Schools Disciplinary Process",
+            className: "disciplinary-process",
+          },
+          {
+            value:
+              "iii-policies-for-the-language-schools/a-student-life-policies/withdrawals-and-readmission",
+            label: "Withdrawals and Readmission",
+            className: "withdrawals-and-readmission",
+          },
+        ],
       },
       {
         value: "iii-policies-for-the-language-schools/b-academic-policies",
@@ -1046,19 +1060,19 @@ export const nodes = [
         children: [
           {
             value:
-              "iii-policies-for-the-language-schools/c-financial-policie/c-1-fees",
+              "iii-policies-for-the-language-schools/c-financial-policies/c-1-fees",
             label: "C.1 Fees",
             className: "c-1-fees",
           },
           {
             value:
-              "iii-policies-for-the-language-schools/c-financial-policie/c-2-employment",
+              "iii-policies-for-the-language-schools/c-financial-policies/c-2-employment",
             label: "C.2 Employment",
             className: "c-2-employment",
           },
           {
             value:
-              "iii-policies-for-the-language-schools/c-financial-policie/c-3-withdrawals-and-refunds",
+              "iii-policies-for-the-language-schools/c-financial-policies/c-3-withdrawals-and-refunds",
             label: "C.3 Withdrawals and Refunds",
             className: "c-3-withdrawals-and-refunds",
           },
