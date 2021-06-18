@@ -22,9 +22,7 @@ export const SplitPaneLeft = ({ children, ...props }) => {
   };
 
   useEffect(() => {
-    if (document.documentElement.clientWidth >= 1024) {
-      window.addEventListener("resize", resizeSection);
-    }
+    window.addEventListener("resize", resizeSection);
     return () => {
       window.removeEventListener("resize", resizeSection);
     };
