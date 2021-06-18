@@ -58,7 +58,7 @@ At least one person from the sponsoring group must be designated as the **Respon
 
 Regardless of the size of the event, students and any other attendees who appear to be below the age of thirty must be required to show legal proof of age (a valid drivers license, state-issued liquor identification card, or passport) plus a MIIS ID, if applicable.
 
-Alcohol may not be served to individuals who appear to be [intoxicated](http://www.abc.ca.gov/forms/abc637.pdf). In addition, prudence dictates limiting the number of servings of alcohol per person. The consumption of more than one serving of alcohol during the course of one hour may lead to a blood alcohol concentration greater than the legal limit for driving in California. Note: because many of the Institute’s events take place in the hour before the end of the work day, we need to be especially conscious of this issue.
+Alcohol may not be served to individuals who appear to be [intoxicated](https://www.abc.ca.gov/forms/abc637.pdf). In addition, prudence dictates limiting the number of servings of alcohol per person. The consumption of more than one serving of alcohol during the course of one hour may lead to a blood alcohol concentration greater than the legal limit for driving in California. Note: because many of the Institute’s events take place in the hour before the end of the work day, we need to be especially conscious of this issue.
 
 Alcohol is prohibited in classrooms, as part of scheduled classes, and workshops. This includes semester-end parties, etc.
 

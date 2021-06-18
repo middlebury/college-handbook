@@ -28,6 +28,6 @@ Peer Content Tutors, approved by departmental faculty, are also available to pro
 
 Tutoring for students taking foreign language courses is available through the CTLR. Professor approved and trained tutors assist students in grammar, sentence structure and pronunciation. For more information visit the [Foreign Language Tutors](https://www.middlebury.edu/office/teaching-learning-research/about-us/student-staff) Web site.
 
-Professional tutors in writing, quantitative skills, and learning skills are available by appointment during daytime hours, weekdays.  Make an [appointment](http://accutrack.middlebury.edu/) with a CTLR professional on-line (go/appt) or by contacting the CTLR.
+Professional tutors in writing, quantitative skills, and learning skills are available by appointment during daytime hours, weekdays.  Make an [appointment](https://accutrack.middlebury.edu/) with a CTLR professional on-line (go/appt) or by contacting the CTLR.
 
 _rev. 9/9/19_

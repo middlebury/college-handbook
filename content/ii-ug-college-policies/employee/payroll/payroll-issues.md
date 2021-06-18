@@ -6,7 +6,7 @@ title: "5.4 Reporting Time and Payroll Issues"
 
 All employees of the College are paid every other Friday on a biweekly pay period basis. If a payday falls on a holiday, employees will receive paychecks on the last working day of the week. The pay period begins on Monday and ends on the following second Sunday.
 
-The pay calendar schedule can be found in the [Compensation Section](http://www.middlebury.edu/offices/business/hr/comp) of the Human Resources Web site.
+The pay calendar schedule can be found in the [Compensation Section](https://www.middlebury.edu/offices/business/hr/comp) of the Human Resources Web site.
 
 All time must be submitted by noon on the Tuesday following the close of the pay period in order to be included in the next pay check. If employees feel their check may be inaccurate, first they must verify that their time was submitted accurately and on time. Issues regarding rate of pay, positions or titles, and CTO should be directed to Human Resources. Other paycheck issues such as taxes and direct deposits should be directed to Payroll.
 

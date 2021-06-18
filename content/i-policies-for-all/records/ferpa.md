@@ -67,7 +67,7 @@ The student's written, signed consent must:
 
 -- File a complaint with the U.S. Department of Education if he or she feels Middlebury has failed to comply with FERPA.
 
-**c. Administering Office.** The <span style="text-decoration:underline">[Office of the Registrar](http://www.middlebury.edu/offices/academic/records)</span> is responsible for the administration of this policy for all Middlebury programs other than the Institute. The Records Office is responsible for the administration of this policy at the Middlebury Institute. Students and others who have questions regarding the treatment of specific information in a specific circumstance should contact a staff member in the appropriate Office.
+**c. Administering Office.** The <span style="text-decoration:underline">[Office of the Registrar](https://www.middlebury.edu/offices/academic/records)</span> is responsible for the administration of this policy for all Middlebury programs other than the Institute. The Records Office is responsible for the administration of this policy at the Middlebury Institute. Students and others who have questions regarding the treatment of specific information in a specific circumstance should contact a staff member in the appropriate Office.
 
 **3\. Confidentiality**
 
@@ -77,7 +77,7 @@ Personally identifiable student data, other than "directory information" for stu
 
 FERPA provides certain exceptions for the release of personally identifiable education record information without the student's written consent. These exceptions include:
 
-_Directory Information._ “Directory information,” as defined in section 1.c. above, may be made available to the public if the student has not restricted its release.
+*Directory Information.* “Directory information,” as defined in section 1.c. above, may be made available to the public if the student has not restricted its release.
 
 Middlebury will honor requests to withhold any one or more elements of “directory information.”
 
@@ -85,9 +85,9 @@ Students should consider very carefully the consequences of any decision to with
 
 Requests for non-disclosure must be submitted in writing to the Office of the Registrar at Middlebury College or the Record Office at the Middlebury Institute. Forms for making such requests may be obtained from the appropriate Office.
 
-_Legitimate Educational Interest._ Personally identifiable education record information may be disclosed without the student's written consent to a Middlebury official with a legitimate educational interest in the record. A Middlebury official is a person employed by Middlebury in an administrative, supervisory, academic or research, support staff, or other position (including public safety and health staff at the College and Campus Security staff at the Institute); a person or company with whom Middlebury has contracted (such as an attorney, auditor, or collection agent); a person serving on the Board of Trustees; or a student serving on an official committee, such as a disciplinary or grievance committee, or assisting another school official in performing his or her tasks. An employee has a legitimate educational interest if the official needs to review an education record in order to fulfill his or her professional responsibility.
+*Legitimate Educational Interest.* Personally identifiable education record information may be disclosed without the student's written consent to a Middlebury official with a legitimate educational interest in the record. A Middlebury official is a person employed by Middlebury in an administrative, supervisory, academic or research, support staff, or other position (including public safety and health staff at the College and Campus Security staff at the Institute); a person or company with whom Middlebury has contracted (such as an attorney, auditor, or collection agent); a person serving on the Board of Trustees; or a student serving on an official committee, such as a disciplinary or grievance committee, or assisting another school official in performing his or her tasks. An employee has a legitimate educational interest if the official needs to review an education record in order to fulfill his or her professional responsibility.
 
-_Other Exceptions._ Education record information may be disclosed without the student's written consent in various instances, including:
+*Other Exceptions.* Education record information may be disclosed without the student's written consent in various instances, including:
 
 a) To the student;
 
@@ -123,7 +123,7 @@ FERPA does not provide the student with the right to access certain records, inc
 
 -- Confidential letters and statements of recommendation placed in the student's education record prior to January 1, 1975, or confidential recommendations to which the student has given prior written waiver of access and which are used for job placement, admission, or award purposes.
 
--- Records that fall into one or more exclusion from the definition of “education records.” 
+-- Records that fall into one or more exclusion from the definition of “education records.”
 
 **5\. Amendment of Records**
 

@@ -4,6 +4,6 @@ date: "2021-05-01"
 title: "B.7 Doctor of Modern Languages"
 ---
 
-[**Degree Guidelines & Requirements**](http://www.middlebury.edu/system/files/media/DML%20Student%20Guidelines%20New_2.pdf)
+[**Degree Guidelines & Requirements**](https://www.middlebury.edu/system/files/media/DML%20Student%20Guidelines%20New_2.pdf)
 
-[**Degree Requirements Chart with Sample Course of Study**](http://www.middlebury.edu/system/files/media/New%20DML%20requirements%20chart_1.pdf)
+[**Degree Requirements Chart with Sample Course of Study**](https://www.middlebury.edu/system/files/media/New%20DML%20requirements%20chart_1.pdf)

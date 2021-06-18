@@ -4,7 +4,7 @@ date: "2021-05-01"
 title: "D.4. Intellectual Property"
 ---
 
-Middlebury is the owner of various forms of intellectual property, including trademarks such as its name, shield, athletic logos and copyright in certain documents critical to its identity and operations. 
+Middlebury is the owner of various forms of intellectual property, including trademarks such as its name, shield, athletic logos and copyright in certain documents critical to its identity and operations.
 
 **A. Use of the College's Name, Logos, Images, and Other Service or Trademarks**
 
@@ -58,23 +58,23 @@ For the purposes of this policy, _identity interest_ is defined as an interest i
 
 (A) Middlebury has an _identity interest_ in works related to Middlebury’s identity, including, without limitation:
 
-*   publications disseminated beyond Middlebury, including brochures, videos, web sites and other materials designed for the recruitment of students;
-*   official institutional web pages;
-*   multi-media elements of Middlebury’s official online and social media presence;
-*   alumni affairs publications;
-*   materials designed for fundraising and institutional advancement; and
-*   Middlebury logos, trademarks, service marks, domain names and social media identifiers.
+- publications disseminated beyond Middlebury, including brochures, videos, web sites and other materials designed for the recruitment of students;
+- official institutional web pages;
+- multi-media elements of Middlebury’s official online and social media presence;
+- alumni affairs publications;
+- materials designed for fundraising and institutional advancement; and
+- Middlebury logos, trademarks, service marks, domain names and social media identifiers.
 
 (B) Middlebury has a _functional interest_ in works related to ongoing operations, including, without limitation:
 
-*   administrative and personnel handbooks, policy manuals and other documents;
-*   training and procedural manuals;
-*   committee and task force reports;
-*   institutional proposals for external funding;
-*   self-studies for external review or re-accreditation processes;
-*   institutional planning documents;
-*   software, digital learning platforms, interfaces, databases, specialized processes and other innovations used for operational purposes; and
-*   maps, architectural drawings, technical and engineering documents and other information relating to Middlebury facilities, properties and assets.
+- administrative and personnel handbooks, policy manuals and other documents;
+- training and procedural manuals;
+- committee and task force reports;
+- institutional proposals for external funding;
+- self-studies for external review or re-accreditation processes;
+- institutional planning documents;
+- software, digital learning platforms, interfaces, databases, specialized processes and other innovations used for operational purposes; and
+- maps, architectural drawings, technical and engineering documents and other information relating to Middlebury facilities, properties and assets.
 
 (2) Such IP is created or developed in connection with a specific, institutionally-defined project.
 
@@ -104,7 +104,7 @@ Middlebury Community members who wish to pursue the commercialization of their I
 
 **_(g)  Questions._**
 
-Questions regarding the interpretation of the above-described Intellectual Property ownership determination framework should be directed to the [Intellectual Property Committee](http://ipwg.middcreate.net/ip/) as defined in the “Administration” section below.
+Questions regarding the interpretation of the above-described Intellectual Property ownership determination framework should be directed to the [Intellectual Property Committee](https://ipwg.middcreate.net/ip/) as defined in the “Administration” section below.
 
 **III. Middlebury Access and Use**
 
@@ -118,7 +118,7 @@ This policy will be administered by the Office of the Provost.  Interpretations
 
 **_(b)  Intellectual Property Committee._**
 
-In implementing this policy, the Middlebury Board of Trustees will, in consultation with the Provost, appoint an Intellectual Property review committee (the “<span style="text-decoration:underline">Intellectual Property Committee</span>”) consisting of members of various constituencies within the Middlebury Community.  The [Intellectual Property Committee](http://ipwg.middcreate.net/ip/) will have an Executive Committee designated by the Board of Trustees.
+In implementing this policy, the Middlebury Board of Trustees will, in consultation with the Provost, appoint an Intellectual Property review committee (the “<span style="text-decoration:underline">Intellectual Property Committee</span>”) consisting of members of various constituencies within the Middlebury Community.  The [Intellectual Property Committee](https://ipwg.middcreate.net/ip/) will have an Executive Committee designated by the Board of Trustees.
 
 The Executive Committee will meet at least semi-annually to discuss and make recommendations to the Provost on matters regarding (i) changes or amendments to this policy, (ii) general guidance to the Middlebury Community regarding the interpretation of, and procedures described in, this policy, and (iii) other issues relating to the matters described in this policy as requested by the President, the Middlebury Board of Trustees or the Provost.  Meetings of the Executive Committee will be open to the Middlebury Community.
 

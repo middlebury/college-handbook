@@ -12,7 +12,7 @@ Middlebury’s [General Conduct Standards](/pages/ii-ug-college-policies/ug-pol
 
 Middlebury prohibits hazing activities of any kind, whether by an individual or an organization, and including passive participation in hazing activities. Because of the socially coercive nature of hazing, implied or express consent is not a defense under this policy (or under state law). Passive participation in hazing may include witnessing hazing taking place as a group member, affiliate or guest, or participating in or being present in person or via technology in discussions where hazing is planned. Hazing activities violate this policy whether or not they involve alcohol, and whether or not they occur on a Middlebury campus. Hazing activity may lead to disciplinary proceedings against individuals and/or organizations, including but not limited to disciplinary consequences for individuals, and/or the probation, suspension, or termination of a student organization or athletic team. Culpability for any violations of this policy may be attributed to active and passive participants, the student group and/or its members, and elected or appointed officers.
 
-Hazing activity is subject to additional penalties or fines and/or criminal prosecution by the state of Vermont; _See_ 16 V.S.A. Sec. [570k](http://legislature.vermont.gov/statutes/section/16/009/00570k) & [570l](http://legislature.vermont.gov/statutes/section/16/009/00570l); see also _Referral to Law Enforcement_, below.
+Hazing activity is subject to additional penalties or fines and/or criminal prosecution by the state of Vermont; _See_ 16 V.S.A. Sec. [570k](https://legislature.vermont.gov/statutes/section/16/009/00570k) & [570l](https://legislature.vermont.gov/statutes/section/16/009/00570l); see also _Referral to Law Enforcement_, below.
 
 The student leaders of all registered student organizations and athletics programs are required to acknowledge annually that they will comply with the terms of Middlebury’s _Policy Against Hazing_. Retaliation against any individual, directly or indirectly, for making or participating in a complaint about hazing is prohibited under Middlebury’s general [Retaliation policy](/pages/i-policies-for-all/genl-principles/respectful-behavior).
 
@@ -99,28 +99,28 @@ Middlebury will ordinarily report allegations of hazing to law enforcement autho
 
 **7\. Contact Information**
 
-[Department of Public Safety](http://www.middlebury.edu/offices/health/publicsafety)
+[Department of Public Safety](https://www.middlebury.edu/offices/health/publicsafety)
 
 Emergency: 802.443.5911
 
 Non-emergency: 802.443.5133
 
-[Vice President for Student Affairs (Interim) and Dean of Students](http://www.middlebury.edu/student-life/staff/leadership)  
+[Vice President for Student Affairs (Interim) and Dean of Students](https://www.middlebury.edu/student-life/staff/leadership)  
 <span>Baishakhi Taylor</span>  
 <span>802.443.5771</span>  
 [taylorb@middlebury.edu](mailto:taylorb@middlebury.edu)
 
-[Director of Athletics](http://athletics.middlebury.edu/information/directory/bios/quinn?view=bio)  
+[Director of Athletics](https://athletics.middlebury.edu/information/directory/bios/quinn?view=bio)  
 Erin Quinn  
 802.443.5253  
 [quinn@middlebury.edu](mailto:quinn@middlebury.edu)
 
-[Dean of Students](http://www.middlebury.edu/student-life/activities/staffprofiles/node/516178)  
+[Dean of Students](https://www.middlebury.edu/student-life/activities/staffprofiles/node/516178)  
 Derek Doucet  
 802.443.3108  
 [ddoucet@middlebury.edu](mailto:ddoucet@middlebury.edu)
 
-[Commons Deans](http://www.middlebury.edu/studentlife/commons)  
+[Commons Deans](https://www.middlebury.edu/studentlife/commons)  
 Atwater:         802.443.3310  
 Brainerd:        802.443.3320  
 Cook:             802.443.3330  

@@ -8,7 +8,7 @@ title: "C.17. Athletics Information for Faculty"
 
 **1.** All regularly enrolled undergraduates are eligible for participation in intercollegiate athletics in accordance with the eligibility rules of the following organizations in which Middlebury maintains membership: National Collegiate Athletic Association (NCAA), the New England Small College Athletic Conference (NESCAC), and Eastern Collegiate Athletic Conference (ECAC).
 
-**2.** **_Faculty Responsibility_***:* The College recognizes that intercollegiate athletics have an important and desirable role in a liberal arts college. The faculty is responsible for seeing that the intercollegiate athletic program is a well-integrated part of the entire educational endeavor. Through the Athletic Policy Committee, the faculty regulates various phases of the intercollegiate athletic program, including athletic schedules and class absences permitted for participation in intercollegiate athletics.
+**2.** **_Faculty Responsibility_\***:\* The College recognizes that intercollegiate athletics have an important and desirable role in a liberal arts college. The faculty is responsible for seeing that the intercollegiate athletic program is a well-integrated part of the entire educational endeavor. Through the Athletic Policy Committee, the faculty regulates various phases of the intercollegiate athletic program, including athletic schedules and class absences permitted for participation in intercollegiate athletics.
 
 **3.** The Basic Principles governing intercollegiate athletics at Middlebury and all NESCAC institutions follow:
 
@@ -26,7 +26,7 @@ e. Developing programs will be allowed some latitude within the spirit of the NE
 
 **5.** In an effort to provide opportunities for wide participation in intercollegiate athletics, Middlebury maintains, where possible, a junior varsity program, for which all undergraduates are eligible. No student will participate in more contests in any sport than the total number of varsity games scheduled. The Athletic Policy Committee must approve any exceptions to this general rule.
 
-**6.** **_Limitations of Schedules_***:* Competition (in season) starting dates:
+**6.** **_Limitations of Schedules_\***:\* Competition (in season) starting dates:
 
 **Fall**   
 _a._ Start Date  
@@ -711,7 +711,7 @@ Golf#
 
 **B. Guidelines for Handling Athletics-Explained Absences**
 
-The list of scheduled athletics contests you receive several times a year from the director of Athletics has been approved by the Athletic Policy Committee of the faculty (APC) acting under guidelines set forth in the *[Middlebury College Handbook](http://www.middlebury.edu/about/handbook/governance/Faculty_Councils_and_Committees#athletic-policy).* This list tells you when legitimate absences from class may be expected by students because they are involved in a sanctioned athletic event scheduled for that date. The APC regards these lists as informative. They are an *explanation* for an absence, but they do not imply that the student is excused from the obligations of a course or the class work missed.
+The list of scheduled athletics contests you receive several times a year from the director of Athletics has been approved by the Athletic Policy Committee of the faculty (APC) acting under guidelines set forth in the *[Middlebury College Handbook](https://www.middlebury.edu/about/handbook/governance/Faculty_Councils_and_Committees#athletic-policy).* This list tells you when legitimate absences from class may be expected by students because they are involved in a sanctioned athletic event scheduled for that date. The APC regards these lists as informative. They are an *explanation* for an absence, but they do not imply that the student is excused from the obligations of a course or the class work missed.
 
 Although faculty members are expected to make their policy on course attendance clear at the beginning of each course, it is the individual student's responsibility to consult with his or her instructor as to the effect of explained absences.
 

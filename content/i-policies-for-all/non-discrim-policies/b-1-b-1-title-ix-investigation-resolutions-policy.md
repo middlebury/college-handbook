@@ -33,7 +33,7 @@ This Procedure applies to Sexual Harassment as defined by the Department of Educ
 
 Conduct that occurs off campus in locations or at events without direction or control by Middlebury does not meet the definition of occurring in “a program or activity of Middlebury”.  Such conduct may be prohibited under other Middlebury policies, including the Non-Discrimination Policy provisions addressing forms of discrimination other than Title IX Sexual Harassment, and is addressed using different procedures.  Only behavior meeting the definitional requirements of this section will be addressed utilizing this Procedure.  Where a complaint alleges other Middlebury policy violations arising out of the same facts and circumstances as allegations that must be addressed utilizing this Procedure, Middlebury may, in its discretion, address those other alleged violations through this Procedure.
 
-Conduct that occurred prior to August 14, 2020 will be investigated and adjudicated consistent with the procedures detailed in the [SMDVS Policy](http://www.middlebury.edu/about/handbook_old/smdvs "SMDVS") and/or the [Anti-Harassment/Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin "AHD") in effect during Academic Year 2019-2020, prior to the August 14, 2020 effective date of the Department of Education’s May 2020 regulations.  However, informal or “adaptable” resolutions may be available to address concerns about alleged conduct under the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy "Non-discrimination") regardless of the date it occurred.
+Conduct that occurred prior to August 14, 2020 will be investigated and adjudicated consistent with the procedures detailed in the [SMDVS Policy](https://www.middlebury.edu/about/handbook_old/smdvs "SMDVS") and/or the [Anti-Harassment/Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin "AHD") in effect during Academic Year 2019-2020, prior to the August 14, 2020 effective date of the Department of Education’s May 2020 regulations.  However, informal or “adaptable” resolutions may be available to address concerns about alleged conduct under the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy "Non-discrimination") regardless of the date it occurred.
 
 ## II. Reporting Title IX Sexual Harassment
 
@@ -215,7 +215,7 @@ Middlebury may consolidate formal complaints of Title IX Sexual Harassment again
 
 <h3 style="color: #660000;">4. Disabilities</h3>
 
-Students registered with the [Disability Resource Center ](http://www.middlebury.edu/studentlife/doc/ada)can request accommodations to ensure their full and equal participation in any conduct process and/or proceeding. Accommodation requests may be made directly to the CRTIX Coordinator. Accommodations are determined on an individual basis in consultation with the ADA Coordinators. Employees with disabilities may contact Human Resources.
+Students registered with the [Disability Resource Center ](https://www.middlebury.edu/studentlife/doc/ada)can request accommodations to ensure their full and equal participation in any conduct process and/or proceeding. Accommodation requests may be made directly to the CRTIX Coordinator. Accommodations are determined on an individual basis in consultation with the ADA Coordinators. Employees with disabilities may contact Human Resources.
 
 ## B. Conduct of the Investigation
 
@@ -463,4 +463,4 @@ Published: August 14, 2020
 
 <a title="" href="#_ftnref1" name="_ftn1" id="_ftn1">[1]</a> Note that Schools Abroad are covered under AHD
 
-<a title="" href="#_ftnref2" name="_ftn2" id="_ftn2">[2]</a> Middlebury’s Vermont undergraduate campus program includes a confidential resource called MiddSafe; for more information, see [http://www.middlebury.edu/student-life/health-wellness-education-and-saf...](http://www.middlebury.edu/student-life/health-wellness-education-and-safety/education/middsafe).
+<a title="" href="#_ftnref2" name="_ftn2" id="_ftn2">[2]</a> Middlebury’s Vermont undergraduate campus program includes a confidential resource called MiddSafe; for more information, see [https://www.middlebury.edu/student-life/health-wellness-education-and-saf...](https://www.middlebury.edu/student-life/health-wellness-education-and-safety/education/middsafe).

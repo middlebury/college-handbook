@@ -18,7 +18,7 @@ title: "B.2.h. Student Organization Policies"
 
 7.       [Policy on Student Social Organizations](#social_orgs)
 
-8.       [Posting](#posting)[](http://www.middlebury.edu/about/college-handbook-2017-revision/II.-policies-for-the-undergraduate-college/policies-for-undergrads/res-life-conduct-policies/student-organization-policies/node/552731/edit?destination=mm/719408#posting)
+8.       [Posting](#posting)[](https://www.middlebury.edu/about/college-handbook-2017-revision/II.-policies-for-the-undergraduate-college/policies-for-undergrads/res-life-conduct-policies/student-organization-policies/node/552731/edit?destination=mm/719408#posting)
 
 9.       [Student Fundraising Policies](#fundraising)
 
@@ -140,7 +140,7 @@ Recognized student organizations may distribute food in designated locations, as
 
 Middlebury may, at its discretion, approve selected student entrepreneurial activities to function on campus. These student-run businesses involve the sale of a product or service solely for students at Middlebury.
 
-Any Middlebury student desiring to conduct a student business on the Middlebury campus must first register and obtain approval from the [Business Services Office](http://www.middlebury.edu/offices/administration/vpfin/finance-office/our-team/business-services-office). The approval process may be commenced by completing the "Student Vendor Authorization & Contract" form and submitting it to the director of Business Services. Student business applicants should be prepared to provide additional information about their business operation and plan and, if necessary, to meet with Business Services personnel before receiving approval to commence operations.
+Any Middlebury student desiring to conduct a student business on the Middlebury campus must first register and obtain approval from the [Business Services Office](https://www.middlebury.edu/offices/administration/vpfin/finance-office/our-team/business-services-office). The approval process may be commenced by completing the "Student Vendor Authorization & Contract" form and submitting it to the director of Business Services. Student business applicants should be prepared to provide additional information about their business operation and plan and, if necessary, to meet with Business Services personnel before receiving approval to commence operations.
 
 This policy applies not only to business activities designed and originated by Middlebury College students but also to businesses operated by off-campus entities which recruit Middlebury students to carry on business activity on their behalf on the Middlebury campus. Such "franchise" operations must comply with the parameters and process of the "Student Vendor Authorization & Contract" or will otherwise be deemed to be in violation of this policy.
 

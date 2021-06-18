@@ -78,11 +78,11 @@ The ADA Coordinator(s), in consultation with appropriate campus personnel, coord
 
 <a name="section" id="section"></a>**E. Section 504 Coordinator**
 
-Middlebury designates the [Civil Rights and Title IX Coordinator](http://www.middlebury.edu/student-life/health-wellness-education-and-safety/campus-policies/human-relations-officer) to coordinate its efforts to comply with and carry out its responsibilities under Section 504 of the Rehabilitation Act of 1973\. Section 504, where applicable, generally prohibits discrimination in educational programs and employment, against qualified individuals with disabilities, on the basis of disability. See also Middlebury’s [Nondiscrimination Statement](http://www.middlebury.edu/about/handbook/general/nondiscrimination).
+Middlebury designates the [Civil Rights and Title IX Coordinator](https://www.middlebury.edu/student-life/health-wellness-education-and-safety/campus-policies/human-relations-officer) to coordinate its efforts to comply with and carry out its responsibilities under Section 504 of the Rehabilitation Act of 1973\. Section 504, where applicable, generally prohibits discrimination in educational programs and employment, against qualified individuals with disabilities, on the basis of disability. See also Middlebury’s [Nondiscrimination Statement](https://www.middlebury.edu/about/handbook/general/nondiscrimination).
 
 <a name="accom-miis" id="accom-miis"></a>**F. Accommodations at the Middlebury Institute of International Studies at Monterey**
 
-The Middlebury Institute has separate policies and procedures for qualified students with disabilities who seek reasonable accommodations. Middlebury Institute students seeking accommodations should contact the Institute’s [Office of Student Services](http://www.miis.edu/student-life/contact). [The Institute’s ADA policies and procedures](http://www.miis.edu/student-life/health-wellness/disability-services) are available on the Disability Services webpage.
+The Middlebury Institute has separate policies and procedures for qualified students with disabilities who seek reasonable accommodations. Middlebury Institute students seeking accommodations should contact the Institute’s [Office of Student Services](https://www.miis.edu/student-life/contact). [The Institute’s ADA policies and procedures](https://www.miis.edu/student-life/health-wellness/disability-services) are available on the Disability Services webpage.
 
 <a name="accom-empl" id="accom-empl"></a>**G. Accommodations for Employees**
 
@@ -105,7 +105,7 @@ Middlebury offices conducting core academic and business activities are strongly
 Middlebury has adopted the following two-stage process for making reasonable accommodations to promote the accessibility of its courses, programs, goods, services, facilities, privileges, and advantages for students with qualifying disabilities:
 
 _1\. Certification_  
-a.  Students are asked to complete an Accommodation Request Form on the [the DRC website](http://www.middlebury.edu/student-life/community-living/diversity-inclusivity/american-disability-act). The form requires, among other things:
+a.  Students are asked to complete an Accommodation Request Form on the [the DRC website](https://www.middlebury.edu/student-life/community-living/diversity-inclusivity/american-disability-act). The form requires, among other things:
 
 _i._ a description of the disability, including the manner in which the disability limits major life activities relevant to a student's participation in Middlebury's programs;
 
@@ -154,7 +154,7 @@ The ADA requires that:
 - all otherwise qualified students are provided with equal access to courses, programs, goods, services, facilities, privileges and advantages and;
 - the impact of the disability on the student's learning and/or academic performance is mitigated without fundamentally altering the nature of the courses, programs, goods, services, facilities, privileges, and advantages.
 
-Accommodations may involve modifications of the ways in which material is presented or learning is evaluated; for examples of accommodations, please visit the [DRC website](http://www.middlebury.edu/student-life/community-living/diversity-inclusivity/american-disability-act).  However, accommodations which fundamentally alter the nature of the courses, programs, goods, services, facilities, privileges, and advantages shall not be required of Middlebury faculty.
+Accommodations may involve modifications of the ways in which material is presented or learning is evaluated; for examples of accommodations, please visit the [DRC website](https://www.middlebury.edu/student-life/community-living/diversity-inclusivity/american-disability-act).  However, accommodations which fundamentally alter the nature of the courses, programs, goods, services, facilities, privileges, and advantages shall not be required of Middlebury faculty.
 
 Faculty are encouraged to communicate with DRC regarding any concerns they may have about an accommodation. <span>DRC</span> shall communicate with faculty within the limitations of privacy laws. The fact, nature, and/or extent of a disability which has been certified by <span>DRC</span> is not subject to challenge by faculty, nor may faculty review the underlying documentation of a disability without written consent of the student. <span>DRC</span> may provide faculty with information about the impact of the disability where necessary to implement the accommodations. If the faculty member disagrees with an approved accommodation, the faculty member may file an appeal pursuant to [Section E](///C:/Users/mcdurfee/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/R7Z1LC5T/ADA%20Policy%20HSR%20final%20CLEAN.docx#_3as4poj) below.
 
@@ -220,7 +220,7 @@ The time periods stated herein for action on the part of the ADA Coordinator and
 
 ## <a name="complaints" id="complaints"></a>F. Complaints regarding Disability-related Harassment or Discrimination
 
-In addition to the above-stated appeals process regarding certification and/or accommodations decisions, students who feel that they have been harassed or discriminated against on the basis of their disability, in violation of Section 504 of the Rehabilitation Act of 1973, the ADA, or other applicable law, are encouraged to file a complaint under [Middlebury’s Anti-Harassment/Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin) (“AH/D Policy”). Complaints should be directed to a [Human Relations Officer](http://www.middlebury.edu/student-life/health-wellness-education-and-safety/campus-policies/human-relations-officer) and will be handled in accordance with the procedures set forth in the AH/D policy.
+In addition to the above-stated appeals process regarding certification and/or accommodations decisions, students who feel that they have been harassed or discriminated against on the basis of their disability, in violation of Section 504 of the Rehabilitation Act of 1973, the ADA, or other applicable law, are encouraged to file a complaint under [Middlebury’s Anti-Harassment/Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin) (“AH/D Policy”). Complaints should be directed to a [Human Relations Officer](https://www.middlebury.edu/student-life/health-wellness-education-and-safety/campus-policies/human-relations-officer) and will be handled in accordance with the procedures set forth in the AH/D policy.
 
 ## <a name="stu-records" id="stu-records"></a>G. Student Records
 
@@ -230,7 +230,7 @@ Records pertaining to a student are disposed of seven (7) years after the studen
 
 ## <a name="academic-accom" id="academic-accom"></a>A. Academic Accommodations
 
-Academic accommodations are intended to preserve essential academic program requirements while minimizing the effect of a certified disability upon a student's performance. For examples, please visit the [DRC website](http://www.middlebury.edu/student-life/community-living/diversity-inclusivity/american-disability-act) online. These examples are not intended to be exhaustive, or appropriate in all cases; each student's needs are individually assessed on a case-by-case basis.
+Academic accommodations are intended to preserve essential academic program requirements while minimizing the effect of a certified disability upon a student's performance. For examples, please visit the [DRC website](https://www.middlebury.edu/student-life/community-living/diversity-inclusivity/american-disability-act) online. These examples are not intended to be exhaustive, or appropriate in all cases; each student's needs are individually assessed on a case-by-case basis.
 
 ## <a name="housing-accom" id="housing-accom"></a>B. Housing Accommodations
 
@@ -240,13 +240,13 @@ Students requesting a single room as an accommodation are advised that such requ
 
 Assignments are made on the basis of availability of space and the level of need. In order to maximize Middlebury’s ability to grant such requests, notification for undergraduate students is requested by March 1st for the following academic year. Students who plan attend other Middlebury programs should notify the <span>DRC</span> of their need for housing accommodations upon enrollment. Requests made after this date may be more difficult to fulfill. The ADA Coordinator reserves the right to suggest alternative accommodations where appropriate to satisfy the request.
 
-Students requesting an air conditioner as an accommodation are advised that such requests should be made in accordance with the guidelines established in Middlebury’s [Thermal Comfort Policy](http://www.middlebury.edu/about/handbook/misc/thermal_comfort.).
+Students requesting an air conditioner as an accommodation are advised that such requests should be made in accordance with the guidelines established in Middlebury’s [Thermal Comfort Policy](https://www.middlebury.edu/about/handbook/misc/thermal_comfort.).
 
 Students are expected to play a substantial role in specifying their needs and following through on arrangements for accommodations. It must be understood that arrangements for equipment, housing assignments, and other accommodations require advance notice.
 
 ## <a name="dining-accom" id="dining-accom"></a>C. Dining Accommodations
 
-To initiate the process for dining related accommodations, students must fill out an [Accommodation Request Form (ARF)](https://forms.middlebury.edu/student-life/doc/ada/adaarfs) online or contact the [DRC](http://www.middlebury.edu/student-life/community-living/diversity-inclusivity/american-disability-act) to obtain an alternative format of the form. The information that students provide regarding any need for accommodation(s) will be shared only with those individuals involved in the coordination and facilitation of services and accommodations that are required to make Middlebury’s programs accessible.
+To initiate the process for dining related accommodations, students must fill out an [Accommodation Request Form (ARF)](https://forms.middlebury.edu/student-life/doc/ada/adaarfs) online or contact the [DRC](https://www.middlebury.edu/student-life/community-living/diversity-inclusivity/american-disability-act) to obtain an alternative format of the form. The information that students provide regarding any need for accommodation(s) will be shared only with those individuals involved in the coordination and facilitation of services and accommodations that are required to make Middlebury’s programs accessible.
 
 ## <a name="provisional" id="provisional"></a>D. Provisional Accommodations
 

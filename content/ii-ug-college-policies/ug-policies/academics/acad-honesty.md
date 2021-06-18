@@ -14,10 +14,10 @@ As an academic community devoted to the life of the mind, Middlebury requires of
 
 **_1\. Definitions of Prohibited Acts_**
 
-Any student action that does not reflect complete intellectual honesty in the preparation and submission of all academic work is prohibited.  Although the definitions below are provided to offer clarity, they are not intended to be exhaustive. Faculty members may define additional actions as Academic Honesty violations for their particular departments and courses as appropriate. 
+Any student action that does not reflect complete intellectual honesty in the preparation and submission of all academic work is prohibited.  Although the definitions below are provided to offer clarity, they are not intended to be exhaustive. Faculty members may define additional actions as Academic Honesty violations for their particular departments and courses as appropriate.
 
 <span style="text-decoration:underline">a. Plagiarism</span>  
-Plagiarism is intentionally or unintentionally representing the ideas, research, language, creations, or inventions of another person as one's own. In written work and oral and artistic presentations, even a single sentence or key phrase, idea, image, or sound taken from the work of another without specific citation of the source and quotations around verbatim language constitutes plagiarism. It makes no difference whether the source is a student, a professional, or a source with no clear designated author.  
+Plagiarism is intentionally or unintentionally representing the ideas, research, language, creations, or inventions of another person as one's own. In written work and oral and artistic presentations, even a single sentence or key phrase, idea, image, or sound taken from the work of another without specific citation of the source and quotations around verbatim language constitutes plagiarism. It makes no difference whether the source is a student, a professional, or a source with no clear designated author.
 
 Although it does not involve reproducing language verbatim, paraphrasing is the close restatement of another's idea using approximately the language and/or structure of the original. Paraphrasing without acknowledgment of authorship is also plagiarism and is as serious a violation as an unacknowledged quotation.
 
@@ -50,7 +50,7 @@ Any work submitted to meet the requirements of a particular course is expected t
 
 **Constitution of the Undergraduate Honor System**
 
-All assigned academic work is conducted under the terms of the [Undergraduate Honor System](http://www.middlebury.edu/studentlife-older-delete-pending/doc/honorcode), which follows in full:
+All assigned academic work is conducted under the terms of the [Undergraduate Honor System](https://www.middlebury.edu/studentlife-older-delete-pending/doc/honorcode), which follows in full:
 
 **Preamble**
 
@@ -58,7 +58,7 @@ The students of Middlebury College believe that individual undergraduates must a
 
 **Article I: Honor System**
 
-**a**. Before enrolling in Middlebury College each student must agree to abide by and uphold this honor system. Additional commitments to the honor system should be part of orientation week activities.  
+**a**. Before enrolling in Middlebury College each student must agree to abide by and uphold this honor system. Additional commitments to the honor system should be part of orientation week activities.
 
 **b**. The judicial affairs officer shall prepare a statement for all incoming students describing the aims and operation of the academic honor system. The judicial affairs officer will be responsible for an orientation session during orientation week so that all new students fully understand the system.
 

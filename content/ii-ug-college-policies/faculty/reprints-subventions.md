@@ -4,7 +4,7 @@ date: "2021-05-01"
 title: "C.12. Reprints, Subvention, and Open Access"
 ---
 
-The College supports the publication and broad dissemination of faculty scholarship in several ways. The College will assist faculty with production costs and reprint costs for scholarly publications through the _Scholarly Publication Subvention Fund (SPSF)._  All requests should be made using the [application](http://www.middlebury.edu/media/view/454905/original/spsfform_august_2013.docx) available on the Academic Affairs webpage and sent to the Office of the Dean for Faculty Development and Research (DFDR). Additionally, the College shares faculty scholarship through an open access repository.
+The College supports the publication and broad dissemination of faculty scholarship in several ways. The College will assist faculty with production costs and reprint costs for scholarly publications through the *Scholarly Publication Subvention Fund (SPSF).*  All requests should be made using the [application](https://www.middlebury.edu/media/view/454905/original/spsfform_august_2013.docx) available on the Academic Affairs webpage and sent to the Office of the Dean for Faculty Development and Research (DFDR). Additionally, the College shares faculty scholarship through an open access repository.
 
 **1\. Reprints.** Assistance will be in the form of the cost of 100 reprints, normally not to exceed $300 for a single set.
 
@@ -14,7 +14,7 @@ The College supports the publication and broad dissemination of faculty scholars
 
 Applications may be submitted at any time and must include a written contract with a publisher (if applicable). The faculty member may not be the publisher, producer, or agent.
 
-[SPSF application](http://www.middlebury.edu/system/files/media/spsf_form_0.docx)
+[SPSF application](https://www.middlebury.edu/system/files/media/spsf_form_0.docx)
 
 **4\. Open Access Policy**
 

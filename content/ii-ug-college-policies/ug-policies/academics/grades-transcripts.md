@@ -136,15 +136,15 @@ Awarding of departmental honors (Honors, High Honors, Highest Honors) is a depar
 
 Currently enrolled students have secure, ongoing access to their academic records online in BannerWeb. They may also request an official academic transcript from the Registrar's Office. The official transcript contains information on courses taken, grades received, majors and minors, degrees earned and honors awarded. The transcript also includes a student's semester and cumulative grade point average, calculated using the numerical equivalents in Section A above. The grades used in calculating the grade point average are those earned in the Middlebury undergraduate, summer, and overseas schools, all other approved programs abroad, and approved programs of domestic off-campus study.
 
-The transcript and information in the student file may be released to persons or organizations outside of the College only with specific written authorization from the student or as permitted by the federal Family Educational Rights and Privacy Act (FERPA), as noted in the [Student Privacy Rights under U.S. Federal Law](http://www.middlebury.edu/about/college-handbook-2017-revision/midd-all-policies/record_policies/ferpa) (FERPA) section of the Handbook.
+The transcript and information in the student file may be released to persons or organizations outside of the College only with specific written authorization from the student or as permitted by the federal Family Educational Rights and Privacy Act (FERPA), as noted in the [Student Privacy Rights under U.S. Federal Law](https://www.middlebury.edu/about/college-handbook-2017-revision/midd-all-policies/record_policies/ferpa) (FERPA) section of the Handbook.
 
-A fee of $5 is charged for each official transcript requested. A request form is available at [http://go.middlebury.edu/transcript](http://go.middlebury.edu/transcript). Transcript requests are accepted by mail, and in person Monday through Friday in Forest Hall during regular office hours.  Students may also request a transcript through the online ordering system. An additional surcharge is applied to transcript orders placed via the online ordering system. Please plan on two days for processing requests, and longer during end of term grading periods.  Students and alumni continue to have access to their own academic records on BannerWeb. No transcript will be issued to students who are financially indebted to the College until satisfactory arrangements have been made with the Office of Student Financial Services.
+A fee of $5 is charged for each official transcript requested. A request form is available at [https://go.middlebury.edu/transcript](https://go.middlebury.edu/transcript). Transcript requests are accepted by mail, and in person Monday through Friday in Forest Hall during regular office hours.  Students may also request a transcript through the online ordering system. An additional surcharge is applied to transcript orders placed via the online ordering system. Please plan on two days for processing requests, and longer during end of term grading periods.  Students and alumni continue to have access to their own academic records on BannerWeb. No transcript will be issued to students who are financially indebted to the College until satisfactory arrangements have been made with the Office of Student Financial Services.
 
 **11.  Registrar**
 
 **Registrar's Office**   
 E-mail: [registrar@middlebury.edu](mailto:registrar@middlebury.edu)   
-Website: [http://go.middlebury.edu/registrar](http://go.middlebury.edu/registrar)  
+Website: [https://go.middlebury.edu/registrar](https://go.middlebury.edu/registrar)  
 Phone: 802.443.5770  
 Fax: 802.443.2030
 

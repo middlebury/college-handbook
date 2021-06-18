@@ -31,7 +31,7 @@ Middlebury’s mission is to promote intellectual inquiry and exchange in accord
     <p style="padding-left:90px">(4)&nbsp;&nbsp; The use of public streets for parades or demonstrations in the Town
             of Middlebury is subject to the town’s laws and requires a Public Assemblage Permit. An application and
             instructions for the town's permit may be found <a
-                    href="http://www.townofmiddlebury.org/town_departments_services_staff/town_manager_s_office/public_assemblage_permit.php">here</a>.
+                    href="https://www.townofmiddlebury.org/town_departments_services_staff/town_manager_s_office/public_assemblage_permit.php">here</a>.
     </p>
     <p style="padding-left:90px">(5)&nbsp;&nbsp; Individuals participating in demonstrations may not trespass in
             areas of the campus that are not generally open and available to members of the public.&nbsp; Example of
@@ -145,7 +145,7 @@ Middlebury’s mission is to promote intellectual inquiry and exchange in accord
     is ordinarily from a letter of official college discipline to suspension.</em></p>
     <p style="padding-left:90px">v. Removed, including by arrest, due to physical violence against another person or
     property damage: <em>Range is ordinarily from suspension to expulsion</em>.</p>
-    
-    For more information on the interpretation and enforcement of the [Open Expression Policy](/pages/i-policies-for-all/genl-principles/freedom-of-expression) and these Regulations, please see the related [Frequently Asked Questions](http://www.middlebury.edu/about/open-expression/faqs) and [Resources](http://www.middlebury.edu/about/open-expression/speech-inclusion-resources).
+
+    For more information on the interpretation and enforcement of the [Open Expression Policy](/pages/i-policies-for-all/genl-principles/freedom-of-expression) and these Regulations, please see the related [Frequently Asked Questions](https://www.middlebury.edu/about/open-expression/faqs) and [Resources](https://www.middlebury.edu/about/open-expression/speech-inclusion-resources).
 
 _Effective 11-21-19_

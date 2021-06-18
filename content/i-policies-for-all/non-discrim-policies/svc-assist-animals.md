@@ -50,7 +50,7 @@ In order to request a reasonable accommodation to possess an assistance animal i
 
 Each request to possess an assistance animal in residence halls will be evaluated on an individualized basis using the general policies applicable to all reasonable accommodation requests.
 
-If reasonable accommodation of an assistance animal is approved by Middlebury, each academic year or every summer,  assistance animals must be registered with the College (SAS or Human Resources). A denial for reasonable accommodation may be appealed by following the procedures outlined in the [ADA policy](http://www.middlebury.edu/student-life/community-living/diversity-inclusivity/american-disability-act/policy#Appeals). Information on the animal registration form may be shared with the Department of Public Safety, Facilities, and the Residential Life staff in order to confirm and/or receive confirmation that your animal has been approved as an accommodation.
+If reasonable accommodation of an assistance animal is approved by Middlebury, each academic year or every summer,  assistance animals must be registered with the College (SAS or Human Resources). A denial for reasonable accommodation may be appealed by following the procedures outlined in the [ADA policy](https://www.middlebury.edu/student-life/community-living/diversity-inclusivity/american-disability-act/policy#Appeals). Information on the animal registration form may be shared with the Department of Public Safety, Facilities, and the Residential Life staff in order to confirm and/or receive confirmation that your animal has been approved as an accommodation.
 
 **C.** **Owner/Handler Responsibilities Relating to Service Animals and Assistance Animals**
 

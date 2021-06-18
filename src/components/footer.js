@@ -24,7 +24,7 @@ const Footer = () => {
             <ul className="midd-footer__list">
               <li className="midd-footer__item">
                 <a
-                  href="http://www.middlebury.edu/about"
+                  href="https://www.middlebury.edu/about"
                   className="midd-footer__link"
                 >
                   About Middlebury
@@ -32,7 +32,7 @@ const Footer = () => {
               </li>
               <li className="midd-footer__item">
                 <a
-                  href="http://www.middlebury.edu/giving"
+                  href="https://www.middlebury.edu/giving"
                   className="midd-footer__link"
                 >
                   Giving
@@ -40,7 +40,7 @@ const Footer = () => {
               </li>
               <li className="midd-footer__item">
                 <a
-                  href="http://www.middlebury.edu/offices/business/hr/jobseeker"
+                  href="https://www.middlebury.edu/offices/business/hr/jobseeker"
                   className="midd-footer__link"
                 >
                   Employment
@@ -48,7 +48,7 @@ const Footer = () => {
               </li>
               <li className="midd-footer__item">
                 <a
-                  href="http://www.middlebury.edu/office/"
+                  href="https://www.middlebury.edu/office/"
                   className="midd-footer__link"
                 >
                   Offices and Services
@@ -56,7 +56,7 @@ const Footer = () => {
               </li>
               <li className="midd-footer__item">
                 <a
-                  href="http://www.middlebury.edu/about/copyright"
+                  href="https://www.middlebury.edu/about/copyright"
                   className="midd-footer__link"
                 >
                   Copyright
@@ -64,7 +64,7 @@ const Footer = () => {
               </li>
               <li className="midd-footer__item">
                 <a
-                  href="http://www.middlebury.edu/about/privacy"
+                  href="https://www.middlebury.edu/about/privacy"
                   className="midd-footer__link"
                 >
                   Privacy

@@ -26,6 +26,6 @@ Final grades are available online (BannerWeb) approximately two weeks after the 
 
 **Transcripts**
 
-Full instructions for ordering transcripts can be found at: [www.middlebury.edu/offices/academic/records/transcripts](http://www.middlebury.edu/offices/academic/records/transcripts).
+Full instructions for ordering transcripts can be found at: [www.middlebury.edu/offices/academic/records/transcripts](https://www.middlebury.edu/offices/academic/records/transcripts).
 
 No transcripts are issued to students who are financially indebted to the College until satisfactory arrangements have been made with the Bursar’s Office.

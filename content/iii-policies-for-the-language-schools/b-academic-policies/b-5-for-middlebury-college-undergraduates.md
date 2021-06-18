@@ -10,7 +10,7 @@ The titles and numbers of courses offered at the Language Schools during the sum
 
 **Study Abroad**
 
-Students applying to a Middlebury C.V. Starr School Abroad program must submit a separate online application found at the following link: [http://go.middlebury.edu/sa?apply](http://go.middlebury.edu/sa?apply).
+Students applying to a Middlebury C.V. Starr School Abroad program must submit a separate online application found at the following link: [https://go.middlebury.edu/sa?apply](https://go.middlebury.edu/sa?apply).
 
 **Middlebury GPA**
 

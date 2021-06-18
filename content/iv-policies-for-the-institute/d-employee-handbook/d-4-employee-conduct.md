@@ -176,9 +176,9 @@ In matters pertaining to privacy, security, and responsible use of computing fac
 
 In particular, the following policies related to shared resources, as described in the [**Middlebury Handbook**](/pages/i-policies-for-all/appropriate-use/info-tech), apply to Middlebury Institute faculty, staff, and students:
 
-- [Responsible Use of Computing and Network Services and Facilities](http://www.middlebury.edu/offices/technology/its/policies/responsible-use)
-- [Network Monitoring Policy](http://www.middlebury.edu/offices/technology/its/policies/netmon)
-- [Password Policy](http://www.middlebury.edu/offices/technology/its/policies/passwords)
+- [Responsible Use of Computing and Network Services and Facilities](https://www.middlebury.edu/offices/technology/its/policies/responsible-use)
+- [Network Monitoring Policy](https://www.middlebury.edu/offices/technology/its/policies/netmon)
+- [Password Policy](https://www.middlebury.edu/offices/technology/its/policies/passwords)
 - [Privacy and Security of Files, Data and Communications](/pages/i-policies-for-all/appropriate-use/info-tech)
 
 **D.4.j. Dress Code and Other Personal Standards**

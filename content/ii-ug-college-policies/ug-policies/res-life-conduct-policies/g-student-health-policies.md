@@ -18,7 +18,7 @@ title: "B.2.g. Student Health Policies"
 
 <h3 style="color:#660000"><strong>Parton Center for Health and Wellness</strong></h3>
 
-[Parton Center for Health and Wellness ](http://www.middlebury.edu/studentlife/services/healthctr)("Parton") promotes student well-being. Our medical and counseling staff are here to help students when physical, emotional, or interpersonal issues become a problem. In addition, we have a wealth of health and wellness resources to support students as they navigate a demanding academic and social schedule.
+[Parton Center for Health and Wellness ](https://www.middlebury.edu/studentlife/services/healthctr)("Parton") promotes student well-being. Our medical and counseling staff are here to help students when physical, emotional, or interpersonal issues become a problem. In addition, we have a wealth of health and wellness resources to support students as they navigate a demanding academic and social schedule.
 
 #### **1<a name="health" id="health"></a>.** **Health Forms**
 

@@ -48,9 +48,9 @@ _a. Independent Projects (0500 Work)_
 
 Students with 8 or more credits may submit a proposal to their faculty sponsor for on or off-campus winter term independent work either as a continuation of their major or minor or as work outside of their major or minor as long as:
 
-*   They have not completed more than two units of winter term independent work; and
+- They have not completed more than two units of winter term independent work; and
 
-*   They have received the approval of the chair or director of the department or program in which the work will be completed
+- They have received the approval of the chair or director of the department or program in which the work will be completed
 
 **_Students are not allowed to pursue independent projects during their first winter term._**
 
@@ -63,7 +63,7 @@ Winter term internships involve significant high-level exposure to the fundament
 
 _c. Study Abroad During Winter Term_
 
-Proposals/applications for study abroad in an accredited program for winter term credit must be submitted to International Programs.  These proposals do NOT need to be submitted to the Curriculum Committee. Students must apply to International Programs by the advertised deadline for pre-approval of winter term off-campus courses. No courses/programs will be approved after the fact. Programs must be at least four complete weeks long (regardless of the total number of contact hours) to earn a maximum of one unit of Middlebury credit. The program/course must meet for at least the same number of hours, over the four weeks, as an equivalent Middlebury course. A program that meets more than 36 hours will NOT receive additional credit. Only a program/course that meets the definition of "liberal arts" (in other words, students should not take courses that are of a pre-professional nature such as business, journalism, etc.), and receives a letter grade of C- or better, may be applied to the Middlebury College degree.  Programs/courses graded on a pass/fail basis or audited are NOT transferable. The transcript reflecting work completed must be issued by an accredited institution of higher education. Students will be notified if credit is pre-approved after International Programs reviews their applications. For more information and the application, please see [http://www.middlebury.edu/international/73780/programs/winter_term](http://www.middlebury.edu/international/73780/programs/winter_term).  **Deadline: As advertised by International Programs**
+Proposals/applications for study abroad in an accredited program for winter term credit must be submitted to International Programs.  These proposals do NOT need to be submitted to the Curriculum Committee. Students must apply to International Programs by the advertised deadline for pre-approval of winter term off-campus courses. No courses/programs will be approved after the fact. Programs must be at least four complete weeks long (regardless of the total number of contact hours) to earn a maximum of one unit of Middlebury credit. The program/course must meet for at least the same number of hours, over the four weeks, as an equivalent Middlebury course. A program that meets more than 36 hours will NOT receive additional credit. Only a program/course that meets the definition of "liberal arts" (in other words, students should not take courses that are of a pre-professional nature such as business, journalism, etc.), and receives a letter grade of C- or better, may be applied to the Middlebury College degree.  Programs/courses graded on a pass/fail basis or audited are NOT transferable. The transcript reflecting work completed must be issued by an accredited institution of higher education. Students will be notified if credit is pre-approved after International Programs reviews their applications. For more information and the application, please see [https://www.middlebury.edu/international/73780/programs/winter_term](https://www.middlebury.edu/international/73780/programs/winter_term).  **Deadline: As advertised by International Programs**
 
 _d. Opting Out of Winter Term_
 

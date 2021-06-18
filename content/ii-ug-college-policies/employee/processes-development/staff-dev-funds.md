@@ -8,7 +8,7 @@ The College encourages the development of employee job skills. An employee may s
 
 Staff professional development is budgeted at the department level, therefore this fund is designed to help offset rather than replace costs to departmental budgets.
 
-Travel to meetings of professional organizations is also budgeted at the departmental level and is not supported by this fund.  The staff development fund does not normally provide tuition payments for college-level or graduate-level courses.  These may be funded via the [Continuing Education Fund](http://www.middlebury.edu/offices/business/hr/Learninganddevelopment/classesforcontinuinged) benefit.
+Travel to meetings of professional organizations is also budgeted at the departmental level and is not supported by this fund.  The staff development fund does not normally provide tuition payments for college-level or graduate-level courses.  These may be funded via the [Continuing Education Fund](https://www.middlebury.edu/offices/business/hr/Learninganddevelopment/classesforcontinuinged) benefit.
 
 The fund supports a variety of work-related development activities that may include: participation in short courses, workshops, and training programs, as well as opportunities for staff members to prepare training programs and workshops for other employees on campus. In some cases the College will consider supporting self-improvement projects designed to benefit the individual or to facilitate career advancement only if there is significant promise of benefit to the College as well.
 
@@ -23,4 +23,4 @@ In reviewing/approving applications for staff development funds, priority is giv
 
 ### Application Form
 
-[Click here to access application form.](http://www.middlebury.edu/media/view/180621/original/Staff_Dev._Fund_App.pdf)
+[Click here to access application form.](https://www.middlebury.edu/media/view/180621/original/Staff_Dev._Fund_App.pdf)

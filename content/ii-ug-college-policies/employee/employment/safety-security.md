@@ -12,13 +12,13 @@ Please remember, it is important that employees report immediately any hazardous
 
 The establishment and maintenance of a safe work environment is the shared responsibility of the College and all its employees. The College attempts to protect employees against hardship and suffering from injuries and illnesses resulting from accidents or work conditions and to protect the College from potential losses, damages, and costs caused by such accidents and conditions. Therefore, the College strives to comply fully with the intent of all federal, state, and local laws governing the safety of the College community.
 
-The [Environmental Health and Safety Office](http://www.middlebury.edu/offices/health/ehs/contact) is a resource for the entire College community. The Environmental Health and Safety Officer is a safety professional who assists employees in addressing their safety concerns, and may be reached through the Business Services Office.
+The [Environmental Health and Safety Office](https://www.middlebury.edu/offices/health/ehs/contact) is a resource for the entire College community. The Environmental Health and Safety Officer is a safety professional who assists employees in addressing their safety concerns, and may be reached through the Business Services Office.
 
 All employees of the College are expected to follow all government safety regulations and College safety policies, to take an active part in protecting themselves and their coworkers from accident and injury, and to report promptly to their supervisors any hazardous conditions and practices. Both supervisors and employees at all levels of the College are expected to report and try to correct unsafe conditions as promptly as possible.
 
 **Blood-Borne Pathogens**
 
-OSHA's standard pertaining to employee exposure to [blood-borne pathogens](http://www.middlebury.edu/offices/health/ehs/policies/BBP), such as HIV and Hepatitis B (HBV) viruses, is designed to educate and protect all employees in jobs in which exposure to blood or other potentially infected bodily fluids can be "reasonably anticipated."
+OSHA's standard pertaining to employee exposure to [blood-borne pathogens](https://www.middlebury.edu/offices/health/ehs/policies/BBP), such as HIV and Hepatitis B (HBV) viruses, is designed to educate and protect all employees in jobs in which exposure to blood or other potentially infected bodily fluids can be "reasonably anticipated."
 
 Employees in covered positions are required to attend blood-borne pathogen training at the beginning of employment, as well as retraining, provided annually. Middlebury College maintains an exposure control plan that is available through the Environmental Health and Safety Office. If employees believe their position is one in which such exposure might occur and they have not received a copy of the plan or notice of the potential of such exposure, they should contact the Environmental Health and Safety Office immediately.
 
@@ -27,11 +27,11 @@ Employees in covered positions are required to attend blood-borne pathogen train
 The goal of our ergonomics program is to reduce the opportunity for musculoskeletal disorders (MSDs), help lessen muscle fatigue and increase productivity. Risk factors can be controlled by adjusting a workstation, varying work positions, reducing continuous or repetitious actions, and periodically stretching throughout the day. The EHS Office can conduct an ergonomic assessment on your work area (office workstation or other areas) or on a specific task you perform as part of your job and recommend improvements.
 
 Further information concerning the ergonomics program can be accessed at:  
-[http://www.middlebury.edu/offices/health/ehs/Ergo](http://www.middlebury.edu/offices/health/ehs/Ergo)
+[https://www.middlebury.edu/offices/health/ehs/Ergo](https://www.middlebury.edu/offices/health/ehs/Ergo)
 
 **Workers' Compensation**
 
-In compliance with state laws, the College provides comprehensive workers' compensation (WC) insurance coverage at no cost to employees. WC provides medical and/or partial income replacement when an injury or illness is sustained in the course of employment. See [Workers Compensation](http://www.middlebury.edu/offices/business/hr/staffandfaculty/safety/workers.compensation) on the HR website for details.
+In compliance with state laws, the College provides comprehensive workers' compensation (WC) insurance coverage at no cost to employees. WC provides medical and/or partial income replacement when an injury or illness is sustained in the course of employment. See [Workers Compensation](https://www.middlebury.edu/offices/business/hr/staffandfaculty/safety/workers.compensation) on the HR website for details.
 
 **Return to Work Transitional Duty Program**
 

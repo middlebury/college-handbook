@@ -6,21 +6,21 @@ title: "C.21. Disability"
 
 **Introduction**
 
-Faculty who find that they need a leave of more than three days for medical reasons should arrange to meet with or otherwise contact the VPAA/DoF as soon as possible. 
+Faculty who find that they need a leave of more than three days for medical reasons should arrange to meet with or otherwise contact the VPAA/DoF as soon as possible.
 
 Middlebury College provides two income replacement programs for faculty members unable to work due to disability. The VPAA/DoF will work with the faculty member and Human Resources to make any necessary FMLA leave and disability pay arrangements and to ensure a smooth transition for the faculty member to and from disability status.
 
-Details about the benefits available to faculty needing short- or long-term medical leaves or FMLA leave can be obtained by contacting Human Resources (x 5465) or from the Human Resources web site: [http://www.middlebury.edu/offices/business/hr/staffandfaculty/benefits](http://www.middlebury.edu/offices/business/hr/staffandfaculty/benefits).
+Details about the benefits available to faculty needing short- or long-term medical leaves or FMLA leave can be obtained by contacting Human Resources (x 5465) or from the Human Resources web site: [https://www.middlebury.edu/offices/business/hr/staffandfaculty/benefits](https://www.middlebury.edu/offices/business/hr/staffandfaculty/benefits).
 
 **Short-term Disability Pay**
 
-Middlebury provides a self-insured, employer-paid short-term disability (STD) benefit which is accessible by faculty members prevented from working due to a qualifying illness or injury. After a two-week elimination period STD pays 60% of pre-disability wages* for up to 26 weeks. Full details on the benefit can be found in the Middlebury Health and Welfare Summary Plan Description (available on-line or from the Human Resources Office). 
+Middlebury provides a self-insured, employer-paid short-term disability (STD) benefit which is accessible by faculty members prevented from working due to a qualifying illness or injury. After a two-week elimination period STD pays 60% of pre-disability wages\* for up to 26 weeks. Full details on the benefit can be found in the Middlebury Health and Welfare Summary Plan Description (available on-line or from the Human Resources Office).
 
 **Long-term Disability Pay**
 
-Middlebury provides a fully-insured, employer-paid long-term disability (LTD) benefit which is available to faculty members unable to work for an extended period of time. LTD provides income replacement of 60% of pre-disability wages* during a qualifying and approved disability (see the Middlebury College Health and Welfare Benefit Plan Summary Plan Description or contact Human Resources for details about this plan).
+Middlebury provides a fully-insured, employer-paid long-term disability (LTD) benefit which is available to faculty members unable to work for an extended period of time. LTD provides income replacement of 60% of pre-disability wages\* during a qualifying and approved disability (see the Middlebury College Health and Welfare Benefit Plan Summary Plan Description or contact Human Resources for details about this plan).
 
-*_In order to receive disability pay a faculty member **must** file a disability application (available from the Human Resources Department) in a timely manner; failure to do so will result in a delay or even loss of eligibility for income replacement benefits._
+\*_In order to receive disability pay a faculty member **must** file a disability application (available from the Human Resources Department) in a timely manner; failure to do so will result in a delay or even loss of eligibility for income replacement benefits._
 
 **Supplementing Disability Pay using Faculty Leave Reserve**
 
@@ -28,7 +28,7 @@ Faculty may arrange to use accrued Faculty Leave Reserve to augment the 60% shor
 
 **Timetable of Disability Pay, Benefits, and Status**
 
-Many factors, such as a faculty member’s length of service, current benefit elections, full or partial disability status, etc. can affect the timeline of pay, benefits, and faculty status during a period of disability. The VPAA/DoF and Human Resources work together to communicate specific timeline information to faculty members unable to work due to a medical condition. The chart below illustrates the most straight-forward scenario: it assumes a faculty member with multiple years of service, tenure/tenure track status, current enrollment in employee benefits and full (not partial) disability. 
+Many factors, such as a faculty member’s length of service, current benefit elections, full or partial disability status, etc. can affect the timeline of pay, benefits, and faculty status during a period of disability. The VPAA/DoF and Human Resources work together to communicate specific timeline information to faculty members unable to work due to a medical condition. The chart below illustrates the most straight-forward scenario: it assumes a faculty member with multiple years of service, tenure/tenure track status, current enrollment in employee benefits and full (not partial) disability.
 
 **Sample Disability Timeline (Tenure or Tenure Track Faculty Only)**
 

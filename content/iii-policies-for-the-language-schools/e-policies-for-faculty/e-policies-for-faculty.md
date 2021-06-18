@@ -6,7 +6,7 @@ title: "E. Policies for Faculty"
 
 **Your Employment**
 
-Middlebury Language Schools' faculty and staff are considered "at will" employees. No employment contract is expressed or implied. Language Schools' faculty and staff are governed by the Middlebury College Handbook ([www.middlebury.edu/handbook](http://go.middlebury.edu/handbook)).
+Middlebury Language Schools' faculty and staff are considered "at will" employees. No employment contract is expressed or implied. Language Schools' faculty and staff are governed by the Middlebury College Handbook ([www.middlebury.edu/handbook](https://go.middlebury.edu/handbook)).
 
 **Salary Payments**
 
@@ -75,7 +75,7 @@ Your director or associate director will notify you when the online grading wind
 
 <span style="text-decoration:underline">Survey Policy</span>
 
-All surveys or questionnaires, of any kind, involving faculty, students, or staff, must be registered in advance with the office of the Dean of the Language Schools. The Dean's office will contact the director of the School (or Schools) involved for their permission. No surveys may be conducted without permission from both the dean and director(s) of the School(s). Each proposed survey needs to state in clear and unequivocal terms that participation by faculty or students is entirely voluntary and in no way related to course requirements or grades. If students are involved, the survey also must be approved by [Middlebury's Institutional Review Board (IRB)](http://www.middlebury.edu/academics/resources/irb).
+All surveys or questionnaires, of any kind, involving faculty, students, or staff, must be registered in advance with the office of the Dean of the Language Schools. The Dean's office will contact the director of the School (or Schools) involved for their permission. No surveys may be conducted without permission from both the dean and director(s) of the School(s). Each proposed survey needs to state in clear and unequivocal terms that participation by faculty or students is entirely voluntary and in no way related to course requirements or grades. If students are involved, the survey also must be approved by [Middlebury's Institutional Review Board (IRB)](https://www.middlebury.edu/academics/resources/irb).
 
 <span style="text-decoration:underline">Copyright and Fair Use Guidelines</span>
 

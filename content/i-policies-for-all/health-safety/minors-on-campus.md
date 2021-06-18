@@ -38,7 +38,7 @@ All program sponsors, authorized adults, or any other individual who supervises 
 
 \*Inappropriate touching, including but not limited to contact with the minor’s buttocks, groin, breasts, mouth, or genitals, or where the minor is required or encouraged to have inappropriate contact with the buttocks, groin, breasts, mouth or genitals of another
 
-\*Sexual misconduct, domestic violence, dating violence, stalking or related retaliation as defined by Middlebury’s [Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct, and Stalking](http://www.middlebury.edu/about/handbook/handbook_archive/handbook-2017-2018/policies-for-all/non-discrim-policies/smdvs).
+\*Sexual misconduct, domestic violence, dating violence, stalking or related retaliation as defined by Middlebury’s [Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct, and Stalking](https://www.middlebury.edu/about/handbook/handbook_archive/handbook-2017-2018/policies-for-all/non-discrim-policies/smdvs).
 
 \*Harassment or related retaliation as defined by Middlebury’s [Anti-Harassment/Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin)
 
@@ -236,7 +236,7 @@ These ratios do not apply to sports-related events, camps, practices or games in
 
 **A.  Release forms**
 
-All participants in events including minors must complete a [release form](http://www.middlebury.edu/offices/administration/vpfin/finance-office/bsnsvcs/insurance), which is available online at the Business Services Office and the parent or legal guardian must sign the form on behalf of the minor. The form must include a detailed description of the program, including a description of the level of supervision that will be provided while the participants are engaged in the program activity and, if applicable, the level of supervision that will be provided, if any, outside of the program’s hours of operation (e.g., while they are staying at and/or being transported to and from, a local hotel, motel, or residence for the duration of the program).
+All participants in events including minors must complete a [release form](https://www.middlebury.edu/offices/administration/vpfin/finance-office/bsnsvcs/insurance), which is available online at the Business Services Office and the parent or legal guardian must sign the form on behalf of the minor. The form must include a detailed description of the program, including a description of the level of supervision that will be provided while the participants are engaged in the program activity and, if applicable, the level of supervision that will be provided, if any, outside of the program’s hours of operation (e.g., while they are staying at and/or being transported to and from, a local hotel, motel, or residence for the duration of the program).
 
 **B.  Pick up and Drop off (Students Not Enrolled in Middlebury’s Academic Programs)**
 
@@ -255,11 +255,11 @@ Any person who has reasonable cause to believe that a child has been abused or n
 
 Depending on the circumstances, reports may also be referred by Middlebury officials to local or state law enforcement authorities or other appropriate agencies (see also Sections 8 & 9, below).
 
-Complaints or reports under this policy will be addressed in accordance with existing policies, contracts, and/or appointment letters applicable to the individual and/or program at issue (e.g., Student Life Policies-General Disciplinary Processes [undergraduate students]; Language Schools policies [language schools students]; Bread Loaf School of English policies [Bread Loaf students]; Middlebury Institute policies [Institute students]; Employee Handbook, Faculty Handbook, or other policies, contracts or appointment letters applicable to the faculty or staff member for the particular program at issue). If the complaint includes allegations of sexual misconduct, domestic violence, dating violence, stalking, or harassment, the matter will be addressed in accordance with Middlebury’s [Policy Against Sexual Misconduct, Domestic  and Dating Violence and Misconduct, and Stalking](http://www.middlebury.edu/about/handbook/handbook_archive/handbook-2017-2018/policies-for-all/non-discrim-policies/smdvs) and/or [Anti-Harassment/Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin) (as applicable). Complaints against undergraduate students who are enrolled in another Middlebury program at the time the alleged conduct occurred may be addressed in accordance with that program’s disciplinary processes and/or in accordance with Middlebury’s Student Life Policy-General Disciplinary Processes, as appropriate. Complaints against student employees may be addressed in accordance with applicable employment policies and/or Middlebury’s Student Life policies, as appropriate.
+Complaints or reports under this policy will be addressed in accordance with existing policies, contracts, and/or appointment letters applicable to the individual and/or program at issue (e.g., Student Life Policies-General Disciplinary Processes [undergraduate students]; Language Schools policies [language schools students]; Bread Loaf School of English policies [Bread Loaf students]; Middlebury Institute policies [Institute students]; Employee Handbook, Faculty Handbook, or other policies, contracts or appointment letters applicable to the faculty or staff member for the particular program at issue). If the complaint includes allegations of sexual misconduct, domestic violence, dating violence, stalking, or harassment, the matter will be addressed in accordance with Middlebury’s [Policy Against Sexual Misconduct, Domestic  and Dating Violence and Misconduct, and Stalking](https://www.middlebury.edu/about/handbook/handbook_archive/handbook-2017-2018/policies-for-all/non-discrim-policies/smdvs) and/or [Anti-Harassment/Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin) (as applicable). Complaints against undergraduate students who are enrolled in another Middlebury program at the time the alleged conduct occurred may be addressed in accordance with that program’s disciplinary processes and/or in accordance with Middlebury’s Student Life Policy-General Disciplinary Processes, as appropriate. Complaints against student employees may be addressed in accordance with applicable employment policies and/or Middlebury’s Student Life policies, as appropriate.
 
 **8.**  **Mandated Reporting Under Vermont Law and Other Applicable State Laws**
 
-Under Vermont law ([33 V.S.A. § 4913](http://legislature.vermont.gov/statutes/section/33/049/04913)), certain individuals who reasonably suspect abuse or neglect of a child are **required to make report** in accordance with the provisions of [33 V.S.A. § 4914](http://legislature.vermont.gov/statutes/section/33/049/04914) **within 24 hours** of the time information regarding the suspected abuse or neglect was first received or observed. The report **must** be made within **24 hours** to the [Vermont Department for Children and Families](http://dcf.vermont.gov/) (“DCF”) (24 hour hotline: 1.800.649.5285). Individuals with mandatory reporting obligations are listed below.
+Under Vermont law ([33 V.S.A. § 4913](https://legislature.vermont.gov/statutes/section/33/049/04913)), certain individuals who reasonably suspect abuse or neglect of a child are **required to make report** in accordance with the provisions of [33 V.S.A. § 4914](https://legislature.vermont.gov/statutes/section/33/049/04914) **within 24 hours** of the time information regarding the suspected abuse or neglect was first received or observed. The report **must** be made within **24 hours** to the [Vermont Department for Children and Families](https://dcf.vermont.gov/) (“DCF”) (24 hour hotline: 1.800.649.5285). Individuals with mandatory reporting obligations are listed below.
 
 The following professionals are required to report:
 
@@ -270,17 +270,17 @@ The following professionals are required to report:
 - Camp owners, camp administrators or camp counselors (camp includes any residential or nonresidential recreational program)
 - Members of the clergy
 
-A mandatory reporter (as defined under Vermont law) who fails to report as required above may be subject to fines or imprisonment (see [33 V.S.A. § 4913 (h))](http://legislature.vermont.gov/statutes/section/33/049/04913).
+A mandatory reporter (as defined under Vermont law) who fails to report as required above may be subject to fines or imprisonment (see [33 V.S.A. § 4913 (h))](https://legislature.vermont.gov/statutes/section/33/049/04913).
 
-In addition to the above mandated reporters, Vermont law provides that any other person who has reasonable cause to believe that a child has been abused or neglected *may* report or cause a report to be made to DCF in accordance with [33 V.S.A. § 4914](http://legislature.vermont.gov/statutes/section/33/049/04914).
+In addition to the above mandated reporters, Vermont law provides that any other person who has reasonable cause to believe that a child has been abused or neglected *may* report or cause a report to be made to DCF in accordance with [33 V.S.A. § 4914](https://legislature.vermont.gov/statutes/section/33/049/04914).
 
-Any person other than a person suspected of child abuse, who in good faith makes a report to the Department shall be immune from any civil or criminal liability which might otherwise be incurred or imposed as a result of making the report (see [33 V.S.A. § 4913](http://legislature.vermont.gov/statutes/section/33/049/04913)).
+Any person other than a person suspected of child abuse, who in good faith makes a report to the Department shall be immune from any civil or criminal liability which might otherwise be incurred or imposed as a result of making the report (see [33 V.S.A. § 4913](https://legislature.vermont.gov/statutes/section/33/049/04913)).
 
-A person may not refuse to make a report required by law on the grounds that making the report would violate a privilege or disclose a confidential communication, except that a member of the clergy shall not be required to make a report under [33 V.S.A. § 4913](http://legislature.vermont.gov/statutes/section/33/049/04913) if the report would be based on information received in a communication which is: (1) made to a member of the clergy acting in his or her capacity as a spiritual advisor; (2) intended by the parties to be confidential at the time the communication is made; (3) intended by the communicant to be an act of contrition or a matter of conscience; and (4) required to be confidential by religious law, doctrine or tenet.
+A person may not refuse to make a report required by law on the grounds that making the report would violate a privilege or disclose a confidential communication, except that a member of the clergy shall not be required to make a report under [33 V.S.A. § 4913](https://legislature.vermont.gov/statutes/section/33/049/04913) if the report would be based on information received in a communication which is: (1) made to a member of the clergy acting in his or her capacity as a spiritual advisor; (2) intended by the parties to be confidential at the time the communication is made; (3) intended by the communicant to be an act of contrition or a matter of conscience; and (4) required to be confidential by religious law, doctrine or tenet.
 
 When a member of the clergy receives information about abuse or neglect of a child in a manner other than as described above, he or she is required to report on the basis of that information even though he or she may have also received a report of abuse or neglect about the same person or incident in the manner described in the previous paragraph.
 
-Reports shall be made orally or in writing to DCF. Reports shall contain the name and address or other contact information of the reporter as well as the names and addresses of the child and the parents or other persons responsible for the child's care, if known; the age of the child; the nature and extent of the child's injuries together with any evidence of previous abuse and neglect of the child or the child's siblings; and any other information that might be helpful in establishing the cause of the injuries or reasons for the neglect as well as in protecting the child and assisting the family (see [33 V.S.A. §4914](http://legislature.vermont.gov/statutes/section/33/049/04914)).
+Reports shall be made orally or in writing to DCF. Reports shall contain the name and address or other contact information of the reporter as well as the names and addresses of the child and the parents or other persons responsible for the child's care, if known; the age of the child; the nature and extent of the child's injuries together with any evidence of previous abuse and neglect of the child or the child's siblings; and any other information that might be helpful in establishing the cause of the injuries or reasons for the neglect as well as in protecting the child and assisting the family (see [33 V.S.A. §4914](https://legislature.vermont.gov/statutes/section/33/049/04914)).
 
 The name of and any identifying information about either the person making the report to DCF or any person mentioned in the report shall be confidential unless:
 
@@ -295,7 +295,7 @@ Mandatory state law reporting requirements applicable to Middlebury programs in 
 
 **9. Mandated Reporting of Crimes Under Federal Law**
 
-Certain College employees are “[Campus Security Authorities](http://www.middlebury.edu/offices/health/publicsafety/csa)” (“CSA”) and are therefore required under federal law (the “Clery Act”) to report suspected crimes that have occurred on College property, on all public property (including thoroughfares, streets, sidewalks, and parking facilities) that is within the campus, or immediately adjacent to and accessible from the campus, and on certain nonpublic property (such as any building or property owned or controlled by the College that is used in direct support of, or in relation to, the College’s educational purposes, is frequently used by students, and is not within the same reasonably contiguous geographic area of the College). CSAs include the following individuals:
+Certain College employees are “[Campus Security Authorities](https://www.middlebury.edu/offices/health/publicsafety/csa)” (“CSA”) and are therefore required under federal law (the “Clery Act”) to report suspected crimes that have occurred on College property, on all public property (including thoroughfares, streets, sidewalks, and parking facilities) that is within the campus, or immediately adjacent to and accessible from the campus, and on certain nonpublic property (such as any building or property owned or controlled by the College that is used in direct support of, or in relation to, the College’s educational purposes, is frequently used by students, and is not within the same reasonably contiguous geographic area of the College). CSAs include the following individuals:
 
 \*A campus police department or campus security department of an institution
 
@@ -327,7 +327,7 @@ Judicial Affairs Officer
 Human Relations Officers  
 Civil Rights and Title IX Coordinator  
 Director of Health and Wellness Education  
-Assistant Director of Health and[ <span style="margin:0px; text-decoration:none"></span> ](http://www.middlebury.edu/student-life/health-wellness-education-and-safety/education/contact/node/513528)Wellness Education  
+Assistant Director of Health and[ <span style="margin:0px; text-decoration:none"></span> ](https://www.middlebury.edu/student-life/health-wellness-education-and-safety/education/contact/node/513528)Wellness Education  
 Alcohol and Drug Ed Specialist  
 Posse Mentors  
 Any faculty or staff who travel with students on programs to foreign or domestic locations  
@@ -337,7 +337,7 @@ Field House Monitors
 Advisors/Cluster Managers for Student Groups or Organizations  
 Deans, directors or co-directors for other Middlebury programs such as the Schools Abroad, Language Schools, Bread Loaf School of English, School of the Environment, Middlebury Institute of International Studies, Schools Abroad and MiddCORE</span></span></span>
 
-A complete list of Campus Security Authories is available in Middlebury's [Annual Security and Fire Safety Reports](http://www.middlebury.edu/offices/health/publicsafety/Resources_and_Compliance_Requirements/Clery) for its campuses in Vermont, Calilfornia and New Mexico.
+A complete list of Campus Security Authories is available in Middlebury's [Annual Security and Fire Safety Reports](https://www.middlebury.edu/offices/health/publicsafety/Resources_and_Compliance_Requirements/Clery) for its campuses in Vermont, Calilfornia and New Mexico.
 
 A crime is reported when it is brought to the attention of a CSA, and the report is made in good faith. The crime must be reported by a CSA whether or not the individuals involved are members of the Middlebury community. The following crimes must be reported:
 
@@ -373,17 +373,17 @@ _**Amended September 9, 2019.**_
 
 **<span>CONTACT INFORMATION FOR MIDDLEBURY PROGRAMS IN VERMONT</span>**
 
-[Department of Public Safety](http://www.middlebury.edu/middlebury_google_custom_search/go/Public%20Safety)  
+[Department of Public Safety](https://www.middlebury.edu/middlebury_google_custom_search/go/Public%20Safety)  
 Middlebury College  
 125 S. Main St.  
 Middlebury, VT 05753  
 802.443.4911
 
-[Middlebury Police](http://www.middleburypolice.org/) or [Vermont State Police](http://www.vermont.gov/portal/safety/index.php?id=240)  
+[Middlebury Police](https://www.middleburypolice.org/) or [Vermont State Police](https://www.vermont.gov/portal/safety/index.php?id=240)  
 802.388-3191            802.388-4919  
 Emergency: 911
 
-[Vermont Department of Children and Families](http://dcf.vermont.gov/)  
+[Vermont Department of Children and Families](https://dcf.vermont.gov/)  
 (24 hour hotline: 1.800.649.5285)
 
 **Civil Rights and Title IX Coordinator**  
@@ -439,17 +439,17 @@ Middlebury, VT 05753
 802.443.5418  
 <span style="text-decoration:underline">[ldominique@middlebury.edu](mailto:dominique@middlebury.edu)</span>
 
-[Department of Public Safety](http://www.middlebury.edu/middlebury_google_custom_search/go/Public%20Safety)  
+[Department of Public Safety](https://www.middlebury.edu/middlebury_google_custom_search/go/Public%20Safety)  
 Middlebury College  
 125 S. Main St.  
 Middlebury, VT 05753  
 802.443.4911
 
-[Vermont State Police](http://www.vermont.gov/portal/safety/index.php?id=240)  
+[Vermont State Police](https://www.vermont.gov/portal/safety/index.php?id=240)  
 802.388-4919  
 Emergency: 911
 
-[Vermont Department of Children and Families](http://dcf.vermont.gov/)  
+[Vermont Department of Children and Families](https://dcf.vermont.gov/)  
 (24 hour hotline: 1.800.649.5285)
 
 **Bread Loaf School of English, Santa Fe, NM**  
@@ -458,14 +458,14 @@ Office: 102 Anderson
 505.995.4084  
 <span style="text-decoration:underline">[Holly_Laird@breadnet.middlebury.edu](mailto:Holly_Laird@breadnet.middlebury.edu)</span> <span style="text-decoration:underline">[Lars_Engle@breadnet.middlebury.edu](mailto:Lars_Engle@breadnet.middlebury.edu)</span>
 
-[St. Johns College Security Department](http://www.sjc.edu/santa-fe/office-safety-and-security/case-emergency/)  
+[St. Johns College Security Department](https://www.sjc.edu/santa-fe/office-safety-and-security/case-emergency/)  
 505.984.6000 or 505.984.6025 or 505.660.8177  
 Dial 0 from any Campus Phone
 
 Jim Ardis, Director of Security and Safety  
 505.984.6125
 
-[Santa Fe, New Mexico Police Department](http://www.santafenm.gov/police)  
+[Santa Fe, New Mexico Police Department](https://www.santafenm.gov/police)  
 2515 Camino Entrada  
 Santa Fe, NM  87507  
 Mailing: P.O. Box 909  
@@ -474,7 +474,7 @@ Santa Fe, NM  87504-0909
 Fax: 505.955.5052  
 Emergency: 9-1-1
 
-[New Mexico Children Youth and Families Department](http://www.cyfd.org/)  
+[New Mexico Children Youth and Families Department](https://www.cyfd.org/)  
 1.855.333.SAFE
 
 **Bread Loaf School of English, Oxford, United Kingdom**  
@@ -485,8 +485,8 @@ United Kingdom
 <span style="text-decoration:underline">[Jeri.johnson@exeter.ox.ac.uk](mailto:Jeri.johnson@exeter.ox.ac.uk)</span>
 
 **Middlebury Institute of International Studies at Monterey**  
-[Human Relations Officers ](http://www.middlebury.edu/studentlife/doc/hro)[_<span>  
-</span>_](http://www.middlebury.edu/studentlife/doc/hro)
+[Human Relations Officers ](https://www.middlebury.edu/studentlife/doc/hro)[_<span>  
+</span>_](https://www.middlebury.edu/studentlife/doc/hro)
 Ashley Fera Arrocha (Title IX Coordinator Designee for the Institute)  
 Associate Dean of Student Services  
 Office of Student Services  
@@ -503,15 +503,15 @@ Monterey, CA 93940
 831.647.6404  
 [mulibarr@miis.edu](mailto:mulibarr@miis.edu)
 
-[Campus Security](http://www.miis.edu/offices/security)  
+[Campus Security](https://www.miis.edu/offices/security)  
 831.647.4153
 
-[Local Police Department](http://www.monterey.org/en-us/departments/police.aspx)  
+[Local Police Department](https://www.monterey.org/en-us/departments/police.aspx)  
 Monterey Police Department  351 Madison Street Monterey, CA  93940  
 Emergency: Call 911  
 831.646.3914
 
-[California Department of Social Services](http://www.cdss.ca.gov/foodstamps/pg839.htm)  
+[California Department of Social Services](https://www.cdss.ca.gov/foodstamps/pg839.htm)  
 (831) 755-4400
 
 **MiddCORE Summer Program, Monterey, CA**  
@@ -520,15 +520,15 @@ Mahaney Center for the Arts 116
 802-443-5677  
 [christal@middlebury.edu](mailto:christal@middlebury.edu)
 
-[Campus Security](http://www.miis.edu/offices/security)  
+[Campus Security](https://www.miis.edu/offices/security)  
 831.647.4153
 
-[Local Police Department](http://www.monterey.org/en-us/departments/police.aspx)  
+[Local Police Department](https://www.monterey.org/en-us/departments/police.aspx)  
 Monterey Police Department  351 Madison Street Monterey, CA  93940  
 Emergency: Call 911  
 831.646.3914
 
-[California Department of Social Services](http://www.cdss.ca.gov/foodstamps/pg839.htm)  
+[California Department of Social Services](https://www.cdss.ca.gov/foodstamps/pg839.htm)  
 (831) 755-4400
 
 **Middlebury Schools Abroad**  
@@ -557,7 +557,7 @@ Middlebury, VT 05753
 
 **Emergencies: Dial 911**
 
-[Washington DC Metropolitan Police Department](http://mpdc.dc.gov/)  
+[Washington DC Metropolitan Police Department](https://mpdc.dc.gov/)  
 300 Indiana Avenue, NW  
 Washington, DC 20001   
 Telephone: 202-727-9099  
@@ -569,7 +569,7 @@ TTY: 711
 Washington, DC 20016  
 Phone: 202-715-7300202-715-7300
 
-[Child and Family Services Agency](http://cfsa.dc.gov/)  
+[Child and Family Services Agency](https://cfsa.dc.gov/)  
 202.671.SAFE or 202.671.7233  
 **<span></span>**
 
@@ -577,7 +577,7 @@ Phone: 202-715-7300202-715-7300
 
 #### **I. California**
 
-Under California law, Cal. Penal Code § 11164-11174.3, certain individuals are **required** to report any incident where they have knowledge, observe, or reasonably suspect that a minor has been abused or neglected. The report **must** be made **immediately** or as soon as practically possible by phone to a county welfare department, probation department (if it is designated by the county to receive mandated reports), or to a police or sheriff’s department (not including a school district police or security department). A written report must be submitted on a Department of Justice form within 36 hours (forms are available here: [http://oag.ca.gov/childabuse/forms](http://oag.ca.gov/childabuse/forms)). Individuals with mandatory reporting obligations are listed below.
+Under California law, Cal. Penal Code § 11164-11174.3, certain individuals are **required** to report any incident where they have knowledge, observe, or reasonably suspect that a minor has been abused or neglected. The report **must** be made **immediately** or as soon as practically possible by phone to a county welfare department, probation department (if it is designated by the county to receive mandated reports), or to a police or sheriff’s department (not including a school district police or security department). A written report must be submitted on a Department of Justice form within 36 hours (forms are available here: [https://oag.ca.gov/childabuse/forms](https://oag.ca.gov/childabuse/forms)). Individuals with mandatory reporting obligations are listed below.
 
 The following is a non-exhaustive list of professionals who are required to report:
 
@@ -646,6 +646,6 @@ Washington D.C. law does not specifically address the confidentiality of the ide
 
 ---
 
-<a title="" id="_ftn1" href="#_ftnref1">[1]</a> See [http://law.onecle.com/california/penal/11165.7.html](http://law.onecle.com/california/penal/11165.7.html)
+<a title="" id="_ftn1" href="#_ftnref1">[1]</a> See [https://law.onecle.com/california/penal/11165.7.html](https://law.onecle.com/california/penal/11165.7.html)
 
 <a title="" id="_ftn2" href="#_ftnref2">[2]</a> The statute reads that “every person” is required to report.  N.M.S.A. § 32A-4-3 (a).  Despite the statute’s plain language, the New Mexico Court of Appeals has held that that words “every person” only mean the professionals specifically identified in the statute (i.e. the professionals listed in the preceding bullet points).  *State v. Strauch*, 2014-NMCA-020, 317 P.3d 878, 881 (N.M. Ct.App. 2013). The New Mexico Supreme Court has decided to review this question. *State v. Strauch*, 321 P.3d 936 (N.M. Ct. App. 2014) (granting cert). Middlebury’s handling of related issues will comply with New Mexico law as applicable at the relevant time.

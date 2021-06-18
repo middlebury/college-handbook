@@ -30,4 +30,4 @@ The purpose of holiday premium pay is to provide additional compensation to non-
 
 **Administration:** Most non-exempt staff members are eligible for holiday premium pay if they work on a designated regular holiday. Exceptions to eligibility are seasonal employees who work at the Snow Bowl or Rikert, areas that do not experience a shut-down period.  Benefits-eligible staff also receive holiday pay as described above if they work on a regular holiday.
 
-_See [Recording Holiday Pay and Worked Holiday Time Procedures](http://www.middlebury.edu/offices/business/hr/staffandfaculty/benefits/timeaway/holidays)._
+_See [Recording Holiday Pay and Worked Holiday Time Procedures](https://www.middlebury.edu/offices/business/hr/staffandfaculty/benefits/timeaway/holidays)._

@@ -32,11 +32,11 @@ Middlebury College’s [Community Standards](/pages/ii-ug-college-policies/ug-p
 
 **<a name="housing" id="housing"></a>(2) <span style="text-decoration:underline">Housing options on Campus</span>**
 
-At Middlebury College, students are offered more than 60 on-campus buildings for student housing. All students are assigned to one of five [Commons](http://www.middlebury.edu/student-life/community-living/residential-life/commons-system) for the first two years. Juniors and seniors can choose from other housing options available across campus while remaining a member of their original Commons. Middlebury maintains houses in the belief that they can be a positive addition to the larger campus community and that they provide students with valuable opportunities for assuming responsibility for activities and programs that support the life of the Middlebury community.
+At Middlebury College, students are offered more than 60 on-campus buildings for student housing. All students are assigned to one of five [Commons](https://www.middlebury.edu/student-life/community-living/residential-life/commons-system) for the first two years. Juniors and seniors can choose from other housing options available across campus while remaining a member of their original Commons. Middlebury maintains houses in the belief that they can be a positive addition to the larger campus community and that they provide students with valuable opportunities for assuming responsibility for activities and programs that support the life of the Middlebury community.
 
 In addition to First year and Sophomore housing with the Commons, the College offers Academic and Special Interest Houses that students can join on campus for students interested in pursuing common academic, co-curricular, and special interests. Oversight of these houses is the shared responsibility of the Office of the Dean of Students and the academic (in the case of Academic Interest houses) or administrative (in the case of special interest houses) department sponsoring the house. Rising sophomores, juniors, and seniors are eligible to reside in Academic Interest Houses. Students can choose from the other housing options in their junior and senior year.
 
-More information on joining these houses and the Room Draw process can be found at: [http://www.middlebury.edu/student-life/community-living/housing-information](http://www.middlebury.edu/student-life/community-living/housing-information)
+More information on joining these houses and the Room Draw process can be found at: [https://www.middlebury.edu/student-life/community-living/housing-information](https://www.middlebury.edu/student-life/community-living/housing-information)
 
 Middlebury reserves the right to reassign, restrict, and, suspend student housing where that decision will serve a compelling community interest, or in instances where a student has demonstrated a flagrant and/or repeated disregard for the principles set forth in the Handbook. This includes the restriction from participating in room draw and housing selection.
 
@@ -50,7 +50,7 @@ Students cannot switch rooms and keys or change residences without proper permis
 
 Students are not expected to be in areas that are not regular living spaces. They should not use areas outside of their living spaces for storage unless authorized. The list of spaces excluded from student use includes any roof or outer surface of any Middlebury building. Accessing a roof in any manner or climbing on a building is considered dangerous behavior and is prohibited; fines will be assessed.  Unauthorized access to prohibited areas of Middlebury buildings (e. g. basements, closets, crawlspaces and/or attics) will incur fines (see [section on fines and fees](https://www.middlebury.edu/offices/support/sfs/sfs-handbook)).
 
-Students are expected to be considerate of others with respect to noise in the residence halls; see [Noise Regulations](http://www.middlebury.edu/offices/health/publicsafety/Noise_Regulations) for more information. Conduct that creates a public disturbance in a residence hall or interferes with another student’s ability to study is prohibited.
+Students are expected to be considerate of others with respect to noise in the residence halls; see [Noise Regulations](https://www.middlebury.edu/offices/health/publicsafety/Noise_Regulations) for more information. Conduct that creates a public disturbance in a residence hall or interferes with another student’s ability to study is prohibited.
 
 Students are expected to be responsible for their personal valuables and belongings. Middlebury does not accept responsibility for loss of money or other personal property or damage thereto which may occur in residence halls and elsewhere on campus. Students may wish to insure their property against such loss.
 
@@ -64,7 +64,7 @@ Students may not remove Middlebury-provided furniture from their bedroom for any
 
 **<a name="guest" id="guest"></a>(b) Guest Policy**
 
-A guest of a student may stay in a dormitory no more than three days in any one term. All guests must register in advance with the Department of Public Safety.  Residential Life staff must be told in advance where the guest is staying. No guests may stay overnight in residential lounges, or stay overnight on campus when Middlebury is closed. Students are responsible for the behavior of their guests. Middlebury reserves the right to remove any guest whose behavior is not appropriate, and to rescind the privilege of hosting guests. Failure to follow the guest policy will result in fines and loss of privilege to host guests.See [guest policy](http://www.middlebury.edu/student-life/community-living/use-of-residential-spaces/residential-guests).
+A guest of a student may stay in a dormitory no more than three days in any one term. All guests must register in advance with the Department of Public Safety.  Residential Life staff must be told in advance where the guest is staying. No guests may stay overnight in residential lounges, or stay overnight on campus when Middlebury is closed. Students are responsible for the behavior of their guests. Middlebury reserves the right to remove any guest whose behavior is not appropriate, and to rescind the privilege of hosting guests. Failure to follow the guest policy will result in fines and loss of privilege to host guests.See [guest policy](https://www.middlebury.edu/student-life/community-living/use-of-residential-spaces/residential-guests).
 
 **<a name="entry" id="entry"></a>(c) Entry by College Officials**
 
@@ -104,7 +104,7 @@ Whenever a student's dormitory room is entered by a Middlebury official to meet 
 
 **<span style="text-decoration:underline"><a name="firesafety" id="firesafety"></a>Fire Safety Regulations</span>**
 
-Any violation of fire safety regulations will result in a [fine](http://www.middlebury.edu/offices/support/sfs/sfs-handbook).  Students found responsible will have to pay the additional cost(s) of repair or replacement of damaged equipment or property.  Students will be subject to disciplinary actions as well.
+Any violation of fire safety regulations will result in a [fine](https://www.middlebury.edu/offices/support/sfs/sfs-handbook).  Students found responsible will have to pay the additional cost(s) of repair or replacement of damaged equipment or property.  Students will be subject to disciplinary actions as well.
 
 - Room entries, exits and hallways must be kept clear and free of potential obstructions.
 
@@ -143,7 +143,7 @@ Any violation of fire safety regulations will result in a [fine](http://www.midd
 Fire Safety inspections will be organized and conducted on an on-going basis as deemed appropriate.  Students will be reminded that inspections will occur at the beginning of each semester, and will be advised of the conditions following the inspections.  Any material in violation of the fire safety regulations will be confiscated at the time of the inspection, and the student fined.
 
 **<span style="text-decoration:underline"><a name="noise" id="noise"></a>Noise Regulations</span>**  
-Middlebury seeks to promote the quiet, comfort, and health of the campus community and residents of the town of Middlebury. The student body must uphold the Ordinance for the Regulation of Noise of the town of Middlebury. This ordinance prohibits excessive or unnecessary noise, including vocal disturbances and loud music, and punishes offenders with fines.  Students should neither cause nor condone excessive amounts of noise, but should strive to be considerate and respectful of others. Students are informed about Middlebury’s noise regulations by the residential life staff. Procedures on Noise Complaints can be found [here](http://www.middlebury.edu/offices/health/publicsafety/Noise_Regulations).
+Middlebury seeks to promote the quiet, comfort, and health of the campus community and residents of the town of Middlebury. The student body must uphold the Ordinance for the Regulation of Noise of the town of Middlebury. This ordinance prohibits excessive or unnecessary noise, including vocal disturbances and loud music, and punishes offenders with fines.  Students should neither cause nor condone excessive amounts of noise, but should strive to be considerate and respectful of others. Students are informed about Middlebury’s noise regulations by the residential life staff. Procedures on Noise Complaints can be found [here](https://www.middlebury.edu/offices/health/publicsafety/Noise_Regulations).
 
 **<span style="text-decoration:underline">Storage Regulations  
 </span>**<span style="text-decoration:underline"></span>

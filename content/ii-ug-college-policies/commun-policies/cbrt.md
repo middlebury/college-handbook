@@ -33,9 +33,9 @@ The Community Bias Response Team (CBRT) is charged with assessing and communicat
 
 The CBRT does not have the authority to conduct disciplinary proceedings or impose discipline on students, staff or faculty. Disciplinary matters will be referred and handled in accordance with Middlebury’s policies, as applicable. Accordingly, complaints of misconduct should be addressed as follows:
 
-- Complaints of misconduct related to the behavior of students should be directed to a [Judicial Affairs Officer](http://www.middlebury.edu/student-life/community-living/judicial-affairs);
-- Complaints of misconduct related to the behavior of staff members should be directed to [Human Resources](http://www.middlebury.edu/offices/business/hr);
-- Complaints of misconduct related to the behavior of faculty members should be directed to the [Dean of the Faculty](http://www.middlebury.edu/academics/administration/aa_staff/node/481277).
+- Complaints of misconduct related to the behavior of students should be directed to a [Judicial Affairs Officer](https://www.middlebury.edu/student-life/community-living/judicial-affairs);
+- Complaints of misconduct related to the behavior of staff members should be directed to [Human Resources](https://www.middlebury.edu/offices/business/hr);
+- Complaints of misconduct related to the behavior of faculty members should be directed to the [Dean of the Faculty](https://www.middlebury.edu/academics/administration/aa_staff/node/481277).
 
 Concerns of potential harassment or discrimination prohibited by Middlebury’s Anti-Harassment/Discrimination Policy should be directed to a [Human Relations Officer and/or the Title IX Coordinator](https://www.middlebury.edu/college/student-life) for review. When the CBRT is informed of conduct that could potentially violate Middlebury’s Anti-Harassment/Discrimination Policy, the CBRT will so inform the Title IX office.
 
@@ -63,9 +63,9 @@ Harassment may include repeated slurs, or taunts in the guise of jokes, or dispa
 
 In Middlebury’s Vermont programs, harassment may also include conduct of the type described above that is based on or motivated by a student's family member's actual or perceived race, creed, color, national origin, marital status, sex, sexual orientation, gender identity, or disability, which has the type of purpose or effect described above.
 
-See also “[Sexual Harassment](http://www.middlebury.edu/about/handbook/misc/antiharassment#Definitions)” as defined by Middlebury’s Anti-Harassment/Discrimination policy.
+See also “[Sexual Harassment](https://www.middlebury.edu/about/handbook/misc/antiharassment#Definitions)” as defined by Middlebury’s Anti-Harassment/Discrimination policy.
 
-Possible incidents of harassment should be directed to the [Title IX Coordinator, a Human Relations Officer](http://www.middlebury.edu/studentlife/doc/hro/node/285479) or [Public Safety](http://www.middlebury.edu/offices/health/publicsafety).
+Possible incidents of harassment should be directed to the [Title IX Coordinator, a Human Relations Officer](https://www.middlebury.edu/studentlife/doc/hro/node/285479) or [Public Safety](https://www.middlebury.edu/offices/health/publicsafety).
 
 **<span><a name="Hate" id="Hate"></a>Hate Crime</span>**
 
@@ -76,7 +76,7 @@ Vermont law defines a hate crime as any crime maliciously motivated by the victi
 - Unlawful Mischief (property crime)
 - Harassment by telephone (including repeated hang up calls)
 
-Possible incidents of hate crimes should be directed to the [Title IX Coordinator, a Human Relations Officer](http://www.middlebury.edu/studentlife/doc/hro/node/285479) or [Public Safety](http://www.middlebury.edu/offices/health/publicsafety).
+Possible incidents of hate crimes should be directed to the [Title IX Coordinator, a Human Relations Officer](https://www.middlebury.edu/studentlife/doc/hro/node/285479) or [Public Safety](https://www.middlebury.edu/offices/health/publicsafety).
 
 **<span><a name="Community" id="Community"></a>Community Standards</span>**
 
@@ -88,11 +88,11 @@ For information on filing reports under these policies, please refer to the foll
 
 [Anti-Harassment/Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin)
 
-[Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct, and Stalking](http://www.middlebury.edu/about/handbook/misc/October)
+[Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct, and Stalking](https://www.middlebury.edu/about/handbook/misc/October)
 
 **<span><a name="Non" id="Non"></a>Non-Discrimination Statement</span>**
 
-Middlebury College ("Middlebury") complies with applicable provisions of state and federal law which prohibit discrimination in employment, or in admission or access to its educational or extracurricular programs, activities, or facilities, on the basis of race, creed, color, place of birth, ancestry, ethnicity, national origin, religion, sex, sexual orientation, gender identity or expression, age, marital status, service in the armed forces of the United States, positive HIV-related blood test results, genetic information, or against qualified individuals with disabilities on the basis of disability and/or any other status or characteristic as defined and to the extent protected by applicable law. Middlebury also complies with all other anti-discrimination protections that might be provided by particular states in which it operates educational programs; questions about the scope of any such protections should be addressed to the [Compliance Officer/Title IX Coordinator](http://www.middlebury.edu/studentlife/doc/hro) and/or the on-site administrative representative for the particular program at issue. The Compliance Officer/Title IX Coordinator coordinates Middlebury's efforts to comply with any and all federal and state laws that prohibit discrimination on the basis of one or more of the protected characteristics listed above. Discrimination complaints are processed in accordance with the procedures set forth in Middlebury's [Anti-Harassment/Discrimination Policy](http://www.middlebury.edu/middlebury_google_custom_search/go/anti-harassment).
+Middlebury College ("Middlebury") complies with applicable provisions of state and federal law which prohibit discrimination in employment, or in admission or access to its educational or extracurricular programs, activities, or facilities, on the basis of race, creed, color, place of birth, ancestry, ethnicity, national origin, religion, sex, sexual orientation, gender identity or expression, age, marital status, service in the armed forces of the United States, positive HIV-related blood test results, genetic information, or against qualified individuals with disabilities on the basis of disability and/or any other status or characteristic as defined and to the extent protected by applicable law. Middlebury also complies with all other anti-discrimination protections that might be provided by particular states in which it operates educational programs; questions about the scope of any such protections should be addressed to the [Compliance Officer/Title IX Coordinator](https://www.middlebury.edu/studentlife/doc/hro) and/or the on-site administrative representative for the particular program at issue. The Compliance Officer/Title IX Coordinator coordinates Middlebury's efforts to comply with any and all federal and state laws that prohibit discrimination on the basis of one or more of the protected characteristics listed above. Discrimination complaints are processed in accordance with the procedures set forth in Middlebury's [Anti-Harassment/Discrimination Policy](https://www.middlebury.edu/middlebury_google_custom_search/go/anti-harassment).
 
 **<span><a name="Notice" id="Notice"></a>Notice</span>**
 
