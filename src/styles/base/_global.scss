@@ -52,6 +52,10 @@ ol {
   font-family: $font-family-sans-serif;
 }
 
+td ul {
+  list-style: none;
+}
+
 ol {
   list-style: decimal;
 }
