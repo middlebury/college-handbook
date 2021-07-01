@@ -223,7 +223,8 @@ const PageWrapper = (props) => {
           </SplitPaneLeft>
           <Divider className="separator-col" />
           <SplitPaneRight>
-            {toggleRef.current === handleSubmitToggle ? (
+            {toggleRef.current === undefined ||
+            toggleRef.current === handleSubmitToggle ? (
               props.children
             ) : (
               <SearchResults
