@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { useFlexSearch } from "react-use-flexsearch";
 import { FaSearch } from "react-icons/fa";
 
@@ -6,7 +6,7 @@ export const SearchBarPresentation = (props) => {
   return (
     <section className="navbar__search" aria-labelledby="search-label">
       <form onSubmit={props.handleSubmit} className="navbar__input-group">
-        <label for="search-input" id="search-label" class="sr-only">
+        <label for="search-input" id="search-label" className="sr-only">
           Search
         </label>
         <input
@@ -34,16 +34,21 @@ export const SearchBarPresentation = (props) => {
   );
 };
 
-export const SearchBar = ({ index, store, setResults }) => {
+export const SearchBar = ({ index, store, handleSubmitToggle, setResults, setHandleSubmitToggle }) => {
   const [query, setQuery] = useState("");
 
   const results = useFlexSearch(query, index, store);
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    if(handleSubmitToggle === 0) {
+      setHandleSubmitToggle(1);
+    } else {
+      setHandleSubmitToggle(0);
+    }
     setResults(results.slice(0, 15));
   };
-
+  
   return (
     <SearchBarPresentation
       handleSubmit={handleSubmit}

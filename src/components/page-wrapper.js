@@ -25,7 +25,9 @@ const PageWrapper = (props) => {
   const [printResults, setPrintResults] = useState("");
   const [index, setIndex] = useState("");
   const [store, setStore] = useState({});
+  const [handleSubmitToggle, setHandleSubmitToggle] = useState(0);
   const prevClass = useRef();
+  const toggleRef = useRef();
   let allNodes = Object.values(nodes);
   let buffer = "";
 
@@ -125,6 +127,10 @@ const PageWrapper = (props) => {
     }
   }, [expand]);
 
+  useEffect(() => {
+    toggleRef.current = handleSubmitToggle;
+  }, [handleSubmitToggle]);
+
   const handleClick = (value) => {
     let names = value.split("/");
     let className = names[names.length - 1];
@@ -185,6 +191,8 @@ const PageWrapper = (props) => {
           index={index}
           store={store}
           setResults={setResults}
+          handleSubmitToggle={handleSubmitToggle}
+          setHandleSubmitToggle={setHandleSubmitToggle}
           printResults={printResults}
         />
         <SplitPane className="split-pane-row">
@@ -215,7 +223,7 @@ const PageWrapper = (props) => {
           </SplitPaneLeft>
           <Divider className="separator-col" />
           <SplitPaneRight>
-            {results.length === 0 ? (
+            {toggleRef.current === handleSubmitToggle ? (
               props.children
             ) : (
               <SearchResults

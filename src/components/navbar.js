@@ -120,6 +120,8 @@ const Navbar = (props) => {
               store={props.store}
               setResults={props.setResults}
               valueCallback={props.valueCallback}
+              handleSubmitToggle={props.handleSubmitToggle}
+              setHandleSubmitToggle={props.setHandleSubmitToggle}
             />
           ) : (
             <SearchBarPresentation />
