@@ -6,10 +6,9 @@ const Header = () => {
     <header className="app-header">
       <div className="app-header__wrap app-header__wrap--main">
         <div className="app-header__logo">
-          <a href="">
+          <a href="/">
             <img
               src={MiddLogo}
-              // srcset="images/midd-shield.svg 67w"
               sizes="(min-width: 1024px) 67px, 44px"
               alt="Middlebury Shield"
             />
