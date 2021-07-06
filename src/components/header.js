@@ -17,7 +17,7 @@ const Header = () => {
         </div>
 
         <h1 className="app-header__title" id="midd-app-header-label">
-          <a href="/" className="app-header__link">
+          <a href="/handbook" className="app-header__link">
             Middlebury Handbook
           </a>
         </h1>
