@@ -31,22 +31,22 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: "iii.-policies-for-the-language-schools",
+        name: "iii-policies-for-the-language-schools",
         path: `${__dirname}/content/iii-policies-for-the-language-schools`,
       },
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: "iv.-policies-for-the-institute",
+        name: "iv-policies-for-the-institute",
         path: `${__dirname}/content/iv-policies-for-the-institute`,
       },
     },
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: "v-handbook_archive",
-        path: `${__dirname}/content/v-handbook_archive`,
+        name: "v-handbook-archive",
+        path: `${__dirname}/content/v-handbook-archive`,
       },
     },
     {

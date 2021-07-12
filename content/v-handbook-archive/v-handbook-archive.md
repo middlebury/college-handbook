@@ -1,5 +1,5 @@
 ---
-slug: "/pages/v-handbook_archive"
+slug: "/pages/v-handbook-archive"
 date: "2021-05-01"
 title: "Previous Handbooks"
 ---
