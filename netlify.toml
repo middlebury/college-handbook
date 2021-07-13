@@ -3,3 +3,8 @@
 
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"
+
+[[redirects]]
+  from = "/handbook/*"
+  to = "https://college-handbook.netlify.app/:splat"
+  status = 200
