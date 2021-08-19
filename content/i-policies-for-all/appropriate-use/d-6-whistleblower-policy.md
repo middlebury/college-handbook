@@ -3,10 +3,9 @@ slug: /pages/i-policies-for-all/appropriate-use/d-6-whistleblower-policy
 date: 2021-05-01
 title: D.6. Whistleblower Policy
 ---
-
 #### **Policy Statement**
 
-Middlebury College has a deep commitment to responsible stewardship of its financial resources and accountability for the public and private support that enables the College to pursue its mission.  Middlebury College is committed to compliance with the laws and regulations to which it is subject, and to promulgate College policies and procedures to interpret and apply these laws and regulations in the College setting.
+Middlebury College has a deep commitmentt to responsible stewardship of its financial resources and accountability for the public and private support that enables the College to pursue its mission.  Middlebury College is committed to compliance with the laws and regulations to which it is subject, and to promulgate College policies and procedures to interpret and apply these laws and regulations in the College setting.
 
 #### **Reason for the Policy**
 
@@ -60,4 +59,4 @@ Phone: 802-443-5001\
 
 [https://www.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin)
 
-_Updated May 3, 2019_
+*Updated May 3, 2019*
