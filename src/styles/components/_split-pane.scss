@@ -14,14 +14,21 @@
 
 .split-pane-right,
 .split-pane-left {
-  // flex: 1;
   overflow: hidden;
   padding: 20px;
+
+  @include media(lg) {
+    padding-top: 0;
+  }
 }
 
 .split-pane-left {
   min-width: 25vw;
   overflow-y: auto;
+  @include media(lg) {
+    max-width: 25vw;
+    padding-top: 64px;
+  }
 }
 
 .split-pane-right {
@@ -30,17 +37,19 @@
   z-index: 10;
   overflow: scroll;
   width: 100%;
-
+  padding-top: 0;
+  
   @include media(lg) {
     overflow-x: hidden;
   }
 }
 
 .separator-col {
-  border: 5px solid lighten($gray, 30%);
+  border-bottom: 1px solid lighten($gray, 30%);
   z-index: 10;
 
   @include media(lg) {
+    border: 5px solid lighten($gray, 30%);
     cursor: col-resize;
   }
 }
@@ -52,7 +61,6 @@
 
 ul li {
   margin: 1rem;
-  // list-style-type: square;
 }
 
 blockquote {

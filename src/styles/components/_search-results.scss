@@ -1,9 +1,13 @@
 .search-results {
-  // max-height: 90vh;
   overflow-y: scroll;
   margin-bottom: 16px;
   background-color: $blue-lighter;
   padding: 8px;
+  margin-top: 48px;
+
+  @include media(lg){
+    margin-top: 64px;
+  }
 }
 
 .search-results__item {

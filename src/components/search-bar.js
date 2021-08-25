@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useFlexSearch } from "react-use-flexsearch";
-import { FaSearch } from "react-icons/fa";
+import SearchIcon from "../images/search.svg";
 
 export const SearchBarPresentation = (props) => {
   return (
@@ -26,29 +26,37 @@ export const SearchBarPresentation = (props) => {
           aria-label="Submit"
           type="submit"
           className="navbar__button search"
+          style={{ color: "white" }}
         >
-          <FaSearch />
+          <span className="sr-only">Search</span>
+          <img src={SearchIcon} style={{ color:"white", height:"1rem", width:"1rem", maxWidth:"initial" }} />
         </button>
       </form>
     </section>
   );
 };
 
-export const SearchBar = ({ index, store, handleSubmitToggle, setResults, setHandleSubmitToggle }) => {
+export const SearchBar = ({
+  index,
+  store,
+  handleSubmitToggle,
+  setResults,
+  setHandleSubmitToggle,
+}) => {
   const [query, setQuery] = useState("");
 
   const results = useFlexSearch(query, index, store);
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    if(handleSubmitToggle === 0) {
+    if (handleSubmitToggle === 0) {
       setHandleSubmitToggle(1);
     } else {
       setHandleSubmitToggle(0);
     }
     setResults(results.slice(0, 15));
   };
-  
+
   return (
     <SearchBarPresentation
       handleSubmit={handleSubmit}

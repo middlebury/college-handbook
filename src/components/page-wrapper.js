@@ -187,7 +187,6 @@ const PageWrapper = (props) => {
           valueCallback={(value) => {
             setValue(value);
           }}
-          // localSearchPages={data.localSearchPages}
           index={index}
           store={store}
           setResults={setResults}
