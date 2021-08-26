@@ -10,7 +10,15 @@ import SplitPaneContext from "./split-pane-context";
 export const Divider = (props) => {
   const { onMouseHoldDown } = useContext(SplitPaneContext);
 
-  return <div {...props} onMouseDown={onMouseHoldDown} />;
+  return (
+    <div {...props} onMouseDown={onMouseHoldDown} >
+      <div className="ellipsis">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+  );
 };
 
 export const SplitPaneLeft = ({ children, ...props }) => {
@@ -53,7 +61,7 @@ export const SplitPaneLeft = ({ children, ...props }) => {
 export const SplitPaneRight = ({ children, ...props }) => {
   return (
     <main {...props} className="split-pane-right" id="right-plane">
-      <div id="print-section">{children}</div>
+      <div id="print-section" className="print-section__font-size">{children}</div>
     </main>
   );
 };
