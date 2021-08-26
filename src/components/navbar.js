@@ -93,7 +93,7 @@ const Navbar = (props) => {
     myWindow.focus(); // necessary for IE >= 10*/
   };
 
-  const handleFont = (e, param) => {
+  const handleFontSize = (e, param) => {
     e.preventDefault();
 
     if (param === "increase") {
@@ -101,13 +101,18 @@ const Navbar = (props) => {
         fontSize.current += 20;
       }
     } else if (param === "decrease") {
-      if (fontSize.current > 80) {
+      if (fontSize.current > 60) {
         fontSize.current -= 20;
       }
     }
-    document.getElementById(
-      "print-section"
-    ).style.fontSize = `${fontSize.current}%`;
+    
+    const element = document.getElementById("print-section");
+    if (fontSize.current === 100) {
+        element.classList.add("print-section__font-size");
+    } else {
+        element.classList.remove("print-section__font-size");
+    }
+    element.style.fontSize = `${fontSize.current}%`;
   };
 
   return (
@@ -128,50 +133,6 @@ const Navbar = (props) => {
           )}
         </div>
         <div className="navbar__buttons">
-          <button
-            aria-label="Text Zoom In"
-            className="navbar__button"
-            onClick={(e) => {
-              handleFont(e, "increase");
-            }}
-          >
-            <FaFont />
-            <span
-              style={{
-                margin: "0px",
-                fontSize: "16pt",
-                verticalAlign: "super",
-              }}
-            >
-              +
-            </span>
-          </button>
-          <button
-            aria-label="Text Zoom Out"
-            className="navbar__button"
-            onClick={(e) => {
-              handleFont(e, "decrease");
-            }}
-          >
-            <FaFont />
-            <span
-              style={{
-                margin: "0px",
-                fontSize: "16pt",
-                verticalAlign: "super",
-              }}
-            >
-              -
-            </span>
-          </button>
-          <button
-            aria-label="Print Page"
-            className="navbar__button"
-            onClick={handlePrint}
-          >
-            <FaPrint />
-          </button>
-          <span style={{ fontSize: "30px" }}>|</span>
           <button
             aria-label="Skip to first page"
             className="navbar__button"
@@ -199,6 +160,50 @@ const Navbar = (props) => {
             onClick={(e) => handleClick(e, "fast-forward")}
           >
             <FaStepForward />
+          </button>
+          <span style={{ fontSize: "28px" }}>|</span>
+          <button
+            aria-label="Text Zoom In"
+            className="navbar__button"
+            onClick={(e) => {
+              handleFontSize(e, "increase");
+            }}
+          >
+            <FaFont />
+            <span
+              style={{
+                margin: "0px",
+                fontSize: "12pt",
+                verticalAlign: "super",
+              }}
+            >
+              +
+            </span>
+          </button>
+          <button
+            aria-label="Text Zoom Out"
+            className="navbar__button"
+            onClick={(e) => {
+              handleFontSize(e, "decrease");
+            }}
+          >
+            <FaFont />
+            <span
+              style={{
+                margin: "0px",
+                fontSize: "16pt",
+                verticalAlign: "super",
+              }}
+            >
+              -
+            </span>
+          </button>
+          <button
+            aria-label="Print Page"
+            className="navbar__button"
+            onClick={handlePrint}
+          >
+            <FaPrint />
           </button>
         </div>
       </div>

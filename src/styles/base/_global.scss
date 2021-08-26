@@ -32,7 +32,7 @@ a {
   }
 }
 
-td a {
+.print-section__font-size td a {
   font-size: large;
 }
 
@@ -75,11 +75,19 @@ h4,
 h5,
 h6 {
   font-weight: 400;
-  color: $navy-dark;
+  color: $black;
   font-family: "Domine", georgia, serif;
 }
 
-h1 {
+#print-section {
+  margin-top: 3rem;
+  
+  @include media(lg) {
+    margin-top: 4rem;
+  }
+}
+
+.print-section__font-size h1 {
   font-size: 2rem;
   line-height: 1;
   margin-bottom: 3rem;
@@ -94,7 +102,7 @@ h1 {
   }
 }
 
-h2 {
+.print-section__font-size h2 {
   font-size: 1.5rem;
   line-height: 1.4;
   
@@ -112,7 +120,7 @@ h2 {
   }
 }
 
-h3 {
+.print-section__font-size h3 {
   font-size: 1.25rem;
   line-height: 1.4;
   margin-top: 2rem;
@@ -125,15 +133,15 @@ h4, h5, h6 {
   margin-bottom: 0.25rem;
 }
 
-h4 {
+.print-section__font-size h4 {
   font-size: 1.125rem;
 }
 
-h5 {
+.print-section__font-size h5 {
   font-size: 1rem;
 }
 
-h6 {
+.print-section__font-size h6 {
   font-size: 0.875rem;
 }
 
@@ -141,7 +149,7 @@ table {
   margin-bottom: 1em;
 }
 
-td {
+.print-section__font-size td {
   font-size: 0.929em;
   color: #404040;
   font-weight: normal;
