@@ -5,7 +5,7 @@
 }
 
 .app-header {
-  background: $navy;
+  background: $navy-dark;
 }
 
 .app-header__wrap {
@@ -24,9 +24,14 @@
 }
 
 .app-header__logo {
-  position: relative;
-  top: 1rem;
-  z-index: 2;
+  padding: 0.5rem 0;
+
+  @include media(md) {
+    padding: 0;
+    position: relative;
+    top: 1rem;
+    z-index: 2;
+  }
 
   @media print {
     float: right;
@@ -35,12 +40,13 @@
 
 .app-header__title {
   font-size: rem(24);
-  line-height: 1.4;
+  line-height: 1;
   font-family: $font-family-serif;
   color: $white;
   margin: initial;
 
   @include media(lg) {
+    line-height: 1.4;
     font-size: rem(28);
   }
 }

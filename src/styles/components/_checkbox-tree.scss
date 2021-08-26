@@ -2,6 +2,10 @@
   align-items: flex-start;
 }
 
+.react-checkbox-tree label {
+  flex-shrink: 0;
+}
+
 .rct-icon-expand-close,
 .rct-icon-expand-open {
   padding-top: 6px;
