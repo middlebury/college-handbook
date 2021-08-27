@@ -51,8 +51,7 @@
 
   @include media(lg) {
     background-color: lighten($gray, 30%);
-    // border: 5px solid lighten($gray, 30%);
-    width: 10px;
+    width: 9px;
     cursor: col-resize;
   }
 }
