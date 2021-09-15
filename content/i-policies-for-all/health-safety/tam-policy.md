@@ -164,25 +164,25 @@ VP for Academic Affairs & Dean of Faculty
 
 <td width="120" valign="top">
 
-Derek Doucet
+Smita Ruzicka
 
 </td>
 
 <td width="264" valign="top">
 
-Dean of Students
+VP for Student Affairs
 
 </td>
 
 <td width="152" valign="top">
 
-[ddoucet@middlebury.edu](mailto:ddoucet@middlebury.edu)<span></span>
+[sruzicka@middlebury.edu](mailto:sruzicka@middlebury.edu)
 
 </td>
 
 <td width="87" valign="top">
 
-802.443.3108
+802.443.2465
 
 </td>
 
@@ -192,27 +192,25 @@ Dean of Students
 
 <td width="120" valign="top">
 
-Karen Miller
-
-(or designee)
+Mike Thomas
 
 </td>
 
 <td width="264" valign="top">
 
-VP for Human Resources & Chief Risk Officer
+Chief Risk Officer
 
 </td>
 
 <td width="152" valign="top">
 
-<span>[karenm@middlebury.edu](mailto:karenm@middlebury.edu)</span>
+[thomas@middlebury.edu](mailto:thomas@middlebury.edu)
 
 </td>
 
 <td width="87" valign="top">
 
-802.443.5275
+802.443.5551
 
 </td>
 
@@ -262,7 +260,7 @@ Laura Carotenuto
 
 <td width="120" valign="top">
 
-Gus Jordan
+Barbara McCall
 
 </td>
 
@@ -274,13 +272,13 @@ Exec. Dir., <span>Health and Counseling Services</span>
 
 <td width="152" valign="top">
 
-<span>[jordan@middlebury.edu](mailto:jordan@middlebury.edu)</span>
+<span>[bmccall@middlebury.edu](mailto:bmccall@middlebury.edu)</span>
 
 </td>
 
 <td width="87" valign="top">
 
-802.443.5141
+802.443.5361
 
 </td>
 
@@ -346,7 +344,7 @@ Co-Chair, Associate Dean of Student Services
 
 <td width="152" valign="top">
 
-[aarrocha@miis.edu](mailto:aarrocha@miis.edu)<span></span>
+[aarrocha@miis.edu](mailto:aarrocha@miis.edu)
 
 </td>
 
@@ -374,7 +372,7 @@ Co-Chair, Executive Assistant to the Vice President
 
 <td width="152" valign="top">
 
-[blburke@miis.edu](mailto:blburke@miis.edu)<span></span>
+[blburke@miis.edu](mailto:blburke@miis.edu)
 
 </td>
 

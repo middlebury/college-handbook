@@ -12,7 +12,7 @@ Middlebury prohibits the use of violence against any individual, including datin
 
 In addition, students may not engage in behavior that prevents someone’s ability to communicate or move freely, behavior that violates someone’s privacy; entering someone’s room or office without authorization or invitation, or stalking. Stalking is defined as two or more acts that would cause a reasonable person to fear for the person’s safety or the safety of others, OR to suffer substantial emotional distress.  Stalking can include non-consensual communication in any manner; pursuing, waiting or showing up uninvited in places frequented by the person; surveillance or voyeurism, trespassing, vandalism, non-consensual touching, threats, threats to harm oneself, and use of a third party to accomplish any of these actions.
 
-Finally, behavior that violates common standards of decency, fails to comply with local laws or statutes, or demonstrates contempt for the generally accepted values of the intellectual community is prohibited.
+Finally, behavior that violates common standards of decency, fails to comply with local laws, statutes, or health policies, or demonstrates contempt for the generally accepted values of the intellectual community is prohibited.
 
 ### B. Communicating with Honesty and Integrity
 

@@ -201,7 +201,7 @@ A student may file a complaint of discrimination, harassment, including sexual h
 
 ## 10\.    The Human Relations Officer and Record Keeping
 
-The HRO may keep confidential records or reports developed under this Procedure and the actions taken in response to those reports, and use them for purposes such as to identify individuals or departments likely to benefit from training. Information about the HRO is available at several college offices: Human Relations Office, [Civil Rights and Title IX Coordinator/Compliance Officer](https://www.middlebury.edu/studentlife/doc/hro), [Vice President for Student Affairs and Dean of Students](https://www.middlebury.edu/student-life/staff/node/508884), Commons deans, Vice President for Academic Affairs and Dean of the Faculty, Public Safety, Human Resources, program directors, and the Middlebury Institute’s HROs.
+The HRO may keep confidential records or reports developed under this Procedure and the actions taken in response to those reports, and use them for purposes such as to identify individuals or departments likely to benefit from training. Information about the HRO is available at several college offices: Human Relations Office, [Civil Rights and Title IX Coordinator/Compliance Officer](https://www.middlebury.edu/studentlife/doc/hro), [Vice President for Student Affairs and Dean of Students](https://www.middlebury.edu/college/student-life/dean-students), Commons deans, Vice President for Academic Affairs and Dean of the Faculty, Public Safety, Human Resources, program directors, and the Middlebury Institute’s HROs.
 
 ## 11\.    Addendum (California Employees Only)
 
@@ -341,17 +341,13 @@ The [Civil Rights and Title IX Coordinator](https://www.middlebury.edu/studentli
 
 Middlebury’s Human Relations Officers serve as the Civil Rights and Title IX Coordinator’s designees for the purposes of overseeing investigations and adjudicating sexual harassment and related retaliation complaints under this policy and sexual misconduct and related retaliation complaints under Middlebury’s [Non-Discrimination Policy.](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy) Middlebury’s Alternate Human Relations Officers serve in a similar capacity as the Title IX Coordinator’s designee(s) when the Human Relations Officers are unavailable or have a conflict of interest.
 
-**Civil Rights & Title IX Coordinator**
+**Interim Civil Rights & Title IX Coordinator**
 
-Marti J. McCaleb  
-802.443.2147  
-[mmccaleb@middlebury.edu](mailto:efecther@middlebury.edu)
+Miguel Fernandez  
+802.443.5792  
+[fernande@middlebury.edu](mailto:fernande@middlebury.edu)
 
-**Human Relations Officers**
-
-Eric López, J.D.  
-802.443.3324  
-[el@middlebury.edu](mailto:efecther@middlebury.edu)
+**Human Relations Officer**
 
 Thaddeus Watulak, J.D.  
 802.443.5741  
@@ -359,7 +355,7 @@ Thaddeus Watulak, J.D.
 
 ---
 
-<a title="" href="#_ftnref1" name="_ftn1" id="_ftn1">[1]</a> Under Title IX, third parties are protected from sexual harassment arising out of Middlebury’s programs or activities. Thus, any third party who participates in any Middlebury College program or activity may report a complaint of sexual harassment under this policy (see Section B.2., above) or a complaint of sexual misconduct under [Middlebury’s Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct, and Stalking.](https://www.middlebury.edu/about/handbook/misc/October) Also, Middlebury will take appropriate action, to the extent practicable, in response to a report or complaint of sexual harassment and/or sexual misconduct by a student, faculty member, or staff member against a third party.
+<a title="" href="#_ftnref1" name="_ftn1" id="_ftn1">[1]</a> Everyone is entitled to report complaints of sexual harassment and sexual misconduct. Complaints should be made under the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy).
 
 <a title="" href="#_ftnref2" name="_ftn2" id="_ftn2">[2]</a> Disclosure of the sanction imposed on the respondent will be permitted in sexual harassment cases when the sanction directly relates to the complainant (e.g., No Contact Orders, building restrictions, classroom changes or where the respondent is prohibited from attending Middlebury for a period of time)
 

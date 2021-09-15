@@ -10,7 +10,7 @@ a. The Curriculum Committee is responsible for the general administration of the
 
 b. Each course proposal should contain the following items: title, description, class format, prerequisites, maximum effective size, and budgetary requests (if any).  Summer Study courses should include recommendations concerning academic distribution and cultures and civilizations distribution requirements.    
 
-c. The same grading system applies to all students taking a particular course for credit. Summer Study courses are graded on an A-F basis unless special arrangements are made through the Curriculum Committee (e.g., occasional independent projects or other courses where the instructor decides that the special nature of the course is better suited to honors/pass/fail grading).  All Summer Study course work must be completed by the end of the Summer Study period. Grades of incomplete will be submitted according to existing procedures except that in the Commons dean’s absence, the student and faculty member will consult directly with the dean of students or the dean of students’ designee.  Incomplete work must be satisfactorily completed by the last day of classes of the following fall term.
+c. The same grading system applies to all students taking a particular course for credit. Summer Study courses are graded on an A-F basis unless special arrangements are made through the Curriculum Committee (e.g., occasional independent projects or other courses where the instructor decides that the special nature of the course is better suited to honors/pass/fail grading).  All Summer Study course work must be completed by the end of the Summer Study period. Grades of incomplete will be submitted according to existing procedures except that in the absence of the Student Life Dean, the student and faculty member will consult directly with the dean of students or the dean of students’ designee.  Incomplete work must be satisfactorily completed by the last day of classes of the following fall term.
 
 d. Auditing of Summer Study courses is not permitted.
 
@@ -32,4 +32,4 @@ iii. Changes in course registration may be made only during the first three days
 
 iv. A student who misses the first class meeting of a Summer Study course must be <span class="fineprint"></span>excused by the faculty member or it will be assumed that the student has dropped the course.
 
-_rev. 7/28/17_
+_rev. 6/24/21_

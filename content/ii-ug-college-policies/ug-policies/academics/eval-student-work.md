@@ -50,11 +50,11 @@ Early in the semester, preferably on the syllabus, instructors should inform the
 
 **5\. Rescheduling of Examinations, Excused Absences, and Incompletes**
 
-**a.** The Commons deans are charged with the responsibility of extending deadlines for papers and projects and determining that pre-announced examinations be rescheduled if warranted by compelling personal circumstances, illnesses, or injuries. In such cases, the dean will inform the instructor in writing. In response to a student's request, an instructor may reschedule a student's examination with the exception of a final examination, but he or she is not obliged to do so unless the Commons dean so decides.
+**a.** The Student Life Deans are charged with the responsibility of extending deadlines for papers and projects and determining that pre-announced examinations be rescheduled if warranted by compelling personal circumstances, illnesses, or injuries. In such cases, the dean will inform the instructor in writing. In response to a student's request, an instructor may reschedule a student's examination with the exception of a final examination, but he or she is not obliged to do so unless the Student Life Dean so decides.
 
 **b.** An unexcused absence from a pre-announced examination will result in a grade of F for that unit of work.
 
-**c.** The Commons dean may alter a student's final examination schedule (1) if the student has three examinations scheduled in 24 hours; (2) if there is a scheduling conflict (two exams at the same time); or (3) if there are emergencies or compelling circumstances. Final examination schedules will not be altered to accommodate student travel plans. Faculty members may not alter a student's final examination schedule. Students who miss a scheduled final examination may be given a grade of incomplete only with the written permission of the Commons dean. _(See "Grades and Records" section of this chapter)_
+**c.** The Student Life Dean may alter a student's final examination schedule (1) if the student has three examinations scheduled in 24 hours; (2) if there is a scheduling conflict (two exams at the same time); or (3) if there are emergencies or compelling circumstances. Final examination schedules will not be altered to accommodate student travel plans. Faculty members may not alter a student's final examination schedule. Students who miss a scheduled final examination may be given a grade of incomplete only with the written permission of the Student Life Dean. _(See "Grades and Records" section of this chapter)_
 
 **6\. Final Examination Period**
 
@@ -62,4 +62,4 @@ For fall and spring semesters, the final examination period normally begins two
 
 No activities, athletic events (games or practices), course registration, additional or makeup classes will be scheduled for this period of time. All class activities must be concluded on the last day of classes. A thesis defense may be scheduled during the final examination period.
 
-_rev. 12/12/18_
+_rev. 6/24/21_

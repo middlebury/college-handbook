@@ -37,16 +37,16 @@ Conduct that occurred prior to August 14, 2020 will be investigated and adjudica
 
 ## II. Reporting Title IX Sexual Harassment
 
-**In order to fulfill its commitment to fostering a safe and inclusive learning environment, Middlebury values reporting of all types of sexual harassment, which includes sexual assault.** Any person who believes that they have been subject to Title IX Sexual Harassment, or who has reason to believe that Title IX Sexual Harassment has occurred or is occurring, should report this information to the immediate attention of the Civil Rights and Title IX (“CRTIX”) Coordinator.  The CRTIX Coordinator is:
+**In order to fulfill its commitment to fostering a safe and inclusive learning environment, Middlebury values reporting of all types of sexual harassment, which includes sexual assault.** Any person who believes that they have been subject to Title IX Sexual Harassment, or who has reason to believe that Title IX Sexual Harassment has occurred or is occurring, should report this information to the immediate attention of the Civil Rights and Title IX (“CRTIX”) Coordinator.  The Interim CRTIX Coordinator is:
 
-Marti McCaleb  
-Civil Rights and Title IX Coordinator  
+Miguel Fernandez  
+Interim Civil Rights and Title IX Coordinator  
 Middlebury College  
-213 Service Building  
+219 Service Building  
 84 S Service Rd  
 Middlebury, VT 05753  
-(802) 443-2147  
-[mmccaleb@middlebury.edu](mailto:mmccaleb@middlebury.edu)
+(802) 443-5792  
+[fernande@middlebury.edu](mailto:fernande@middlebury.edu)
 
 A report or complaint may be made verbally (in person, by phone, or videoconferencing) during applicable business hours, or in writing (via mail or email) 24 hours per day, 7 days per week. You may also report using the online reporting tool at go/report. Please note that while a report may be made anonymously, this will limit Middlebury’s ability to take action to provide supportive measures or to address the situation.
 
