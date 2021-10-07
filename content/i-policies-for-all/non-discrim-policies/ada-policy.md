@@ -1,9 +1,8 @@
 ---
-slug: "/pages/i-policies-for-all/non-discrim-policies/ada-policy"
-date: "2021-05-01"
-title: "B.1.c. Americans with Disabilities Act Policy"
+slug: /pages/i-policies-for-all/non-discrim-policies/ada-policy
+date: 2021-05-01
+title: B.1.c. Americans with Disabilities Act Policy
 ---
-
 **Table of Contents**
 
 I. INTRODUCTION
@@ -58,7 +57,7 @@ IV. [ASSISTANCE FOR STUDENTS WITH TEMPORARY IMPAIRMENTS](#assistance)
 
 <a name="position" id="position"></a>**A. Position Statement**
 
-Middlebury is committed to ensuring equal access to its programs and activities for qualified individuals, including individuals with disabilities.  Therefore, Middlebury supports the standards set forth in Section 504 of the Rehabilitation Act of 1973 and the Americans with Disabilities Act (ADA) of 1990, as amended, and similar state laws (hereinafter "applicable law" or "law[s]"), which are designed to eliminate discrimination against qualified individuals with disabilities. Disabilities may include physical or mental impairments which substantially limit one or more of a person's major life activities, and which necessitate modifications to Middlebury’s facilities, programs, or services. Middlebury is committed to making reasonable accommodations for qualifying students, faculty, and employees with disabilities as required by applicable laws. Middlebury is committed to making the campus and its facilities accessible as required by applicable laws. Middlebury cannot make accommodations that are unreasonable, unduly burdensome or that fundamentally alter the nature of its programs or services.
+Middlebury is committed to ensuring equal access to its programs and activities for qualified individuals, including individuals with disabilities.  Therefore, Middlebury supports the standards set forth in Section 504 of the Rehabilitation Act of 1973 and the Americans with Disabilities Act (ADA) of 1990, as amended, and similar state laws (hereinafter "applicable law" or "law\[s]"), which are designed to eliminate discrimination against qualified individuals with disabilities. Disabilities may include physical or mental impairments which substantially limit one or more of a person's major life activities, and which necessitate modifications to Middlebury’s facilities, programs, or services. Middlebury is committed to making reasonable accommodations for qualifying students, faculty, and employees with disabilities as required by applicable laws. Middlebury is committed to making the campus and its facilities accessible as required by applicable laws. Middlebury cannot make accommodations that are unreasonable, unduly burdensome or that fundamentally alter the nature of its programs or services.
 
 <a name="nature" id="nature"></a>**B. Nature and Scope of Policy**
 
@@ -78,7 +77,7 @@ The ADA Coordinator(s), in consultation with appropriate campus personnel, coord
 
 <a name="section" id="section"></a>**E. Section 504 Coordinator**
 
-Middlebury designates the [Civil Rights and Title IX Coordinator](https://www.middlebury.edu/student-life/health-wellness-education-and-safety/campus-policies/human-relations-officer) to coordinate its efforts to comply with and carry out its responsibilities under Section 504 of the Rehabilitation Act of 1973\. Section 504, where applicable, generally prohibits discrimination in educational programs and employment, against qualified individuals with disabilities, on the basis of disability. See also Middlebury’s [Nondiscrimination Statement](https://www.middlebury.edu/about/handbook/general/nondiscrimination).
+Middlebury designates the [Civil Rights and Title IX Coordinator](https://www.middlebury.edu/student-life/health-wellness-education-and-safety/campus-policies/human-relations-officer) to coordinate its efforts to comply with and carry out its responsibilities under Section 504 of the Rehabilitation Act of 1973. Section 504, where applicable, generally prohibits discrimination in educational programs and employment, against qualified individuals with disabilities, on the basis of disability. See also Middlebury’s [Nondiscrimination Statement](https://www.middlebury.edu/about/handbook/general/nondiscrimination).
 
 <a name="accom-miis" id="accom-miis"></a>**F. Accommodations at the Middlebury Institute of International Studies at Monterey**
 
@@ -104,12 +103,12 @@ Middlebury offices conducting core academic and business activities are strongly
 
 Middlebury has adopted the following two-stage process for making reasonable accommodations to promote the accessibility of its courses, programs, goods, services, facilities, privileges, and advantages for students with qualifying disabilities:
 
-_1\. Certification_  
+*1. Certification*\
 a.  Students are asked to complete an Accommodation Request Form on the [the DRC website](https://www.middlebury.edu/student-life/community-living/diversity-inclusivity/american-disability-act). The form requires, among other things:
 
-_i._ a description of the disability, including the manner in which the disability limits major life activities relevant to a student's participation in Middlebury's programs;
+*i.* a description of the disability, including the manner in which the disability limits major life activities relevant to a student's participation in Middlebury's programs;
 
-_ii._ a description of the specific accommodations requested.
+*ii.* a description of the specific accommodations requested.
 
 b. The form must be accompanied by documentation from an objective professional qualified to diagnose the student’s disability. Documentation should confirm the diagnosis and verify the manner in which the disability limits major life activities relevant to a student's participation in Middlebury's programs (see Section D: Documentation).
 
@@ -117,15 +116,15 @@ c. The Accommodation Request Form and required documentation should be submitted
 
 d. An ADA Coordinator reviews the request for accommodation, and the accompanying documentation and will make one of the following determinations:
 
-_i._ certifies the student as a person with a disability under the ADA; or
+*i.* certifies the student as a person with a disability under the ADA; or
 
-_ii._ finds that there is insufficient evidence to certify the student's eligibility, and
+*ii.* finds that there is insufficient evidence to certify the student's eligibility, and
 
 (a) denies the student's request for certification and informs the student of the available channels of appeal; or
 
 (b) requests additional information.
 
-_2\. Accommodation_
+*2. Accommodation*
 
 Once a student has been certified as a person with a disability, the ADA Coordinator:
 
@@ -151,8 +150,8 @@ Providing proper accommodations requires timely student input. Immediate accommo
 
 The ADA requires that:
 
-- all otherwise qualified students are provided with equal access to courses, programs, goods, services, facilities, privileges and advantages and;
-- the impact of the disability on the student's learning and/or academic performance is mitigated without fundamentally altering the nature of the courses, programs, goods, services, facilities, privileges, and advantages.
+* all otherwise qualified students are provided with equal access to courses, programs, goods, services, facilities, privileges and advantages and;
+* the impact of the disability on the student's learning and/or academic performance is mitigated without fundamentally altering the nature of the courses, programs, goods, services, facilities, privileges, and advantages.
 
 Accommodations may involve modifications of the ways in which material is presented or learning is evaluated; for examples of accommodations, please visit the [DRC website](https://www.middlebury.edu/student-life/community-living/diversity-inclusivity/american-disability-act).  However, accommodations which fundamentally alter the nature of the courses, programs, goods, services, facilities, privileges, and advantages shall not be required of Middlebury faculty.
 
@@ -170,13 +169,13 @@ Middlebury requires appropriately current documentation of any or all disabilit
 
 Generally, documentation verifying the disability must:
 
-1\. be prepared by an objective professional qualified in the diagnoses of such conditions;
+1. be prepared by an objective professional qualified in the diagnoses of such conditions;
 
-2\. include information regarding the testing procedures followed, the instruments used to assess the disability, the test results, and a written interpretation of these results as they pertain to an educational environment and/or participation in the Middlebury's programs;
+2. include information regarding the testing procedures followed, the instruments used to assess the disability, the test results, and a written interpretation of these results as they pertain to an educational environment and/or participation in the Middlebury's programs;
 
-3\. reflect the individual's present level of functioning in the areas related to the particular accommodations being sought;
+3. reflect the individual's present level of functioning in the areas related to the particular accommodations being sought;
 
-4\. be appropriately recent.
+4. be appropriately recent.
 
 The ADA Coordinator determines whether the documentation submitted is adequate to certify the student as a person with a disability under the ADA, supports the requested accommodation, and whether the individual preparing the documentation is qualified to make the diagnosis at issue.
 
@@ -254,6 +253,6 @@ At the discretion of the ADA Coordinator, a student may be denied or granted pro
 
 ## <a name="assistance" id="assistance"></a>IV. ASSISTANCE FOR STUDENTS WITH TEMPORARY IMPAIRMENTS
 
-In keeping with Middlebury’s commitment to supporting students, the Center for Disability Resources (DRC) may be able to arrange limited assistance for temporarily impaired students at the discretion of the <span>DRC</span> and other Middlebury offices or programs. It must be understood that the <span>DRC</span> voluntarily providing or arranging such help does not mean the temporarily injured or impaired students qualify as individuals with a disability under the law or this policy. If you have questions about what assistance Middlebury may be able to provide in the event of a temporary impairment, contact the <span>DRC</span>.
+In keeping with Middlebury’s commitment to supporting students, the Center for Disability Resources (DRC) may be able to arrange limited assistance for temporarily impaired students at the discretion of the <span>DRC</span> and other Middlebury offices or programs. It must be understood that the <span>DRC</span> voluntarily providing or arranging such help does not mean the temporarily injured or impaired students qualify as individuals with a disability under the law or this policy. If you have questions about what assistance Middlebury may be able to provide in the event of a temporary impairment, contact the <span>DRC</span>. test
 
-_Updated on September 9, 2019._
+*Updated on September 9, 2019.*
