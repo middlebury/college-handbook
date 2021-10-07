@@ -7,4 +7,4 @@ The MiddCard is a personal identification card with a photograph, issued to stud
 
 ![Student looking out at a sunset in Middlebury](https://sandcat.middlebury.edu/comm/emailimages/admissions/2021/yield/why-midd-video-th.jpg)
 
-The photos as well as other information related to an individual MiddCard will usually be considered personally identifiable information and protected as such. Information about IT systems and controls is available within the [ITS policies](https://www.middlebury.edu/office/information-technology-services/policies). test
+The photos as well as other information related to an individual MiddCard will usually be considered personally identifiable information and protected as such. Information about IT systems and controls is available within the [ITS policies](https://www.middlebury.edu/office/information-technology-services/policies).
