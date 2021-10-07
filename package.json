@@ -9,14 +9,13 @@
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
-    "build": "cross-env GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --prefix-paths",
+    "build": "gatsby build --prefix-paths",
     "deploy": "npm run build && gh-pages -d public -b site",
     "serve": "gatsby serve --prefix-paths",
     "clean": "gatsby clean"
   },
   "dependencies": {
     "bootstrap": "4.0.0-beta",
-    "cross-env": "^7.0.3",
     "gatsby": "^3.3.1",
     "gatsby-plugin-local-search": "^2.0.1",
     "gatsby-plugin-netlify-cms": "^5.3.0",
