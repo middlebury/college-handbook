@@ -4,10 +4,7 @@ module.exports = {
     title: `Middlebury Handbook`,
     description: `Middlebury Handbook`,
   },
-  flags: {
-    PRESERVE_FILE_DOWNLOAD_CACHE: true,
-    PRESERVE_WEBPACK_CACHE: true
-  },
+  
   plugins: [
     "gatsby-plugin-remove-fingerprints",
     "gatsby-plugin-netlify-cms",
