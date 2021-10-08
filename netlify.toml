@@ -1,6 +1,3 @@
-[build]
-  publish = "public"
-
 [[redirects]]
   from = "/handbook/*"
   to = "https://college-handbook.netlify.app/:splat"
