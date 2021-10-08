@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iii-policies-for-the-language-schools/b-academic-policies/b-4-registration"
-date: "2021-05-01"
-title: "B.4 Registration"
+slug: /pages/iii-policies-for-the-language-schools/b-academic-policies/b-4-registration
+date: 2021-05-01
+title: B.4 Registration
 ---
-
 Graduate students in the Arabic, French, Italian, Russian and Spanish Schools register for courses in BannerWeb and receive an email with instructions on registration procedures. All other Language Schools and programs hold course registration on site after arrival. Once students have selected courses with their advisors, registration information is sent directly to the Registrar’s Office. Students’ courses will be listed on BannerWeb on the first day of class. If an error in scheduling occurs, students need to check with the Assistant Director of their Language School.
 
 **ADD/DROP Procedures**
@@ -20,7 +19,7 @@ Arabic, Chinese, Japanese, Korean, and Russian 8-week sessions: July 6
 
 All 3 and 4-week sessions: end of the third day of class
 
-\*_ Last date to drop without grade penalty for all programs is July 23 _
+\* *Last date to drop without grade penalty for all programs is July 23* 
 
 **Credits and Credit Load**
 
