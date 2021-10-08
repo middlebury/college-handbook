@@ -1,16 +1,15 @@
 ---
-slug: "/pages/iii-policies-for-the-language-schools/b-academic-policies/b-4-registration"
-date: "2021-05-01"
-title: "B.4 Registration"
+slug: /pages/iii-policies-for-the-language-schools/b-academic-policies/b-4-registration
+date: 2021-05-01
+title: B.4 Registration
 ---
-
 Graduate students in the Arabic, French, Italian, Russian and Spanish Schools register for courses in BannerWeb and receive an email with instructions on registration procedures. All other Language Schools and programs hold course registration on site after arrival. Once students have selected courses with their advisors, registration information is sent directly to the Registrar’s Office. Students’ courses will be listed on BannerWeb on the first day of class. If an error in scheduling occurs, students need to check with the Assistant Director of their Language School.
 
 **ADD/DROP Procedures**
 
 Add/Drop cards are available in each School office. Students must obtain the signatures of the instructors involved in the added and dropped courses, as well as signature of the director or associate director of the School. Students cannot add new courses after the Add/Drop deadline. Courses dropped before the Add/Drop deadline do not appear on transcripts. Courses dropped after the posted deadlines, but on or before July 23 will receive a grade of WD on the transcript. Courses dropped after July 23 receive a grade of WDF on the transcript. Notifying an instructor of non-attendance does not constitute official withdrawal from a course.
 
-<span style="text-decoration:underline">Add/Drop Deadlines:</span>
+Add/Drop Deadlines:
 
 Arabic, Chinese, French, German, Hebrew, Italian, Japanese, Russian, and Spanish 6-week sessions: July 2
 
@@ -20,7 +19,7 @@ Arabic, Chinese, Japanese, Korean, and Russian 8-week sessions: July 6
 
 All 3 and 4-week sessions: end of the third day of class
 
-\*_ Last date to drop without grade penalty for all programs is July 23 _
+\* *Last date to drop without grade penalty for all programs is July 23* 
 
 **Credits and Credit Load**
 
