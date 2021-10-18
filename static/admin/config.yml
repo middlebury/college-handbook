@@ -11,7 +11,7 @@ publish_mode: editorial_workflow
 
 collections:
   - name: "middlebury-wide"
-    label: "Middlebury Wide Policies"
+    label: "I. Middlebury Wide Policies"
     folder: "content/i-policies-for-all"
     path: "{{slug}}/"
     create: true
@@ -28,11 +28,10 @@ collections:
           label: "Text",
           name: "body",
           widget: "markdown",
-          editor_components: [],
           required: false,
         }
   - name: "undergraduate-college"
-    label: "Policies for the Undergraduate College"
+    label: "II. Policies for the Undergraduate College"
     folder: "content/ii-ug-college-policies"
     path: "{{slug}}/{{slug}}/{{slug}}/"
     create: true
@@ -53,7 +52,7 @@ collections:
           required: false,
         }
   - name: "language-schools"
-    label: "Policies for the Language Schools"
+    label: "III. Policies for the Language Schools"
     folder: "content/iii-policies-for-the-language-schools"
     path: "{{slug}}/"
     create: true
@@ -74,7 +73,7 @@ collections:
           required: false,
         }
   - name: "miis-policies"
-    label: "Policies for the Institute of International Studies"
+    label: "IV. Policies for the Institute of International Studies"
     folder: "content/iv-policies-for-the-institute"
     path: "{{slug}}/{{slug}}/"
     create: true
