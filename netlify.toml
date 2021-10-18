@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/handbook/*"
-  to = "https://college-handbook.netlify.app/:splat"
+  to = "/:splat"
   status = 200
