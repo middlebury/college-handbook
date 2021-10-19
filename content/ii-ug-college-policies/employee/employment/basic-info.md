@@ -57,11 +57,17 @@ Middlebury College classifies faculty and staff members according to the chart b
 
 
 
+
+
 **<span style="text-decoration:underline">Classification</span>**<span style="text-decoration:underline"></span>
 
 
 
+
+
 </td><td>
+
+
 
 
 
@@ -69,7 +75,11 @@ Middlebury College classifies faculty and staff members according to the chart b
 
 
 
+
+
 </td><td>
+
+
 
 
 
@@ -77,7 +87,11 @@ Middlebury College classifies faculty and staff members according to the chart b
 
 
 
+
+
 </td><td>
+
+
 
 
 
@@ -85,11 +99,15 @@ Middlebury College classifies faculty and staff members according to the chart b
 
 
 
+
+
 </td>
 
 </tr><tr>
 
 <td>
+
+
 
 
 
@@ -97,7 +115,11 @@ Full-Time
 
 
 
+
+
 </td><td>
+
+
 
 
 
@@ -105,7 +127,11 @@ Full-Time
 
 
 
+
+
 </td><td>
+
+
 
 
 
@@ -113,11 +139,17 @@ Full-Time
 
 
 
+
+
 </td><td>
 
 
 
+
+
 Yes
+
+
 
 
 
@@ -126,6 +158,8 @@ Yes
 </tr><tr>
 
 <td>
+
+
 
 
 
@@ -133,7 +167,11 @@ Part-Time - Benefits Eligible
 
 
 
+
+
 </td><td>
+
+
 
 
 
@@ -141,7 +179,11 @@ Part-Time - Benefits Eligible
 
 
 
+
+
 </td><td>
+
+
 
 
 
@@ -149,11 +191,17 @@ Part-Time - Benefits Eligible
 
 
 
+
+
 </td><td>
 
 
 
+
+
 Yes
+
+
 
 
 
@@ -165,11 +213,17 @@ Yes
 
 
 
+
+
 Part-Time - Not Benefits Eligible\*\*
 
 
 
+
+
 </td><td>
+
+
 
 
 
@@ -177,7 +231,11 @@ Any
 
 
 
+
+
 </td><td>
+
+
 
 
 
@@ -185,11 +243,17 @@ Any
 
 
 
+
+
 </td><td>
 
 
 
+
+
 No
+
+
 
 
 
@@ -203,13 +267,15 @@ No
 
 **Employee Group Classifications - STAFF**
 
-<table border="2">
+<table>
 
 <tbody>
 
 <tr>
 
-<td style="border:1px solid #000000" valign="bottom">
+<td>
+
+
 
 
 
@@ -217,7 +283,11 @@ No
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -225,7 +295,11 @@ No
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -233,7 +307,11 @@ No
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -241,7 +319,11 @@ No
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -249,11 +331,15 @@ No
 
 
 
+
+
 </td>
 
 </tr><tr>
 
-<td style="border:1px solid #000000" valign="bottom">
+<td>
+
+
 
 
 
@@ -263,7 +349,11 @@ Full-Time
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -271,7 +361,11 @@ Full-Time
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -279,7 +373,11 @@ Full-Time
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -287,7 +385,11 @@ on-going
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -295,11 +397,15 @@ Yes
 
 
 
+
+
 </td>
 
 </tr><tr>
 
-<td style="border:1px solid #000000" valign="bottom">
+<td>
+
+
 
 
 
@@ -307,7 +413,11 @@ Part-Time - Benefits Eligible
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -315,7 +425,11 @@ Part-Time - Benefits Eligible
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -323,7 +437,11 @@ Part-Time - Benefits Eligible
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -331,7 +449,11 @@ on-going
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -339,11 +461,15 @@ Yes
 
 
 
+
+
 </td>
 
 </tr><tr>
 
-<td style="border:1px solid #000000" valign="bottom">
+<td>
+
+
 
 
 
@@ -351,7 +477,11 @@ Time-Limited
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -359,7 +489,11 @@ Time-Limited
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -367,7 +501,11 @@ Time-Limited
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -375,7 +513,11 @@ Time-Limited
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -383,11 +525,15 @@ Yes
 
 
 
+
+
 </td>
 
 </tr><tr>
 
-<td style="border:1px solid #000000" valign="bottom">
+<td>
+
+
 
 
 
@@ -397,7 +543,11 @@ Part-Time - Not Benefits Eligible
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -405,7 +555,11 @@ Part-Time - Not Benefits Eligible
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -413,7 +567,11 @@ Part-Time - Not Benefits Eligible
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -421,7 +579,11 @@ on-going
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
@@ -429,11 +591,15 @@ No
 
 
 
+
+
 </td>
 
 </tr><tr>
 
-<td style="border:1px solid #000000" valign="bottom">
+<td>
+
+
 
 
 
@@ -441,15 +607,11 @@ On-Call
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
 
 
-
-n/a
-
+</td><td>
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
 
 
 
@@ -457,7 +619,23 @@ n/a
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
+
+
+
+n/a
+
+
+
+
+
+</td><td>
+
+
 
 
 
@@ -465,11 +643,17 @@ on-going
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
 No
+
+
 
 
 
@@ -477,7 +661,9 @@ No
 
 </tr><tr>
 
-<td style="border:1px solid #000000" valign="bottom">
+<td>
+
+
 
 
 
@@ -485,15 +671,11 @@ Temporary/Seasonal
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
 
 
-
-n/a
-
+</td><td>
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
 
 
 
@@ -501,7 +683,23 @@ n/a
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
+
+
+
+n/a
+
+
+
+
+
+</td><td>
+
+
 
 
 
@@ -509,11 +707,17 @@ n/a
 
 
 
-</td><td style="border:1px solid #000000" valign="bottom">
+
+
+</td><td>
+
+
 
 
 
 No
+
+
 
 
 
