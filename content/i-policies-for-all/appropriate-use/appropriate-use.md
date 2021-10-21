@@ -1,7 +1,9 @@
 ---
-slug: "/pages/i-policies-for-all/appropriate-use"
-date: "2021-05-01"
-title: "D. Appropriate Use of Middlebury Resources and Assets"
+slug: /pages/i-policies-for-all/appropriate-use
+date: 2021-05-01
+title: D. Appropriate Use of Middlebury Resources and Assets
+content: <p>Hello World</p><figure
+  class="table"><table><tbody><tr><td>One</td><td>Two</td><td>Three</td></tr><tr><td>Four</td><td>Five</td><td>Six</td></tr><tr><td>Seven</td><td>Eight</td><td>Nine</td></tr></tbody></table></figure>
 ---
 
 The subpages in this section apply to all members of the Middlebury community in all locations.
