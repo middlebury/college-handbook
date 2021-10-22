@@ -2,8 +2,7 @@
 slug: /pages/i-policies-for-all/appropriate-use
 date: 2021-05-01
 title: D. Appropriate Use of Middlebury Resources and Assets
-content: <p>Hello from the first editor</p><figure
-  class="table"><table><tbody><tr><td>1</td><td>21</td><td>12</td></tr><tr><td>1</td><td>11</td><td>1</td></tr><tr><td>11</td><td>11</td><td>1</td></tr></tbody></table></figure>
+content: <p>Hello from the first editorss</p>
 ---
 
 The subpages in this section apply to all members of the Middlebury community in all locations.
