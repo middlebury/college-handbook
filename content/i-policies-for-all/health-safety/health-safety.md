@@ -3,7 +3,7 @@ slug: /pages/i-policies-for-all/health-safety
 date: 2021-05-01
 title: C. Health and Safety Policies
 ---
-**Introduction**
+## **Introduction**
 
 Middlebury is committed to maintaining a safe environment for the people who live, learn and work on its campuses and to enable its educational mission.  Policies in this section describe the basic commitments all members of the Middlebury community make to each other, to ensure our campuses are safe places for teaching, learning, living and working.  While procedures and specific implementation may vary across campuses and programs, we all have a shared interest in an environment that supports teaching and learning that enables us to engage with the world.
 
