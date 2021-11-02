@@ -4,7 +4,7 @@ date: "2021-05-01"
 title: "D.5. Information Technology"
 ---
 
-Information technology is vital to the mission and function of Middlebury; our networks and central computing facilities are common resources upon which the whole community depends. Middlebury establishes policies governing its information technology equipment, networks, services, and systems that bind all students, faculty, staff as well as any other users of IT systems or services.  The policies described briefly in this overview are those most likely to impact most members of the Middlebury community; more detailed information about these and other policies can be found at the [ITS website](https://www.middlebury.edu/office/information-technology-services/policies)[](///C:/Users/mcdurfee/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/R7Z1LC5T/Draft%20Middlebury%20assets%20handbook%20section%209.6.17%20CLEAN.docx#_msocom_1).
+Information technology is vital to the mission and function of Middlebury; our networks and central computing facilities are common resources upon which the whole community depends. Middlebury establishes policies governing its information technology equipment, networks, services, and systems that bind all students, faculty, staff as well as any other users of IT systems or services.  The policies described briefly in this overview are those most likely to impact most members of the Middlebury community; more detailed information about these and other policies can be found at the [ITS website](https://www.middlebury.edu/office/information-technology-services/policies).
 
 ### **1.  Responsible Use of Computing and Network Services and Facilities**
 
