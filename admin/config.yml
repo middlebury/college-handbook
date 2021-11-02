@@ -21,13 +21,14 @@ collections:
           name: "title",
           default: "document name",
           widget: "string",
-          hint: "Title field is for naming emails within Netlify. It is not displayed in the email.",
           required: false,
         }
       - {
           label: "Text",
           name: "body",
           widget: "markdown",
+          buttons: ["heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "bold", "italic", "link", "bulleted-list", "numbered-list"],
+          editor_components: ["table"],
           required: false,
         }
   - name: "undergraduate-college"
@@ -41,14 +42,14 @@ collections:
           name: "title",
           default: "document name",
           widget: "string",
-          hint: "Title field is for naming emails within Netlify. It is not displayed in the email.",
           required: false,
         }
       - {
           label: "Text",
           name: "body",
           widget: "markdown",
-          editor_components: [],
+          buttons: ["heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "bold", "italic", "link", "bulleted-list", "numbered-list"],
+          editor_components: ["table"],
           required: false,
         }
   - name: "language-schools"
@@ -62,7 +63,6 @@ collections:
           name: "title",
           default: "document name",
           widget: "string",
-          hint: "Title field is for naming emails within Netlify. It is not displayed in the email.",
           required: false,
         }
       - {
@@ -83,14 +83,14 @@ collections:
           name: "title",
           default: "document name",
           widget: "string",
-          hint: "Title field is for naming emails within Netlify. It is not displayed in the email.",
           required: false,
         }
       - {
           label: "Text",
           name: "body",
           widget: "markdown",
-          editor_components: [],
+          buttons: ["heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "bold", "italic", "link", "bulleted-list", "numbered-list"],
+          editor_components: ["table"],
           required: false,
         }
   - name: "previous-handbooks"
@@ -104,13 +104,13 @@ collections:
           name: "title",
           default: "document name",
           widget: "string",
-          hint: "Title field is for naming emails within Netlify. It is not displayed in the email.",
           required: false,
         }
       - {
           label: "Text",
           name: "body",
           widget: "markdown",
-          editor_components: [],
+          buttons: ["heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "bold", "italic", "link", "bulleted-list", "numbered-list"],
+          editor_components: ["table"],
           required: false,
         }
