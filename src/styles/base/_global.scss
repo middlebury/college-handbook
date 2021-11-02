@@ -147,6 +147,8 @@ h4, h5, h6 {
 
 table {
   margin-bottom: 1em;
+  border-collapse: collapse;
+  width: 100%;
 }
 
 .print-section__font-size td {
