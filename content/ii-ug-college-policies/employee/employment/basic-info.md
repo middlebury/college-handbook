@@ -3,10 +3,6 @@ slug: /pages/ii-ug-college-policies/employee/employment/basic-info
 date: 2021-05-01
 title: 2.3 Basic Information about Employment at Middlebury College
 ---
-<div class="field-items">
-
-<div class="field-item even">
-
 **Hiring**
 
 Human Resources confirms by letter all appointments as well as all promotions, job transfers, and changes in employee status. Before being placed on the payroll, new employees must complete the necessary federal forms at the Human Resources office.
@@ -47,111 +43,121 @@ Middlebury College classifies faculty and staff members according to the chart b
 
 **Employee Group Classifications - FACULTY**
 
-<table border="2">
+<table>
 
 <tbody>
 
 <tr>
 
-<td style="border:1px solid #000000" valign="bottom">
+<td>
 
 **<span style="text-decoration:underline">Classification</span>**<span style="text-decoration:underline"></span>
 
 </td>
-<td style="border:1px solid #000000" valign="bottom">
+
+<td>
 
 **<span style="text-decoration:underline">Appointment Duration</span>**<span style="text-decoration:underline"></span>
 
 </td>
-<td style="border:1px solid #000000" valign="bottom">
+
+<td>
 
 **<span style="text-decoration:underline">FTE</span>**<span style="text-decoration:underline"></span>
 
 </td>
-<td style="border:1px solid #000000" valign="bottom">
+
+<td>
 
 **<span style="text-decoration:underline">Benefits Eligibility</span>**<span style="text-decoration:underline"></span>
 
 </td>
 
-
 </tr>
+
 <tr>
 
-<td style="border:1px solid #000000" valign="bottom">
+<td>
 
 Full-Time
 
 </td>
-<td style="border:1px solid #000000" valign="bottom">
+
+<td>
 
 <span style="text-decoration:underline">></span>1 Academic Year
 
 </td>
-<td style="border:1px solid #000000" valign="bottom">
+
+<td>
 
 .8-1
 
 </td>
-<td style="border:1px solid #000000" valign="bottom">
+
+<td>
 
 Yes
 
 </td>
 
-
 </tr>
+
 <tr>
 
-<td style="border:1px solid #000000" valign="bottom">
+<td>
 
 Part-Time - Benefits Eligible
 
 </td>
-<td style="border:1px solid #000000" valign="bottom">
+
+<td>
 
 <span style="text-decoration:underline">></span>1 Academic Year
 
 </td>
-<td style="border:1px solid #000000" valign="bottom">
+
+<td>
 
 .5-.79
 
 </td>
-<td style="border:1px solid #000000" valign="bottom">
+
+<td>
 
 Yes
 
 </td>
 
-
 </tr>
+
 <tr>
 
-<td style="border:1px solid #000000" valign="bottom">
+<td>
 
 Part-Time - Not Benefits Eligible\*\*
 
 </td>
-<td style="border:1px solid #000000" valign="bottom">
+
+<td>
 
 Any
 
 </td>
-<td style="border:1px solid #000000" valign="bottom">
+
+<td>
 
 <.5
 
 </td>
-<td style="border:1px solid #000000" valign="bottom">
+
+<td>
 
 No
 
 </td>
 
-
 </tr>
-
 
 </tbody>
 
@@ -170,29 +176,33 @@ No
 **<span style="text-decoration:underline">Classification</span>**<span style="text-decoration:underline"></span>
 
 </td>
+
 <td>
 
 **<span style="text-decoration:underline">FTE</span>**<span style="text-decoration:underline"></span>
 
 </td>
+
 <td>
 
 **<span style="text-decoration:underline">Hours Per Year</span>**<span style="text-decoration:underline"></span>
 
 </td>
+
 <td>
 
 **<span style="text-decoration:underline">Appointment Duration</span>**<span style="text-decoration:underline"></span>
 
 </td>
+
 <td>
 
 **<span style="text-decoration:underline">Benefits Eligibility</span>**<span style="text-decoration:underline"></span>
 
 </td>
 
-
 </tr>
+
 <tr>
 
 <td>
@@ -202,29 +212,33 @@ No
 Full-Time
 
 </td>
+
 <td>
 
 .8-1
 
 </td>
+
 <td>
 
 1664+
 
 </td>
+
 <td>
 
 on-going
 
 </td>
+
 <td>
 
 Yes
 
 </td>
 
-
 </tr>
+
 <tr>
 
 <td>
@@ -232,29 +246,33 @@ Yes
 Part-Time - Benefits Eligible
 
 </td>
+
 <td>
 
 .48-.79
 
 </td>
+
 <td>
 
 1000-1663
 
 </td>
+
 <td>
 
 on-going
 
 </td>
+
 <td>
 
 Yes
 
 </td>
 
-
 </tr>
+
 <tr>
 
 <td>
@@ -262,29 +280,33 @@ Yes
 Time-Limited
 
 </td>
+
 <td>
 
 .48+
 
 </td>
+
 <td>
 
 1000+
 
 </td>
+
 <td>
 
 9+ months (with end date)
 
 </td>
+
 <td>
 
 Yes
 
 </td>
 
-
 </tr>
+
 <tr>
 
 <td>
@@ -294,29 +316,33 @@ Yes
 Part-Time - Not Benefits Eligible
 
 </td>
+
 <td>
 
 <.48
 
 </td>
+
 <td>
 
 <1000
 
 </td>
+
 <td>
 
 on-going
 
 </td>
+
 <td>
 
 No
 
 </td>
 
-
 </tr>
+
 <tr>
 
 <td>
@@ -324,29 +350,33 @@ No
 On-Call
 
 </td>
+
 <td>
 
 n/a
 
 </td>
+
 <td>
 
 n/a
 
 </td>
+
 <td>
 
 on-going
 
 </td>
+
 <td>
 
 No
 
 </td>
 
-
 </tr>
+
 <tr>
 
 <td>
@@ -354,30 +384,32 @@ No
 Temporary/Seasonal
 
 </td>
+
 <td>
 
 n/a
 
 </td>
+
 <td>
 
 n/a
 
 </td>
+
 <td>
 
 <9 months with end date
 
 </td>
+
 <td>
 
 No
 
 </td>
 
-
 </tr>
-
 
 </tbody>
 
@@ -393,7 +425,3 @@ Exceptions to the 1,000 Hour Rule are granted only for compelling business reaso
 2. <span style="text-decoration:underline">Allow employee to continue working in the casual position for an additional limited period:</span> requires approval from Human Resources, the area Vice President and in most cases the Budget Office, and will only be considered in rare circumstances that are legally, contractually, and budgetarily permissible.
 
 To ensure transparency and alignment of expectations, managers should discuss these work hour limitations with applicants when hiring for casual positions, and offer/appointment letters should include information regarding worked-hour limitations.
-
-</div>
-
-</div>
