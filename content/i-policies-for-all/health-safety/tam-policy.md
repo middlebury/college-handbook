@@ -287,9 +287,9 @@ Exec. Dir., <span>Health and Counseling Services</span>
 
 </table>
 
-<table>
-
 **<p style="text-align:center;">California TAM</p>**
+
+<table>
 
 <tbody>
 
