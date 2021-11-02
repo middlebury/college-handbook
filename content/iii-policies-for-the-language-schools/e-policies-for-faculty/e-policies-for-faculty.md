@@ -67,7 +67,7 @@ All work submitted by students must be their own. It is unacceptable for student
 The use of online dictionaries is acceptable because students are responsible for using the provided words or short phrases, choosing the most appropriate one, putting it in the proper grammatical context, and providing all necessary punctuation. A translation program, on the other hand, provides a complete phrase or longer piece of text; here a student has only to copy the provided words. Therefore, anything created by a translation program cannot be considered the student's own work and, such work will be considered academic misconduct, which is a serious offense and can result in punishment up to and including expulsion from the Language Schools.
 
 Middlebury Language Schools students are bound by the Middlebury [Honor Code](/pages/ii-ug-college-policies/ug-policies/academics/acad-honesty).   
-<span></span>
+
 
 <span style="text-decoration:underline">Grade Rosters</span>
 

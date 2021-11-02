@@ -32,13 +32,13 @@ Many factors, such as a faculty member’s length of service, current benefit el
 
 **Sample Disability Timeline (Tenure or Tenure Track Faculty Only)**
 
-<table style="width:0px" border="0">
+<table border="0">
 
 <tbody>
 
 <tr>
 
-<td width="94" valign="top">
+<td>
 
 **Time**
 
@@ -46,13 +46,13 @@ _(from onset of disability)_
 
 </td>
 
-<td width="96" valign="top">
+<td>
 
 **Faculty Status**
 
 </td>
 
-<td width="157" valign="top">
+<td>
 
 **Pay**
 
@@ -60,13 +60,13 @@ _(level and source)_
 
 </td>
 
-<td width="156" valign="top">
+<td>
 
 **Benefits Eligibility**
 
 </td>
 
-<td width="114" valign="top">
+<td>
 
 **FMLA Coverage**
 
@@ -76,19 +76,19 @@ _(level and source)_
 
 <tr>
 
-<td width="94">
+<td>
 
 0-3 months
 
 </td>
 
-<td width="96">
+<td>
 
 Active, on medical leave
 
 </td>
 
-<td width="157">
+<td>
 
 100% of salary:
 
@@ -96,13 +96,13 @@ _Short-Term Disability pays 60% of weeks 3-12, use accrued Faculty Leave Reserve
 
 </td>
 
-<td width="156">
+<td>
 
 Regular employee benefits continue
 
 </td>
 
-<td width="114">
+<td>
 
 FMLA period
 
@@ -112,19 +112,19 @@ FMLA period
 
 <tr>
 
-<td width="94">
+<td>
 
 3-6 months
 
 </td>
 
-<td width="96">
+<td>
 
 Active, on medical leave
 
 </td>
 
-<td width="157">
+<td>
 
 100% of salary:
 
@@ -132,13 +132,13 @@ _Short-Term Disability pays 60% throughout, use accrued Faculty Leave Reserve to
 
 </td>
 
-<td width="156">
+<td>
 
 Regular employee benefits continue
 
 </td>
 
-<td width="114">
+<td>
 
 FMLA ends when individual has been absent from work for 12 weeks
 
@@ -148,31 +148,31 @@ FMLA ends when individual has been absent from work for 12 weeks
 
 <tr>
 
-<td width="94">
+<td>
 
 6-12 months
 
 </td>
 
-<td width="96">
+<td>
 
 Active, on medical leave
 
 </td>
 
-<td width="157">
+<td>
 
 60% of salary paid by LTD; up to 40% covered by accrued Faculty Leave Reserve
 
 </td>
 
-<td width="156">
+<td>
 
 Regular employee benefits continue
 
 </td>
 
-<td width="114">
+<td>
 
 Not available
 
@@ -182,7 +182,7 @@ Not available
 
 <tr>
 
-<td width="94">
+<td>
 
 12-24
 
@@ -190,25 +190,25 @@ months
 
 </td>
 
-<td width="96">
+<td>
 
 Temporary Inactive status, on medical leave
 
 </td>
 
-<td width="157">
+<td>
 
 60% of pre-disability wages paid by LTD.  Use available accrued Faculty Leave Reserve for up to 40% of pay.
 
 </td>
 
-<td width="156">
+<td>
 
 Continuation of Medical,  Dental & Vision benefits; no longer considered “actively employed” under LTD and Life insurance policies. Life Insurance may be converted, ported or may qualify for Life Waiver of Premium.
 
 </td>
 
-<td width="114">
+<td>
 
 Not Available
 
@@ -218,31 +218,31 @@ Not Available
 
 <tr>
 
-<td width="94">
+<td>
 
 \>24 months
 
 </td>
 
-<td width="96">
+<td>
 
 Disability retirement status
 
 </td>
 
-<td width="157">
+<td>
 
 60% of pre-disability wages paid by LTD until normal retirement age or no longer disabled
 
 </td>
 
-<td width="156">
+<td>
 
 Medical/Dental/Vision eligibility similar to emeritus faculty. Period of College-paid individual coverage based on years of service (max 29 months).
 
 </td>
 
-<td width="114">
+<td>
 
 N/A
 

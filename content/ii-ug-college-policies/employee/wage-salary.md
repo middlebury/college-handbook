@@ -10,7 +10,7 @@ Please select from the following content:
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

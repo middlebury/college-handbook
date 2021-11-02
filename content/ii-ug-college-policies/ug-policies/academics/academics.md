@@ -10,7 +10,7 @@ title: "B.1. Academic Policies"
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

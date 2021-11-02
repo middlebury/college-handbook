@@ -8,7 +8,7 @@ title: "A. Academic Policies and Standards"
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

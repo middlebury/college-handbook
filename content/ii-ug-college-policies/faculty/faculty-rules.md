@@ -744,25 +744,25 @@ The **_normal_** schedule for length of initial appointment and the character o
 
 <tr>
 
-<td valign="top" width="115">
+<td>
 
 _Years of Prior Service_
 
 </td>
 
-<td valign="top" width="156">
+<td>
 
 _Length of First Contract_
 
 </td>
 
-<td valign="top" width="156">
+<td>
 
 _Initial Review_
 
 </td>
 
-<td valign="top" width="163">
+<td>
 
 _Year in which review takes place_
 
@@ -772,25 +772,25 @@ _Year in which review takes place_
 
 <tr>
 
-<td valign="top" width="115">
+<td>
 
 1-2
 
 </td>
 
-<td valign="top" width="156">
+<td>
 
 3
 
 </td>
 
-<td valign="top" width="156">
+<td>
 
 First
 
 </td>
 
-<td valign="top" width="163">
+<td>
 
 Third (fall)
 
@@ -800,25 +800,25 @@ Third (fall)
 
 <tr>
 
-<td valign="top" width="115">
+<td>
 
 3
 
 </td>
 
-<td valign="top" width="156">
+<td>
 
 2
 
 </td>
 
-<td valign="top" width="156">
+<td>
 
 First
 
 </td>
 
-<td valign="top" width="163">
+<td>
 
 Second (January)
 
@@ -828,25 +828,25 @@ Second (January)
 
 <tr>
 
-<td valign="top" width="115">
+<td>
 
 4
 
 </td>
 
-<td valign="top" width="156">
+<td>
 
 4
 
 </td>
 
-<td valign="top" width="156">
+<td>
 
 Tenure
 
 </td>
 
-<td valign="top" width="163">
+<td>
 
 Third (spring)
 
@@ -856,25 +856,25 @@ Third (spring)
 
 <tr>
 
-<td valign="top" width="115">
+<td>
 
 5-7
 
 </td>
 
-<td valign="top" width="156">
+<td>
 
 3
 
 </td>
 
-<td valign="top" width="156">
+<td>
 
 Tenure
 
 </td>
 
-<td valign="top" width="163">
+<td>
 
 Second or third (January) as negotiated at time of appointment
 

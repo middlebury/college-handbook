@@ -8,7 +8,7 @@ title: "B.2. Conduct"
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

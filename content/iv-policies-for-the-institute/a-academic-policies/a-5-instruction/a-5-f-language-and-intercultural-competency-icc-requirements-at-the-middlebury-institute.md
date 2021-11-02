@@ -54,19 +54,19 @@ If a student feels that he/she possesses sufficient level of professional profic
 
 The following table summarizes the Language and ICC component minimum-unit credit requirements for the different degree programs at the Institute.  All requirements pertain to units of credit in a single language.  (LS = Language Studies, ICC = Intercultural Communication)
 
-<table style="border:1px solid #000000; width:620px" border="1">
+<table border="1">
 
 <tbody>
 
 <tr>
 
-<td style="border:1px solid #000000">
+<td style="border:1px solid #000000;">
 
 **<span>Degree Program</span>**
 
 </td>
 
-<td style="border:1px solid #000000">
+<td style="border:1px solid #000000;">
 
 **<span>Language Component</span>**
 
@@ -74,7 +74,7 @@ The following table summarizes the Language and ICC component minimum-unit credi
 
 </td>
 
-<td style="border:1px solid #000000">
+<td style="border:1px solid #000000;">
 
 **<span>Minimum Course Level</span>**
 
@@ -84,7 +84,7 @@ The following table summarizes the Language and ICC component minimum-unit credi
 
 <tr>
 
-<td style="border:1px solid #000000">
+<td style="border:1px solid #000000;">
 
 <span>BA in International Studies;</span>
 
@@ -94,13 +94,13 @@ The following table summarizes the Language and ICC component minimum-unit credi
 
 </td>
 
-<td style="border:1px solid #000000">
+<td style="border:1px solid #000000;">
 
 <span>Minimum 8 credits in LS courses and up to 4 credits in ICC courses</span>
 
 </td>
 
-<td style="border:1px solid #000000">
+<td style="border:1px solid #000000;">
 
 <span>200 all languages</span>
 
@@ -110,19 +110,19 @@ The following table summarizes the Language and ICC component minimum-unit credi
 
 <tr>
 
-<td style="border:1px solid #000000">
+<td style="border:1px solid #000000;">
 
 <span>MAIEM</span>
 
 </td>
 
-<td style="border:1px solid #000000">
+<td style="border:1px solid #000000;">
 
 <span>8 credits of LS courses and 4 credits in ICC courses</span>
 
 </td>
 
-<td style="border:1px solid #000000">
+<td style="border:1px solid #000000;">
 
 <span>200 for all languages</span>
 
@@ -132,19 +132,19 @@ The following table summarizes the Language and ICC component minimum-unit credi
 
 <tr>
 
-<td style="border:1px solid #000000">
+<td style="border:1px solid #000000;">
 
 <span>MANPTS</span>
 
 </td>
 
-<td style="border:1px solid #000000">
+<td style="border:1px solid #000000;">
 
 <span>12 credits of LS courses</span>
 
 </td>
 
-<td style="border:1px solid #000000">
+<td style="border:1px solid #000000;">
 
 <span>200 for all languages</span>
 
@@ -154,19 +154,19 @@ The following table summarizes the Language and ICC component minimum-unit credi
 
 <tr>
 
-<td style="border:1px solid #000000">
+<td style="border:1px solid #000000;">
 
 <span>MATFL program</span>
 
 </td>
 
-<td style="border:1px solid #000000">
+<td>
 
 <span>12 credits of LS courses</span>
 
 </td>
 
-<td style="border:1px solid #000000">
+<td>
 
 <span>400+ for all languages</span>
 
@@ -176,19 +176,19 @@ The following table summarizes the Language and ICC component minimum-unit credi
 
 <tr>
 
-<td style="border:1px solid #000000">
+<td style="border:1px solid #000000;">
 
 <span>Advanced Entry GSIPM degrees</span>
 
 </td>
 
-<td style="border:1px solid #000000">
+<td style="border:1px solid #000000;">
 
 <span>8 credits of LS courses</span>
 
 </td>
 
-<td style="border:1px solid #000000">
+<td style="border:1px solid #000000;">
 
 <span>200 for Spanish and Arabic, 300 for all other languages</span>
 
@@ -198,19 +198,19 @@ The following table summarizes the Language and ICC component minimum-unit credi
 
 <tr>
 
-<td style="border:1px solid #000000">
+<td style="border:1px solid #000000;">
 
 <span>Peace Corps Masters International program (except Peace Corps MBA)</span>
 
 </td>
 
-<td style="border:1px solid #000000">
+<td style="border:1px solid #000000;">
 
 <span>Minimum 8 credits of LS courses prior to Peace Corps service and up to 4 credits in ICC courses</span>
 
 </td>
 
-<td style="border:1px solid #000000">
+<td style="border:1px solid #000000;">
 
 <span>200 for all languages</span>
 

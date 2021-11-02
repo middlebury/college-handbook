@@ -10,7 +10,7 @@ title: "D. Employee Handbook"
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

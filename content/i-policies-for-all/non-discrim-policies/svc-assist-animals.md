@@ -40,7 +40,7 @@ In order to request a reasonable accommodation to possess an assistance animal i
 </span><span>(802) 443-5936  
 </span><span>Service Building 222</span>
 
-<span></span>**<span style="text-decoration:underline"><span>Faculty or Staff</span></span>**
+**<span style="text-decoration:underline"><span>Faculty or Staff</span></span>**
 
 <span>Patty Saunders, Disability and Leave Specialist  
 </span><span>Human Resources  

@@ -8,7 +8,7 @@ title: "B. Non-Discrimination Policies"
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

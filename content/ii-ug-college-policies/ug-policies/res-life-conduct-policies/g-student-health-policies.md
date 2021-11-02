@@ -107,13 +107,13 @@ Some records are not subject to any retention period and can be discarded when t
 
 <tr>
 
-<td valign="top" width="354">
+<td>
 
 RECORDS
 
 </td>
 
-<td valign="top" width="234">
+<td>
 
 RETENTION PERIOD
 
@@ -123,13 +123,13 @@ RETENTION PERIOD
 
 <tr>
 
-<td valign="top" width="354">
+<td>
 
 Medical records - Adults (over 18)
 
 </td>
 
-<td valign="bottom" width="234">
+<td>
 
 7 years from last date of treatment (graduation)
 
@@ -139,13 +139,13 @@ Medical records - Adults (over 18)
 
 <tr>
 
-<td valign="top" width="354">
+<td>
 
 Medical records – Minors (under 18)
 
 </td>
 
-<td valign="bottom" width="234">
+<td>
 
 The longer of 7 years from date of treatment or until the patient is 25
 

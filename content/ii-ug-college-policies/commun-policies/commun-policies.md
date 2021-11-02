@@ -10,7 +10,7 @@ title: "A. Policies for the College Community"
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

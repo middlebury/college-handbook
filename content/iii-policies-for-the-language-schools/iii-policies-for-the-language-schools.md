@@ -16,7 +16,7 @@ Middlebury College has unrestricted right to use and publish photographs taken o
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

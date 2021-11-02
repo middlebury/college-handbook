@@ -92,13 +92,13 @@ The following guidelines should be used to determine which semester(s) faculty m
 
 <tr>
 
-<td width="258">
+<td>
 
 **For birth or adoption that is expected to occur:**
 
 </td>
 
-<td width="241">
+<td>
 
 **Semester(s) released from teaching:**
 
@@ -108,13 +108,13 @@ The following guidelines should be used to determine which semester(s) faculty m
 
 <tr>
 
-<td width="258">
+<td>
 
 October 1 - November 30
 
 </td>
 
-<td width="241">
+<td>
 
 Fall & Winter Term
 
@@ -124,13 +124,13 @@ Fall & Winter Term
 
 <tr>
 
-<td width="258">
+<td>
 
 December 1 – January 31
 
 </td>
 
-<td width="241">
+<td>
 
 Winter Term & Spring
 
@@ -140,13 +140,13 @@ Winter Term & Spring
 
 <tr>
 
-<td width="258">
+<td>
 
 February 1 – May 15
 
 </td>
 
-<td width="241">
+<td>
 
 Spring
 
@@ -156,13 +156,13 @@ Spring
 
 <tr>
 
-<td width="258">
+<td>
 
 May 16 – September 30
 
 </td>
 
-<td width="241">
+<td>
 
 Fall
 

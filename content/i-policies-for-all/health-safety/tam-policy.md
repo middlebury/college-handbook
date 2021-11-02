@@ -26,41 +26,34 @@ The Vermont TAM is chaired by the Director of Public Safety, and ordinarily cons
 
 The Institute TAM is co-chaired by the Associate Dean of Student Services and the Executive Assistant to the Vice President.  Ordinarily, the Institute TAM consists of representatives from Advising, Career, Student Services, Human Resources, Information Technology Services, Communications, the Institute campus security, and the VP’s office.
 
-<table style="margin: 2% auto;">
+
+**<p style="text-align:center;">Vermont TAM</p>**
+
+<table>
 
 <tbody>
 
 <tr>
 
-<td colspan="4" width="622" style="text-align:center;">
-
-Vermont TAM
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="120">
+<td>
 
 Contact
 
 </td>
 
-<td width="264">
+<td>
 
 Title
 
 </td>
 
-<td width="152">
+<td
 
 Email
 
 </td>
 
-<td width="87">
+<td>
 
 Phone
 
@@ -70,25 +63,25 @@ Phone
 
 <tr>
 
-<td width="120" valign="top">
+<td>
 
 Lisa Burchard
 
 </td>
 
-<td width="264" valign="top">
+<td>
 
 Special Projects / Public Safety
 
 </td>
 
-<td width="152" valign="top">
+<td>
 
 <span>[eburchard@middlebury.edu](mailto:eburchard@middlebury.edu)</span>
 
 </td>
 
-<td width="87" valign="top">
+<td>
 
 802.443.5241
 
@@ -98,7 +91,7 @@ Special Projects / Public Safety
 
 <tr>
 
-<td width="120" valign="top">
+<td>
 
 Dan Gaiotti
 
@@ -106,7 +99,7 @@ Keith Ellery
 
 </td>
 
-<td width="264" valign="top">
+<td>
 
 Interim Dir. of Public Safety
 
@@ -114,7 +107,7 @@ Assoc. Dir. of Public Safety
 
 </td>
 
-<td width="152" valign="top">
+<td>
 
 <span>[dgaiotti@middlebury.edu](mailto:dgaiotti@middlebury.edu)</span>
 
@@ -122,7 +115,7 @@ Assoc. Dir. of Public Safety
 
 </td>
 
-<td width="87" valign="top">
+<td>
 
 802.443.5873
 
@@ -134,25 +127,25 @@ Assoc. Dir. of Public Safety
 
 <tr>
 
-<td width="120" valign="top">
+<td>
 
 Sujata Moorti
 
 </td>
 
-<td width="264" valign="top">
+<td>
 
 VP for Academic Affairs & Dean of Faculty
 
 </td>
 
-<td width="152" valign="top">
+<td>
 
 <span>[lloyd@middlebury.edu](mailto:lloyd@middlebury.edu)</span>
 
 </td>
 
-<td width="87" valign="top">
+<td>
 
 802.443.5735
 
@@ -162,25 +155,25 @@ VP for Academic Affairs & Dean of Faculty
 
 <tr>
 
-<td width="120" valign="top">
+<td>
 
 Smita Ruzicka
 
 </td>
 
-<td width="264" valign="top">
+<td>
 
 VP for Student Affairs
 
 </td>
 
-<td width="152" valign="top">
+<td>
 
 [sruzicka@middlebury.edu](mailto:sruzicka@middlebury.edu)
 
 </td>
 
-<td width="87" valign="top">
+<td>
 
 802.443.2465
 
@@ -190,25 +183,25 @@ VP for Student Affairs
 
 <tr>
 
-<td width="120" valign="top">
+<td>
 
 Mike Thomas
 
 </td>
 
-<td width="264" valign="top">
+<td>
 
 Chief Risk Officer
 
 </td>
 
-<td width="152" valign="top">
+<td>
 
 [thomas@middlebury.edu](mailto:thomas@middlebury.edu)
 
 </td>
 
-<td width="87" valign="top">
+<td>
 
 802.443.5551
 
@@ -218,37 +211,37 @@ Chief Risk Officer
 
 <tr>
 
-<td width="120" valign="top"></td>
+<td></td>
 
-<td width="264" valign="top"></td>
+<td></td>
 
-<td width="152" valign="top"></td>
+<td></td>
 
-<td width="87" valign="top"></td>
+<td></td>
 
 </tr>
 
 <tr>
 
-<td width="120" valign="top">
+<td>
 
 Laura Carotenuto
 
 </td>
 
-<td width="264" valign="top">
+<td>
 
-<span>Asst. VP of HR for Central Administration</span><span></span>
+<span>Asst. VP of HR for Central Administration</span>
 
 </td>
 
-<td width="152" valign="top">
+<td>
 
 <span>[lcaroten@middlebury.edu](mailto:lcaroten@middlebury.edu)</span>
 
 </td>
 
-<td width="87" valign="top">
+<td>
 
 802.443.2012
 
@@ -258,25 +251,25 @@ Laura Carotenuto
 
 <tr>
 
-<td width="120" valign="top">
+<td>
 
 Barbara McCall
 
 </td>
 
-<td width="264" valign="top">
+<td>
 
 Exec. Dir., <span>Health and Counseling Services</span>
 
 </td>
 
-<td width="152" valign="top">
+<td>
 
 <span>[bmccall@middlebury.edu](mailto:bmccall@middlebury.edu)</span>
 
 </td>
 
-<td width="87" valign="top">
+<td>
 
 802.443.5361
 
@@ -286,41 +279,41 @@ Exec. Dir., <span>Health and Counseling Services</span>
 
 <tr>
 
-<td colspan="4" width="622" valign="top"></td>
+<td></td>
 
 </tr>
 
+</tbody>
+
+</table>
+
+<table>
+
+**<p style="text-align:center;">California TAM</p>**
+
+<tbody>
+
 <tr>
 
-<td colspan="4" width="622" style="text-align:center;">
-
-California TAM
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="120">
+<td>
 
 Contact
 
 </td>
 
-<td width="264">
+<td>
 
 Title
 
 </td>
 
-<td width="152">
+<td>
 
 Email
 
 </td>
 
-<td width="87">
+<td>
 
 Phone
 
@@ -330,25 +323,25 @@ Phone
 
 <tr>
 
-<td width="120" valign="top">
+<td>
 
 Ashley Arrocha
 
 </td>
 
-<td width="264" valign="top">
+<td>
 
 Co-Chair, Associate Dean of Student Services
 
 </td>
 
-<td width="152" valign="top">
+<td>
 
 [aarrocha@miis.edu](mailto:aarrocha@miis.edu)
 
 </td>
 
-<td width="87" valign="top">
+<td>
 
 831.647.4654
 
@@ -358,25 +351,25 @@ Co-Chair, Associate Dean of Student Services
 
 <tr>
 
-<td width="120" valign="top">
+<td>
 
 Barbara Burke
 
 </td>
 
-<td width="264" valign="top">
+<td>
 
 Co-Chair, Executive Assistant to the Vice President
 
 </td>
 
-<td width="152" valign="top">
+<td>
 
 [blburke@miis.edu](mailto:blburke@miis.edu)
 
 </td>
 
-<td width="87" valign="top">
+<td>
 
 831.647.3513
 
@@ -386,25 +379,25 @@ Co-Chair, Executive Assistant to the Vice President
 
 <tr>
 
-<td width="120" valign="top">
+<td>
 
 Betcie Daniels
 
 </td>
 
-<td width="264" valign="top">
+<td>
 
 Campus Security Manager
 
 </td>
 
-<td width="152" valign="top">
+<td>
 
-[bdaniels@miis.edu](mailto:bdaniels@miis.edu)<span></span>
+[bdaniels@miis.edu](mailto:bdaniels@miis.edu)
 
 </td>
 
-<td width="87" valign="top">
+<td>
 
 831.647.4153
 
@@ -414,25 +407,25 @@ Campus Security Manager
 
 <tr>
 
-<td width="120" valign="top">
+<td>
 
 Eva Gudbergsdottir
 
 </td>
 
-<td width="264" valign="top">
+<td>
 
 Associate Director of Communications
 
 </td>
 
-<td width="152" valign="top">
+<td>
 
 [evag@middlebury.edu](mailto:evaj@middlebury.edu)
 
 </td>
 
-<td width="87" valign="top">
+<td>
 
 831.647.6606
 
@@ -442,37 +435,37 @@ Associate Director of Communications
 
 <tr>
 
-<td width="120" valign="top"></td>
+<td></td>
 
-<td width="264" valign="top"></td>
+<td></td>
 
-<td width="152" valign="top"></td>
+<td></td>
 
-<td width="87" valign="top"></td>
+<td></td>
 
 </tr>
 
 <tr>
 
-<td width="120" valign="top">
+<td>
 
 Michael Ulibarri
 
 </td>
 
-<td width="264" valign="top">
+<td>
 
 Senior Business Partner
 
 </td>
 
-<td width="152" valign="top">
+<td>
 
-[mulibarr@miis.edu](mailto:mulibarr@miis.edu)<span></span>
+[mulibarr@miis.edu](mailto:mulibarr@miis.edu)
 
 </td>
 
-<td width="87" valign="top">
+<td>
 
 831.647.6404
 
@@ -482,13 +475,13 @@ Senior Business Partner
 
 <tr>
 
-<td width="120" valign="top"></td>
+<td></td>
 
-<td width="264" valign="top"></td>
+<td></td>
 
-<td width="152" valign="top"></td>
+<td></td>
 
-<td width="87" valign="top"></td>
+<td></td>
 
 </tr>
 

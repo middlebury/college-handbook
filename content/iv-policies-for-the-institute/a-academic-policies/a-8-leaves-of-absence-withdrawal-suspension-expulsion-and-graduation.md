@@ -8,7 +8,7 @@ title: "A.8. Leaves of Absence, Withdrawal, Suspension, Expulsion, and Graduatio
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

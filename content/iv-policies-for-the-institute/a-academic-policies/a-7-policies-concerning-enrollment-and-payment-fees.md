@@ -8,7 +8,7 @@ title: "A.7. Policies Concerning Enrollment and Payment Fees"
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

@@ -6,19 +6,19 @@ title: "A.7.c. Tuition Refunds"
 
 If a student voluntarily withdraws from the Middlebury Institute at any time during the academic year after the academic term has begun, or officially drops below a full-time load,tuition (less deposit) shall be refunded as follows:
 
-<table style="width:571px">
+<table>
 
 <tbody>
 
 <tr>
 
-<td width="287" valign="top">
+<td>
 
 **<span>Time of Withdrawal from the Middlebury Institute</span>**
 
 </td>
 
-<td width="241" valign="top">
+<td>
 
 **<span>Percent Tuition Refunded or Credited</span>**
 
@@ -28,13 +28,13 @@ If a student voluntarily withdraws from the Middlebury Institute at any time dur
 
 <tr>
 
-<td width="287" valign="top">
+<td>
 
 <span><span>Before the 11</span><sup><span>th</span></sup> <span>day of the academic term</span></span>
 
 </td>
 
-<td width="241" valign="top">
+<td>
 
 <span>100%</span>
 
@@ -44,13 +44,13 @@ If a student voluntarily withdraws from the Middlebury Institute at any time dur
 
 <tr>
 
-<td width="287" valign="top">
+<td>
 
 <span><span>11</span><sup><span>th</span></sup> <span>through 20</span><sup><span>th</span></sup> <span>day of the academic term</span></span>
 
 </td>
 
-<td width="241" valign="top">
+<td>
 
 <span>50%</span>
 
@@ -60,13 +60,13 @@ If a student voluntarily withdraws from the Middlebury Institute at any time dur
 
 <tr>
 
-<td width="287" valign="top">
+<td>
 
 <span><span>After the 20</span><sup><span>th</span></sup> <span>day of the academic term</span></span>
 
 </td>
 
-<td width="241" valign="top">
+<td>
 
 <span>0%</span>
 
@@ -84,19 +84,19 @@ If a student’s enrollment status during the regular academic year voluntarily 
 
 The refund schedules for summer programs **other than the Summer Intensive Language Program** is as follows:
 
-<table style="width:571px">
+<table>
 
 <tbody>
 
 <tr>
 
-<td width="270" valign="top">
+<td>
 
 **<span>Time of Withdrawal from Summer Program</span>**
 
 </td>
 
-<td width="258" valign="top">
+<td>
 
 **<span>Percent Tuition Refunded or Credited</span>**
 
@@ -106,13 +106,13 @@ The refund schedules for summer programs **other than the Summer Intensive Langu
 
 <tr>
 
-<td width="270" valign="top">
+<td>
 
 <span><span>Before the 6</span><sup><span>th</span></sup> <span>day of the program</span></span>
 
 </td>
 
-<td width="258" valign="top">
+<td>
 
 <span>100%</span>
 
@@ -122,13 +122,13 @@ The refund schedules for summer programs **other than the Summer Intensive Langu
 
 <tr>
 
-<td width="270" valign="top">
+<td>
 
 <span><span>6</span><sup><span>th</span></sup> <span>through 13</span><sup><span>th</span></sup> <span>day of the program</span></span>
 
 </td>
 
-<td width="258" valign="top">
+<td>
 
 <span>50%</span>
 
@@ -138,13 +138,13 @@ The refund schedules for summer programs **other than the Summer Intensive Langu
 
 <tr>
 
-<td width="270" valign="top">
+<td>
 
 <span><span>After the 13</span><sup><span>th</span></sup> <span>day of the program</span></span>
 
 </td>
 
-<td width="258" valign="top">
+<td>
 
 <span>0%</span>
 

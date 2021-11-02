@@ -135,7 +135,7 @@ The employee will be required to provide the Institute with a fitness for duty c
 
 If the employee fails to return to work at the end of any authorized leave, her employment will be subject to termination, unless she is eligible for another form of leave.
 
-<span>M. Child Care Leave After a Pregnancy Related Disability Leave</span>
+M. Child Care Leave After a Pregnancy Related Disability Leave</span>
 
 After the employee is released to return to work from a pregnancy disability, she may request any remaining family and medical leave to care for her newborn, pursuant to the terms of the family and medical leave policy above.
 

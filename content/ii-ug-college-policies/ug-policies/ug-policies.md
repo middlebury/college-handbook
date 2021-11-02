@@ -10,7 +10,7 @@ title: "B. Policies for Undergraduate College Students"
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

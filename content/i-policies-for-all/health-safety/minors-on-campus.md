@@ -90,7 +90,7 @@ In all cases, the following individuals must be criminal background checked and 
 
 Except as otherwise stated below or mandated by law in the applicable jurisdiction, the ratio of authorized adults/minors during College programs should be as follows:
 
-<table style="margin:auto; text-align:center;">
+<table>
 
 <tbody>
 
@@ -553,7 +553,7 @@ Middlebury, VT 05753
 802-443-3100  
 [lxie@middlebury.edu](mailto:lxie@middlebury.edu)
 
-**<span>DISTRICT OF COLUMBIA</span>**
+**DISTRICT OF COLUMBIA**
 
 **Emergencies: Dial 911**
 
@@ -571,9 +571,8 @@ Phone: 202-715-7300202-715-7300
 
 [Child and Family Services Agency](https://cfsa.dc.gov/)  
 202.671.SAFE or 202.671.7233  
-**<span></span>**
 
-**<span><a name="B" id="B"></a>APPENDIX B:</span> Mandatory Reporting Laws in California, New Mexico, and Washington, D.C.**
+**<a name="B" id="B"></a>APPENDIX B: Mandatory Reporting Laws in California, New Mexico, and Washington, D.C.**
 
 #### **I. California**
 

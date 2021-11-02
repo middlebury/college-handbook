@@ -10,7 +10,7 @@ Policies in this section and its subsections are specifically for members of the
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

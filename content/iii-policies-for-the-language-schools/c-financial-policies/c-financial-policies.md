@@ -8,7 +8,7 @@ title: "C. Financial Policies"
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

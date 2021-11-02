@@ -34,19 +34,19 @@ There are two versions of CSL, “Accrual” and “Lump Sum”, each with sligh
 
 <tr>
 
-<td width="70">
+<td>
 
 **Version**
 
 </td>
 
-<td width="105" valign="top">
+<td>
 
 **Eligible Employee Types**
 
 </td>
 
-<td width="128">
+<td>
 
 **CSL Allocation**
 
@@ -68,7 +68,7 @@ There are two versions of CSL, “Accrual” and “Lump Sum”, each with sligh
 
 <tr>
 
-<td width="70">
+<td>
 
 **CSL-**
 
@@ -76,7 +76,7 @@ There are two versions of CSL, “Accrual” and “Lump Sum”, each with sligh
 
 </td>
 
-<td width="105">
+<td>
 
 Student Employees
 
@@ -84,7 +84,7 @@ Non-Benefits-Eligible-Staff Employees
 
 </td>
 
-<td width="128">
+<td>
 
 .0334 hours of CSL are accrued for each hour worked (1 hour of CSL accrues for every 30 hours worked), up to a maximum accrual of 48 hours.
 
@@ -106,7 +106,7 @@ Use code “CA Sick Leave” on BannerWeb time-sheet.
 
 <tr>
 
-<td width="70">
+<td>
 
 **CSL-**
 
@@ -114,7 +114,7 @@ Use code “CA Sick Leave” on BannerWeb time-sheet.
 
 </td>
 
-<td width="105">
+<td>
 
 Faculty Employees
 
@@ -124,7 +124,7 @@ Employees
 
 </td>
 
-<td width="128">
+<td>
 
 Receives a lump sum credit of 24 hours each July 1<sup>st</sup> (or date of hire for new employees).
 
@@ -214,19 +214,19 @@ Eligible staff employees accrue CTO in accordance with the following schedule:
 
 <tr>
 
-<td width="146" valign="top" style="text-align:center">
+<td>
 
 **Length of Service**
 
 </td>
 
-<td width="160" valign="top" style="text-align:center">
+<td>
 
 **Hours per Pay Period**
 
 </td>
 
-<td width="108" valign="top" style="text-align:center">
+<td>
 
 **Days per year**
 
@@ -236,19 +236,19 @@ Eligible staff employees accrue CTO in accordance with the following schedule:
 
 <tr>
 
-<td width="146" valign="top" style="text-align:center">
+<td>
 
 0-2 years
 
 </td>
 
-<td width="160" valign="top" style="text-align:center">
+<td>
 
 7.5
 
 </td>
 
-<td width="108" valign="top" style="text-align:center">
+<td>
 
 26
 
@@ -258,19 +258,19 @@ Eligible staff employees accrue CTO in accordance with the following schedule:
 
 <tr>
 
-<td width="146" valign="top" style="text-align:center">
+<td>
 
 2-10 years
 
 </td>
 
-<td width="160" valign="top" style="text-align:center">
+<td>
 
 8.94
 
 </td>
 
-<td width="108" valign="top" style="text-align:center">
+<td>
 
 31
 
@@ -280,19 +280,19 @@ Eligible staff employees accrue CTO in accordance with the following schedule:
 
 <tr>
 
-<td width="146" valign="top" style="text-align:center">
+<td>
 
 10-20 years
 
 </td>
 
-<td width="160" valign="top" style="text-align:center">
+<td>
 
 10.39
 
 </td>
 
-<td width="108" valign="top" style="text-align:center">
+<td>
 
 36
 
@@ -302,19 +302,19 @@ Eligible staff employees accrue CTO in accordance with the following schedule:
 
 <tr>
 
-<td width="146" valign="top" style="text-align:center">
+<td>
 
 20+ years
 
 </td>
 
-<td width="160" valign="top" style="text-align:center">
+<td>
 
 11.54
 
 </td>
 
-<td width="108" valign="top" style="text-align:center">
+<td>
 
 40
 

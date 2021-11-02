@@ -10,7 +10,7 @@ title: "2.3. Faculty Handbook"
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

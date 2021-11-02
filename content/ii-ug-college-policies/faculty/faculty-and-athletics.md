@@ -71,25 +71,25 @@ _b_. End Date: The second full weekend (Sat-Sun) in May or the last day of class
 
 <tr>
 
-<td width="25%">
+<td>
 
 **Fall**
 
 </td>
 
-<td width="25%">
+<td>
 
 **Varsity**
 
 </td>
 
-<td width="25%">
+<td>
 
 **Scrimmage Dates**
 
 </td>
 
-<td width="25%">
+<td>
 
 **JV**
 
@@ -99,25 +99,25 @@ _b_. End Date: The second full weekend (Sat-Sun) in May or the last day of class
 
 <tr>
 
-<td width="25%">
+<td>
 
 Cross-Country
 
 </td>
 
-<td width="25%">
+<td>
 
 9 dates
 
 </td>
 
-<td width="25%">
+<td>
 
 0
 
 </td>
 
-<td width="25%">
+<td>
 
 \-
 
@@ -127,25 +127,25 @@ Cross-Country
 
 <tr>
 
-<td width="25%">
+<td>
 
 Field Hockey
 
 </td>
 
-<td width="25%">
+<td>
 
 15 games
 
 </td>
 
-<td width="25%">
+<td>
 
 1
 
 </td>
 
-<td width="25%">
+<td>
 
 7
 
@@ -155,25 +155,25 @@ Field Hockey
 
 <tr>
 
-<td width="25%">
+<td>
 
 Football
 
 </td>
 
-<td width="25%">
+<td>
 
 9 games
 
 </td>
 
-<td width="25%">
+<td>
 
 0
 
 </td>
 
-<td width="25%">
+<td>
 
 6
 
@@ -183,25 +183,25 @@ Football
 
 <tr>
 
-<td width="25%">
+<td>
 
 Soccer
 
 </td>
 
-<td width="25%">
+<td>
 
 15 games
 
 </td>
 
-<td width="25%">
+<td>
 
 1
 
 </td>
 
-<td width="25%">
+<td>
 
 7
 
@@ -211,25 +211,25 @@ Soccer
 
 <tr>
 
-<td width="25%">
+<td>
 
 Volleyball
 
 </td>
 
-<td width="25%">
+<td>
 
 20 dates
 
 </td>
 
-<td width="25%">
+<td>
 
 1
 
 </td>
 
-<td width="25%">
+<td>
 
 \-
 
@@ -239,25 +239,25 @@ Volleyball
 
 <tr>
 
-<td width="25%">
+<td>
 
 Tennis#
 
 </td>
 
-<td width="25%">
+<td>
 
 14 dates
 
 </td>
 
-<td width="25%">
+<td>
 
 0
 
 </td>
 
-<td width="25%">
+<td>
 
 \-
 
@@ -267,25 +267,25 @@ Tennis#
 
 <tr>
 
-<td width="25%">
+<td>
 
 Golf#
 
 </td>
 
-<td width="25%">
+<td>
 
 16 dates
 
 </td>
 
-<td width="25%">
+<td>
 
 0
 
 </td>
 
-<td width="25%">
+<td>
 
 \-
 
@@ -305,25 +305,25 @@ _#_ Fall and/or spring combined total not to exceed one season limit
 
 <tr>
 
-<td width="108" valign="top">
+<td>
 
 **Winter**
 
 </td>
 
-<td width="103" valign="top">
+<td>
 
 **Varsity**
 
 </td>
 
-<td width="98" valign="top">
+<td>
 
 **Scrimmage Dates**
 
 </td>
 
-<td colspan="3" width="162" valign="top">
+<td>
 
 **JV**
 
@@ -333,45 +333,45 @@ _#_ Fall and/or spring combined total not to exceed one season limit
 
 <tr>
 
-<td width="108" valign="top">
+<td>
 
 Basketball
 
 </td>
 
-<td width="103" valign="top">
+<td>
 
 24 games\*
 
 </td>
 
-<td width="98" valign="top"></td>
+<td></td>
 
-<td colspan="3" width="162" valign="top"></td>
+<td></td>
 
 </tr>
 
 <tr>
 
-<td width="108" valign="top">
+<td>
 
 Hockey
 
 </td>
 
-<td width="103" valign="top">
+<td>
 
 24 games\*
 
 </td>
 
-<td width="98" valign="top">
+<td>
 
 0
 
 </td>
 
-<td colspan="3" width="162" valign="top">
+<td>
 
 12
 
@@ -381,25 +381,25 @@ Hockey
 
 <tr>
 
-<td width="108" valign="top">
+<td>
 
 Indoor Track
 
 </td>
 
-<td width="103" valign="top">
+<td>
 
 10 dates
 
 </td>
 
-<td width="98" valign="top">
+<td>
 
 0
 
 </td>
 
-<td colspan="3" width="162" valign="top">
+<td>
 
 \-
 
@@ -409,25 +409,25 @@ Indoor Track
 
 <tr>
 
-<td width="108" valign="top">
+<td>
 
 Squash
 
 </td>
 
-<td width="103" valign="top">
+<td>
 
 15 dates
 
 </td>
 
-<td width="98" valign="top">
+<td>
 
 0
 
 </td>
 
-<td colspan="3" width="162" valign="top">
+<td>
 
 \-
 
@@ -437,25 +437,25 @@ Squash
 
 <tr>
 
-<td width="108" valign="top">
+<td>
 
 Swimming
 
 </td>
 
-<td width="103" valign="top">
+<td>
 
 11 dates
 
 </td>
 
-<td width="98" valign="top">
+<td>
 
 1
 
 </td>
 
-<td colspan="3" width="162" valign="top">
+<td>
 
 \-
 
@@ -465,21 +465,21 @@ Swimming
 
 <tr>
 
-<td width="108" valign="top">
+<td>
 
 Skiing
 
 </td>
 
-<td width="103" valign="top">
+<td>
 
 16 dates
 
 </td>
 
-<td width="98" valign="top"> </td>
+<td> </td>
 
-<td colspan="3" width="162" valign="top"> </td>
+<td> </td>
 
 </tr>
 
@@ -495,25 +495,25 @@ Skiing
 
 <tr>
 
-<td width="155" valign="top">
+<td>
 
 **Spring**(while College is in session)
 
 </td>
 
-<td width="200" valign="top">
+<td>
 
 **Varsity**
 
 </td>
 
-<td width="144" valign="top">
+<td>
 
 **Scrimmage Dates**
 
 </td>
 
-<td width="91" valign="top">
+<td>
 
 **JV**
 
@@ -523,25 +523,25 @@ Skiing
 
 <tr>
 
-<td width="155" valign="top">
+<td>
 
 Baseball
 
 </td>
 
-<td width="200" valign="top">
+<td>
 
 36 contests
 
 </td>
 
-<td width="144" valign="top">
+<td>
 
 0
 
 </td>
 
-<td width="91" valign="top">
+<td>
 
 \-
 
@@ -551,25 +551,25 @@ Baseball
 
 <tr>
 
-<td width="155" valign="top">
+<td>
 
 Softball
 
 </td>
 
-<td width="200" valign="top">
+<td>
 
 16 dates/24 games
 
 </td>
 
-<td width="144" valign="top">
+<td>
 
 0
 
 </td>
 
-<td width="91" valign="top">
+<td>
 
 \-
 
@@ -579,25 +579,25 @@ Softball
 
 <tr>
 
-<td width="155" valign="top">
+<td>
 
 Lacrosse
 
 </td>
 
-<td width="200" valign="top">
+<td>
 
 15 games
 
 </td>
 
-<td width="144" valign="top">
+<td>
 
 1
 
 </td>
 
-<td width="91" valign="top">
+<td>
 
 6
 
@@ -607,25 +607,25 @@ Lacrosse
 
 <tr>
 
-<td width="155" valign="top">
+<td>
 
 Track and Field
 
 </td>
 
-<td width="200" valign="top">
+<td>
 
 8 events
 
 </td>
 
-<td width="144" valign="top">
+<td>
 
 0
 
 </td>
 
-<td width="91" valign="top">
+<td>
 
 \-
 
@@ -635,25 +635,25 @@ Track and Field
 
 <tr>
 
-<td width="155" valign="top">
+<td>
 
 Tennis#
 
 </td>
 
-<td width="200" valign="top">
+<td>
 
 14 dates
 
 </td>
 
-<td width="144" valign="top">
+<td>
 
 0
 
 </td>
 
-<td width="91" valign="top">
+<td>
 
 \-
 
@@ -663,25 +663,25 @@ Tennis#
 
 <tr>
 
-<td width="155" valign="top">
+<td>
 
 Golf#
 
 </td>
 
-<td width="200" valign="top">
+<td>
 
 16 dates
 
 </td>
 
-<td width="144" valign="top">
+<td>
 
 0
 
 </td>
 
-<td width="91" valign="top">
+<td>
 
 \-
 

@@ -16,7 +16,7 @@ The subpages in this section apply to all members of the Middlebury community in
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

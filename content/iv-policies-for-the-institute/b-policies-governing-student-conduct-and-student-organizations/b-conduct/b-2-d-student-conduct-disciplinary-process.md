@@ -8,7 +8,7 @@ title: "B.2.c. Student Conduct Disciplinary Process"
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

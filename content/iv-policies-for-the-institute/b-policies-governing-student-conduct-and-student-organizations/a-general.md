@@ -16,7 +16,7 @@ Bikes may not be left on campus overnight. Campus Security will impound any bike
 
 Children <span>are not permitted to attend or be present during MIIS classes unless they have the prior consent of the responsible faculty member.</span> <span> </span><span>Only in the event of an emergency and/or non-routine situation may an individual seek an exception to this policy.</span>
 
-<span>Children are also not permitted in quiet study spaces, such as the Library, the Samson Center Reading Room, and the McGowan Lobby.<span></span> Children are permitted in common areas, such as the Samson Center Dining Room, the Holland Center, and the garden, as long as they are supervised by a Middlebury Institute parent or guardian.<span> </span></span>
+<span>Children are also not permitted in quiet study spaces, such as the Library, the Samson Center Reading Room, and the McGowan Lobby. Children are permitted in common areas, such as the Samson Center Dining Room, the Holland Center, and the garden, as long as they are supervised by a Middlebury Institute parent or guardian.<span> </span></span>
 
 <span style="text-decoration:underline">2\. Other Guests</span>
 

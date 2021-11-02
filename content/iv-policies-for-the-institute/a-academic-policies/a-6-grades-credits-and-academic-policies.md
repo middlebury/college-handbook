@@ -8,7 +8,7 @@ title: "A.6. Grades, Credits and Academic Policies"
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

@@ -18,25 +18,25 @@ Faculty, temporary, seasonal, part-time employees in positions budgeted for less
 
 CTO accrues in hours after each biweekly payroll is run. Accrual is based on length of service, as follows:
 
-<table style="width:100%" border="2">
+<table border="1">
 
 <tbody>
 
 <tr>
 
-<td style="border:1px solid #000000; width:147px" valign="bottom">
+<td>
 
 **Length of Service**
 
 </td>
 
-<td style="border:1px solid #000000; width:147px" valign="bottom">
+<td>
 
 **Annual Accrual for 1 Full Time Equivalent**
 
 </td>
 
-<td style="border:1px solid #000000; width:147px" valign="bottom">
+<td>
 
 **CTO Accrual for Each Hour Paid**
 
@@ -46,19 +46,19 @@ CTO accrues in hours after each biweekly payroll is run. Accrual is based on len
 
 <tr>
 
-<td style="border:1px solid #000000; width:147px" valign="bottom">
+<td>
 
 0-2 Years
 
 </td>
 
-<td style="border:1px solid #000000; width:147px" valign="bottom">
+<td>
 
 26 days/yr.
 
 </td>
 
-<td style="border:1px solid #000000; width:147px" valign="bottom">
+<td>
 
 0.1 hrs.
 
@@ -68,19 +68,19 @@ CTO accrues in hours after each biweekly payroll is run. Accrual is based on len
 
 <tr>
 
-<td style="border:1px solid #000000; width:147px" valign="bottom">
+<td>
 
 Over 2-10 Years
 
 </td>
 
-<td style="border:1px solid #000000; width:147px" valign="bottom">
+<td>
 
 31 days/yr.
 
 </td>
 
-<td style="border:1px solid #000000; width:147px" valign="bottom">
+<td>
 
 0.1192 hrs.
 
@@ -90,19 +90,19 @@ Over 2-10 Years
 
 <tr>
 
-<td style="border:1px solid #000000; width:147px;" valign="bottom">
+<td>
 
 Over 10-20 Years
 
 </td>
 
-<td style="border:1px solid #000000; width:147px;" valign="bottom">
+<td>
 
 36 days/yr.
 
 </td>
 
-<td style="border:1px solid #000000; width:147px" valign="bottom">
+<td>
 
 0.1385 hrs.
 
@@ -112,19 +112,19 @@ Over 10-20 Years
 
 <tr>
 
-<td style="border:1px solid #000000; width:147px" valign="bottom">
+<td>
 
 Over 20 Years
 
 </td>
 
-<td style="border:1px solid #000000; width:147px" valign="bottom">
+<td>
 
 40 days/yr.
 
 </td>
 
-<td style="border:1px solid #000000; width:147px" valign="bottom">
+<td>
 
 0.1538 hrs.
 
@@ -142,15 +142,15 @@ Over 20 Years
 
 </span>
 
-<table style="width:100%" border="3">
+<table border="1">
 
 <tbody>
 
 <tr>
 
-<td style="border:1px solid #000000; width:197px" valign="top"> </td>
+<td>
 
-<td style="border:1px solid #000000; width:197px" valign="top">
+<td>
 
 **Maximum (hours) at fiscal year end\***
 
@@ -160,13 +160,13 @@ Over 20 Years
 
 <tr>
 
-<td style="border:1px solid #000000; width:197px" valign="top">
+<td>
 
 Staff on 8 Hrs./Day Schedules
 
 </td>
 
-<td style="border:1px solid #000000; width:197px" valign="top">
+<td>
 
 192
 
@@ -176,13 +176,13 @@ Staff on 8 Hrs./Day Schedules
 
 <tr>
 
-<td style="border:1px solid #000000; width:197px" valign="top">
+<td>
 
 Staff on 7.75 Hrs./Day Schedules
 
 </td>
 
-<td style="border:1px solid #000000; width:197px" valign="top">
+<td>
 
 186
 

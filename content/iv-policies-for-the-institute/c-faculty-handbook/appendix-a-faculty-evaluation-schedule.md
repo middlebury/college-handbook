@@ -8,13 +8,13 @@ title: "Appendix A: Faculty Evaluation Schedule"
 
 **_(1) By procedure type           Deadline_**
 
-<table >
+<table>
 
 <tbody>
 
 <tr>
 
-<td colspan="2" valign="top" width="432">
+<td>
 
 **Sabbatical Leave**<span style="text-decoration:underline"></span>
 
@@ -24,13 +24,13 @@ title: "Appendix A: Faculty Evaluation Schedule"
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Faculty submission<span style="text-decoration:underline"></span>
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 **September 15**
 
@@ -40,13 +40,13 @@ Faculty submission<span style="text-decoration:underline"></span>
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Peer Review Committee<span style="text-decoration:underline"></span>
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 September 30
 
@@ -56,13 +56,13 @@ September 30
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Dean   <span style="text-decoration:underline"></span>
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 October 15
 
@@ -72,13 +72,13 @@ October 15
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 FEC    <span style="text-decoration:underline"></span>
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 November 30
 
@@ -88,13 +88,13 @@ November 30
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Administration Notification
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 **December 15**
 
@@ -104,15 +104,15 @@ Administration Notification
 
 <tr>
 
-<td valign="top" width="246"></td>
+<td>
 
-<td valign="top" width="186"></td>
+<td>
 
 </tr>
 
 <tr>
 
-<td colspan="2" valign="top" width="432">
+<td>
 
 **Annual Review**
 
@@ -122,13 +122,13 @@ Administration Notification
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Faculty submission
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 **January 31**
 
@@ -138,13 +138,13 @@ Faculty submission
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Dean
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 March 15
 
@@ -154,15 +154,15 @@ March 15
 
 <tr>
 
-<td valign="top" width="246"></td>
+<td>
 
-<td valign="top" width="186"></td>
+<td>
 
 </tr>
 
 <tr>
 
-<td colspan="2" valign="top" width="432">
+<td>
 
 **Contract Renewal**
 
@@ -172,13 +172,13 @@ March 15
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Faculty submission
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 **October 15**
 
@@ -188,13 +188,13 @@ Faculty submission
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Peer Review Committee
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 October 31
 
@@ -204,13 +204,13 @@ October 31
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Dean
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 November 30
 
@@ -220,13 +220,13 @@ November 30
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 FEC
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 March 31
 
@@ -236,13 +236,13 @@ March 31
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Administration Notification
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 **April 30**
 
@@ -252,15 +252,15 @@ Administration Notification
 
 <tr>
 
-<td valign="top" width="246"></td>
+<td>
 
-<td valign="top" width="186"></td>
+<td>
 
 </tr>
 
 <tr>
 
-<td colspan="2" valign="top" width="432">
+<td>
 
 **Promotion**
 
@@ -270,13 +270,13 @@ Administration Notification
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Proposed names of external reviewers submitted by Candidate and Dean to the VPAA
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 October 1
 
@@ -286,13 +286,13 @@ October 1
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Faculty submission
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 **January 15**
 
@@ -302,13 +302,13 @@ Faculty submission
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Peer Review Committee
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 February 15
 
@@ -318,13 +318,13 @@ February 15
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Dean
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 February 28
 
@@ -334,13 +334,13 @@ February 28
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 FEC
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 April 30
 
@@ -350,13 +350,13 @@ April 30
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Administration Notification
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 **June 30**
 
@@ -374,13 +374,13 @@ _Note: the faculty submission and administration notification dates (bolded abov
 
 <span style="text-decoration:underline"></span>
 
-<table >
+<table>
 
 <tbody>
 
 <tr>
 
-<td colspan="2" valign="top" width="432">
+<td>
 
 **Faculty Submission**
 
@@ -390,13 +390,13 @@ _Note: the faculty submission and administration notification dates (bolded abov
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Sabbatical Leave
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 September 15
 
@@ -406,13 +406,13 @@ September 15
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Annual Review
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 January 31
 
@@ -422,13 +422,13 @@ January 31
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Contract Renewal
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 October 15
 
@@ -438,13 +438,13 @@ October 15
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Promotion
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 January 15
 
@@ -454,13 +454,13 @@ January 15
 
 <tr>
 
-<td colspan="2" valign="top" width="432"></td>
+<td>
 
 </tr>
 
 <tr>
 
-<td colspan="2" valign="top" width="432">
+<td>
 
 **Peer Review Committee Deadline**
 
@@ -470,13 +470,13 @@ January 15
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Sabbatical Leave
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 September 30
 
@@ -486,13 +486,13 @@ September 30
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Contract Renewal
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 October 31
 
@@ -502,13 +502,13 @@ October 31
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Promotion
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 February 15
 
@@ -518,15 +518,15 @@ February 15
 
 <tr>
 
-<td valign="top" width="246"></td>
+<td>
 
-<td valign="top" width="186"></td>
+<td>
 
 </tr>
 
 <tr>
 
-<td colspan="2" valign="top" width="432">
+<td>
 
 **Dean’s Deadline**
 
@@ -536,13 +536,13 @@ February 15
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Sabbatical Leave
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 October 15
 
@@ -552,13 +552,13 @@ October 15
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Annual Review
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 March 15
 
@@ -568,13 +568,13 @@ March 15
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Contract Renewal
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 November 30
 
@@ -584,13 +584,13 @@ November 30
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Promotion
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 February 28
 
@@ -600,15 +600,15 @@ February 28
 
 <tr>
 
-<td valign="top" width="246"></td>
+<td>
 
-<td valign="top" width="186"></td>
+<td>
 
 </tr>
 
 <tr>
 
-<td colspan="2" valign="top" width="432">
+<td>
 
 **FEC Deadline**
 
@@ -618,13 +618,13 @@ February 28
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Sabbatical Leave
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 November 30
 
@@ -634,13 +634,13 @@ November 30
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Contract Renewal
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 March 31
 
@@ -650,13 +650,13 @@ March 31
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Promotion
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 April 30
 
@@ -666,15 +666,15 @@ April 30
 
 <tr>
 
-<td valign="top" width="246"></td>
+<td>
 
-<td valign="top" width="186"></td>
+<td>
 
 </tr>
 
 <tr>
 
-<td colspan="2" valign="top" width="432">
+<td>
 
 **Administration Notification Deadline**
 
@@ -684,13 +684,13 @@ April 30
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Sabbatical Leave
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 December 15
 
@@ -700,13 +700,13 @@ December 15
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Contract Renewal
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 April 30
 
@@ -716,13 +716,13 @@ April 30
 
 <tr>
 
-<td valign="top" width="246">
+<td>
 
 Promotion
 
 </td>
 
-<td valign="top" width="186">
+<td>
 
 June 30
 

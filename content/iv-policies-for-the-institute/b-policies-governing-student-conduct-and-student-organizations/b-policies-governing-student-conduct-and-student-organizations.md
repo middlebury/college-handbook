@@ -8,7 +8,7 @@ title: "B. Policies Governing Student Conduct and Student Organizations"
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

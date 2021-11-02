@@ -8,7 +8,7 @@ title: "B.4. Student Clubs and Organizations"
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

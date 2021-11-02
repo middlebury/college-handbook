@@ -14,7 +14,7 @@ The primary purposes of regulations and discipline in an academic community are 
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

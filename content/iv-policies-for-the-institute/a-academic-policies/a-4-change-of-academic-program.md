@@ -8,7 +8,7 @@ title: "A.4. Change of Academic Program"
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

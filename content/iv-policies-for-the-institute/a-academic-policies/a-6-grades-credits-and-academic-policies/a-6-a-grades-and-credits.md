@@ -10,21 +10,21 @@ title: "A.6.a. Grades and Credits"
 
 <span>(2) At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practica, and other academic work leading to the awarding of credit hours.  We do not award credit hours solely for doing an internship. Internships for which credit is awarded must be an integral part of a more extended academic activity for which credit hours have been assigned based on the definition above.</span>
 
-**<span style="text-decoration:underline"><span></span></span>**<span>The following system of grading is used at the Middlebury Institute:</span>
+**<span style="text-decoration:underline"></span>**<span>The following system of grading is used at the Middlebury Institute:</span>
 
-<table style="width:539px">
+<table>
 
 <tbody>
 
 <tr>
 
-<td width="215" valign="top">
+<td>
 
 <span>A and A+</span>
 
 </td>
 
-<td width="221" valign="top">
+<td>
 
 <span>4.00 grade points per credit</span>
 
@@ -34,13 +34,13 @@ title: "A.6.a. Grades and Credits"
 
 <tr>
 
-<td width="215" valign="top">
+<td>
 
 <span>A- (minus)</span>
 
 </td>
 
-<td width="221" valign="top">
+<td>
 
 <span>3.67</span>
 
@@ -50,13 +50,13 @@ title: "A.6.a. Grades and Credits"
 
 <tr>
 
-<td width="215" valign="top">
+<td>
 
 <span>B+ (plus)</span>
 
 </td>
 
-<td width="221" valign="top">
+<td>
 
 <span>3.33</span>
 
@@ -66,13 +66,13 @@ title: "A.6.a. Grades and Credits"
 
 <tr>
 
-<td width="215" valign="top">
+<td>
 
 <span>B</span>
 
 </td>
 
-<td width="221" valign="top">
+<td>
 
 <span>3.00</span>
 
@@ -82,13 +82,13 @@ title: "A.6.a. Grades and Credits"
 
 <tr>
 
-<td width="215" valign="top">
+<td>
 
 <span>B-</span>
 
 </td>
 
-<td width="221" valign="top">
+<td>
 
 <span>2.67</span>
 
@@ -98,13 +98,13 @@ title: "A.6.a. Grades and Credits"
 
 <tr>
 
-<td width="215" valign="top">
+<td>
 
 <span>C+</span>
 
 </td>
 
-<td width="221" valign="top">
+<td>
 
 <span>2.33</span>
 
@@ -114,13 +114,13 @@ title: "A.6.a. Grades and Credits"
 
 <tr>
 
-<td width="215" valign="top">
+<td>
 
 <span>C</span>
 
 </td>
 
-<td width="221" valign="top">
+<td>
 
 <span>2.00</span>
 
@@ -130,13 +130,13 @@ title: "A.6.a. Grades and Credits"
 
 <tr>
 
-<td width="215" valign="top">
+<td>
 
 <span>C-</span>
 
 </td>
 
-<td width="221" valign="top">
+<td>
 
 <span>1.67</span>
 
@@ -146,13 +146,13 @@ title: "A.6.a. Grades and Credits"
 
 <tr>
 
-<td width="215" valign="top">
+<td>
 
 <span>D+</span>
 
 </td>
 
-<td width="221" valign="top">
+<td>
 
 <span>1.33</span>
 
@@ -162,13 +162,13 @@ title: "A.6.a. Grades and Credits"
 
 <tr>
 
-<td width="215" valign="top">
+<td>
 
 <span>D</span>
 
 </td>
 
-<td width="221" valign="top">
+<td>
 
 <span>1.00</span>
 
@@ -178,13 +178,13 @@ title: "A.6.a. Grades and Credits"
 
 <tr>
 
-<td width="215" valign="top">
+<td>
 
 <span>D-</span>
 
 </td>
 
-<td width="221" valign="top">
+<td>
 
 <span>0.67</span>
 
@@ -194,13 +194,13 @@ title: "A.6.a. Grades and Credits"
 
 <tr>
 
-<td width="215" valign="top">
+<td>
 
 <span>F (Fail)</span>
 
 </td>
 
-<td width="221" valign="top">
+<td>
 
 <span>0.00</span>
 
@@ -210,13 +210,13 @@ title: "A.6.a. Grades and Credits"
 
 <tr>
 
-<td width="215" valign="top">
+<td>
 
 <span>P (Pass)</span>
 
 </td>
 
-<td width="221" valign="top">
+<td>
 
 <span>Credit for course, no grade points</span>
 
@@ -226,13 +226,13 @@ title: "A.6.a. Grades and Credits"
 
 <tr>
 
-<td width="215" valign="top">
+<td>
 
 <span>NP (No Pass)</span>
 
 </td>
 
-<td width="221" valign="top">
+<td>
 
 <span>No grade points or credit</span>
 
@@ -242,13 +242,13 @@ title: "A.6.a. Grades and Credits"
 
 <tr>
 
-<td width="215" valign="top">
+<td>
 
 <span>I (Incomplete)</span>
 
 </td>
 
-<td width="221" valign="top">
+<td>
 
 <span>No grade points or credit</span>
 
@@ -258,13 +258,13 @@ title: "A.6.a. Grades and Credits"
 
 <tr>
 
-<td width="215" valign="top">
+<td>
 
 <span>W (Withdrawal with permission)</span>
 
 </td>
 
-<td width="221" valign="top">
+<td>
 
 <span>No grade points or credit</span>
 
@@ -274,13 +274,13 @@ title: "A.6.a. Grades and Credits"
 
 <tr>
 
-<td width="215" valign="top">
+<td>
 
 <span>AU (Audit)</span>
 
 </td>
 
-<td width="221" valign="top">
+<td>
 
 <span>No grade points or credit</span>
 
@@ -290,13 +290,13 @@ title: "A.6.a. Grades and Credits"
 
 <tr>
 
-<td width="215" valign="top">
+<td>
 
 <span>IP (In Progress)</span>
 
 </td>
 
-<td width="221" valign="top">
+<td>
 
 <span>No grade points or credit</span>
 

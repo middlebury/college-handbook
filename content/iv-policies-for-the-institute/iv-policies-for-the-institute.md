@@ -10,7 +10,7 @@ title: "IV. Policies for the Institute of International Studies"
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

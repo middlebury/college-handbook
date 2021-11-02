@@ -8,7 +8,7 @@ title: "A.5. Instruction"
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 

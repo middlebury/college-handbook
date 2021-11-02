@@ -108,15 +108,15 @@ An individual who exclusively reports allegations to a confidential resource mus
 
 The CBRT will handle information with sensitivity and discretion. However, the CBRT may need to disclose allegations and/or other information (including the identity of parties and/or witnesses) to the extent necessary to allow Middlebury to proceed with an investigation and/or adjudication under applicable policies.
 
-**<span><a name="disclosure_req" id="disclosure_req"></a>Disclosure Required by Law</span>**<span></span>
+**<span><a name="disclosure_req" id="disclosure_req"></a>Disclosure Required by Law</span>**
 
 Middlebury will not include the names of complainants or other identifying information in publicly available reports that are compiled as required by the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act. Middlebury is part of a larger community, and a variety of additional factors and/or legal requirements may apply.  As an example, if there is an investigation, lawsuit, or criminal proceeding related to a bias incident or hate crime, the parties, witnesses, and/or Middlebury officials may be required by law to provide testimony or documents (e.g., investigation reports, witness statements, and any other information gathered or obtained in the course of a particular matter).
 
-**<span><a name="DisTo" id="DisTo"></a>Disclosure to Law Enforcement</span>**<span></span>
+**<span><a name="DisTo" id="DisTo"></a>Disclosure to Law Enforcement</span>**
 
 In certain circumstances, Middlebury may report an incident to law enforcement authorities. Such circumstances include but are not limited to incidents that warrant the undertaking of safety and security measures for the protection of the individual and/or the campus community, or situations in which there is clear and imminent danger and/or a weapon may be involved. Complainants may always choose to notify authorities directly with or without Middlebury’s assistance, or may choose not to notify such authorities.
 
-**<span><a name="Retaliation" id="Retaliation"></a>Retaliation</span>**<span></span>
+**<span><a name="Retaliation" id="Retaliation"></a>Retaliation</span>**
 
 Retaliating directly or indirectly against a person who has in good faith made a report under this policy or who has supported or participated in an investigation related to a bias incident is prohibited. Retaliation includes but is not limited to ostracizing the person, pressuring the person to drop the report or not participate in the investigation, or to provide false or misleading information, or engaging in conduct that may reasonably be perceived to affect adversely that person’s educational, living, or work environment. Depending on the circumstances, retaliation may be unlawful, whether or not the report is ultimately found to have merit. An individual who engages in retaliation under this policy will be subject to discipline in accordance with the College’s Handbook, Student Life Policies/General Disciplinary Processes, Anti-Harassment/Discrimination policy, or other policies applicable to the program at issue.
 

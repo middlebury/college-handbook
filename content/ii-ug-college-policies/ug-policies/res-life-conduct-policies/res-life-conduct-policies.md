@@ -10,7 +10,7 @@ title: "B.2. Policies Governing Student Conduct, Residential Life, and Student O
 
 <tbody>
 
-<tr valign="top">
+<tr>
 
 <td>
 
