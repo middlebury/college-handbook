@@ -54,7 +54,7 @@ export const SearchBar = ({
     } else {
       setHandleSubmitToggle(0);
     }
-    setResults(results.slice(0, 15));
+    setResults(results.slice(0, 25));
   };
 
   return (

@@ -16,7 +16,7 @@ const SearchResults = ({ results }) => {
               </a>
               <p
                 dangerouslySetInnerHTML={{
-                  __html: `${result.excerpt.slice(0, 60)}...`,
+                  __html: `${result.excerpt.slice(0, 100)}...`,
                 }}
               />
             </div>
