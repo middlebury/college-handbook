@@ -4,10 +4,6 @@ date: "2021-05-01"
 title: "2.12 Controlled Substance and Alcohol Testing for Employees with a Work-required CDL"
 ---
 
-<div class="field-items">
-
-<div class="field-item even">
-
 **Purpose:** Middlebury College values the health and safety of its employees. The College also adheres to DOT requirements for those employees who hold a commercial driver's license as part of their position responsibilities for travel within the state. Such employees are subject to the controlled substance and alcohol testing rules.
 
 **Policy Statement:** A driver is forbidden to consume or be under the influence of alcohol within four hours of going on duty, while on duty, or while driving, and up to 8 hours following an accident or until the employee undergoes a post-accident test, whichever occurs first.   A driver on duty is forbidden to possess, be under the influence of, or use any Schedule I drug substance, including any amphetamine or formulation of an amphetamine, narcotics or derivatives, or any other substance that makes driving unsafe.
@@ -56,11 +52,7 @@ In all cases, the privacy of the employee and the confidentiality of testing rec
 
 <td valign="top" width="432">
 
-<ul style="list-style:initial;">
-
-<li>An employee holding a CDL as part of his/her position description will submit to a medical examination every 2 years. Certain medical conditions may require more frequent physical examinations.</li>
-
-</ul>
+*   An employee holding a CDL as part of his/her position description will submit to a medical examination every 2 years. Certain medical conditions may require more frequent physical examinations.
 
 </td>
 
@@ -84,14 +76,10 @@ In all cases, the privacy of the employee and the confidentiality of testing rec
 
 <td valign="top" width="432">
 
-<ul style="list-style:initial;">
-
-<li>The College must ask an applicant about previous pre-employment tests or refusals where the applicant did not obtain a job, during two years preceding the applicant's date of application. If the applicant had any positive tests or refusal, s/he must provide documented completion of the return-to-duty process.</li>
-<li>Prior to the first time a driver performs safety-sensitive functions for the College, s/he will undergo testing for alcohol and controlled substances.</li>
-<li>A controlled substances test may be waived if the driver has participated in a controlled substances testing program within the past 30 days, and while participating in the program either was tested for controlled substances within the past 6 months (from the date of the application), or participated in the random controlled substances testing program for the previous 12 months, (from the date of the application), and the College ensures that no prior employer of the applicant of whom the College has knowledge has records of a violation of the controlled substances use rule of another DOT agency within the previous 6 months.</li>
-<li>If the controlled substance testing is waived, the College will contact the controlled substances program in which the driver participated to obtain:</li>
-
-</ul>
+*   The College must ask an applicant about previous pre-employment tests or refusals where the applicant did not obtain a job, during two years preceding the applicant's date of application. If the applicant had any positive tests or refusal, s/he must provide documented completion of the return-to-duty process.
+*   Prior to the first time a driver performs safety-sensitive functions for the College, s/he will undergo testing for alcohol and controlled substances.
+*   A controlled substances test may be waived if the driver has participated in a controlled substances testing program within the past 30 days, and while participating in the program either was tested for controlled substances within the past 6 months (from the date of the application), or participated in the random controlled substances testing program for the previous 12 months, (from the date of the application), and the College ensures that no prior employer of the applicant of whom the College has knowledge has records of a violation of the controlled substances use rule of another DOT agency within the previous 6 months.
+*   If the controlled substance testing is waived, the College will contact the controlled substances program in which the driver participated to obtain:
 
 \- the name and address of the program,
 
@@ -127,12 +115,8 @@ In all cases, the privacy of the employee and the confidentiality of testing rec
 
 <td valign="top" width="432">
 
-<ul style="list-style:initial;">
-
-<li>As part of the Commercial Safety Consortium, Middlebury College employees with job-related CDLs will participate in controlled substance and alcohol testing. Approximately 50% of Middlebury College drivers will be tested for controlled substances annually. Approximately 25% (or the rate authorized by DOT) of Middlebury College drivers will be tested for alcohol annually.</li>
-<li>Such testing is conducted on a random unannounced basis just prior to, during, or immediately after performance of safety-sensitive functions. Upon notification of individuals selected for testing by Champlain Valley Urgent Care, Facilities Services will contact the employee(s), who will submit for testing on the date and time given.</li>
-
-</ul>
+*   As part of the Commercial Safety Consortium, Middlebury College employees with job-related CDLs will participate in controlled substance and alcohol testing. Approximately 50% of Middlebury College drivers will be tested for controlled substances annually. Approximately 25% (or the rate authorized by DOT) of Middlebury College drivers will be tested for alcohol annually.
+*   Such testing is conducted on a random unannounced basis just prior to, during, or immediately after performance of safety-sensitive functions. Upon notification of individuals selected for testing by Champlain Valley Urgent Care, Facilities Services will contact the employee(s), who will submit for testing on the date and time given.
 
 </td>
 
@@ -156,23 +140,15 @@ In all cases, the privacy of the employee and the confidentiality of testing rec
 
 <td valign="top" width="432">
 
-<ul style="list-style:initial;">
-
-<li>Controlled substance/alcohol tests will be conducted after a College employee with a work-specific CDL is involved in or contributed to a qualifying accident.</li>
-<li>If a driver is involved in a motor vehicle accident or receives a moving violation after a work-related driving accident, controlled substance and alcohol testing will be conducted immediately (within 8 hours for alcohol and 32 hours for controlled substance testing).</li>
-<li>In order to test under post accident rules, the following conditions must be met:</li>
-
-</ul>
+*   Controlled substance/alcohol tests will be conducted after a College employee with a work-specific CDL is involved in or contributed to a qualifying accident.
+*   If a driver is involved in a motor vehicle accident or receives a moving violation after a work-related driving accident, controlled substance and alcohol testing will be conducted immediately (within 8 hours for alcohol and 32 hours for controlled substance testing).
+*   In order to test under post accident rules, the following conditions must be met:
 
 1)  a death must have occurred, or
 
 2)  the driver was cited for some type of moving violation within 8 hours of the occurrence AND any vehicle was towed from the scene OR any injury occurred that required medical treatment away from the scene of the accident.
 
-<ul style="list-style:initial;">
-
-<li>If neither of the conditions were met, the testing cannot be done under post-accident rules. If the supervisor has reasonable suspicion that use or abuse contributed to the accident, s/he may have the test performed under reasonable suspicion rules.</li>
-
-</ul>
+*   If neither of the conditions were met, the testing cannot be done under post-accident rules. If the supervisor has reasonable suspicion that use or abuse contributed to the accident, s/he may have the test performed under reasonable suspicion rules.
 
 </td>
 
@@ -196,13 +172,9 @@ In all cases, the privacy of the employee and the confidentiality of testing rec
 
 <td valign="top" width="432">
 
-<ul style="list-style:initial;">
-
-<li>A driver will submit to controlled substance/alcohol testing when the College has a reasonable suspicion to believe that the CDL driver has violated the regulations concerning use of controlled substances and/or alcohol.</li>
-<li>Determination that a reasonable suspicion exists must be based on explicit, describable observations concerning the appearance, contemporaneous, behavior, speech or odors of the driver. Trained supervisory staff will make such determinations.</li>
-<li>Middlebury College has decided that if a breath test cannot be administered, the driver must be removed from performing safety-sensitive duties for at least 24 hours, with pay. This is not a DOT regulation.</li>
-
-</ul>
+*   A driver will submit to controlled substance/alcohol testing when the College has a reasonable suspicion to believe that the CDL driver has violated the regulations concerning use of controlled substances and/or alcohol.
+*   Determination that a reasonable suspicion exists must be based on explicit, describable observations concerning the appearance, contemporaneous, behavior, speech or odors of the driver. Trained supervisory staff will make such determinations.
+*   Middlebury College has decided that if a breath test cannot be administered, the driver must be removed from performing safety-sensitive duties for at least 24 hours, with pay. This is not a DOT regulation.
 
 </td>
 
@@ -226,13 +198,9 @@ In all cases, the privacy of the employee and the confidentiality of testing rec
 
 <td valign="top" width="432">
 
-<ul style="list-style:initial;">
-
-<li>Controlled substance/alcohol testing will be conducted when an employee with a CDL for College purposes has violated the prohibited alcohol standards, returns to performing safety-sensitive duties.</li>
-<li>Follow-up tests are unannounced. At least 6 tests will be conducted within the initial 12 months after a driver returns to duty.</li>
-<li>Follow-up testing may be extended for up to 60 months following return to duty.</li>
-
-</ul>
+*   Controlled substance/alcohol testing will be conducted when an employee with a CDL for College purposes has violated the prohibited alcohol standards, returns to performing safety-sensitive duties.
+*   Follow-up tests are unannounced. At least 6 tests will be conducted within the initial 12 months after a driver returns to duty.
+*   Follow-up testing may be extended for up to 60 months following return to duty.
 
 </td>
 
@@ -289,12 +257,8 @@ Service Building
 
 <span style="text-decoration:underline">Certificate of Receipt</span>
 
- I, __________________________, have received a copy of Middlebury College's controlled substance and alcohol policies and procedures.
+ I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, have received a copy of Middlebury College's controlled substance and alcohol policies and procedures.
 
-____________________                    ________________________________
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date                                                    Signature
-
-</div>
-
-</div>
