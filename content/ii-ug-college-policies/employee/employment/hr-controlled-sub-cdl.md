@@ -1,9 +1,9 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/employment/hr-controlled-sub-cdl"
-date: "2021-05-01"
-title: "2.12 Controlled Substance and Alcohol Testing for Employees with a Work-required CDL"
+slug: /pages/ii-ug-college-policies/employee/employment/hr-controlled-sub-cdl
+date: 2021-05-01
+title: 2.12 Controlled Substance and Alcohol Testing for Employees with a
+  Work-required CDL
 ---
-
 <div class="field-items">
 
 <div class="field-item even">
@@ -42,19 +42,18 @@ Drivers who engage in prohibited alcohol conduct will be immediately removed fro
 
 In all cases, the privacy of the employee and the confidentiality of testing records and results will be strictly maintained by Middlebury College.  The integrity of the test process will be maintained.  Test results will be attributed to the correct driver.
 
-<table border="0">
+<table border="2">
 
 <tbody>
 
 <tr>
 
-<td valign="top" width="125">
+<td style="border:1px solid #000000" valign="bottom">
 
 **Physical Examinations**
 
 </td>
-
-<td valign="top" width="432">
+<td style="border:1px solid #000000" valign="bottom">
 
 <ul style="list-style:initial;">
 
@@ -64,25 +63,26 @@ In all cases, the privacy of the employee and the confidentiality of testing rec
 
 </td>
 
+
 </tr>
+
 
 </tbody>
 
 </table>
 
-<table border="0">
+<table border="2">
 
 <tbody>
 
 <tr>
 
-<td valign="top" width="125">
+<td style="border:1px solid #000000" valign="bottom">
 
 **Pre-employment testing for controlled substances**
 
 </td>
-
-<td valign="top" width="432">
+<td style="border:1px solid #000000" valign="bottom">
 
 <ul style="list-style:initial;">
 
@@ -107,25 +107,26 @@ In all cases, the privacy of the employee and the confidentiality of testing rec
 
 </td>
 
+
 </tr>
+
 
 </tbody>
 
 </table>
 
-<table border="0">
+<table border="2">
 
 <tbody>
 
 <tr>
 
-<td valign="top" width="125">
+<td style="border:1px solid #000000" valign="bottom">
 
 **Random testing**
 
 </td>
-
-<td valign="top" width="432">
+<td style="border:1px solid #000000" valign="bottom">
 
 <ul style="list-style:initial;">
 
@@ -136,25 +137,26 @@ In all cases, the privacy of the employee and the confidentiality of testing rec
 
 </td>
 
+
 </tr>
+
 
 </tbody>
 
 </table>
 
-<table border="0">
+<table border="2">
 
 <tbody>
 
 <tr>
 
-<td valign="top" width="125">
+<td style="border:1px solid #000000" valign="bottom">
 
 **Post-accident testing**
 
 </td>
-
-<td valign="top" width="432">
+<td style="border:1px solid #000000" valign="bottom">
 
 <ul style="list-style:initial;">
 
@@ -176,25 +178,26 @@ In all cases, the privacy of the employee and the confidentiality of testing rec
 
 </td>
 
+
 </tr>
+
 
 </tbody>
 
 </table>
 
-<table border="0">
+<table border="2">
 
 <tbody>
 
 <tr>
 
-<td valign="top" width="125">
+<td style="border:1px solid #000000" valign="bottom">
 
 **Reasonable suspicion testing**
 
 </td>
-
-<td valign="top" width="432">
+<td style="border:1px solid #000000" valign="bottom">
 
 <ul style="list-style:initial;">
 
@@ -206,25 +209,26 @@ In all cases, the privacy of the employee and the confidentiality of testing rec
 
 </td>
 
+
 </tr>
+
 
 </tbody>
 
 </table>
 
-<table border="0">
+<table border="2">
 
 <tbody>
 
 <tr>
 
-<td valign="top" width="125">
+<td style="border:1px solid #000000" valign="bottom">
 
 **Return to duty and/or follow-up testing**
 
 </td>
-
-<td valign="top" width="432">
+<td style="border:1px solid #000000" valign="bottom">
 
 <ul style="list-style:initial;">
 
@@ -236,7 +240,9 @@ In all cases, the privacy of the employee and the confidentiality of testing rec
 
 </td>
 
+
 </tr>
+
 
 </tbody>
 
@@ -248,50 +254,39 @@ Drivers who refuse to participate in required testing will be subject to discipl
 
  Behavior that constitutes refusal to participate includes (but is not limited to) the following:
 
-*   Failure to appear for any test.
-
-*   Failure to remain at the testing site until the testing process is complete.
-
-*   Failure to provide a urine or breath sample for any test required by federal or state regulations.
-
-*   Inability to provide sufficient quantities of breath, saliva, or urine to be tested without a valid medical explanation.
-
-*   Tampering with or attempting to adulterate the specimen.
-
-*   Interfering with the collection procedures.
-
-*   Possessing or wearing a prosthetic or other device that could be used to interfere with the collection process.
-
-*   Not immediately reporting to collection site.
-
-*   Failure to cooperate with any part of the testing process.
-
-*   Having a test result reported by an MRO as adulterated or substituted.
+* Failure to appear for any test.
+* Failure to remain at the testing site until the testing process is complete.
+* Failure to provide a urine or breath sample for any test required by federal or state regulations.
+* Inability to provide sufficient quantities of breath, saliva, or urine to be tested without a valid medical explanation.
+* Tampering with or attempting to adulterate the specimen.
+* Interfering with the collection procedures.
+* Possessing or wearing a prosthetic or other device that could be used to interfere with the collection process.
+* Not immediately reporting to collection site.
+* Failure to cooperate with any part of the testing process.
+* Having a test result reported by an MRO as adulterated or substituted.
 
 <span style="text-decoration:underline">Information</span>
 
 Please contact the College's Employee and Family Assistance Plan at 800.828.6025 for information about:
 
-*   The effects of alcohol misuse and controlled substances use on an individual's health, work, and personal life.
-
-*   Signs and symptoms of an alcohol problem
-
-*   Available methods of intervening when an alcohol and/or controlled substance problem is suspected.
+* The effects of alcohol misuse and controlled substances use on an individual's health, work, and personal life.
+* Signs and symptoms of an alcohol problem
+* Available methods of intervening when an alcohol and/or controlled substance problem is suspected.
 
 <span style="text-decoration:underline">More Information & Questions</span>
 
 This is a summary of the testing program.  Requests for more information and questions about this policy should be directed to:
 
-Missy Beckwith  
-Facilities Services  
-Service Building  
+Missy Beckwith\
+Facilities Services\
+Service Building\
 802.443.2798
 
 <span style="text-decoration:underline">Certificate of Receipt</span>
 
- I, __________________________, have received a copy of Middlebury College's controlled substance and alcohol policies and procedures.
+ I, **__**, have received a copy of Middlebury College's controlled substance and alcohol policies and procedures.
 
-____________________                    ________________________________
+**\_\_\_\_**                    **\_\_\_\_**
 
 Date                                                    Signature
 
