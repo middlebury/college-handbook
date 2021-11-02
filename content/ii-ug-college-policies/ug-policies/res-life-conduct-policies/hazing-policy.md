@@ -4,7 +4,7 @@ date: "2021-05-01"
 title: "B.2.c. Policy Against Hazing"
 ---
 
-_Last updated October 4, 2018_
+_Last updated September 10, 2021_
 
 Middlebury’s [General Conduct Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) include promoting healthy, safe, and balanced lifestyles. Student organizations and athletic teams can play a vital role in this process, and can provide transformative opportunities for friendship, leadership, and personal growth and discovery. Hazing of any kind is antithetical to these goals; therefore, Middlebury prohibits hazing activities, whether by an individual or an organization. In keeping with Middlebury’s prohibition of any kind of hazing, training and educational activities are periodically conducted with appropriate staff who support students and campus life.
 
@@ -42,7 +42,7 @@ ii. Shaving, tattooing, piercing or branding
 
 iii. Engaging in or simulating sexual acts
 
-iv.Threatening or causing physical restraint
+iv. Threatening or causing physical restraint
 
 v. Nudity
 
@@ -64,13 +64,13 @@ xiii. Subjecting students to abusive or demeaning conduct
 
 **3\. Policy Violation Review Process**
 
-<span>a. Authority</span>  
-The Vice President for Student Affairs/Dean of the College or an appropriate designee (hereinafter referred to as “VPSA”) monitors the implementation of this policy and imposes sanctions for violations. Any questions concerning the interpretation or application of this policy should be referred to the VPSA.
+a. Authority  
+The Vice President for Student Affairs or an appropriate designee (hereinafter referred to as “VPSA”) monitors the implementation of this policy and imposes sanctions for violations. Any questions concerning the interpretation or application of this policy should be referred to the VPSA.
 
-<span>b. Reporting</span>  
-All Middlebury community members are expected to report activities believed to be hazing to a Commons dean, director of Athletics, associate dean for student activities, or the VPSA. <span>See</span> contact information below.
+b. Reporting  
+All Middlebury community members are expected to report activities believed to be hazing to a Student Life Dean, director of Athletics, associate dean for student activities, or the VPSA. See contact information below.
 
-<span>c. Process</span>  
+c. Process  
 i. When an allegation of hazing or related retaliation is made, the VPSA or appropriate designee will determine initially whether the report or complaint alleges conduct that is prohibited by this policy and whether an investigation should be initiated. The VPSA may also suspend the activities of the organization or the activities of individual members thereof pending the outcome of the investigation.
 
 ii. If the VPSA determines that an investigation should proceed, an investigator(s) will be appointed to conduct an investigation. The investigator is authorized to contact any and all individuals with potentially relevant information, and to access relevant records and documents. The nature and scope of the investigation is within the discretion of the investigator and/or the VPSA.
@@ -83,7 +83,7 @@ v. Prior to the VPSA’s determination, the VPSA will provide a summary of alleg
 
 vi. After review of the investigator’s report, the evidentiary material and the responsive statement, if submitted, the VPSA shall issue a determination as to whether hazing occurred, based on a preponderance of the evidence standard. The complaining party, if identified, and the responding party under investigation will ordinarily be notified of the VPSA’s determination as to whether there was a policy violation.
 
-**<span>4\. Sanctions</span>**
+**4\. Sanctions**
 
 a. Sanctions for organizations may range from permanent suspension of recognition or authorization to operate, through cancellation, termination or restriction of activities and events, and other sanctions tailored to the particular circumstances.
 
@@ -91,7 +91,7 @@ b. Sanctions for individuals may include all of the usual sanctions under Middle
 
 **5\. Additional Policy Violations**
 
-Reported incidents may be referred to a judicial affairs officer, human relations officer, or other Middlebury official, as appropriate to the circumstances, to address alleged violations of other Middlebury policies, including but not limited to Middlebury’s [General Conduct Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards), [Anti-Harassment/Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin) and [Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct and Stalking](/pages/i-policies-for-all/non-discrim-policies/smdvs).
+Reported incidents may be referred to a judicial affairs officer, human relations officer, or other Middlebury official, as appropriate to the circumstances, to address alleged violations of other Middlebury policies, including but not limited to Middlebury’s [General Conduct Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) and [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy).
 
 **6\. Referral to Law Enforcement**
 
@@ -105,10 +105,10 @@ Emergency: 802.443.5911
 
 Non-emergency: 802.443.5133
 
-[Vice President for Student Affairs (Interim) and Dean of Students](https://www.middlebury.edu/student-life/staff/leadership)  
-<span>Baishakhi Taylor</span>  
-<span>802.443.5771</span>  
-[taylorb@middlebury.edu](mailto:taylorb@middlebury.edu)
+[Vice President for Student Affairs](https://www.middlebury.edu/student-life/staff/leadership)  
+Smita Ruzicka
+802.443.5382  
+[sruzicka@middlebury.edu](mailto:sruzicka@middlebury.edu)
 
 [Director of Athletics](https://athletics.middlebury.edu/information/directory/bios/quinn?view=bio)  
 Erin Quinn  
@@ -120,9 +120,9 @@ Derek Doucet
 802.443.3108  
 [ddoucet@middlebury.edu](mailto:ddoucet@middlebury.edu)
 
-[Commons Deans](https://www.middlebury.edu/studentlife/commons)  
-Atwater:         802.443.3310  
-Brainerd:        802.443.3320  
-Cook:             802.443.3330  
-Ross:             802.443.3340  
-Wonnacott:      802.443.3350
+[Student Life Deans](https://www.middlebury.edu/college/student-life/student-life-deans)  
+Scott Barnicle:  802.443.3350  
+Matt Longman:  802.443.3350  
+Emily Van Mistri:  802.443.3340  
+Jennifer Sellers:  802.443.3340
+

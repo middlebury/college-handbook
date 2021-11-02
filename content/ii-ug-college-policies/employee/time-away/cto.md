@@ -90,13 +90,13 @@ Over 2-10 Years
 
 <tr>
 
-<td style="border:1px solid #000000; width:147px; text-align:center" valign="bottom">
+<td style="border:1px solid #000000; width:147px;" valign="bottom">
 
 Over 10-20 Years
 
 </td>
 
-<td style="border:1px solid #000000; width:147px; text-align:center" valign="bottom">
+<td style="border:1px solid #000000; width:147px;" valign="bottom">
 
 36 days/yr.
 

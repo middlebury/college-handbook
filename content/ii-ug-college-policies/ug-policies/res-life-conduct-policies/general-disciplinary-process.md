@@ -28,7 +28,7 @@ title: "B.2.d. Student Conduct Process"
 
 ---
 
-# <a name="intro" id="intro"></a>I. Introduction to Middlebury Student Discipline Processes
+## <a name="intro" id="intro"></a>I. Introduction to Middlebury Student Discipline Processes
 
 ### <a name="overview" id="overview"></a>a. Overview
 
@@ -40,7 +40,7 @@ Concerns about student behavior should be shared with the Office of Community St
 
 Conduct matters may be resolved in several ways.  Restorative justice may be available for both academic and non-academic issues.  Conduct issues where the relevant facts are not in dispute will ordinarily be resolved by the assignment of a sanction from the Office of Community Standards.  If a student is assigned a sanction of official college discipline, they may appeal that sanction to the appropriate Vice-President or Dean.  For conduct issues where the facts are disputed, a hearing will be held before the Judicial Board.  The Board will determine the facts and make a recommendation regarding sanction to the Office of Community Standards.  Procedures for Judicial Board hearings are outlined below.
 
-# <a name="prelimissues" id="prelimissues"></a>II. Preliminary Issues
+## <a name="prelimissues" id="prelimissues"></a>II. Preliminary Issues
 
 ### <a name="applicability" id="applicability"></a>a. Applicability of These Procedures
 
@@ -52,7 +52,9 @@ In certain circumstances, the Office of Community Standards (or the Vice Preside
 
 ### <a name="NCO" id="NCO"></a>c. No Contact Orders
 
-When a verbal or physical altercation, sexual misconduct, stalking, harassment, discrimination, retaliation, or hazing has been alleged, or when otherwise deemed appropriate under the circumstances, the VPSA, dean of students, deans, Human Relations Officers, Civil Rights/Title IX coordinator, and members of the Public Safety staff have the authority to issue No Contact Orders to the persons involved, whether or not disciplinary action is taken. A No Contact Order is used to restrict encounters between individuals. While a No Contact Order is not a disciplinary sanction, and will not appear on a student’s disciplinary record, refusal to adhere to the order after written or verbal notification of its terms is prohibited and may result in disciplinary action.
+When a verbal or physical altercation, sexual misconduct, stalking, harassment, discrimination, retaliation, or hazing has been alleged, or when otherwise deemed appropriate under the circumstances, the VPSA, dean of students, student life deans, Human Relations Officers, Civil Rights/Title IX coordinator, Assistant Director for Student Success and members of the Public Safety staff have the authority to issue No Contact Orders to the persons involved, whether or not disciplinary action is taken. A No Contact Order is used to restrict encounters between individuals. While a No Contact Order is not a disciplinary sanction, and will not appear on a student’s disciplinary record, refusal to adhere to the order after written or verbal notification of its terms is prohibited and may result in disciplinary action.
+
+No Contact Orders ordinarily remain in effect until all, or all but one, of the involved students is permanently separated from the College through graduation, resignation, transfer or expulsion, at which time NCOs are closed and archived. No Contact Orders can be modified by those with the authority to issue them in response to changes in the parties’ circumstances, and can be rescinded by the issuing authority at the request of both parties to the No Contact Order. If a No Contact Order is in place between parties in an active adaptable resolution process, any communication between parties that is coordinated by an adaptable resolution facilitator will not be considered a violation of the No Contact Order.
 
 ### <a name="legalproceedings" id="legalproceedings"></a>d. Legal Proceedings and Legal Counsel
 
@@ -72,7 +74,7 @@ Middlebury’s discipline procedures are driven by our commitment to fundamental
 
 Colleges are not courts of law, and Middlebury’s disciplinary proceedings have as their fundamental goal _education_, rather than criminal punishment or compensation.  Middlebury does not have the power to subpoena evidence or place witnesses under oath, and procedures are therefore necessarily different from a civil or criminal legal proceeding. However, the procedures outlined below and in the [TIX Sexual Harassment Investigations and Resolutions Procedure](/pages/i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy), as well as the [Non-Discrimination Investigations and Resolutions Procedure](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin), are designed to provide fundamental fairness and to protect students from arbitrary or capricious disciplinary action. All disciplinary authorities of Middlebury, including judicial board members, deans and Human Relations Officers conduct their proceedings in the spirit of these principles. If exceptional circumstances dictate variation from these procedures, the variation will not invalidate a decision unless it prevented fundamental fairness.
 
-# <a name="chargesevidence" id="chargesevidence"></a>III. Charges and Evidence
+## <a name="chargesevidence" id="chargesevidence"></a>III. Charges and Evidence
 
 a. Concerns regarding student behavior may be brought to the Office of Community Standards by any individual, whether or not they are a member of the Middlebury College community.
 
@@ -86,7 +88,7 @@ e. The Office of Community Standards will ordinarily notify the student with a w
 
 f. Formal or legal rules of evidence do not apply in Middlebury disciplinary proceedings.  The Office of Community Standards is responsible for administering procedures to ensure they are based on meaningful evidence.  If a hearing occurs, the chair will make decisions on evidentiary or procedural questions that must be resolved during the hearing.  The majority of the Board may override the chair’s decision, if they disagree.
 
-# <a name="restorativeresolutions" id="restorativeresolutions"></a>IV. Restorative Resolutions
+## <a name="restorativeresolutions" id="restorativeresolutions"></a>IV. Restorative Resolutions
 
 a. If a student accepts responsibility for violating academic or non-academic policy, a Restorative Justice Panel (RJP) may be called to explore and identify the harm to individuals and/or community, and work with the responsible party to design an action plan and outcomes to repair harm caused.
 
@@ -98,7 +100,7 @@ d. All action plans must be approved by the Office of Community Standards. Stude
 
 e. Restorative Panels will be comprised by one faculty, one staff, and two student members of the current Judicial Board.
 
-# <a name="deansdisposition" id="deansdisposition"></a>V. Dean’s Dispositions
+## <a name="deansdisposition" id="deansdisposition"></a>V. Dean’s Dispositions
 
 a. After written notice of the concern or charges against them, and the student’s opportunity to provide evidence, the Office of Community Standards will determine whether there are disputed facts at issue.
 
@@ -112,7 +114,7 @@ e. If the sanction is a form of official College discipline for academic miscond
 
 f. If the sanction is a form of official College discipline for non-academic misconduct, the respondent may appeal the determination of responsibility to the VPSA or Dean of Students, as described below.
 
-# <a name="judicialboard" id="judicialboard"></a>VI. The Judicial Board
+## <a name="judicialboard" id="judicialboard"></a>VI. The Judicial Board
 
 ### <a name="composition" id="composition"></a>a. Composition
 
@@ -163,7 +165,7 @@ xiv. If a hearing results in a finding of not responsible, there will be no reco
 
 xv. The Office of Community Standards will ordinarily give written notification of the determination of the Board, and the sanction assigned by the Office, to the student charged.  Failure to meet this guideline does not invalidate a decision or form a basis for appeal.
 
-# <a name="sanctions" id="sanctions"></a>VII. Sanctions
+## <a name="sanctions" id="sanctions"></a>VII. Sanctions
 
 Middlebury College’s sanctions are generally described in Section B. 2\. e. of the Handbook and the information below is specific to conduct matters addressed under this process.
 
@@ -175,7 +177,7 @@ c. Sanctions are ordinarily issued by the Office of Community Standards.  Howev
 
 d. Plagiarism, cheating, or any other violation of the Undergraduate Honor System is normally punishable by suspension. In 1997, the faculty reaffirmed its commitment to suspension as the normal outcome for violations of the standards of academic integrity. Students found guilty of academic dishonesty will normally fail the course in which the offense occurred.  On rare occasions, if compelling reasons exist for not suspending a student found guilty of academic dishonesty, the sanctioning authority may issue no less than a reprimand and invoke either of the following penalties: a 0 or an F on the piece of work, or a 0 or an F in the course.
 
-# <a name="appeals" id="appeals"></a>VIII. Appeals
+## <a name="appeals" id="appeals"></a>VIII. Appeals
 
 a. Appeals are reviewed by Middlebury authorities who did not participate in the initial determination, and are trained to be impartial and free from a conflict of interest.
 
@@ -197,12 +199,10 @@ ii. If the sanction is a form of official College discipline for non-academic mi
 
 iii. Appeals to the VPAA/DOF and the VPSA will follow the same process:
 
-1\. The VPAA/DOF or the VPSA may grant extensions of time for the respondent to appeal, upon request.   
-2\. The VPAA/DOF or the VPSA will provide a copy of the written appeal to the Office of Community Standards, and the Office will provide access to the records of the case to the VPAA/DOF or VPSA.  
-3\. The VPAA/DOF or the VPSA may consult with the Office of Community Standards and any other relevant individual regarding the appeal, as appropriate.   
-4\. The VPAA/DOF or the VPSA will consider whether the appeal demonstrates by a preponderance of the evidence one of the bases for further action, and may require re-consideration by the initial decision-maker, re-convening the original Judicial Board, convening a new Judicial Board, to re-hear the entire matter or only a limited portion, or may require re-deliberation on the sanction.   
-5\. The VPAA/DOF or the VPSA will ordinarily notify the student of their decision within seven business days of the receipt of the records of the initial determination, but this time may be extended if compelling circumstances warrant, and variation from this shall not invalidate a decision.  
-6\. If reconsideration of some kind is required, the Office of Community Standards will take the appropriate steps to implement the decision of the VPAA/DOF or the VPSA, as necessary.  
-7\. Decisions of the VPAA/DOF and the VPSA, or reconsideration of the initial determination by the Dean or the Board after a successful appeal are final, and not subject to further appeal, absent extraordinary circumstances.
-
-_Adopted as a provisional policy on Sept. 11, 2020_
+1. The VPAA/DOF or the VPSA may grant extensions of time for the respondent to appeal, upon request.   
+2. The VPAA/DOF or the VPSA will provide a copy of the written appeal to the Office of Community Standards, and the Office will provide access to the records of the case to the VPAA/DOF or VPSA.  
+3. The VPAA/DOF or the VPSA may consult with the Office of Community Standards and any other relevant individual regarding the appeal, as appropriate.   
+4. The VPAA/DOF or the VPSA will consider whether the appeal demonstrates by a preponderance of the evidence one of the bases for further action, and may require re-consideration by the initial decision-maker, re-convening the original Judicial Board, convening a new Judicial Board, to re-hear the entire matter or only a limited portion, or may require re-deliberation on the sanction.   
+5. The VPAA/DOF or the VPSA will ordinarily notify the student of their decision within seven business days of the receipt of the records of the initial determination, but this time may be extended if compelling circumstances warrant, and variation from this shall not invalidate a decision.  
+6. If reconsideration of some kind is required, the Office of Community Standards will take the appropriate steps to implement the decision of the VPAA/DOF or the VPSA, as necessary.  
+7. Decisions of the VPAA/DOF and the VPSA, or reconsideration of the initial determination by the Dean or the Board after a successful appeal are final, and not subject to further appeal, absent extraordinary circumstances.

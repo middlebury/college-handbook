@@ -61,11 +61,22 @@ Members of and visitors to the Middlebury community are prohibited from engaging
 
 <span style="text-decoration:underline">Other Definitions:</span>
 
-Consent means words or actions, freely and actively given by each party, which a reasonable person would interpret as a willingness to participate in agreed-upon sexual conduct.
+Consent means words or actions, affirmatively, unambiguously and voluntarily spoken or engaged in by each party, which a reasonable person would interpret as a willingness to participate in agreed-upon sexual conduct.
 
-Consent is not present or valid when a person is incapable of giving consent because they are incapacitated by drugs or alcohol; when intimidation, threats, physical force, or other actions that a reasonable person in that person’s circumstances would consider coercive are applied; when that person is placed in fear that any person will suffer imminent bodily injury; when a physical or mental condition is present such that the person cannot knowingly or voluntarily give consent; or when a person is under the age of 16\. Silence, non-communication, or a lack of resistance does not necessarily imply consent. Previous relationships or consent do not imply consent to future sexual conduct. Consent to one form of sexual activity does not imply consent to other forms of sexual activity. Consent can be rescinded at any time.
+Consent is not present or valid when a person is incapable of consenting, as defined below; when intimidation, use of force, threat of force, or other actions that a reasonable person in that person’s circumstances would consider coercive are applied; when that person is placed in fear that any person will suffer imminent bodily injury; when a physical or mental condition is present such that the person cannot knowingly or voluntarily give consent; or when a person is under the age of 16. Silence, non-communication, or a lack of resistance does not necessarily imply consent. Previous relationships or consent do not imply consent to future sexual conduct. Consent to one form of sexual activity does not imply consent to other forms of sexual activity. Consent can be revoked at any time.
+
+A person is “incapable of consenting” for purposes of this policy if they:
+
+*   are incapable of understanding the nature of the conduct at issue;            
+*   are physically incapable of resisting, declining participation in, or communicating unwillingness to engage in the conduct at issue; or
+*   are asleep, unconscious, or otherwise unaware that the conduct is occurring; or
+*   lack the mental ability to make or communicate a decision about whether to engage in the conduct at issue.
+
+ A person may be incapable of consenting due to the effects of alcohol, drugs or other intoxicants, or due to a physical, mental or other condition.
 
 The use of alcohol or drugs does not minimize or excuse a person’s responsibility for committing sexual misconduct, or that person’s responsibility for determining whether another is capable of giving consent, as described above.
+
+Determinations regarding whether a person is responsible for violating this policy will be made by considering whether the person knew, or a reasonable, unimpaired person in their circumstances should have known, that the other person was incapable of consenting to the sexual conduct at issue.
 
 Coercion means the use of unreasonable pressure to gain sexual access. Coercion is more than a momentary effort to persuade, entice, or attract another person to engage in sexual activity.  When a person makes clear a decision not to engage in sexual activity, or makes a decision to stop sexual activity, or a decision not to go beyond a certain sexual activity, continued pressure to engage can be coercive.  In evaluating whether coercion was used, the College will consider: (i) the frequency of the application of pressure; (ii) the intensity of the pressure; (iii) the degree of isolation of the person being pressured; (iv) the duration of the pressure; and (v) any other similar or related conduct.
 
@@ -99,7 +110,7 @@ Middlebury encourages the reporting of all concerns regarding harassment and dis
 
 Middlebury will treat information it has received with appropriate sensitivity and care and will endeavor to protect the privacy of the individuals to the extent it can do so, consistent with its obligations to respond to reports of violations of its policies.  More detailed information on confidentiality can be found in the appropriate Procedure.
 
----
+* * *
 
 ## Glossary of Terms
 
@@ -128,3 +139,5 @@ Middlebury will treat information it has received with appropriate sensitivity a
 **<a name="substantialemotionaldistress" id="substantialemotionaldistress"></a>Substantial emotional distress** – Substantial emotional distress means significant mental suffering or anguish that may, but does not necessarily require medical or other professional treatment or counseling.
 
 _Published: August 14, 2020_
+
+_Amended: September 10, 2021_

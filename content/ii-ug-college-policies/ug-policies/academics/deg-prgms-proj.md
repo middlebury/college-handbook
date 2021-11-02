@@ -58,7 +58,7 @@ Speaking, listening, reading, and writing in a language other than one's own exe
 
 **<a name="cultures" id="cultures"></a>2\. Cultures and Civilizations Requirement**
 
-**<span>For students who entered the College prior to Fall 2017:</span>**
+**For students who entered the College prior to Fall 2017:**
 
 Middlebury College believes that students should have broad educational exposure to the variety of the world's cultures and civilizations, where these terms are broadly understood to intersect with geography, history, ethnicity, gender and other factors. Issues pertaining to culture are thus integral to most of the academic disciplines represented in the curriculum. Accordingly, Middlebury students are required to successfully complete four distinct courses to fulfill the cultures and civilizations requirement by taking a course in each of the following four categories:
 
@@ -70,11 +70,11 @@ c. **EUR**: courses that focus on some aspect of European cultures and civiliza
 
 d. **NOR**: courses that focus on some aspect of the cultures and civilizations of northern America (United States and Canada)
 
-A single course may be listed as fulfilling either AAL, EUR, or NOR (as recommended by the course instructor and determined by the Curriculum Committee).  Courses that satisfy CMP may also carry one of the regional area designations, however a student may not count one of these courses toward both the CMP and AAL/EUR/NOR requirements. A student may also count the same course toward both an academic category requirement, and one of the cultures and civilization<span>s</span> requirements. Courses that count toward the major and the minor, winter term courses, summer study courses, and first-year student seminars may be used to satisfy the cultures and civilizations requirement.
+A single course may be listed as fulfilling either AAL, EUR, or NOR (as recommended by the course instructor and determined by the Curriculum Committee).  Courses that satisfy CMP may also carry one of the regional area designations, however a student may not count one of these courses toward both the CMP and AAL/EUR/NOR requirements. A student may also count the same course toward both an academic category requirement, and one of the cultures and civilizations requirements. Courses that count toward the major and the minor, winter term courses, summer study courses, and first-year student seminars may be used to satisfy the cultures and civilizations requirement.
 
 College Board Advanced Placement credits may not be used to satisfy distribution or cultures and civilizations requirements.
 
-**<span>For students who enter the College in Fall 2017 or later:</span>**
+**For students who enter the College in Fall 2017 or later:**
 
 Middlebury College believes that students should 1) have educational exposure to the variety of the world's cultures and civilizations, where these terms are broadly understood to intersect with geography, history, ethnicity, gender and other factors, and 2) engage critically with sameness, difference, culture, and perspective. These goals are integral to most of the academic disciplines represented in the curriculum.
 
@@ -94,7 +94,7 @@ f. **AMR**: the Americas
 
 plus one Comparative (**CMP**) course, focused on the process of comparison between and among cultures and civilizations, or on the identity and experience of separable groups within cultures and civilizations.
 
-A single course may be listed as fulfilling one of the regional categories (SOA, NOA, MDE, SAF, EUR, AMR; as recommended by the course instructor and determined by the Curriculum Committee).  Courses that satisfy CMP may also carry one of the regional area designations, however a student may not count one of these courses toward both the CMP and regional requirements. A student may count the same course toward both an academic category requirement, and one of the cultures and civilization<span>s</span> requirements. Courses that count toward the major and the minor, winter term courses, summer study courses, and first-year student seminars may be used to satisfy the cultures and civilizations requirement.
+A single course may be listed as fulfilling one of the regional categories (SOA, NOA, MDE, SAF, EUR, AMR; as recommended by the course instructor and determined by the Curriculum Committee).  Courses that satisfy CMP may also carry one of the regional area designations, however a student may not count one of these courses toward both the CMP and regional requirements. A student may count the same course toward both an academic category requirement, and one of the cultures and civilizations requirements. Courses that count toward the major and the minor, winter term courses, summer study courses, and first-year student seminars may be used to satisfy the cultures and civilizations requirement.
 
 College Board Advanced Placement credits may not be used to satisfy distribution or cultures and civilizations requirements.
 
@@ -102,16 +102,16 @@ College Board Advanced Placement credits may not be used to satisfy distribution
 
 Students choose one of the following programs of study:
 
-(a) 1 major (departmental, joint, or interdisciplinary**)
+(a) 1 major (departmental, joint, or interdisciplinary\*\*)
 
-(b) 1 major (departmental, joint, or interdisciplinary**), 1 minor
+(b) 1 major (departmental, joint, or interdisciplinary\*\*), 1 minor
 
 (c) 1 departmental major, 2 minors
 
-(d) 2 majors* (_either 2 departmental or one departmental and one interdisciplinary**_), no minor.
+(d) 2 majors\* (_either 2 departmental or one departmental and one interdisciplinary\*\*_), no minor.
 
-*_A student who has declared two majors will have to choose to complete only one major should scheduling conflicts occur._  
-**_Majors considered interdisciplinary include: American Studies; Black Studies; Environmental Studies; Gender, Sexuality, and Feminist Studies; International and Global Studies; International Politics and Economics; Molecular Biology and Biochemistry; and Neuroscience._
+\*_A student who has declared two majors will have to choose to complete only one major should scheduling conflicts occur._  
+\*\*_Majors considered interdisciplinary include: American Studies; Black Studies; Environmental Studies; Gender, Sexuality, and Feminist Studies; International and Global Studies; International Politics and Economics; Molecular Biology and Biochemistry; and Neuroscience._
 
 A major requires a minimum of 10 fall and spring semester courses. Students may take no more than 16 fall and spring semester courses and, in addition, no more than two winter term and summer study courses, combined, in a major department or program (one of which may be senior work).
 
@@ -153,7 +153,7 @@ To complete two separate majors _(either 2 departmental or one departmental and
 
 Students may elect to complete only one minor if they are undertaking a major that is joint or interdisciplinary. Students may declare up to two minors if they are undertaking a departmental major. A student declaring two majors may not declare any minors.
 
-Normally, all students choosing to declare a minor will do so officially by the end of the Add period of the 7<sup>th</sup> semester of study.
+Normally, all students choosing to declare a minor will do so officially by the end of the Add period of the 7th semester of study.
 
 Minors will consist of four to six courses, at least one of which must be at an advanced level.
 
@@ -169,7 +169,7 @@ A course may count toward a student's major or minor, but not toward both. A cou
 
 **H. Independent Scholar Program**
 
-The Independent Scholar Program is designed to meet the needs of outstanding students who have clearly defined educational goals that cannot be fulfilled within the framework of a normal departmental or interdisciplinary major. Independent Scholars plan their own curricular programs with the assistance of a faculty adviser. Independent Scholars cannot propose two majors, but can pursue an independent scholar major and one minor. For the 2019-20 academic year, application materials are due to the Curriculum Committee by Monday, October 7, 2019, for fall review; and Monday, February 17, 2020, for spring review.
+The Independent Scholar Program is designed to meet the needs of outstanding students who have clearly defined educational goals that cannot be fulfilled within the framework of a normal departmental or interdisciplinary major. Independent Scholars plan their own curricular programs with the assistance of a faculty adviser. Independent Scholars cannot propose two majors, but can pursue an independent scholar major and one minor. For the 2021-22 academic year, application materials are due to the Curriculum Committee by Monday, October 11, 2021, for fall review; and Monday, February 21, 2022, for spring review.
 
 **Eligibility:** For an application to be considered, a student must be in the sophomore year and have a GPA of 3.5 or higher. If approved, students must fulfill all requirements for the degree using their approved Independent Scholar plan as their major course of study.  Independent Scholar proposals will be evaluated in light of feasibility, academic disciplinary integrity, and demonstrated ability of the student. A successful proposal must articulate a fully developed program of study, must include a methods course, and must demonstrate compellingly that the student’s academic goals cannot be met through existing majors.
 
@@ -203,4 +203,4 @@ Each department may, at its discretion and in accordance with its requirements, 
 
 A maximum value of three course units may be assigned for senior work.
 
-_rev. 9/9/19_
+_rev. 9/20/21_

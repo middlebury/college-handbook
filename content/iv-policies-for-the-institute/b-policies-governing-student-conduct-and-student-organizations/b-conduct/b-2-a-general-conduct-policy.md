@@ -1,7 +1,7 @@
 ---
 slug: "/pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-a-general-conduct-policy"
 date: "2021-05-01"
-title: "B.2.b. General Conduct Policy"
+title: "B.2.a. General Conduct Policy"
 ---
 
 #### **A. Respect for Persons**

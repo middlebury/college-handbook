@@ -394,15 +394,15 @@ Middlebury, VT 05753
 802.443.3289  
 [mmccaleb@middlebury.edu](mailto:mmccaleb@middlebury.edu)
 
-**<span>Senior Human Relations Officer</span>**  
-<span><span>Eric Lopez  
+**Senior Human Relations Officer**  
+Eric Lopez  
 Middlebury College  
 Service Building 235  
 802.443\. 3324  
-<a><span style="margin:0px; text-decoration:none">el@middlebury.edu</span></a></span></span>
+[el@middlebury.edu](mailto:el@middlebury.edu)
 
 **Human Relations Officer**  
-<span style="margin:0px">Thaddeus Watulak  
+Thaddeus Watulak  
 Middlebury College  
 Service Building  
 802.443\. 5741  
