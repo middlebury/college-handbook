@@ -527,6 +527,11 @@ export const nodes = [
             label: "C.24. Miscellaneous Policies",
             className: "misc-policies",
           },
+          {
+            value: "ii-ug-college-policies/faculty/consensual-relationships-faculty",
+            label: "C.25. Policy on Consensual Relationships Between Faculty and Staff Members and Students",
+            className: "consensual-relationships-faculty",
+          },
         ],
       },
       {
