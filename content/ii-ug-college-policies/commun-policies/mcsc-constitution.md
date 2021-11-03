@@ -72,7 +72,7 @@ f. A nominee may decline to run for office.
 
 **a.** At least two weeks in advance of the final election date, the Election Committee sends out ballots to voting staff employees.
 
-**b.** The staff employees who received the most nominations and agree<span>d</span> to run are listed on the ballot for each vacant representative's seat.<span> </span>In any given election, the Election Committee, with the approval of the MSC, may choose to limit the number of nominees who will be listed on the election ballot (although the same limitation will apply to all positions in a given year). The ballots also contain space for write-in candidates.
+**b.** The staff employees who received the most nominations and agreed to run are listed on the ballot for each vacant representative's seat. In any given election, the Election Committee, with the approval of the MSC, may choose to limit the number of nominees who will be listed on the election ballot (although the same limitation will apply to all positions in a given year). The ballots also contain space for write-in candidates.
 
 **c.** Staff employees may vote once within their employee work group or campus district and once for the member-at-large representative.
 
@@ -218,7 +218,7 @@ iii. Old business and new business
 
 iv. Opportunity for public comment
 
-**c.** The MSC may invite groups or individuals not affiliated with Middlebury<span> </span>to address the MSC.
+**c.** The MSC may invite groups or individuals not affiliated with Middlebury to address the MSC.
 
 **d.** Business at special meetings is limited to discussion of the matters about which the special meetings are called.
 

@@ -6,7 +6,7 @@ title: "E.2. Accessing Student Data for Research Projects"
 
 **Procedure regarding accessing student data**
 
-<span>Prior to undertaking an indepen</span><span>dent research project, students need to be aware that</span>
+Prior to undertaking an independent research project, students need to be aware that
 
 &emsp; - *in compliance with FERPA and HIPAA* *, Middlebury College will not disclose personally identifiable information (e.g., including, but not limited to: GPA (overall, major, high school), health or financial aid information, admissions test scores) from a student's record to another student.*
 

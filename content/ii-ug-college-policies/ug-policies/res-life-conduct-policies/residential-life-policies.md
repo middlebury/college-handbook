@@ -26,7 +26,7 @@ d.       [Housing Regulations & Resources](#housing)
 
 6.       [Termination of a House](#termination)
 
-**<a name="fundamental" id="fundamental"></a>(1) <span>Fundamental Purposes</span>**
+**<a name="fundamental" id="fundamental"></a>(1) Fundamental Purposes**
 
 Middlebury College’s [Community Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) speak directly to the goals and values that underlie all of Middlebury’s residential life policies: safety; respect for self, others and our shared environment; individual responsibility; and fostering a diverse and inclusive community committed to civility, open-mindedness and finding common ground. Enrolled students are required to live on campus for all 8 eight semesters and participate in the dining plan.  A small number of upper class students may be permitted to live off-campus as authorized by the office of the Dean of Students (DOS).  The procedure to request permission is [below](#requesting). The College assigns housing and reserves the right to change and alter housing assignments to better serve compelling community interests.
 

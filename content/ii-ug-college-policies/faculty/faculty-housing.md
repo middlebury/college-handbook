@@ -24,7 +24,7 @@ Tenants must carry their own renters' insurance to protect their own contents an
 
 **Mortgage Program**
 
-Middlebury College has a second mortgage program to assist faculty in the purchase of their first home in the Middlebury area. <span>The second mortgage must be closed simultaneously with the first mortgage at the time of the initial home purchase.</span> The home must be within 40 miles of campus; exceptions to this policy must be approved by the chief academic officer.  Faculty eligible for this program include tenured faculty; tenure track faculty who have passed their first review; and physical education faculty with five years of service.
+Middlebury College has a second mortgage program to assist faculty in the purchase of their first home in the Middlebury area. The second mortgage must be closed simultaneously with the first mortgage at the time of the initial home purchase. The home must be within 40 miles of campus; exceptions to this policy must be approved by the chief academic officer.  Faculty eligible for this program include tenured faculty; tenure track faculty who have passed their first review; and physical education faculty with five years of service.
 
 The National Bank of Middlebury (NBM) is the College’s partner in this mortgage program.
 

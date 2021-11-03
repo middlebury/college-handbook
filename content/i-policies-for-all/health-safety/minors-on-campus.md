@@ -4,11 +4,11 @@ date: "2021-05-01"
 title: "C.5. Minors on Campus Policy"
 ---
 
-**1. <span>Scope</span>**
+**1. Scope**
 
 Middlebury College (“Middlebury”) is committed to providing an environment that is safe and secure for all individuals who participate in its programs, including minors. This policy applies to all Middlebury faculty, staff, students, volunteers, and third parties who supervise or otherwise interact with minors on Middlebury property or in connection with any Middlebury program.
 
-**2.  <span>Definitions</span>**
+**2.  Definitions**
 
 **Minor:** A person under the age of 18 years old.
 
@@ -24,7 +24,7 @@ Minors who are on campus with one or both of their parents, legal guardians or o
 
 **Authorized Adult:** Students, faculty, staff, volunteers, or third parties who have been background checked and approved to supervise or otherwise interact with minors.
 
-**3.  <span>Prohibited Conduct</span>**
+**3.  Prohibited Conduct**
 
 All program sponsors, authorized adults, or any other individual who supervises or interacts with minors on Middlebury property or in connection with Middlebury programs are expected to conduct themselves appropriately and maintain the highest standards of professionalism, ethics, and personal behavior. Prohibited conduct includes, but is not limited to, any of the following behaviors directed towards a minor and/or in the presence of a minor:
 
@@ -251,7 +251,7 @@ Only those who have a legitimate need to know should have access to information 
 
 **In case of an emergency or if safety is of immediate concern, dial 911**.
 
-Any person who has reasonable cause to believe that a child has been abused or neglected or that anyone has engaged in prohibited conduct involving a child as defined in Section 3 of this policy should contact the Department of Public Safety (802.443.5911; Vermont campus), other campus safety/security personnel applicable to the program at issue, and/or the appropriate supervisory authority for the program at issue (see contact information in [Appendix A](#A)<span>,</span> below). In addition, certain individuals are required by law to report incidents of abuse, neglect, or other crimes involving minors to local or state law enforcement authorities or other appropriate agencies (see Sections 8 & 9, below).
+Any person who has reasonable cause to believe that a child has been abused or neglected or that anyone has engaged in prohibited conduct involving a child as defined in Section 3 of this policy should contact the Department of Public Safety (802.443.5911; Vermont campus), other campus safety/security personnel applicable to the program at issue, and/or the appropriate supervisory authority for the program at issue (see contact information in [Appendix A](#A), below). In addition, certain individuals are required by law to report incidents of abuse, neglect, or other crimes involving minors to local or state law enforcement authorities or other appropriate agencies (see Sections 8 & 9, below).
 
 Depending on the circumstances, reports may also be referred by Middlebury officials to local or state law enforcement authorities or other appropriate agencies (see also Sections 8 & 9, below).
 
@@ -307,7 +307,7 @@ Certain College employees are “[Campus Security Authorities](https://www.middl
 
 \*Middlebury's Campus Security Authorities include the following individuals:
 
-<span><span><span style="margin:0px">Associate Dean of the College/Director of Public Safety  
+Associate Dean of the College/Director of Public Safety  
 Public Safety Staff  
 Vice President for Student Affairs/Dean of Students  
 Senior Associate Dean of Students  
@@ -327,7 +327,7 @@ Judicial Affairs Officer
 Human Relations Officers  
 Civil Rights and Title IX Coordinator  
 Director of Health and Wellness Education  
-Assistant Director of Health and[ <span style="margin:0px; text-decoration:none"></span> ](https://www.middlebury.edu/student-life/health-wellness-education-and-safety/education/contact/node/513528)Wellness Education  
+Assistant Director of Health and [](https://www.middlebury.edu/student-life/health-wellness-education-and-safety/education/contact/node/513528)Wellness Education  
 Alcohol and Drug Ed Specialist  
 Posse Mentors  
 Any faculty or staff who travel with students on programs to foreign or domestic locations  
@@ -335,7 +335,7 @@ Director of Athletics
 Varsity and Junior Varsity Coaches  
 Field House Monitors  
 Advisors/Cluster Managers for Student Groups or Organizations  
-Deans, directors or co-directors for other Middlebury programs such as the Schools Abroad, Language Schools, Bread Loaf School of English, School of the Environment, Middlebury Institute of International Studies, Schools Abroad and MiddCORE</span></span></span>
+Deans, directors or co-directors for other Middlebury programs such as the Schools Abroad, Language Schools, Bread Loaf School of English, School of the Environment, Middlebury Institute of International Studies, Schools Abroad and MiddCORE
 
 A complete list of Campus Security Authories is available in Middlebury's [Annual Security and Fire Safety Reports](https://www.middlebury.edu/offices/health/publicsafety/Resources_and_Compliance_Requirements/Clery) for its campuses in Vermont, Calilfornia and New Mexico.
 
@@ -371,7 +371,7 @@ _**Amended September 9, 2019.**_
 
 **<a name="A" id="A"></a>APPENDIX A**: **Contact Information for All Middlebury Programs**
 
-**<span>CONTACT INFORMATION FOR MIDDLEBURY PROGRAMS IN VERMONT</span>**
+**CONTACT INFORMATION FOR MIDDLEBURY PROGRAMS IN VERMONT**
 
 [Department of Public Safety](https://www.middlebury.edu/middlebury_google_custom_search/go/Public%20Safety)  
 Middlebury College  
@@ -406,7 +406,7 @@ Thaddeus Watulak
 Middlebury College  
 Service Building  
 802.443\. 5741  
-[twatulak@middlebury.edu](mailto:twatulak@middlebury.edu)</span>
+[twatulak@middlebury.edu](mailto:twatulak@middlebury.edu)
 
 **Alternate Human Relations Officers**  
 Laura Carotenuto  
@@ -424,9 +424,9 @@ Service Building 217
 802.443.5385  
 [blind@middlebury.edu](mailto:ajplace@middlebury.edu)
 
-**<span>CONTACT INFORMATION FOR MIDDLEBURY PROGRAMS OUTSIDE OF MIDDLEBURY, VERMONT</span>**
+**CONTACT INFORMATION FOR MIDDLEBURY PROGRAMS OUTSIDE OF MIDDLEBURY, VERMONT**
 
-**<span>Bread Loaf School of English, Ripton, VT</span>**  
+**Bread Loaf School of English, Ripton, VT**  
 Emily Bartels, Director  
 4229 Ripton, Route 125  
 Middlebury, VT 05753  
@@ -485,8 +485,7 @@ United Kingdom
 <span style="text-decoration:underline">[Jeri.johnson@exeter.ox.ac.uk](mailto:Jeri.johnson@exeter.ox.ac.uk)</span>
 
 **Middlebury Institute of International Studies at Monterey**  
-[Human Relations Officers ](https://www.middlebury.edu/studentlife/doc/hro)[_<span>  
-</span>_](https://www.middlebury.edu/studentlife/doc/hro)
+[Human Relations Officers ](https://www.middlebury.edu/studentlife/doc/hro)
 Ashley Fera Arrocha (Title IX Coordinator Designee for the Institute)  
 Associate Dean of Student Services  
 Office of Student Services  

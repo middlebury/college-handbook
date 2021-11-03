@@ -6,13 +6,13 @@ title: "D.4. Employee Conduct"
 
 **D.4.a. Drug Free Workplace**
 
-<span>The Institute promotes a safe, health, and productive work environment for all individuals at the Institute.  We comply with federal, state, and local laws governing the possession, use, and distribution of unlawful drugs at the work place.  </span><span> </span>
+The Institute promotes a safe, health, and productive work environment for all individuals at the Institute.  We comply with federal, state, and local laws governing the possession, use, and distribution of unlawful drugs at the work place.
 
-<span>It is the object of the Institute to have a workforce that is free from the influence of controlled substances (illegal drugs) and alcohol during work hours.  The sale, possession, distribution or use of illicit drugs will not be tolerated.  Any employee member may be demoted, suspended, or dismissed for noncompliance with these laws or Institute policy.</span> <span> </span>
+It is the object of the Institute to have a workforce that is free from the influence of controlled substances (illegal drugs) and alcohol during work hours.  The sale, possession, distribution or use of illicit drugs will not be tolerated.  Any employee member may be demoted, suspended, or dismissed for noncompliance with these laws or Institute policy.
 
-<span>The Institute complies with the Drug-Free Schools and Communities Act (as amended in 1989) and prohibits the unlawful possession, use or distribution of illicit drugs and alcohol by its students, staff and faculty members on Institute premises or as part of any of its activities. Furthermore, each and every member of the Institute community has the right and responsibility to pursue his/her academic endeavors in a safe, effective, drug-free environment.</span><span> </span>
+The Institute complies with the Drug-Free Schools and Communities Act (as amended in 1989) and prohibits the unlawful possession, use or distribution of illicit drugs and alcohol by its students, staff and faculty members on Institute premises or as part of any of its activities. Furthermore, each and every member of the Institute community has the right and responsibility to pursue his/her academic endeavors in a safe, effective, drug-free environment.
 
-<span>The Institute will impose discipline on faculty, students and staff members who violate the standards of conduct.  Students who violate the provisions of the drug-free campus policy may be subject to suspension or expulsion.  Faculty and staff members including administrators found to be in violation of this policy may be subject to disciplinary actions, up to and including dismissal. Violating California state statutes may also subject the individual to criminal prosecution.</span>
+The Institute will impose discipline on faculty, students and staff members who violate the standards of conduct.  Students who violate the provisions of the drug-free campus policy may be subject to suspension or expulsion.  Faculty and staff members including administrators found to be in violation of this policy may be subject to disciplinary actions, up to and including dismissal. Violating California state statutes may also subject the individual to criminal prosecution.
 
 **D.4.b. Code of Conduct for Employees**
 

@@ -4,10 +4,6 @@ date: "2021-05-01"
 title: "2.3 Basic Information about Employment at Middlebury College"
 ---
 
-<div class="field-items">
-
-<div class="field-item even">
-
 **Hiring**
 
 Human Resources confirms by letter all appointments as well as all promotions, job transfers, and changes in employee status. Before being placed on the payroll, new employees must complete the necessary federal forms at the Human Resources office.
@@ -430,7 +426,3 @@ Exceptions to the 1,000 Hour Rule are granted only for compelling business reaso
 2.  <span style="text-decoration:underline">Allow employee to continue working in the casual position for an additional limited period:</span> requires approval from Human Resources, the area Vice President and in most cases the Budget Office, and will only be considered in rare circumstances that are legally, contractually, and budgetarily permissible.
 
 To ensure transparency and alignment of expectations, managers should discuss these work hour limitations with applicants when hiring for casual positions, and offer/appointment letters should include information regarding worked-hour limitations.
-
-</div>
-
-</div>

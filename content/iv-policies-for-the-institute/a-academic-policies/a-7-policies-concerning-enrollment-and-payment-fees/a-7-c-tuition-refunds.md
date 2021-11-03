@@ -14,29 +14,13 @@ If a student voluntarily withdraws from the Middlebury Institute at any time dur
 
 <td>
 
-**<span>Time of Withdrawal from the Middlebury Institute</span>**
+**Time of Withdrawal from the Middlebury Institute**
 
 </td>
 
 <td>
 
-**<span>Percent Tuition Refunded or Credited</span>**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<span><span>Before the 11</span><sup><span>th</span></sup> <span>day of the academic term</span></span>
-
-</td>
-
-<td>
-
-<span>100%</span>
+**Percent Tuition Refunded or Credited**
 
 </td>
 
@@ -46,13 +30,13 @@ If a student voluntarily withdraws from the Middlebury Institute at any time dur
 
 <td>
 
-<span><span>11</span><sup><span>th</span></sup> <span>through 20</span><sup><span>th</span></sup> <span>day of the academic term</span></span>
+Before the 11<sup>th</sup> day of the academic term
 
 </td>
 
 <td>
 
-<span>50%</span>
+100%
 
 </td>
 
@@ -62,13 +46,29 @@ If a student voluntarily withdraws from the Middlebury Institute at any time dur
 
 <td>
 
-<span><span>After the 20</span><sup><span>th</span></sup> <span>day of the academic term</span></span>
+11<sup>th</sup> through 20<sup>th</sup> day of the academic term
 
 </td>
 
 <td>
 
-<span>0%</span>
+50%
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+After the 20<sup>th</sup> day of the academic term
+
+</td>
+
+<td>
+
+0%
 
 </td>
 
@@ -92,29 +92,13 @@ The refund schedules for summer programs **other than the Summer Intensive Langu
 
 <td>
 
-**<span>Time of Withdrawal from Summer Program</span>**
+**Time of Withdrawal from Summer Program**
 
 </td>
 
 <td>
 
-**<span>Percent Tuition Refunded or Credited</span>**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<span><span>Before the 6</span><sup><span>th</span></sup> <span>day of the program</span></span>
-
-</td>
-
-<td>
-
-<span>100%</span>
+**Percent Tuition Refunded or Credited**
 
 </td>
 
@@ -124,13 +108,13 @@ The refund schedules for summer programs **other than the Summer Intensive Langu
 
 <td>
 
-<span><span>6</span><sup><span>th</span></sup> <span>through 13</span><sup><span>th</span></sup> <span>day of the program</span></span>
+Before the 6<sup>th</sup> day of the program
 
 </td>
 
 <td>
 
-<span>50%</span>
+100%
 
 </td>
 
@@ -140,13 +124,29 @@ The refund schedules for summer programs **other than the Summer Intensive Langu
 
 <td>
 
-<span><span>After the 13</span><sup><span>th</span></sup> <span>day of the program</span></span>
+6<sup>th</sup> through 13<sup>th</sup> day of the program
 
 </td>
 
 <td>
 
-<span>0%</span>
+50%
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+After the 13<sup>th</sup> day of the program
+
+</td>
+
+<td>
+
+0%
 
 </td>
 

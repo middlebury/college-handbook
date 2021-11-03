@@ -77,7 +77,7 @@ Special Projects / Public Safety
 
 <td>
 
-<span>[eburchard@middlebury.edu](mailto:eburchard@middlebury.edu)</span>
+[eburchard@middlebury.edu](mailto:eburchard@middlebury.edu)
 
 </td>
 
@@ -109,7 +109,7 @@ Assoc. Dir. of Public Safety
 
 <td>
 
-<span>[dgaiotti@middlebury.edu](mailto:dgaiotti@middlebury.edu)</span>
+[dgaiotti@middlebury.edu](mailto:dgaiotti@middlebury.edu)
 
 [kellery@middlebury.edu](mailto:kellery@middlebury.edu)
 
@@ -141,7 +141,7 @@ VP for Academic Affairs & Dean of Faculty
 
 <td>
 
-<span>[lloyd@middlebury.edu](mailto:lloyd@middlebury.edu)</span>
+[lloyd@middlebury.edu](mailto:lloyd@middlebury.edu)
 
 </td>
 
@@ -231,13 +231,13 @@ Laura Carotenuto
 
 <td>
 
-<span>Asst. VP of HR for Central Administration</span>
+Asst. VP of HR for Central Administration
 
 </td>
 
 <td>
 
-<span>[lcaroten@middlebury.edu](mailto:lcaroten@middlebury.edu)</span>
+[lcaroten@middlebury.edu](mailto:lcaroten@middlebury.edu)
 
 </td>
 
@@ -259,13 +259,13 @@ Barbara McCall
 
 <td>
 
-Exec. Dir., <span>Health and Counseling Services</span>
+Exec. Dir., Health and Counseling Services
 
 </td>
 
 <td>
 
-<span>[bmccall@middlebury.edu](mailto:bmccall@middlebury.edu)</span>
+[bmccall@middlebury.edu](mailto:bmccall@middlebury.edu)
 
 </td>
 

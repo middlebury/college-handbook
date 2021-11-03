@@ -18,7 +18,7 @@ _Employees should refer to the Combined Time Off and/or the California Paid Sick
 
 Up to 24 hours per year of California Paid Sick Leave (CSL) may be used for the diagnosis, care, or treatment of an existing health condition or for the preventive care of an employee, or an employee’s immediate family member. Covered family members include spouses, registered domestic partners, children, parents (including step-parents and parents-in-law), grandparents, grandchildren and siblings. Paid sick days are also available for employees who are the victims of domestic violence, sexual assault, or stalking.
 
-CSL may not be used for “personal” absences or as vacation time.<span> </span>
+CSL may not be used for “personal” absences or as vacation time.
 
 #### <span style="color: #660000;">**B. Eligibility**</span>
 

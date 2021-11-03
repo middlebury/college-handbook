@@ -6,8 +6,8 @@ title: "B.1.c. Degree Requirements"
 
 **1\. Degree Requirements**
 
-**a. Credits**<span>. Candidates for the Bachelor of Arts degree must complete 36 credits. At least 18 of these credits must be Middlebury credits. Credits earned at all Middlebury programs including Middlebury Language Schools, Middlebury Schools Abroad, School of the Environment, and Middlebury Institute of International Studies at Monterey will count in the 18-course total and the grades will count in the undergraduate grade point average. No more than six credits with a D grade may be applied to degree requirements.  
-</span>
+**a. Credits**. Candidates for the Bachelor of Arts degree must complete 36 credits. At least 18 of these credits must be Middlebury credits. Credits earned at all Middlebury programs including Middlebury Language Schools, Middlebury Schools Abroad, School of the Environment, and Middlebury Institute of International Studies at Monterey will count in the 18-course total and the grades will count in the undergraduate grade point average. No more than six credits with a D grade may be applied to degree requirements.  
+
 
 **i. For students who entered the College in or after Fall 2012, but prior to Fall 2016**
 

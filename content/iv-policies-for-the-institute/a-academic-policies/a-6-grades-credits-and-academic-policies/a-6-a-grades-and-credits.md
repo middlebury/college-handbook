@@ -4,13 +4,13 @@ date: "2021-05-01"
 title: "A.6.a. Grades and Credits"
 ---
 
-<span>A credit hour is an amount of work, represented in intended learning outcomes and verified by evidence of student achievement, that is an institutionally established equivalency reasonably approximating not less than—</span>
+A credit hour is an amount of work, represented in intended learning outcomes and verified by evidence of student achievement, that is an institutionally established equivalency reasonably approximating not less than—
 
 (1) One hour of classroom or direct faculty instruction and a minimum of two hours of out of class student work each week for approximately fifteen weeks in one semester, or the equivalent amount of work over a different period of time; or
 
-<span>(2) At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practica, and other academic work leading to the awarding of credit hours.  We do not award credit hours solely for doing an internship. Internships for which credit is awarded must be an integral part of a more extended academic activity for which credit hours have been assigned based on the definition above.</span>
+(2) At least an equivalent amount of work as required in paragraph (1) of this definition for other academic activities as established by the institution including laboratory work, internships, practica, and other academic work leading to the awarding of credit hours.  We do not award credit hours solely for doing an internship. Internships for which credit is awarded must be an integral part of a more extended academic activity for which credit hours have been assigned based on the definition above.
 
-**<span style="text-decoration:underline"></span>**<span>The following system of grading is used at the Middlebury Institute:</span>
+**<span style="text-decoration:underline"></span>**The following system of grading is used at the Middlebury Institute:
 
 <table>
 
@@ -20,29 +20,13 @@ title: "A.6.a. Grades and Credits"
 
 <td>
 
-<span>A and A+</span>
+A and A+
 
 </td>
 
 <td>
 
-<span>4.00 grade points per credit</span>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<span>A- (minus)</span>
-
-</td>
-
-<td>
-
-<span>3.67</span>
+4.00 grade points per credit
 
 </td>
 
@@ -52,29 +36,13 @@ title: "A.6.a. Grades and Credits"
 
 <td>
 
-<span>B+ (plus)</span>
+A- (minus)
 
 </td>
 
 <td>
 
-<span>3.33</span>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<span>B</span>
-
-</td>
-
-<td>
-
-<span>3.00</span>
+3.67
 
 </td>
 
@@ -84,29 +52,13 @@ title: "A.6.a. Grades and Credits"
 
 <td>
 
-<span>B-</span>
+B+ (plus)
 
 </td>
 
 <td>
 
-<span>2.67</span>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<span>C+</span>
-
-</td>
-
-<td>
-
-<span>2.33</span>
+3.33
 
 </td>
 
@@ -116,29 +68,13 @@ title: "A.6.a. Grades and Credits"
 
 <td>
 
-<span>C</span>
+B
 
 </td>
 
 <td>
 
-<span>2.00</span>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<span>C-</span>
-
-</td>
-
-<td>
-
-<span>1.67</span>
+3.00
 
 </td>
 
@@ -148,29 +84,13 @@ title: "A.6.a. Grades and Credits"
 
 <td>
 
-<span>D+</span>
+B-
 
 </td>
 
 <td>
 
-<span>1.33</span>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<span>D</span>
-
-</td>
-
-<td>
-
-<span>1.00</span>
+2.67
 
 </td>
 
@@ -180,29 +100,13 @@ title: "A.6.a. Grades and Credits"
 
 <td>
 
-<span>D-</span>
+C+
 
 </td>
 
 <td>
 
-<span>0.67</span>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<span>F (Fail)</span>
-
-</td>
-
-<td>
-
-<span>0.00</span>
+2.33
 
 </td>
 
@@ -212,29 +116,13 @@ title: "A.6.a. Grades and Credits"
 
 <td>
 
-<span>P (Pass)</span>
+C
 
 </td>
 
 <td>
 
-<span>Credit for course, no grade points</span>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<span>NP (No Pass)</span>
-
-</td>
-
-<td>
-
-<span>No grade points or credit</span>
+2.00
 
 </td>
 
@@ -244,29 +132,13 @@ title: "A.6.a. Grades and Credits"
 
 <td>
 
-<span>I (Incomplete)</span>
+C-
 
 </td>
 
 <td>
 
-<span>No grade points or credit</span>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<span>W (Withdrawal with permission)</span>
-
-</td>
-
-<td>
-
-<span>No grade points or credit</span>
+1.67
 
 </td>
 
@@ -276,13 +148,13 @@ title: "A.6.a. Grades and Credits"
 
 <td>
 
-<span>AU (Audit)</span>
+D+
 
 </td>
 
 <td>
 
-<span>No grade points or credit</span>
+1.33
 
 </td>
 
@@ -292,13 +164,141 @@ title: "A.6.a. Grades and Credits"
 
 <td>
 
-<span>IP (In Progress)</span>
+D
 
 </td>
 
 <td>
 
-<span>No grade points or credit</span>
+1.00
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+D-
+
+</td>
+
+<td>
+
+0.67
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+F (Fail)
+
+</td>
+
+<td>
+
+0.00
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+P (Pass)
+
+</td>
+
+<td>
+
+Credit for course, no grade points
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+NP (No Pass)
+
+</td>
+
+<td>
+
+No grade points or credit
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+I (Incomplete)
+
+</td>
+
+<td>
+
+No grade points or credit
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+W (Withdrawal with permission)
+
+</td>
+
+<td>
+
+No grade points or credit
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+AU (Audit)
+
+</td>
+
+<td>
+
+No grade points or credit
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+IP (In Progress)
+
+</td>
+
+<td>
+
+No grade points or credit
 
 </td>
 

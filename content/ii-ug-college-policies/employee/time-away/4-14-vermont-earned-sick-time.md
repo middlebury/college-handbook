@@ -64,7 +64,7 @@ Recording time used:
 
 **Other Important Information**
 
-<span>VEST is not recognized as hours worked for purposes of calculating eligibility for overtime pay.</span>
+VEST is not recognized as hours worked for purposes of calculating eligibility for overtime pay.
 
 *   Employees are not entitled to be paid for accrued but unused VEST upon resignation or other termination of employment; accrued, unused balances will be forfeited at termination.
 *   Available VEST balances may be viewed in Banner Web (Employee/Time Off Current Balances and History).

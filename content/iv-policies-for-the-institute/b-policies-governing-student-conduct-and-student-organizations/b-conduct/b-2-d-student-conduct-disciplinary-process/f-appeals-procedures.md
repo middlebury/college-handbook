@@ -4,8 +4,6 @@ date: "2021-05-01"
 title: "F. Appeals Procedures"
 ---
 
-<div class="field-item even">
-
 Appeals are reviewed by different Institute officials and adjudicators than those who reached the initial decisions.
 
 #### **1\. Appeals of Conduct Judicial Board Outcomes**
@@ -36,5 +34,3 @@ For periods of the academic year when MIIS is not in regular session, dates for 
 - All penalties are suspended during an appeal, except in emergency circumstances as discussed above.
 - The board hearing an appeal may reverse a decision or mitigate sanctions, but may not increase a sanction.
 - Decisions by the VPAA/DOI and the board hearing an appeal are final.
-
-</div>

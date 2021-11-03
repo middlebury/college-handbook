@@ -4,7 +4,7 @@ date: "2021-05-01"
 title: "A.3. Code of Conduct for Employees"
 ---
 
-<span>The success of Middlebury College depends not only on the competence of its faculty and staff, but also upon its reputation for honesty, integrity, and lack of bias in conducting its affairs. This Code of Conduct identifies basic policy and standards concerning ethical conduct and provides guidance in several areas of specific concern. Each employee of Middlebury College is expected to adhere to these standards of conduct.</span>
+The success of Middlebury College depends not only on the competence of its faculty and staff, but also upon its reputation for honesty, integrity, and lack of bias in conducting its affairs. This Code of Conduct identifies basic policy and standards concerning ethical conduct and provides guidance in several areas of specific concern. Each employee of Middlebury College is expected to adhere to these standards of conduct.
 
 Other expectations for Middlebury College faculty and staff are covered in other sections of the Handbook, for example the employee handbook and faculty handbook chapters, and the policies on appropriate use of Web pages and electronic mail in the library and information services chapter.
 

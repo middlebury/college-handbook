@@ -4,7 +4,7 @@ date: "2021-05-01"
 title: "B.1.a. Academic Honesty, the Honor Code, and Related Disciplinary Policies"
 ---
 
-<span>_Last updated August 22, 2017_</span>
+_Last updated August 22, 2017_
 
 **A. Introduction**
 

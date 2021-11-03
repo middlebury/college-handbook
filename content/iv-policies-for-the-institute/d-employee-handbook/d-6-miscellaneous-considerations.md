@@ -138,7 +138,7 @@ Please direct any questions regarding the use of the Procurement Card to the car
 
 #### _<span style="color: #660000;">**Above and Beyond Award**</span>_
 
-<span>The Above and Beyond Award was established in 2006 to recognize employees of the Institute who go above and beyond the normal duties of their position. The award is presented during the faculty/staff holiday reception each December. Each award recipient receives a certificate and a $500 cash award. Recipients of the award are those who:</span>
+The Above and Beyond Award was established in 2006 to recognize employees of the Institute who go above and beyond the normal duties of their position. The award is presented during the faculty/staff holiday reception each December. Each award recipient receives a certificate and a $500 cash award. Recipients of the award are those who:
 
 a)     Consistently provide outstanding customer service.
 

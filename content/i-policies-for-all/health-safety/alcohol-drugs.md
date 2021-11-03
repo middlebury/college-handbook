@@ -33,7 +33,7 @@ c. Educate members of the community through academic and student life programs a
 **<a name="polices" id="policies"></a>Middlebury Policies and Local, State, and Federal Law**  
 All students, faculty, staff, and visitors are subject to local, state, and federal laws, as well as Middlebury tobacco, drug and alcohol policy rules and regulations, while on Middlebury-owned or -leased properties or involved with off-campus activities sponsored by Middlebury or a registered Middlebury organization. Middlebury does not protect students or employees from prosecution for tobacco, drug or alcohol offenses under local, state, or federal laws, and does not interfere with legitimate law enforcement activities. Law enforcement officers may have a legal right to search individuals, and with consent or proper documentation may search property—including residences owned or leased by Middlebury —without prior notice. Middlebury also reserves the right to furnish the police with information regarding alleged illegal activities.
 
-<span style="text-decoration:underline">Middlebury College Specific</span>: In order to preserve the safety of our residents, the state of Vermont and the College both adhere to policies that limit disciplinary consequences under certain circumstances when appropriate care is sought for individuals in drug- or alcohol-related distress. Please see the [<span>Medical Amnesty Policy</span>](#amnesty) below for more information. Additionally, if student health and safety concerns resulting from a student’s use of alcohol and/or drugs arise, parents or guardians may be notified. See [Health and Community Responsibility](#health) below for more information.
+<span style="text-decoration:underline">Middlebury College Specific</span>: In order to preserve the safety of our residents, the state of Vermont and the College both adhere to policies that limit disciplinary consequences under certain circumstances when appropriate care is sought for individuals in drug- or alcohol-related distress. Please see the [Medical Amnesty Policy](#amnesty) below for more information. Additionally, if student health and safety concerns resulting from a student’s use of alcohol and/or drugs arise, parents or guardians may be notified. See [Health and Community Responsibility](#health) below for more information.
 
 **<a name="alcohol" id="alcohol"></a>Alcohol**  
 The following actions are prohibited:
@@ -75,7 +75,7 @@ The following actions are prohibited:
 
 a. Using or possessing illegal drugs or controlled substances, including but not limited to prescription medication without a properly issued prescription.
 
-<span>b. Misuse of legal substances to cause impairment/hallucination.</span>
+b. Misuse of legal substances to cause impairment/hallucination.
 
 c. Possession of drug paraphernalia.
 
@@ -85,22 +85,22 @@ e. Administering drugs to individuals against their will and/or without their kn
 
 f. Repeated unsafe consumption and/or impairment.
 
-**<span><a name="tobacco" id="tobacco"></a>Tobacco</span>**<span>  
-The following actions are prohibited:</span>
+**<a name="tobacco" id="tobacco"></a>Tobacco**  
+The following actions are prohibited:
 
-<span>a. Underage use of tobacco. Only persons of legal age (21 or older in Vermont, and as defined by the laws of a foreign host country) may possess or consume tobacco, tobacco products, tobacco substitutes, or tobacco paraphernalia including e-cigarettes. Legal proof of age, such as a valid driver’s license, state-issued liquor identification card, or passport may be required.</span>
+a. Underage use of tobacco. Only persons of legal age (21 or older in Vermont, and as defined by the laws of a foreign host country) may possess or consume tobacco, tobacco products, tobacco substitutes, or tobacco paraphernalia including e-cigarettes. Legal proof of age, such as a valid driver’s license, state-issued liquor identification card, or passport may be required.
 
-<span>b. Purchasing, serving, or furnishing tobacco, tobacco substitutes, or tobacco paraphernalia for/to a minor.</span>
+b. Purchasing, serving, or furnishing tobacco, tobacco substitutes, or tobacco paraphernalia for/to a minor.
 
-<span>c. Selling, manufacturing, or distributing tobacco, tobacco substitutes, or tobacco paraphernalia illegally.</span>
+c. Selling, manufacturing, or distributing tobacco, tobacco substitutes, or tobacco paraphernalia illegally.
 
-<span>d. Possession, production, or provision of false ID.</span>
+d. Possession, production, or provision of false ID.
 
-<span>i. Administering tobacco, tobacco substitutes, or tobacco paraphernalia to individuals against their will and/or without their knowledge.</span>
+i. Administering tobacco, tobacco substitutes, or tobacco paraphernalia to individuals against their will and/or without their knowledge.
 
-<span>j. Repeated unsafe consumption and/or impairment.</span>
+j. Repeated unsafe consumption and/or impairment.
 
-<span>See also Middlebury's "[No Smoking Policy](/pages/i-policies-for-all/health-safety/no-smoking)"</span>
+See also Middlebury's "[No Smoking Policy](/pages/i-policies-for-all/health-safety/no-smoking)"
 
 **<a name="dfs" id="dfs"></a>Disciplinary Sanctions: Students**
 

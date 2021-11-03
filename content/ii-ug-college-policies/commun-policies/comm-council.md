@@ -26,7 +26,7 @@ ii. *Oversight of residential issues:*  Community Council may hear an annual r
 
 b. Delegated Responsibilities
 
-<span>Residential Life Committee</span>
+Residential Life Committee
 
 The mission of the committee:
 

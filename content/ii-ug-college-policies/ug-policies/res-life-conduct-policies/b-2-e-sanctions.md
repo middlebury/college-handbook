@@ -4,8 +4,6 @@ date: "2021-05-01"
 title: "B.2.e. Sanctions"
 ---
 
-<div class="field-item even">
-
 When determining a sanction, the nature and severity of the violation and the impact to individuals or community will be taken into account as well as the disciplinary history of the student. While intent is not a factor in determining responsibility, it can be a factor in determining a sanction. A student’s compliance with the process may also be a factor in determining an appropriate sanction. Finally, balancing consistency by acknowledging precedent and equity by considering the impact of the sanction on the individual is a foundational tenet of sanctioning.
 
 **a.** Sanctions may only be imposed for the specific charge of which the student has been notified in writing.
@@ -41,5 +39,3 @@ When determining a sanction, the nature and severity of the violation and the im
     Students who are suspended must leave campus; are restricted from all Middlebury owned or rented properties; and are prohibited from participating in all Middlebury activities or programs, from Middlebury employment, and from using Middlebury facilities during the stated period of the suspension. When suspension prohibits students from completing a semester they have already begun, the comprehensive fee for that semester is not refunded. Parents or guardians are informed when students are suspended. For international students, suspension may affect immigration status; related questions may be directed to the Office of International Student and Scholar Services.  
 
 4.  **_Expulsion_**:  For particularly serious offenses, students may be permanently dismissed from Middlebury. Please see Appeals Procedure below for more information.  In cases of expulsion from Middlebury, no refund of the comprehensive fee is made. Parents or guardians are informed when students are expelled.
-
-</div>

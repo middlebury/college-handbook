@@ -138,9 +138,7 @@ Over 20 Years
 
 ## <a name="CTO_MAX" id="CTO_MAX"></a>CTO Maximum
 
-<span>The following chart outlines CTO maximum accruals.
-
-</span>
+The following chart outlines CTO maximum accruals.
 
 <table border="1">
 

@@ -70,7 +70,7 @@ The written decision of the VPAA shall be transmitted to the FGRC chair and memb
 
 **<a name="discipline" id="discipline"></a>C.8.g. Policy and Procedures for Discipline of Regular Faculty Members**
 
-**Policy –** <span>In order to protect the values of academic freedom, the integrity of teaching of students and of faculty research, and sound administration of the institution, the Middlebury Institute requires the adherence of all faculty members to high standards of professional conduct.  In the event that a significant deviation from these standards is believed to have occurred, a faculty member may be required to submit to disciplinary charges, which shall be determined according to the procedures set forth in this policy.</span>
+**Policy –** In order to protect the values of academic freedom, the integrity of teaching of students and of faculty research, and sound administration of the institution, the Middlebury Institute requires the adherence of all faculty members to high standards of professional conduct.  In the event that a significant deviation from these standards is believed to have occurred, a faculty member may be required to submit to disciplinary charges, which shall be determined according to the procedures set forth in this policy.
 
 **Professional Misconduct – General –** Professional misconduct is that which occurs in the course of, arising from, or reasonably related to the faculty member's Institute position, duties, or responsibilities with the Institute, or demonstrably affecting, in a significantly adverse way, the effective performance of Institute functions.
 

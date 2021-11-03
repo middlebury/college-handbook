@@ -6,7 +6,7 @@ title: "B.1.d. Service and Assistance Animals Policy"
 
 This policy addresses Service Animals and Assistance Animals, as defined below, while they are on campus. For policies regarding general pets and animals on the Vermont campus, see the Pet Policy section of the College Handbook ([II.A.6\. Pet Policy](/pages/ii-ug-college-policies/commun-policies/pets)).
 
-**A.      <span>Service Animals</span>**
+**A.      Service Animals**
 
 The Department of Justice defines service animals as **"dogs that are individually trained to do work or perform tasks for people with disabilities."** Examples of such work or tasks include guiding people who are blind, alerting people who are deaf, pulling a wheelchair, alerting and protecting a person who is having a seizure, reminding a person with mental illness to take prescribed medications, calming a person with Post Traumatic Stress Disorder (PTSD) during an anxiety attack, or performing other duties. Service animals are working animals, not pets. The work or task a dog has been trained to provide must be directly related to the person’s disability. Dogs whose sole function is to provide comfort or emotional support do not qualify as service animals under the ADA. This definition does not affect or limit the broader definition of “assistance animal” under the Fair Housing Act [FHA].” (see policies for assistance animals in section B below)
 
@@ -20,7 +20,7 @@ Service animals shall be allowed into any area of the campus that students or ot
 
 Middlebury encourages students, faculty, and staff to register their service animals with the College.
 
-**B.      <span>Assistance Animals</span>**
+**B.      Assistance Animals**
 
 The definition of assistance animals under the FHA (Fair Housing Act) and for the purposes of Middlebury’s policies is broader than the definition of "service animal" under the ADA, and may include animals that work, provide assistance, or perform tasks for the benefit of a person with a disability, but do not meet the ADA definition of "service animal" as defined above. Assistance animals can also provide emotional support that alleviates one or more identified symptoms of a person's disability. An assistance animal is not a pet.
 
@@ -32,21 +32,21 @@ Because assistance animals do not qualify as service animals under the ADA, they
 
 In order to request a reasonable accommodation to possess an assistance animal in residence halls on campus, a person must initiate the accommodation process by contacting the appropriate resource:
 
-**<span style="text-decoration:underline"><span>Students</span></span>**
+**<span style="text-decoration:underline">Students</span>**
 
-<span>Jodi Litchfield, ADA Coordinator  
-</span><span>Disability Resource Center (DRC)  
-</span><span>[litchfie@middlebury.edu](mailto:litchfie@middlebury.edu)  
-</span><span>(802) 443-5936  
-</span><span>Service Building 222</span>
+Jodi Litchfield, ADA Coordinator  
+Disability Resource Center (DRC)  
+[litchfie@middlebury.edu](mailto:litchfie@middlebury.edu)  
+(802) 443-5936  
+Service Building 222
 
-**<span style="text-decoration:underline"><span>Faculty or Staff</span></span>**
+**<span style="text-decoration:underline">Faculty or Staff</span>**
 
-<span>Patty Saunders, Disability and Leave Specialist  
-</span><span>Human Resources  
-</span><span>[patricia@middlebury.edu](mailto:patricia@middlebury.edu)  
-</span><span>(802) 443-5338  
-</span><span>Marble Works 201</span>
+Patty Saunders, Disability and Leave Specialist  
+Human Resources  
+[patricia@middlebury.edu](mailto:patricia@middlebury.edu)  
+(802) 443-5338  
+Marble Works 201
 
 Each request to possess an assistance animal in residence halls will be evaluated on an individualized basis using the general policies applicable to all reasonable accommodation requests.
 

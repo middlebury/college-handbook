@@ -62,47 +62,21 @@ The following table summarizes the Language and ICC component minimum-unit credi
 
 <td style="border:1px solid #000000;">
 
-**<span>Degree Program</span>**
+**Degree Program**
 
 </td>
 
 <td style="border:1px solid #000000;">
 
-**<span>Language Component</span>**
+**Language Component**
 
-**<span>(12 credits)</span>**
-
-</td>
-
-<td style="border:1px solid #000000;">
-
-**<span>Minimum Course Level</span>**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="border:1px solid #000000;">
-
-<span>BA in International Studies;</span>
-
-<span>All Three-Year BA/MA Programs;</span>
-
-<span>All MA programs in GSIPM except MAIEM and MANPTS (see below)</span>
+**(12 credits)**
 
 </td>
 
 <td style="border:1px solid #000000;">
 
-<span>Minimum 8 credits in LS courses and up to 4 credits in ICC courses</span>
-
-</td>
-
-<td style="border:1px solid #000000;">
-
-<span>200 all languages</span>
+**Minimum Course Level**
 
 </td>
 
@@ -112,41 +86,23 @@ The following table summarizes the Language and ICC component minimum-unit credi
 
 <td style="border:1px solid #000000;">
 
-<span>MAIEM</span>
+BA in International Studies;
+
+All Three-Year BA/MA Programs;
+
+All MA programs in GSIPM except MAIEM and MANPTS (see below)
 
 </td>
 
 <td style="border:1px solid #000000;">
 
-<span>8 credits of LS courses and 4 credits in ICC courses</span>
+Minimum 8 credits in LS courses and up to 4 credits in ICC courses
 
 </td>
 
 <td style="border:1px solid #000000;">
 
-<span>200 for all languages</span>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="border:1px solid #000000;">
-
-<span>MANPTS</span>
-
-</td>
-
-<td style="border:1px solid #000000;">
-
-<span>12 credits of LS courses</span>
-
-</td>
-
-<td style="border:1px solid #000000;">
-
-<span>200 for all languages</span>
+200 all languages
 
 </td>
 
@@ -156,19 +112,63 @@ The following table summarizes the Language and ICC component minimum-unit credi
 
 <td style="border:1px solid #000000;">
 
-<span>MATFL program</span>
+MAIEM
+
+</td>
+
+<td style="border:1px solid #000000;">
+
+8 credits of LS courses and 4 credits in ICC courses
+
+</td>
+
+<td style="border:1px solid #000000;">
+
+200 for all languages
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid #000000;">
+
+MANPTS
+
+</td>
+
+<td style="border:1px solid #000000;">
+
+12 credits of LS courses
+
+</td>
+
+<td style="border:1px solid #000000;">
+
+200 for all languages
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="border:1px solid #000000;">
+
+MATFL program
 
 </td>
 
 <td>
 
-<span>12 credits of LS courses</span>
+12 credits of LS courses
 
 </td>
 
 <td>
 
-<span>400+ for all languages</span>
+400+ for all languages
 
 </td>
 
@@ -178,19 +178,19 @@ The following table summarizes the Language and ICC component minimum-unit credi
 
 <td style="border:1px solid #000000;">
 
-<span>Advanced Entry GSIPM degrees</span>
+Advanced Entry GSIPM degrees
 
 </td>
 
 <td style="border:1px solid #000000;">
 
-<span>8 credits of LS courses</span>
+8 credits of LS courses
 
 </td>
 
 <td style="border:1px solid #000000;">
 
-<span>200 for Spanish and Arabic, 300 for all other languages</span>
+200 for Spanish and Arabic, 300 for all other languages
 
 </td>
 
@@ -200,19 +200,19 @@ The following table summarizes the Language and ICC component minimum-unit credi
 
 <td style="border:1px solid #000000;">
 
-<span>Peace Corps Masters International program (except Peace Corps MBA)</span>
+Peace Corps Masters International program (except Peace Corps MBA)
 
 </td>
 
 <td style="border:1px solid #000000;">
 
-<span>Minimum 8 credits of LS courses prior to Peace Corps service and up to 4 credits in ICC courses</span>
+Minimum 8 credits of LS courses prior to Peace Corps service and up to 4 credits in ICC courses
 
 </td>
 
 <td style="border:1px solid #000000;">
 
-<span>200 for all languages</span>
+200 for all languages
 
 </td>
 
@@ -236,7 +236,7 @@ The Language Studies Advisor can assist in developing an appropriate plan to inc
 
 **<span style="text-decoration:underline">PLEASE NOTE</span>:** Due to the distribution of language level courses, it is not normally possible to take multiple language courses (to “double-up”) in a single language in any given semester. Thus, it is strongly recommended to carefully map out all language coursework for the degree track.  _<span style="text-decoration:underline">Postponing the start of Language Studies is strongly discouraged and may lead to a delay in graduation</span>_<span style="text-decoration:underline">.</span>
 
-**<span>4\. Directed Study for Language and ICC courses</span>**
+**4\. Directed Study for Language and ICC courses**
 
 Students may request a Directed Study (DS) in language courses at 300-level or above for 2 or 4 credits.  In order to propose a Directed Study course, students need to have a concrete self-initiated project in mind, and they must seek a faculty member who agrees to supervise the project in advance.  _<span style="text-decoration:underline">It is entirely the prerogative of the faculty member whether or not he/she agrees to work with a student on a Directed Study</span>_<span style="text-decoration:underline">.</span> Students who wish to earn language credits by taking a Directed Study course need to complete and submit a LS DS proposal form and obtain the faculty supervisor’s signature.
 
