@@ -38,6 +38,6 @@ Related Policies and Documents:
 
 3. [Frequently Asked Questions about Open Expression](https://www.middlebury.edu/about/open-expression/faqs)
 
-4. [Open Expression Resources Page](https://www.middlebury.edu/about/open-expression/speech-inclusion-resources)
+4. [Open Expression Resources Page](https://www.middlebury.edu/about/open-expression/speech-inclusion-resources)
 
 _Effective 11-21-19_

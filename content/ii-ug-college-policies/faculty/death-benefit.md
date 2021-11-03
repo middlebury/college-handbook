@@ -13,13 +13,13 @@ In addition to whatever life insurance payment the family of a deceased faculty 
 
 <tr>
 
-<td>
+<td style="border:1px solid #000000">
 
 **_Years of Continuous Full-Time Service (as Determined by the VPAA/DoF)_**
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 **_Maximum Months Salary_**
 
@@ -29,13 +29,13 @@ In addition to whatever life insurance payment the family of a deceased faculty 
 
 <tr>
 
-<td>
+<td style="border:1px solid #000000">
 
 less than 5
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 three months
 
@@ -45,13 +45,13 @@ three months
 
 <tr>
 
-<td>
+<td style="border:1px solid #000000">
 
 5 – 10
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 four months
 
@@ -61,13 +61,13 @@ four months
 
 <tr>
 
-<td>
+<td style="border:1px solid #000000">
 
 10 – 20
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 five months
 
@@ -77,13 +77,13 @@ five months
 
 <tr>
 
-<td>
+<td style="border:1px solid #000000">
 
 20 or over
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 six months
 

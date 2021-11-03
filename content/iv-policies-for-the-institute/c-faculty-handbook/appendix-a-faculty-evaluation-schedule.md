@@ -4,9 +4,7 @@ date: "2021-05-01"
 title: "Appendix A: Faculty Evaluation Schedule"
 ---
 
-<div class="field-item even">
-
-**_(1) By procedure type           Deadline_**
+**_(1) By procedure type_**
 
 <table>
 
@@ -16,7 +14,13 @@ title: "Appendix A: Faculty Evaluation Schedule"
 
 <td>
 
-**Sabbatical Leave**<span style="text-decoration:underline"></span>
+**Sabbatical Leave**
+
+</td>
+
+<td>
+
+***Deadline***
 
 </td>
 
@@ -26,7 +30,7 @@ title: "Appendix A: Faculty Evaluation Schedule"
 
 <td>
 
-Faculty submission<span style="text-decoration:underline"></span>
+Faculty submission
 
 </td>
 
@@ -42,7 +46,7 @@ Faculty submission<span style="text-decoration:underline"></span>
 
 <td>
 
-Peer Review Committee<span style="text-decoration:underline"></span>
+Peer Review Committee
 
 </td>
 
@@ -58,7 +62,7 @@ September 30
 
 <td>
 
-Dean   <span style="text-decoration:underline"></span>
+Dean   
 
 </td>
 
@@ -74,7 +78,7 @@ October 15
 
 <td>
 
-FEC    <span style="text-decoration:underline"></span>
+FEC    
 
 </td>
 
@@ -370,9 +374,7 @@ Administration Notification
 
 _Note: the faculty submission and administration notification dates (bolded above) are unshakeable and immutable. All other deadlines shall be followed, unless in exceptional circumstances when significant delay at one stage will inevitably push back subsequent deadlines._
 
-**_(2) By participants                Deadline_**
-
-<span style="text-decoration:underline"></span>
+**_(2) By participants_**
 
 <table>
 
@@ -383,6 +385,12 @@ _Note: the faculty submission and administration notification dates (bolded abov
 <td>
 
 **Faculty Submission**
+
+</td>
+
+<td>
+
+***Deadline***
 
 </td>
 
@@ -735,5 +743,3 @@ June 30
 </table>
 
 \*encompassing the provost, president and Board reviews where necessary
-
-</div>

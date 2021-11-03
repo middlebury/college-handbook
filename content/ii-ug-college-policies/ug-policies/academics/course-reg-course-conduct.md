@@ -1,7 +1,7 @@
 ---
 slug: "/pages/ii-ug-college-policies/ug-policies/academics/course-reg-course-conduct"
 date: "2021-05-01"
-title: "B.1. Academic Policies"
+title: "B.1.f. Course Registration and Conduct of Courses"
 ---
 
 **1\. Registration Procedure**

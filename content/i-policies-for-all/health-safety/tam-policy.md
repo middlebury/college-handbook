@@ -47,7 +47,7 @@ Title
 
 </td>
 
-<td
+<td>
 
 Email
 

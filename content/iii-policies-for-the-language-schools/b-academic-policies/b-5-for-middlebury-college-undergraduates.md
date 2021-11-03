@@ -20,7 +20,7 @@ As with other Middlebury College course work, the following circumstances will r
 
 • A student taking summer Language Schools or Bread Loaf School of English courses at the graduate level who wishes to apply them to their undergraduate Bachelor of Arts degree.
 
-**NOTE:** Middlebury undergraduates planning to use summer graduate-level course work toward the undergraduate degree must inform the Registrar’s Office by the end of the summer session**.** Middlebury undergraduates may count graduate work at the summer Language Schools toward their Middlebury degree, but are not able to reuse the course work toward a subsequent Middlebury Master of Arts degree. No changes will be made once the course(s) has been recorded as undergraduate credit.
+**NOTE:** Middlebury undergraduates planning to use summer graduate-level course work toward the undergraduate degree must inform the Registrar’s Office by the end of the summer session. Middlebury undergraduates may count graduate work at the summer Language Schools toward their Middlebury degree, but are not able to reuse the course work toward a subsequent Middlebury Master of Arts degree. No changes will be made once the course(s) has been recorded as undergraduate credit.
 
 Graduate work that students do not want or need applied to the undergraduate degree will be designated by the GR attribute and only will appear on the graduate-level page of the transcript. In such cases, GPA will be calculated at the graduate level and become part of the overall Middlebury record.
 

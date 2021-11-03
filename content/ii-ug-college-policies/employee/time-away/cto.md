@@ -24,19 +24,19 @@ CTO accrues in hours after each biweekly payroll is run. Accrual is based on len
 
 <tr>
 
-<td>
+<td style="border:1px solid #000000">
 
 **Length of Service**
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 **Annual Accrual for 1 Full Time Equivalent**
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 **CTO Accrual for Each Hour Paid**
 
@@ -46,19 +46,19 @@ CTO accrues in hours after each biweekly payroll is run. Accrual is based on len
 
 <tr>
 
-<td>
+<td style="border:1px solid #000000">
 
 0-2 Years
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 26 days/yr.
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 0.1 hrs.
 
@@ -68,19 +68,19 @@ CTO accrues in hours after each biweekly payroll is run. Accrual is based on len
 
 <tr>
 
-<td>
+<td style="border:1px solid #000000">
 
 Over 2-10 Years
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 31 days/yr.
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 0.1192 hrs.
 
@@ -90,19 +90,19 @@ Over 2-10 Years
 
 <tr>
 
-<td>
+<td style="border:1px solid #000000">
 
 Over 10-20 Years
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 36 days/yr.
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 0.1385 hrs.
 
@@ -112,19 +112,19 @@ Over 10-20 Years
 
 <tr>
 
-<td>
+<td style="border:1px solid #000000">
 
 Over 20 Years
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 40 days/yr.
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 0.1538 hrs.
 
@@ -148,9 +148,9 @@ Over 20 Years
 
 <tr>
 
-<td>
+<td style="border:1px solid #000000">
 
-<td>
+<td style="border:1px solid #000000">
 
 **Maximum (hours) at fiscal year end\***
 
@@ -160,13 +160,13 @@ Over 20 Years
 
 <tr>
 
-<td>
+<td style="border:1px solid #000000">
 
 Staff on 8 Hrs./Day Schedules
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 192
 
@@ -176,13 +176,13 @@ Staff on 8 Hrs./Day Schedules
 
 <tr>
 
-<td>
+<td style="border:1px solid #000000">
 
 Staff on 7.75 Hrs./Day Schedules
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 186
 
