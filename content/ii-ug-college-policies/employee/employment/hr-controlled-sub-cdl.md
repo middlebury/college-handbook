@@ -38,19 +38,19 @@ Drivers who engage in prohibited alcohol conduct will be immediately removed fro
 
 In all cases, the privacy of the employee and the confidentiality of testing records and results will be strictly maintained by Middlebury College.  The integrity of the test process will be maintained.  Test results will be attributed to the correct driver.
 
-<table border="0">
+<table border="1">
 
 <tbody>
 
 <tr>
 
-<td>
+<td style="border:1px solid #000000">
 
 **Physical Examinations**
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 <ul style="list-style:disc;">
 
@@ -64,13 +64,13 @@ In all cases, the privacy of the employee and the confidentiality of testing rec
 
 <tr>
 
-<td>
+<td style="border:1px solid #000000">
 
 **Pre-employment testing for controlled substances**
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 <ul style="list-style:disc;">
 
@@ -102,13 +102,13 @@ In all cases, the privacy of the employee and the confidentiality of testing rec
 
 <tr>
 
-<td>
+<td style="border:1px solid #000000">
 
 **Random testing**
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 <ul style="list-style:disc;">
 
@@ -124,13 +124,13 @@ In all cases, the privacy of the employee and the confidentiality of testing rec
 
 <tr>
 
-<td>
+<td style="border:1px solid #000000">
 
 **Post-accident testing**
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 <ul style="list-style:disc;">
 
@@ -158,13 +158,13 @@ In all cases, the privacy of the employee and the confidentiality of testing rec
 
 <tr>
 
-<td>
+<td style="border:1px solid #000000">
 
 **Reasonable suspicion testing**
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 <ul style="list-style:disc;">
 
@@ -182,13 +182,13 @@ In all cases, the privacy of the employee and the confidentiality of testing rec
 
 <tr>
 
-<td>
+<td style="border:1px solid #000000">
 
 **Return to duty and/or follow-up testing**
 
 </td>
 
-<td>
+<td style="border:1px solid #000000">
 
 <ul style="list-style:disc;">
 
