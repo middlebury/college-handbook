@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/a.-academic-policies/a-4-change-of-academic-program/a-4-c-change-of-degree-program"
+slug: "/pages/iv-policies-for-the-institute/a-academic-policies/a-4-change-of-academic-program/a-4-c-change-of-degree-program"
 date: "2021-05-01"
 title: "A.4.c. Admission to a Second Graduate Degree Program"
 ---

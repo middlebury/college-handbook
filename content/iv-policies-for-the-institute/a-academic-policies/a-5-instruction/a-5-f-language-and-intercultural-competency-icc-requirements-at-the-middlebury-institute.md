@@ -1,5 +1,5 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/a-academic-policies/a.5.-instruction/a-5-f-language-and-intercultural-competency-icc-requirements-at-the-middlebury-institute"
+slug: "/pages/iv-policies-for-the-institute/a-academic-policies/a-5-instruction/a-5-f-language-and-intercultural-competency-icc-requirements-at-the-middlebury-institute"
 date: "2021-05-01"
 title: "A.5.f. Language and Intercultural Competency (ICC) Requirements at the Middlebury Institute"
 ---
