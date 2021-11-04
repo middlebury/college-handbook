@@ -3,7 +3,7 @@ import React from "react";
 const Page = (props) => {
   return (
     <div>
-      <h2>Middlebury's Mission Statement</h2>
+      <h2>Middlebury&#8217;s Mission Statement</h2>
       <p>
         <em>
           Through a commitment to immersive learning, we prepare students to
@@ -17,7 +17,7 @@ const Page = (props) => {
           2017 by the Middlebury Board of Trustees for all Middlebury programs
         </em>
       </p>
-      <h2>Introduction to Middlebury's Handbook</h2>
+      <h2>Introduction to Middlebury&#8217;s Handbook</h2>
       <p>
         This 2019-2020 Handbook supersedes previous editions of the College,
         Institute, and Language Schools Handbooks as of its online publication
@@ -32,7 +32,7 @@ const Page = (props) => {
         dictate that this Handbook focus on the more general principles that
         govern our relationships to each other, rather than articulating
         multiple procedures and variances in implementation that ensure
-        compliance with local laws.{" "}
+        compliance with local laws.
       </p>
       <h2>Academic Freedom, Integrity, and Respect</h2>
       <p>
@@ -43,7 +43,7 @@ const Page = (props) => {
       <p>
         <em>
           <u>Academic freedom</u>
-        </em>{" "}
+        </em>
         is vital to the pursuit of knowledge. In seeking truth and understanding
         in a complex world, scholars must have the ability to ask any question,
         test any hypothesis, consider any line of reasoning, and critically
@@ -66,7 +66,7 @@ const Page = (props) => {
         inquiry and expression
       </p>
       <p>
-        With the right of academic freedom comes the responsibility of{" "}
+        With the right of academic freedom comes the responsibility of
         <em>
           <i>integrity</i>
         </em>
@@ -96,7 +96,7 @@ const Page = (props) => {
         Engagement with the ideas and experiences of others are also key guards
         against our own individual limitations and biases. We, as members of
         this academic community, therefore recognize the fundamental principle
-        of{" "}
+        of
         <em>
           <u>mutual respect</u>
         </em>
