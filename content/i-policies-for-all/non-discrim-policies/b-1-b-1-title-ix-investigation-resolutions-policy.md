@@ -35,7 +35,7 @@ Conduct that occurs off campus in locations or at events without direction or co
 
 Conduct that occurred prior to August 14, 2020 will be investigated and adjudicated consistent with the procedures detailed in the [SMDVS Policy](https://www.middlebury.edu/about/handbook_old/smdvs "SMDVS") and/or the [Anti-Harassment/Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin "AHD") in effect during Academic Year 2019-2020, prior to the August 14, 2020 effective date of the Department of Education’s May 2020 regulations.  However, informal or “adaptable” resolutions may be available to address concerns about alleged conduct under the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy "Non-discrimination") regardless of the date it occurred.
 
-## II. Reporting Title IX Sexual Harassment=
+## II. Reporting Title IX Sexual Harassment
 
 **In order to fulfill its commitment to fostering a safe and inclusive learning environment, Middlebury values reporting of all types of sexual harassment, which includes sexual assault.** Any person who believes that they have been subject to Title IX Sexual Harassment, or who has reason to believe that Title IX Sexual Harassment has occurred or is occurring, should report this information to the immediate attention of the Civil Rights and Title IX (“CRTIX”) Coordinator.  The CRTIX Coordinator is:
 
