@@ -61,10 +61,10 @@
 
   @include media (lg) {
     display: block;
-    position: relative;
+    position: fixed;
     top: 50%;
     width: fit-content;
-    margin: auto;
+    margin: auto 3px;
 
     & > div {
       width: 3px;
