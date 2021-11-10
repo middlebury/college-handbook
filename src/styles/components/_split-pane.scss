@@ -3,7 +3,7 @@
   height: calc(100% - 162px);
   display: flex;
   flex-direction: column;
-  overflow: hidden;
+  overflow-y: scroll;
 
   @include media(lg) {
     flex-direction: row;
