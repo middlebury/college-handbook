@@ -46,6 +46,7 @@ export const SplitPaneLeft = ({ children, ...props }) => {
 
     if (document.documentElement.clientWidth >= 1024) {
       topRef.current.style.maxWidth = clientWidth + "px";
+      document.getElementsByClassName("ellipsis")[0].style.left = clientWidth + "px";
     } else {
       topRef.current.style.maxWidth = "initial";
     }
