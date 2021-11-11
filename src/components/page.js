@@ -43,8 +43,7 @@ const Page = (props) => {
       <p>
         <em>
           <u>Academic freedom</u>
-        </em>
-        is vital to the pursuit of knowledge. In seeking truth and understanding
+        </em> is vital to the pursuit of knowledge. In seeking truth and understanding
         in a complex world, scholars must have the ability to ask any question,
         test any hypothesis, consider any line of reasoning, and critically
         assess any assumption. Middlebury therefore recognizes that members of
