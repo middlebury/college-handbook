@@ -1,14 +1,14 @@
 .split-pane-row {
   width: 100vw;
-  height: calc(100% - 162px);
+  // height: max-content;
   display: flex;
   flex-direction: column;
-  overflow: hidden;
+  // overflow-y: scroll;
 
   @include media(lg) {
     flex-direction: row;
     min-height: 90vh;
-    max-height: 90vh;
+    // max-height: 90vh;
   }
 }
 
@@ -61,10 +61,10 @@
 
   @include media (lg) {
     display: block;
-    position: relative;
+    position: fixed;
     top: 50%;
     width: fit-content;
-    margin: auto;
+    margin: auto 3px;
 
     & > div {
       width: 3px;
