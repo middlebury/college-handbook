@@ -109,12 +109,12 @@ const Navbar = (props) => {
         fontSize.current -= 20;
       }
     }
-    
+
     const element = document.getElementById("print-section");
     if (fontSize.current === 100) {
-        element.classList.add("print-section__font-size");
+      element.classList.add("print-section__font-size");
     } else {
-        element.classList.remove("print-section__font-size");
+      element.classList.remove("print-section__font-size");
     }
     element.style.fontSize = `${fontSize.current}%`;
   };
@@ -216,24 +216,35 @@ const Navbar = (props) => {
           >
             <FaPrint />
           </button>
-          <span
-              aria-label="Print Information"
-              className="navbar__button tooltip"
-              style={{
-                margin: "0px",
-                fontSize: "14px",
-                verticalAlign: "super",
-                paddingLeft: "3px",
-              }}
-            >
-              <BsInfoCircleFill />
-              <span class="tooltiptext">
-                <ul class="tooltiptext__list">
-                  <li>To print the current page, click the print &nbsp;<FaPrint />&nbsp; icon.</li>
-                  <li>To print multiple pages, select the checkboxes &nbsp;<FaRegCheckSquare />&nbsp; in the left pane (or in the page menu below on mobile) for the pages you want to print and click the print &nbsp;<FaPrint />&nbsp; icon.</li>
-                </ul>
-              </span>
+          <button
+            aria-label="Print Information"
+            className="navbar__button tooltip"
+            style={{
+              margin: "0px",
+              fontSize: "14px",
+              verticalAlign: "super",
+              paddingLeft: "3px",
+            }}
+          >
+            <BsInfoCircleFill />
+            <span class="tooltiptext" aria-hidden="true" role="tooltip">
+              <ul class="tooltiptext__list">
+                <li>
+                  To print the current page, click the print &nbsp;
+                  <FaPrint />
+                  &nbsp; icon.
+                </li>
+                <li>
+                  To print multiple pages, select the checkboxes &nbsp;
+                  <FaRegCheckSquare />
+                  &nbsp; in the left pane (or in the page menu below on mobile)
+                  for the pages you want to print and click the print &nbsp;
+                  <FaPrint />
+                  &nbsp; icon.
+                </li>
+              </ul>
             </span>
+          </button>
         </div>
       </div>
     </nav>
