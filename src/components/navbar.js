@@ -6,9 +6,10 @@ import {
   FaStepForward,
   FaBackward,
   FaStepBackward,
-  FaInfoCircle,
-  FaRegCheckSquare
+  // FaInfoCircle,
+  FaRegCheckSquare,
 } from "react-icons/fa";
+import { BsInfoCircleFill } from "react-icons/bs";
 import { SearchBar, SearchBarPresentation } from "./search-bar";
 import { navigate } from "gatsby";
 
@@ -214,16 +215,18 @@ const Navbar = (props) => {
             title="Print"
           >
             <FaPrint />
-            <span
-              className="tooltip"
+          </button>
+          <span
+              aria-label="Print Information"
+              className="navbar__button tooltip"
               style={{
                 margin: "0px",
-                fontSize: "9pt",
+                fontSize: "14px",
                 verticalAlign: "super",
-                paddingLeft: "5px"
+                paddingLeft: "3px",
               }}
             >
-              <FaInfoCircle />
+              <BsInfoCircleFill />
               <span class="tooltiptext">
                 <ul class="tooltiptext__list">
                   <li>To print the current page, click the print &nbsp;<FaPrint />&nbsp; icon.</li>
@@ -231,7 +234,6 @@ const Navbar = (props) => {
                 </ul>
               </span>
             </span>
-          </button>
         </div>
       </div>
     </nav>
