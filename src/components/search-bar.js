@@ -27,6 +27,7 @@ export const SearchBarPresentation = (props) => {
           type="submit"
           className="navbar__button search"
           style={{ color: "white" }}
+          title="Search"
         >
           <span className="sr-only">Search</span>
           <img src={SearchIcon} style={{ color:"white", height:"1rem", width:"1rem", maxWidth:"initial" }} />
