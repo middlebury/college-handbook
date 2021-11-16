@@ -1,14 +1,13 @@
 ---
-slug: "/pages/i-policies-for-all/non-discrim-policies/svc-assist-animals"
-date: "2021-05-01"
-title: "B.1.d. Service and Assistance Animals Policy"
+slug: /pages/i-policies-for-all/non-discrim-policies/svc-assist-animals
+date: 2021-05-01
+title: B.1.d. Service and Assistance Animals Policy
 ---
-
-This policy addresses Service Animals and Assistance Animals, as defined below, while they are on campus. For policies regarding general pets and animals on the Vermont campus, see the Pet Policy section of the College Handbook ([II.A.6\. Pet Policy](/pages/ii-ug-college-policies/commun-policies/pets)).
+This policy addresses Service Animals and Assistance Animals, as defined below, while they are on campus. For policies regarding general pets and animals on the Vermont campus, see the Pet Policy section of the College Handbook ([II.A.6. Pet Policy](/pages/ii-ug-college-policies/commun-policies/pets)).
 
 **A.      Service Animals**
 
-The Department of Justice defines service animals as **"dogs that are individually trained to do work or perform tasks for people with disabilities."** Examples of such work or tasks include guiding people who are blind, alerting people who are deaf, pulling a wheelchair, alerting and protecting a person who is having a seizure, reminding a person with mental illness to take prescribed medications, calming a person with Post Traumatic Stress Disorder (PTSD) during an anxiety attack, or performing other duties. Service animals are working animals, not pets. The work or task a dog has been trained to provide must be directly related to the person’s disability. Dogs whose sole function is to provide comfort or emotional support do not qualify as service animals under the ADA. This definition does not affect or limit the broader definition of “assistance animal” under the Fair Housing Act [FHA].” (see policies for assistance animals in section B below)
+The Department of Justice defines service animals as **"dogs that are individually trained to do work or perform tasks for people with disabilities."** Examples of such work or tasks include guiding people who are blind, alerting people who are deaf, pulling a wheelchair, alerting and protecting a person who is having a seizure, reminding a person with mental illness to take prescribed medications, calming a person with Post Traumatic Stress Disorder (PTSD) during an anxiety attack, or performing other duties. Service animals are working animals, not pets. The work or task a dog has been trained to provide must be directly related to the person’s disability. Dogs whose sole function is to provide comfort or emotional support do not qualify as service animals under the ADA. This definition does not affect or limit the broader definition of “assistance animal” under the Fair Housing Act \[FHA\].” (see policies for assistance animals in section B below)
 
 Service animals need not have special certification or identification in order to qualify as such. They need only be required because of a disability and to be trained to work or perform a task. If it is not readily apparent what work an animal performs, Middlebury personnel will limit inquiries to only two questions, which are:
 
@@ -32,7 +31,7 @@ Because assistance animals do not qualify as service animals under the ADA, they
 
 In order to request a reasonable accommodation to possess an assistance animal in residence halls on campus, a person must initiate the accommodation process by contacting the appropriate resource:
 
-**<span style="text-decoration:underline">Students</span>**
+**Students**
 
 Jodi Litchfield, ADA Coordinator  
 Disability Resource Center (DRC)  
@@ -40,7 +39,7 @@ Disability Resource Center (DRC)
 (802) 443-5936  
 Service Building 222
 
-**<span style="text-decoration:underline">Faculty or Staff</span>**
+**Faculty or Staff**
 
 Patty Saunders, Disability and Leave Specialist  
 Human Resources  
@@ -56,13 +55,13 @@ If reasonable accommodation of an assistance animal is approved by Middlebury, e
 
 **i.  Care and Supervision**
 
--Animals must be accompanied by their owners/handlers and under their control at all times.
+\-Animals must be accompanied by their owners/handlers and under their control at all times.
 
--Owners/handlers are responsible for their animal’s behavior in both public and private areas, and they must ensure their animals are harnessed or on a leash at all times.
+\-Owners/handlers are responsible for their animal’s behavior in both public and private areas, and they must ensure their animals are harnessed or on a leash at all times.
 
--Owners/handlers are responsible for cleaning and grooming related to their animal including bathing and grooming, pest control, and sanitary disposal of animal waste.
+\-Owners/handlers are responsible for cleaning and grooming related to their animal including bathing and grooming, pest control, and sanitary disposal of animal waste.
 
--The owner/handler is responsible for any property damage caused by their animal, including the cost to cover repairs for damage the animal causes to Middlebury property, except reasonable wear and tear.
+\-The owner/handler is responsible for any property damage caused by their animal, including the cost to cover repairs for damage the animal causes to Middlebury property, except reasonable wear and tear.
 
 **ii.  Licensing**
 
@@ -72,16 +71,16 @@ The animal must be licensed and vaccinated in accordance with state, county, and
 
 Middlebury maintains the right to remove an animal under certain circumstances if:
 
--the animal is not housebroken,
+\-the animal is not housebroken,
 
--is not under the direct care and supervision of the owner/handler,
+\-is not under the direct care and supervision of the owner/handler,
 
--the animal is out of control and the owner/handler does not take effective action to control it,
+\-the animal is out of control and the owner/handler does not take effective action to control it,
 
--if it is not vaccinated or licensed,
+\-if it is not vaccinated or licensed,
 
--if it causes disturbances such as noise, barking, or excessive odors, or
+\-if it causes disturbances such as noise, barking, or excessive odors, or
 
--if it poses a direct threat to any member of the Middlebury community.
+\-if it poses a direct threat to any member of the Middlebury community.
 
 _Updated: March 29, 2019_
