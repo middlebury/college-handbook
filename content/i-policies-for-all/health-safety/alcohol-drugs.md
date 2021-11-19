@@ -20,7 +20,6 @@ title: C.7. Alcohol, Tobacco and Other Drugs
 
 **Introduction**
 
-  
 Middlebury is committed to promoting individual and community health, safety, and responsibility. We require all students and employees to observe local, state, and federal laws governing the possession, use, and furnishing of alcoholic beverages, tobacco and controlled substances, also referred to as illegal drugs, and failure to do so is prohibited. We are also committed to ensuring that, in accordance with the Drug-Free Schools and Community Act of 1989 and the Drug-Free Schools and Campuses Regulations, our policies concerning alcohol, tobacco and drugs contain clear statements about: (1) the standards of conduct prohibiting the unlawful possession, use, or distribution of tobacco, illegal drugs and alcohol by students and employees; (2) that Middlebury will impose disciplinary sanctions on students and employees who violate these policies (consistent with local, state, and federal law); (3) the applicable legal sanctions under local, state, or federal law for the unlawful possession or distribution of tobacco, illegal drugs and alcohol; and (4) health risks and information regarding tobacco, drug or alcohol counseling, treatment or rehabilitation, or reentry programs that are available to students and employees. When tobacco, drug, or alcohol violations occur, disciplinary sanctions will be imposed in accordance with this policy. Serious incidents that put a student or others at risk of harm, as well as repeated offenses, may require a more vigorous response, including referral to counseling or a treatment facility, a leave of absence, and/or disciplinary outcomes as appropriate.
 
 Therefore, Middlebury will:
@@ -61,15 +60,15 @@ j. Repeated unsafe intoxication.
 
 k. Middlebury-College Specific: The following actions are specifically prohibited at Middlebury College:
 
-Violating party regulations. Party regulations may be found in the office of the Dean of Students and the Department of Public Safety, and at [go/party](https://www.middlebury.edu/student-life/community-living/residential-life/student-responsibilities-and-expectation/party-information). Small, informal gatherings held in individual rooms, suites, and small houses occupied by students of legal age, at which alcoholic beverages are consumed, do not have to be registered. Residents of the living space will be treated as "party hosts," and held responsible for the actions of individuals in attendance. Students are responsible for unregistered gatherings and related activities that occur in their rooms, whether or not they are present.
-
-For purposes of this policy, residential hallways are normally considered private spaces. Students of legal age may transport open alcohol containers for personal use within residence halls, but the use of hallways for parties is prohibited. Individual Commons may designate certain spaces in residence halls as senior commons rooms; these spaces will be considered private.
-
-Possession of alcohol in first-year residence halls.
-
-Possession of kegs or common containers. Possession by students of kegs or common containers (e.g., punch bowls) without advance party registration with the appropriate office (see [go/party](https://www.middlebury.edu/student-life/community-living/residential-life/student-responsibilities-and-expectation/party-information)) is prohibited. Unauthorized kegs or common containers will be confiscated, along with taps, and the Department of Public Safety will return confiscated kegs and taps to the vendor.
-
-Multiple instances involving assignment to a sober friend, and single or multiple instances involving alcohol/drug-related transport to the hospital and/or to detoxification facilities may also result in disciplinary action, consistent with the Medical Amnesty Policy (below).
+1.  Violating party regulations. Party regulations may be found in the office of the Dean of Students and the Department of Public Safety, and at [go/party](https://www.middlebury.edu/student-life/community-living/residential-life/student-responsibilities-and-expectation/party-information). Small, informal gatherings held in individual rooms, suites, and small houses occupied by students of legal age, at which alcoholic beverages are consumed, do not have to be registered. Residents of the living space will be treated as "party hosts," and held responsible for the actions of individuals in attendance. Students are responsible for unregistered gatherings and related activities that occur in their rooms, whether or not they are present.  
+     
+2.  For purposes of this policy, residential hallways are normally considered private spaces. Students of legal age may transport open alcohol containers for personal use within residence halls, but the use of hallways for parties is prohibited. Individual Commons may designate certain spaces in residence halls as senior commons rooms; these spaces will be considered private.  
+     
+3.  Possession of alcohol in first-year residence halls.  
+     
+4.  Possession of kegs or common containers. Possession by students of kegs or common containers (e.g., punch bowls) without advance party registration with the appropriate office (see [go/party](https://www.middlebury.edu/student-life/community-living/residential-life/student-responsibilities-and-expectation/party-information)) is prohibited. Unauthorized kegs or common containers will be confiscated, along with taps, and the Department of Public Safety will return confiscated kegs and taps to the vendor.  
+     
+5.  Multiple instances involving assignment to a sober friend, and single or multiple instances involving alcohol/drug-related transport to the hospital and/or to detoxification facilities may also result in disciplinary action, consistent with the Medical Amnesty Policy (below).
 
 **Drugs**  
 The following actions are prohibited:
