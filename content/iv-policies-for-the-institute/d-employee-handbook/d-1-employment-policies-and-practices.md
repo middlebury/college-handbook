@@ -38,7 +38,7 @@ At the Institute, our international focus reinforces our emphasis on diversity i
 
 **D.1.d. Non-discrimination, Anti-Harassment and Related Policies**
 
-The Middlebury Institute of International Studies at Monterey, as a Graduate School of Middlebury College, falls under the jurisdiction of Middlebury College policy with regard to compliance with any and all federal and state laws that prohibit discrimination.  Please see the Middlebury [Non-Discrimination Policies](/pages/i-policies-for-all/non-discrim-policies), which include the Middlebury [Anti-Harassment/Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin),  and the [Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct, and Stalking](https://www.middlebury.edu/about/handbook/policies-for-all/non-discrim-policies/smdvs).
+The Middlebury Institute of International Studies at Monterey, as a Graduate School of Middlebury College, falls under the jurisdiction of Middlebury College policy with regard to compliance with any and all federal and state laws that prohibit discrimination.  Please see the Middlebury [Non-Discrimination Policies](/pages/i-policies-for-all/non-discrim-policies), which include the Middlebury [Anti-Harassment/Discrimination Policy](/assets/anti-harassment-prior-to-8-14-2020.pdf),  and the [Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct, and Stalking](/assets/smdvs-prior-to-8-14-2020.pdf).
 
 **D.1.e. Americans with Disabilities Act (ADA)**
 

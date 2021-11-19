@@ -220,7 +220,7 @@ The time periods stated herein for action on the part of the ADA Coordinator and
 
 ## <a name="complaints" id="complaints"></a>F. Complaints regarding Disability-related Harassment or Discrimination
 
-In addition to the above-stated appeals process regarding certification and/or accommodations decisions, students who feel that they have been harassed or discriminated against on the basis of their disability, in violation of Section 504 of the Rehabilitation Act of 1973, the ADA, or other applicable law, are encouraged to file a complaint under [Middlebury’s Anti-Harassment/Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin) (“AH/D Policy”). Complaints should be directed to a [Human Relations Officer](https://www.middlebury.edu/student-life/health-wellness-education-and-safety/campus-policies/human-relations-officer) and will be handled in accordance with the procedures set forth in the AH/D policy.
+In addition to the above-stated appeals process regarding certification and/or accommodations decisions, students who feel that they have been harassed or discriminated against on the basis of their disability, in violation of Section 504 of the Rehabilitation Act of 1973, the ADA, or other applicable law, are encouraged to file a complaint under [Middlebury’s Anti-Harassment/Discrimination Policy](/assets/anti-harassment-prior-to-8-14-2020.pdf) (“AH/D Policy”). Complaints should be directed to a [Human Relations Officer](https://www.middlebury.edu/student-life/health-wellness-education-and-safety/campus-policies/human-relations-officer) and will be handled in accordance with the procedures set forth in the AH/D policy.
 
 ## <a name="stu-records" id="stu-records"></a>G. Student Records
 

@@ -26,13 +26,13 @@ Any unexpected development preventing a faculty member from meeting a class shou
 
 **C.8.e. Policy Against Sexual Misconduct, Domestic Violence, Dating Violence and Stalking**
 
-Middlebury is committed to providing a campus and workplace environment that is safe and secure for all students, staff, faculty and others who participate in Middlebury’s programs. Sexual misconduct, domestic violence, dating violence, stalking, and related retaliation are strictly prohibited, and Middlebury will respond to such complaints in accordance with the [policy set forth in the Middlebury handbook](https://www.middlebury.edu/about/handbook/policies-for-all/non-discrim-policies/smdvs).
+Middlebury is committed to providing a campus and workplace environment that is safe and secure for all students, staff, faculty and others who participate in Middlebury’s programs. Sexual misconduct, domestic violence, dating violence, stalking, and related retaliation are strictly prohibited, and Middlebury will respond to such complaints in accordance with the [policy set forth in the Middlebury handbook](/assets/smdvs-prior-to-8-14-2020.pdf).
 
 **<a name="grievance" id="grievance"></a>C.8.f. Grievance Procedure**
 
 A faculty member of the Institute should avail him/herself of the following grievance procedures for any violation of (a) his/her employment contract with the Institute; (b) the Faculty Handbook; or (c) other Institute policy that in his/her employment with the Institute, has materially damaged the faculty member.
 
-However, if a faculty member has a complaint of harassment, discrimination, or other behaviors noted in [Middlebury’s Anti-harassment/Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin), the complaint procedure in that policy should be used.
+However, if a faculty member has a complaint of harassment, discrimination, or other behaviors noted in [Middlebury’s Anti-harassment/Discrimination Policy](/assets/anti-harassment-prior-to-8-14-2020.pdf), the complaint procedure in that policy should be used.
 
 **Filing a Grievance –** The grievance process begins with a written document transmitted by the faculty member to the VPAA that states:
 

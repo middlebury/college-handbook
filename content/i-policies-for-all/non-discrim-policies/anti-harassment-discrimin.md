@@ -203,7 +203,7 @@ A student may file a complaint of discrimination, harassment, including sexual h
 
 The HRO may keep confidential records or reports developed under this Procedure and the actions taken in response to those reports, and use them for purposes such as to identify individuals or departments likely to benefit from training. Information about the HRO is available at several college offices: Human Relations Office, [Civil Rights and Title IX Coordinator/Compliance Officer](https://www.middlebury.edu/studentlife/doc/hro), [Vice President for Student Affairs and Dean of Students](https://www.middlebury.edu/college/student-life/dean-students), Student Life deans, Vice President for Academic Affairs and Dean of the Faculty, Public Safety, Human Resources, program directors, and the Middlebury Institute’s HROs.
 
-## 11\.    Addendum (California Employees Only)
+## 11\.    <a id="Addendum"></a> Addendum (California Employees Only)
 
 California law has specific requirements for what must be set forth in a harassment/discrimination policy applicable to employees. In accordance with California’s Fair Employment and Housing Act Regulations (“FEHA”), and in addition to the policy provisions set forth above, this addendum applies to faculty, staff and other employees who are employed by the Middlebury Institute of International Studies at Monterey, Middlebury’s Language Schools at Mills College and any other Middlebury program that is located in California.
 
@@ -333,7 +333,7 @@ Unless otherwise noted, “days” indicates calendar days, regardless of whethe
 
 * * *
 
-## Appendix A: Civil Rights and Title IX Coordinator
+## <a id="A"></a>Appendix A: Civil Rights and Title IX Coordinator
 
 Inquiries concerning the application of Title IX may be referred to Middlebury’s [Civil Rights and Title IX Coordinator](https://www.middlebury.edu/studentlife/doc/hro) or to the United States Department of Education Office for Civil Rights. The full text of Middlebury’s [Nondiscrimination Statement](https://www.middlebury.edu/about/handbook/general/nondiscrimination) is available at [https:www.middlebury.edu/pages/general/nondiscrimination](https://www.middlebury.edu/about/handbook/general/nondiscrimination). Printed copies may be obtained from the offices of the Vice President for Student Affairs, the Student Life deans, the Civil Rights and Title IX Coordinator, human relations officer(s) or the supervisory authority for the program at issue. Reasonable accommodations will be provided for persons with disabilities who need assistance in reviewing Middlebury’s [Nondiscrimination Statement](https://www.middlebury.edu/about/handbook/general/nondiscrimination) and its Non-Discrimination policies and procedures.
 
