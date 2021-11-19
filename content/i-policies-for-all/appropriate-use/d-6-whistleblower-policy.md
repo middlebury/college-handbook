@@ -58,6 +58,6 @@ Phone: 802-443-5001\
 
 **Anti-Harassment and Discrimination Policy**
 
-[https://www.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin)
+[Anti-Harassment and Discrimination Policy](/assets/anti-harassment-prior-to-8-14-2020.pdf)
 
 *Updated May 3, 2019*
