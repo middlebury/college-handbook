@@ -23,8 +23,7 @@ Theft includes the unauthorized copying of copyrighted software, reproduction or
 
 Many members of the Middlebury community have questions about the sharing of music and movies in digital format over the Internet. File sharing may violate U.S. copyright law and subject you to a lawsuit for copyright infringement, and it may also be a violation of Middlebury policy.  You should understand the risks of certain types file sharing given potential legal action. **Most commercially produced music, movies, games and software are copyrighted and are not to be freely shared without permission.** _**This is the law**_. Members of our community must follow the policies for appropriate use of technology resources under the law as described on the [ITS website](https://www.middlebury.edu/office/information-technology-services/policies). _see:_ [Responsible Use of Computing and Network Service and Facilities](https://go.middlebury.edu/itsru); [Network Policies](https://go.middlebury.edu/netpolicies).
 
-**Sources for legal downloading may be found at:**  
-[**www.educause.edu/legalcontent**](https://www.educause.edu/legalcontent)
+**Sources for legal downloading may be found at:** [**www.educause.edu/legalcontent**](https://www.educause.edu/legalcontent)
 
 [**RIAA's Music Matters list of legal music sites**](https://whymusicmatters.com/find-music)
 
