@@ -16,6 +16,8 @@ title: C.7. Alcohol, Tobacco and Other Drugs
 *   [**Health and Community Responsibility**](/pages/i-policies-for-all/health-safety/alcohol-drugs/#health-and-community-responsibility)
 *   [**Laws and Resources**](/pages/i-policies-for-all/health-safety/alcohol-drugs/#laws-and-resources)
 
+---
+
 #### **Introduction**
 
 Middlebury is committed to promoting individual and community health, safety, and responsibility. We require all students and employees to observe local, state, and federal laws governing the possession, use, and furnishing of alcoholic beverages, tobacco and controlled substances, also referred to as illegal drugs, and failure to do so is prohibited. We are also committed to ensuring that, in accordance with the Drug-Free Schools and Community Act of 1989 and the Drug-Free Schools and Campuses Regulations, our policies concerning alcohol, tobacco and drugs contain clear statements about: (1) the standards of conduct prohibiting the unlawful possession, use, or distribution of tobacco, illegal drugs and alcohol by students and employees; (2) that Middlebury will impose disciplinary sanctions on students and employees who violate these policies (consistent with local, state, and federal law); (3) the applicable legal sanctions under local, state, or federal law for the unlawful possession or distribution of tobacco, illegal drugs and alcohol; and (4) health risks and information regarding tobacco, drug or alcohol counseling, treatment or rehabilitation, or reentry programs that are available to students and employees. When tobacco, drug, or alcohol violations occur, disciplinary sanctions will be imposed in accordance with this policy. Serious incidents that put a student or others at risk of harm, as well as repeated offenses, may require a more vigorous response, including referral to counseling or a treatment facility, a leave of absence, and/or disciplinary outcomes as appropriate.
@@ -179,3 +181,5 @@ For information specific to state and federal laws governing the use, possession
 [Middlebury's Annual Drug-Free Schools and Communities Act Notice](https://www.middlebury.edu/offices/health/publicsafety/Resources_and_Compliance_Requirements/drug-free-schools-and-communities-act-notice)
 
 [Middlebury Institute's Annual Drug-Free Schools and Communities Act Notice](https://www.middlebury.edu/institute/student-life/student-policies/annual-drug-free-schools-and-communities-act-notice)
+
+---
