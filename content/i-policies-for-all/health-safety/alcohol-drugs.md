@@ -34,7 +34,7 @@ c. Educate members of the community through academic and student life programs a
 
 All students, faculty, staff, and visitors are subject to local, state, and federal laws, as well as Middlebury tobacco, drug and alcohol policy rules and regulations, while on Middlebury-owned or -leased properties or involved with off-campus activities sponsored by Middlebury or a registered Middlebury organization. Middlebury does not protect students or employees from prosecution for tobacco, drug or alcohol offenses under local, state, or federal laws, and does not interfere with legitimate law enforcement activities. Law enforcement officers may have a legal right to search individuals, and with consent or proper documentation may search property—including residences owned or leased by Middlebury —without prior notice. Middlebury also reserves the right to furnish the police with information regarding alleged illegal activities.
 
-Middlebury College Specific: In order to preserve the safety of our residents, the state of Vermont and the College both adhere to policies that limit disciplinary consequences under certain circumstances when appropriate care is sought for individuals in drug- or alcohol-related distress. Please see the [Medical Amnesty Policy](#amnesty) below for more information. Additionally, if student health and safety concerns resulting from a student’s use of alcohol and/or drugs arise, parents or guardians may be notified. See [Health and Community Responsibility](#health) below for more information.
+**Middlebury College Specific**: In order to preserve the safety of our residents, the state of Vermont and the College both adhere to policies that limit disciplinary consequences under certain circumstances when appropriate care is sought for individuals in drug- or alcohol-related distress. Please see the [Medical Amnesty Policy](#amnesty) below for more information. Additionally, if student health and safety concerns resulting from a student’s use of alcohol and/or drugs arise, parents or guardians may be notified. See [Health and Community Responsibility](#health) below for more information.
 
 #### **Alcohol**
 
@@ -60,17 +60,13 @@ i. Administering alcohol to individuals against their will and/or without their 
 
 j. Repeated unsafe intoxication.
 
-k. Middlebury-College Specific: The following actions are specifically prohibited at Middlebury College:
+k. **Middlebury-College Specific**: The following actions are specifically prohibited at Middlebury College:
 
-Violating party regulations. Party regulations may be found in the office of the Dean of Students and the Department of Public Safety, and at [go/party](https://www.middlebury.edu/student-life/community-living/residential-life/student-responsibilities-and-expectation/party-information). Small, informal gatherings held in individual rooms, suites, and small houses occupied by students of legal age, at which alcoholic beverages are consumed, do not have to be registered. Residents of the living space will be treated as "party hosts," and held responsible for the actions of individuals in attendance. Students are responsible for unregistered gatherings and related activities that occur in their rooms, whether or not they are present.
-
-For purposes of this policy, residential hallways are normally considered private spaces. Students of legal age may transport open alcohol containers for personal use within residence halls, but the use of hallways for parties is prohibited. Individual Commons may designate certain spaces in residence halls as senior commons rooms; these spaces will be considered private.
-
-Possession of alcohol in first-year residence halls.
-
-Possession of kegs or common containers. Possession by students of kegs or common containers (e.g., punch bowls) without advance party registration with the appropriate office (see [go/party](https://www.middlebury.edu/student-life/community-living/residential-life/student-responsibilities-and-expectation/party-information)) is prohibited. Unauthorized kegs or common containers will be confiscated, along with taps, and the Department of Public Safety will return confiscated kegs and taps to the vendor.
-
-Multiple instances involving assignment to a sober friend, and single or multiple instances involving alcohol/drug-related transport to the hospital and/or to detoxification facilities may also result in disciplinary action, consistent with the Medical Amnesty Policy (below).
+1.  Violating party regulations. Party regulations may be found in the office of the Dean of Students and the Department of Public Safety, and at [go/party](https://www.middlebury.edu/student-life/community-living/residential-life/student-responsibilities-and-expectation/party-information). Small, informal gatherings held in individual rooms, suites, and small houses occupied by students of legal age, at which alcoholic beverages are consumed, do not have to be registered. Residents of the living space will be treated as "party hosts," and held responsible for the actions of individuals in attendance. Students are responsible for unregistered gatherings and related activities that occur in their rooms, whether or not they are present.
+2.  For purposes of this policy, residential hallways are normally considered private spaces. Students of legal age may transport open alcohol containers for personal use within residence halls, but the use of hallways for parties is prohibited. Individual Commons may designate certain spaces in residence halls as senior commons rooms; these spaces will be considered private.
+3.  Possession of alcohol in first-year residence halls.
+4.  Possession of kegs or common containers. Possession by students of kegs or common containers (e.g., punch bowls) without advance party registration with the appropriate office (see [go/party](https://www.middlebury.edu/student-life/community-living/residential-life/student-responsibilities-and-expectation/party-information)) is prohibited. Unauthorized kegs or common containers will be confiscated, along with taps, and the Department of Public Safety will return confiscated kegs and taps to the vendor.
+5.  Multiple instances involving assignment to a sober friend, and single or multiple instances involving alcohol/drug-related transport to the hospital and/or to detoxification facilities may also result in disciplinary action, consistent with the Medical Amnesty Policy (below).
 
 #### **Drugs**
 
@@ -172,7 +168,7 @@ Middlebury believes that alcohol and other drug-related problems affect our enti
 
 Involvement with or dependency upon drugs or excessive or illegal use of alcohol is viewed by Middlebury as a health concern as well as a disciplinary matter. Any time a dean, staff member, faculty member or appropriate supervisory authority has reasonable concerns that a student’s health is being compromised by alcohol or other drug use (even in cases where no concrete evidence or direct witness is involved), an educational and/or preventative response, such as a group class, online course, individual meeting, substance use assessment, referral to support resources, or other appropriate course of action may be required.
 
-Middlebury College Specific: In addition, the dean or appropriate supervisory authority may notify the student’s parents or guardian of concerns about the student’s drug or alcohol use.
+**Middlebury College Specific**: In addition, the dean or appropriate supervisory authority may notify the student’s parents or guardian of concerns about the student’s drug or alcohol use.
 
 #### **Laws and Resources**
 
