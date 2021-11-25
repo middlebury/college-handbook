@@ -10,4 +10,4 @@ _see:_ [Procedures: Grievances](https://www.middlebury.edu/offices/business/hr/s
 
 As an educational institution, Middlebury College is committed to maintaining a campus environment where discrimination or harassment on the basis of race, creed, color, place of birth, ancestry, ethnicity, national origin, religion, sex, sexual orientation, gender identity and expression, age, marital status, service in the armed forces of the United States, positive HIV-related blood test results, genetic information or against individuals with disabilities on the basis of disability and/or any other status or characteristic as defined and to the extent protected by applicable law is unacceptable. The College complies with state and federal laws that address discrimination in the workplace.
 
-_see:_ [Middlebury College Anti-Harassment Policy](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin)
+_see:_ [Middlebury College Anti-Harassment Policy](/assets/anti-harassment-prior-to-8-14-2020.pdf)
