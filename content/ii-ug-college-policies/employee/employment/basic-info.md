@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/employment/basic-info"
-date: "2021-05-01"
-title: "2.3 Basic Information about Employment at Middlebury College"
+slug: /pages/ii-ug-college-policies/employee/employment/basic-info
+date: 2021-05-01
+title: 2.3 Basic Information about Employment at Middlebury College
 ---
-
 **Hiring**
 
 Human Resources confirms by letter all appointments as well as all promotions, job transfers, and changes in employee status. Before being placed on the payroll, new employees must complete the necessary federal forms at the Human Resources office.
@@ -16,15 +15,15 @@ The College, in accordance with the Immigration Reform and Control Act of 1986, 
 
 Employees are responsible for taking an active role in keeping their records current and accurate. Notification to Human Resources of any changes in personal status is critical. Such information is necessary to ensure correct coverage and, if appropriate, deductions for taxes, medical insurance, life insurance, etc. Incorrect or outdated information may affect employee benefits and the ability of the College to make the appropriate contacts in an emergency. The accuracy of an employee's entry in the College directory depends on the accuracy of that employee's files. Some changes that should be reported promptly include:
 
-- Name
-- Home address
-- Telephone number
-- Marital status
-- Names and social security numbers of dependents
-- Birth dates of dependents
-- Changes in dependent(s) status
-- Changes in emergency contact information
-- Beneficiary designations for benefit plans, such as retirement plan, life insurance, etc.
+*   Name
+*   Home address
+*   Telephone number
+*   Marital status
+*   Names and social security numbers of dependents
+*   Birth dates of dependents
+*   Changes in dependent(s) status
+*   Changes in emergency contact information
+*   Beneficiary designations for benefit plans, such as retirement plan, life insurance, etc.
 
 Employees may review the personal information in their personnel files by setting up an appointment with a representative of Human Resources. One business day notice is required.
 
@@ -44,385 +43,19 @@ Middlebury College classifies faculty and staff members according to the chart b
 
 **Employee Group Classifications - FACULTY**
 
-<table>
-
-<tbody>
-
-<tr>
-
-<td>
-
-**<span style="text-decoration:underline">Classification</span>**<span style="text-decoration:underline"></span>
-
-</td>
-
-<td>
-
-**<span style="text-decoration:underline">Appointment Duration</span>**<span style="text-decoration:underline"></span>
-
-</td>
-
-<td>
-
-**<span style="text-decoration:underline">FTE</span>**<span style="text-decoration:underline"></span>
-
-</td>
-
-<td>
-
-**<span style="text-decoration:underline">Benefits Eligibility</span>**<span style="text-decoration:underline"></span>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Full-Time
-
-</td>
-
-<td>
-
-<span style="text-decoration:underline">></span>1 Academic Year
-
-</td>
-
-<td>
-
-.8-1
-
-</td>
-
-<td>
-
-Yes
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Part-Time - Benefits Eligible
-
-</td>
-
-<td>
-
-<span style="text-decoration:underline">></span>1 Academic Year
-
-</td>
-
-<td>
-
-.5-.79
-
-</td>
-
-<td>
-
-Yes
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Part-Time - Not Benefits Eligible\*\*
-
-</td>
-
-<td>
-
-Any
-
-</td>
-
-<td>
-
-<.5
-
-</td>
-
-<td>
-
-No
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+<table><tbody><tr><td><strong>Classification</strong></td><td><strong>Appointment Duration</strong></td><td><strong>FTE</strong></td><td><strong>Benefits Eligibility</strong></td></tr><tr><td>Full-Time</td><td>&gt;1 Academic Year</td><td>.8-1</td><td>Yes</td></tr><tr><td>Part-Time - Benefits Eligible</td><td>&gt;1 Academic Year</td><td>.5-.79</td><td>Yes</td></tr><tr><td>Part-Time - Not Benefits Eligible**</td><td>Any</td><td>&lt;.5</td><td>No</td></tr></tbody></table>
 
 **Employee Group Classifications - STAFF**
 
-<table>
-
-<tbody>
-
-<tr>
-
-<td>
-
-**<span style="text-decoration:underline">Classification</span>**<span style="text-decoration:underline"></span>
-
-</td>
-
-<td>
-
-**<span style="text-decoration:underline">FTE</span>**<span style="text-decoration:underline"></span>
-
-</td>
-
-<td>
-
-**<span style="text-decoration:underline">Hours Per Year</span>**<span style="text-decoration:underline"></span>
-
-</td>
-
-<td>
-
-**<span style="text-decoration:underline">Appointment Duration</span>**<span style="text-decoration:underline"></span>
-
-</td>
-
-<td>
-
-**<span style="text-decoration:underline">Benefits Eligibility</span>**<span style="text-decoration:underline"></span>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-**_Regular Employees:_**
-
-Full-Time
-
-</td>
-
-<td>
-
-.8-1
-
-</td>
-
-<td>
-
-1664+
-
-</td>
-
-<td>
-
-on-going
-
-</td>
-
-<td>
-
-Yes
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Part-Time - Benefits Eligible
-
-</td>
-
-<td>
-
-.48-.79
-
-</td>
-
-<td>
-
-1000-1663
-
-</td>
-
-<td>
-
-on-going
-
-</td>
-
-<td>
-
-Yes
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Time-Limited
-
-</td>
-
-<td>
-
-.48+
-
-</td>
-
-<td>
-
-1000+
-
-</td>
-
-<td>
-
-9+ months (with end date)
-
-</td>
-
-<td>
-
-Yes
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-**_Casual\*\* Employees:_**
-
-Part-Time - Not Benefits Eligible
-
-</td>
-
-<td>
-
-<.48
-
-</td>
-
-<td>
-
-<1000
-
-</td>
-
-<td>
-
-on-going
-
-</td>
-
-<td>
-
-No
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-On-Call
-
-</td>
-
-<td>
-
-n/a
-
-</td>
-
-<td>
-
-n/a
-
-</td>
-
-<td>
-
-on-going
-
-</td>
-
-<td>
-
-No
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Temporary/Seasonal
-
-</td>
-
-<td>
-
-n/a
-
-</td>
-
-<td>
-
-n/a
-
-</td>
-
-<td>
-
-<9 months with end date
-
-</td>
-
-<td>
-
-No
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+<table><tbody><tr><td><strong>Classification</strong></td><td><strong>FTE</strong></td><td><strong>Hours Per Year</strong></td><td><strong>Appointment Duration</strong></td><td><strong>Benefits Eligibility</strong></td></tr><tr><td><p><i><strong>Regular Employees:</strong></i></p><p>Full-Time</p></td><td>.8-1</td><td>1664+</td><td>on-going</td><td>Yes</td></tr><tr><td>Part-Time - Benefits Eligible</td><td>.48-.79</td><td>1000-1663</td><td>on-going</td><td>Yes</td></tr><tr><td>Time-Limited</td><td>.48+</td><td>1000+</td><td>9+ months (with end date)</td><td>Yes</td></tr><tr><td><p><i><strong>Casual** Employees:</strong></i></p><p>Part-Time - Not Benefits Eligible</p></td><td>&lt;.48</td><td>&lt;1000</td><td>on-going</td><td>No</td></tr><tr><td>On-Call</td><td>n/a</td><td>n/a</td><td>on-going</td><td>No</td></tr><tr><td>Temporary/Seasonal</td><td>n/a</td><td>n/a</td><td>&lt;9 months with end date</td><td>No</td></tr></tbody></table>
 
 \***\*1,000 Hour Rule**
 
-Casual employees hired into positions such as those classified as: temporary, on-call, adjunct, seasonal, or other very part-time hour arrangements are, by definition, expected to work for a limited duration and/or for a low number of hours and as such are not budgeted to be benefits-eligible. To ensure compliance with various benefits laws and contracts such casual employees are <span style="text-decoration:underline">limited to a total – in ALL Middlebury jobs – of 999 work hours</span> in a rolling 12 month period.  At or before reaching 999 hours in a given period a casual employee must either be terminated from employment OR may be left “active” but not allowed to work until a new 12 month period begins.
+Casual employees hired into positions such as those classified as: temporary, on-call, adjunct, seasonal, or other very part-time hour arrangements are, by definition, expected to work for a limited duration and/or for a low number of hours and as such are not budgeted to be benefits-eligible. To ensure compliance with various benefits laws and contracts such casual employees are limited to a total – in ALL Middlebury jobs – of 999 work hours in a rolling 12 month period.  At or before reaching 999 hours in a given period a casual employee must either be terminated from employment OR may be left “active” but not allowed to work until a new 12 month period begins.
 
-Exceptions to the 1,000 Hour Rule are granted only for compelling business reasons and require <span style="text-decoration:underline">advance</span> approval.  Options are:
+Exceptions to the 1,000 Hour Rule are granted only for compelling business reasons and require advance approval.  Options are:
 
-1.  <span style="text-decoration:underline">Convert the job to benefits-eligible status</span>: requires approval from the area Vice President and the Ways and Means Committee.
-2.  <span style="text-decoration:underline">Allow employee to continue working in the casual position for an additional limited period:</span> requires approval from Human Resources, the area Vice President and in most cases the Budget Office, and will only be considered in rare circumstances that are legally, contractually, and budgetarily permissible.
+1.  Convert the job to benefits-eligible status: requires approval from the area Vice President and the Ways and Means Committee.
+2.  Allow employee to continue working in the casual position for an additional limited period: requires approval from Human Resources, the area Vice President and in most cases the Budget Office, and will only be considered in rare circumstances that are legally, contractually, and budgetarily permissible.
 
 To ensure transparency and alignment of expectations, managers should discuss these work hour limitations with applicants when hiring for casual positions, and offer/appointment letters should include information regarding worked-hour limitations.
