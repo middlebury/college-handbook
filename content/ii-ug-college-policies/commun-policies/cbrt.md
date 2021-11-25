@@ -3,29 +3,28 @@ slug: /pages/ii-ug-college-policies/commun-policies/cbrt
 date: 2021-05-01
 title: A.1. Community Bias Response Team Policy
 ---
-
 _In effect as of September 1, 2016_
 
-**[Overview](#Overview)**  
-**[What is Bias?](#What)**  
-**[Other Applicable Information](#Other)**
+[**Overview**](#Overview)  
+[**What is Bias?**](#What)  
+[**Other Applicable Information**](#Other)
 
-* **[Harassment](#Harassment)**
-* **[Hate Crime](#Hate)**
-* **[Community Standards](#Community)**
-* **[Anti-Harassment/Discrimination Policy](#Anti)**
-* **[Nondiscrimination Statement](#Non)**
-* **[Notice](#Notice)**
-* **[Confidentiality](#Confidentiality)**
-* **[Disclosure Required by Law](#disclosure_req)**
-* **[Disclosure to Law Enforcement](#DisTo)**
-* **[Retaliation](#Retaliation)**
+*   [**Harassment**](#Harassment)
+*   [**Hate Crime**](#Hate)
+*   [**Community Standards**](#Community)
+*   [**Anti-Harassment/Discrimination Policy**](#Anti)
+*   [**Nondiscrimination Statement**](#Non)
+*   [**Notice**](#Notice)
+*   [**Confidentiality**](#Confidentiality)
+*   [**Disclosure Required by Law**](#disclosure_req)
+*   [**Disclosure to Law Enforcement**](#DisTo)
+*   [**Retaliation**](#Retaliation)
 
-**[Additional Resources](#Additional)**
+[**Additional Resources**](#Additional)
 
 ---
 
-## Overview {#Overview}
+## Overview {#Overviews}
 
 Middlebury is committed to maintaining a diverse and inclusive campus environment where bigotry and intolerance are unacceptable.
 
@@ -33,9 +32,9 @@ The Community Bias Response Team (CBRT) is charged with assessing and communicat
 
 The CBRT does not have the authority to conduct disciplinary proceedings or impose discipline on students, staff or faculty. Disciplinary matters will be referred and handled in accordance with Middlebury’s policies, as applicable. Accordingly, complaints of misconduct should be addressed as follows:
 
-- Complaints of misconduct related to the behavior of students should be directed to a [Judicial Affairs Officer](https://www.middlebury.edu/student-life/community-living/judicial-affairs);
-- Complaints of misconduct related to the behavior of staff members should be directed to [Human Resources](https://www.middlebury.edu/offices/business/hr);
-- Complaints of misconduct related to the behavior of faculty members should be directed to the [Dean of the Faculty](https://www.middlebury.edu/academics/administration/aa_staff/node/481277).
+*   Complaints of misconduct related to the behavior of students should be directed to a [Judicial Affairs Officer](https://www.middlebury.edu/student-life/community-living/judicial-affairs);
+*   Complaints of misconduct related to the behavior of staff members should be directed to [Human Resources](https://www.middlebury.edu/offices/business/hr);
+*   Complaints of misconduct related to the behavior of faculty members should be directed to the [Dean of the Faculty](https://www.middlebury.edu/academics/administration/aa_staff/node/481277).
 
 Concerns of potential harassment or discrimination prohibited by Middlebury’s Anti-Harassment/Discrimination Policy should be directed to a [Human Relations Officer and/or the Title IX Coordinator](https://www.middlebury.edu/college/student-life) for review. When the CBRT is informed of conduct that could potentially violate Middlebury’s Anti-Harassment/Discrimination Policy, the CBRT will so inform the Title IX office.
 
@@ -71,10 +70,10 @@ Possible incidents of harassment should be directed to the [Title IX Coordinato
 
 Vermont law defines a hate crime as any crime maliciously motivated by the victim’s actual or perceived race, color, religion, national origin, sex, ancestry, age, service in the armed forces of the United States, disability, sexual orientation or gender identity (13 V.S.A Sec. 1455).  Hate crimes may include attempted crimes. Common hate crimes include:
 
-- Assaults (hitting, punching, spitting)
-- Disorderly Conduct (public threatening behavior)
-- Unlawful Mischief (property crime)
-- Harassment by telephone (including repeated hang up calls)
+*   Assaults (hitting, punching, spitting)
+*   Disorderly Conduct (public threatening behavior)
+*   Unlawful Mischief (property crime)
+*   Harassment by telephone (including repeated hang up calls)
 
 Possible incidents of hate crimes should be directed to the [Title IX Coordinator, a Human Relations Officer](https://www.middlebury.edu/studentlife/doc/hro/node/285479) or [Public Safety](https://www.middlebury.edu/offices/health/publicsafety).
 
@@ -108,7 +107,7 @@ An individual who exclusively reports allegations to a confidential resource mus
 
 The CBRT will handle information with sensitivity and discretion. However, the CBRT may need to disclose allegations and/or other information (including the identity of parties and/or witnesses) to the extent necessary to allow Middlebury to proceed with an investigation and/or adjudication under applicable policies.
 
-#### **Disclosure Required by Law** {#disclosure_req}
+#### **Disclosure Required by Law** {#disclosure\_req}
 
 Middlebury will not include the names of complainants or other identifying information in publicly available reports that are compiled as required by the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act. Middlebury is part of a larger community, and a variety of additional factors and/or legal requirements may apply.  As an example, if there is an investigation, lawsuit, or criminal proceeding related to a bias incident or hate crime, the parties, witnesses, and/or Middlebury officials may be required by law to provide testimony or documents (e.g., investigation reports, witness statements, and any other information gathered or obtained in the course of a particular matter).
 
