@@ -1,12 +1,11 @@
 ---
-slug: "/pages/ii-ug-college-policies/commun-policies/a-8-committee-on-art-in-public-places"
-date: "2021-05-01"
-title: "A.8. Committee on Art in Public Places (CAPP)"
+slug: /pages/ii-ug-college-policies/commun-policies/a-8-committee-on-art-in-public-places
+date: 2021-05-01
+title: A.8. Committee on Art in Public Places (CAPP)
 ---
-
 CAPP has existed since the fall of 1994, when the president and Board of Trustees entrusted it with the exhibition, purchase, and placement of works of art on the campus, apart from the Middlebury College Museum of Art.
 
-**1.  _Charge of the Committee_**
+**1.** _**Charge of the Committee**_
 
 The Committee has been charged with achieving the following goals:
 
@@ -18,7 +17,7 @@ The Committee has been charged with achieving the following goals:
 *   Provide funding for the purchase, installation, maintenance, and interpretation of works of art in public places.
 *   Ensure the security and care of these objects.
 
-**2.  _Mandate and Operating Procedures for CAPP_**
+**2.** _**Mandate and Operating Procedures for CAPP**_
 
 The College has established a policy of "One Percent for Art;" that is, one percent of the total budget of any renovation or new construction at the College would be earmarked for the purchase, installation, maintenance, and interpretation of works of art in the public places associated with the building being renovated or constructed.
 
@@ -38,7 +37,7 @@ Bearing in mind recent legal discussions about the rights of artists concerning 
 
 CAPP will have the right to deaccession works guided by the same standards used by the Collections Committee of the Museum.
 
-**3.  _Policy for the temporary exhibition of works of art on the Middlebury campus_**
+**3.** _**Policy for the temporary exhibition of works of art on the Middlebury campus**_
 
 CAPP does not presume any authority over works of art, photographs, etc., that faculty and staff place on view in their offices, that departments choose to install in their offices and teaching spaces, that students place in their rooms, that Commons choose for their lounges.
 
