@@ -43,7 +43,7 @@ Middlebury College classifies faculty and staff members according to the chart b
 
 **Employee Group Classifications - FACULTY**
 
-<table><tbody><tr><td><strong>Classification</strong></td><td><strong>Appointment Duration</strong></td><td><strong>FTE</strong></td><td><strong>Benefits Eligibility</strong></td></tr><tr><td>Full-Time</td><td>&gt;1 Academic Year</td><td>.8-1</td><td>Yes</td></tr><tr><td>Part-Time - Benefits Eligible</td><td>&gt;1 Academic Year</td><td>.5-.79</td><td>Yes</td></tr><tr><td>Part-Time - Not Benefits Eligible**</td><td>Any</td><td>&lt;.5</td><td>No</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Classification</strong></td><td><strong>Appointment Duration</strong></td><td><strong>FTE</strong></td><td><strong>Benefits Eligibility</strong></td></tr><tr><td>Full-Time</td><td>&amp;#8805; 1 Academic Year</td><td>.8-1</td><td>Yes</td></tr><tr><td>Part-Time - Benefits Eligible</td><td>&gt;1 Academic Year</td><td>.5-.79</td><td>Yes</td></tr><tr><td>Part-Time - Not Benefits Eligible**</td><td>Any</td><td>&lt;.5</td><td>No</td></tr></tbody></table>
 
 **Employee Group Classifications - STAFF**
 
