@@ -23,12 +23,18 @@ collections:
           widget: "string",
           required: false,
         }
+      # - {
+      #     label: "Text",
+      #     name: "body",
+      #     widget: "markdown",
+      #     buttons: ["heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "bold", "italic", "link", "bulleted-list", "numbered-list"],
+      #     editor_components: ["table"],
+      #     required: false,
+      #   }
       - {
           label: "Text",
           name: "body",
-          widget: "markdown",
-          buttons: ["heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "bold", "italic", "link", "bulleted-list", "numbered-list"],
-          editor_components: ["table"],
+          widget: "myWidget",
           required: false,
         }
   - name: "undergraduate-college"
@@ -44,12 +50,18 @@ collections:
           widget: "string",
           required: false,
         }
+      # - {
+      #     label: "Text",
+      #     name: "body",
+      #     widget: "markdown",
+      #     buttons: ["heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "bold", "italic", "link", "bulleted-list", "numbered-list"],
+      #     editor_components: ["table"],
+      #     required: false,
+      #   }
       - {
           label: "Text",
           name: "body",
-          widget: "markdown",
-          buttons: ["heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "bold", "italic", "link", "bulleted-list", "numbered-list"],
-          editor_components: ["table"],
+          widget: "myWidget",
           required: false,
         }
   - name: "language-schools"
@@ -65,11 +77,17 @@ collections:
           widget: "string",
           required: false,
         }
+      # - {
+      #     label: "Text",
+      #     name: "body",
+      #     widget: "markdown",
+      #     editor_components: [],
+      #     required: false,
+      #   }
       - {
           label: "Text",
           name: "body",
-          widget: "markdown",
-          editor_components: [],
+          widget: "myWidget",
           required: false,
         }
   - name: "miis-policies"
@@ -85,12 +103,18 @@ collections:
           widget: "string",
           required: false,
         }
+      # - {
+      #     label: "Text",
+      #     name: "body",
+      #     widget: "markdown",
+      #     buttons: ["heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "bold", "italic", "link", "bulleted-list", "numbered-list"],
+      #     editor_components: ["table"],
+      #     required: false,
+      #   }
       - {
           label: "Text",
           name: "body",
-          widget: "markdown",
-          buttons: ["heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "bold", "italic", "link", "bulleted-list", "numbered-list"],
-          editor_components: ["table"],
+          widget: "myWidget",
           required: false,
         }
   - name: "previous-handbooks"
@@ -106,11 +130,17 @@ collections:
           widget: "string",
           required: false,
         }
+      # - {
+      #     label: "Text",
+      #     name: "body",
+      #     widget: "markdown",
+      #     buttons: ["heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "bold", "italic", "link", "bulleted-list", "numbered-list"],
+      #     editor_components: ["table"],
+      #     required: false,
+      #   }
       - {
           label: "Text",
           name: "body",
-          widget: "markdown",
-          buttons: ["heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "bold", "italic", "link", "bulleted-list", "numbered-list"],
-          editor_components: ["table"],
+          widget: "myWidget",
           required: false,
         }
