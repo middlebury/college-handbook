@@ -1,14 +1,13 @@
 ---
-slug: "/pages/ii-ug-college-policies/faculty/faculty-and-athletics"
-date: "2021-05-01"
-title: "C.17. Athletics Information for Faculty"
+slug: /pages/ii-ug-college-policies/faculty/faculty-and-athletics
+date: 2021-05-01
+title: C.17. Athletics Information for Faculty
 ---
-
 **A. The Intercollegiate Athletics Program**
 
 **1.** All regularly enrolled undergraduates are eligible for participation in intercollegiate athletics in accordance with the eligibility rules of the following organizations in which Middlebury maintains membership: National Collegiate Athletic Association (NCAA), the New England Small College Athletic Conference (NESCAC), and Eastern Collegiate Athletic Conference (ECAC).
 
-**2.** **_Faculty Responsibility_:** The College recognizes that intercollegiate athletics have an important and desirable role in a liberal arts college. The faculty is responsible for seeing that the intercollegiate athletic program is a well-integrated part of the entire educational endeavor. Through the Athletic Policy Committee, the faculty regulates various phases of the intercollegiate athletic program, including athletic schedules and class absences permitted for participation in intercollegiate athletics.
+**2.** _**Faculty Responsibility**_**:** The College recognizes that intercollegiate athletics have an important and desirable role in a liberal arts college. The faculty is responsible for seeing that the intercollegiate athletic program is a well-integrated part of the entire educational endeavor. Through the Athletic Policy Committee, the faculty regulates various phases of the intercollegiate athletic program, including athletic schedules and class absences permitted for participation in intercollegiate athletics.
 
 **3.** The Basic Principles governing intercollegiate athletics at Middlebury and all NESCAC institutions follow:
 
@@ -26,17 +25,17 @@ e. Developing programs will be allowed some latitude within the spirit of the NE
 
 **5.** In an effort to provide opportunities for wide participation in intercollegiate athletics, Middlebury maintains, where possible, a junior varsity program, for which all undergraduates are eligible. No student will participate in more contests in any sport than the total number of varsity games scheduled. The Athletic Policy Committee must approve any exceptions to this general rule.
 
-**6.** **_Limitations of Schedules_:** Competition (in season) starting dates:
+**6.** _**Limitations of Schedules**_**:** Competition (in season) starting dates:
 
 **Fall**   
 _a._ Start Date  
 _i._ Cross Country, Field Hockey, Soccer and Vollyball: The Tuesday after Labor Day.
 
-*ii.* Golf and Tennis: September 7 or seven calendar days after the start of classes, whichever comes first.
+_ii._ Golf and Tennis: September 7 or seven calendar days after the start of classes, whichever comes first.
 
-*iii.* Football: The starting date shall be determined by counting back nine Saturdays from the second Saturday in November (with the second Saturday in November counting as one).
+_iii._ Football: The starting date shall be determined by counting back nine Saturdays from the second Saturday in November (with the second Saturday in November counting as one).
 
-*b.* End Date  
+_b._ End Date  
 _i._ Cross Country, Field Hockey, Soccer and Volleyball: The end date for regular season competition shall be the second full weekend in November or the day prior to the respective NESCAC Championship, whichever is earlier. (Revised: 4/27/16)
 
 _ii._ Golf, Rowing and Tennis: The first Sunday in November.  If November 1 falls on a Saturday or Sunday, then the completion date will be the second Sunday.
@@ -44,664 +43,46 @@ _ii._ Golf, Rowing and Tennis: The first Sunday in November.  If November 1 fal
 _iii._ Football: The second Saturday in November.
 
 **Winter**  
-*a.* Start Date: The Friday immediately preceding Thanksgiving.
+_a._ Start Date: The Friday immediately preceding Thanksgiving.
 
-*i.* Exception - Winter sports may begin on November 15 when the Friday before Thanksgiving falls on November21 or 22 (and Thanksgiving falls on November 27 or 28).
+_i._ Exception - Winter sports may begin on November 15 when the Friday before Thanksgiving falls on November21 or 22 (and Thanksgiving falls on November 27 or 28).
 
-*b.* End Date  
+_b._ End Date  
 _i._ Basketball and Ice Hockey:  The end date for regular season competition shall be the first full weekend (Sat-Sun) in March or the day prior to the respective NESCAC Championship, whichever is earlier. (Revised: 4/27/16)
 
 _ii._ All Other Sports: The end date for regular season competition shall be the first full weekend (Sat-Sun) in March or the selection date for the respective NCAA or National Championship, whichever is earlier. (Revised: 4/27/16)
 
 **Spring**  
-*a.* Start Date: The second Saturday in March.
+_a._ Start Date: The second Saturday in March.
 
-*i.* Exceptions  
+_i._ Exceptions  
 1\. If spring vacation falls before the second Saturday in March, the starting date would be the first day of spring vacation.   
 2\. Men's and women's lacrosse may begin on the first Saturday in March.  
 3\. Men's and women's tennis may begin on the first Saturday in March when the second Saturday falls on March 14.
 
 _b_. End Date: The second full weekend (Sat-Sun) in May or the last day of classes, whichever is later.
 
-**7. *Limitations on Number of Playing Dates or Events* *(not including qualifying tournaments or alumni games:*** The institution should determine the optimum number of playing dates or contests, which may be fewer than the maximum number allowed under conference regulations.
+**7\.** _**Limitations on Number of Playing Dates or Events**_ _**(not including qualifying tournaments or alumni games:**_ The institution should determine the optimum number of playing dates or contests, which may be fewer than the maximum number allowed under conference regulations.
 
-<table>
-
-<tbody>
-
-<tr>
-
-<td>
-
-**Fall**
-
-</td>
-
-<td>
-
-**Varsity**
-
-</td>
-
-<td>
-
-**Scrimmage Dates**
-
-</td>
-
-<td>
-
-**JV**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Cross-Country
-
-</td>
-
-<td>
-
-9 dates
-
-</td>
-
-<td>
-
-0
-
-</td>
-
-<td>
-
-\-
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Field Hockey
-
-</td>
-
-<td>
-
-15 games
-
-</td>
-
-<td>
-
-1
-
-</td>
-
-<td>
-
-7
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Football
-
-</td>
-
-<td>
-
-9 games
-
-</td>
-
-<td>
-
-0
-
-</td>
-
-<td>
-
-6
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Soccer
-
-</td>
-
-<td>
-
-15 games
-
-</td>
-
-<td>
-
-1
-
-</td>
-
-<td>
-
-7
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Volleyball
-
-</td>
-
-<td>
-
-20 dates
-
-</td>
-
-<td>
-
-1
-
-</td>
-
-<td>
-
-\-
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Tennis#
-
-</td>
-
-<td>
-
-14 dates
-
-</td>
-
-<td>
-
-0
-
-</td>
-
-<td>
-
-\-
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Golf#
-
-</td>
-
-<td>
-
-16 dates
-
-</td>
-
-<td>
-
-0
-
-</td>
-
-<td>
-
-\-
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+<table><tbody><tr><td><strong>Fall</strong></td><td><strong>Varsity</strong></td><td><strong>Scrimmage Dates</strong></td><td><strong>JV</strong></td></tr><tr><td>Cross-Country</td><td>9 dates</td><td>0</td><td>-</td></tr><tr><td>Field Hockey</td><td>15 games</td><td>1</td><td>7</td></tr><tr><td>Football</td><td>9 games</td><td>0</td><td>6</td></tr><tr><td>Soccer</td><td>15 games</td><td>1</td><td>7</td></tr><tr><td>Volleyball</td><td>20 dates</td><td>1</td><td>-</td></tr><tr><td>Tennis#</td><td>14 dates</td><td>0</td><td>-</td></tr><tr><td>Golf#</td><td>16 dates</td><td>0</td><td>-</td></tr></tbody></table>
 
 _#_ Fall and/or spring combined total not to exceed one season limit
 
-<table>
-
-<tbody>
-
-<tr>
-
-<td>
-
-**Winter**
-
-</td>
-
-<td>
-
-**Varsity**
-
-</td>
-
-<td>
-
-**Scrimmage Dates**
-
-</td>
-
-<td>
-
-**JV**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Basketball
-
-</td>
-
-<td>
-
-24 games\*
-
-</td>
-
-<td></td>
-
-<td></td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Hockey
-
-</td>
-
-<td>
-
-24 games\*
-
-</td>
-
-<td>
-
-0
-
-</td>
-
-<td>
-
-12
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Indoor Track
-
-</td>
-
-<td>
-
-10 dates
-
-</td>
-
-<td>
-
-0
-
-</td>
-
-<td>
-
-\-
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Squash
-
-</td>
-
-<td>
-
-15 dates
-
-</td>
-
-<td>
-
-0
-
-</td>
-
-<td>
-
-\-
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Swimming
-
-</td>
-
-<td>
-
-11 dates
-
-</td>
-
-<td>
-
-1
-
-</td>
-
-<td>
-
-\-
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Skiing
-
-</td>
-
-<td>
-
-16 dates
-
-</td>
-
-<td> </td>
-
-<td> </td>
-
-</tr>
-
-</tbody>
-
-</table>
+<table><tbody><tr><td><strong>Winter</strong></td><td><strong>Varsity</strong></td><td><strong>Scrimmage Dates</strong></td><td><strong>JV</strong></td></tr><tr><td>Basketball</td><td>24 games*</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Hockey</td><td>24 games*</td><td>0</td><td>12</td></tr><tr><td>Indoor Track</td><td>10 dates</td><td>0</td><td>-</td></tr><tr><td>Squash</td><td>15 dates</td><td>0</td><td>-</td></tr><tr><td>Swimming</td><td>11 dates</td><td>1</td><td>-</td></tr><tr><td>Skiing</td><td>16 dates</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
 
 \* Including preseason scrimmages and vacation games
 
-<table>
-
-<tbody>
-
-<tr>
-
-<td>
-
-**Spring**(while College is in session)
-
-</td>
-
-<td>
-
-**Varsity**
-
-</td>
-
-<td>
-
-**Scrimmage Dates**
-
-</td>
-
-<td>
-
-**JV**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Baseball
-
-</td>
-
-<td>
-
-36 contests
-
-</td>
-
-<td>
-
-0
-
-</td>
-
-<td>
-
-\-
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Softball
-
-</td>
-
-<td>
-
-16 dates/24 games
-
-</td>
-
-<td>
-
-0
-
-</td>
-
-<td>
-
-\-
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Lacrosse
-
-</td>
-
-<td>
-
-15 games
-
-</td>
-
-<td>
-
-1
-
-</td>
-
-<td>
-
-6
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Track and Field
-
-</td>
-
-<td>
-
-8 events
-
-</td>
-
-<td>
-
-0
-
-</td>
-
-<td>
-
-\-
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Tennis#
-
-</td>
-
-<td>
-
-14 dates
-
-</td>
-
-<td>
-
-0
-
-</td>
-
-<td>
-
-\-
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-Golf#
-
-</td>
-
-<td>
-
-16 dates
-
-</td>
-
-<td>
-
-0
-
-</td>
-
-<td>
-
-\-
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+<table><tbody><tr><td><strong>Spring</strong>(while College is in session)</td><td><strong>Varsity</strong></td><td><strong>Scrimmage Dates</strong></td><td><strong>JV</strong></td></tr><tr><td>Baseball</td><td>36 contests</td><td>0</td><td>-</td></tr><tr><td>Softball</td><td>16 dates/24 games</td><td>0</td><td>-</td></tr><tr><td>Lacrosse</td><td>15 games</td><td>1</td><td>6</td></tr><tr><td>Track and Field</td><td>8 events</td><td>0</td><td>-</td></tr><tr><td>Tennis#</td><td>14 dates</td><td>0</td><td>-</td></tr><tr><td>Golf#</td><td>16 dates</td><td>0</td><td>-</td></tr></tbody></table>
 
 \# Fall and/or spring combined total not to exceed one season limit
 
-**_Notes_**
+_**Notes**_
 
 **a.** No home athletic contests shall be played before 3:00 p.m. except on Saturdays, Sundays, and holidays or by special permission of the Athletic Policy Committee and the dean of the College. No intercollegiate athletic contests will be scheduled for Monday evenings. Refer to Chapter 3, Section VI. G. Attendance of this Handbook for the "Guidelines for Explained Absences" revised and approved by the Athletic Policy Committee in January 2002.
 
-**b.** The Athletic Policy Committee encourages the scheduling of *JV* athletic contests for Saturdays.
+**b.** The Athletic Policy Committee encourages the scheduling of _JV_ athletic contests for Saturdays.
 
-**c.** The total number of *B or JV* athletic contests and the number of away games are subject to continual review by the Athletic Policy Committee.
+**c.** The total number of _B or JV_ athletic contests and the number of away games are subject to continual review by the Athletic Policy Committee.
 
 **d.** Throughout the college year, those days following the end of formal classes but before the beginning of the formal examination period, will be considered as class time for purposes of scheduling intercollegiate athletic competitions. No regular-season athletic events may be scheduled during the examination period.
 
@@ -711,7 +92,7 @@ Golf#
 
 **B. Guidelines for Handling Athletics-Explained Absences**
 
-The list of scheduled athletics contests you receive several times a year from the director of Athletics has been approved by the Athletic Policy Committee of the faculty (APC) acting under guidelines set forth in the *[Middlebury College Handbook](https://www.middlebury.edu/about/handbook/governance/Faculty_Councils_and_Committees#athletic-policy).* This list tells you when legitimate absences from class may be expected by students because they are involved in a sanctioned athletic event scheduled for that date. The APC regards these lists as informative. They are an *explanation* for an absence, but they do not imply that the student is excused from the obligations of a course or the class work missed.
+The list of scheduled athletics contests you receive several times a year from the director of Athletics has been approved by the Athletic Policy Committee of the faculty (APC) acting under guidelines set forth in the [_Middlebury College Handbook_](https://www.middlebury.edu/about/handbook/governance/Faculty_Councils_and_Committees#athletic-policy)_._ This list tells you when legitimate absences from class may be expected by students because they are involved in a sanctioned athletic event scheduled for that date. The APC regards these lists as informative. They are an _explanation_ for an absence, but they do not imply that the student is excused from the obligations of a course or the class work missed.
 
 Although faculty members are expected to make their policy on course attendance clear at the beginning of each course, it is the individual student's responsibility to consult with his or her instructor as to the effect of explained absences.
 
