@@ -9,23 +9,20 @@ This policy applies to all MIIS-sanctioned events both on and off-campus.  A �
 
 ### Sanctioned Events
 
-* Are requested through the Office of Student Services for student events or through the Vice President’s Office for department/institutional events.
-
-* The scheduling form clearly indicates that alcohol will be served.
-
-* For on-campus events, the Vice President’s Office has informed Campus Security that an event involving alcohol has been scheduled.
-
-* When alcohol is allowed, it can be served for a maximum of two hours. This would be an approved, predetermined time.
+*   Are requested through the Office of Student Services for student events or through the Vice President’s Office for department/institutional events.
+*   The scheduling form clearly indicates that alcohol will be served.
+*   For on-campus events, the Vice President’s Office has informed Campus Security that an event involving alcohol has been scheduled.
+*   When alcohol is allowed, it can be served for a maximum of two hours. This would be an approved, predetermined time.
 
 ### On-Campus Events
 
-* Alcohol is limited to beer and wine—no hard alcohol, no exceptions.
+Alcohol is limited to beer and wine—no hard alcohol, no exceptions.
 
-* No alcohol from the outside will be allowed to be brought into on-campus Institute events by attendees.
+No alcohol from the outside will be allowed to be brought into on-campus Institute events by attendees.
 
-* Regardless of the size of the event, alcohol must be served (not self-service) by an individual who is of legal age to serve alcohol (21 and over in the state of California).
+Regardless of the size of the event, alcohol must be served (not self-service) by an individual who is of legal age to serve alcohol (21 and over in the state of California).
 
-* Biodegradable cups will be provided by the event organizers for all events. The standard cup size will be nine ounces, with a six-ounce pour of wine or beer. Attendees are encouraged to re-use cups throughout the entire event to reduce the amount of waste. No cups from the outside will be allowed. Only one cup will be provided per guest, per event.
+Biodegradable cups will be provided by the event organizers for all events. The standard cup size will be nine ounces, with a six-ounce pour of wine or beer. Attendees are encouraged to re-use cups throughout the entire event to reduce the amount of waste. No cups from the outside will be allowed. Only one cup will be provided per guest, per event.
 
 ### Off-Campus Events
 
@@ -37,23 +34,23 @@ At least one person from the sponsoring group must be designated as the **Respon
 
 **Responsibilities:**
 
-* Responsible Contacts are responsible for overseeing and facilitating the safety of the event and the implementation of this policy.
+Responsible Contacts are responsible for overseeing and facilitating the safety of the event and the implementation of this policy.
 
-* Responsible Contacts must be present for the entire event.
+Responsible Contacts must be present for the entire event.
 
-* Responsible Contacts are to introduce themselves to Campus Security and serve as the point persons.
+Responsible Contacts are to introduce themselves to Campus Security and serve as the point persons.
 
-* Responsible Contacts, **with the assistance of Campus Security as needed**, must be able to shut down an event if this policy is not being followed or if other problems arise.
+Responsible Contacts, **with the assistance of Campus Security as needed**, must be able to shut down an event if this policy is not being followed or if other problems arise.
 
-* Responsible Contacts will ensure food and nonalcoholic beverages will be provided at all events where alcohol is served and will be free and displayed in an attractive and easily accessible manner. Water should be one of the nonalcoholic beverages provided. The food and nonalcoholic beverages should be replenished several times throughout the program so that they are constantly available.
+Responsible Contacts will ensure food and nonalcoholic beverages will be provided at all events where alcohol is served and will be free and displayed in an attractive and easily accessible manner. Water should be one of the nonalcoholic beverages provided. The food and nonalcoholic beverages should be replenished several times throughout the program so that they are constantly available.
 
-* If the Responsible Contact is uncomfortable or unable to manage an issue, (s)he should contact Campus Security immediately for assistance. If the event is off-campus, the Responsible Contact should contact the appropriate person on site (manager, owner, etc.) to assist with any issues.
+If the Responsible Contact is uncomfortable or unable to manage an issue, (s)he should contact Campus Security immediately for assistance. If the event is off-campus, the Responsible Contact should contact the appropriate person on site (manager, owner, etc.) to assist with any issues.
 
-* Any violations of this policy that arise at either on- and/or off-campus events should be reported to the following:
+Any violations of this policy that arise at either on- and/or off-campus events should be reported to the following:
 
-  * Student club and Student Council events: [Alisyn Gruener](mailto:agruener@miis.edu) (Assistant Dean of Student Life and Engagement)[](mailto:agruener@miis.edu)
+Student club and Student Council events: [Alisyn Gruener](mailto:agruener@miis.edu) (Assistant Dean of Student Life and Engagement)
 
-  * Institutional/Departmental events: [Barbara Burke](mailto:blburke@miis.edu) ([blburke@miis.edu](mailto:blburke@miis.edu)) or the appropriate Dean
+Institutional/Departmental events: [Barbara Burke](mailto:blburke@miis.edu) ([blburke@miis.edu](mailto:blburke@miis.edu)) or the appropriate Dean
 
 Regardless of the size of the event, students and any other attendees who appear to be below the age of thirty must be required to show legal proof of age (a valid drivers license, state-issued liquor identification card, or passport) plus a MIIS ID, if applicable.
 
@@ -65,32 +62,33 @@ Alcohol is prohibited in classrooms, as part of scheduled classes, and workshops
 
 Alcohol is approved for serving at the following sanctioned events:
 
-* Vice Presidential and Institutional Advancement events
+Vice Presidential and Institutional Advancement events
 
-* GSIPM, GSTILE, nondegree programs, and center events
+GSIPM, GSTILE, nondegree programs, and center events
 
-* Student Council social hours
+Student Council social hours
 
-* Student Services events
+Student Services events
 
-* CACS networking receptions
+CACS networking receptions
 
-* Commencement receptions
+Commencement receptions
 
-* Alumni receptions
+Alumni receptions
 
-* Receptions for large student club conferences, including but not limited to the following:
+Receptions for large student club conferences, including but not limited to the following:
 
-  * Trade Conference
+Trade Conference
 
-  * Conflict Resolution Association
+Conflict Resolution Association
 
-  * SEGP
+SEGP
 
-  * International Bazaar
-  * Student Council commencement graduates’ reception (two per year)
+International Bazaar
 
-  * Others as determined by associate dean of Student Services or assistant dean of Student Life and Engagement
+Student Council commencement graduates’ reception (two per year)
+
+Others as determined by associate dean of Student Services or assistant dean of Student Life and Engagement
 
 All other receptions/events will be approved for nonalcoholic beverages only on a case-by-case basis.
 
@@ -98,31 +96,31 @@ All other receptions/events will be approved for nonalcoholic beverages only on 
 
 The quantity of alcohol purchased for events will align with guidelines below.
 
-* One 750ml bottle of wine or sparkling water can serve four glasses based on an average six-ounce pour. Bottles of wine should be split evenly between white and red. A keg of beer contains 165 servings of beer, and pony kegs contain 82.5 servings. A 12 oz. can of soda contains 1.5 servings.
+One 750ml bottle of wine or sparkling water can serve four glasses based on an average six-ounce pour. Bottles of wine should be split evenly between white and red. A keg of beer contains 165 servings of beer, and pony kegs contain 82.5 servings. A 12 oz. can of soda contains 1.5 servings.
 
-* Based on a standard two hour reception, for every 50 attendees, assume that 40 guests will consume alcohol and 10 will consume non-alcoholic beverages. Suggested purchase for the event is nine bottles of red wine (36 glasses), nine bottles of white wine (36 glasses), one case of beer (24 bottles), and four large bottles of sparkling water (16 servings), one diet soda six-pack (nine servings), one soda six-pack (nine servings), and still water.
+Based on a standard two hour reception, for every 50 attendees, assume that 40 guests will consume alcohol and 10 will consume non-alcoholic beverages. Suggested purchase for the event is nine bottles of red wine (36 glasses), nine bottles of white wine (36 glasses), one case of beer (24 bottles), and four large bottles of sparkling water (16 servings), one diet soda six-pack (nine servings), one soda six-pack (nine servings), and still water.
 
-* Provide enough beverages so that each guest may have two servings during the event. It is ideal if you can assess the overall demographics of the attendees and history of the group in order to estimate the amounts of beverages that will be consumed.
+Provide enough beverages so that each guest may have two servings during the event. It is ideal if you can assess the overall demographics of the attendees and history of the group in order to estimate the amounts of beverages that will be consumed.
 
 ### Additional Policy Specific to Student Council and Student Club Events
 
 Permission to serve alcohol at a club event is a privilege, not a right. The following rules must be observed when hosting an event that has been approved for alcohol service.
 
-* The permission for distribution of alcohol at club events is at the discretion of the Assistant Dean of Student Life and Engagement or designated Student Services staff.
+The permission for distribution of alcohol at club events is at the discretion of the Assistant Dean of Student Life and Engagement or designated Student Services staff.
 
-* Club events approved to serve alcohol are restricted to members of the MIIS community (students, faculty, and staff), up to two guests per student, faculty, and staff, and approved non-MIIS invitees.
+Club events approved to serve alcohol are restricted to members of the MIIS community (students, faculty, and staff), up to two guests per student, faculty, and staff, and approved non-MIIS invitees.
 
-* If alcohol is served no admission fee may be charged and no charge or donation for alcohol can be requested or made.
+If alcohol is served no admission fee may be charged and no charge or donation for alcohol can be requested or made.
 
-* Club members must ID students, guests, faculty, and staff who are attending a club event where alcohol is being served to ensure that alcoholic beverages are not served to persons under the legal drinking age (21).
+Club members must ID students, guests, faculty, and staff who are attending a club event where alcohol is being served to ensure that alcoholic beverages are not served to persons under the legal drinking age (21).
 
-* The sale of goods for the purpose of admission, the raising of funds, or the exchange of money of any kind at an event where alcohol is being served is not permitted. This constitutes the sale of alcohol, which is against the law without an issued license.
+The sale of goods for the purpose of admission, the raising of funds, or the exchange of money of any kind at an event where alcohol is being served is not permitted. This constitutes the sale of alcohol, which is against the law without an issued license.
 
-* The host and/or server could have personal liability if someone is knowingly over-served and is injured or injures someone else.
+The host and/or server could have personal liability if someone is knowingly over-served and is injured or injures someone else.
 
-* The sponsoring group will be held accountable for any and all violations of this policy.
+The sponsoring group will be held accountable for any and all violations of this policy.
 
-* Sanctions for a violation may include, but are not limited to, loss of space reservation privileges, loss of student group recognition or club status, or fines for property damage.
+Sanctions for a violation may include, but are not limited to, loss of space reservation privileges, loss of student group recognition or club status, or fines for property damage.
 
 ### Beverage Guidelines
 
