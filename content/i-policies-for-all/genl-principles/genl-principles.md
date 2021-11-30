@@ -1,7 +1,7 @@
 ---
-slug: "/pages/i-policies-for-all/genl-principles"
-date: "2021-05-01"
-title: "A. General Principles"
+slug: /pages/i-policies-for-all/genl-principles
+title: A. General Principles
+date: 2021-11-30T04:36:58.179Z
 ---
 
 The subpages in this section apply to all members of the Middlebury community in all locations.
