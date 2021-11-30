@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/a-academic-policies/a-5-instruction/a-5-f-language-and-intercultural-competency-icc-requirements-at-the-middlebury-institute"
-date: "2021-05-01"
-title: "A.5.f. Language and Intercultural Competency (ICC) Requirements at the Middlebury Institute"
+slug: /pages/iv-policies-for-the-institute/a-academic-policies/a-5-instruction/a-5-f-language-and-intercultural-competency-icc-requirements-at-the-middlebury-institute
+date: 2021-05-01
+title: A.5.f. Language and Intercultural Competency (ICC) Requirements at the Middlebury Institute
 ---
-
 **A.  Background to the Language and ICC Component**
 
 Language is central to all degree programs at the Middlebury Institute, therefore a Language and ICC component is included as part of the core requirements of most degree programs.  Most of our language courses are _content-based_, which means that we aim to develop field-specific content knowledge while at the same time focusing on the development of linguistic skills.
@@ -16,13 +15,13 @@ Arabic, Chinese (Mandarin), English, French, Japanese, Russian, and Spanish are 
 
 **C.  Languages Not Regularly Taught at the Middlebury Institute**
 
-Requests to fulfill the language component in a language not regularly offered by the Institute must be directed <span style="text-decoration:underline">at the time of admission to the Middlebury Institute</span> to the Language Studies Advisor. The feasibility of offering certain language courses is assessed at the time of request, but fully determined at the time of enrollment. The non-regular language courses have the same proficiency level and credit requirement and adhere to the same standards as the other regular language courses. Applicants requesting a special language must be able to demonstrate 200-level proficiency in their requested language.  Students who request non-regular language courses should also know that setting up a course in non-regular languages will incur additional costs.
+Requests to fulfill the language component in a language not regularly offered by the Institute must be directed **at the time of admission to the Middlebury Institute** to the Language Studies Advisor. The feasibility of offering certain language courses is assessed at the time of request, but fully determined at the time of enrollment. The non-regular language courses have the same proficiency level and credit requirement and adhere to the same standards as the other regular language courses. Applicants requesting a special language must be able to demonstrate 200-level proficiency in their requested language.  Students who request non-regular language courses should also know that setting up a course in non-regular languages will incur additional costs.
 
 **D. Required Language Levels**
 
 To enroll in Language Studies courses at the Middlebury Institute, students must have attained 200-level/second year university level/Intermediate for all languages offered.
 
-During the admission process, any students who may have insufficient proficiency to place into the LS program are required to work on Language Plans to build sufficient proficiency. If prior language study proves insufficient to meet the placement at the required levels (indicated above), students will not be allowed to begin in the language program until they acquire the minimum required proficiency in the language. _<span style="text-decoration:underline">Note that a delay in beginning the language component of the degree program may delay graduation, and may incur additional expenses.</span>_
+During the admission process, any students who may have insufficient proficiency to place into the LS program are required to work on Language Plans to build sufficient proficiency. If prior language study proves insufficient to meet the placement at the required levels (indicated above), students will not be allowed to begin in the language program until they acquire the minimum required proficiency in the language. _**Note that a delay in beginning the language component of the degree program may delay graduation, and may incur additional expenses.**_
 
 Students whose first (native) language is a language other than English, or students who did not have secondary and post-secondary education (high school and college) in an English-speaking country, are considered to be non-native speakers of English.  They are required to take English for Academic and Professional Purposes (EAPP) courses to fulfill the requirement in the language component.
 
@@ -32,11 +31,11 @@ Students whose first (native) language is English, or students who have had seco
 
 Non-native speakers of English who are provisionally admitted to the Middlebury Institute with TOEFL scores below the stated minimum must either obtain the required minimum score before beginning their degree programs, or enroll in (and successfully complete) English Preparation for Graduate Study (EPGS) the summer before beginning their degree programs.
 
-Some non-native speakers of English who meet the stated minimum TOEFL test scores may still be required to take 200-level EAPP courses or equivalent courses in the first semester of their degree program based on the results of the EAPP placement test.  As this coursework is below the 300-level minimum required to fulfill the language component of the degree programs, this coursework will not count toward fulfillment of the language requirement.  _<span style="text-decoration:underline">Note that this required coursework may also delay graduation and/or incur additional expenses.</span>_
+Some non-native speakers of English who meet the stated minimum TOEFL test scores may still be required to take 200-level EAPP courses or equivalent courses in the first semester of their degree program based on the results of the EAPP placement test.  As this coursework is below the 300-level minimum required to fulfill the language component of the degree programs, this coursework will not count toward fulfillment of the language requirement.  _**Note that this required coursework may also delay graduation and/or incur additional expenses.**_
 
 **2\. Prospective/New students with Lower Language Proficiency than required**
 
-Prospective students who do not have sufficient language study history on their transcripts or who have outdated language coursework are required to contact the Language Study Advisor to work out a Language Plan (LP) during the admission process.  This Language Plan will lay out a concrete plan to assist in equipping students with sufficient proficiency in their chosen language (LOS) prior to enrollment in the degree programs.  _<span style="text-decoration:underline">Failure to complete the LP may result in revoking or deferring admission.</span>_
+Prospective students who do not have sufficient language study history on their transcripts or who have outdated language coursework are required to contact the Language Study Advisor to work out a Language Plan (LP) during the admission process.  This Language Plan will lay out a concrete plan to assist in equipping students with sufficient proficiency in their chosen language (LOS) prior to enrollment in the degree programs.  _**Failure to complete the LP may result in revoking or deferring admission.**_
 
 New students who take the language placement test and fail to place at the required language levels will meet with Language Studies Advisor to work out an In-Degree Language Plan (IDLP) which will determine a concrete plan and timeline for raising the student’s language proficiency to the necessary level for LS study and completing the language component of the degree program.  Registration for courses may be put on hold until students have an acceptable IDLP.
 
@@ -54,173 +53,7 @@ If a student feels that he/she possesses sufficient level of professional profic
 
 The following table summarizes the Language and ICC component minimum-unit credit requirements for the different degree programs at the Institute.  All requirements pertain to units of credit in a single language.  (LS = Language Studies, ICC = Intercultural Communication)
 
-<table border="1">
-
-<tbody>
-
-<tr>
-
-<td style="border:1px solid #000000;">
-
-**Degree Program**
-
-</td>
-
-<td style="border:1px solid #000000;">
-
-**Language Component**
-
-**(12 credits)**
-
-</td>
-
-<td style="border:1px solid #000000;">
-
-**Minimum Course Level**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="border:1px solid #000000;">
-
-BA in International Studies;
-
-All Three-Year BA/MA Programs;
-
-All MA programs in GSIPM except MAIEM and MANPTS (see below)
-
-</td>
-
-<td style="border:1px solid #000000;">
-
-Minimum 8 credits in LS courses and up to 4 credits in ICC courses
-
-</td>
-
-<td style="border:1px solid #000000;">
-
-200 all languages
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="border:1px solid #000000;">
-
-MAIEM
-
-</td>
-
-<td style="border:1px solid #000000;">
-
-8 credits of LS courses and 4 credits in ICC courses
-
-</td>
-
-<td style="border:1px solid #000000;">
-
-200 for all languages
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="border:1px solid #000000;">
-
-MANPTS
-
-</td>
-
-<td style="border:1px solid #000000;">
-
-12 credits of LS courses
-
-</td>
-
-<td style="border:1px solid #000000;">
-
-200 for all languages
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="border:1px solid #000000;">
-
-MATFL program
-
-</td>
-
-<td>
-
-12 credits of LS courses
-
-</td>
-
-<td>
-
-400+ for all languages
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="border:1px solid #000000;">
-
-Advanced Entry GSIPM degrees
-
-</td>
-
-<td style="border:1px solid #000000;">
-
-8 credits of LS courses
-
-</td>
-
-<td style="border:1px solid #000000;">
-
-200 for Spanish and Arabic, 300 for all other languages
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="border:1px solid #000000;">
-
-Peace Corps Masters International program (except Peace Corps MBA)
-
-</td>
-
-<td style="border:1px solid #000000;">
-
-Minimum 8 credits of LS courses prior to Peace Corps service and up to 4 credits in ICC courses
-
-</td>
-
-<td style="border:1px solid #000000;">
-
-200 for all languages
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+<table><tbody><tr><td><strong>Degree Program</strong></td><td><strong>Language Component</strong><p><strong>(12 credits)</strong></p></td><td><strong>Minimum Course Level</strong></td></tr><tr><td><p>BA in International Studies;</p><p>All Three-Year BA/MA Programs;</p><p>All MA programs in GSIPM except MAIEM and MANPTS (see below)</p></td><td>Minimum 8 credits in LS courses and up to 4 credits in ICC courses</td><td>200 all languages</td></tr><tr><td>MAIEM</td><td>8 credits of LS courses and 4 credits in ICC courses</td><td>200 for all languages</td></tr><tr><td>MANPTS</td><td>12 credits of LS courses</td><td>200 for all languages</td></tr><tr><td>MATFL program</td><td>12 credits of LS courses</td><td>400+ for all languages</td></tr><tr><td>Advanced Entry GSIPM degrees</td><td>8 credits of LS courses</td><td>200 for Spanish and Arabic, 300 for all other languages</td></tr><tr><td>Peace Corps Masters International program (except Peace Corps MBA)</td><td>Minimum 8 credits of LS courses prior to Peace Corps service and up to 4 credits in ICC courses</td><td>200 for all languages</td></tr></tbody></table>
 
 **2\. Higher language skills requirement**
 
@@ -234,11 +67,11 @@ Students may also take more language courses than required, or take a third or f
 
 The Language Studies Advisor can assist in developing an appropriate plan to incorporate language study into the degree map for those who would like to plan a semester away.
 
-**<span style="text-decoration:underline">PLEASE NOTE</span>:** Due to the distribution of language level courses, it is not normally possible to take multiple language courses (to “double-up”) in a single language in any given semester. Thus, it is strongly recommended to carefully map out all language coursework for the degree track.  _<span style="text-decoration:underline">Postponing the start of Language Studies is strongly discouraged and may lead to a delay in graduation</span>_<span style="text-decoration:underline">.</span>
+**PLEASE NOTE:** Due to the distribution of language level courses, it is not normally possible to take multiple language courses (to “double-up”) in a single language in any given semester. Thus, it is strongly recommended to carefully map out all language coursework for the degree track.  _**Postponing the start of Language Studies is strongly discouraged and may lead to a delay in graduation**_.
 
 **4\. Directed Study for Language and ICC courses**
 
-Students may request a Directed Study (DS) in language courses at 300-level or above for 2 or 4 credits.  In order to propose a Directed Study course, students need to have a concrete self-initiated project in mind, and they must seek a faculty member who agrees to supervise the project in advance.  _<span style="text-decoration:underline">It is entirely the prerogative of the faculty member whether or not he/she agrees to work with a student on a Directed Study</span>_<span style="text-decoration:underline">.</span> Students who wish to earn language credits by taking a Directed Study course need to complete and submit a LS DS proposal form and obtain the faculty supervisor’s signature.
+Students may request a Directed Study (DS) in language courses at 300-level or above for 2 or 4 credits.  In order to propose a Directed Study course, students need to have a concrete self-initiated project in mind, and they must seek a faculty member who agrees to supervise the project in advance. _**It is entirely the prerogative of the faculty member whether or not he/she agrees to work with a student on a Directed Study**_. Students who wish to earn language credits by taking a Directed Study course need to complete and submit a LS DS proposal form and obtain the faculty supervisor’s signature.
 
 Students may also request a Directed Study (DS) in ICC courses for 2 or 4 credits.  A DS in ICC is approved (a) to pursue in greater depth a subject to which she/he has already been introduced in a MIIS course, but is unable to find more advanced treatment of the topic in the regular menu of seminars; or (b) to research a question or topic not offered by the MIIS curriculum, but which the advising professor and the Dean agree has intellectual/professional merit, and is operationally feasible.  The student and the faculty advisor together develop a work plan, including a timeline and specified deliverables. Students need to seek a faculty member who agrees to supervise the project in advance. Only regular/full-time faculty members may act as ICC DS advisors. Supervising faculty are expected to have expertise in ICC. This includes faculty serving on the ICC steering committee or teaching ICC courses at MIIS. Exceptions may be made with the approval of the ICC chair.
 
@@ -246,11 +79,11 @@ Students may also request a Directed Study (DS) in ICC courses for 2 or 4 credit
 
 **a. Transferring credit from an outside institution**
 
-To be eligible for transfer, coursework in language or intercultural competence (ICC) must be completed <span style="text-decoration:underline">after</span> a student has started in the Language Studies program at MIIS, which means that s/he has taken the placement test, and has been assigned an appropriate level of study for the degree program.
+To be eligible for transfer, coursework in language or intercultural competence (ICC) must be completed **after** a student has started in the Language Studies program at MIIS, which means that s/he has taken the placement test, and has been assigned an appropriate level of study for the degree program.
 
 If a student’s degree program requires 12 credits of language study, s/he may transfer up to 4 credits of language from an outside institution. If a student’s degree program requires 8 credits of language study, s/he may transfer up to 2 credits of language from an outside institution.  Outside institutions include any accredited school/institution outside of Middlebury. Credits earned at any outside institutions and transferred to MIIS will not be calculated as part of the student’s GPA.
 
-<span style="text-decoration:underline">The student must obtain pre-approval from the GSTILE Dean before taking courses elsewhere*.*</span>  This is achieved by submitting a petition for transfer of credit, which is reviewed by the appropriate language or ICC faculty member to determine the course’s equivalence to Institute courses that fulfill the same requirement.
+**The student must obtain pre-approval from the GSTILE Dean before taking courses elsewhere**.  This is achieved by submitting a petition for transfer of credit, which is reviewed by the appropriate language or ICC faculty member to determine the course’s equivalence to Institute courses that fulfill the same requirement.
 
 Students must earn a grade of B or above in in order to receive transfer credit for a course. Transfer credit will not be added to the students’ transcript until the Records Office receives an official transcript from the institution where the credit was earned.
 
@@ -260,11 +93,11 @@ Normally students may transfer 2-4 credits earned in the Summer Intensive Lang
 
 Up to 12 credits may be transferred if they are earned in a Middlebury School Abroad program.
 
-Students must earn a grade of B or above in order to receive credit toward the MIIS degree for a course from another Middlebury program.  Credits earned at any of the Middlebury programs that are used toward the MIIS language requirement <span style="text-decoration:underline">will</span> be included in the calculation of the student’s GPA.
+Students must earn a grade of B or above in order to receive credit toward the MIIS degree for a course from another Middlebury program.  Credits earned at any of the Middlebury programs that are used toward the MIIS language requirement **will** be included in the calculation of the student’s GPA.
 
 **c. Credits earned prior to matriculation**
 
-Language or ICC coursework taken prior to enrolling in the Language Studies program at MIIS is not transferrable.  The only exception is coursework taken in SILP or Middlebury’s Summer Language School in the summer <span style="text-decoration:underline">directly preceding</span> enrollment in the MA program.  Students may apply to use 2-4 SILP or Middlebury Summer Language School credits toward their MIIS degree.
+Language or ICC coursework taken prior to enrolling in the Language Studies program at MIIS is not transferrable.  The only exception is coursework taken in SILP or Middlebury’s Summer Language School in the summer **directly preceding** enrollment in the MA program.  Students may apply to use 2-4 SILP or Middlebury Summer Language School credits toward their MIIS degree.
 
 **6\. GSIPM courses which fulfill the LS credit requirement**
 

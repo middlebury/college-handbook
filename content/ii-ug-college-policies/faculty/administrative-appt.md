@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/faculty/administrative-appt"
-date: "2021-05-01"
-title: "C.19. Administrative Appointments - Terms/Conditions"
+slug: /pages/ii-ug-college-policies/faculty/administrative-appt
+date: 2021-05-01
+title: C.19. Administrative Appointments - Terms/Conditions
 ---
-
 **TERMS AND CONDITIONS OF ADMINISTRATIVE APPOINTMENTS**
 
 Vice presidents, deans, chairs, program directors, and heads of administrative departments are appointed by the president and continue in office at the pleasure of the president. In normal cases, such appointments are for a specified term, regularly from three to five years. Appointments take effect on July 1 and continue until June 30 of the year of termination.

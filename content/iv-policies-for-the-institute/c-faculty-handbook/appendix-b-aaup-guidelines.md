@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/c-faculty-handbook/appendix-b-aaup-guidelines"
-date: "2021-05-01"
+slug: /pages/iv-policies-for-the-institute/c-faculty-handbook/appendix-b-aaup-guidelines
+date: 2021-05-01
 title: "Appendix B: AAUP Guidelines"
 ---
-
 **APPENDIX B: AAUP GUIDELINES**
 
 This material has been taken from the sections, “1940 Statement of Principles on Academic Freedom and Tenure” and “Student Rights and Freedoms,” in the 1995 edition of _AAUP Policy Documents & Reports_.

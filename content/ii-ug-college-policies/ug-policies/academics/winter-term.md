@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/ug-policies/academics/winter-term"
-date: "2021-05-01"
-title: "B.1.h. Winter Term"
+slug: /pages/ii-ug-college-policies/ug-policies/academics/winter-term
+date: 2021-05-01
+title: B.1.h. Winter Term
 ---
-
 **1\. General**
 
 a. The Curriculum Committee is responsible for the general administration of the winter term academic program. All courses must be approved by the Curriculum Committee; the Committee may make or suggest adjustments in proposed courses in consultation with the departments concerned.
@@ -49,7 +48,6 @@ _a. Independent Projects (0500 Work)_
 Students with 8 or more credits may submit a proposal to their faculty sponsor for on or off-campus winter term independent work either as a continuation of their major or minor or as work outside of their major or minor as long as:
 
 *   They have not completed more than two units of winter term independent work; and
-
 *   They have received the approval of the chair or director of the department or program in which the work will be completed
 
 **_Students are not allowed to pursue independent projects during their first winter term._**

@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/a-academic-policies/a-7-policies-concerning-enrollment-and-payment-fees/a-7-d-course-load-and-overloads"
-date: "2021-05-01"
-title: "A.7.d. Course Load and Overloads"
+slug: /pages/iv-policies-for-the-institute/a-academic-policies/a-7-policies-concerning-enrollment-and-payment-fees/a-7-d-course-load-and-overloads
+date: 2021-05-01
+title: A.7.d. Course Load and Overloads
 ---
-
 Registering for more than 16 credits in any semester/term may put you in an overload status and additional tuition may be due and payable. Students who are in a two-year degree program should complete it over the course of four terms by taking up to 16 credits each term. They will be charged four comprehensive fees to cover the tuition for such a program. For students who spend a semester at a Middlebury School Abroad, that semester is treated as a semester in which the student paid a comprehensive fee to the Institute for purposes of this policy.
 
 Students who wish to take more credits (defined as an overload) may either: (1) pay for the additional credits at the per-credit rate or (2) defer the overload credits to a subsequent semester in which they pay full-time tuition and take fewer than sixteen (16) credits. A student who has overload credits from previous terms may during another term (including the summer) combine these overload credits with other credits so that he/she can be charged a comprehensive fee rather than a per-credit fee, as long this term is one of his/her four terms and the total number of credits falls within 12 to 16 credits.

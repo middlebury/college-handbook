@@ -1,10 +1,9 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/a-academic-policies/a-7-policies-concerning-enrollment-and-payment-fees/a-7-a-full-time-and-part-time-enrollment-status"
-date: "2021-05-01"
-title: "A.7.a. Full-Time and Part-Time Enrollment Status"
+slug: /pages/iv-policies-for-the-institute/a-academic-policies/a-7-policies-concerning-enrollment-and-payment-fees/a-7-a-full-time-and-part-time-enrollment-status
+date: 2021-05-01
+title: A.7.a. Full-Time and Part-Time Enrollment Status
 ---
-
-**A. Regular Academic Terms (Fall and Spring Semesters)**<span style="text-decoration:underline"></span>
+**A. Regular Academic Terms (Fall and Spring Semesters)**
 
 During the fall and spring semesters, a student is considered full-time when enrolled for twelve or more credits, half time when enrolled for six to eleven (6-11) credits, and less than half time when enrolled for fewer than six (6) credits. A student who is half time or less than half time is considered part-time.
 

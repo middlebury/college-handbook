@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/commun-policies/a-8-committee-on-art-in-public-places"
-date: "2021-05-01"
-title: "A.8. Committee on Art in Public Places (CAPP)"
+slug: /pages/ii-ug-college-policies/commun-policies/a-8-committee-on-art-in-public-places
+date: 2021-05-01
+title: A.8. Committee on Art in Public Places (CAPP)
 ---
-
 CAPP has existed since the fall of 1994, when the president and Board of Trustees entrusted it with the exhibition, purchase, and placement of works of art on the campus, apart from the Middlebury College Museum of Art.
 
 **1.  _Charge of the Committee_**

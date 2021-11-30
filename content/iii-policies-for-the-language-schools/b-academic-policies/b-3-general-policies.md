@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iii-policies-for-the-language-schools/b-academic-policies/b-3-general-policies"
-date: "2021-05-01"
-title: "B.3 General Policies"
+slug: /pages/iii-policies-for-the-language-schools/b-academic-policies/b-3-general-policies
+date: 2021-05-01
+title: B.3 General Policies
 ---
-
 **Attendance**
 
 Attendance and participation in all classes is mandatory and an integral part of the academic program. Students are not permitted to miss more than three days of class for any reason. Missing more than three days will likely result in removal from the program and failing grades. No reimbursement will be given in such cases. Students must receive approval from their program director for all absences.

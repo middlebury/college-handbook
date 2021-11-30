@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/faculty/leave-program"
-date: "2021-05-01"
-title: "C.7. Research Leave Program"
+slug: /pages/ii-ug-college-policies/faculty/leave-program
+date: 2021-05-01
+title: C.7. Research Leave Program
 ---
-
 **1\. PURPOSE OF THE PROGRAM**
 
 Leaves of absence are granted to enhance the scholarly and teaching capacity of the individual faculty member and to promote the general interest of the College.
@@ -36,7 +35,7 @@ Once outside funding sources have been exhausted, the College will then consider
 
 **i.** Any publications that result from a College-funded leave should acknowledge the support of Middlebury College.
 
-**<a name="leavereport" id="leavereport"></a>j.** Upon completion of leave, a full report on the faculty member's scholarly activity should be sent to the Office of the Dean for Faculty Development and Research, for inclusion in his or her file. Faculty must submit the report by September 1 following the leave in order to become eligible for future leaves.
+**j.** Upon completion of leave, a full report on the faculty member's scholarly activity should be sent to the Office of the Dean for Faculty Development and Research, for inclusion in his or her file. Faculty must submit the report by September 1 following the leave in order to become eligible for future leaves.
 
 **3\. IMPLEMENTATION**
 
@@ -48,4 +47,4 @@ Once outside funding sources have been exhausted, the College will then consider
 
 **d.** Department chairs requesting outside term replacements for colleagues on leave must submit their proposals for replacement positions to the dean of curriculum, for consideration by the Educational Affairs Committee, no later than the first Friday in April two academic years before the leave.
 
- <span class="caption">_rev. 8/8/16_</span>
+_rev. 8/8/16_

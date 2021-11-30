@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/d-employee-handbook/d-4-employee-conduct"
-date: "2021-05-01"
-title: "D.4. Employee Conduct"
+slug: /pages/iv-policies-for-the-institute/d-employee-handbook/d-4-employee-conduct
+date: 2021-05-01
+title: D.4. Employee Conduct
 ---
-
 **D.4.a. Drug Free Workplace**
 
 The Institute promotes a safe, health, and productive work environment for all individuals at the Institute.  We comply with federal, state, and local laws governing the possession, use, and distribution of unlawful drugs at the work place.
@@ -20,27 +19,27 @@ The success of the Institute depends not only on the competence of its faculty a
 
 Other expectations for the Middlebury Institute faculty and staff are covered in other sections of the Employee Handbook.
 
-#### <span style="color: #660000;">**A. General Principles**</span>
+##### **A. General Principles**
 
 Institute faculty and staff should conduct themselves ethically, honestly, and with integrity in all dealings.  They need to be fair and principled in their official interactions and to act in good faith in these matters with others both within and outside the Institute community.  They should act with due recognition of their position of trust and loyalty with respect to the Institute and its students, fellow employees, research sponsors, and donors.  When in doubt about the propriety of a proposed course of action, they should seek counsel from those colleagues, supervisors, or administrators who can assist in determining the right and appropriate course of conduct.
 
-#### <span style="color: #660000;">**B. Proper Use of Institute Property and Funds**</span>
+##### **B. Proper Use of Institute Property and Funds**
 
 Institute faculty and staff must see to it that Institute resources are not used for other than their intended purposes.  Institute employees have an obligation to manage the Institute’s resources prudently, with a responsibility to those who provide those resources, including students, parents, alumni, foundations, other donors, and government agencies.  Faculty and staff are responsible for safeguarding the tangible and intangible assets of the Institute that are under their control.  Institute resources may not be converted to personal use, either for oneself or another person.  Institute funds may not be used to make contributions to candidates for public office, to political parties, or to other political organizations that are organized and operated primarily to accept contributions and make expenditures for the purpose of influencing the selection, nomination, election, or appointment of any individual to federal, state, or local public office or office in a political organization, or the election of Presidential electors.
 
-#### <span style="color: #660000;">**C. Accuracy of Records and Reporting**</span>
+##### **C. Accuracy of Records and Reporting**
 
 The records, data, and information owned, used, and managed by the Institute must be accurate and complete.  The accuracy and reliability of financial reports is of the utmost importance to the business operations of the Institute.  Faculty and staff must record, allocate, and charge costs accurately and maintain supporting documentation as required by established policies and procedures.  All reports, vouchers, bills, invoices, payroll information, personnel records, and other essential business records must be prepared with care and honesty.
 
-#### <span style="color: #660000;">**D. Grants and Contracts**</span>
+##### **D. Grants and Contracts**
 
 Members of the faculty and staff requesting funding from government agencies, corporations, foundations, and other granting organizations have an affirmative obligation to make full, accurate, and honest representations concerning all relevant information submitted to or requested by the granting organization.  Accurate and complete records, including supporting documentation as required by the granting organization, of the uses to which grant funds are put must be maintained.
 
-#### <span style="color: #660000;">**E. Confidential Information**</span>
+##### **E. Confidential Information**
 
 Members of the faculty and staff may be privy to confidential information in the course of their daily work.  This information may relate to, among others, students, parents, alumni, donors, employees, and candidates for positions on the faculty or staff.  All Institute employees must safeguard confidential information.  This includes insuring that confidential documents, in either paper or electronic form, are not left unattended; refraining from engaging in discussion of confidential information in forums where the information may be overheard; and protecting the privacy of past and present students, faculty, and staff by maintaining the confidentiality of student and employee records.
 
-#### <span style="color: #660000;">**F. Conflicts of Interest**</span>
+##### **F. Conflicts of Interest**
 
 Members of the faculty and staff should avoid improper conflicts of interest that might compromise the integrity and objectivity of the Institute.  Examples of situations involving potential conflicts of interest include working for the Institute as an outside vendor; using information that the Institute considers privileged or confidential for the benefit of a person or entity outside the Institute; utilizing discounts allowed to the Institute for personal gain; and soliciting for oneself or for a third party anything of value from any person or entity in return for any business or service provided by the Institute.
 
@@ -48,23 +47,23 @@ Financial conflicts of interest (for example, an employee's participating in the
 
 No member of the faculty and staff shall solicit anything of value in return for influencing or exercising his or her discretion in a particular way on an Institute matter.  Faculty and staff should not accept any material gift, gratuity, or other payment, in cash or in kind, from a vendor currently doing business with the Institute or seeking to do so.  Members of the faculty and staff may not solicit or receive discounts or rebates on goods and services offered to them in their private capacity by vendors to the Institute that exceed those generally available to other customers. Exceptions to this general provision include unsolicited gifts of a nominal value given at holidays, birthdays, weddings, and other commonly recognized social occasions.
 
-#### <span style="color: #660000;">**G. Antitrust**</span>
+##### **G. Antitrust**
 
 Members of the faculty and staff may not improperly collude with other entities, including other colleges and universities, in matters affecting the financial or administrative decisions of the Institute.
 
-#### <span style="color: #660000;">**H. Compliance with Laws and Regulations**</span>
+##### **H. Compliance with Laws and Regulations**
 
 Members of the faculty and staff are expected to transact Institute business in compliance with all federal, state, and local laws and regulations related to their positions and areas of responsibility, including, but not limited to, equal employment opportunity, fair employment practices, and nondiscrimination laws; laws regarding the privacy and confidentiality of employee and student records; and laws regarding workplace safety, workplace policies and regulations, and occupational health.  Members of the faculty and staff whose programs operate internationally are expected to comply with the laws of the nations in which those programs operate, including foreign corrupt practices acts.
 
-#### <span style="color: #660000;">**I. Obligation to Report Suspected Violations**</span>
+##### **I. Obligation to Report Suspected Violations**
 
 Faculty and staff are obligated to report suspected violations of these standards promptly to their supervisor, department chair, the Manager of Human Resources or the VP for Human Resources and Chief Risk Officer.  A supervisor or department chair to whom a report of a violation is made is obligated to follow up the report with the appropriate administrative authority.  In investigating claims of inappropriate activities, care will be taken to maintain confidentiality.  The Middlebury Institute will protect from retaliation anyone who makes a good faith effort to appropriately disclose perceived wrongdoing.  However, the Institute reserves the right to distinguish between retaliation and ongoing performance management related to the "whistleblower." Employees who feel that they have been subject to retaliation as a result of compliance with this policy should communicate their concerns to Human Resources.
 
-#### <span style="color: #660000;">**J. Consequences of Violation**</span>
+##### **J. Consequences of Violation**
 
 Material violations of this code or related Institute policies and procedures will be considered under the Institute's established disciplinary practices and procedures for members of the faculty and staff and may carry disciplinary consequences, up to and including dismissal from employment.  Such violations may also subject individuals to civil or criminal actions in state or federal courts.
 
-#### <span style="color: #660000;">**K. Supervisor's Obligations**</span>
+##### **K. Supervisor's Obligations**
 
 Individuals who supervise others should ensure that their direct reports have received adequate instruction and explanation with respect to their obligations under this code.
 
@@ -76,42 +75,42 @@ In addition to the expectation of high ethical standards as defined in the Code 
 
 Prohibited conduct includes but is not limited to:
 
-- Possession, distribution, sale, use, or being under the influence of alcoholic beverages or illegal drugs while on Institute property, while on duty, or while operating a vehicle or potentially dangerous equipment leased or owned by the Institute.
-- Breach of confidentiality.
-- Falsification of employment records, employment information, time reports, or other Institute records.
-- Unsatisfactory performance or conduct.
-- Theft, deliberate or careless damage or destruction of any Institute property, or the property of any employee, student, or customer.
-- Removing or borrowing Institute property without prior authorization.
-- Unauthorized use of Institute equipment (including computer systems and software), time, materials, or facilities.
-- Provoking a fight or fighting during working hours or on Institute property.
-- Carrying firearms or any other dangerous weapons on Institute premises, including parking lots, at any time.
-- Engaging in criminal conduct, whether or not related to job performance.
-- Causing, creating, or participating in a disruption of any kind during working hours on Institute property.
-- Insubordination, including but not limited to failure or refusal to follow the orders or instructions of a supervisor or a member of management, or the use of abusive or threatening language toward a supervisor or member of management.
-- Threatening, intimidating, coercing, harassing, or interfering with other employees.
-- Violating the Middlebury Anti-Harassment/Discrimination and/or Sexual Misconduct policies.
-- Failure to work cooperatively with others.
-- Failure to notify a supervisor when unable to report to work, unless a reasonable excuse is offered and accepted by the Institute.
-- Excessive absenteeism.
-- Unreported absence of three (3) consecutive scheduled workdays, unless a reasonable excuse is offered and accepted by the Institute.
-- Failure to observe working schedules, including rest and lunch periods.
-- Leaving the job during working hours without permission.
-- Failure to provide a physician's certificate when requested or required to do so.
-- Sleeping or loitering on the job.
-- Conducting excessive personal business on Institute time.
-- Working overtime without authorization or refusing to work assigned overtime.
-- Violation of any safety, health, security, or Institute policies, procedures, or mandates.
-- Violation of Human Resources policies and procedures.
-- Failure to cooperate in an investigation.
-- Committing a fraudulent act or a breach of trust under any circumstances.
-- Attempting any of the above actions.
+* Possession, distribution, sale, use, or being under the influence of alcoholic beverages or illegal drugs while on Institute property, while on duty, or while operating a vehicle or potentially dangerous equipment leased or owned by the Institute.
+* Breach of confidentiality.
+* Falsification of employment records, employment information, time reports, or other Institute records.
+* Unsatisfactory performance or conduct.
+* Theft, deliberate or careless damage or destruction of any Institute property, or the property of any employee, student, or customer.
+* Removing or borrowing Institute property without prior authorization.
+* Unauthorized use of Institute equipment (including computer systems and software), time, materials, or facilities.
+* Provoking a fight or fighting during working hours or on Institute property.
+* Carrying firearms or any other dangerous weapons on Institute premises, including parking lots, at any time.
+* Engaging in criminal conduct, whether or not related to job performance.
+* Causing, creating, or participating in a disruption of any kind during working hours on Institute property.
+* Insubordination, including but not limited to failure or refusal to follow the orders or instructions of a supervisor or a member of management, or the use of abusive or threatening language toward a supervisor or member of management.
+* Threatening, intimidating, coercing, harassing, or interfering with other employees.
+* Violating the Middlebury Anti-Harassment/Discrimination and/or Sexual Misconduct policies.
+* Failure to work cooperatively with others.
+* Failure to notify a supervisor when unable to report to work, unless a reasonable excuse is offered and accepted by the Institute.
+* Excessive absenteeism.
+* Unreported absence of three (3) consecutive scheduled workdays, unless a reasonable excuse is offered and accepted by the Institute.
+* Failure to observe working schedules, including rest and lunch periods.
+* Leaving the job during working hours without permission.
+* Failure to provide a physician's certificate when requested or required to do so.
+* Sleeping or loitering on the job.
+* Conducting excessive personal business on Institute time.
+* Working overtime without authorization or refusing to work assigned overtime.
+* Violation of any safety, health, security, or Institute policies, procedures, or mandates.
+* Violation of Human Resources policies and procedures.
+* Failure to cooperate in an investigation.
+* Committing a fraudulent act or a breach of trust under any circumstances.
+* Attempting any of the above actions.
 
 Institute action in a particular case might depend on its judgment or consideration of, among other things,
 
-- the severity of the conduct,
-- the circumstances surrounding the matter,
-- the past employment record of the employee, and
-- the needs of the Institute.
+* the severity of the conduct,
+* the circumstances surrounding the matter,
+* the past employment record of the employee, and
+* the needs of the Institute.
 
 It should be remembered that employment is for an unspecified term and is at the mutual consent of the employee and the Institute. Consequently, the employment relationship can be terminated at will, at any time, either by the employee or the Institute, with or without cause or notice.
 
@@ -137,14 +136,14 @@ All employees are expected to keep their work areas clean and organized. People 
 
 The protection of confidential information is vital to the interests and success of the Institute. Such confidential information includes, but is not limited to, the following examples:
 
-- Compensation data
-- Donor information
-- Employee personal information
-- Student records and information
-- Financial information
-- Marketing strategies
-- Pending projects and proposals
-- Research and development strategies
+* Compensation data
+* Donor information
+* Employee personal information
+* Student records and information
+* Financial information
+* Marketing strategies
+* Pending projects and proposals
+* Research and development strategies
 
 Any employee who misappropriates for her/his own use or discloses confidential information to other persons or organizations will be subject to disciplinary action (up to and including discharge) and legal action, even if s/he does not actually benefit from the disclosed information.
 
@@ -176,10 +175,10 @@ In matters pertaining to privacy, security, and responsible use of computing fac
 
 In particular, the following policies related to shared resources, as described in the [**Middlebury Handbook**](/pages/i-policies-for-all/appropriate-use/info-tech), apply to Middlebury Institute faculty, staff, and students:
 
-- [Responsible Use of Computing and Network Services and Facilities](https://www.middlebury.edu/offices/technology/its/policies/responsible-use)
-- [Network Monitoring Policy](https://www.middlebury.edu/offices/technology/its/policies/netmon)
-- [Password Policy](https://www.middlebury.edu/offices/technology/its/policies/passwords)
-- [Privacy and Security of Files, Data and Communications](/pages/i-policies-for-all/appropriate-use/info-tech)
+* [Responsible Use of Computing and Network Services and Facilities](https://www.middlebury.edu/offices/technology/its/policies/responsible-use)
+* [Network Monitoring Policy](https://www.middlebury.edu/offices/technology/its/policies/netmon)
+* [Password Policy](https://www.middlebury.edu/offices/technology/its/policies/passwords)
+* [Privacy and Security of Files, Data and Communications](/pages/i-policies-for-all/appropriate-use/info-tech)
 
 **D.4.j. Dress Code and Other Personal Standards**
 

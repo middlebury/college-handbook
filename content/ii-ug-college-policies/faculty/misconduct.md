@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/faculty/misconduct"
-date: "2021-05-01"
-title: "C.6. Faculty Misconduct"
+slug: /pages/ii-ug-college-policies/faculty/misconduct
+date: 2021-05-01
+title: C.6. Faculty Misconduct
 ---
-
 _a. General Principles_
 
 _In determining whether a faculty member’s actions constitute professional misconduct, and in determining any penalties for faculty misconduct, up to and including termination, faculty members, administrators, and Trustees will act in accordance with the following principles:_
@@ -26,7 +25,7 @@ There are three categories of professional misconduct: lesser misconduct, ground
 
 _i. Lesser misconduct._ In keeping with the principle of proportionality, some professional misconduct does not constitute sufficient grounds for termination of employment. Such “lesser misconduct” includes, but is not limited to, violations of the Employee Code of Conduct that do not satisfy the specific grounds for termination set forth in section _b.ii._, and violations of the principles of faculty conduct set forth in section _a_ that do not satisfy the specific grounds for termination set forth in section _b.ii_.
 
-_ii. Grounds for termination._ Faculty on appointment for any term, including tenure, may have their appointment terminated prior to the specifications of the appointment only by special action of designated and appropriate College authorities with adequate cause and according to the procedures described below. As per the proportionality principle, termination <span style="text-decoration:line-through"> </span> for any reason may be undertaken only in the most exceptional circumstances and only for the most compelling reasons. Tenure is a primary protection for academic freedom and contributes to the stability necessary for the development of the College. At the same time, tenure is not simply a guarantee of appointment until retirement. Specific serious offenses may result in termination for cause. A continued pattern of teaching performance that is judged to be below minimally acceptable standards may also result in termination.
+_ii. Grounds for termination._ Faculty on appointment for any term, including tenure, may have their appointment terminated prior to the specifications of the appointment only by special action of designated and appropriate College authorities with adequate cause and according to the procedures described below. As per the proportionality principle, termination for any reason may be undertaken only in the most exceptional circumstances and only for the most compelling reasons. Tenure is a primary protection for academic freedom and contributes to the stability necessary for the development of the College. At the same time, tenure is not simply a guarantee of appointment until retirement. Specific serious offenses may result in termination for cause. A continued pattern of teaching performance that is judged to be below minimally acceptable standards may also result in termination.
 
 The following are considered as grounds for termination:
 
@@ -36,7 +35,7 @@ The following are considered as grounds for termination:
 
 (c) Actions that are willfully destructive of College facilities or pose an imminent threat to the safety of others.
 
-(d) Serious criminal conduct as defined in _General Principles_ section _a. v._<span style="text-decoration:line-through"></span>
+(d) Serious criminal conduct as defined in _General Principles_ section _a. v._
 
 (e) Teaching ineffectiveness. (Procedures defined below in section _f_.)
 
@@ -44,7 +43,7 @@ _iii. Violations of the Anti-Harassment/Discrimination Policy and/or the Policy 
 
 _c. Administrative Procedures regarding Allegations of Lesser Misconduct and/or Grounds for Termination_
 
-_i._ When an allegation of professional misconduct has been made, the vice president for Academic Affairs and dean of the faculty (VPAA/DoF) will make a preliminary inquiry and will discuss the matter with those administrative officers he or she deems appropriate. If the VPAA/DoF concludes that the alleged misconduct, were it to be substantiated, might constitute professional misconduct, and therefore that further inquiry is warranted, then they will meet in confidence with the accused faculty member to discuss the alleged violation. The faculty member and the VPAA/DoF may each invite an <span style="text-decoration:line-through"> </span> adviser of their choice, typically a tenured faculty colleague, to assist them, or to act as counsel. Under all circumstances, the VPAA/DoF will report the details of the case to the provost.
+_i._ When an allegation of professional misconduct has been made, the vice president for Academic Affairs and dean of the faculty (VPAA/DoF) will make a preliminary inquiry and will discuss the matter with those administrative officers he or she deems appropriate. If the VPAA/DoF concludes that the alleged misconduct, were it to be substantiated, might constitute professional misconduct, and therefore that further inquiry is warranted, then they will meet in confidence with the accused faculty member to discuss the alleged violation. The faculty member and the VPAA/DoF may each invite an adviser of their choice, typically a tenured faculty colleague, to assist them, or to act as counsel. Under all circumstances, the VPAA/DoF will report the details of the case to the provost.
 
 In consultation with the VPAA/DoF, the provost will then propose one of three possible outcomes:
 
@@ -98,7 +97,7 @@ After the Hearing Panel completes its work, the Board of Trustees will decide on
 
 (a)    If the Hearing Panel finds no grounds for misconduct, the faculty member will incur no penalty.
 
-(b)   If the Hearing Panel finds only grounds for lesser misconduct, it will impose a penalty less than termination.<span style="text-decoration:line-through"></span><span style="text-decoration:line-through"></span>
+(b)   If the Hearing Panel finds only grounds for lesser misconduct, it will impose a penalty less than termination.
 
 (c)    If the Hearing Panel finds grounds for termination, then the faculty member’s employment will be terminated with cause, and the faculty member will not be offered any subsequent employment at the College.
 
@@ -130,11 +129,11 @@ _g.  Administrative Procedures regarding Potential Violations of the Anti-Haras
 
 Reports related to faculty misconduct that, if proven, may constitute violations of the Anti-Harassment/Discrimination Policy and/or the Policy Against Sexual Misconduct, Domestic Violence, Dating Violence and Stalking (henceforth referred to as the “SMDVS Policy”) will be investigated according to the procedures outlined in the applicable policy.  As described in both policies, the Human Relations Officer (HRO) will provide to the VPAA/DoF a determination as to whether any policy violations have occurred.  In SMDVS proceedings, complainants and respondents will have an equal right to be accompanied to any related meeting or hearing by an advisor of their choice; to simultaneous notification of the result of a proceeding; and to timely access to information that will be used during related meetings and hearings.
 
-<span style="text-decoration:underline">Recommended Sanctions other than Termination for Cause</span>
+**Recommended Sanctions other than Termination for Cause**
 
 If the HRO determines that a policy violation has occurred, and the VPAA/DoF, in consultation with the provost, determines that the severity of the violation does not rise to the level of termination for cause, a sanction (i.e., written reprimand, mandatory counseling, or salary freeze) will be imposed by the VPAA/DoF within 5 days of receipt of the HRO’s final finding, after any applicable appeals of the finding have been completed. This time period may be shorter or longer depending on the circumstances, including but not limited to any contractual rights of the parties. Interim measures to protect the parties may be taken while the sanction is being decided, as outlined in the Anti-Harassment/Discrimination Policy or the SMDVS Policy. The complainant or the respondent may appeal the sanction following the procedures described in the Anti-Harassment/Discrimination Policy or the SMDVS Policy, as appropriate.
 
-<span style="text-decoration:underline">Recommendation of Termination for Cause</span>
+**Recommendation of Termination for Cause**
 
 If the HRO determines that a policy violation has occurred, and the VPAA/DoF determines, in consultation with the provost, that the severity of the violation is such that termination for cause should be considered, the sanction will be determined by the Promotions Committee.  Interim measures to protect the parties may be taken while the sanction is being decided, as outlined in the Anti-Harassment/Discrimination Policy or the SMDVS Policy. In arriving at a recommended sanction in such cases, the Promotions Committee will follow the procedures for a Misconduct Review (_Faculty Misconduct,_ section _d_), with the exception that the purpose of the Misconduct Review is the determination of a sanction, not the determination of a finding.  The complainant has the same rights to participate in any such Misconduct Review as the respondent. In arriving at a determination of a sanction, the Promotions Committee will not conduct an additional investigation, but will base their decision on the HRO’s finding while also taking the complainant’s and respondent’s sanction statements into consideration. The Promotions Committee will have 14 days to conduct the Misconduct Review and recommend a sanction and/or other actions as appropriate to the provost.  The provost will have 7 days to respond to the Promotions Committee’s recommendation, at which point both the Promotions Committee’s recommendation and the provost’s recommendation will be presented to the Board of Trustees.
 
@@ -142,6 +141,6 @@ If the Promotions Committee and provost do not agree on a recommended outcome, t
 
 If the Promotions Committee and provost agree on a recommended outcome, then the provost will report the allegation and recommended outcome to the Board of Trustees.  If the Board accepts the provost’s recommendation, then that recommendation will be enacted.  Either the complainant or the respondent can, in this case, challenge the sanction by requesting a misconduct hearing by a Hearing Panel of the Board of Trustees.  If the Board rejects the provost’s recommendation, the Board will conduct a Misconduct Hearing.  The Board Hearing Panel will follow the procedures for a Misconduct Hearing (Faculty Misconduct, section _d.v._), with the exception that the purpose of the hearing is the determination of a sanction, not the determination of a finding.  The complainant has the same rights to participate in any such misconduct hearing as the respondent. The Board Hearing Panel, if convened, will have 30 days to arrive at a decision.
 
-<span style="text-decoration:underline">Appealing the Sanction</span>
+**Appealing the Sanction**
 
 The complainant and respondent each have the right to challenge the sanction as described in the appeals procedures in the Anti-Harassment/Discrimination Policy or the SMDVS policy, as appropriate.

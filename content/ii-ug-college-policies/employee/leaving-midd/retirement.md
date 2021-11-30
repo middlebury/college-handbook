@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/leaving-midd/retirement"
-date: "2021-05-01"
-title: "9.4 Retirement"
+slug: /pages/ii-ug-college-policies/employee/leaving-midd/retirement
+date: 2021-05-01
+title: 9.4 Retirement
 ---
-
 The College has no standard retirement age. However employees who have met certain age and service requirements when they leave the College will be classified as "Middlebury Retirees" and may be eligible for certain retiree benefits. In order to be eligible for retiree benefits an employee must:
 
 a) have been employed by the College in a benefits-eligible position for ten consecutive years following the attainment of age 45; or

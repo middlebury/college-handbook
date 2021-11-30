@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-a-general-conduct-policy"
-date: "2021-05-01"
-title: "B.2.a. General Conduct Policy"
+slug: /pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-a-general-conduct-policy
+date: 2021-05-01
+title: B.2.a. General Conduct Policy
 ---
-
 #### **A. Respect for Persons**
 
 All students, as members of the Middlebury community, are expected to respect the dignity, freedom, and rights of others.

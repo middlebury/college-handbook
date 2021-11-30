@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iii-policies-for-the-language-schools/b-academic-policies/b-8-student-records"
-date: "2021-05-01"
-title: "B.8 Grades and Transcripts"
+slug: /pages/iii-policies-for-the-language-schools/b-academic-policies/b-8-student-records
+date: 2021-05-01
+title: B.8 Grades and Transcripts
 ---
-
 **Grades**
 
 The following grades are used: A, A-, B+, B, B-, C+, C, C-, D, F. **No grade below a B- may be applied to a Middlebury Master of Arts degree, nor below B+ to the Doctor of Modern Languages degree**. An A+ grade is available only at the graduate level and represents exceptional level of achievement. Late submission of course work may have a negative impact on student grades as determined by the course instructor. Master of Arts degree students who are assigned a grade of “F” will be dismissed from the program. Doctor of Modern Languages students who are assigned a grade of "B" or lower will be dismissed from the program.

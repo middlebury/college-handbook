@@ -9,7 +9,7 @@ Graduate students in the Arabic, French, Italian, Russian and Spanish Schools re
 
 Add/Drop cards are available in each School office. Students must obtain the signatures of the instructors involved in the added and dropped courses, as well as signature of the director or associate director of the School. Students cannot add new courses after the Add/Drop deadline. Courses dropped before the Add/Drop deadline do not appear on transcripts. Courses dropped after the posted deadlines, but on or before July 23 will receive a grade of WD on the transcript. Courses dropped after July 23 receive a grade of WDF on the transcript. Notifying an instructor of non-attendance does not constitute official withdrawal from a course.
 
-<span style="text-decoration:underline">Add/Drop Deadlines:</span>
+**Add/Drop Deadlines:**
 
 Arabic, Chinese, French, German, Hebrew, Italian, Japanese, Russian, and Spanish 6-week sessions: July 2
 

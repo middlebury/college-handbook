@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/ug-policies/academics/tutor-acad-support"
-date: "2021-05-01"
-title: "B.1.m. Tutoring and Academic Support"
+slug: /pages/ii-ug-college-policies/ug-policies/academics/tutor-acad-support
+date: 2021-05-01
+title: B.1.m. Tutoring and Academic Support
 ---
-
 Among Middlebury College's strengths are the accessibility of faculty and their willingness to help students. All faculty members maintain regular office hours, which are posted on office doors or within department offices.
 
 Whenever students experience difficulty in a course, they are encouraged to first seek help from the respective faculty member. Additional support is also available to help students reach their academic goals.at the Center for Teaching, Learning, & Research located in Davis Family Library (extension 3131). CTLR offers the following resources.

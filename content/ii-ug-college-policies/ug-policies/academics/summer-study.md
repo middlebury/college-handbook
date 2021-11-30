@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/ug-policies/academics/summer-study"
-date: "2021-05-01"
-title: "B.1.g. Summer Study"
+slug: /pages/ii-ug-college-policies/ug-policies/academics/summer-study
+date: 2021-05-01
+title: B.1.g. Summer Study
 ---
-
 **1\. General**
 
 a. The Curriculum Committee is responsible for the general administration of the Summer Study academic program. All courses must be approved first by the Curriculum Committee, which may make or suggest adjustments in proposed courses in consultation with those concerned, and then by the vice president for Academic Affairs/dean of the faculty (VPAA/DOF) who, in consultation with other College administrators, will review proposed courses for logistical and financial feasibility.  Only courses approved by both the Curriculum Committee and the VPAA/DOF will be offered.
@@ -30,6 +29,6 @@ ii. Summer Study course offerings will be announced the preceding winter or spri
 
 iii. Changes in course registration may be made only during the first three days on which the class meets during the Summer Study period. Due to time constraints during Summer Study, late adds are automatically charged a late fee of $50.
 
-iv. A student who misses the first class meeting of a Summer Study course must be <span class="fineprint"></span>excused by the faculty member or it will be assumed that the student has dropped the course.
+iv. A student who misses the first class meeting of a Summer Study course must be excused by the faculty member or it will be assumed that the student has dropped the course.
 
 _rev. 6/24/21_

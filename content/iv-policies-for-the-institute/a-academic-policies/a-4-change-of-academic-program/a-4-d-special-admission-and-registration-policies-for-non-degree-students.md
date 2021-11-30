@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/a-academic-policies/a-4-change-of-academic-program/a-4-d-special-admission-and-registration-policies-for-non-degree-students"
-date: "2021-05-01"
-title: "A.4.d. Special Admission and Registration Policies for Non-Degree Students"
+slug: /pages/iv-policies-for-the-institute/a-academic-policies/a-4-change-of-academic-program/a-4-d-special-admission-and-registration-policies-for-non-degree-students
+date: 2021-05-01
+title: A.4.d. Special Admission and Registration Policies for Non-Degree Students
 ---
-
 **A. Credit Limit for Non-Degree Students**
 
 A student who is not a degree student may register for up to eight(8) credits per semester in a degree program without formal application to that program. Students must have the approval of the relevant instructor(s) and the appropriate dean.

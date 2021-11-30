@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/payroll/payroll-issues"
-date: "2021-05-01"
-title: "5.4 Reporting Time and Payroll Issues"
+slug: /pages/ii-ug-college-policies/employee/payroll/payroll-issues
+date: 2021-05-01
+title: 5.4 Reporting Time and Payroll Issues
 ---
-
 All employees of the College are paid every other Friday on a biweekly pay period basis. If a payday falls on a holiday, employees will receive paychecks on the last working day of the week. The pay period begins on Monday and ends on the following second Sunday.
 
 The pay calendar schedule can be found in the [Compensation Section](https://www.middlebury.edu/offices/business/hr/comp) of the Human Resources Web site.

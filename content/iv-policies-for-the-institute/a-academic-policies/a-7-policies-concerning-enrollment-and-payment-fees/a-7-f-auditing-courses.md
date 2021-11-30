@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/a-academic-policies/a-7-policies-concerning-enrollment-and-payment-fees/a-7-f-auditing-courses"
-date: "2021-05-01"
-title: "A.7.g. Auditing Courses"
+slug: /pages/iv-policies-for-the-institute/a-academic-policies/a-7-policies-concerning-enrollment-and-payment-fees/a-7-f-auditing-courses
+date: 2021-05-01
+title: A.7.g. Auditing Courses
 ---
-
 A requests to audit a course must be approved by the instructor of record and the student must register as an auditor. Full-time students, (registered for 12 credits or more), may audit up to four (4) credits per semester without charge. Full-time students who register to audit more than four (4) credits in any semester will be charged at one-half the regular per-credit rate for each credit over four (4) credits audited.
 
 Part-time students who wish to audit courses may do so by registering in the Records Office and by paying one-half the regular credit rate for each credit audited. When a part-time (11 credits or less) student’s per credit fees exceed the comprehensive fee that a full-time student would pay, then those students may also audit up to four credits per semester without charge.

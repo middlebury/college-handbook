@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/processes-development/progressive-discipline"
-date: "2021-05-01"
-title: "8.2 Progressive Discipline"
+slug: /pages/ii-ug-college-policies/employee/processes-development/progressive-discipline
+date: 2021-05-01
+title: 8.2 Progressive Discipline
 ---
-
 The College maintains a progressive discipline system to serve as a fair and consistent means to enforce College rules and regulations and to address conduct or performance deficiencies. The purpose of progressive discipline is to retain employees through identification and correction of problems.
 
 If the College decides to take corrective action, the disciplinary actions applied may include a verbal warning, a written warning, a written reprimand, and/or termination from employment.  In instances of written warnings, written reprimands, or termination from employment, supervisors should confer with Human Resources concerning the rationale for the disciplinary action.  Written documentation should be forwarded to Human Resources for review before it is delivered to the employee. 

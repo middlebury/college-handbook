@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/time-away/bereavement"
-date: "2021-05-01"
-title: "4.9 Bereavement"
+slug: /pages/ii-ug-college-policies/employee/time-away/bereavement
+date: 2021-05-01
+title: 4.9 Bereavement
 ---
-
 Employees needing to take time off because of the death of an immediate family member must notify their supervisor as soon as possible.Bereavement leave is intended to be used in the event of a dealth; it cannot be used for serious illness or other purposes.
 
 Paid or unpaid time off will be granted to allow employees to grieve, make any necessary arrangements and attend the funeral. Full- and part-time benefits-eligible employees may receive up to three days of paid bereavement leave for each death.

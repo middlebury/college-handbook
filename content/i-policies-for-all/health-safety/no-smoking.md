@@ -1,9 +1,8 @@
 ---
-slug: "/pages/i-policies-for-all/health-safety/no-smoking"
-date: "2021-05-01"
-title: "C.8. No Smoking Policy"
+slug: /pages/i-policies-for-all/health-safety/no-smoking
+date: 2021-05-01
+title: C.8. No Smoking Policy
 ---
-
 The purpose of this policy is to promote the well-being of all faculty, staff, students, employees, and visitors to Middlebury by protecting our clean air. Middlebury complies with all fire and safety codes, as well as applicable state laws governing tobacco use in public areas. Both California and Vermont law ban smoking in most public places.
 
 Smoking, including e-cigarette use, is prohibited in all Middlebury buildings and any part of a building structure such as porches, decks or balconies. This includes all residence halls and small houses occupied by students, as well as all indoor areas of Middlebury workplaces.

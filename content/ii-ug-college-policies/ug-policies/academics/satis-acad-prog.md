@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/ug-policies/academics/satis-acad-prog"
-date: "2021-05-01"
-title: "B.1.d. Satisfactory Academic Progress Policy"
+slug: /pages/ii-ug-college-policies/ug-policies/academics/satis-acad-prog
+date: 2021-05-01
+title: B.1.d. Satisfactory Academic Progress Policy
 ---
-
 This Policy applies to all undergraduate College students and is intended to ensure compliance with federal regulations.
 
 The normal timeframe for earning the baccalaureate degree at Middlebury College is four consecutive years of study in a pattern of two 4-credit semesters and 1 Winter Term every year.  When students declare a major, they are required to complete a review of their degree requirements to ensure that they are on track to complete the degree requirements while making satisfactory academic progress.
@@ -28,7 +27,7 @@ Students who are allowed by their Dean to continue their enrollment while on aca
 
 Students on financial aid probation will receive a letter outlining the academic requirements the student must meet in order to receive aid for following semester. If the student on financial aid probation meets the terms of the probation, he/she will be permitted to continue to participate in the federal student aid programs for a subsequent semester. Students who have been placed on probation shall be considered to be making satisfactory academic progress for the purposes of receiving financial aid as long as the student continues to follow the academic plan outlined by their Dean. Students will normally be allowed only one probationary semester during their academic program. If the student does not meet the terms of the probation, the student will forfeit eligibility for all federal financial aid programs.
 
-**<span style="text-decoration:underline">Specific Circumstances</span>**
+**Specific Circumstances**
 
 **1\. Repeated Courses**
 

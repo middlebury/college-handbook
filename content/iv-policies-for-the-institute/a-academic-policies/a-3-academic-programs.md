@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/a-academic-policies/a-3-academic-programs"
-date: "2021-05-01"
-title: "A.3. Academic Programs"
+slug: /pages/iv-policies-for-the-institute/a-academic-policies/a-3-academic-programs
+date: 2021-05-01
+title: A.3. Academic Programs
 ---
-
 The Middlebury Institute is organized into **two schools** that offer **degree programs** as listed below. Please see the Institute’s Web site for program descriptions and admissions and degree requirements.
 
 **1. Graduate School of International Policy and Management (GSIPM)**

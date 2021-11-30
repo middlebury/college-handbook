@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-d-student-conduct-disciplinary-process/c-hearing-procedures"
-date: "2021-05-01"
-title: "C. Hearing Procedures"
+slug: /pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-d-student-conduct-disciplinary-process/c-hearing-procedures
+date: 2021-05-01
+title: C. Hearing Procedures
 ---
-
 #### 1. **Allegations**
 
 Students will be held accountable for policy violations that take place between the time they first arrive on campus to begin their Institute program and their graduation, or the Institute’s confirmation of their resignation or expulsion.

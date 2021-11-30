@@ -1,21 +1,20 @@
 ---
-slug: "/pages/i-policies-for-all/records/student-data-for-research"
-date: "2021-05-01"
-title: "E.2. Accessing Student Data for Research Projects"
+slug: /pages/i-policies-for-all/records/student-data-for-research
+date: 2021-05-01
+title: E.2. Accessing Student Data for Research Projects
 ---
-
 **Procedure regarding accessing student data**
 
 Prior to undertaking an independent research project, students need to be aware that
 
-&emsp; - *in compliance with FERPA and HIPAA* *, Middlebury College will not disclose personally identifiable information (e.g., including, but not limited to: GPA (overall, major, high school), health or financial aid information, admissions test scores) from a student's record to another student.*
+  *- in compliance with FERPA and HIPAA* *, Middlebury College will not disclose personally identifiable information (e.g., including, but not limited to: GPA (overall, major, high school), health or financial aid information, admissions test scores) from a student's record to another student.*
 
 Students who are interested in pursuing data related to student information for an academic (independent study and/or mentored research) project must:
 
-- be enrolled in a credit  bearing course (e.g., independent study) or a research project with an identified supervising faculty member
-- submit his/her/their request for information to the [Dean of Students](https://www.middlebury.edu/college/student-life/dean-students) (DoS)
-- submit a letter of support from the faculty mentor
-- submit a timeline for research completion
+* be enrolled in a credit  bearing course (e.g., independent study) or a research project with an identified supervising faculty member
+* submit his/her/their request for information to the [Dean of Students](https://www.middlebury.edu/college/student-life/dean-students) (DoS)
+* submit a letter of support from the faculty mentor
+* submit a timeline for research completion
 
 The request should also include the following:
 
@@ -41,8 +40,8 @@ The DoS will respond to the student and supervising faculty member about the out
 
 When a request for data is approved:
 
-- Student submits an [IRB](https://www.middlebury.edu/academics/resources/irb) proposal to the committee and send of copy of the proposal to DoS
-- Upon IRB approval, the information will be made available in a timeframe that is feasible for Office of AIR and their workload
+* Student submits an [IRB](https://www.middlebury.edu/academics/resources/irb) proposal to the committee and send of copy of the proposal to DoS
+* Upon IRB approval, the information will be made available in a timeframe that is feasible for Office of AIR and their workload
 
 Upon completion of the project, student will submit copies of completed work (e.g., paper, presentation, etc.) to DoS.
 

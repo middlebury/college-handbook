@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/faculty/faculty-development"
-date: "2021-05-01"
-title: "C.8. Faculty Professional Development"
+slug: /pages/ii-ug-college-policies/faculty/faculty-development
+date: 2021-05-01
+title: C.8. Faculty Professional Development
 ---
-
 **a**. *Professional Consultation.* At least two terms before the first review (normally during the third semester of teaching), a faculty member on regular appointment will invite the department chair and one other tenured colleague to visit one class each. The faculty member will also discuss progress in scholarship with the chair of the department. Before the end of the term in which these visits occur, the chair will hold an oral consultation with the faculty member about his or her teaching and scholarship, based on the class visits, on the chair's reading of course evaluations, and on the faculty member's progress in scholarship. The other senior colleague who visited classes will be present at this consultation. The dean for faculty development and research (DFDR) will ensure that this process takes place.
 
 **b**. _Faculty Professional Development Fund._ The general purpose of the Faculty Professional Development Fund (FPDF) is to benefit the College by strengthening the faculty in its various professional capacities. The fund supports a wide variety of faculty activities, including: research expenses, travel to research sites, professional conferences and workshops, pedagogical and course development, additional training, and purchase of materials needed for teaching and research (which are not readily available). Up to $200 may be requested for payment of membership fees to professional organizations. The FPDF not only supports ongoing research, but also may be used by faculty who wish to develop new teaching materials and methods, or who need to develop new skills and expertise (consistent with the College's academic mission).
@@ -24,4 +23,4 @@ The following activities and expenses will not be supported by the Faculty Profe
 
 It must be emphasized that the Faculty Professional Development Fund is not large enough to cover all out-of-pocket expenses for faculty travel and research and that grants from the fund are not an entitlement. It is often necessary to deny some requests and reduce others. Faculty frugality and restraint are essential ingredients in making the fund serve the faculty and the College as well and as fairly as possible.
 
-<span class="caption">_rev. 9/6/19_</span>
+_rev. 9/6/19_

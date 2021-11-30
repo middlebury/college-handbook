@@ -1,10 +1,9 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/c-faculty-handbook/5-policies-and-procedures-for-members-of-the-faculty"
-date: "2021-05-01"
-title: "C.5. Policies and Procedures for Members of the Faculty"
+slug: /pages/iv-policies-for-the-institute/c-faculty-handbook/5-policies-and-procedures-for-members-of-the-faculty
+date: 2021-05-01
+title: C.5. Policies and Procedures for Members of the Faculty
 ---
-
-**<a name="categories" id="categories"></a>C.5.a. Categories of Faculty**
+#### **C.5.a. Categories of Faculty** {#categories}
 
 The **Regular Faculty** of the Middlebury Institute is committed to excellence in teaching, scholarship, and service to the Institute.
 
@@ -36,7 +35,7 @@ iv. **Professors emeritae/i** are faculty members who have demonstrated, to the 
 
 v. **Instructors in Non-degree Programs** are appointed to teach in specific non-degree programs for which they have relevant qualifications, experience and expertise. For appointment as an Instructor, a candidate must normally hold a Master’s degree and have a minimum of two years experience in the relevant field of specialization. Instructors are appointed to a one-year, renewable contract and are evaluated by the program supervisor. Instructors are not eligible to apply for sabbatical leave or faculty development grants, and do not serve on faculty committees.
 
-**<a name="appointment" id="appointment"></a>C.5.b. Appointment to the Faculty**
+#### **C.5.b. Appointment to the Faculty** {#appointment}
 
 Appointments to the regular faculty of the Institute are made by the VPAA, after review of the advice of a faculty search committee and of the recommendations of the appropriate school dean. No appointment to **regular** faculty status is made without an open search and a competitive evaluation following best practices of the Institute, including rigorous interviews with multiple candidates.
 
@@ -52,7 +51,7 @@ ii. Each school shall develop files of available faculty who may be hired as **a
 
 iii. In consultation with appropriate faculty, the dean of one of the schools may propose that the VPAA bestow the title of **research professor** on staff members of research centers who meet the criteria set forth in defining this position, above.
 
-In forming a judgment as to the record and the potential of candidates for appointment, primary consideration is given to the following criteria:**<span style="text-decoration:underline"></span>**
+In forming a judgment as to the record and the potential of candidates for appointment, primary consideration is given to the following criteria:
 
 a. **Teaching ability**, as evidenced by appropriate references, student evaluations, and recommendations of peers.
 
@@ -100,8 +99,8 @@ Faculty **make recommendations regarding the awarding of degrees**, in accordanc
 
 The honorary degree awarded by the Institute is the Doctor of Humane Letters, _Honoris Causa_. It is awarded to individuals who meet at least one of the following qualifications:
 
-- conspicuous contributions to international affairs;
-- conspicuous contributions to education and/or scholarship;
-- conspicuous contributions to the Institute.
+* conspicuous contributions to international affairs;
+* conspicuous contributions to education and/or scholarship;
+* conspicuous contributions to the Institute.
 
 Faculty members may **propose candidates for honorary degrees** to the Faculty Senate for recommendation to the VPAA and the president of Middlebury.

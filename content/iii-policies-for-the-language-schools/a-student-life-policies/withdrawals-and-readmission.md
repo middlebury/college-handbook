@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iii-policies-for-the-language-schools/a-student-life-policies/withdrawals-and-readmission"
+slug: /pages/iii-policies-for-the-language-schools/a-student-life-policies/withdrawals-and-readmission
 date: 2021-05-01
-title: "Withdrawals and Readmission"
+title: Withdrawals and Readmission
 ---
-
 **A. Voluntary Withdrawal**
 
 To withdraw from the Language Schools a student must complete and sign an official Withdrawal Form at the Language Schools office. For more information, refer to the [Withdrawals and Refunds Policy](/pages/iii-policies-for-the-language-schools/c-financial-policies/c-3-withdrawals-and-refunds). Students who withdrawal are subject to the readmission requirements below.

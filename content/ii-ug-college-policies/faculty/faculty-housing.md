@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/faculty/faculty-housing"
-date: "2021-05-01"
-title: "C.23. Housing Programs"
+slug: /pages/ii-ug-college-policies/faculty/faculty-housing
+date: 2021-05-01
+title: C.23. Housing Programs
 ---
-
 Middlebury College Employee Benefits are described in the Employee Handbook chapter of the College Handbook. Because faculty are employed on a contractual basis, specific provisions relating to vacation and sick leave as stated in the Employee Handbook chapter may not be applicable to them. Conversely, faculty may be eligible for specific provisions that are not applicable to general employees.  
 
 **College Rental Program**
@@ -28,7 +27,7 @@ Middlebury College has a second mortgage program to assist faculty in the purcha
 
 The National Bank of Middlebury (NBM) is the College’s partner in this mortgage program.
 
-The NBM will administer, underwrite, close, and hold the second mortgages.  The College will collect the payments and subsidize the interest rate on a monthly basis.  The new loans will be up to $150,000 or the amount of the first mortgage, whichever is less, have a term of not more than 25 years (but in no event can the term be longer than the term of the first mortgage), a loan to value ratio (first and second mortgages) of 90% or less, and be payable biweekly.  The bank will record all interest paid and issue an IRS form 1098 based on the full bank payment.  The College and borrower will enter into an agreement, where the College will provide a discount on the second mortgage rate payable to the bank on behalf of the employee every two weeks.  <span style="text-decoration:underline">This subsidy will be a taxable benefit to the employee</span>.
+The NBM will administer, underwrite, close, and hold the second mortgages.  The College will collect the payments and subsidize the interest rate on a monthly basis.  The new loans will be up to $150,000 or the amount of the first mortgage, whichever is less, have a term of not more than 25 years (but in no event can the term be longer than the term of the first mortgage), a loan to value ratio (first and second mortgages) of 90% or less, and be payable biweekly.  The bank will record all interest paid and issue an IRS form 1098 based on the full bank payment.  The College and borrower will enter into an agreement, where the College will provide a discount on the second mortgage rate payable to the bank on behalf of the employee every two weeks. **This subsidy will be a taxable benefit to the employee**.
 
 The amount of the subsidy will be the difference between the NBM loan payment and a payment determined at 2% below the rate on the employee’s first mortgage.
 

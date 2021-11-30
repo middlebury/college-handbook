@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/wage-salary/travel-time"
-date: "2021-05-01"
-title: "6.6 Travel Time"
+slug: /pages/ii-ug-college-policies/employee/wage-salary/travel-time
+date: 2021-05-01
+title: 6.6 Travel Time
 ---
-
 ### Definition
 
 Travel time is the time spent actively traveling between the normal work site and another location where work will be performed.  Commuting time to and from the normal workplace is not considered travel time under this policy.
@@ -14,10 +13,10 @@ Occasionally non-exempt (hourly) College employees are required to travel within
 
 Travel time will be paid at the employee’s regular hourly rate, or overtime rate when the total number of hours worked is in excess of 40 in a pay week (Monday through Sunday), in accordance with Middlebury College's normal overtime policy.
 
-**Same Day Travel**<span style="text-decoration:underline">  
-From/To The Normal Workplace</span>:  For non-exempt employees who report to the normal work site prior to traveling, all time spent traveling between work locations during a single workday is considered work time and as such will be paid time.
+### Same Day Travel  
+**From/To The Normal Workplace**:  For non-exempt employees who report to the normal work site prior to traveling, all time spent traveling between work locations during a single workday is considered work time and as such will be paid time.
 
-<span style="text-decoration:underline">From/To Home:</span> When an employee departs directly from his/her home for work-related travel (that is, begins travel without first going to the normal work location), and when an employee returns directly home from work-related travel (without first reporting to the work location) normal commuting time should be deducted from the travel time.
+**From/To Home**: When an employee departs directly from his/her home for work-related travel (that is, begins travel without first going to the normal work location), and when an employee returns directly home from work-related travel (without first reporting to the work location) normal commuting time should be deducted from the travel time.
 
 **Overnight Travel**  
 When travel keeps the employee away from home overnight any portion of authorized travel time that takes place _within normal work hours_ on any day of the week, including Saturday and Sunday, is treated as work hours.

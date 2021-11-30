@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/benefits/benefit-changes"
-date: "2021-05-01"
-title: "3.2 Benefit Changes"
+slug: /pages/ii-ug-college-policies/employee/benefits/benefit-changes
+date: 2021-05-01
+title: 3.2 Benefit Changes
 ---
-
 ### Health, Dental, Vision and Flexible Spending Accounts
 
 In accordance with IRS regulations, changes such as adding or dropping coverage for an employee or dependent can only be made at certain times: 1) the initial eligibility period (the 30 days after an employee is first hired or the 30 days after an employee first moves into a benefits-eligible employment status), 2) the yearly open enrollment period, and 3) within 30 days of a _change in family status_ (as defined by the IRS). The most common permissible changes-in-family status include marriage, divorce, birth, adoption, change in a spouse's employment status affecting benefits eligibility, open enrollment in a spouse's benefit plan, and dependent reaching age 26\. For a complete list contact Human Resources. To be allowed, the desired benefit change must also be _consistent with_ the reason for the change (for example, in case of a divorce a spouse could be dropped, in case of a birth the baby could be added).

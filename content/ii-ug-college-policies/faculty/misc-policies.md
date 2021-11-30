@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/faculty/misc-policies"
-date: "2021-05-01"
-title: "C.24. Miscellaneous Policies"
+slug: /pages/ii-ug-college-policies/faculty/misc-policies
+date: 2021-05-01
+title: C.24. Miscellaneous Policies
 ---
-
 **1\. FYSE ENTERTAINMENT ALLOWANCE**  
 Each FYSE has a course enrichment budget of $250.  In addition, the program provides $100 for social interactions with seminar students. Requests for reimbursements should be submitted through Oracle using the appropriate EDORDA for the expense.
 

@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/faculty/faculty-committees"
-date: "2021-05-01"
-title: "C.2. Faculty Councils and Committees"
+slug: /pages/ii-ug-college-policies/faculty/faculty-committees
+date: 2021-05-01
+title: C.2. Faculty Councils and Committees
 ---
-
 There are eight general councils and committees of the faculty:
 
 (1) The Council on Reviews (COR) consisting of the [Promotions Committee](#PromoCom) and the [Reappointments Committee](#RC)
@@ -42,7 +41,7 @@ The online polls for each election will remain open for a minimum of two working
 
 The order of committee elections is as follows: Promotions Committee, Reappointments Committee, Faculty Council, Educational Affairs Committee, Committee on Diversity, Equity and Inclusion, Strategy Committee, Resources Committee, and Appeals Council. The schedule for elections in each academic year shall be determined by the VPAA/DoF in consultation with the Faculty Council. When there are open seats in need of appointment on a committee, the Faculty Council, in its role as Committee on Committees, will appoint new members immediately after the conclusion of balloting for that committee.
 
-**<a name="PromoCom" id="PromoCom"></a>1.A. The Promotions Committee of the Council on Reviews**
+#### **1.A. The Promotions Committee of the Council on Reviews** {#PromoCom}
 
 **a. _Function_**
 
@@ -68,7 +67,7 @@ For any second or third vacancy on the Promotions Committee, the election proced
 
 In the event of a tie vote on the preliminary ballot of any election, the names of candidates who received the five highest vote totals will be included on the second ballot.  On the second ballot of any election, in the event of a tie among three or more candidates for first place, a runoff ballot will be issued, listing the names of the tied candidates.  Faculty members may vote for one candidate on the runoff ballot.  The names of the two candidates who received the greatest number of votes on the runoff ballot will appear on the final ballot.  On the second ballot of any election, in the event of a tie among two or more candidates for second place, a runoff ballot will be issued, listing the names of the tied candidates.  Faculty members may vote for one candidate on the runoff ballot.  The name of the candidate who received the greatest number of votes on the runoff ballot will appear on the final ballot, along with the name of the candidate who received the greatest number of votes on the second ballot.
 
-**<a name="RC" id="RC"></a>1.B. The Reappointments Committee of the Council on Reviews**
+#### **1.B. The Reappointments Committee of the Council on Reviews** {#RC}
 
 **a. _Function_**
 
@@ -92,7 +91,7 @@ For any second or third vacancy on the Reappointments Committee, the election pr
 
 In the event of a tie vote on the preliminary ballot of any election, the names of candidates who received the five highest vote totals will be included on the second ballot.  On the second ballot of any election, in the event of a tie among three or more candidates for first place, a runoff ballot will be issued, listing the names of the tied candidates.  Faculty members may vote for one candidate on the runoff ballot.  The names of the two candidates who received the greatest number of votes on the runoff ballot will appear on the final ballot.  On the second ballot of any election, in the event of a tie among two or more candidates for second place, a runoff ballot will be issued, listing the names of the tied candidates.  Faculty members may vote for one candidate on the runoff ballot.  The name of the candidate who received the greatest number of votes on the runoff ballot will appear on the final ballot, along with the name of the candidate who received the greatest number of votes on the second ballot.
 
-**<a name="faculty_council" id="faculty_council"></a>2\. The Faculty Council**
+#### **2\. The Faculty Council** {#faculty_council}
 
 **a. *Function***
 
@@ -136,7 +135,7 @@ For any second, third or fourth tenured vacancy and/or any second pre-tenure vac
 
 In the event of a tie vote on the preliminary ballot of any election, the names of candidates who received the five highest vote totals will be included on the second ballot.  On the second ballot of any election, in the event of a tie among three or more candidates for first place, a runoff ballot will be issued, listing the names of the tied candidates.  Faculty members may vote for one candidate on the runoff ballot.  The names of the two candidates who received the greatest number of votes on the runoff ballot will appear on the final ballot.  On the second ballot of any election, in the event of a tie among two or more candidates for second place, a runoff ballot will be issued, listing the names of the tied candidates.  Faculty members may vote for one candidate on the runoff ballot.  The name of the candidate who received the greatest number of votes on the runoff ballot will appear on the final ballot, along with the name of the candidate who received the greatest number of votes on the second ballot.
 
-**<a name="eac" id="eac"></a>3\. Educational Affairs Committee (EAC)**
+#### **3\. Educational Affairs Committee (EAC)** {#eac}
 
 **a. *Function***
 
@@ -220,14 +219,14 @@ ii. *Administration Committee*
 
 This committee is responsible for reviewing petitions from students for exceptions to certain academic policies and from faculty members for grade changes. Policies overseen by the Administration Committee include but are not limited to the following:
 
-- course drops after the deadline for exceptional personal circumstances;
-- reduced course load for exceptional personal circumstances;
-- invocation of Pass/D/Fail status after the deadline for exceptional personal circumstances;
-- requests for readmission after academic failure or conduct-related suspension;
-- reinstatement for the purpose of credit transfer toward the Middlebury degree;
-- exceptions allowing retaking of courses for which credit was earned;
-- waivers of residence requirements for first-year Winter Term or senior year for non-medical reasons;
-- grade change requests from faculty members.
+* course drops after the deadline for exceptional personal circumstances;
+* reduced course load for exceptional personal circumstances;
+* invocation of Pass/D/Fail status after the deadline for exceptional personal circumstances;
+* requests for readmission after academic failure or conduct-related suspension;
+* reinstatement for the purpose of credit transfer toward the Middlebury degree;
+* exceptions allowing retaking of courses for which credit was earned;
+* waivers of residence requirements for first-year Winter Term or senior year for non-medical reasons;
+* grade change requests from faculty members.
 
 The Office of the Registrar may forward to the Administration Committee unusual or unprecedented petitions that fall within the office’s scope of responsibility for which the Registrar requests a Committee decision.
 
@@ -235,10 +234,10 @@ The Administration Committee is composed of two co-chairs, generally a dean from
 
 Middlebury’s academic policies embody the expectations that students are enrolled at Middlebury to pursue their academic degree; that they must adhere responsibly to the policies that support this goal; and that if factors arise that interfere with this goal, they will address them responsibly and/or seek help from Middlebury or external resources in a timely fashion. When evaluating petitions requesting exceptions to these policies, the Committee generally considers the following:
 
-- the goals of the relevant policies;
-- the responsibilities of students and of the institution;
-- the principles of fairness to the petitioner and of fairness to all other affected parties;
-- the individual circumstances of the petitioner.
+* the goals of the relevant policies;
+* the responsibilities of students and of the institution;
+* the principles of fairness to the petitioner and of fairness to all other affected parties;
+* the individual circumstances of the petitioner.
 
 Petitions may be approved, tabled, or denied. Petitions are tabled when the Committee identifies additional information needed for the evaluation; upon its receipt, the Committee resumes consideration. In cases of denial, petitioners who wish to provide relevant new or clarifying information may resubmit their petition to the Administration Committee for reconsideration.
 
@@ -268,7 +267,7 @@ viii. *Honorary Degree Committee*
 
 Two faculty members will be appointed to serve on the trustee committee that recommends to the president candidates for honorary degrees and Commencement speakers.
 
-**<a name="cdei" id="cdei"></a>4\. Committee on Diversity, Equity, and Inclusion (CDEI)**
+#### **4\. Committee on Diversity, Equity, and Inclusion (CDEI)** {#cdei}
 
 **a. Function**
 
@@ -314,7 +313,7 @@ In the event of a tie vote on the preliminary ballot of any election, the names 
 
 In carrying out its functions, the CDEI may create *ad hoc* committees comprised of other faculty (and, as necessary, staff members and students) as needed.  The procedures for seeking approval of CDEI initiatives will be dictated by the nature of the initiative, but will follow existing channels for review as appropriate, including but not limited to the SGA, Community Council, Faculty Council, Educational Affairs Committee, and full faculty vote.
 
-**<a name="strategy" id="strategy"></a>5\. The Strategy Committee**
+#### **5\. The Strategy Committee** {#strategy}
 
 **a. *Function***
 
@@ -354,7 +353,7 @@ If there is a second vacancy on the Strategy Committee to be filled by election 
 
 In the event of a tie vote on the preliminary ballot of any election, the names of candidates who received the five highest vote totals will be included on the second ballot. On the second ballot of any election, in the event of a tie among three or more candidates for first place, a runoff ballot will be issued, listing the names of the tied candidates. Faculty members may vote for one candidate on the runoff ballot. The names of the two candidates who received the greatest number of votes on the runoff ballot will appear on the final ballot. On the second ballot of any election, in the event of a tie among two or more candidates for second place, a runoff ballot will be issued, listing the names of the tied candidates. Faculty members may vote for one candidate on the runoff ballot. The name of the candidate who received the greatest number of votes on the runoff ballot will appear on the final ballot, along with the name of the candidate who received the greatest number of votes on the second ballot.
 
-**<a name="resources" id="resources"></a>6\. The Resources Committee**
+#### **6\. The Resources Committee** {#resources}
 
 **a. *Function***
 
@@ -396,7 +395,7 @@ If there is a second vacancy on the Resources Committee to be filled by election
 
 In the event of a tie vote on the preliminary ballot of any election, the names of candidates who received the five highest vote totals will be included on the second ballot. On the second ballot of any election, in the event of a tie among three or more candidates for first place, a runoff ballot will be issued, listing the names of the tied candidates. Faculty members may vote for one candidate on the runoff ballot. The names of the two candidates who received the greatest number of votes on the runoff ballot will appear on the final ballot. On the second ballot of any election, in the event of a tie among two or more candidates for second place, a runoff ballot will be issued, listing the names of the tied candidates. Faculty members may vote for one candidate on the runoff ballot. The name of the candidate who received the greatest number of votes on the runoff ballot will appear on the final ballot, along with the name of the candidate who received the greatest number of votes on the second ballot.
 
-**<a name="appeals" id="appeals"></a>7\. The Appeals Council and Appeal Committees**
+#### **7\. The Appeals Council and Appeal Committees** {#appeals}
 
 **a. *Function***
 
@@ -418,6 +417,6 @@ In the event of a tie vote on the preliminary ballot of any election, the names 
 
 When an appeal is to be heard, the Appeals Council will form an Appeal Committee, choosing its chair and two other members by rotation from the Appeals Council. In no case will a member of an Appeal Committee be a member of the appellant's department. In the event of an appeal resulting from a negative Physical Education and Athletics Committee on Reappointment (PEACOR) review, an additional member will be selected at random from the pool of eligible senior associates in athletics to serve on the Appeal Committee alongside two regular members of the Appeals Council. The selected senior associate in athletics should have no shared coaching responsibilities with the appellant. The Appeals Council will hear and act upon any request (whether by a panel member or by the appellant) that any member be disqualified from serving on an Appeal Committee; such request must be submitted to the Appeals Council within one week after the appellant has been notified of the Appeal Committee's membership.
 
-**8.<a name="athletics" id="athletics"></a>  Physical Education and Athletics Committee on Reappointment**
+#### **8.  Physical Education and Athletics Committee on Reappointment** {#athletics}
 
 The Physical Education and Athletics Committee on Reappointment (PEACOR) will be composed of the director of athletics, the senior woman administrator, a senior department member elected by the members of the department of physical education, the chair of the Faculty Athletic Policy Committee, and the dean of the College.  This committee will conduct major reviews of faculty in the department of physical education in accordance with the provisions for "Review and Reappointment in the Department of Physical Education" included in the rules of reappointment and tenure.

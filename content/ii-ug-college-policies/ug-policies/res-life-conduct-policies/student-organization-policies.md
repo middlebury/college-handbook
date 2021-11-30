@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/student-organization-policies"
-date: "2021-05-01"
-title: "B.2.h. Student Organization Policies"
+slug: /pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/student-organization-policies
+date: 2021-05-01
+title: B.2.h. Student Organization Policies
 ---
-
 1.       [General](#general)
 
 2.       [Discrimination](#discrimination)
@@ -24,7 +23,7 @@ title: "B.2.h. Student Organization Policies"
 
 10\.     [Student Vendors](#vendors)
 
-**<a name="general" id="general"></a>General**
+#### **General** {#general}
 
 1.  All student organizations are subject to Middlebury policies, including but not limited to the [Anti-Harassment/Discrimination](/assets/anti-harassment-prior-to-8-14-2020.pdf) and [Hazing](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy) policies.
 2.  All recognized student organizations must register annually with the Office of the Dean of Students (DOS) and have constitutions that have been approved by the Constitution Committee of the Student Government Association (SGA). The Constitution Committee may not approve a constitution with provisions that are in violation of federal, state, or local laws, or Middlebury policy.
@@ -35,7 +34,7 @@ title: "B.2.h. Student Organization Policies"
 7.  The DOS or appropriate designee may suspend or revoke any organization's registration, affiliated members, advisors and/or coaches at any time, in its sole discretion, for any abuse or violation of the outlined rights and responsibilities, or any reasonable cause deemed to be in the best interest of the organization or Middlebury.
 8.  Middlebury assumes that individual students are responsible and accountable for their own behavior, and that groups of students and student organizations are responsible for their collective behavior. Failure to comply with Middlebury policy may result in disciplinary action against an individual or group. Serious violations of the policy may result in a suspension of the groups for up to one year; and repeated infractions may lead to additional penalties.
 
-**<a name="discrimination" id="discrimination"></a>Discrimination**
+#### **Discrimination** {#discrimination}
 
 1.  No student organization may discriminate in its membership, leadership, programs, or activities on the basis of  race, creed, color, place of birth, ancestry, ethnicity, national origin, religion, sex, sexual orientation, gender identity or expression, age, marital status, service in the armed forces of the United States, positive HIV-related blood test results, genetic information, or against qualified individuals with disabilities on the basis of disability and/or any other status or characteristic as defined and to the extent protected by applicable law. (For further information, please see Middlebury’s [Nondiscrimination Statement](/pages/i-policies-for-all/genl-principles/non-discrimination-statement) and [Anti-Harassment/Discrimination](/assets/anti-harassment-prior-to-8-14-2020.pdf) policy).
 2.  Discrimination on the basis of any of the aforementioned qualities or characteristics is antithetical to Middlebury's mission and is unlawful.
@@ -44,7 +43,7 @@ title: "B.2.h. Student Organization Policies"
 5.  An organization may express in its constitution ideals or preferences regarding beliefs its leaders might hold. No student may be precluded from being on a ballot or participating in a selection process on the basis of any of the qualities or characteristics referred to in paragraph 1 above.
 6.  Students alleging discrimination by an individual or a group on the basis of the aforementioned qualities or characteristics may submit a complaint in accordance with the procedures outlined in Middlebury's [Anti-Harassment/Discrimination Policy](/assets/anti-harassment-prior-to-8-14-2020.pdf).
 
-**<a name="association" id="association"></a>Freedom of Association**
+#### **Freedom of Association** {#association}
 
 Students bring a variety of previously acquired interests  to Middlebury, and they develop many new interests as members of the academic community. They should be free to organize and join associations to promote their common interests.
 
@@ -52,7 +51,7 @@ Students bring a variety of previously acquired interests  to Middlebury, and t
 2.  Affiliation with an external organization does not automatically disqualify a student organization from institutional recognition, but College policy specifically prohibits student participation in or affiliation with single-gender fraternities or sororities.
 3.  Students are free to organize informally for any legal aim, subject to Middlebury's rules and regulations. If they seek official Middlebury recognition that makes them eligible for student activities funds and other student organization privileges as outlined in the Rights and Responsibilities, they must have a written constitution formally approved by the SGA Constitution Committee and be registered annually with the DOS.
 
-**<a name="inquiry" id="inquiry"></a>Freedom of Inquiry and Expression**
+#### **Freedom of Inquiry and Expression** {#inquiry}
 
 In addition to the policies below, please see [Demonstrations and Protests](/pages/i-policies-for-all/health-safety/demonst-protests) Policy.
 
@@ -60,7 +59,7 @@ In addition to the policies below, please see [Demonstrations and Protests](/pag
 2.  Officially recognized student organizations may invite to the campus and hear any person of their choosing. Middlebury reserves the right to ensure orderly scheduling of facilities, which prevents unnecessary conflict with other Middlebury events and provides adequate preparation for the event. It should be made clear to the academic and larger community that sponsorship of guest speakers does not necessarily imply approval or endorsement of the views expressed, either by the sponsoring group or Middlebury.
 3.  Student organizations bear full responsibility for arranging and financing any Department of Public Safety services that may be necessary in connection with controversial speakers. The DOS has the right to receive full and accurate information regarding Department of Public Safety measures at any time they so request. The DOS also has the right to specify security measures to the organizations as seem appropriate. If Middlebury, through the DOS or the president, judges that security arrangements are inadequate and that the sponsoring organization is either unwilling or unable to make proper arrangements, the event may be canceled by the dean or president.
 
-**<a name="publications" id="publications"></a>Student Publications and Media**
+#### **Student Publications and Media** {#publications}
 
 Student media groups (publications, radio and newspaper) are a valuable aid in establishing and maintaining an atmosphere of free and responsible discussion and of intellectual exploration on the campus. They are a means of bringing student concerns to the attention of the faculty and College authorities and of formulating student opinion on various issues on the campus and in the world at large.
 
@@ -84,21 +83,21 @@ The SGA Senate has the power to remove an incumbent editor or manager by a two-t
 5.  A vote to remove must be taken within fifteen business days of the vote to initiate removal proceedings. An editor or manager who has been removed by the required two-thirds vote may not serve for the remainder of the academic year as an editor or manager of the organization from which he or she was removed.
 6.  If an editor or manager is removed under these procedures, the organization that originally published or broadcast the offending statement must publicly retract it.
 
-**<a name="provisions" id="provisions"></a>General Provisions for Recognized Student Organizations**
+#### **General Provisions for Recognized Student Organizations** {#provisions}
 
 Middlebury, through the DOS and the president, retains the right and ultimate authority to protect itself from criminal or civil action that could be taken against Middlebury because of the conduct of a student organization. When Middlebury has a reasonable basis to believe  that a forthcoming activity of an organization carries with it the possibility of legal action, Middlebury may cancel the activity or request the organization to make appropriate changes in its plans.
 
-**<a name="social_orgs" id="social_orgs"></a>Policy on Student Social Organizations**
+#### **Policy on Student Social Organizations** {#social_orgs}
 
 A student social organization is an organization, whether located on or off campus, comprised primarily or exclusively of Middlebury students, that has some of the purposes or attributes of a fraternity, sorority, or social house. This does not imply that Middlebury authorizes, sponsors, or extends recognition to any off-campus student organization. Because fraternities and sororities are traditionally defined as single-sex organizations, and thus exclude certain students based on their gender, they are not permitted at Middlebury. Ties with any national organization whose rules or practices are at odds with Middlebury’s non-discrimination policies should not be maintained. Please see Middlebury’s [Nondiscrimination Statement](/pages/i-policies-for-all/genl-principles/non-discrimination-statement) for more information.
 
 Middlebury assumes that individual students are responsible and accountable for their own behavior and that groups of students are responsible and accountable for their collective behavior. Failure to comply with this policy may result in disciplinary action against an individual or a group.
 
-**<a name="posting" id="posting"></a>Posting**
+#### **Posting** {#posting}
 
 Posters are permitted on designated bulletin boards or kiosks only.  Flyers may not be posted on doors, walls, windows, buildings, lamp posts, trees, or stairwells. Flyers found in these locations will be removed by Middlebury staff. Fines and/or disciplinary action may result from violations.
 
-**<a name="fundraising" id="fundraising"></a>Student Fundraising Policies and Regulations**
+#### **Student Fundraising Policies and Regulations** {#fundraising}
 
 The DOS gives approval to students and student organizations to raise money for charitable projects or to raise funds on campus to defray costs of a limited number of special Middlebury-approved projects.
 
@@ -136,7 +135,7 @@ _Sale and Distribution of Food on Campus_
 
 Recognized student organizations may distribute food in designated locations, as well as outdoor events, provided they have received prior approval from the DOS and the director of Dining Services.
 
-**<a name="vendors" id="vendors"></a>Student Vendors**
+#### **Student Vendors** {#vendors}
 
 Middlebury may, at its discretion, approve selected student entrepreneurial activities to function on campus. These student-run businesses involve the sale of a product or service solely for students at Middlebury.
 

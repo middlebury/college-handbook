@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/d-employee-handbook/d-6-miscellaneous-considerations"
-date: "2021-05-01"
-title: "D.6. Miscellaneous Considerations"
+slug: /pages/iv-policies-for-the-institute/d-employee-handbook/d-6-miscellaneous-considerations
+date: 2021-05-01
+title: D.6. Miscellaneous Considerations
 ---
-
 **D.6.a. Lost and Found**
 
 Money, clothing, or other valuables should not be left in areas where a theft might occur. The Institute's lost and found area is located in the Security Office. The Institute is not responsible for lost or stolen property.
@@ -72,20 +71,20 @@ Employees who are required to drive an Institute vehicle, or a personal vehicle,
 
 The Institute retains the right to transfer to an alternative position, suspend or terminate employment if driving on Institute business is an essential function of a position and an employee's license is revoked, or s/he fails to maintain personal automobile insurance coverage, or if s/he is uninsurable under the Institute's policy.
 
-#### <span style="color: #660000;">**A. Allowable Travel Expenses**</span>
+#### **A. Allowable Travel Expenses**
 
 Allowable travel expenses include essential transportation and associated costs such as parking and tolls, lodging, meals, and appropriate thank-you gifts for a dinner or event host. Normally, travelers should select compact class rental cars; restrict meal costs to the recommended maximums published by the business office; and provide customary tips (not to exceed 15%) associated with their activities. Other expenses must receive advance approval from the department head.
 
-#### <span style="color: #660000;">**B. Accounting**</span>
+#### **B. Accounting**
 
 Formal accounting for reimbursable travel expenditures made by an individual must be submitted to the Business Office immediately upon return from a trip. This accounting must include original receipts for meal, hotel accommodations, transportation, etc., and must be approved by the supervisor and budget officer.
 
 Internal Revenue Service regulations require that adequate records substantiate all expenditures for travel and entertainment. This substantiation must include information relating to the:
 
-- Amount of the expenditure;
-- Time and place of the expenditure;
-- Business purpose of the expenditure; and
-- Names and the business relationships of individuals (other than the traveler) for whom the expenditures are made;
+* Amount of the expenditure;
+* Time and place of the expenditure;
+* Business purpose of the expenditure; and
+* Names and the business relationships of individuals (other than the traveler) for whom the expenditures are made;
 
 Reasonable incidental expenses of $10 or less do not require documentation but need to be enumerated.
 
@@ -99,26 +98,24 @@ No personal expenses may be charged to the Institute, including (but not limited
 
 Budget administrators are expected to exercise restraint and good judgment in committing Institute funds. The Institute's principal revenue sources are from students and from donors (individuals, foundations, and industry). Increasingly, we must be sensitive to how we use these funds toward promoting the primary mission of the Institute. The following expenditures should not be incurred since they relate more directly to personal needs:
 
-- Artwork for offices
-- Briefcases
-- Contributions (political and charitable)
-- Expensive desk accessories
-- Flowers (except when coordinated through the VPAA's Office)
-- Holiday decorations and parties
-- Memberships in non-job related professional societies
-- Travel related:
-
-- Air travel clubs
-- First class/business class airfare
-
-- Health club memberships
-- Hotel amenities (movies, etc.)
-- Optional conference events (golf outings, tours, etc.)
-- Non-business entertainment and travel
-- Payment of fines or parking tickets
-- Purchase of clothing and other personal items
-- Spouse related costs
-- Meals among co-workers (except when staff are traveling together on Institute business, or for community-building meals approved by a budget administrator.)
+* Artwork for offices
+* Briefcases
+* Contributions (political and charitable)
+* Expensive desk accessories
+* Flowers (except when coordinated through the VPAA's Office)
+* Holiday decorations and parties
+* Memberships in non-job related professional societies
+* Travel related:
+* Air travel clubs
+* First class/business class airfare
+* Health club memberships
+* Hotel amenities (movies, etc.)
+* Optional conference events (golf outings, tours, etc.)
+* Non-business entertainment and travel
+* Payment of fines or parking tickets
+* Purchase of clothing and other personal items
+* Spouse related costs
+* Meals among co-workers (except when staff are traveling together on Institute business, or for community-building meals approved by a budget administrator.)
 
 **D.6.l. Procurement Card Program**
 
@@ -136,7 +133,7 @@ Please direct any questions regarding the use of the Procurement Card to the car
 
 **D.6.m. Employee Recognition**
 
-#### _<span style="color: #660000;">**Above and Beyond Award**</span>_
+#### _**Above and Beyond Award**_
 
 The Above and Beyond Award was established in 2006 to recognize employees of the Institute who go above and beyond the normal duties of their position. The award is presented during the faculty/staff holiday reception each December. Each award recipient receives a certificate and a $500 cash award. Recipients of the award are those who:
 

@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/d-employee-handbook/d-1-employment-policies-and-practices"
-date: "2021-05-01"
-title: "D.1. Employment Policies and Practices"
+slug: /pages/iv-policies-for-the-institute/d-employee-handbook/d-1-employment-policies-and-practices
+date: 2021-05-01
+title: D.1. Employment Policies and Practices
 ---
-
 **D.1.a. Introduction**
 
 This handbook is designed to provide all employees with clear, concise, and accessible information about employment at the Middlebury Institute of International Studies at Monterey.
@@ -242,16 +241,16 @@ The Institute may choose in appropriate situations to utilize a progressive disc
 
 If a situation, at the discretion of the Institute, warrants progressive discipline, the disciplinary actions applied may include a verbal warning, a written warning, a written reprimand, and/or termination from employment. Every action need not be taken in each case, and depending upon the relevant circumstances, the Institute may decide to take any disciplinary action, including immediate termination, at any time. Relevant circumstances that affect the course of disciplinary action may include the Institute’s judgment as to the seriousness or severity of the individual employee's deficiencies in performance and/or conduct, prior performance and conduct, and management's assessment of appropriate factors identified during the investigation. Examples of some of the circumstances that in the Institute’s judgment might lead to summary discharge include, but are not limited to:
 
-- Conduct that is in opposition to the Institute's nondiscrimination or harassment policies;
-- Sustained insubordination or refusal to comply with a reasonable request given by the supervisor or Institute official, or abusive treatment of a supervisor or Institute official;
-- Theft of Institute property, personal property, or theft of service;
-- Falsification of records, time cards, or claiming sickness under false pretenses;
-- Disorderly conduct while on the job;
-- Deliberate, frequent, and/or recurring violations of stated safety regulations, even if they are not intentional;
-- Unexcused absence without notice for three days;
-- Use or possession of, or being under the influence of illegal substances or alcohol while at work;
-- Threatening physical harm, or actual physical violence to another member of the Institute community;
-- Breach of confidentiality, which is defined as releasing to unauthorized persons, or misuse of confidential information to which an employee is privy because of her/his job.
+* Conduct that is in opposition to the Institute's nondiscrimination or harassment policies;
+* Sustained insubordination or refusal to comply with a reasonable request given by the supervisor or Institute official, or abusive treatment of a supervisor or Institute official;
+* Theft of Institute property, personal property, or theft of service;
+* Falsification of records, time cards, or claiming sickness under false pretenses;
+* Disorderly conduct while on the job;
+* Deliberate, frequent, and/or recurring violations of stated safety regulations, even if they are not intentional;
+* Unexcused absence without notice for three days;
+* Use or possession of, or being under the influence of illegal substances or alcohol while at work;
+* Threatening physical harm, or actual physical violence to another member of the Institute community;
+* Breach of confidentiality, which is defined as releasing to unauthorized persons, or misuse of confidential information to which an employee is privy because of her/his job.
 
 **D.1.ff. Promotions and Transfers**
 

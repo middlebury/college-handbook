@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/faculty/faculty-procedures"
-date: "2021-05-01"
-title: "C.1. Faculty Rules and Proceduress"
+slug: /pages/ii-ug-college-policies/faculty/faculty-procedures
+date: 2021-05-01
+title: C.1. Faculty Rules and Proceduress
 ---
-
 **1\. Article I Membership**
 
 **a. _Section 1 Automatic Eligibility_**

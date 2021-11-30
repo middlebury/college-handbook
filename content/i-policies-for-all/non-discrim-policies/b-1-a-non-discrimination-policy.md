@@ -1,20 +1,19 @@
 ---
-slug: "/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy"
-date: "2021-05-01"
-title: "B.1.a. Non-Discrimination Policy"
+slug: /pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy
+date: 2021-05-01
+title: B.1.a. Non-Discrimination Policy
 ---
-
 Middlebury is committed to creating and maintaining a diverse, equitable and inclusive campus environment where we value openness, curiosity, rigor, and equality. Discrimination, including harassment, is antithetical to our values and mission, and, therefore, Middlebury seeks to eradicate unlawful discrimination based on protected personal characteristics in its educational and employment environments.
 
 Individuals who feel they have experienced discrimination, including harassment, based on a protected personal characteristic are strongly encouraged to report the behavior to our Civil Rights and Title IX Office. Middlebury provides timely services to those who have been affected by discrimination, including harassment.  It is not necessary to file a complaint with Middlebury or participate in an adjudication process in order to request “supportive measures” from Middlebury. Appropriate supportive measures may vary depending on specific facts and circumstances and will be determined on a case-by-case basis. Moreover, Middlebury provides procedures to assure prompt and equitable investigation and resolution intended to stop discrimination/harassment, remedy harms and prevent repetition.  Different types of behavior are subject to different procedures, in accordance with federal law.
 
 Violations of this Policy may result in sanctions up to and including termination, dismissal, or expulsion, as determined by the appropriate Middlebury officials. Concerns about conduct under this Policy may be resolved through informal or “adaptable” resolutions, when appropriate. Retaliation against an individual for raising an allegation of discrimination, for cooperating in an investigation of such a complaint, or for opposing discriminatory practices is prohibited. Submitting a complaint that is not in good faith or providing false or misleading information in any investigation of complaints is also prohibited. Nothing in this Policy shall be construed to abridge academic freedom and inquiry, principles of free speech, or Middlebury’s educational mission.
 
-<span style="text-decoration:underline">Scope:</span>
+**Scope:**
 
 This Policy applies to all students, staff, faculty, applicants and visitors to Middlebury’s programs and campus.  “Middlebury” includes the undergraduate college, the Language Schools, the School of the Environment, MiddCore, Bread Loaf School of English, Bread Loaf Writers’ Conference, Middlebury College Schools Abroad, and the Middlebury Institute of International Studies at Monterey.
 
-<span style="text-decoration:underline">Types of Behavior Prohibited by Law and this Policy:</span>
+**Types of Behavior Prohibited by Law and this Policy:**
 
 Members of and visitors to the Middlebury community are prohibited from engaging in:
 
@@ -24,9 +23,9 @@ Members of and visitors to the Middlebury community are prohibited from engaging
 
 (iii) Discrimination in employment, or in admission or access to Middlebury’s educational or extracurricular programs, activities, benefits or facilities based on an individual’s race, creed, color, place of birth, ancestry, ethnicity, national origin, religion, sex, sexual orientation, gender identity or expression, age, marital status, pregnancy, service in the armed forces of the United States, positive HIV-related blood test results, genetic information, or disability and/or any other status or characteristic as defined and to the extent protected by applicable law (e.g. crime victim status in Vermont).
 
-<span style="text-decoration:underline">Defining Prohibited Conduct:</span>
+**Defining Prohibited Conduct:**
 
-1\. [Domestic violence](#domesticviolence) means conduct that constitutes a crime of violence in the relevant jurisdiction (either felony or misdemeanor) committed:
+1\. [Domestic violence](#domestic-violence) means conduct that constitutes a crime of violence in the relevant jurisdiction (either felony or misdemeanor) committed:
 
 1. By a current or former spouse or intimate partner of the victim;
 2. By a person with whom the victim shares a child in common;
@@ -34,7 +33,7 @@ Members of and visitors to the Middlebury community are prohibited from engaging
 4. By a person similarly situated to a spouse of the victim under the domestic or family violence laws of the jurisdiction in which the crime of violence occurred; or
 5. By any other person against an adult or youth victim who is protected from that person’s acts under the domestic or family violence laws of the jurisdiction in which the crime of violence occurred.
 
-2\. [Dating Violence](#datingviolence) means violence committed by a person who is or has been in a social relationship of a romantic or intimate nature with the victim.
+2\. [Dating Violence](#dating-violence) means violence committed by a person who is or has been in a social relationship of a romantic or intimate nature with the victim.
 
 3\. Discrimination in employment, admission or access to Middlebury’s education or extracurricular activities means taking an action against a person based on or motivated by that individual’s protected characteristic(s) (identified in (iii) above).
 
@@ -55,11 +54,11 @@ Members of and visitors to the Middlebury community are prohibited from engaging
 1. [rape](#rape),
 2. [fondling](#fondling) without consent,
 3. [incest](#incest), or
-4. [statutory rape](#statutoryrape)
+4. [statutory rape](#statutory-rape)
 
-8\. Stalking means engaging in two or more [acts](#acts) directed at a specific person that would cause a [reasonable person](#reasonableperson) to either (i) fear for the person’s safety or the safety of others; OR (ii) suffer [substantial emotional distress](#substantialemotionaldistress).
+8\. Stalking means engaging in two or more [acts](#acts) directed at a specific person that would cause a [reasonable person](#reasonable-person) to either (i) fear for the person’s safety or the safety of others; OR (ii) suffer [substantial emotional distress](#substantial-emotional-distress).
 
-<span style="text-decoration:underline">Other Definitions:</span>
+**Other Definitions:**
 
 Consent means words or actions, affirmatively, unambiguously and voluntarily spoken or engaged in by each party, which a reasonable person would interpret as a willingness to participate in agreed-upon sexual conduct.
 
@@ -67,7 +66,7 @@ Consent is not present or valid when a person is incapable of consenting, as def
 
 A person is “incapable of consenting” for purposes of this policy if they:
 
-*   are incapable of understanding the nature of the conduct at issue;            
+*   are incapable of understanding the nature of the conduct at issue;
 *   are physically incapable of resisting, declining participation in, or communicating unwillingness to engage in the conduct at issue; or
 *   are asleep, unconscious, or otherwise unaware that the conduct is occurring; or
 *   lack the mental ability to make or communicate a decision about whether to engage in the conduct at issue.
@@ -110,33 +109,45 @@ Middlebury encourages the reporting of all concerns regarding harassment and dis
 
 Middlebury will treat information it has received with appropriate sensitivity and care and will endeavor to protect the privacy of the individuals to the extent it can do so, consistent with its obligations to respond to reports of violations of its policies.  More detailed information on confidentiality can be found in the appropriate Procedure.
 
-* * *
+---
 
 ## Glossary of Terms
 
-**<a name="acts" id="acts"></a>Acts** – Acts in which the stalker directly, indirectly, or through third parties, by any action, method, device, or means, follows, monitors, observes, surveils, threatens, or communicates to or about a person, or interferes with a person’s property.
+#### **Acts**: 
+Acts in which the stalker directly, indirectly, or through third parties, by any action, method, device, or means, follows, monitors, observes, surveils, threatens, or communicates to or about a person, or interferes with a person’s property.
 
-**<a name="datingviolence" id="datingviolence"></a>Dating violence** – For the purposes of this definition, dating violence includes, but is not limited to, sexual or physical abuse or the threat of such abuse, if involving individuals who are or have been dating as defined here, and violence means conduct that involves the use or threatened use of physical force against a person, or creates a reasonable belief that physical force may be used against a person in the course of the conduct. The existence of such a relationship shall be determined based on the reporting party’s statement and with consideration of the length of the relationship, the type of relationship, and the frequency of interaction between the persons involved in the relationship. For the purposes of this definition, dating violence includes, but is not limited to, sexual or physical abuse or the threat of such abuse. Dating violence does not include acts covered under the definition of domestic violence.
+#### **Dating violence**: 
+For the purposes of this definition, dating violence includes, but is not limited to, sexual or physical abuse or the threat of such abuse, if involving individuals who are or have been dating as defined here, and violence means conduct that involves the use or threatened use of physical force against a person, or creates a reasonable belief that physical force may be used against a person in the course of the conduct. The existence of such a relationship shall be determined based on the reporting party’s statement and with consideration of the length of the relationship, the type of relationship, and the frequency of interaction between the persons involved in the relationship. For the purposes of this definition, dating violence includes, but is not limited to, sexual or physical abuse or the threat of such abuse. Dating violence does not include acts covered under the definition of domestic violence.
 
-**<a name="domesticviolence" id="domesticviolence"></a>Domestic violence** – For the purposes of this definition, domestic violence includes but is not limited to sexual or physical abuse or the threat of such abuse, if involving individuals who are or have been in a domestic relationship as defined here, and violence means conduct that involves the use or threatened use of physical force against a person, or creates a reasonable belief that physical force may be used against a person in the course of the conduct.
+#### **Domestic violence**:
+For the purposes of this definition, domestic violence includes but is not limited to sexual or physical abuse or the threat of such abuse, if involving individuals who are or have been in a domestic relationship as defined here, and violence means conduct that involves the use or threatened use of physical force against a person, or creates a reasonable belief that physical force may be used against a person in the course of the conduct.
 
-**<a name="fondling" id="fondling"></a>Fondling** – Fondling is the touching of the private body parts of another person for the purpose of sexual gratification, without the consent of the victim, including instances where the victim is incapable of giving consent (as defined above) because of their age or because of their temporary or permanent mental incapacity; for purposes of this definition, “private body parts” is defined as a person’s breast(s), buttock(s), groin or genitals, and prohibited touching may be over or under clothing.
+#### **Fondling**:
+Fondling is the touching of the private body parts of another person for the purpose of sexual gratification, without the consent of the victim, including instances where the victim is incapable of giving consent (as defined above) because of their age or because of their temporary or permanent mental incapacity; for purposes of this definition, “private body parts” is defined as a person’s breast(s), buttock(s), groin or genitals, and prohibited touching may be over or under clothing.
 
-**<a name="harassment" id="harassment"></a>Harassment** – Harassment may include repeated slurs, or taunts in the guise of jokes, or disparaging references to others, use of epithets, stereotypes, comments, gestures, threats, graffiti, display or circulation of written or visual materials, taunts on manner of speech, and negative reference to customs when such conduct is based on or motivated by one or more of the protected characteristics identified above, or other characteristics as defined and protected by applicable law. In Middlebury’s Vermont programs, harassment may also include conduct of the type described above that is based on or motivated by a student's family member's actual or perceived race, creed, color, national origin, marital status, sex, sexual orientation, gender identity, or disability, which has the type of purpose or effect described above. With respect to Middlebury programs operating in states other than Vermont (e.g., California, New Mexico, and Washington, D.C.), harassment shall be defined as stated in this section unless the local law applicable to the program at issue mandates a broader definition, in which case such law will apply.
+#### **Harassment**: 
+Harassment may include repeated slurs, or taunts in the guise of jokes, or disparaging references to others, use of epithets, stereotypes, comments, gestures, threats, graffiti, display or circulation of written or visual materials, taunts on manner of speech, and negative reference to customs when such conduct is based on or motivated by one or more of the protected characteristics identified above, or other characteristics as defined and protected by applicable law. In Middlebury’s Vermont programs, harassment may also include conduct of the type described above that is based on or motivated by a student's family member's actual or perceived race, creed, color, national origin, marital status, sex, sexual orientation, gender identity, or disability, which has the type of purpose or effect described above. With respect to Middlebury programs operating in states other than Vermont (e.g., California, New Mexico, and Washington, D.C.), harassment shall be defined as stated in this section unless the local law applicable to the program at issue mandates a broader definition, in which case such law will apply.
 
-**<a name="incest" id="incest"></a>Incest** – Incest is sexual intercourse between persons who are related to each other within the degrees wherein marriage is prohibited by law.
+#### **Incest**: 
+Incest is sexual intercourse between persons who are related to each other within the degrees wherein marriage is prohibited by law.
 
-**<a name="rape" id="rape"></a>Rape** – Rape is the penetration, no matter how slight, of the vagina or anus with any body part or object, or oral penetration by a sex organ of another person, without the consent (as defined below) of the victim.
+#### **Rape**: 
+Rape is the penetration, no matter how slight, of the vagina or anus with any body part or object, or oral penetration by a sex organ of another person, without the consent (as defined below) of the victim.
 
-**<a name="reasonableperson" id="reasonableperson"></a>Reasonable person** – Reasonable person means a reasonable person under similar circumstances and with similar identities to the victim.
+#### **Reasonable person**: 
+Reasonable person means a reasonable person under similar circumstances and with similar identities to the victim.
 
-**<a name="retaliation" id="retaliation"></a>Retaliation** – Retaliation can include making charges against an individual for conduct violations that do not involve sex discrimination or sexual harassment, but arise out of the same facts or circumstances as a report or complaint of sex discrimination, or a report or formal complaint of sexual harassment, for the purpose of interfering with any right or privilege secured by Title IX or its implementing regulations.  Charging an individual with a code of conduct violation for making a materially false statement in bad faith in the course of a grievance process under this policy does not constitute prohibited retaliation, provided, however, that a determination regarding responsibility is not alone sufficient to establish that any party made a materially false statement in bad faith.
+#### **Retaliation**: 
+Retaliation can include making charges against an individual for conduct violations that do not involve sex discrimination or sexual harassment, but arise out of the same facts or circumstances as a report or complaint of sex discrimination, or a report or formal complaint of sexual harassment, for the purpose of interfering with any right or privilege secured by Title IX or its implementing regulations.  Charging an individual with a code of conduct violation for making a materially false statement in bad faith in the course of a grievance process under this policy does not constitute prohibited retaliation, provided, however, that a determination regarding responsibility is not alone sufficient to establish that any party made a materially false statement in bad faith.
 
-**<a name="sex" id="sex"></a>Actual or perceived sex** – Based on “sex” includes sexual harassment. Some common examples include:  touching or grabbing a sexual part of a person’s body; touching or grabbing any part of a person’s body after that person has indicated, or it is known or reasonably should be known, that such physical contact was unwelcome; continuing to ask a person to socialize when that person has indicated they’re not interested; displaying or transmitting sexually suggestive pictures, objects, cartoons, or posters if it is known or reasonably should be known that the behavior is unwelcome; continuing to write sexually suggestive notes or letters if it is known or reasonably should be known that the person does not welcome such behavior; referring to or calling a person a sexualized name if it is known or reasonably should be known that the person does not welcome such behavior; regularly telling sexual jokes or using sexually vulgar or explicit language in the presence of a person if it is known or reasonably should be known that the person does not welcome such behavior; derogatory or provoking remarks about or relating to a person’s sex or sexual orientation; harassing acts or behavior directed against a person on the basis of their sex or sexual orientation.
+#### **Actual or perceived sex**: 
+Based on “sex” includes sexual harassment. Some common examples include:  touching or grabbing a sexual part of a person’s body; touching or grabbing any part of a person’s body after that person has indicated, or it is known or reasonably should be known, that such physical contact was unwelcome; continuing to ask a person to socialize when that person has indicated they’re not interested; displaying or transmitting sexually suggestive pictures, objects, cartoons, or posters if it is known or reasonably should be known that the behavior is unwelcome; continuing to write sexually suggestive notes or letters if it is known or reasonably should be known that the person does not welcome such behavior; referring to or calling a person a sexualized name if it is known or reasonably should be known that the person does not welcome such behavior; regularly telling sexual jokes or using sexually vulgar or explicit language in the presence of a person if it is known or reasonably should be known that the person does not welcome such behavior; derogatory or provoking remarks about or relating to a person’s sex or sexual orientation; harassing acts or behavior directed against a person on the basis of their sex or sexual orientation.
 
-**<a name="statutoryrape" id="statutoryrape"></a>Statutory rape** – Statutory rape is sexual intercourse with a person who is under the statutory age of consent.
+#### **Statutory rape**: 
+Statutory rape is sexual intercourse with a person who is under the statutory age of consent.
 
-**<a name="substantialemotionaldistress" id="substantialemotionaldistress"></a>Substantial emotional distress** – Substantial emotional distress means significant mental suffering or anguish that may, but does not necessarily require medical or other professional treatment or counseling.
+#### **Substantial emotional distress**: 
+Substantial emotional distress means significant mental suffering or anguish that may, but does not necessarily require medical or other professional treatment or counseling.
 
 _Published: August 14, 2020_
 

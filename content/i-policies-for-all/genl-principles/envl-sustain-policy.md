@@ -1,11 +1,10 @@
 ---
-slug: "/pages/i-policies-for-all/genl-principles/envl-sustain-policy"
-date: "2021-05-01"
-title: "A.4. Environmental and Sustainability Policy"
+slug: /pages/i-policies-for-all/genl-principles/envl-sustain-policy
+date: 2021-05-01
+title: A.4. Environmental and Sustainability Policy
 ---
-
 **Statement of Commitment to the Environment**  
-**_Prepared by Environmental Council, endorsed by the Middlebury College Board of Trustees in May 1995_**
+_**Prepared by Environmental Council, endorsed by the Middlebury College Board of Trustees in May 1995**_
 
 "Middlebury is committed to environmental mindfulness and stewardship in all its activities. This commitment arises from a sense of concerned citizenship and moral duty and from a desire to teach and lead by example. Middlebury gives a high priority to integrating environmental awareness and responsibility into the daily life of the institution. Respect and care for the environment, sustainable living, and intergenerational responsibility are among the fundamental values that guide planning, decision-making, and procedures. All individuals in this academic community have personal responsibility for the way their actions affect the local and global environment."
 

@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/employment/safety-security"
-date: "2021-05-01"
-title: "2.10 Safety & Security"
+slug: /pages/ii-ug-college-policies/employee/employment/safety-security
+date: 2021-05-01
+title: 2.10 Safety & Security
 ---
-
 Report all accidents or injuries occurring at Middlebury College, or while traveling on College business, as soon as possible.  Report accidents occurring in the course of employment to Human Resources; Public Safety should be notified of accidents involving students, guests, and visitors.
 
 Please remember, it is important that employees report immediately any hazardous or unsafe conditions on campus so that we may take prompt action to remedy them.

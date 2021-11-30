@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/a-academic-policies/a-6-grades-credits-and-academic-policies/a-6-b-disputed-academic-evaluation-procedures"
-date: "2021-05-01"
-title: "A.6.b. Disputed Academic Evaluation Procedures"
+slug: /pages/iv-policies-for-the-institute/a-academic-policies/a-6-grades-credits-and-academic-policies/a-6-b-disputed-academic-evaluation-procedures
+date: 2021-05-01
+title: A.6.b. Disputed Academic Evaluation Procedures
 ---
-
 General: Institute policy regarding disputed academic evaluations entitles students to three levels of formal appeal following review by the instructor of record. Disputed academic evaluations must occur within six months, unless the dispute is reported during the summer months. When disputes are reported during the summer months, the six-month timeframe begins at the beginning of the Fall semester.
 
 Informal Review by Instructor: In the interest of preserving the crucial student-instructor relationship, the first procedure requires an informal mediation phase in which the student and faculty member attempt to resolve the grade dispute by direct communication.

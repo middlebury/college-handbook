@@ -1,9 +1,8 @@
 ---
-slug: "/pages/i-policies-for-all/non-discrim-policies/svc-assist-animals"
-date: "2021-05-01"
-title: "B.1.d. Service and Assistance Animals Policy"
+slug: /pages/i-policies-for-all/non-discrim-policies/svc-assist-animals
+date: 2021-05-01
+title: B.1.d. Service and Assistance Animals Policy
 ---
-
 This policy addresses Service Animals and Assistance Animals, as defined below, while they are on campus. For policies regarding general pets and animals on the Vermont campus, see the Pet Policy section of the College Handbook ([II.A.6\. Pet Policy](/pages/ii-ug-college-policies/commun-policies/pets)).
 
 **A.      Service Animals**
@@ -32,7 +31,7 @@ Because assistance animals do not qualify as service animals under the ADA, they
 
 In order to request a reasonable accommodation to possess an assistance animal in residence halls on campus, a person must initiate the accommodation process by contacting the appropriate resource:
 
-**<span style="text-decoration:underline">Students</span>**
+**Students**
 
 Jodi Litchfield, ADA Coordinator  
 Disability Resource Center (DRC)  
@@ -40,7 +39,7 @@ Disability Resource Center (DRC)
 (802) 443-5936  
 Service Building 222
 
-**<span style="text-decoration:underline">Faculty or Staff</span>**
+**Faculty or Staff**
 
 Patty Saunders, Disability and Leave Specialist  
 Human Resources  
