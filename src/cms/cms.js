@@ -1,5 +1,7 @@
 import CMS from "netlify-cms-app";
 import marked from "marked";
+import { CustomEditorControl, CustomEditorPreview } from "../components/custom-editor-widget";
+import "../components/custom-editor-widget/ckeditor.css"; 
 
 CMS.registerEditorComponent({
   // Internal id of the component
@@ -88,17 +90,19 @@ CMS.registerEditorComponent({
     let table = '';
     data.row?.forEach((ele) => {
       ele?.row_cell?.forEach(({ cell }) => {
-        table_cell = data.outline ? `<td style="border:1px solid #000000">\n\n${cell}\n\n</td>\n\n` : `<td>\n\n${cell}\n\n</td>\n\n`;
+        table_cell = data.outline ? `<td style="border:1px solid #000000">\n\n${cell}\n\n</td>\n` : `<td>\n\n${cell}\n\n</td>\n`;
         table_row = table_row + table_cell; 
       });
-      table = table + `<tr>\n\n${table_row}</tr>\n\n`;
+      table = table + `<tr>\n\n${table_row}\n\n</tr>\n`;
       table_row='';
     })
     return`${data.outline ? '<table border="2">': '<table>'}
 
 <tbody>
 
-${table}</tbody>
+${table}
+
+</tbody>
 
 </table>`;
   },
@@ -110,18 +114,67 @@ ${table}</tbody>
     let table = '';
     data.row?.forEach((ele) => {
       ele?.row_cell?.forEach(({ cell }) => {
-        table_cell = cell ? (data.outline ? `<td style="border:1px solid #000000">\n\n${cell}\n\n</td>\n\n` : `<td>\n\n${marked(cell)}\n\n</td>\n\n`) : `<td></td>\n\n`;
+        table_cell = cell ? (data.outline ? `<td style="border:1px solid #000000">\n\n${cell}\n\n</td>\n` : `<td>\n\n${marked(cell)}\n\n</td>\n`) : `<td></td>\n`;
         table_row = table_row + table_cell; 
       });
-      table = table + `<tr>\n\n${marked(table_row)}</tr>\n\n`;
+      table = table + `<tr>\n\n${marked(table_row)}\n\n</tr>\n`;
       table_row='';
     })
     return`${data.outline ? '<table border="2">': '<table>'}
 
 <tbody>
 
-${table}</tbody>
+${table}
+
+</tbody>
 
 </table>`;
   }
 });
+
+CMS.registerWidget('myWidget', CustomEditorControl, CustomEditorPreview);
+
+// window.onscroll = function() {console.log('hi')};
+
+console.log(CMS);
+
+document.addEventListener('scroll', function(e) {
+  console.log(e);
+});
+
+// var CategoriesControl = createClass({
+//   handleChange: function(e) {
+//     const separator = this.props.field.get('separator', ', ')
+//     this.props.onChange(e.target.value.split(separator).map((e) => e.trim()));
+//   },
+
+//   render: function() {
+//     const separator = this.props.field.get('separator', ', ');
+//     var value = this.props.value;
+//     return h('input', {
+//       id: this.props.forID,
+//       className: this.props.classNameWrapper,
+//       type: 'text',
+//       value: value ? value.join(separator) : '',
+//       onChange: this.handleChange,
+//     });
+//   },
+// });
+
+// var CategoriesPreview = createClass({
+//   render: function() {
+//     return h('ul', {},
+//       this.props.value.map(function(val, index) {
+//         return h('li', {key: index}, val);
+//       })
+//     );
+//   }
+// });
+
+// var schema = {
+//   properties: {
+//     separator: { type: 'string' },
+//   },
+// }
+
+// CMS.registerWidget('categories', CategoriesControl, CategoriesPreview, schema);
