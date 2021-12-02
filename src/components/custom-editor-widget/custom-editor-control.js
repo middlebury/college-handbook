@@ -4,53 +4,9 @@ import ClassicEditor from "ckeditor5-custom-build";
 import { CKEditor } from "@ckeditor/ckeditor5-react";
 
 export class CustomEditorControl extends Component {
-  constructor(props) {
-    super(props);
-    this.myRef = React.createRef();
-  }
-
   onChange = (event, editor) => {
     const data = editor.getData();
-    console.log(this.props);
     this.props.onChange(data);
-  }
-
-  // componentDidMount() {
-  //   let config = {};
-
-  //   ClassicEditor
-  //     .create( document.querySelector( '#editor' ), {
-  //     } )
-  //     .then( editor => {
-  //       console.log( 'Editor was initialized', editor );
-  //     } )
-  //     .catch( err => {
-  //       console.error( err.stack );
-  //     } );
-  // } 
-  
-  componentDidMount() {
-    // When the user scrolls the page, execute myFunction
-    window.onscroll = function() {myFunction()};
-
-    // Get the header
-    // var header = document.getElementsByClassName('ck-sticky-panel');
-    var header = this.myRef.current.domContainer;
-    // Get the offset position of the navbar
-    var sticky = header.current.offsetTop;
-    console.log(header);
-
-    // console.log(this.myRef.current.domContainer);
-    
-    // Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
-    function myFunction() {
-      console.log(header.current.classList);
-      if (window.pageYOffset > sticky) {
-        header.current.classList.add("sticky");
-      } else {
-        header.current.classList.remove("sticky");
-      }
-    }
   }
 
   render() {
@@ -63,18 +19,21 @@ export class CustomEditorControl extends Component {
           editor={ ClassicEditor }
           config={{
             removePlugins: [ 'BlockQuote', 'EasyImage', 'ImageUpload', 'MediaEmbed' ],
+            heading: {
+              options: [
+                  { model: 'paragraph', title: 'Paragraph', class: 'ck-heading_paragraph' },
+                  { model: 'heading2', view: 'h2', title: 'Heading 1', class: 'ck-heading_heading2' },
+                  { model: 'heading3', view: 'h3', title: 'Heading 2', class: 'ck-heading_heading3' },
+                  { model: 'heading4', view: 'h4', title: 'Heading 3', class: 'ck-heading_heading4' },
+                  { model: 'heading5', view: 'h5', title: 'Heading 4', class: 'ck-heading_heading5' }
+              ]
+            }
           }}
           data={this.props.value}
-          onChange={this.onChange} 
-          ref={this.myRef}
+          onChange={this.onChange}
         />
       </div>
-      // <div id="editor">
-      //   {console.log('hi')}
-      // </div>
     );
   }
 
 }
-
-// export default CustomEditorControl;
