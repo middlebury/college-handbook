@@ -1,20 +1,16 @@
+.ck.ck-sticky-panel__placeholder {
+  height: 0px !important;
+}
 
-:root {
-  --ck-color-image-caption-background: hsl(0, 0%, 97%);
-  --ck-color-image-caption-text: hsl(0, 0%, 20%);
-  --ck-color-mention-background: hsla(341, 100%, 30%, 0.1);
-  --ck-color-mention-text: hsl(341, 100%, 30%);
-  --ck-color-table-background: hsl(0, 0%, 97%);
-  --ck-color-table-text: hsl(0, 0%, 20%);
-  --ck-highlight-marker-blue: hsl(201, 97%, 72%);
-  --ck-highlight-marker-green: hsl(120, 93%, 68%);
-  --ck-highlight-marker-pink: hsl(345, 96%, 73%);
-  --ck-highlight-marker-yellow: hsl(60, 97%, 73%);
-  --ck-highlight-pen-green: hsl(112, 100%, 27%);
-  --ck-highlight-pen-red: hsl(0, 85%, 49%);
-  --ck-image-style-spacing: 1.5em;
-  --ck-inline-image-style-spacing: calc(var(--ck-image-style-spacing) / 2);
-  --ck-todo-list-checkmark-size: 16px;
+.ck.ck-sticky-panel__content.ck-sticky-panel__content_sticky {
+  position: sticky !important;
+  margin-left: initial !important;
+}
+
+.ck.ck-editor__top.ck-reset_all {
+  position : sticky;
+  top: 0px; 
+  z-index: 5;
 }
 
 .ck-editor__main h1 {
