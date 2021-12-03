@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/time-away/cto"
-date: "2021-05-01"
-title: "4.2 Combined Time Off"
+slug: /pages/ii-ug-college-policies/employee/time-away/cto
+date: 2021-05-01
+title: 4.2 Combined Time Off
 ---
-
 In order to provide flexibility to employees in the use of time off, Middlebury College utilizes combined time off (CTO). CTO can be used for vacation, sick, or personal time, as well as for three floating holidays (Memorial Day, Independence Day, and Labor Day).
 
 It is not necessary to distinguish how the time is being used (i.e. vacation, sick, or personal day). Departments will establish practices for providing notice of absences from work and for scheduling time away.
@@ -18,179 +17,13 @@ Faculty, temporary, seasonal, part-time employees in positions budgeted for less
 
 CTO accrues in hours after each biweekly payroll is run. Accrual is based on length of service, as follows:
 
-<table border="1">
+<table><tbody><tr><td><strong>Length of Service</strong></td><td><strong>Annual Accrual for 1 Full Time Equivalent</strong></td><td><strong>CTO Accrual for Each Hour Paid</strong></td></tr><tr><td>0-2 Years</td><td>26 days/yr.</td><td>0.1 hrs.</td></tr><tr><td>Over 2-10 Years</td><td>31 days/yr.</td><td>0.1192 hrs.</td></tr><tr><td>Over 10-20 Years</td><td>36 days/yr.</td><td>0.1385 hrs.</td></tr><tr><td>Over 20 Years</td><td>40 days/yr.</td><td>0.1538 hrs.</td></tr></tbody></table>
 
-<tbody>
-
-<tr>
-
-<td style="border:1px solid #000000">
-
-**Length of Service**
-
-</td>
-
-<td style="border:1px solid #000000">
-
-**Annual Accrual for 1 Full Time Equivalent**
-
-</td>
-
-<td style="border:1px solid #000000">
-
-**CTO Accrual for Each Hour Paid**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="border:1px solid #000000">
-
-0-2 Years
-
-</td>
-
-<td style="border:1px solid #000000">
-
-26 days/yr.
-
-</td>
-
-<td style="border:1px solid #000000">
-
-0.1 hrs.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="border:1px solid #000000">
-
-Over 2-10 Years
-
-</td>
-
-<td style="border:1px solid #000000">
-
-31 days/yr.
-
-</td>
-
-<td style="border:1px solid #000000">
-
-0.1192 hrs.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="border:1px solid #000000">
-
-Over 10-20 Years
-
-</td>
-
-<td style="border:1px solid #000000">
-
-36 days/yr.
-
-</td>
-
-<td style="border:1px solid #000000">
-
-0.1385 hrs.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="border:1px solid #000000">
-
-Over 20 Years
-
-</td>
-
-<td style="border:1px solid #000000">
-
-40 days/yr.
-
-</td>
-
-<td style="border:1px solid #000000">
-
-0.1538 hrs.
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-## <a name="CTO_MAX" id="CTO_MAX"></a>CTO Maximum
+## CTO Maximum {#CTO_MAX}
 
 The following chart outlines CTO maximum accruals.
 
-<table border="1">
-
-<tbody>
-
-<tr>
-
-<td style="border:1px solid #000000">
-
-<td style="border:1px solid #000000">
-
-**Maximum (hours) at fiscal year end\***
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="border:1px solid #000000">
-
-Staff on 8 Hrs./Day Schedules
-
-</td>
-
-<td style="border:1px solid #000000">
-
-192
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="border:1px solid #000000">
-
-Staff on 7.75 Hrs./Day Schedules
-
-</td>
-
-<td style="border:1px solid #000000">
-
-186
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+<table><tbody><tr><td>&nbsp;</td><td><strong>Maximum (hours) at fiscal year end*</strong></td></tr><tr><td>Staff on&nbsp;8 Hrs./Day&nbsp;Schedules</td><td>192</td></tr><tr><td>Staff on 7.75 Hrs./Day Schedules</td><td>186</td></tr></tbody></table>
 
 \*The fiscal year end maximum is applied at the end of the fiscal year in June. Any CTO over the maximum will be automatically moved to SLR.
 

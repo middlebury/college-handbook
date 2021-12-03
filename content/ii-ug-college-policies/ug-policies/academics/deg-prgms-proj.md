@@ -1,14 +1,13 @@
 ---
-slug: "/pages/ii-ug-college-policies/ug-policies/academics/deg-prgms-proj"
-date: "2021-05-01"
-title: "B.1.e. Degree Programs & Projects"
+slug: /pages/ii-ug-college-policies/ug-policies/academics/deg-prgms-proj
+date: 2021-05-01
+title: B.1.e. Degree Programs & Projects
 ---
-
-**<a name="first" id="first"></a>A. First-year Student Seminars and College Writing Courses**
+#### **A. First-year Student Seminars and College Writing Courses** {#first}
 
 First-year seminars are thematic courses that approach an area of intellectual inquiry from a perspective that attempts to make connections among a number of the traditional disciplines. Normally, a first-year seminar has an enrollment of no more than 15 students for each faculty member in the seminar. The first-year seminars have an intensive writing component. All entering students register for one first-year seminar. The instructor of this seminar is the first-year faculty adviser for all the students enrolled in the course. Normally, first-year seminars do not satisfy departmental major requirements. They may, however, satisfy distribution requirements. Exceptions to this pattern are published in the catalog of first-year seminars.  After successfully completing a first-year seminar, every student must complete by the end of the fourth semester or as determined by the student's major department or program, at least one course designated as a College writing course (CW). Students are responsible for completing both college writing requirements prior to graduation, and are strongly advised to fulfill their second CW credit _before_ they begin their final semester at Middlebury. A College writing course should not be taken concurrently with a first-year seminar, and if taken concurrently, will not satisfy this requirement.
 
-**<a name="distribution" id="distribution"></a>B. Distribution Requirement**
+#### **B. Distribution Requirement** {#distribution}
 
 All students must complete two sets of distribution requirements:
 
@@ -56,7 +55,7 @@ This category deals with the analysis of the individual in society. Courses in t
 
 Speaking, listening, reading, and writing in a language other than one's own exercise and expand the mind. Because of the close interdependence between language and culture, study of a foreign language helps one gain insights into other societies and ultimately one's own. Courses in this category include many, but not all, of those taught in a foreign language or which focus on texts in a foreign language.
 
-**<a name="cultures" id="cultures"></a>2\. Cultures and Civilizations Requirement**
+#### **2\. Cultures and Civilizations Requirement** {#cultures}
 
 **For students who entered the College prior to Fall 2017:**
 
@@ -98,7 +97,7 @@ A single course may be listed as fulfilling one of the regional categories (SOA
 
 College Board Advanced Placement credits may not be used to satisfy distribution or cultures and civilizations requirements.
 
-**<a name="major" id="major"></a>C. Major Programs of Study**
+#### **C. Major Programs of Study** {#major}
 
 Students choose one of the following programs of study:
 

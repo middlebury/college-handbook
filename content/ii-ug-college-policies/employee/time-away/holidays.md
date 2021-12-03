@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/time-away/holidays"
-date: "2021-05-01"
-title: "4.4 Holidays"
+slug: /pages/ii-ug-college-policies/employee/time-away/holidays
+date: 2021-05-01
+title: 4.4 Holidays
 ---
-
 There are two types of holidays: Regular Holidays and Floating Holidays. The eligibility and usage of each differs according to the guidelines below. When a holiday falls on a Saturday it is observed on the preceding Friday; holidays falling on Sunday are observed on the following Monday.
 
 ### _Floating Holidays_

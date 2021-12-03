@@ -1,10 +1,9 @@
 ---
-slug: "/pages/ii-ug-college-policies/ug-policies/academics/degree-requires"
-date: "2021-05-01"
-title: "B.1.c. Degree Requirements"
+slug: /pages/ii-ug-college-policies/ug-policies/academics/degree-requires
+date: 2021-05-01
+title: B.1.c. Degree Requirements
 ---
-
-**1\. Degree Requirements**
+#### **1\. Degree Requirements**
 
 **a. Credits**. Candidates for the Bachelor of Arts degree must complete 36 credits. At least 18 of these credits must be Middlebury credits. Credits earned at all Middlebury programs including Middlebury Language Schools, Middlebury Schools Abroad, School of the Environment, and Middlebury Institute of International Studies at Monterey will count in the 18-course total and the grades will count in the undergraduate grade point average. No more than six credits with a D grade may be applied to degree requirements.  
 
@@ -23,7 +22,7 @@ b. A minimum of two winter term credits are required. A maximum of four Winter T
 
 **b. Residency**. First-year students must be enrolled in a Middlebury course during their first winter term at the College. This includes both September and February matriculates. Residency in Middlebury, VT, for the fall and spring semesters of the student's senior year is required for all students unless excused by the Administration Committee.
 
-**<a name="courses" id="courses"></a>c. Courses.** Each student must successfully complete the following course requirements:
+**c. Courses.** Each student must successfully complete the following course requirements:
 
 i. A writing-intensive seminar for first-year students must be completed during the first year at Middlebury, normally during the first semester.
 
@@ -45,7 +44,7 @@ ii. The 36 course total may include, but need not include, up to four winter ter
 
 iii. The staff member’s *ad hoc* admission committee may consider proposed substitute courses for those required for distribution or for the major requirement when, in the judgment of the committee, such changes enable the applicant to achieve the goals of the proposed program of study and when the proposed adjustments maintain the integrity of existing curricular requirements.
 
-**<a name="advanced" id="advanced"></a>2\. Advanced Placement Credit**
+#### **2\. Advanced Placement Credit** {#advanced}
 
 Middlebury College cooperates with the College Board's Advanced Placement Program. At the discretion of individual departments, Middlebury College will award college credit for scores of 4 or 5 in subjects covered in the Middlebury curriculum in which Advanced Placement examinations are given. The registrar will notify first-year students and their advisers of advanced placement credits early in the fall semester.
 
@@ -57,7 +56,7 @@ c. Advanced Placement scores must be reported directly to Middlebury College by
 
 Students may receive a limited number of credits from the major European examination certificates, such as the French Baccalauréat, International Baccalaureate, Swiss Maturité, Artium Examination, British A levels, and German Abitur, if they receive scores that indicate excellent performance. The maximum number of Middlebury College course credits that may be accumulated through these examination certificates is specified above in section A. *Degree Requirements*. Students who receive such credit may not then receive credit for Middlebury introductory courses in subjects covered on the examination. Questions regarding credit for examination certificates may be directed to the Registrar's Office.
 
-**3\. Acceleration**
+#### **3\. Acceleration**
 
 With approval from the major department chair or program director, a student with at least 27 earned credits may propose an accelerated program to the Office of the Registrar.
 
@@ -65,7 +64,7 @@ In order to accelerate graduation, students may apply extra credits from courses
 
 The Office of the Registrar may forward to the Administration Committee petitions for which the registrar requests faculty review and a committee decision.
 
-**<a name="the" id="the"></a>4\. The Physical Education Requirement**
+#### **4\. The Physical Education Requirement** {#the}
 
 As part of Middlebury's degree requirement, each student must complete two physical education courses prior to graduation. Each season of varsity athletic participation counts as one unit of physical education. PHED courses do not count in the total of 36 academic course credits required for graduation.
 

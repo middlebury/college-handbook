@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/introduction/intro"
-date: "2021-05-01"
-title: "1.1 Introduction"
+slug: /pages/ii-ug-college-policies/employee/introduction/intro
+date: 2021-05-01
+title: 1.1 Introduction
 ---
-
 The Employee Handbook is designed to provide all employees with clear, concise, and accessible information about employment at Middlebury College. Throughout the Handbook are links to specific College policies, procedures or related information.
 
 The Handbook is intended solely to provide guidance on the mutual expectations shared by the College and its employees. It is not an employment contract and does not create any type of contractual obligations. Neither the employee nor the College is bound to continue the employment relationship if either, at any time, chooses to end it.

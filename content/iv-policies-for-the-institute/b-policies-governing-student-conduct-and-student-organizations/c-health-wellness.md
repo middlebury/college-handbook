@@ -1,26 +1,20 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/c-health-wellness"
-date: "2021-05-01"
-title: "B.3. Health & Wellness"
+slug: /pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/c-health-wellness
+date: 2021-05-01
+title: B.3. Health & Wellness
 ---
-
 ## The Middlebury Institute Student Health Insurance Plan
 
 **Students at the Institute are required to have insurance.**
 
 Due to the experiential nature of our academic programs and for your personal health and well-being, we require all students enrolled in six or more credit hours during the fall/spring terms or four or more credit hours during the summer term to have health insurance. To meet the Institute's health insurance requirement, you must do one of the following:
 
-- **Enroll** in the [Student Health Insurance Plan](https://www.jcbins.com/) offered through JCB Insurance Solutions. Enter "Middlebury Institute of International Studies" and follow the prompts from there.
-
-- **Waive** the [Student Health Insurance Plan](https://www.jcbins.com/) by providing proof of existing health insurance that has accident, illness and emergency coverage. In the case of international students, government or socialized health care provided by your home countries is acceptable, provided that it covers you in the United States.  Instructions on how to waive are listed below.
-
-  - Waive the plan by clicking on this page:  [Student Health Insurance Plan](https://www.jcbins.com/)
-
-  - Enter "Middlebury Institute of International Studies."  Select the appropriate academic year and select the "MIIS Student Health Insurance Plan (SHIP)" as “what kind of student are you.”
-
-  - Then scroll down on the new page and find the box that says “Already have insurance?” and click the button that says “Submit waiver here.”
-
-  - You will be prompted to make an account - enter your personal information and insurance details. Your “documents” proving the insurance should be front and back scans of your insurance card OR a screenshot of a confirmation email about your insurance if you don’t have a card.
+* **Enroll** in the [Student Health Insurance Plan](https://www.jcbins.com/) offered through JCB Insurance Solutions. Enter "Middlebury Institute of International Studies" and follow the prompts from there.
+* **Waive** the [Student Health Insurance Plan](https://www.jcbins.com/) by providing proof of existing health insurance that has accident, illness and emergency coverage. In the case of international students, government or socialized health care provided by your home countries is acceptable, provided that it covers you in the United States.  Instructions on how to waive are listed below.
+  * Waive the plan by clicking on this page:  [Student Health Insurance Plan](https://www.jcbins.com/)
+  * Enter "Middlebury Institute of International Studies."  Select the appropriate academic year and select the "MIIS Student Health Insurance Plan (SHIP)" as “what kind of student are you.”
+  * Then scroll down on the new page and find the box that says “Already have insurance?” and click the button that says “Submit waiver here.”
+  * You will be prompted to make an account - enter your personal information and insurance details. Your “documents” proving the insurance should be front and back scans of your insurance card OR a screenshot of a confirmation email about your insurance if you don’t have a card.
 
 **This step is required each semester** unless selecting the annual option when enrolling; the waiver is annual. The health insurance requirement should be satisfied by 4 p.m. on the first day of classes.
 
@@ -36,9 +30,9 @@ Should you decide to opt out of the Middlebury Institute Student Health Insuranc
 
 If enrolling in health insurance is a new experience for you, we suggest doing some general research about U.S. health insurance first.
 
-- [Health Insurance 101](https://thebenefitbrokers.com/Health_Insurance_101/)
-- [5 minute health insurance video overview](https://www.youtube.com/watch?v=DBTmNm8D-84)
-- Health Insurance information and [options for college students](https://www.policygenius.com/blog/4-health-insurance-options-for-college-students/), specifically
+* [Health Insurance 101](https://thebenefitbrokers.com/Health_Insurance_101/)
+* [5 minute health insurance video overview](https://www.youtube.com/watch?v=DBTmNm8D-84)
+* Health Insurance information and [options for college students](https://www.policygenius.com/blog/4-health-insurance-options-for-college-students/), specifically
 
 The following are helpful links for obtaining private health insurance:
 

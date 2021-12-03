@@ -14,7 +14,7 @@ collections:
     label: "I. Middlebury Wide Policies"
     folder: "content/i-policies-for-all"
     path: "{{slug}}/"
-    create: true
+    create: false
     fields:
       - {
           label: "Title",
@@ -24,18 +24,25 @@ collections:
           required: false,
         }
       - {
+          label: "Date Edited",
+          name: "date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "L",
+          required: false,
+        }
+      - {
           label: "Text",
           name: "body",
-          widget: "markdown",
-          buttons: ["heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "bold", "italic", "link", "bulleted-list", "numbered-list"],
-          editor_components: ["table"],
+          widget: "CKEditor",
           required: false,
         }
   - name: "undergraduate-college"
     label: "II. Policies for the Undergraduate College"
     folder: "content/ii-ug-college-policies"
     path: "{{slug}}/{{slug}}/{{slug}}/"
-    create: true
+    create: false
     fields:
       - {
           label: "Title",
@@ -45,18 +52,25 @@ collections:
           required: false,
         }
       - {
+        label: "Date Edited",
+        name: "date",
+        widget: "datetime",
+        date_format: "YYYY-MM-DD",
+        time_format: false,
+        format: "L",
+        required: false,
+        }
+      - {
           label: "Text",
           name: "body",
-          widget: "markdown",
-          buttons: ["heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "bold", "italic", "link", "bulleted-list", "numbered-list"],
-          editor_components: ["table"],
+          widget: "CKEditor",
           required: false,
         }
   - name: "language-schools"
     label: "III. Policies for the Language Schools"
     folder: "content/iii-policies-for-the-language-schools"
     path: "{{slug}}/"
-    create: true
+    create: false
     fields:
       - {
           label: "Title",
@@ -66,17 +80,25 @@ collections:
           required: false,
         }
       - {
+          label: "Date Edited",
+          name: "date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "L",
+          required: false,
+        }
+      - {
           label: "Text",
           name: "body",
-          widget: "markdown",
-          editor_components: [],
+          widget: "CKEditor",
           required: false,
         }
   - name: "miis-policies"
     label: "IV. Policies for the Institute of International Studies"
     folder: "content/iv-policies-for-the-institute"
     path: "{{slug}}/{{slug}}/"
-    create: true
+    create: false
     fields:
       - {
           label: "Title",
@@ -86,18 +108,25 @@ collections:
           required: false,
         }
       - {
+        label: "Date Edited",
+        name: "date",
+        widget: "datetime",
+        date_format: "YYYY-MM-DD",
+        time_format: false,
+        format: "L",
+        required: false,
+        }
+      - {
           label: "Text",
           name: "body",
-          widget: "markdown",
-          buttons: ["heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "bold", "italic", "link", "bulleted-list", "numbered-list"],
-          editor_components: ["table"],
+          widget: "CKEditor",
           required: false,
         }
   - name: "previous-handbooks"
     label: "Previous Handbooks"
     folder: "content/v-handbook-archive"
     path: "{{slug}}/"
-    create: true
+    create: false
     fields:
       - {
           label: "Title",
@@ -107,10 +136,17 @@ collections:
           required: false,
         }
       - {
+        label: "Date Edited",
+        name: "date",
+        widget: "datetime",
+        date_format: "YYYY-MM-DD",
+        time_format: false,
+        format: "L",
+        required: false,
+        }
+      - {
           label: "Text",
           name: "body",
-          widget: "markdown",
-          buttons: ["heading-one", "heading-two", "heading-three", "heading-four", "heading-five", "heading-six", "bold", "italic", "link", "bulleted-list", "numbered-list"],
-          editor_components: ["table"],
+          widget: "CKEditor",
           required: false,
         }

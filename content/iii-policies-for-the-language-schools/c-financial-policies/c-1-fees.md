@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iii-policies-for-the-language-schools/c-financial-policies/c-1-fees"
-date: "2021-05-01"
-title: "C.1 Fees"
+slug: /pages/iii-policies-for-the-language-schools/c-financial-policies/c-1-fees
+date: 2021-05-01
+title: C.1 Fees
 ---
-
 Students assume full responsibility for the payment of their bills by the due date. Without payment, students cannot register for courses or receive student ID cards.
 
 **Extra Course Fees**

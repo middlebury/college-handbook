@@ -1,9 +1,8 @@
 ---
-slug: "/pages/i-policies-for-all/health-safety/weapons"
-date: "2021-05-01"
-title: "C.6. Weapons Policy"
+slug: /pages/i-policies-for-all/health-safety/weapons
+date: 2021-05-01
+title: C.6. Weapons Policy
 ---
-
 The use and possession of weapons are prohibited on Middlebury property and at Middlebury sponsored events, including in motor vehicles. Antique, imitation, and replicas of weapons are also prohibited unless they are possessed or stored in accordance to the Exceptions section below. Discovery of a weapon on Middlebury property or carried by a person (openly or concealed) on Middlebury property, or at Middlebury sponsored events, or any other violation of the weapons policy, shall result in confiscation of the weapon. Disciplinary action against the owner and/or person in possession may be taken, which may include but not be limited to removal from Middlebury property, arrest, expulsion, suspension, probation, discipline, dismissal or termination.
 
 This policy applies to all faculty, staff, students, employees, and visitors at all Middlebury property, including those who have a valid permit to carry a concealed weapon. This policy shall not apply to a law enforcement officer while engaged in law enforcement duties, or an active duty member of the armed forces.

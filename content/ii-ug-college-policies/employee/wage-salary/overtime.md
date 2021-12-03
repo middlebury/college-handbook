@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/wage-salary/overtime"
-date: "2021-05-01"
-title: "6.3 Eligibility for Overtime and FLSA Compliance"
+slug: /pages/ii-ug-college-policies/employee/wage-salary/overtime
+date: 2021-05-01
+title: 6.3 Eligibility for Overtime and FLSA Compliance
 ---
-
 Middlebury College conforms to all terms of the Fair Labor Standards Act (also known as the Federal Wage and Hour Law), including the payment of minimum wages and overtime pay. These laws establish the criteria for determining which positions are "non-exempt" (eligible to receive overtime pay), and which are "exempt" (not eligible to receive overtime pay). Human Resources is responsible for ensuring compliance with such laws, including the determination of exempt and non-exempt status. Direct questions concerning exempt and non-exempt status of positions to Human Resources.
 
 Executive, administrative, and professional positions that meet specific federal criteria are exempt positions and will be paid a fixed salary based on a standard number of hours worked per pay period. No overtime is paid for hours worked in excess of a standard 40-hour week.

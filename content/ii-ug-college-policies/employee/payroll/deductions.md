@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/payroll/deductions"
-date: "2021-05-01"
-title: "5.2 Deductions"
+slug: /pages/ii-ug-college-policies/employee/payroll/deductions
+date: 2021-05-01
+title: 5.2 Deductions
 ---
-
 Certain deductions, required by law or elected by the employee, will be made automatically from the paycheck. These include:
 
 1\. **_Federal and State Taxes_**

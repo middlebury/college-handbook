@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/ug-policies/academics/acad-honesty"
-date: "2021-05-01"
-title: "B.1.a. Academic Honesty, the Honor Code, and Related Disciplinary Policies"
+slug: /pages/ii-ug-college-policies/ug-policies/academics/acad-honesty
+date: 2021-05-01
+title: B.1.a. Academic Honesty, the Honor Code, and Related Disciplinary Policies
 ---
-
 _Last updated August 22, 2017_
 
 **A. Introduction**
@@ -16,37 +15,37 @@ As an academic community devoted to the life of the mind, Middlebury requires of
 
 Any student action that does not reflect complete intellectual honesty in the preparation and submission of all academic work is prohibited.  Although the definitions below are provided to offer clarity, they are not intended to be exhaustive. Faculty members may define additional actions as Academic Honesty violations for their particular departments and courses as appropriate.
 
-<span style="text-decoration:underline">a. Plagiarism</span>  
+**a. Plagiarism**
 Plagiarism is intentionally or unintentionally representing the ideas, research, language, creations, or inventions of another person as one's own. In written work and oral and artistic presentations, even a single sentence or key phrase, idea, image, or sound taken from the work of another without specific citation of the source and quotations around verbatim language constitutes plagiarism. It makes no difference whether the source is a student, a professional, or a source with no clear designated author.
 
 Although it does not involve reproducing language verbatim, paraphrasing is the close restatement of another's idea using approximately the language and/or structure of the original. Paraphrasing without acknowledgment of authorship is also plagiarism and is as serious a violation as an unacknowledged quotation.
 
-<span style="text-decoration:underline">b. Cheating</span>  
+**b. Cheating**  
 Cheating is defined as giving, receiving, or attempting to give or receive any aid unauthorized by the instructor for any assigned work. On assignments other than exams, academic assistance from the staff of the Center for Teaching, Learning and Research (CTLR) and from Middlebury’s professional librarians is considered authorized aid unless an assignment or course clearly indicates otherwise.
 
-<span style="text-decoration:underline">c. Duplicate Use of Work</span>  
+**c. Duplicate Use of Work**  
 Any work submitted to meet the requirements of a particular course is expected to be original work completed for that course. Students who wish to incorporate any portion of their own previously developed work into a new assignment must consult with the involved faculty members to establish appropriate expectations and parameters. The same work, or substantially similar work, may not be used to meet the requirements of two different courses.
 
-<span style="text-decoration:underline">d. Falsifying Data  
-</span>The collection and analysis of data are fundamental aspects of many types of research. It is the researcher’s responsibility to ensure that data are recorded and documented accurately. Fabrication, misrepresentation or falsification of data, and practices that significantly deviate from those that are commonly accepted in the academic community, are prohibited.  “Data” includes but is not limited to laboratory research, human subjects research, and fieldwork.
+**d. Falsifying Data**  
+The collection and analysis of data are fundamental aspects of many types of research. It is the researcher’s responsibility to ensure that data are recorded and documented accurately. Fabrication, misrepresentation or falsification of data, and practices that significantly deviate from those that are commonly accepted in the academic community, are prohibited.  “Data” includes but is not limited to laboratory research, human subjects research, and fieldwork.
 
 **_2\. Student Responsibilities_**
 
-<span style="text-decoration:underline">Expectations</span>: All assignments should be the work of the individual student, unless otherwise directed by the instructor. Students are responsible for ensuring that their work does not involve plagiarism, cheating, or duplication of their own previous work. Students with questions relating to correct citation of sources, proper recognition of collaborative work on assignments, paraphrasing, authorized aid, utilization of their own prior work, or any other aspect of an academic assignment should consult with the professor for whom they are preparing work. Ignorance of the nature of plagiarism or of Middlebury’s policies may not be offered as a mitigating circumstance.
+**Expectations**: All assignments should be the work of the individual student, unless otherwise directed by the instructor. Students are responsible for ensuring that their work does not involve plagiarism, cheating, or duplication of their own previous work. Students with questions relating to correct citation of sources, proper recognition of collaborative work on assignments, paraphrasing, authorized aid, utilization of their own prior work, or any other aspect of an academic assignment should consult with the professor for whom they are preparing work. Ignorance of the nature of plagiarism or of Middlebury’s policies may not be offered as a mitigating circumstance.
 
-<span style="text-decoration:underline">Honor Code Pledge</span>: The Honor Code pledge reads as follows: "I have neither given nor received unauthorized aid on this assignment." It is the responsibility of the student to write out in full, adhere to, and sign the Honor Code pledge on all examinations, research papers, and laboratory reports. Faculty members reserve the right to require the signed Honor Code pledge on other kinds of academic work.
+**Honor Code Pledge**: The Honor Code pledge reads as follows: "I have neither given nor received unauthorized aid on this assignment." It is the responsibility of the student to write out in full, adhere to, and sign the Honor Code pledge on all examinations, research papers, and laboratory reports. Faculty members reserve the right to require the signed Honor Code pledge on other kinds of academic work.
 
-<span style="text-decoration:underline">Community Accountability</span>: Academic integrity is the foundation of a healthy intellectual community. One individual’s intellectual dishonesty erodes that foundation and negatively affects all community members. Therefore, in addition to adhering to the Academic Honesty Policy themselves, the student-written Constitution of the Undergraduate Honor Code states that “Any member of the College community (student, faculty, or administrator) who is aware of a case of academic dishonesty is morally obligated to report it to the professor or the judicial affairs officer.”
+**Community Accountability**: Academic integrity is the foundation of a healthy intellectual community. One individual’s intellectual dishonesty erodes that foundation and negatively affects all community members. Therefore, in addition to adhering to the Academic Honesty Policy themselves, the student-written Constitution of the Undergraduate Honor Code states that “Any member of the College community (student, faculty, or administrator) who is aware of a case of academic dishonesty is morally obligated to report it to the professor or the judicial affairs officer.”
 
 **_3\. Faculty Responsibilities_**
 
-<span style="text-decoration:underline">Expectations</span>: At the beginning of each term, professors s are strongly encouraged to discuss and include on their syllabus their expectations of academic honesty as they relate to the course and to Middlebury’s policies They are also encouraged to orient students to issues of academic integrity, source attribution, and authorized resources that may be particular to their academic field and to the assignments of the class. In the absence of specific verbal or written instruction from a faculty member, the language of this Academic Honesty Policy applies.
+**Expectations**: At the beginning of each term, professors s are strongly encouraged to discuss and include on their syllabus their expectations of academic honesty as they relate to the course and to Middlebury’s policies They are also encouraged to orient students to issues of academic integrity, source attribution, and authorized resources that may be particular to their academic field and to the assignments of the class. In the absence of specific verbal or written instruction from a faculty member, the language of this Academic Honesty Policy applies.
 
-<span style="text-decoration:underline">Honor Code Pledge</span>: Faculty reserve the right to require the signed Honor Code pledge before grading any assigned academic work.
+**Honor Code Pledge**: Faculty reserve the right to require the signed Honor Code pledge before grading any assigned academic work.
 
-<span style="text-decoration:underline">Community Accountability</span>: Middlebury faculty members who suspect a student of violating Middlebury’s Academic Honesty Policy are expected to contact a judicial affairs officer to discuss their concerns.<span style="text-decoration:line-through"></span>
+**Community Accountability**: Middlebury faculty members who suspect a student of violating Middlebury’s Academic Honesty Policy are expected to contact a judicial affairs officer to discuss their concerns.
 
-**<a name="ughonor" id="ughonor"></a>C. Undergraduate Honor System**
+#### **C. Undergraduate Honor System** {#ughonor}
 
 **Constitution of the Undergraduate Honor System**
 

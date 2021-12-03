@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/faculty/contract-policy"
-date: "2021-05-01"
-title: "C.13. Grants & Contracts"
+slug: /pages/ii-ug-college-policies/faculty/contract-policy
+date: 2021-05-01
+title: C.13. Grants & Contracts
 ---
-
 **_Please note:_** In light of ongoing changes in federal regulations and administrative structure, this section may be revised periodically. Please check with the dean for faculty development and research, or the Office of Grants and Sponsored Programs if you have questions regarding administrative policies or procedures.
 
 **1\.** The vice president for academic affairs (VPAA), and the dean for faculty development and research (DFDR), have overall responsibility for applications requesting funds from government agencies, foundations, corporations, and other sources. Day-to-day responsibilities are delegated to the Office of Grants and Sponsored Programs, which will work with faculty to assist with grant applications and the administration of funded grants and contracts. When notification of an available program comes directly to a department and the department wishes to make application for a grant, the Office of Grants and Sponsored Programs should be notified of this intent as soon as possible (not later than one month in advance of the closing date for the application). Scheduling should be coordinated with the Office of Grants and Sponsored Programs to allow two weeks for the review of draft proposals in appropriate administrative offices. Direct and indirect costs must be computed following sponsor and Middlebury policies, and, in cases for which matching funds or other commitments are required, the necessary administrative approvals must be obtained.

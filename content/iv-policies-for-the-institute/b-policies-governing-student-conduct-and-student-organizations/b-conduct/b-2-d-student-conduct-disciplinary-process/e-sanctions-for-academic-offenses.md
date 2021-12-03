@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-d-student-conduct-disciplinary-process/e-sanctions-for-academic-offenses"
-date: "2021-05-01"
-title: "E. Sanctions for Academic Offenses"
+slug: /pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-d-student-conduct-disciplinary-process/e-sanctions-for-academic-offenses
+date: 2021-05-01
+title: E. Sanctions for Academic Offenses
 ---
-
 Students found responsible for academic dishonesty offenses are subject to the penalties listed below.
 
 Plagiarism, cheating, or any other type of academic dishonesty violations are normally punishable by suspension. The adjudicating body is responsible for recommending the most appropriate sanction within the parameters noted below with the dean of the relevant school making the final sanction determination.

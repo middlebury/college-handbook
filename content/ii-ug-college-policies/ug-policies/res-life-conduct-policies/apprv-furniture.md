@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies/apprv-furniture"
-date: "2021-05-01"
-title: "Approved Furniture"
+slug: /pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies/apprv-furniture
+date: 2021-05-01
+title: Approved Furniture
 ---
-
 1.  Ping pong, foosball and pool tables are allowed in designated areas of social houses and some senior houses only.
 2.  Tables are never allowed in rooms, suites, or lounges of residence halls. Tables found in unauthorized areas will be considered in violation of fire safety regulations and will be confiscated and disposed of by Middlebury officials, and fines will be assessed.
 3.  Lofts and water beds are not permitted in campus residences.

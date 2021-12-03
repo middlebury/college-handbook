@@ -1,18 +1,14 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-c-student-conduct-policy-overview"
-date: "2021-05-01"
-title: "B.2.b. Student Conduct Policy Overview"
+slug: /pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-c-student-conduct-policy-overview
+date: 2021-05-01
+title: B.2.b. Student Conduct Policy Overview
 ---
-
 All members of the Middlebury Institute student community shall:
 
-- Adhere to and help maintain a high level of personal and professional behavior that is respectful of the dignity of all persons
-
-- Respect the rights and property of others
-
-- Treat equally the ideas, feelings and opinions of all students who work and study at the Institute and their right to live and study in conditions that support their work and development
-
-- Refrain from and discourage behaviors that threaten freedom and respect every individual
+* Adhere to and help maintain a high level of personal and professional behavior that is respectful of the dignity of all persons
+* Respect the rights and property of others
+* Treat equally the ideas, feelings and opinions of all students who work and study at the Institute and their right to live and study in conditions that support their work and development
+* Refrain from and discourage behaviors that threaten freedom and respect every individual
 
 The Student Conduct Policy promotes a campus environment that supports the overall educational mission of the Middlebury Institute and intends to help protect the Institute community from disruption and harm, to encourage appropriate standards of individual and group behavior, and to foster ethical standards.
 
@@ -32,7 +28,7 @@ Faculty and administrative officials should ensure that positional authority is 
 
 Students will be held accountable for policy violations that take place between the time they first arrive on campus to begin their Institute program and their graduation or official program completion, or the Institute’s confirmation of their resignation or expulsion. Conduct that takes place on or near Institute premises or property; occurs at or in connection with an Institute-related event; or occurs off-campus but may represent a threat to the safety of the Institute community or its members, the pursuit of its objectives, and/or the educational environment of others, may be subject to Institute’ disciplinary process. In cases where a student is found responsible for a policy violation while participating in any Institute or non-Institute program, the finding of responsibility may also be referred to the appropriate authority overseeing any additional Institute program in which the student is or will also be enrolled for other action as deemed appropriate. This may include but is not limited to: further investigation; additional adjudication under existing policies (using only information gathered in the first disciplinary process, or using subsequently gathered information, or both, as deemed appropriate by the overseeing authority); disciplinary action; or other remedies or processes deemed appropriate by the authority overseeing the additional Institute program.
 
-Students should report Institute employee conduct issues directly to the Human Resources Manager in the Human Resources Department at (831) 647-3520 or <a>hr@miis.edu</a>.
+Students should report Institute employee conduct issues directly to the Human Resources Manager in the Human Resources Department at (831) 647-3520 or [hr@miis.edu](mailto:hr@miis.edu).
 
 #### **C. Pending Discipline**
 

@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/a-general"
-date: "2021-05-01"
-title: "B.1. General Policies"
+slug: /pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/a-general
+date: 2021-05-01
+title: B.1. General Policies
 ---
-
 All students at the Institute are responsible for knowing and complying with all [Middlebury-Wide Policies](/pages/i-policies-for-all) as well as the policies of the Institute.
 
 #### **A. Bike Policy**
@@ -12,13 +11,13 @@ Bikes may not be left on campus overnight. Campus Security will impound any bike
 
 #### **B. Classroom Policy (Guests in the Classroom)**
 
-<span style="text-decoration:underline">1\. Children
+**1\. Children**
 
 Children are not permitted to attend or be present during MIIS classes unless they have the prior consent of the responsible faculty member.  Only in the event of an emergency and/or non-routine situation may an individual seek an exception to this policy.
 
 Children are also not permitted in quiet study spaces, such as the Library, the Samson Center Reading Room, and the McGowan Lobby. Children are permitted in common areas, such as the Samson Center Dining Room, the Holland Center, and the garden, as long as they are supervised by a Middlebury Institute parent or guardian. 
 
-<span style="text-decoration:underline">2\. Other Guests
+**2\. Other Guests**
 
 Middlebury Institute faculty members have the authority to decide if guests may be allowed in the classroom.
 
@@ -26,7 +25,7 @@ When making such a determination, the faculty member will consider issues of saf
 
 In the event permission is granted by the faculty member to bring a guest to a classroom, it is the responsibility of the guest’s sponsor/host to make sure the guests do not disrupt the educational environment of the class. If the guests do cause a disruption, the faculty member shall request or insist that the guest(s) leave or be removed from the classroom.
 
-<span style="text-decoration:underline">3\. Pets
+**3\. Pets**
 
 Pets are not allowed on campus, except when it is a service animal as defined by the [Service & Assistance Animals Policy](/pages/i-policies-for-all/non-discrim-policies/svc-assist-animals).
 

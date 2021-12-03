@@ -1,9 +1,8 @@
 ---
-slug: "/pages/v-handbook-archive"
-date: "2021-05-01"
-title: "Previous Handbooks"
+slug: /pages/v-handbook-archive
+date: 2021-05-01
+title: Previous Handbooks
 ---
-
 ### ![](https://www.middlebury.edu/modules/file/icons/application-pdf.png) [College Handbook 2016-2017 (as of June 2017)](https://www.middlebury.edu/system/files/media/collegehandbookmiddlebury2016_2017.pdf)
 
 College Handbook 2016-2017, as presented on the Middlebury College Web site (June 2017)

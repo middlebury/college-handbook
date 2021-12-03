@@ -3,34 +3,41 @@ slug: "/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/gener
 date: "2021-05-01"
 title: "B.2.d. Student Conduct Process"
 ---
+---
+
+**TABLE OF CONTENTS**
+
+[**I. Introduction to Middlebury Student Discipline Processes**](#intro)
+
+* [a. Overview](#overview)
+[**II. Preliminary Issues**](#prelimissues)
+* [a. Applicability of These Procedures](#applicability)
+* [b. Administrative resolution](#adminresolution)
+* [c. No Contact Orders](#NCO)
+* [d. Legal Proceedings and Legal Counsel](#legalproceedings)
+* [e. Cooperation and Honesty](#cooperation)
+* [f. Principles of Fundamental Fairness](#fairness)
+
+[**III. Charges and Evidence**](#chargesevidence)
+
+[**IV. Restorative Resolutions**](#restorativeresolutions)
+
+[**V. Dean’s Dispositions**](#deansdisposition)
+
+[**VI. The Judicial Board**](#judicialboard)
+
+* [a. Composition](#composition)
+* [b. Hearing Procedures](#hearingprocedures)
+
+[**VII. Sanctions**](#sanctions)
+
+[**VIII. Appeals**](#appeals)
 
 ---
 
-<p><strong>TABLE OF CONTENTS</strong></p>
-<p><a href="#intro"><strong>I. Introduction to Middlebury Student Discipline Processes</strong></a></p>
-<p style="padding-left:30px"><a href="#overview">a. Overview</a></p>
-<p><a href="#prelimissues"><strong>II. Preliminary Issues</strong></a></p>
-<p style="padding-left:30px"><a href="#applicability">a. Applicability of These Procedures</a></p>
-<p style="padding-left:30px"><a href="#adminresolution">b. Administrative resolution</a></p>
-<p style="padding-left:30px"><a href="#NCO">c. No Contact Orders</a></p>
-<p style="padding-left:30px"><a href="#legalproceedings">d. Legal Proceedings and Legal Counsel</a></p>
-<p style="padding-left:30px"><a href="#cooperation">e. Cooperation and Honesty</a></p>
-<p style="padding-left:30px"><a href="#fairness">f. Principles of Fundamental Fairness</a></p>
-<p><a href="#chargesevidence"><strong>III. Charges and Evidence</strong></a></p>
-<p><a href="#restorativeresolutions"><strong>IV. Restorative Resolutions</strong></a></p>
-<p><a href="#deansdisposition"><strong>V. Dean’s Dispositions</strong></a></p>
-<p><a href="#judicialboard"><strong>VI. The Judicial Board</strong></a></p>
-<p style="padding-left:30px"><a href="#composition">a. Composition</a></p>
-<p style="padding-left:30px"><a href="#hearingprocedures">b. Hearing Procedures</a></p>
-<p><a href="#sanctions"><strong>VII. Sanctions</strong></a></p>
-<p><a href="#appeals"><strong>VIII. Appeals</strong></a></p>
-<p><strong>&nbsp;</strong></p>
+## I. Introduction to Middlebury Student Discipline Processes {#intro}
 
----
-
-## <a name="intro" id="intro"></a>I. Introduction to Middlebury Student Discipline Processes
-
-### <a name="overview" id="overview"></a>a. Overview
+### a. Overview {#overview}
 
 Middlebury strives to balance individual growth with community health and growth, through our shared [Community Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a-introductory-matters), [Middlebury-Wide Policies](/pages/i-policies-for-all), [General Conduct Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) for students, and the student discipline procedures that enforce general conduct expectations. Our discipline processes are intended to be educational, first and foremost. Where other Middlebury policies specify separate procedures, those procedures will apply.
 
@@ -40,23 +47,23 @@ Concerns about student behavior should be shared with the Office of Community St
 
 Conduct matters may be resolved in several ways.  Restorative justice may be available for both academic and non-academic issues.  Conduct issues where the relevant facts are not in dispute will ordinarily be resolved by the assignment of a sanction from the Office of Community Standards.  If a student is assigned a sanction of official college discipline, they may appeal that sanction to the appropriate Vice-President or Dean.  For conduct issues where the facts are disputed, a hearing will be held before the Judicial Board.  The Board will determine the facts and make a recommendation regarding sanction to the Office of Community Standards.  Procedures for Judicial Board hearings are outlined below.
 
-## <a name="prelimissues" id="prelimissues"></a>II. Preliminary Issues
+## II. Preliminary Issues {#prelimissues}
 
-### <a name="applicability" id="applicability"></a>a. Applicability of These Procedures
+### a. Applicability of These Procedures {#applicability}
 
 As described in [Section B.2.a.iii, Scope of Oversight](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a-introductory-matters), students will be held accountable for policy violations that take place between the time they first arrive on campus to begin their Middlebury program and their graduation, or the College's confirmation of their withdrawal or resignation.  As described in [Section B.2.a.iv, Pending Discipline](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a-introductory-matters), a student respondent will not be permitted to graduate from or otherwise be deemed to have officially completed a Middlebury program in which they are enrolled while a disciplinary matter is pending.
 
-### <a name="adminresolution" id="adminresolution"></a>b. Administrative resolution
+### b. Administrative resolution {#adminresolution}
 
 In certain circumstances, the Office of Community Standards (or the Vice President for Student Affairs/DOS) has discretion to charge an appropriate Middlebury Vice President/Dean, such as the Vice President for Academic Affairs/Dean of the Faculty, to adjudicate a matter. Such circumstances may include adjudicating a matter with compelling privacy interests, such as a case of sexual exploitation, or an alleged violation of an active NCO after the conclusion of an SMDVS investigation, or adjudicating an alleged academic conduct violation during the summer when there are compelling circumstances, etc. While the adjudication process will be tailored to the particular circumstances of the matter, it will adhere to the principle of fundamental fairness for the parties involved. In these cases, the Office of Community Standards or Vice President for Student Affairs may also adjust the sanctioning and appellate authority as necessary.
 
-### <a name="NCO" id="NCO"></a>c. No Contact Orders
+### c. No Contact Orders {#NCO}
 
 When a verbal or physical altercation, sexual misconduct, stalking, harassment, discrimination, retaliation, or hazing has been alleged, or when otherwise deemed appropriate under the circumstances, the VPSA, dean of students, student life deans, Human Relations Officers, Civil Rights/Title IX coordinator, Assistant Director for Student Success and members of the Public Safety staff have the authority to issue No Contact Orders to the persons involved, whether or not disciplinary action is taken. A No Contact Order is used to restrict encounters between individuals. While a No Contact Order is not a disciplinary sanction, and will not appear on a student’s disciplinary record, refusal to adhere to the order after written or verbal notification of its terms is prohibited and may result in disciplinary action.
 
 No Contact Orders ordinarily remain in effect until all, or all but one, of the involved students is permanently separated from the College through graduation, resignation, transfer or expulsion, at which time NCOs are closed and archived. No Contact Orders can be modified by those with the authority to issue them in response to changes in the parties’ circumstances, and can be rescinded by the issuing authority at the request of both parties to the No Contact Order. If a No Contact Order is in place between parties in an active adaptable resolution process, any communication between parties that is coordinated by an adaptable resolution facilitator will not be considered a violation of the No Contact Order.
 
-### <a name="legalproceedings" id="legalproceedings"></a>d. Legal Proceedings and Legal Counsel
+### d. Legal Proceedings and Legal Counsel {#legalproceedings}
 
 Middlebury College disciplinary action is distinct from and not dependent upon the outcome of any legal proceedings involving a student, although conduct that forms the basis for legal proceedings may also warrant disciplinary action by Middlebury, and conviction of a crime may in itself justify disciplinary action.
 
@@ -64,17 +71,17 @@ Individual students may pursue criminal or civil legal action, or be required to
 
 Middlebury endeavors to provide general supports to students involved in personal legal proceedings but has no role to play in such actions, and may not interfere in them.   Middlebury officials and other students may, like all persons, be compelled to give testimony or evidence if subject to the subpoena power of a court.
 
-### <a name="cooperation" id="cooperation"></a>e. Cooperation and Honesty
+### e. Cooperation and Honesty {#cooperation}
 
 Consistent with Middlebury’s core requirement of honesty and cooperation, students are expected to cooperate in all disciplinary proceedings, be honest and straightforward in their participation, and provide accurate information.  The provision of false or misleading information to the Office of Community Standards or the Judicial Board may itself be grounds for disciplinary action.  Deliberate violations of this provision are considered serious offenses.
 
-### <a name="fairness" id="fairness"></a>f. Principles of Fundamental Fairness
+### f. Principles of Fundamental Fairness {#fairness}
 
 Middlebury’s discipline procedures are driven by our commitment to fundamental fairness.  Among the considerations weighed by the Vice President for Student Affairs in establishing these procedures are: (1) ensuring that Middlebury’s conduct expectations are reasonable, (2) ensuring that students have reasonable notice (they know or should have known) about the conduct expectations, (3) providing that disciplinary procedures are carried out by individuals who are properly trained and authorized to act, (4) utilizing procedures that result in outcomes based on meaningful evidence, and (5) ensuring that students have notice of the charges against them, as well as an opportunity to present evidence, and (6) providing for appeals in processes that result in a sanction of official College discipline.
 
 Colleges are not courts of law, and Middlebury’s disciplinary proceedings have as their fundamental goal _education_, rather than criminal punishment or compensation.  Middlebury does not have the power to subpoena evidence or place witnesses under oath, and procedures are therefore necessarily different from a civil or criminal legal proceeding. However, the procedures outlined below and in the [TIX Sexual Harassment Investigations and Resolutions Procedure](/pages/i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy), as well as the [Non-Discrimination Investigations and Resolutions Procedure](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin), are designed to provide fundamental fairness and to protect students from arbitrary or capricious disciplinary action. All disciplinary authorities of Middlebury, including judicial board members, deans and Human Relations Officers conduct their proceedings in the spirit of these principles. If exceptional circumstances dictate variation from these procedures, the variation will not invalidate a decision unless it prevented fundamental fairness.
 
-## <a name="chargesevidence" id="chargesevidence"></a>III. Charges and Evidence
+## III. Charges and Evidence {#chargesevidence}
 
 a. Concerns regarding student behavior may be brought to the Office of Community Standards by any individual, whether or not they are a member of the Middlebury College community.
 
@@ -88,7 +95,7 @@ e. The Office of Community Standards will ordinarily notify the student with a w
 
 f. Formal or legal rules of evidence do not apply in Middlebury disciplinary proceedings.  The Office of Community Standards is responsible for administering procedures to ensure they are based on meaningful evidence.  If a hearing occurs, the chair will make decisions on evidentiary or procedural questions that must be resolved during the hearing.  The majority of the Board may override the chair’s decision, if they disagree.
 
-## <a name="restorativeresolutions" id="restorativeresolutions"></a>IV. Restorative Resolutions
+## IV. Restorative Resolutions {#restorativeresolutions}
 
 a. If a student accepts responsibility for violating academic or non-academic policy, a Restorative Justice Panel (RJP) may be called to explore and identify the harm to individuals and/or community, and work with the responsible party to design an action plan and outcomes to repair harm caused.
 
@@ -100,7 +107,7 @@ d. All action plans must be approved by the Office of Community Standards. Stude
 
 e. Restorative Panels will be comprised by one faculty, one staff, and two student members of the current Judicial Board.
 
-## <a name="deansdisposition" id="deansdisposition"></a>V. Dean’s Dispositions
+## V. Dean’s Dispositions {#deansdisposition}
 
 a. After written notice of the concern or charges against them, and the student’s opportunity to provide evidence, the Office of Community Standards will determine whether there are disputed facts at issue.
 
@@ -114,9 +121,9 @@ e. If the sanction is a form of official College discipline for academic miscond
 
 f. If the sanction is a form of official College discipline for non-academic misconduct, the respondent may appeal the determination of responsibility to the VPSA or Dean of Students, as described below.
 
-## <a name="judicialboard" id="judicialboard"></a>VI. The Judicial Board
+## VI. The Judicial Board {#judicialboard}
 
-### <a name="composition" id="composition"></a>a. Composition
+### a. Composition {#composition}
 
 i. The Judicial Board is comprised of students, faculty and staff, specifically: (1) a member of the faculty or academic administration appointed by the president of Middlebury, (2) two faculty members, (3) four students, (4) a dean of student life, and (5) a staff member.  There will be two student alternates, one faculty alternate, and one staff alternate.  Alternates will only substitute for absent members of their own constituency.  Either the presidential appointee or a dean of student life shall serve as the chair of the Judicial Board.
 
@@ -133,7 +140,7 @@ iv. Quorum:  Seven members of the Board shall constitute a quorum, of whom at l
 
 v. Disqualification:   Any member of the Judicial Board who has a conflict of interest in a particular proceeding is disqualified from sitting on that case. If a member of the Board is disqualified, normally an alternate member from the same constituency will be selected to participate. If all of the deans of student life are disqualified from sitting on the Judicial Board in a particular proceeding, the VPSA/DOS will appoint a member of the administration to fulfill the duties of the representative from the Office of the Dean of Students/VPSA. If the faculty or administrative co-chair is disqualified from sitting on the Board in a particular proceeding, the VPSA/DOS will appoint a member of the academic administration to perform the duties of the administrative co-chair in that case.
 
-### <a name="hearingprocedures" id="hearingprocedures"></a>b. Hearing Procedures
+### b. Hearing Procedures {#hearingprocedures}
 
 i. The Office of Community Standards administers hearings, including but not limited to assisting in scheduling, identifying and approving witnesses, providing required notice to parties, witnesses and Board members, identifying and preparing materials to be reviewed by the Board, and offering access to those materials to the parties.  Staff of the Office must be present during deliberations of the Board and may provide procedural advice to the Board, to ensure consistency and equity.  Staff of the Office serve as secretary to the Board, to formally record factual findings and recommendations of the Board regarding sanction.  Hearings and all Board deliberations are confidential.
 
@@ -165,7 +172,7 @@ xiv. If a hearing results in a finding of not responsible, there will be no reco
 
 xv. The Office of Community Standards will ordinarily give written notification of the determination of the Board, and the sanction assigned by the Office, to the student charged.  Failure to meet this guideline does not invalidate a decision or form a basis for appeal.
 
-## <a name="sanctions" id="sanctions"></a>VII. Sanctions
+## VII. Sanctions {#sanctions}
 
 Middlebury College’s sanctions are generally described in Section B. 2\. e. of the Handbook and the information below is specific to conduct matters addressed under this process.
 
@@ -177,7 +184,7 @@ c. Sanctions are ordinarily issued by the Office of Community Standards.  Howev
 
 d. Plagiarism, cheating, or any other violation of the Undergraduate Honor System is normally punishable by suspension. In 1997, the faculty reaffirmed its commitment to suspension as the normal outcome for violations of the standards of academic integrity. Students found guilty of academic dishonesty will normally fail the course in which the offense occurred.  On rare occasions, if compelling reasons exist for not suspending a student found guilty of academic dishonesty, the sanctioning authority may issue no less than a reprimand and invoke either of the following penalties: a 0 or an F on the piece of work, or a 0 or an F in the course.
 
-## <a name="appeals" id="appeals"></a>VIII. Appeals
+## VIII. Appeals {#appeals}
 
 a. Appeals are reviewed by Middlebury authorities who did not participate in the initial determination, and are trained to be impartial and free from a conflict of interest.
 

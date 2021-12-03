@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/employment/internal-career"
-date: "2021-05-01"
-title: "2.17 Internal Career Opportunities"
+slug: /pages/ii-ug-college-policies/employee/employment/internal-career
+date: 2021-05-01
+title: 2.17 Internal Career Opportunities
 ---
-
 _Filling a position:_ Human Resources, in coordination with the hiring department and area vice president, facilitates recruitment.
 
 _Faculty recruitment:_ The vice president for Academic Affairs / dean of faculty, in conjunction with department chairs, handles faculty recruitment. Faculty vacancies are posted on the [Academic Affairs web page](https://www.middlebury.edu/academics/administration/prospective_faculty/employment).

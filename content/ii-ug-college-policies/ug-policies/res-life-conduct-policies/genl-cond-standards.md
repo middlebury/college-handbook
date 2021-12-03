@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards"
-date: "2021-05-01"
-title: "B.2.b. General Conduct Policy"
+slug: /pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards
+date: 2021-05-01
+title: B.2.b. General Conduct Policy
 ---
-
 ### A. Respect for Persons
 
 All students, as members of the Middlebury community, are expected to respect the dignity, freedom, and rights of others.

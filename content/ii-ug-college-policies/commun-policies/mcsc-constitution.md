@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/commun-policies/mcsc-constitution"
-date: "2021-05-01"
-title: "A.5. Middlebury Staff Council (MSC) Constitution"
+slug: /pages/ii-ug-college-policies/commun-policies/mcsc-constitution
+date: 2021-05-01
+title: A.5. Middlebury Staff Council (MSC) Constitution
 ---
-
 **Article I. Name**
 
 The name of this organization is the Middlebury Staff Council (hereinafter referred to as MSC).

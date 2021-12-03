@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/employment/criminal-background-ch"
-date: "2021-05-01"
-title: "2.14 Background Checks"
+slug: /pages/ii-ug-college-policies/employee/employment/criminal-background-ch
+date: 2021-05-01
+title: 2.14 Background Checks
 ---
-
 Middlebury College is committed to providing a safe and secure environment for our students, faculty, staff and visitors.  Prior to posting a vacancy, the College will determine if the candidate selected for the position will be subject to a background check.  Vacancy announcements for these positions will include notification that employment is contingent upon successful completion of a background check. Current employees may also be asked to authorize a background check if they apply for positions subject to the background check requirement.
 
 Human Resources will facilitate the background check process (in accordance with the Vermont Fair Credit and Reporting Act and the Federal Fair Credit Reporting Act) and inform the candidate and hiring manager of the successful completion before the appointment can commence. The candidate must voluntarily authorize the background check by completing a background check authorization.  It is critical that candidates complete all application and employment/volunteer related information accurately and honestly. Failure to do so will jeopardize their appointment.

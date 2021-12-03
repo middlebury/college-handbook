@@ -1,9 +1,8 @@
 ---
-slug: "/pages/i-policies-for-all/records/ferpa"
-date: "2021-05-01"
-title: "Student Privacy Rights under U.S. Federal Law (FERPA)"
+slug: /pages/i-policies-for-all/records/ferpa
+date: 2021-05-01
+title: Student Privacy Rights under U.S. Federal Law (FERPA)
 ---
-
 The federal Family Educational Rights and Privacy Act (FERPA) ensures students can have access to education records maintained by Middlebury and defines conditions under which those records may be disclosed to others.
 
 **1\. Definitions**
@@ -67,7 +66,7 @@ The student's written, signed consent must:
 
 -- File a complaint with the U.S. Department of Education if he or she feels Middlebury has failed to comply with FERPA.
 
-**c. Administering Office.** The <span style="text-decoration:underline">[Office of the Registrar](https://www.middlebury.edu/offices/academic/records)</span> is responsible for the administration of this policy for all Middlebury programs other than the Institute. The Records Office is responsible for the administration of this policy at the Middlebury Institute. Students and others who have questions regarding the treatment of specific information in a specific circumstance should contact a staff member in the appropriate Office.
+**c. Administering Office.** The [Office of the Registrar](https://www.middlebury.edu/offices/academic/records) is responsible for the administration of this policy for all Middlebury programs other than the Institute. The Records Office is responsible for the administration of this policy at the Middlebury Institute. Students and others who have questions regarding the treatment of specific information in a specific circumstance should contact a staff member in the appropriate Office.
 
 **3\. Confidentiality**
 
@@ -81,7 +80,7 @@ FERPA provides certain exceptions for the release of personally identifiable edu
 
 Middlebury will honor requests to withhold any one or more elements of “directory information.”
 
-Students should consider very carefully the consequences of any decision to withhold <span style="text-decoration:underline">all</span> “directory information.” When a student instructs Middlebury not to release any “directory information,” any future requests for such information from persons or organizations outside Middlebury will be refused, unless a legal exception applies, or unless the student subsequently revokes the restriction.
+Students should consider very carefully the consequences of any decision to withhold **all** “directory information.” When a student instructs Middlebury not to release any “directory information,” any future requests for such information from persons or organizations outside Middlebury will be refused, unless a legal exception applies, or unless the student subsequently revokes the restriction.
 
 Requests for non-disclosure must be submitted in writing to the Office of the Registrar at Middlebury College or the Record Office at the Middlebury Institute. Forms for making such requests may be obtained from the appropriate Office.
 

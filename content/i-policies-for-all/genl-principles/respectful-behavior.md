@@ -1,9 +1,8 @@
 ---
-slug: "/pages/i-policies-for-all/genl-principles/respectful-behavior"
-date: "2021-05-01"
-title: "A.1. Respectful Behavior"
+slug: /pages/i-policies-for-all/genl-principles/respectful-behavior
+date: 2021-05-01
+title: A.1. Respectful Behavior
 ---
-
 1\. Middlebury expects all members of the Middlebury community, as well as visitors, to respect the dignity, freedom, and rights of other persons. Violence in word or deed against another; incitement or provocation to violence; negligent or reckless use of physical force; conduct that may reasonably be expected to exploit or coerce; prevention of another's ability to communicate or move freely; violation of another's privacy; unauthorized entry and/or uninvited or unwanted presence in another’s room or office, are examples of disrespectful behavior that is inconsistent with our shared values and expectations of behavior. 
 
 2\. Middlebury further expects that all members of the Middlebury community, as well as visitors, will respect Middlebury property, resources, and assets and take care to steward our shared space and resources to support our educational mission. 

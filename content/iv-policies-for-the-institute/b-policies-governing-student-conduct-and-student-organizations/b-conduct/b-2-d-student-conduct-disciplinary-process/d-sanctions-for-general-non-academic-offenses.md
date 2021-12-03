@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-d-student-conduct-disciplinary-process/d-sanctions-for-general-non-academic-offenses"
-date: "2021-05-01"
-title: "D. Sanctions for General Non-Academic Offenses"
+slug: /pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-d-student-conduct-disciplinary-process/d-sanctions-for-general-non-academic-offenses
+date: 2021-05-01
+title: D. Sanctions for General Non-Academic Offenses
 ---
-
 Sanctions for students found responsible for committing non-academic policy violations are listed below. Sanctions are designed to accomplish several goals to deter harmful conduct; to cultivate responsibility and accountability to self and others; to address the underlying harm including the wellbeing or safety of any individual and/or the community; to eliminate any hostile environment, prevent its recurrence, and correct its discriminatory effects on the complainant and others, if applicable; and to provide other appropriate forms of redress.
 
 Sanctions are recorded in the student's file, and are not reflected on the academic transcript, except that Institute enrollment dates are part of the transcript record. Sanctions that constitute a form of official discipline, as noted below, are included in a student’s permanent record and may/must be disclosed by the respondent and/or by the Institute under certain circumstances.
@@ -18,17 +17,17 @@ The sanctions below are listed in order of increasing severity.
 
 #### **1. Unofficial Forms of Discipline**
 
-#### **<span style="color:#660000">a. Warnings</span>**
+#### **a. Warnings**
 
 A verbal or written warning may be issued when a student has violated Institute policy. A warning is intended to educate the student about Institute policies and/or state laws, and the need to adhere to them. A warning is informal, unofficial discipline and is not part of the student's official record. Students who receive a warning can answer negatively if they are asked if they have been subject to official discipline while enrolled in any Institute program. Warnings are taken into account in determining future disciplinary outcomes and may serve to make further violations of Institute regulations more serious.
 
-#### **<span style="color:#660000">b. Reprimands</span>**
+#### **b. Reprimands**
 
 A letter of reprimand may be issued when a student demonstrates an inability or unwillingness to abide by our principles and by repeatedly violating Institute policy. A letter of reprimand may also be issued when a student has committed a violation of the Institute policy that has had or may have had a negative impact on an individual or on the community. A reprimand registers strongly the Institute’s concern regarding the student’s actions and its firm expectations for immediate improved behavior.
 
 A letter of reprimand is informal, unofficial discipline and is not part of the student’s official record. Students who receive reprimands can answer negatively if they are asked if they have been subject to official discipline while enrolled in any Institute program. Reprimands are taken into account in determining future disciplinary outcomes and may serve to make further violations of Institute regulations more serious.
 
-#### **<span style="color:#660000">c. Probationary Status</span>**
+#### **c. Probationary Status**
 
 Students may be placed on probationary status when the number or nature of their Institute policy violation(s) is sufficiently concerning that an additional policy violation will most likely result in an official form of discipline (please see below). Probationary status provides students with an opportunity to avoid this outcome. They may do so by demonstrating improved conduct, generally reflected in their sustained ability to respect community standards and adhere to Institute policies.
 
@@ -38,13 +37,13 @@ Probationary status is informal, unofficial discipline and is not part of the st
 
 #### **2\. Official Forms of Discipline**
 
-#### **<span style="color:#660000">a. Letter of Official Discipline</span>**
+#### **a. Letter of Official Discipline**
 
 Students may receive a letter of official discipline when their actions have demonstrated disregard for the Institute’s policies such that an additional infraction of Institute policy will most likely result in suspension from the Institute. A letter of official discipline is intended to encourage immediate improved behavior and acceptance of responsibility and growth by establishing this incident on the student's permanent record.
 
 Letters of official discipline are a permanent part of the student's official record. Students who receive a letter of official discipline must answer affirmatively if they are asked whether they have been subject to official discipline while enrolled in any Institute program.
 
-#### **<span style="color:#660000">b. Suspension</span>**
+#### **b. Suspension**
 
 Suspension is issued when a student commits a serious policy violation, or repeatedly violates Institute policy, thereby demonstrating an inability or unwillingness to behave in a manner consistent with Institute principles. The behavior is sufficiently egregious that the student is required to leave the Institute community for a period of time. It is intended to encourage acceptance of responsibility and growth by establishing this incident on the student's permanent record; to provide the student with an opportunity to consider and address the problematic behavior; and to develop strategies to ensure that the student’s eventual return to the Institute will be successful for the student, for the individuals affected by the student's actions, and for the community.
 
@@ -54,7 +53,7 @@ Students who are suspended for four weeks or longer who wish to return to or be 
 
 Suspension is a form of official discipline and is a permanent part of the student's record. Students who are suspended must answer affirmatively if they are asked whether they have been subject to official discipline while enrolled in any Institute program. Students who are suspended must leave campus; are restricted from all Institute-owned or rented properties; and are prohibited from participating in all Institute activities or programs, from employment by the Institute, and from using Institute facilities during the stated period of the suspension. When suspension prohibits students from completing a semester or program they have already begun, the comprehensive fee for that semester or program is not refunded. For international students, suspension may affect immigration status; related questions may be directed to the director of international student and scholar services.
 
-#### **<span style="color:#660000">c. Expulsion</span>**
+#### **c. Expulsion**
 
 For particularly serious offenses, students may be permanently expelled from the Institute. In cases of expulsion from the Institute, no refund of the comprehensive fee or other program fee, as applicable, is made. Expulsion is a form of official discipline and is a permanent part of the student's record. Students who are expelled must answer affirmatively if they are asked whether they have been subject to official discipline while enrolled in any Institute program.
 

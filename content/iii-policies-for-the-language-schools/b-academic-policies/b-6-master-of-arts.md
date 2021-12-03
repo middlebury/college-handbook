@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iii-policies-for-the-language-schools/b-academic-policies/b-6-master-of-arts"
-date: "2021-05-01"
-title: "B.6 Master of Arts"
+slug: /pages/iii-policies-for-the-language-schools/b-academic-policies/b-6-master-of-arts
+date: 2021-05-01
+title: B.6 Master of Arts
 ---
-
 **Master of Arts Degree Candidacy**
 
 The Master of Arts degree in Arabic, Chinese, French, German, Teaching Hebrew as a Second Language, Italian, Japanese, Russian, or Spanish requires 12 units of course credit. Receipt of the Bachelor of Arts degree or the equivalent from a regionally accredited institution is a prerequisite for admission to the Master of Arts program. Students are notified by letter of their formal acceptance into the Master of Arts program after successfully completing three graduate-level courses during their first summer of study on the Middlebury or Bennington campus.

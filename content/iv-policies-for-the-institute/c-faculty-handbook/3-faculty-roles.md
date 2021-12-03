@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/c-faculty-handbook/3-faculty-roles"
-date: "2021-05-01"
-title: "C.3. Faculty Roles"
+slug: /pages/iv-policies-for-the-institute/c-faculty-handbook/3-faculty-roles
+date: 2021-05-01
+title: C.3. Faculty Roles
 ---
-
 As the primary contact point for students at the Institute, faculty members, as teachers, have important responsibilities. Teaching is neither restricted to a narrow subject area nor limited to the classroom; it extends to every student contact and often into the community. Each faculty member should recognize her/his responsibility for campus morale and for the total school experience of the students. Faculty should also become appropriately involved in the promotion and overall development of the Institute, when called upon to do so and in accordance with their schedules and duties.
 
 **C.3.a. Curricula and degree programs**
@@ -24,13 +23,13 @@ Each school shall develop specific plans for faculty development, to include a b
 
 Certain support functions can have a major impact on the ability of the faculty to accomplish the educational mission of the Institute successfully. Faculty therefore advise and participate in activities including but not limited to:
 
-- consult with marketing and recruiting to best support them in their efforts to attract students;
-- development and maintenance of facilities for teaching, learning, and research, including classrooms, the library, computer labs, interpreting labs and audio-visual equipment;
-- selection, acquisition, and deployment of specific resources in instructional technology;
-- institutional advancement and fundraising;
-- the framing and execution of strategic plans;
-- development and administration of the process by which faculty are selected, appointed, evaluated and terminated;
-- involvement, through their schools, in the process by which resources are allocated at the school and Institute levels.
+* consult with marketing and recruiting to best support them in their efforts to attract students;
+* development and maintenance of facilities for teaching, learning, and research, including classrooms, the library, computer labs, interpreting labs and audio-visual equipment;
+* selection, acquisition, and deployment of specific resources in instructional technology;
+* institutional advancement and fundraising;
+* the framing and execution of strategic plans;
+* development and administration of the process by which faculty are selected, appointed, evaluated and terminated;
+* involvement, through their schools, in the process by which resources are allocated at the school and Institute levels.
 
 **C.3.d. Academic Freedom and Intellectual Contribution**
 

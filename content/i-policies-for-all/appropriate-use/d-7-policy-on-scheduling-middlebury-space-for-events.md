@@ -1,9 +1,8 @@
 ---
-slug: "/pages/i-policies-for-all/appropriate-use/d-7-policy-on-scheduling-middlebury-space-for-events"
-date: "2021-05-01"
-title: "D.7. Policy on Scheduling Middlebury Space for Events"
+slug: /pages/i-policies-for-all/appropriate-use/d-7-policy-on-scheduling-middlebury-space-for-events
+date: 2021-05-01
+title: D.7. Policy on Scheduling Middlebury Space for Events
 ---
-
 The following requirements apply to all Middlebury locations, with the College and the Institute having separate meetings of their weekly review teams.
 
 1.  Middlebury students, student organizations, individual faculty and staff who wish to request space for an Event are required to submit a request to reserve space at least three (3) weeks prior to the proposed date. An “Event” includes events with invited speakers, events intended to attract more than 30 people, events needing additional resources, events anticipated to have significant community impact, demonstrations, and events with a potential for disruption. This policy is not intended to capture Middlebury’s normal operations such as classes, meetings, athletic practices, rehearsals, etc.

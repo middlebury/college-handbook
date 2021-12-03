@@ -1,10 +1,9 @@
 ---
-slug: "/pages/ii-ug-college-policies/faculty/research-misconduct"
-date: "2021-05-01"
-title: "C.11. Misconduct in Research and Other Scholarly Activities - PROVISIONAL"
+slug: /pages/ii-ug-college-policies/faculty/research-misconduct
+date: 2021-05-01
+title: C.11. Misconduct in Research and Other Scholarly Activities - PROVISIONAL
 ---
-
-## **A. Policy Statement**
+## A. Policy Statement
 
 Middlebury is committed to fostering an environment in which the highest ethical standards in the conduct of research and other scholarly activities are followed. The primary responsibility for maintaining such standards of honesty in the pursuit and dissemination of knowledge rests with the researchers. An individual engaged in research and other scholarly activities must be aware of the ethical standards governing his/her discipline and of applicable regulations and conduct himself/herself accordingly. Members of the Middlebury community should report conduct that they believe in good faith constitutes misconduct in research or other scholarly activities. Protection shall be provided to whistleblowers through provisions in this policy and Middlebury’s [Whistleblower](/pages/i-policies-for-all/appropriate-use/d-6-whistleblower-policy/) policy. 
 
@@ -73,59 +72,46 @@ Because the allegations of misconduct may differ, the procedures outlined below 
 
 1.  Notification and Evidentiary Matters: If an inquiry is warranted, the RIO shall, at the time of or before beginning an inquiry:
 
-                                i.            notify the Respondent(s) of the allegation and intended inquiry; and
-
-                              ii.            to the extent it has not already been done at the assessment stage, promptly take all reasonable and practical steps to collect of all the research records and evidence needed to conduct the research misconduct proceeding, inventory the records and evidence, and sequester them in a secure manner, except that where the research records or evidence encompass scientific instruments shared by a number of users, custody may be limited to copies of the data or evidence on such instruments, so long as those copies are substantially equivalent to the evidentiary value of the instruments. The RIO shall collect and/or take custody of any additional items as they become known or relevant to the proceedings.
+* i. notify the Respondent(s) of the allegation and intended inquiry; and
+* ii. to the extent it has not already been done at the assessment stage, promptly take all reasonable and practical steps to collect of all the research records and evidence needed to conduct the research misconduct proceeding, inventory the records and evidence, and sequester them in a secure manner, except that where the research records or evidence encompass scientific instruments shared by a number of users, custody may be limited to copies of the data or evidence on such instruments, so long as those copies are substantially equivalent to the evidentiary value of the instruments. The RIO shall collect and/or take custody of any additional items as they become known or relevant to the proceedings.
 
 1.  Inquiry Committee: 
 
-                                i.            The inquiry will be conducted by a committee, appointed by the RIO, consisting of a minimum of three persons with appropriate experience and/or background to judge the issues being raised. Standing committees that deal with research issues (e.g., Institutional Review Board for Human Subjects Research, Institutional Animal Care and Use Committee) may be used as one source for members of an inquiry committee. Committee members may be from within or outside the Middlebury community and must have no real or apparent conflicts of interest bearing on the inquiry.
-
-                              ii.            The RIO will also sit with the committee as a non-voting member.
-
-                            iii.            The inquiry will ordinarily be completed within 60 days and a report made to the Deciding Official (DO.) All specific requirements concerning timing, reporting, documentation, and confidentiality will be met, in accordance with the appropriate federal regulations or the policies of any agency or organization funding the research.
+* i. The inquiry will be conducted by a committee, appointed by the RIO, consisting of a minimum of three persons with appropriate experience and/or background to judge the issues being raised. Standing committees that deal with research issues (e.g., Institutional Review Board for Human Subjects Research, Institutional Animal Care and Use Committee) may be used as one source for members of an inquiry committee. Committee members may be from within or outside the Middlebury community and must have no real or apparent conflicts of interest bearing on the inquiry.
+* ii. The RIO will also sit with the committee as a non-voting member.
+* iii. The inquiry will ordinarily be completed within 60 days and a report made to the Deciding Official (DO.) All specific requirements concerning timing, reporting, documentation, and confidentiality will be met, in accordance with the appropriate federal regulations or the policies of any agency or organization funding the research.
 
 1.  Inquiry Committee’s Charge
 
-                                i.            The Inquiry Committee shall conduct an initial review of the available evidence to determine whether to conduct an investigation. An inquiry does not require a full review of all the evidence related to the allegation. An investigation is warranted if:
-
-1.  there is reasonable basis for concluding that the allegation falls within the definition of research misconduct as defined herein; and
-2.  the allegation may have substance, based on the preliminary information-gathering and fact-finding.
-3.  Inquiry Report: The RIO will prepare a written Inquiry Report which, at a minimum, shall contain the information set forth in Exhibit B. The RIO shall notify the Respondent whether the Inquiry Committee found that an investigation is warranted and provide the Respondent an opportunity to review and comment on the draft Inquiry Report. Any comments received from the Respondent shall be attached to the final Inquiry Report. The RIO may also notify the Complainant whether the inquiry found that an Investigation is warranted and provide relevant portions of the report to the Complainant for comment.
-4.  DO Determination Whether to Conduct an Investigation: The RIO will deliver the Inquiry Report, on behalf of the Inquiry Committee, to the DO. The DO will receive the Inquiry Report and, after consulting with the RIO and/or other institutional officials, decide whether an investigation is warranted under the criteria set forth in Section 3-1 above. A finding that an investigation is warranted must be made in writing by the DO. Applicable regulatory requirements concerning timing, reporting, documentation, and confidentiality will be met, as well as any contractual requirements imposed by the funder.
-5.  Records of Inquiry: Detailed documentation of the inquiry must be retained for seven (7) years after termination of any inquiry, regardless of outcome.
+* i. The Inquiry Committee shall conduct an initial review of the available evidence to determine whether to conduct an investigation. An inquiry does not require a full review of all the evidence related to the allegation. An investigation is warranted if:
+  * 1.  there is reasonable basis for concluding that the allegation falls within the definition of research misconduct as defined herein; and
+  * 2.  the allegation may have substance, based on the preliminary information-gathering and fact-finding.
+  * 3.  Inquiry Report: The RIO will prepare a written Inquiry Report which, at a minimum, shall contain the information set forth in Exhibit B. The RIO shall notify the Respondent whether the Inquiry Committee found that an investigation is warranted and provide the Respondent an opportunity to review and comment on the draft Inquiry Report. Any comments received from the Respondent shall be attached to the final Inquiry Report. The RIO may also notify the Complainant whether the inquiry found that an Investigation is warranted and provide relevant portions of the report to the Complainant for comment.
+  * 4.  DO Determination Whether to Conduct an Investigation: The RIO will deliver the Inquiry Report, on behalf of the Inquiry Committee, to the DO. The DO will receive the Inquiry Report and, after consulting with the RIO and/or other institutional officials, decide whether an investigation is warranted under the criteria set forth in Section 3-1 above. A finding that an investigation is warranted must be made in writing by the DO. Applicable regulatory requirements concerning timing, reporting, documentation, and confidentiality will be met, as well as any contractual requirements imposed by the funder.
+  * 5.  Records of Inquiry: Detailed documentation of the inquiry must be retained for seven (7) years after termination of any inquiry, regardless of outcome.
 
 5\) Investigation
 
 1.  Timing of Investigation: If warranted, an investigation should commence within 30 days of the DO’s determination, and shall ordinarily be completed within 120 days unless circumstances warrant additional time. Applicable regulatory requirements concerning timing, reporting, documentation, and confidentiality will be met, as well as any contractual requirements imposed by the funder.
 2.  Notification and Evidentiary Matters: If an investigation is warranted, the RIO shall, within a reasonable amount of time of the determination and before the investigation commences:
 
-                                      i.      notify the Respondent(s) in writing of the investigation, including written notice of any new allegations not previously addressed; and
-
-                                    ii.      to the extent it has not already done so at the assessment or inquiry stage, take the actions described under Section 2.2. above.
+* i. notify the Respondent(s) in writing of the investigation, including written notice of any new allegations not previously addressed; and
+* ii. to the extent it has not already done so at the assessment or inquiry stage, take the actions described under Section 2.2. above.
 
 1.  Investigative Committee: The RIO will appoint an Investigative Committee in consultation with the DO, using the same criteria of research expertise and lack of personal relationship or conflict of interest with the parties involved, as required above for the Inquiry Committee. The RIO will sit with the committee as a non-voting member. The DO shall have no direct involvement in the investigation. The Investigative Committee shall consist of a minimum of three persons. The Respondent shall be informed of the membership of the Investigative Committee.
 2.  Investigation: The Investigative Committee and RIO shall undertake a careful and thorough review of the facts of the allegation and take reasonable steps to ensure an impartial and unbiased investigation to the maximum extent practical. The Committee and RIO must:
 
-                                      i.      interview each Respondent, Complainant, and any other available person who has been reasonably identified as having information regarding any relevant aspects of the investigation, including witnesses identified by the Respondent, and record or transcribe each interview, provide the recording or transcript to the interviewee for correction, and include the recording or transcript in the record of the investigation;
-
-                                    ii.      pursue diligently all significant issues and leads discovered that are determined relevant to the investigation, including any evidence of additional instances of possible research misconduct, and continue the investigation to completion;
-
-                                  iii.      evaluate the evidence and testimony to determine whether, based on a preponderance of the evidence, research misconduct occurred and, if so, the type and extent of it and who was responsible;
-
-                                  iv.      If raised, Respondent has the burden of proving by a preponderance of the evidence any affirmative defenses raised, including honest error or a difference of opinion
-
-                                    v.      The Investigative Committee shall determine whether a preponderance of the evidence establishes that:
-
-1.  research misconduct, as defined by this Policy, occurred
-2.  the research misconduct is a significant departure from accepted practices of the relevant research community; and
-3.  the Respondent committed the research misconduct intentionally, knowingly, and/or recklessly.
-
-                                  vi.      Informing Respondent: The Respondent shall be kept informed by the RIO of the procedures to be followed and of the nature of the evidence presented, and shall be given the opportunity to appear before the Investigative Committee to respond to the allegation(s).
-
-                                vii.      Documentation: The RIO shall use diligent efforts to ensure that the investigation i is thorough and sufficiently documented and includes examination of all research records and evidence relevant to reaching a decision on the merits of the allegations.
-
-                              viii.      Investigation Report: The Investigative Committee, shall produce a written Investigation Report, which shall include, at a minimum, the information set forth in Exhibit C. The Investigative Committee must provide the Respondent  and the Complainant a reasonable opportunity to review and comment on the draft Investigation Report and, concurrently, the Respondent must be provided with a copy of, or supervised access to, the evidence on which the report is based. Any comments of the Respondent or the Complainant must be submitted within 30 days of the date on which the draft was provided to the commenter. The Investigative Committee shall consider all comments received before issuing its final report.
+* i. interview each Respondent, Complainant, and any other available person who has been reasonably identified as having information regarding any relevant aspects of the investigation, including witnesses identified by the Respondent, and record or transcribe each interview, provide the recording or transcript to the interviewee for correction, and include the recording or transcript in the record of the investigation;
+* ii. pursue diligently all significant issues and leads discovered that are determined relevant to the investigation, including any evidence of additional instances of possible research misconduct, and continue the investigation to completion;
+* iii. evaluate the evidence and testimony to determine whether, based on a preponderance of the evidence, research misconduct occurred and, if so, the type and extent of it and who was responsible;
+* iv. If raised, Respondent has the burden of proving by a preponderance of the evidence any affirmative defenses raised, including honest error or a difference of opinion
+* v. The Investigative Committee shall determine whether a preponderance of the evidence establishes that:
+  * 1.  research misconduct, as defined by this Policy, occurred
+  * 2.  the research misconduct is a significant departure from accepted practices of the relevant research community; and
+  * 3.  the Respondent committed the research misconduct intentionally, knowingly, and/or recklessly.
+* vi. Informing Respondent: The Respondent shall be kept informed by the RIO of the procedures to be followed and of the nature of the evidence presented, and shall be given the opportunity to appear before the Investigative Committee to respond to the allegation(s).
+* vii. Documentation: The RIO shall use diligent efforts to ensure that the investigation i is thorough and sufficiently documented and includes examination of all research records and evidence relevant to reaching a decision on the merits of the allegations.
+* viii. Investigation Report: The Investigative Committee, shall produce a written Investigation Report, which shall include, at a minimum, the information set forth in Exhibit C. The Investigative Committee must provide the Respondent  and the Complainant a reasonable opportunity to review and comment on the draft Investigation Report and, concurrently, the Respondent must be provided with a copy of, or supervised access to, the evidence on which the report is based. Any comments of the Respondent or the Complainant must be submitted within 30 days of the date on which the draft was provided to the commenter. The Investigative Committee shall consider all comments received before issuing its final report.
 
 6\) Deciding Official (DO) Determination and Administrative Actions:  The Investigative Committee will submit its report to the DO. The DO will determine in writing:
 

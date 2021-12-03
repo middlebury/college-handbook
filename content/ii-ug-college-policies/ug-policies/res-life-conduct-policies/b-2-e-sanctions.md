@@ -1,16 +1,15 @@
 ---
-slug: "/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/b-2-e-sanctions"
-date: "2021-05-01"
-title: "B.2.e. Sanctions"
+slug: /pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/b-2-e-sanctions
+date: 2021-05-01
+title: B.2.e. Sanctions
 ---
-
 When determining a sanction, the nature and severity of the violation and the impact to individuals or community will be taken into account as well as the disciplinary history of the student. While intent is not a factor in determining responsibility, it can be a factor in determining a sanction. A student’s compliance with the process may also be a factor in determining an appropriate sanction. Finally, balancing consistency by acknowledging precedent and equity by considering the impact of the sanction on the individual is a foundational tenet of sanctioning.
 
 **a.** Sanctions may only be imposed for the specific charge of which the student has been notified in writing.
 
 **b.** It is important to note that discipline is cumulative at Middlebury, and further infractions, for example, following the successful conclusion of a probationary period, may still result in more severe outcomes.
 
-**c.** <span style="text-decoration:underline">Middlebury College Sanctions include</span> (but are not limited to):
+**c.** **Middlebury College Sanctions include** (but are not limited to):
 
 **i. Informal College discipline:** The following sanctions are informal College discipline and not part of the student’s permanent record. Students who receive these sanctions can answer negatively if they are asked if they have been subject to official College discipline. A record of the sanction remains in a student's file until graduation, when it is removed. These sanctions are taken into account in determining future disciplinary penalties and may serve to make further violations of Middlebury policies more serious.
 

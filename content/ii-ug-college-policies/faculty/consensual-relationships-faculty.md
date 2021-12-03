@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/faculty/consensual-relationships-faculty"
-date: "2021-09-10"
-title: "C.25. Policy on Consensual Relationships Between Faculty and Staff Members and Students"
+slug: /pages/ii-ug-college-policies/faculty/consensual-relationships-faculty
+date: 2021-09-10
+title: C.25. Policy on Consensual Relationships Between Faculty and Staff Members and Students
 ---
-
 The integrity and trust of the faculty-student relationship is central to Middlebury’s educational mission.  Amorous relationships, defined as any dating, sexual, or other romantic relationship of any length between a faculty member and a student, even if they are not directly in any advisory or teaching role, involve a power differential, and therefore raise serious questions about unfair grading or other imbalanced evaluation practices, conflicts of interest, favoritism and bias. These concerns have an adverse impact on the educational environment of other students, as well as the student directly involved.
 
 A seemingly consensual relationship between any employee with a student may meet the legal definition of sexual harassment, as lack of mutual consent may be inferred from the power differential between the employee – whether faculty or staff – and a student. Accordingly, amorous relationships between all Middlebury employees – faculty and staff – and all students enrolled in any Middlebury program are prohibited.

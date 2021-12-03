@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/faculty/reprints-subventions"
-date: "2021-05-01"
-title: "C.12. Reprints, Subvention, and Open Access"
+slug: /pages/ii-ug-college-policies/faculty/reprints-subventions
+date: 2021-05-01
+title: C.12. Reprints, Subvention, and Open Access
 ---
-
 The College supports the publication and broad dissemination of faculty scholarship in several ways. The College will assist faculty with production costs and reprint costs for scholarly publications through the *Scholarly Publication Subvention Fund (SPSF).*  All requests should be made using the [application](https://www.middlebury.edu/media/view/454905/original/spsfform_august_2013.docx) available on the Academic Affairs webpage and sent to the Office of the Dean for Faculty Development and Research (DFDR). Additionally, the College shares faculty scholarship through an open access repository.
 
 **1\. Reprints.** Assistance will be in the form of the cost of 100 reprints, normally not to exceed $300 for a single set.

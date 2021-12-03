@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/c-faculty-handbook/7-separation-from-the-institute"
-date: "2021-05-01"
-title: "C.7. Separation from the Institute"
+slug: /pages/iv-policies-for-the-institute/c-faculty-handbook/7-separation-from-the-institute
+date: 2021-05-01
+title: C.7. Separation from the Institute
 ---
-
 **C.7.a. Non-Retention**
 
 Regular faculty members whose non-retention is decided upon pursuant to the evaluation process are entitled to receive a Notice of Non-Retention. All Notices of Non-Retention shall be in writing and shall be served either personally or by registered or certified mail in accordance with the established schedule (see [Appendix A](/pages/iv-policies-for-the-institute/c-faculty-handbook/appendix-a-faculty-evaluation-schedule)), namely no later than June 30, or approximately a year prior to the expiration of an appointment.

@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/faculty/pe-faculty-rules"
-date: "2021-05-01"
-title: "C.4. Rules of Reappointment for Physical Education Faculty"
+slug: /pages/ii-ug-college-policies/faculty/pe-faculty-rules
+date: 2021-05-01
+title: C.4. Rules of Reappointment for Physical Education Faculty
 ---
-
 **1\. Review and Reappointment in the Department of Physical Education**
 
 **a. _Review Schedule._** The athletic director will review all instructors and assistants in the Department of Physical Education and Athletics on an annual basis.  Reviews of coaches who do not have head coaching responsibilities will be conducted in conjunction with the appropriate head coach(es).  Evaluations of all instructors in physical education will focus on their promise and performance as coaches, and as physical education instructors.  Reviews will generally occur at the conclusion of the coaches' prime coaching season, and final recommendations will be forwarded to the dean of the College by May 10, with notification taking place as specified in section 4.f. Notification Date, of the Faculty Handbook "Rules of Appointment and Tenure for Academic Faculty."  After two consecutive, one-year contracts, an instructor may be offered a two-year contract, which may be renewed at the conclusion of the first two-year contract.  After six years as an instructor in physical education, assuming positive evaluations, the coach may be awarded a three-year contract, and will be appointed to the rank of assistant in physical education.  Coaches who do not have "head" coaching responsibilities are limited to attaining the rank of assistant in physical education and can be awarded renewable three-year term contracts following written recommendation by the director of athletics.

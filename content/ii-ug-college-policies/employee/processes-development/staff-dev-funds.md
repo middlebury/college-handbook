@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/processes-development/staff-dev-funds"
-date: "2021-05-01"
-title: "Staff Development Fund"
+slug: /pages/ii-ug-college-policies/employee/processes-development/staff-dev-funds
+date: 2021-05-01
+title: Staff Development Fund
 ---
-
 The College encourages the development of employee job skills. An employee may submit applications to the staff development fund for support of activities that will enhance job performance.
 
 Staff professional development is budgeted at the department level, therefore this fund is designed to help offset rather than replace costs to departmental budgets.

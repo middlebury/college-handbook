@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-d-student-conduct-disciplinary-process/a-overview"
-date: "2021-05-01"
-title: "A. Overview"
+slug: /pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-d-student-conduct-disciplinary-process/a-overview
+date: 2021-05-01
+title: A. Overview
 ---
-
 This section describes the disciplinary process that is normally followed when violations of the Institute’s Student Life and/or other Institute policies are alleged. Where other MIIS policies specify separate processes, those processes will apply. (See, e.g., the [Anti-Harassment/Discrimination Policy](/assets/anti-harassment-prior-to-8-14-2020.pdf); the [Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct, and Stalking](/assets/smdvs-prior-to-8-14-2020.pdf); and the [Academic Honesty Policy](/pages/ii-ug-college-policies/ug-policies/academics/acad-honesty).)
 
 The associate dean of student services (ADSS) or the designees of this administrator issues letters of warning, reprimands, probationary status, or letters of official discipline when it is determined that student life policies have been violated. The ADSS may also issue additional restrictions of the Institute’s privileges, including but not limited to participation in student life activities, clubs, student council or guest privileges, and assign educational sanctions, including but not limited to reparative community service, as appropriate. Students may appeal the issuance of a letter of official discipline by ADSS to the Conduct Judicial Board; they may not appeal unofficial sanctions.

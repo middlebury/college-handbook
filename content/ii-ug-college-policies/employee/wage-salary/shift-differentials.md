@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/wage-salary/shift-differentials"
-date: "2021-05-01"
-title: "6.4 Shift Differentials"
+slug: /pages/ii-ug-college-policies/employee/wage-salary/shift-differentials
+date: 2021-05-01
+title: 6.4 Shift Differentials
 ---
-
 Middlebury College provides an hourly wage supplement called a shift differential to non-exempt employees who work between the hours of 6 p.m. and 7 a.m. The purpose of shift differentials is to recognize that these hours, while essential to operate the facilities of the College, are generally more challenging for staff members to work.
 
 Shift Identification:

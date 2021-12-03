@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/ug-policies/academics/calendar"
-date: "2021-05-01"
-title: "B.1.b. Calendar"
+slug: /pages/ii-ug-college-policies/ug-policies/academics/calendar
+date: 2021-05-01
+title: B.1.b. Calendar
 ---
-
 #### **The Academic Year**
 
 The Middlebury College calendar is determined according to the following guidelines. The Calendar Committee may make reasonable adjustments within these rules to accommodate any specific year.

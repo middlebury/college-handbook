@@ -1,14 +1,13 @@
 ---
-slug: "/pages/ii-ug-college-policies/ug-policies/academics/course-reg-course-conduct"
-date: "2021-05-01"
-title: "B.1.f. Course Registration and Conduct of Courses"
+slug: /pages/ii-ug-college-policies/ug-policies/academics/course-reg-course-conduct
+date: 2021-05-01
+title: B.1.f. Course Registration and Conduct of Courses
 ---
-
-**1\. Registration Procedure**
+#### **1\. Registration Procedure**
 
 Students register for fall, winter, and spring courses using the online registration system. Registration information is communicated to students, by e-mail, prior to the registration period, which consists of an advising period, a practice round, and a real-time registration round.
 
-**<a name="course" id="course"></a>2\. Course Load**
+#### **2\. Course Load** {#course}
 
 A student's normal program consists of four courses in the fall and spring semesters and one course in the winter term. First-year students must be in residence for winter term and enrolled in an academic course.  Full-time students must take at least three courses per semester.
 
@@ -18,7 +17,7 @@ All entering first-year students register for a first-year seminar in their firs
 
 Under certain exceptional circumstances, students may be permitted to carry fewer than three courses. When this request is based on a documented disability, students should apply to the Disability Resource Center (DRC) office. When this request is based on an exceptional personal circumstances, students may apply to the Administration Committee.  Students who receive approval for a reduced course load pay the full comprehensive fee. Students with reduced course loads should work closely with academic advisors to ensure their compliance with Middlebury’s Satisfactory Academic Progress policy.
 
-**<a name="pass" id="pass"></a>3\. Pass/D/Fail Grading Option**
+#### **3\. Pass/D/Fail Grading Option** {#pass}
 
 Students may opt to take a course on a Pass/D/Fail basis under the following conditions:
 
@@ -40,13 +39,13 @@ h. A grade of Pass will not be calculated in the student’s GPA. The grades of 
 
 \*NOTE: Winter term or summer study pass/fail courses are not counted in the maximum 5 non-standard grade course total for students who matriculated in the fall 2016 semester or later.
 
-**<a name="auditing" id="auditing"></a>4\. Auditing**
+#### **4\. Auditing** {#auditing}
 
 With advance permission of the instructor, a regularly enrolled student may audit other classes. The instructor establishes the conditions under which the student may audit. A student may request official audit status, in which case the course will be recorded on his or her transcript with "AUD" in the grade column. In order to obtain official audit status, the student must make a request to the instructor, and they must agree in writing on the conditions of satisfactory completion. Students must register for audited courses during the normal add period. After the end of the add/drop period, no student may change his/her audit status without approval from the Administration Committee. In no case may the student receive credit for auditing.
 
 Community members living in the Middlebury area may audit courses only with the permission of the instructor and the dean of curriculum or designee. Community members interested in auditing a course at the College, must complete the [Community Member Audit Request](https://www.middlebury.edu/media/view/290549/original/audit_form.doc) form and obtain the requisite signatures indicating approval. The audit status, if approved, is not officially recorded and there is no academic transcript kept in these cases. Current high school students may not audit courses at Middlebury College.
 
-**<a name="change" id="change"></a>5\. Change of Course Registration**
+#### **5\. Change of Course Registration** {#change}
 
 Immediately following the online registration period and through the end of the second week of the fall and spring semesters, course additions may be made if students have the consent of the instructor of the course into which the student wishes to enroll. Students must turn in their add cards by the end of the second week of classes.
 
@@ -58,13 +57,13 @@ During winter term, course changes are made by the same procedures, but the add/
 
 Students who add a class late do so at their own risk. They will not be permitted to use a late start as the reason for dropping a course after the deadline.
 
-**<a name="size" id="size"></a>6\. Size of Classes**
+#### **6\. Size of Classes** {#size}
 
 Fall or spring semester course enrollment may not be limited or cut off during registration without permission of the VPAA/DOF or designee. This restriction does not apply to first-year student seminars, College Writing courses, seminars, language and laboratory sections, and studio courses. Department chairs are responsible for ensuring that there are an adequate number of openings for incoming first-year students in September and February.
 
 A list of all courses in which six or fewer students are enrolled will be referred to the VPAA/DOF or designee after completion of a registration period. The advisability of offering such courses for the current semester will be discussed promptly with the department chair involved. Enrollment in winter term courses is limited. _(See "[Winter Term](/pages/ii-ug-college-policies/ug-policies/academics/winter-term)")._
 
-**<a name="class" id="class"></a>7\. Class Meeting and Scheduling**
+#### **7\. Class Meeting and Scheduling** {#class}
 
 Instructors are expected to conduct classes at the time and place scheduled. Regularly scheduled classes are not held between the hours of 4:15 p.m. and 7:30 p.m. Evening classes are permitted on Monday, Tuesday, and Wednesday. Evening classes on other nights must be approved by the VPAA/DOF or designee. No intercollegiate athletic contests will be scheduled for Monday evenings.
 
@@ -72,7 +71,7 @@ Individual faculty requests for changes in the published schedule must be approv
 
 Most courses meet for three hours per week with the exception of laboratory, drill, and discussion meetings. Department chairs are responsible for ensuring that scheduling information is included on the department course information forms.
 
-**8\. Attendance**
+#### **8\. Attendance** {#attendance}
 
 Individual instructors set attendance policies. They should announce these policies during the first week of classes. A student's grade in a course may be reduced for nonattendance.
 

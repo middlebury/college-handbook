@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/faculty/extra-service-pay-policy"
-date: "2021-05-01"
-title: "C.16. Faculty Extra Service Pay policy"
+slug: /pages/ii-ug-college-policies/faculty/extra-service-pay-policy
+date: 2021-05-01
+title: C.16. Faculty Extra Service Pay policy
 ---
-
 **BACKGROUND**
 
 Faculty at Middlebury’s undergraduate college (hereafter, the College) have regular responsibilities for teaching, research, and service, and they are compensated for these responsibilities with their 9 month institutional base salary (IBS). The regular responsibilities encompassed in IBS are described in appointment letters, job descriptions as posted in original advertisements, and the _[Middlebury Handbook](/pages/ii-ug-college-policies/faculty/faculty-rules#principles)_. At times, faculty members at the College assume various additional responsibilities that are not directly related to their regular responsibilities, or that are in addition to their regular responsibilities; these responsibilities include serving as department chairs or program directors, serving as administrative directors, as well as other additional responsibilities as determined by the VPAA/DoF. Extra service pay is made to faculty as acknowledgement of the additional responsibilities when certain conditions are met. In addition, it is important to ensure extra service pay paid from federally funded awards complies with requirements in Office of Management and Budget (OMB) circular 2 CFR 200 Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards.
@@ -24,14 +23,14 @@ The Contracts & Grants Policy section of the _Middlebury Handbook_ states that *
 
 **EXAMPLES OF RESPONSIBILITES ELIGIBLE FOR EXTRA SERVICE PAY**
 
-- Responsibilities different from or in addition to a faculty member’s regular responsibilities that do not interfere with the faculty member’s regular responsibilities. Serving as department chair or program director, and serving as an administrative director fall under this example.
-- Responsibilities for serving as project director for a limited term project, including projects funded by grants or gifts. Summer salary and serving as project director for a grant-funded program that has academic year responsibilities fall under this example.
-- Responsibilities for teaching additional classes and lectures that are not part of a faculty member’s regular responsibilities may, in rare circumstances, be considered as extra service. In most cases, however, course overloads will be addressed by adjusting teaching responsibilities in a future year, as specified in the official teaching expectations.
-- Responsibilities for work performed outside a faculty member’s department or as part of a separate or remote operation that is in addition to the faculty member’s regular responsibilities. Intra-institution consulting, such as a member of one department serving as an external evaluator on a federal grant awarded to another department, falls under this example.
-- Additional responsibilities in the event of an extraordinary circumstance that significantly increases workload.
+* Responsibilities different from or in addition to a faculty member’s regular responsibilities that do not interfere with the faculty member’s regular responsibilities. Serving as department chair or program director, and serving as an administrative director fall under this example.
+* Responsibilities for serving as project director for a limited term project, including projects funded by grants or gifts. Summer salary and serving as project director for a grant-funded program that has academic year responsibilities fall under this example.
+* Responsibilities for teaching additional classes and lectures that are not part of a faculty member’s regular responsibilities may, in rare circumstances, be considered as extra service. In most cases, however, course overloads will be addressed by adjusting teaching responsibilities in a future year, as specified in the official teaching expectations.
+* Responsibilities for work performed outside a faculty member’s department or as part of a separate or remote operation that is in addition to the faculty member’s regular responsibilities. Intra-institution consulting, such as a member of one department serving as an external evaluator on a federal grant awarded to another department, falls under this example.
+* Additional responsibilities in the event of an extraordinary circumstance that significantly increases workload.
 
 **DEFINITIONS**
 
-<span style="text-decoration:underline">Institutional Base Salary (IBS)</span> is the annual compensation paid by Middlebury for an individual’s appointment responsibilities, whether that individual’s time is spent on teaching, research, service, or other activities. For faculty members, IBS is based on a 9 months academic year.
+**Institutional Base Salary (IBS)** is the annual compensation paid by Middlebury for an individual’s appointment responsibilities, whether that individual’s time is spent on teaching, research, service, or other activities. For faculty members, IBS is based on a 9 months academic year.
 
-<span style="text-decoration:underline">Regular Responsibilities</span> for teaching, research, service, or other activities are the duties compensated by IBS. Regular responsibilities are described in appointment letters and the _[Middlebury handbook](/pages/ii-ug-college-policies/faculty/faculty-rules#principles)_.
+**Regular Responsibilities** for teaching, research, service, or other activities are the duties compensated by IBS. Regular responsibilities are described in appointment letters and the _[Middlebury handbook](/pages/ii-ug-college-policies/faculty/faculty-rules#principles)_.

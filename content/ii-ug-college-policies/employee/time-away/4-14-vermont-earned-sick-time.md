@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/time-away/4-14-vermont-earned-sick-time"
-date: "2021-05-01"
-title: "4.14 Vermont Earned Sick Time (VEST)"
+slug: /pages/ii-ug-college-policies/employee/time-away/4-14-vermont-earned-sick-time
+date: 2021-05-01
+title: 4.14 Vermont Earned Sick Time (VEST)
 ---
-
 The Vermont Earned Sick Time (VEST) benefit allows eligible employees to accrue a bank of hours that may be used as paid time off for certain health or safety needs and/or for the care of a qualifying family member.   
 
 **Eligibility**
@@ -53,14 +52,13 @@ Accrued, unused VEST will carryover at the end of the calendar year up to a maxi
 *   Employees must make reasonable efforts to avoid scheduling routine or preventative healthcare during work hours.
 *   Employees must provide reasonable advance notification of their need to use VEST, following established departmental procedures for requesting time off.
 *   Employees who are absent for longer than three days may be required to give medical evidence of illness and/or medical certification of fitness to return to work.
-
 *   VEST is paid at employees’ regular hourly rates.
 *   Employees may be asked to provide reasonable proof that their use of VEST is for a purpose allowed by the policy.
 
 Recording time used:
 
-*   <span style="text-decoration:underline">Non-exempt (hourly) staff and student employees</span>: use the VST earn code to record time on BannerWeb timesheets. 
-*   <span style="text-decoration:underline">Exempt (salaried) staff and faculty employees</span>: record used VEST hours by emailing [hr@middlebury.edu](mailto:hr@middlebury.edu) and copying direct supervisor within 1 week of the used time.
+*   **Non-exempt (hourly) staff and student employees**: use the VST earn code to record time on BannerWeb timesheets. 
+*   **Exempt (salaried) staff and faculty employees**: record used VEST hours by emailing [hr@middlebury.edu](mailto:hr@middlebury.edu) and copying direct supervisor within 1 week of the used time.
 
 **Other Important Information**
 
@@ -69,7 +67,6 @@ VEST is not recognized as hours worked for purposes of calculating eligibility f
 *   Employees are not entitled to be paid for accrued but unused VEST upon resignation or other termination of employment; accrued, unused balances will be forfeited at termination.
 *   Available VEST balances may be viewed in Banner Web (Employee/Time Off Current Balances and History).
 *   VEST hours used will show on employee paystubs and may be viewed in Banner Web. 
-
 *   An employee who transfers to work in a state other than Vermont will no longer accrue VEST but may continue to use VEST that has already accrued.
 *   An employee who transfers from a VEST eligible position into a position eligible for CTO will have his/her accrued, unused VEST balance transferred to SLR and may use that code to record time used for any purpose allowable under VEST. Similarly, an employee who transfers from a VEST eligible position into a position eligible for Faculty Leave Reserve (FLR) will have his/her accrued, unused VEST balance transferred to FLR.
 *   There is no cash-out of accrued VEST under any circumstances.

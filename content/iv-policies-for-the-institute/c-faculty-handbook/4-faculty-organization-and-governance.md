@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/c-faculty-handbook/4-faculty-organization-and-governance"
-date: "2021-05-01"
-title: "C.4. Faculty Organization and Governance"
+slug: /pages/iv-policies-for-the-institute/c-faculty-handbook/4-faculty-organization-and-governance
+date: 2021-05-01
+title: C.4. Faculty Organization and Governance
 ---
-
 **C.4.a. Faculty Assembly**  
 The Faculty Assembly consists of all regular faculty, excluding the VPAA, deans, and associate deans. Visiting faculty, research professors, adjunct faculty and professors emeritae/i are not members of the Faculty Assembly: they may attend the Assembly but are not eligible to vote.
 
@@ -23,8 +22,6 @@ Special meetings of the Faculty Assembly may be called pursuant to a petition of
 
 The faculty representative to the Board of Advisors in an ex officio member of the Faculty Senate. This representative is voted on by the Faculty Assembly from a pool of self- or other-nominations soliciated by the Faculty Senate. This representative normally serves a term of 3 years. Ex officio members must attend meetings when requested to by the Faculty Senate president on behalf of the Senate, and may vote to break a tie. Ex officio members of the Senate can attend Senate meetings more frequently than this, if they desire. Ex officio members may run to be directly elected members of the Senate after their term as ex officio members has expired.
 
-<span style="text-decoration:line-through"></span>
-
 **C.4.c. Voting Procedures**
 
 A Faculty Assembly quorum shall consist of fifty percent (50%) of the eligible Faculty Assembly members (regular faculty plus multiyear visitors) plus one member. No votes may take place at a Faculty Assembly meeting without a quorum. In order to maximize participation, the Faculty Senate may take votes using a secret electronic ballot.
@@ -37,7 +34,7 @@ The Faculty Assembly, by a two-thirds majority vote of all members present and v
 
 The Faculty Assembly may, by a simple majority of those present and voting, designate an issue as “significant,” for the purpose of the Faculty Assembly’s taking up this issue. Any proposed resolutions that involve “significant” issues require a two-thirds majority of the Faculty Assembly present and voting to pass. Any such resolutions passed shall be binding upon the Faculty Senate.
 
-<span style="text-decoration:underline">_Dissolution of the Senate_</span>
+_Dissolution of the Senate_
 
 In the event that the Faculty Senate is dissolved, each school shall hold a special election to select its representatives, who shall take office upon election and serve the time remaining in the previous representatives’ terms.
 
@@ -56,21 +53,21 @@ The term of a senator shall be three (3) years, beginning with her/his election 
 
 A school shall have the right to remove one or more of its representatives to the Faculty Senate and to elect another representative to serve the time remaining in the previous representative's term, using a process agreed to by the school’s regular faculty.
 
-The Faculty Senate shall schedule open meetings at least once each semester and shall announce such open meetings in appropriate Institute publications*.* Any member of the Faculty Assembly may attend an open meeting. The Faculty Senate may hold closed meetings, at which attendance shall be by invitation only. The Faculty Senate may take action in closed meetings. Except as otherwise provided herein, meetings shall be conducted under _Robert's Rules of Order_ (latest edition). A quorum shall consist of a majority of the members of the Faculty Senate.
+The Faculty Senate shall schedule open meetings at least once each semester and shall announce such open meetings in appropriate Institute publications. Any member of the Faculty Assembly may attend an open meeting. The Faculty Senate may hold closed meetings, at which attendance shall be by invitation only. The Faculty Senate may take action in closed meetings. Except as otherwise provided herein, meetings shall be conducted under _Robert's Rules of Order_ (latest edition). A quorum shall consist of a majority of the members of the Faculty Senate.
 
 Chairpersons of standing committees serve as ex-officio members of the Faculty Senate. They shall attend Senate meetings when requested to do so. The president of the Senate shall consult with the chair of the Faculty Evaluation Committee as needed. Decisions made by the Academic Policy, Standards and Instruction Committee, other than those that involve specific cases of violation of academic standards, are reviewed by the Senate president, who in turn may, when necessary, consult the Faculty Senate and school faculty members as appropriate.
 
-The VPAA shall meet at least once a term with the Faculty Senate and schedule more frequent meetings with its leadership.<span style="text-decoration:line-through"></span>
+The VPAA shall meet at least once a term with the Faculty Senate and schedule more frequent meetings with its leadership.
 
 The members of the Senate shall keep their school faculty regularly apprised of current academic policy issues, and receive feedback from them on matters of concern. On those issues for which the Senate desires a vote of the regular faculty, the regular faculty of each school will establish procedures for this purpose.
 
 In addition to its other responsibilities, the Faculty Senate:
 
-- nominates and elects retiring faculty members to emeritus status.
-- liaises with the leadership of student council.
-- liaises with the leadership of the Middlebury Faculty Council.
-- may nominate candidates for honorary degrees. For this purpose, the Faculty Senate shall operate under the general principle that honorary degrees are awarded to recognize individuals whose work exemplifies the qualities of intellect, character, and creativity most valued by the Institute; and to acknowledge individual accomplishments, especially academic accomplishments, and general contributions to society. These nominations may be forwarded to the VPAA and the president of Middlebury for consideration.
-- as needed, is responsible for drafting revisions to the Faculty Handbook, and ensuring that key stakeholders are consulted with, according to the linked document stipulating the process for handbook changes.
+* nominates and elects retiring faculty members to emeritus status.
+* liaises with the leadership of student council.
+* liaises with the leadership of the Middlebury Faculty Council.
+* may nominate candidates for honorary degrees. For this purpose, the Faculty Senate shall operate under the general principle that honorary degrees are awarded to recognize individuals whose work exemplifies the qualities of intellect, character, and creativity most valued by the Institute; and to acknowledge individual accomplishments, especially academic accomplishments, and general contributions to society. These nominations may be forwarded to the VPAA and the president of Middlebury for consideration.
+* as needed, is responsible for drafting revisions to the Faculty Handbook, and ensuring that key stakeholders are consulted with, according to the linked document stipulating the process for handbook changes.
 
 **C.4.e. Senate Officers**  
 The president and vice-president of the Faculty Senate must be full-time regular faculty members.
@@ -103,10 +100,10 @@ The faculty of each school shall establish its own procedure for selecting and r
 
 The Faculty Senate may appoint _ad hoc_ committees to help it discharge its functions or to perform periodic functions, and to engage with substantial changes that may affect the nature of the Institute. These may include, but are not limited to:
 
-- Salary and Benefits
-- Strategic Planning
-- Faculty Development
-- Faculty Handbook
+* Salary and Benefits
+* Strategic Planning
+* Faculty Development
+* Faculty Handbook
 
 **C.4.g. Faculty Evaluation Committee**
 
@@ -126,16 +123,16 @@ The Academic Policies, Standards, and Instruction Committee (APSIC) serves as th
 
 In addition, APSIC:
 
-- evaluates and provides recommendations concerning proposed changes to the curriculum;
-- ensures compliance with academic policies and procedures;
-- deliberates on student grievances and appeals;
-- has at least two members serve on any Student Conduct Board dealing with an alleged student violation of academic standards or policies.
+* evaluates and provides recommendations concerning proposed changes to the curriculum;
+* ensures compliance with academic policies and procedures;
+* deliberates on student grievances and appeals;
+* has at least two members serve on any Student Conduct Board dealing with an alleged student violation of academic standards or policies.
 
 APSIC reports its recommendations to the VPAAand the Senate for action and approval. In the case of curricular and programmatic proposals requiring further deliberation, APSIC consults further with the proposers before forwarding revised recommendations to the VPAA and Senate.
 
 **C.4.i. Salary and Benefits Committee (_ad hoc_)**
 
-When constituted by the Faculty Senate, the primary role of this committee is to review and examine the structure of faculty benefits and salaries and make recommendations to the VPAA. The Committee shall work closely with the Human Resources staff at MIIS, and the benefits and compensation manager in the Human Resources department at Middlebury in the discharge of its responsibilities. Specific tasks and responsibilities are assigned at the time of constitution.<span style="text-decoration:underline"></span>
+When constituted by the Faculty Senate, the primary role of this committee is to review and examine the structure of faculty benefits and salaries and make recommendations to the VPAA. The Committee shall work closely with the Human Resources staff at MIIS, and the benefits and compensation manager in the Human Resources department at Middlebury in the discharge of its responsibilities. Specific tasks and responsibilities are assigned at the time of constitution.
 
 ---
 

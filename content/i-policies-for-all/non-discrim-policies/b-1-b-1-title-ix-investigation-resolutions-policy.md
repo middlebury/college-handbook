@@ -1,9 +1,8 @@
 ---
-slug: "/pages/i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy"
-date: "2021-05-01"
-title: "B.1.b (1) TIX Investigation & Resolutions Procedure"
+slug: /pages/i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy
+date: 2021-05-01
+title: B.1.b (1) TIX Investigation & Resolutions Procedure
 ---
-
 I. What This Procedure Covers  
 II. Reporting Title IX Sexual Harassment  
 III. Formal Complaints/Grievances & Pre-Investigation  
@@ -23,13 +22,13 @@ This Title IX Formal Grievance Procedure (“Procedure”) applies to instances 
 
 Middlebury may, in exceptional circumstances, vary from this Procedure.  So long as such a variation is consistent with Title IX regulations and allows for fundamental fairness in the processes followed, variations from this process under those circumstances will not invalidate an outcome.
 
-Except as otherwise specified herein, this Procedure applies to faculty, staff and students, as well as to others who participate or attempt to participate in Middlebury’s programs and activities.  This includes the undergraduate college, the Language Schools, the School of the Environment, MiddCore, Bread Loaf School of English, Bread Loaf Writers’ Conference, and the Middlebury Institute of International Studies at Monterey ("the Institute").<a title="" href="#_ftn1" name="_ftnref1" id="_ftnref1">[1]</a>  Faculty and staff are, together, referred to as “Employee” or “Employees” in this Procedure.
+Except as otherwise specified herein, this Procedure applies to faculty, staff and students, as well as to others who participate or attempt to participate in Middlebury’s programs and activities.  This includes the undergraduate college, the Language Schools, the School of the Environment, MiddCore, Bread Loaf School of English, Bread Loaf Writers’ Conference, and the Middlebury Institute of International Studies at Monterey ("the Institute").[[1]](#_ftn1)  Faculty and staff are, together, referred to as “Employee” or “Employees” in this Procedure.
 
 This Procedure applies to Sexual Harassment as defined by the Department of Education and as set forth in the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy "Non-discrimination") so long as the following conditions are met:
 
 (i) The alleged conduct was perpetrated against a person in the United States; and
 
-(ii) The alleged conduct took place within Middlebury’s programs and activities, meaning that the conduct occurred in a location, at an event, or in a circumstance where Middlebury exercises substantial control over both the respondent and the context in which the conduct occurs, or in any building owned or controlled by a student organization recognized by Middlebury; <span style="text-decoration:underline">and</span>, the Complainant is participating in or attempting to participate in Middlebury’s programs or activities.
+(ii) The alleged conduct took place within Middlebury’s programs and activities, meaning that the conduct occurred in a location, at an event, or in a circumstance where Middlebury exercises substantial control over both the respondent and the context in which the conduct occurs, or in any building owned or controlled by a student organization recognized by Middlebury; **and**, the Complainant is participating in or attempting to participate in Middlebury’s programs or activities.
 
 Conduct that occurs off campus in locations or at events without direction or control by Middlebury does not meet the definition of occurring in “a program or activity of Middlebury”.  Such conduct may be prohibited under other Middlebury policies, including the Non-Discrimination Policy provisions addressing forms of discrimination other than Title IX Sexual Harassment, and is addressed using different procedures.  Only behavior meeting the definitional requirements of this section will be addressed utilizing this Procedure.  Where a complaint alleges other Middlebury policy violations arising out of the same facts and circumstances as allegations that must be addressed utilizing this Procedure, Middlebury may, in its discretion, address those other alleged violations through this Procedure.
 
@@ -50,13 +49,13 @@ Middlebury, VT 05753
 
 A report or complaint may be made verbally (in person, by phone, or videoconferencing) during applicable business hours, or in writing (via mail or email) 24 hours per day, 7 days per week. You may also report using the online reporting tool at go/report. Please note that while a report may be made anonymously, this will limit Middlebury’s ability to take action to provide supportive measures or to address the situation.
 
-**<span style="text-decoration:underline">Which Middlebury Employees Must Report Sexual Harassment?</span>**
+**Which Middlebury Employees Must Report Sexual Harassment?**
 
 **With the exception of certain persons designated as “Confidential Resources,” as described below, all Middlebury employees must report any incident that could constitute Sexual Harassment involving a Middlebury student, employee or other covered person, to the CRTIX Coordinator and/or an HRO**. The report should include relevant details about the incident of which they are aware, including the names of the parties, any witnesses, and any other relevant facts, including the date, time, and specific location of the alleged incident. To the extent possible, information reported will be shared with others only to the extent necessary to respond to the situation and support the parties and in accordance with state and federal law. Examples include individuals who are responsible for processing, investigating, adjudicating, and responding to sexual misconduct, domestic and dating violence and  misconduct, stalking and/or related retaliation reports; deans; program directors; supervisors; Human Resources staff; and Department of Public Safety or other campus security personnel who are responsible for reporting campus crime statistics and issuing timely warnings under the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act.
 
 ## A. Who Are Confidential Resources?
 
-Confidential Resources include the staff of the Parton Center for Health and Wellness, the staff of the Chaplain’s office, Middlebury Safe and Confidential Advocates (“MiddSafe”)<a title="" href="#_ftn2" name="_ftnref2" id="_ftnref2">[2]</a> or other medical, counseling, support or religious personnel and volunteers who are required by law to maintain confidentiality.
+Confidential Resources include the staff of the Parton Cent(er for Health and Wellness, the staff of the Chaplain’s office, Middlebury Safe and Confidential Advocates (“MiddSafe”) [[2]](#_ftn2)) or other medical, counseling, support or religious personnel and volunteers who are required by law to maintain confidentiality.
 
 Middlebury encourages individuals to use confidential services.  Individuals who seek those services should understand that confidentiality is not absolute and that those resources may have ethical or legal obligations to report certain information to others.  As one example, Confidential Resources are typically obligated under state law to report instances of child abuse.
 
@@ -89,7 +88,7 @@ It is not necessary to file a complaint with Middlebury, participate in an adjud
 
 Where a complainant reportedly subjected to Sexual Harassment makes a request for supportive measures like those described above, Middlebury will consider the request and provide those Supportive measures which are reasonably available and reasonably allow for the preservation or restoration of access to or participation in Middlebury programs.
 
-Students or employees seeking supportive measures should direct their request to the CRTIX Coordinator, HROs, Human Resources, dean, or program director, as appropriate. The request will be evaluated and responded to by the CRTIX Coordinator or designee (e.g. HRO<span style="text-decoration:line-through">s</span>, Student Life Dean, or program director) after consultation, as needed, with the appropriate authority or authorities for the school or program at issue. The CRTIX Coordinator is ultimately responsible for coordinating the effective implementation of supportive measures. Factors to be considered in determining whether to provide certain supportive measures may include the following:
+Students or employees seeking supportive measures should direct their request to the CRTIX Coordinator, HROs, Human Resources, dean, or program director, as appropriate. The request will be evaluated and responded to by the CRTIX Coordinator or designee (e.g. HRO~~s~~, Student Life Dean, or program director) after consultation, as needed, with the appropriate authority or authorities for the school or program at issue. The CRTIX Coordinator is ultimately responsible for coordinating the effective implementation of supportive measures. Factors to be considered in determining whether to provide certain supportive measures may include the following:
 
 *   the specific need expressed by the party;
 *   the severity and/or pervasiveness of the allegations;
@@ -104,25 +103,25 @@ Middlebury will maintain as confidential any supportive measures provided to a p
 
 Nothing in this Procedure limits Middlebury’s rights to terminate or suspend the employment of any staff or faculty member under otherwise-applicable Middlebury policies, practices, contracts, or procedures.
 
-<h3 style="color: #660000;">1. Emergency Removal&nbsp;&nbsp;</h3>
+### **1. Emergency Removal**
 
 Where there is an immediate threat to the physical health or safety of any student or other individual arising from the alleged Title IX Sexual Harassment, Middlebury can remove a respondent from its education program or activity (which may include removing an employee respondent from their employment at Middlebury) and issue any necessary related no-trespass and no-contact orders.  Middlebury will make the decision to remove a respondent from its education program or activity based on an individualized assessment and risk analysis. If Middlebury makes such a decision, the respondent will be provided with notice and an opportunity to challenge the decision immediately following the removal.
 
-<h3 style="color: #660000;">2. Administrative Leave for Employees&nbsp;&nbsp;</h3>
+### **2. Administrative Leave for Employees**
 
 Middlebury may place employee respondents (non-students) on paid administrative leave during the pendency of an investigation and resolution process as outlined below. Middlebury reserves the right to place an employee respondent (non-student) on unpaid administrative leave during the pendency of an investigation and resolution process. In those instances in which Middlebury determines that an administrative leave will be unpaid and the respondent was not offered the opportunity to challenge the suspension without pay before it was imposed through some other process, the respondent may present a written challenge regarding the need for or the adequacy of the unpaid administrative leave to the CRTIX Coordinator. Once a written challenge of unpaid administrative leave is received, the CRTIX Coordinator will involve the relevant Middlebury leadership, which may include Human Resources and/or department leaders, and schedule a virtual or in-person meeting with the respondent prior to making a determination.
 
 ## E. Options to Pursue Criminal or Legal Actions (Reporting Outside of Middlebury)
 
-<h3 style="color: #660000;">1. Criminal Complaints</h3>
+### **1. Criminal Complaints**
 
 Any student or employee may pursue criminal charges with local, state, or federal law enforcement agencies. Middlebury will offer and, upon request, provide assistance to individuals covered under this procedure with notifying law enforcement agencies. These options are available regardless of whether an individual chooses to file a complaint with Middlebury. Individuals have the option to notify such agencies with or without assistance from Middlebury, and have the option not to personally notify such authorities.
 
-<h3 style="color: #660000;">2. Orders of Protection</h3>
+### **2. Orders of Protection**
 
 Middlebury does not have the authority to issue Relief From Abuse Orders, Orders of Protection or Restraining Orders as these are granted by the court system. Individuals who have experienced Title IX Sexual Harassment may be eligible to pursue Orders of Protection, Restraining Orders and/or Relief from Abuse Orders from courts in the United States or courts outside of the United States as applicable. Middlebury will offer its support to individuals if they request Middlebury’s assistance with making contact with law enforcement authorities and other external resources to seek such orders. Middlebury will respect such orders to the extent applicable.
 
-<h3 style="color: #660000;">3. Assistance by Middlebury</h3>
+### **3. Assistance by Middlebury**
 
 Requests for assistance with contacting law enforcement authorities or obtaining an Order of Protection, a Relief from Abuse Order, a Restraining Order or other lawful order may be made in person, via email, phone or teleconference to the CRTIX Coordinator, an HRO, or Public Safety For additional information regarding making reports to the police and/or obtaining an Order of Protection, Restraining Order, or Relief from Abuse Order.
 
@@ -160,7 +159,7 @@ iii)  the conduct allegedly occurred in the United States.
 
 7\. If the respondent is a Student and an Employee, the CRTIX Coordinator will determine which procedures apply based upon the facts and circumstances, such as whether the respondent’s status as a Student or an Employee predominates in the context of the Prohibited Conduct. If a Student-Employee is found to have engaged in Prohibited Conduct, the Student-Employee may be subject to sanctions both in connection with their employment and in connection with their student status, as appropriate under these and other applicable procedures.
 
-<span style="text-decoration:underline">Additional Policy Violations:</span>
+**Additional Policy Violations:**
 
 1\. If the CRTIX Coordinator/HRO becomes aware, at any point prior to or during the investigation and adjudication process, of additional allegations against the respondent that, if proven, could constitute violations of other non-academic policies, including harassment or discrimination investigated under Middlebury’s Anti-Harassment/Discrimination Policy, these allegations may, at Middlebury’s discretion, be investigated and adjudicated in accordance with the procedures set forth herein.  In matters involving Employees, where the CRTIX Coordinator/HRO becomes aware of additional allegations of violations of Middlebury Policy, those concerns will be reported to the Employee’s appropriate supervisory authority (e.g., VPAA/dean of the Faculty, VPAA/dean of the Institute, VPAA/dean of the Language Schools, Executive Vice President/Provost), who, in consultation with Human Resources,  will consider whether and how to proceed under the relevant Faculty Handbook or Employee Handbook procedures and/or applicable contracts or policies.
 
@@ -187,7 +186,7 @@ If the CRTIX Coordinator dismisses a complaint under subsections (A)(1) or (A)(6
 
 ## A. Investigations Procedure
 
-<h3 style="color: #660000;">1. General Investigation Provisions</h3>
+1. General Investigation Provisions
 
 As required by the 2020 Title IX regulations, in investigations conducted under this Procedure, the following provisions will apply:
 
@@ -196,7 +195,7 @@ As required by the 2020 Title IX regulations, in investigations conducted under 
 *   Parties are not restricted in their ability to discuss the allegations under investigation or to gather and present relevant evidence; and
 *   When a party is invited or expected to attend a hearing, investigative interview, or other meeting, they will receive written notice of the date, time location, participants, and purpose of such a hearing, investigative interview or meeting, with sufficient time for the party to prepare to participate.
 
-<h3 style="color: #660000;">2. Initial Notice of Investigation</h3>
+2. Initial Notice of Investigation
 
 When Middlebury initiates an investigation under this Procedure it will provide to the parties a written notice (by electronic or other means) that includes:
 
@@ -209,11 +208,11 @@ When Middlebury initiates an investigation under this Procedure it will provide 
 
 If, in the course of an investigation, Middlebury decides to investigate allegations about any party that are not included in the notice described above, it will provide notice of the additional allegations to the parties whose identities are known.
 
-<h3 style="color: #660000;">3. Consolidation of Formal Complaints</h3>
+3. Consolidation of Formal Complaints
 
 Middlebury may consolidate formal complaints of Title IX Sexual Harassment against more than one respondent, or by more than one complainant against one or more respondents, or by one party against the other party, where the allegations of such Title IX Sexual Harassment arise out of the same facts or circumstances. Where a grievance process involves more than one complainant or more than one respondent, references in this section to the singular “party,” “complainant,” or “respondent” include the plural, as applicable.
 
-<h3 style="color: #660000;">4. Disabilities</h3>
+4. Disabilities
 
 Students registered with the [Disability Resource Center ](https://www.middlebury.edu/studentlife/doc/ada)can request accommodations to ensure their full and equal participation in any conduct process and/or proceeding. Accommodation requests may be made directly to the CRTIX Coordinator. Accommodations are determined on an individual basis in consultation with the ADA Coordinators. Employees with disabilities may contact Human Resources.
 
@@ -269,11 +268,11 @@ If a Party wishes to have an individual appear at the hearing as a witness, they
 
 ## F. Conduct of Hearings and Relevance
 
-A) <span style="text-decoration:underline">Report to be provided to Hearing Officer</span>
+**A) Report to be provided to Hearing Officer**
 
 At or before the hearing, the hearing officer will receive a copy of the investigative report, any attachments thereto, and copies of the parties’ written responses to the investigative report, if any, which will be part of the information of record to be considered by the hearing officer to the extent appropriate in light of the rules regarding evidence to be considered that are outlined below.
 
-B) <span style="text-decoration:underline">General Order of the Hearing</span>
+**B) General Order of the Hearing**
 
 (i) Subject to the discretion of the hearing officer, hearings will ordinarily begin with introductory remarks by the hearing officer to explain the process, followed by a brief opening statement from any party who wishes to provide one, followed by the hearing officer’s asking relevant initial questions of the parties as deemed appropriate by the hearing officer. During this portion of the hearing, advisors may confer privately and in a non-disruptive manner with their advisee, but they are not allowed to make opening statements or otherwise address the hearing officer or anyone else present at the hearing.
 
@@ -285,7 +284,7 @@ B) <span style="text-decoration:underline">General Order of the Hearing</span>
 
 (v) At the discretion of the hearing officer, parties (but not their advisors) will usually be given an opportunity to make a closing statement at the conclusion of the hearing.
 
-C) <span style="text-decoration:underline">Evidence</span>
+**C) Evidence**
 
 (i) Questions and evidence about the complainant’s sexual predisposition or prior sexual behavior are not relevant and will not be permitted, except for the limited circumstance where such questions and evidence about the complainant’s prior sexual behavior are offered to prove that someone other than the respondent committed the conduct alleged by the complainant, or if the questions and evidence concern specific incidents of the complainant’s prior sexual behavior with respect to the respondent and are offered to prove consent.
 
@@ -400,9 +399,7 @@ At any time prior to reaching a determination regarding responsibility, Middlebu
 
 *   The allegations;
 *   The requirements of the informal resolution process, including the circumstances under which it precludes the parties from resuming a formal complaint arising from the same allegations-
-
 *   As noted below, Middlebury generally permits parties to withdraw from the informal resolution process and initiate or re-initiate a formal investigation and hearing process at any time before the informal resolution process is completed and any informal resolution is agreed to in writing by the parties); and
-
 *   Any consequences resulting from participating in the informal resolution process, including the records that will be maintained or could be shared.
 
 The matter will be deemed resolved if and when the parties expressly agree in writing to an outcome that is acceptable to them and which is approved by the CRTIX Coordinator (in consultation with other Middlebury administrators as deemed necessary).  A party may withdraw from the informal resolution process at any time prior to their execution of a written informal resolution agreement. After an informal resolution is agreed to in writing between the parties, neither party may initiate a formal resolution process regarding substantially the same factual allegations.
@@ -461,8 +458,8 @@ Published: August 14, 2020
 
 Amended: September 10, 2021
 
-* * *
+---
 
-<a title="" href="#_ftnref1" name="_ftn1" id="_ftn1">[1]</a> Note that Schools Abroad are covered under AHD
+#### [[1]](#i-what-this-procedure-covers) Note that Schools Abroad are covered under AHD {#_ftn1}
 
-<a title="" href="#_ftnref2" name="_ftn2" id="_ftn2">[2]</a> Middlebury’s Vermont undergraduate campus program includes a confidential resource called MiddSafe; for more information, see [https://www.middlebury.edu/student-life/health-wellness-education-and-saf...](https://www.middlebury.edu/student-life/health-wellness-education-and-safety/education/middsafe).
+#### [[2]](#a-who-are-confidential-resources) Middlebury’s Vermont undergraduate campus program includes a confidential resource called MiddSafe; for more information, see [https://www.middlebury.edu/student-life/health-wellness-education-and-saf...](https://www.middlebury.edu/student-life/health-wellness-education-and-safety/education/middsafe). {#_ftn2}

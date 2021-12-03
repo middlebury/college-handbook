@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iii-policies-for-the-language-schools/c-financial-policies/c-3-withdrawals-and-refunds"
-date: "2021-05-01"
-title: "C.3 Withdrawals and Refunds"
+slug: /pages/iii-policies-for-the-language-schools/c-financial-policies/c-3-withdrawals-and-refunds
+date: 2021-05-01
+title: C.3 Withdrawals and Refunds
 ---
-
 **Withdrawal Policy**
 
 **The withdrawal deadline for all programs is July 2**. The refund deadline expires at 5:00 pm EDT USA.

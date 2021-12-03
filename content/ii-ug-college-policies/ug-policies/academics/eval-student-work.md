@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/ug-policies/academics/eval-student-work"
-date: "2021-05-01"
-title: "B.1.j. Evaluation of Student Work"
+slug: /pages/ii-ug-college-policies/ug-policies/academics/eval-student-work
+date: 2021-05-01
+title: B.1.j. Evaluation of Student Work
 ---
-
 **1\. Evaluation of Student Work**
 
 In all courses, instructors are expected to require a sufficient amount of written and/or oral and/or practical work so that both the instructor and the student are able to evaluate the student's progress in the course.

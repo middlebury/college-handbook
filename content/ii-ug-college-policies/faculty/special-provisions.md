@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/faculty/special-provisions"
-date: "2021-05-01"
-title: "C.18. Special Provisions of Appointment (associate status, release from contract)"
+slug: /pages/ii-ug-college-policies/faculty/special-provisions
+date: 2021-05-01
+title: C.18. Special Provisions of Appointment (associate status, release from contract)
 ---
-
 _a. Associate Appointment_
 
 i. Purpose  

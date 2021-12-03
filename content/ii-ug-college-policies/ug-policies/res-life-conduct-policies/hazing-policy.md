@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy"
-date: "2021-05-01"
-title: "B.2.c. Policy Against Hazing"
+slug: /pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy
+date: 2021-05-01
+title: B.2.c. Policy Against Hazing
 ---
-
 _Last updated September 10, 2021_
 
 Middlebury’s [General Conduct Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) include promoting healthy, safe, and balanced lifestyles. Student organizations and athletic teams can play a vital role in this process, and can provide transformative opportunities for friendship, leadership, and personal growth and discovery. Hazing of any kind is antithetical to these goals; therefore, Middlebury prohibits hazing activities, whether by an individual or an organization. In keeping with Middlebury’s prohibition of any kind of hazing, training and educational activities are periodically conducted with appropriate staff who support students and campus life.
@@ -125,4 +124,3 @@ Scott Barnicle:  802.443.3350
 Matt Longman:  802.443.3350  
 Emily Van Mistri:  802.443.3340  
 Jennifer Sellers:  802.443.3340
-

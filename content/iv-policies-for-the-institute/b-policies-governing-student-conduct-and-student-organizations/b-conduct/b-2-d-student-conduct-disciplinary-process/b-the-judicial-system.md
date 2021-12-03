@@ -1,14 +1,13 @@
 ---
-slug: "/pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-d-student-conduct-disciplinary-process/b-the-judicial-system"
-date: "2021-05-01"
-title: "B. The Judicial System"
+slug: /pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-d-student-conduct-disciplinary-process/b-the-judicial-system
+date: 2021-05-01
+title: B. The Judicial System
 ---
-
 The judicial system at the Institute consists of two judicial bodies: The Conduct Judicial Board and the Judicial Appeals Board. The judicial process is overseen by the ADSS.
 
 #### 1\. **Conduct Judicial Board**
 
-#### <span style="text-decoration:underline;color:#660000">**a. Jurisdiction**
+#### **a. Jurisdiction**
 
 The Conduct Judicial Board normally adjudicates allegations of significant non-academic and academic conduct infractions.
 
@@ -16,7 +15,7 @@ If the Conduct Judicial Board cannot be convened because the Institute is in rec
 
 Conduct issues that do not fall under our Anti-Harassment/Discrimination Policy or our Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct or Stalking, and, that occur during our Summer Intensive Language Program (SILP), or one of our intensive English language programs, will be handled according to the conduct policies and procedures established for the relevant program.
 
-#### <span style="text-decoration:underline;color:#660000">**b. Organization**
+#### **b. Organization**
 
 **_Composition_**
 
@@ -44,17 +43,17 @@ A faculty member who believes a student has engaged in academic dishonesty shall
 
 For non-academic allegation hearings, a staff or faculty co-chair is identified the ADSS on a per hearing basis. The student members of the Conduct Judicial Board may select one student to serve as the student co-chair, on a per-hearing basis. The ADSS will determine based on the composition of board members for each hearing who will serve as the chair for that hearing.
 
-#### <span style="text-decoration:underline;color:#660000">**c. Accountability and Changes in Procedure**
+#### **c. Accountability and Changes in Procedure**
 
 The Conduct Judicial Board is accountable to the VPAA/DOI who is responsible for considering and approving all recommended changes to the policy and procedures of the Conduct Judicial Board.
 
 #### **2. Judicial Appeals Board**
 
-#### <span style="text-decoration:underline;color:#660000">**a. Jurisdiction**
+#### **a. Jurisdiction**
 
 The Judicial Appeals Board has jurisdiction, as specified in the [Appeals Procedures](/pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-d-student-conduct-disciplinary-process/f-appeals-procedures) to hear appeals of decisions of the Conduct Judicial Board under certain circumstances.
 
-#### <span style="text-decoration:underline;color:#660000">**b. Organization**
+#### **b. Organization**
 
 **_Composition_**
 

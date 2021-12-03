@@ -1,9 +1,8 @@
 ---
-slug: "/pages/iii-policies-for-the-language-schools/b-academic-policies/b-5-for-middlebury-college-undergraduates"
-date: "2021-05-01"
-title: "B.5 For Middlebury College Undergraduates"
+slug: /pages/iii-policies-for-the-language-schools/b-academic-policies/b-5-for-middlebury-college-undergraduates
+date: 2021-05-01
+title: B.5 For Middlebury College Undergraduates
 ---
-
 **Course Numbers and Titles**
 
 The titles and numbers of courses offered at the Language Schools during the summer may not match the titles and numbers of courses in the corresponding language departments during the academic year. The expectation is that the level in which students are placed by examination at or before the beginning of the summer session will reflect the work students have done previously in the language: that is, students will place at a level superior to that which students have successfully completed. If students place at a lower level than expected (i.e., a level for which students have already received Middlebury College academic year credit), students may enroll in the Language Schools, but might not receive academic credit for the classes taken at the Language Schools. Language Schools courses may be used to satisfy Middlebury College academic distributions and/or cultures and civilizations requirements. Students should apply for academic distributions and cultures and civilizations tags with the Middlebury College department chair.

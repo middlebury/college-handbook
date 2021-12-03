@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/commun-policies/comm-council"
-date: "2021-05-01"
-title: "A.2. Community Council"
+slug: /pages/ii-ug-college-policies/commun-policies/comm-council
+date: 2021-05-01
+title: A.2. Community Council
 ---
-
 The Community Council serves as a forum in which all the segments of the College community: administration, faculty, staff, and students, have a voice on nonacademic issues facing the College. With this representative membership, Community Council deliberations and decisions take into consideration the interests and concerns of the whole community. The diverse membership assures that each member of the council hears and understands the views of the other sections of the community, thus linking the four groups that compose the Middlebury College community.
 
 The Community Council has a dual role in the College governance structure. Sometimes the council makes decisions and then implements those decisions as College policy. On certain matters, the council serves as an advisory body to the president and the administration.
@@ -20,7 +19,7 @@ b. The Community Council may recommend actions to the president and administrati
 
 a. Responsibilities
 
-i. Through its representative to the Judicial Board Selection Committee, Community Council provides input and may make recommendations for [](https://c/Users/mcdurfee/AppData/Local/Temp/Edited%20handbook%20language%20CC%202017%20edits%20KSA%20and%20HSR-1.docx#_msocom_1)student membership of the Community Judicial Board, the Academic Judicial Board, and the Judicial Appeals Board.
+i. Through its representative to the Judicial Board Selection Committee, Community Council provides input and may make recommendations for [](https://c/Users/mcdurfee/AppData/Local/Temp/Edited%20handbook%20language%20CC%202017%20edits%20KSA%20and%20HSR-1.docx#_msocom_1) student membership of the Community Judicial Board, the Academic Judicial Board, and the Judicial Appeals Board.
 
 ii. *Oversight of residential issues:*  Community Council may hear an annual report from the Inter-House Council (IHC) early in the year concerning the role of each house in the residential system of Middlebury and biannually a report from each social and academic interest house about their engagement with the College community and compliance with the College policy. (see Residential Life Committee below.)
 

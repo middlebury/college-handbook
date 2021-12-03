@@ -1,9 +1,8 @@
 ---
-slug: "/pages/ii-ug-college-policies/employee/employment/scheduling-hours-operation"
-date: "2021-05-01"
-title: "2.9 Scheduling and Hours of Operation"
+slug: /pages/ii-ug-college-policies/employee/employment/scheduling-hours-operation
+date: 2021-05-01
+title: 2.9 Scheduling and Hours of Operation
 ---
-
 The College has many functional units with diverse objectives and operational needs. Employees should work with their supervisor and department head to understand the scheduling needs of the department and individual procedures related to hours and scheduling.
 
 It is expected that administrative offices are open from 8:15 a.m. to 5:00 p.m., Monday through Friday. During standard office hours, it is expected that coverage of the office or department will be in place. A minimum of 30 minutes of unpaid time is included in a typical administrative employee's schedule to allow for a meal period. The schedules of non-administrative departments are determined by work needs. Departments may also provide one 15-minute break each day, scheduled by the supervisor.
