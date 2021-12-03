@@ -63,7 +63,7 @@ E-mail is the official method for communicating with Middlebury students, facult
 
 Middlebury has adopted guidelines for appropriate use of All Campus Email messages and such messages may only be sent by specific authorized individuals. More information is available [here](https://go.middlebury.edu/policy-email).
 
-#### **3\. Network Monitoring Policy**
+### **3\. Network Monitoring Policy**
 
 **a. Purpose**  
 The primary purpose of network monitoring is to ensure the availability, performance and security of Middlebury’s network services. This includes identifying and blocking malicious activity in order to protect the College’s data, systems, and reputation.
