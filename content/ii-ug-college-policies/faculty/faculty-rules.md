@@ -730,7 +730,7 @@ _(e)_ To make the final decision and to notify the candidate in a letter that in
 
 #### **4\. PRIOR SERVICE, EARLY REVIEW, AND LENGTH OF APPOINTMENT UNDER "NEW" RULES** {#prior_service}
 
-#### **a. Normal Review Schedules in Case of Prior Service** {#normal_review_sched}   
+#### **a. Normal Review Schedules in Case of Prior Service** {#normal_review_sched}
 All regular faculty members appointed to full-time positions at any rank, who have had prior full-time appointment at another college or university, are reviewed for reappointment no later than in the third year of their Middlebury appointment.
 
 Faculty who teach less than full-time are normally reviewed after they have taught ten fall/spring courses.

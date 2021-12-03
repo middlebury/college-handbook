@@ -356,8 +356,8 @@ Service Building
 
 ---
 
-##### [1] Everyone is entitled to report complaints of sexual harassment and sexual misconduct. Complaints should be made under the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy). {#_ftn1}
+##### [[1]](#2-complaint-procedures) Everyone is entitled to report complaints of sexual harassment and sexual misconduct. Complaints should be made under the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy). {#_ftn1}
 
-##### [2] Disclosure of the sanction imposed on the respondent will be permitted in sexual harassment cases when the sanction directly relates to the complainant (e.g., No Contact Orders, building restrictions, classroom changes or where the respondent is prohibited from attending Middlebury for a period of time) {#_ftn2}
+##### [[2]](#2-complaint-procedures) Disclosure of the sanction imposed on the respondent will be permitted in sexual harassment cases when the sanction directly relates to the complainant (e.g., No Contact Orders, building restrictions, classroom changes or where the respondent is prohibited from attending Middlebury for a period of time) {#_ftn2}
 
-##### [3] Middlebury’s Vermont undergraduate campus program includes a confidential resource called [MiddSafe](https://www.middlebury.edu/offices/health/saoc/middsafe); for more information, see [https://www.middlebury.edu/offices/health/saoc/middsafe](https://www.middlebury.edu/offices/health/saoc/middsafe) {#_ftn3}
+##### [[3]](#glossary) Middlebury’s Vermont undergraduate campus program includes a confidential resource called [MiddSafe](https://www.middlebury.edu/offices/health/saoc/middsafe); for more information, see [https://www.middlebury.edu/offices/health/saoc/middsafe](https://www.middlebury.edu/offices/health/saoc/middsafe) {#_ftn3}

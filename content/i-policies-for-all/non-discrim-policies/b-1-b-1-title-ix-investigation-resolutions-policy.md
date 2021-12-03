@@ -460,6 +460,6 @@ Amended: September 10, 2021
 
 ---
 
-#### [1] Note that Schools Abroad are covered under AHD {#_ftn1}
+#### [[1]](#i-what-this-procedure-covers) Note that Schools Abroad are covered under AHD {#_ftn1}
 
-#### [2] Middlebury’s Vermont undergraduate campus program includes a confidential resource called MiddSafe; for more information, see [https://www.middlebury.edu/student-life/health-wellness-education-and-saf...](https://www.middlebury.edu/student-life/health-wellness-education-and-safety/education/middsafe). {#_ftn2}
+#### [[2]](#a-who-are-confidential-resources) Middlebury’s Vermont undergraduate campus program includes a confidential resource called MiddSafe; for more information, see [https://www.middlebury.edu/student-life/health-wellness-education-and-saf...](https://www.middlebury.edu/student-life/health-wellness-education-and-safety/education/middsafe). {#_ftn2}

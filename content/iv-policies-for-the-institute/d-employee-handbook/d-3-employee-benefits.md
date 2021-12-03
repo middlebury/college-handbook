@@ -77,7 +77,7 @@ In addition, the following holidays are considered “floating” holidays:
 
 • Memorial Day
 
-• July 4<sup>th</sup> (Independence Day)
+• July 4th (Independence Day)
 
 • Labor Day
 

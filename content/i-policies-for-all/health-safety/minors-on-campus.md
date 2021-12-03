@@ -505,6 +505,6 @@ Washington D.C. law does not specifically address the confidentiality of the ide
 
 ---
 
-##### [[1]](#_ftnref1) See [https://law.onecle.com/california/penal/11165.7.html](https://law.onecle.com/california/penal/11165.7.html) {#_ftn1}
+##### [[1]](#i-california) See [https://law.onecle.com/california/penal/11165.7.html](https://law.onecle.com/california/penal/11165.7.html) {#_ftn1}
 
-##### [[2]](#_ftnref2) The statute reads that “every person” is required to report.  N.M.S.A. § 32A-4-3 (a).  Despite the statute’s plain language, the New Mexico Court of Appeals has held that that words “every person” only mean the professionals specifically identified in the statute (i.e. the professionals listed in the preceding bullet points).  *State v. Strauch*, 2014-NMCA-020, 317 P.3d 878, 881 (N.M. Ct.App. 2013). The New Mexico Supreme Court has decided to review this question. *State v. Strauch*, 321 P.3d 936 (N.M. Ct. App. 2014) (granting cert). Middlebury’s handling of related issues will comply with New Mexico law as applicable at the relevant time. {#_ftn2}
+##### [[2]](#ii-new-mexico) The statute reads that “every person” is required to report.  N.M.S.A. § 32A-4-3 (a).  Despite the statute’s plain language, the New Mexico Court of Appeals has held that that words “every person” only mean the professionals specifically identified in the statute (i.e. the professionals listed in the preceding bullet points).  *State v. Strauch*, 2014-NMCA-020, 317 P.3d 878, 881 (N.M. Ct.App. 2013). The New Mexico Supreme Court has decided to review this question. *State v. Strauch*, 321 P.3d 936 (N.M. Ct. App. 2014) (granting cert). Middlebury’s handling of related issues will comply with New Mexico law as applicable at the relevant time. {#_ftn2}
