@@ -1,9 +1,9 @@
 ---
 slug: /pages/ii-ug-college-policies/employee/employment/basic-info
-date: 2021-05-01
 title: 2.3 Basic Information about Employment at Middlebury College
+date: 12/07/2021
 ---
-**Hiring**
+### **Hiring**
 
 Human Resources confirms by letter all appointments as well as all promotions, job transfers, and changes in employee status. Before being placed on the payroll, new employees must complete the necessary federal forms at the Human Resources office.
 
@@ -15,15 +15,15 @@ The College, in accordance with the Immigration Reform and Control Act of 1986, 
 
 Employees are responsible for taking an active role in keeping their records current and accurate. Notification to Human Resources of any changes in personal status is critical. Such information is necessary to ensure correct coverage and, if appropriate, deductions for taxes, medical insurance, life insurance, etc. Incorrect or outdated information may affect employee benefits and the ability of the College to make the appropriate contacts in an emergency. The accuracy of an employee's entry in the College directory depends on the accuracy of that employee's files. Some changes that should be reported promptly include:
 
-* Name
-* Home address
-* Telephone number
-* Marital status
-* Names and social security numbers of dependents
-* Birth dates of dependents
-* Changes in dependent(s) status
-* Changes in emergency contact information
-* Beneficiary designations for benefit plans, such as retirement plan, life insurance, etc.
+*   Name
+*   Home address
+*   Telephone number
+*   Marital status
+*   Names and social security numbers of dependents
+*   Birth dates of dependents
+*   Changes in dependent(s) status
+*   Changes in emergency contact information
+*   Beneficiary designations for benefit plans, such as retirement plan, life insurance, etc.
 
 Employees may review the personal information in their personnel files by setting up an appointment with a representative of Human Resources. One business day notice is required.
 
@@ -43,7 +43,7 @@ Middlebury College classifies faculty and staff members according to the chart b
 
 **Employee Group Classifications - FACULTY**
 
-<table><tbody><tr><td><strong>Classification</strong></td><td><strong>Appointment Duration</strong></td><td><strong>FTE</strong></td><td><strong>Benefits Eligibility</strong></td></tr><tr><td>Full-Time</td><td>&#8805;1 Academic Year</td><td>.8-1</td><td>Yes</td></tr><tr><td>Part-Time - Benefits Eligible</td><td>&#8805;1 Academic Year</td><td>.5-.79</td><td>Yes</td></tr><tr><td>Part-Time - Not Benefits Eligible**</td><td>Any</td><td>&lt;.5</td><td>No</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Classification</strong></td><td><strong>Appointment Duration</strong></td><td><strong>FTE</strong></td><td><strong>Benefits Eligibility</strong></td></tr><tr><td>Full-Time</td><td>≥1 Academic Year</td><td>.8-1</td><td>Yes</td></tr><tr><td>Part-Time - Benefits Eligible</td><td>≥1 Academic Year</td><td>.5-.79</td><td>Yes</td></tr><tr><td>Part-Time - Not Benefits Eligible**</td><td>Any</td><td>&lt;.5</td><td>No</td></tr></tbody></table>
 
 **Employee Group Classifications - STAFF**
 
