@@ -11,7 +11,7 @@ Human Resources confirms by letter all appointments as well as all promotions, j
 
 The College, in accordance with the Immigration Reform and Control Act of 1986, is committed to employing only those applicants authorized to work in the United States. As a condition of employment, all new and rehired employees must properly complete, sign, and date the first section of the U.S. Citizenship and Immigration Services Form I-9 by his or her first day of employment. The employee's documents must be reviewed and section 2 completed within three business days of the first day of work. An employee who does not properly complete the I-9 form within the legally required timeframe will not be permitted to continue to work until the form is completed.
 
-**Personnel Records and Changes in Personal Status**
+## **Personnel Records and Changes in Personal Status** {#Status}
 
 Employees are responsible for taking an active role in keeping their records current and accurate. Notification to Human Resources of any changes in personal status is critical. Such information is necessary to ensure correct coverage and, if appropriate, deductions for taxes, medical insurance, life insurance, etc. Incorrect or outdated information may affect employee benefits and the ability of the College to make the appropriate contacts in an emergency. The accuracy of an employee's entry in the College directory depends on the accuracy of that employee's files. Some changes that should be reported promptly include:
 
