@@ -1,13 +1,13 @@
 ---
 slug: /pages/i-policies-for-all/health-safety/tam-policy
-date: 2021-05-01
 title: C.2. Threat Assessment and Response Policy
+date: 2021-05-01
 ---
-* [**Introduction**](#i-introduction--purpose)
-* [**Threat Assessment Team**](#ii-threat-assessment-team)
-* [**Reporting Potential Threats**](#iiireporting-potential-threats)
-* [**Confidentiality**](#ivconfidentiality)
-* [**Retaliation**](#vretaliation)
+*   [**Introduction**](#i-introduction--purpose)
+*   [**Threat Assessment Team**](#ii-threat-assessment-team)
+*   [**Reporting Potential Threats**](#iiireporting-potential-threats)
+*   [**Confidentiality**](#ivconfidentiality)
+*   [**Retaliation**](#vretaliation)
 
 ---
 
@@ -25,14 +25,13 @@ The Vermont TAM is chaired by the Director of Public Safety, and ordinarily cons
 
 The Institute TAM is co-chaired by the Associate Dean of Student Services and the Executive Assistant to the Vice President.  Ordinarily, the Institute TAM consists of representatives from Advising, Career, Student Services, Human Resources, Information Technology Services, Communications, the Institute campus security, and the VP’s office.
 
-
 **Vermont TAM**
 
-<table><tbody><tr><td>Contact</td><td>Title</td><td>Email</td><td>Phone</td></tr><tr><td>Lisa Burchard</td><td>Special Projects / Public Safety</td><td><a href="mailto:eburchard@middlebury.edu">eburchard@middlebury.edu</a></td><td>802.443.5241</td></tr><tr><td><p>Dan Gaiotti</p><p>Keith Ellery</p></td><td><p>Interim Dir. of Public Safety</p><p>Assoc. Dir. of Public Safety</p></td><td><p><a href="mailto:dgaiotti@middlebury.edu">dgaiotti@middlebury.edu</a></p><p><a href="mailto:kellery@middlebury.edu">kellery@middlebury.edu</a></p></td><td><p>802.443.5873</p><p>802.443.5216</p></td></tr><tr><td>Sujata Moorti</td><td>VP for Academic Affairs &amp; Dean of Faculty</td><td><a href="mailto:lloyd@middlebury.edu">lloyd@middlebury.edu</a></td><td>802.443.5735</td></tr><tr><td>Smita Ruzicka</td><td>VP for Student Affairs</td><td><a href="mailto:sruzicka@middlebury.edu">sruzicka@middlebury.edu</a></td><td>802.443.2465</td></tr><tr><td>Mike Thomas</td><td>Chief Risk Officer</td><td><a href="mailto:thomas@middlebury.edu">thomas@middlebury.edu</a></td><td>802.443.5551</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Laura Carotenuto</td><td>Asst. VP of HR for Central Administration</td><td><a href="mailto:lcaroten@middlebury.edu">lcaroten@middlebury.edu</a></td><td>802.443.2012</td></tr><tr><td>Barbara McCall</td><td>Exec. Dir., Health and Counseling Services</td><td><a href="mailto:bmccall@middlebury.edu">bmccall@middlebury.edu</a></td><td>802.443.5361</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
+<table><tbody><tr><td>Contact</td><td>Title</td><td>Email</td><td>Phone</td></tr><tr><td>Demitria Kirby</td><td>Chair, Director of Public Safety</td><td><a href="mailto:dkirby@middlebury.edu">dkirby@middlebury.edu</a>&nbsp;</td><td>802.443.5201</td></tr><tr><td>Dan Gaiotti</td><td>Assoc. Dir. of Public Safety</td><td><a href="mailto:dgaiotti@middlebury.edu">dgaiotti@middlebury.edu</a></td><td>802.443.5873</td></tr><tr><td>Lisa Burchard</td><td>Special Projects / Public Safety</td><td><a href="mailto:eburchard@middlebury.edu">eburchard@middlebury.edu</a></td><td>802.443.5241</td></tr><tr><td>Keith Ellery</td><td>Assoc. Dir. of Public Safety</td><td><a href="mailto:kellery@middlebury.edu">kellery@middlebury.edu</a></td><td>802.443.5216</td></tr><tr><td>Sujata Moorti</td><td>VP for Academic Affairs &amp; Dean of Faculty</td><td><a href="mailto:lloyd@middlebury.edu">lloyd@middlebury.edu</a></td><td>802.443.5735</td></tr><tr><td>Smita Ruzicka</td><td>VP for Student Affairs</td><td><a href="mailto:sruzicka@middlebury.edu">sruzicka@middlebury.edu</a></td><td>802.443.2465</td></tr><tr><td>Mike Thomas</td><td>Chief Risk Officer</td><td><a href="mailto:thomas@middlebury.edu">thomas@middlebury.edu</a></td><td>802.443.5551</td></tr><tr><td>Laura Carotenuto</td><td>Asst. VP of HR for Central Administration</td><td><a href="mailto:lcaroten@middlebury.edu">lcaroten@middlebury.edu</a></td><td>802.443.2012</td></tr><tr><td>Barbara McCall</td><td>Exec. Dir., Health and Counseling Services</td><td><a href="mailto:bmccall@middlebury.edu">bmccall@middlebury.edu</a></td><td>802.443.5361</td></tr></tbody></table>
 
 **California TAM**
 
-<table><tbody><tr><td>Contact</td><td>Title</td><td>Email</td><td>Phone</td></tr><tr><td>Ashley Arrocha</td><td>Co-Chair, Associate Dean of Student Services</td><td><a href="mailto:aarrocha@miis.edu">aarrocha@miis.edu</a></td><td>831.647.4654</td></tr><tr><td>Barbara Burke</td><td>Co-Chair, Executive Assistant to the Vice President</td><td><a href="mailto:blburke@miis.edu">blburke@miis.edu</a></td><td>831.647.3513</td></tr><tr><td>Betcie Daniels</td><td>Campus Security Manager</td><td><a href="mailto:bdaniels@miis.edu">bdaniels@miis.edu</a></td><td>831.647.4153</td></tr><tr><td>Eva Gudbergsdottir</td><td>Associate Director of Communications</td><td><a href="mailto:evaj@middlebury.edu">evag@middlebury.edu</a></td><td>831.647.6606</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>Michael Ulibarri</td><td>Senior Business Partner</td><td><a href="mailto:mulibarr@miis.edu">mulibarr@miis.edu</a></td><td>831.647.6404</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
+<table><tbody><tr><td>Contact</td><td>Title</td><td>Email</td><td>Phone</td></tr><tr><td>Ashley Arrocha</td><td>Co-Chair, Associate Dean of Student Services</td><td><a href="mailto:aarrocha@miis.edu">aarrocha@miis.edu</a></td><td>831.647.4654</td></tr><tr><td>Barbara Burke</td><td>Co-Chair, Executive Assistant to the Vice President</td><td><a href="mailto:blburke@miis.edu">blburke@miis.edu</a></td><td>831.647.3513</td></tr><tr><td>Betcie Daniels</td><td>Campus Security Manager</td><td><a href="mailto:bdaniels@miis.edu">bdaniels@miis.edu</a></td><td>831.647.4153</td></tr><tr><td>Eva Gudbergsdottir</td><td>Associate Director of Communications</td><td><a href="mailto:evaj@middlebury.edu">evag@middlebury.edu</a></td><td>831.647.6606</td></tr><tr><td>Michael Ulibarri</td><td>Senior Business Partner</td><td><a href="mailto:mulibarr@miis.edu">mulibarr@miis.edu</a></td><td>831.647.6404</td></tr></tbody></table>
 
 Middlebury’s General Counsel serves as an adviser to both TAMs, and is expected to attend regular as well as _ad hoc_ meetings.
 
