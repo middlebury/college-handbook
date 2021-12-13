@@ -1,13 +1,13 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/x-courses-ocs
-date: 2021-05-01
 title: B.1.i. Transfer Courses and Off-Campus Study
+date: 2021-05-01
 ---
 At Middlebury's discretion, students may earn academic credit through the following categories of off-campus study: transfer courses, 0555 courses, study abroad, pre-professional combined plans, domestic off-campus programs, and exchange programs. Each category of off-campus study is subject to separate rules, procedures, and financial aid implication, as indicated below. In cases of uncertainty as to the category of a student's off-campus study, a final determination will be made by the dean of curriculum or vice president for academic affairs and dean of the schools.
 
 **1\. Transfer Courses**
 
-Transfer courses are those taken individually on an *ad hoc* basis (i.e., not as part of a domestic off-campus program, pre-professional combined plan, study abroad, or exchange program) from another institution of higher education.  To take such courses during the academic year, regularly enrolled students must normally withdraw temporarily from Middlebury and apply directly to the institution at which they wish to take a course or courses. International students should consult with International Student and Scholar Services, as there may be visa implications for temporarily withdrawing from Middlebury.
+Transfer courses are those taken individually on an _ad hoc_ basis (i.e., not as part of a domestic off-campus program, pre-professional combined plan, study abroad, or exchange program) from another institution of higher education.  To take such courses during the academic year, regularly enrolled students must normally withdraw temporarily from Middlebury and apply directly to the institution at which they wish to take a course or courses. International students should consult with International Student and Scholar Services, as there may be visa implications for temporarily withdrawing from Middlebury.
 
 Students may transfer course credits from other institutions of higher education only at the discretion of Middlebury College. Students should obtain preliminary approval for any course for which they expect transfer credit before enrolling in it.  To apply for pre-approval to take courses at another college or university, students should complete in advance a [Transfer Credit Application Form](https://www.middlebury.edu/system/files/transfer_credit_form_july_2018_0.pdf), requiring approval by both the appropriate department chair or program director, whose responsibility is to evaluate the transfer course content and determine whether the tranfer course fulfills any degree requirements (i.e., academic distribution, cultures and civilizations, departmental major, etc.), and the dean of curriculum, who ensures that the transfer institution, the course credit value, and other course details adhere to Middlebury College's transfer credit guidelines. The form should be accompanied by a complete course description and a syllabus, if available; further information about the institution may also be required by the chair or dean. For summer transfer courses taken abroad, students must also complete the online [summer study abroad application form](https://studyabroad.middlebury.edu/index.cfm?FuseAction=Programs.ViewProgram&Program_ID=10376). Transcripts from approved educational institutions must be official and sent directly to the Registrar's Office at Middlebury from the institution that granted credit. Grade reports, unofficial transcripts, faxed or hand-carried transcripts are not acceptable.
 
@@ -41,7 +41,7 @@ Grades for courses taken on approved programs abroad are recorded on the transcr
 
 For more information about study abroad requirements, students can check the guidelines posted on the [Study Abroad website](https://www.middlebury.edu/international/sa), as well as in the catalog entries for individual language departments, and/or they may consult International Programs and Off-Campus Study.
 
-Financial aid is available for all Middlebury Schools Abroad programs and a small number of externally sponsored Middlebury approved programs. Students with questions about the availability of financial aid for specific programs are encouraged to consult the study abroad guidelines, International Programs and Off-Campus Study or the [Study Abroad website](https://www.middlebury.edu/international/sa) *(see above).* Questions about the process of applying for and receiving aid for approved programs can be answered by the staff in the Office of Student Financial Services.
+Financial aid is available for all Middlebury Schools Abroad programs and a small number of externally sponsored Middlebury approved programs. Students with questions about the availability of financial aid for specific programs are encouraged to consult the study abroad guidelines, International Programs and Off-Campus Study or the [Study Abroad website](https://www.middlebury.edu/international/sa) _(see above)._ Questions about the process of applying for and receiving aid for approved programs can be answered by the staff in the Office of Student Financial Services.
 
 **4\. Pre-Professional Combined Plans**
 
@@ -63,6 +63,10 @@ Questions about the availability of financial aid for these programs should be d
 
 **7\. Reserve Officers' Training Corps (ROTC)**
 
-Middlebury students who complete all eight of the ROTC courses at the University of Vermont are eligible to receive two credits towards their Middlebury College degree.  No credits will be awarded if the student does not complete the full sequence of ROTC courses. The two credits awarded will be general credits and will not satisfy any distribution requirements. Completion of the ROTC program will satisfy one of the two physical education units required for graduation.
+Middlebury students completing work in the ROTC program at the University of Vermont are eligible to receive up to three credits towards their Middlebury College degree: one academic credit upon completion of the first two years of ROTC classes and one credit upon completion of each of the third and fourth years of ROTC classes. The credits awarded will be general non-graded credits and will not satisfy any major, minor or distribution requirements. The following University of Vermont courses may count toward the three academic credits:
 
-_rev. 8/16/17_
+*   For the first academic credit: completion of MS 011, MS 012, MS 021, and MS 022.
+*   For the second academic credit: completion of MS 131 and MS 132.
+*   For the third academic credit: completion of MS 241 and MS 242.
+
+Participation in the ROTC program may also satisfy both of the two physical education units required for graduation. One physical education credit will be awarded for completion of the first year of ROTC physical training and the second for the second year.
