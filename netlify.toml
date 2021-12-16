@@ -1,3 +1,13 @@
+[context.production.environment]
+  CMS_BRANCH = "master"
+
+[context.staging.environment]
+  CMS_BRANCH = "staging"
+
+[build]
+  publish = "public/"
+  command = "sed -i \"s/branch: master/branch: ${CMS_BRANCH}/g\" static/admin/config.yml && npm run build"
+
 [[redirects]]
   from = "/handbook/*"
   to = "/:splat"
