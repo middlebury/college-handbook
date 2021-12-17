@@ -1658,8 +1658,92 @@ export const nodes = [
     ],
   },
   {
-    value: "v-handbook-archive",
+    value: "v-policies-for-schools-abroad",
+    label: "V. Policies for Schools Abroad",
+    className: "v-policies-for-schools-abroad",
+    children: [
+      {
+        value: "v-policies-for-schools-abroad/academics",
+        label: "Academics",
+        className: "academics",
+        children: [
+          { value: "v-policies-for-schools-abroad/academics/academic-honesty-honor-code", label: "Academic Honesty/Honor Code", className: "academic-honesty-honor-code"},
+          { value: "v-policies-for-schools-abroad/academics/academic-program", label: "Academic Program", className: "academic-program"},
+          { value: "v-policies-for-schools-abroad/academics/add-drop", label: "Add/Drop", className: "add-drop"},
+          { value: "v-policies-for-schools-abroad/academics/appealing-grades", label: "Appealing Grades", className: "appealing-grades"},
+          { value: "v-policies-for-schools-abroad/academics/arts-classes-studio-art-dance-music", label: "Arts Classes (Studio Art, Dance,Music)", className: "arts-classes-studio-art-dance-music"},
+          { value: "v-policies-for-schools-abroad/academics/auditing", label: "Auditing", className: "auditing"},
+          { value: "v-policies-for-schools-abroad/academics/class-attendance", label: "Class Attendance", className: "class-attendance"},
+          { value: "v-policies-for-schools-abroad/academics/exams", label: "Exams", className: "exams"},
+          { value: "v-policies-for-schools-abroad/academics/grades-transcripts-and-transfer-of-credit", label: "Grades, Transcripts, and Transfer of Credit", className: "grades-transcripts-and-transfer-of-credit"},
+          { value: "v-policies-for-schools-abroad/academics/graduate-level-coursework", label: "Graduate-Level Coursework", className: "graduate-level-coursework"},
+          { value: "v-policies-for-schools-abroad/academics/host-universities", label: "Host Universities", className: "host-universities"},
+          { value: "v-policies-for-schools-abroad/academics/incompletes", label: "Incompletes", className: "incompletes"},
+          { value: "v-policies-for-schools-abroad/academics/independent-projects-studies", label: "Independent Projects & Studies", className: "independent-projects-studies"},
+          { value: "v-policies-for-schools-abroad/academics/language-pledge", label: "Language Pledge", className: "language-pledge"},
+          { value: "v-policies-for-schools-abroad/academics/learning-outside-the-classroom", label: "Learning Outside the Classroom", className: "learning-outside-the-classroom"},
+          { value: "v-policies-for-schools-abroad/academics/program-testing", label: "Program Testing", className: "program-testing"},
+          { value: "v-policies-for-schools-abroad/academics/religious-holidays", label: "Religious Holidays", className: "religious-holidays"},
+          { value: "v-policies-for-schools-abroad/academics/research", label: "Research", className: "research"},
+          { value: "v-policies-for-schools-abroad/academics/studying-another-language-in-the-target-language", label: "Studying Another Language in the Target Language", className: "studying-another-language-in-the-target-language"},
+          { value: "v-policies-for-schools-abroad/academics/training-education", label: "Training and Education", className: "training-education"},
+        ]
+      },
+      {
+        value: "v-policies-for-schools-abroad/living-abroad",
+        label: "Living Abroad",
+        className: "living-abroad",
+        children: [
+          { value: "v-policies-for-schools-abroad/living-abroad/bed-bug-policy", label: "Bed Bug Policy", className: "bed-bug-policy"},
+          { value: "v-policies-for-schools-abroad/living-abroad/independent-activity-during-program-breaks", label: "Independent Activity During Program Breaks", className: "independent-activity-during-program-breaks"},
+        ]
+      },
+      {
+        value: "v-policies-for-schools-abroad/financial-information",
+        label: "Finances",
+        className: "financial-information",
+        children: [
+          { value: "v-policies-for-schools-abroad/financial-information/billing", label: "Bed Bug Policy", className: "billing"},
+          { value: "v-policies-for-schools-abroad/financial-information/cancellation-fees", label: "Cancellation Fees", className: "cancellation-fees"},
+          { value: "v-policies-for-schools-abroad/financial-information/withdrawals", label: "Withdrawals", className: "withdrawals"},
+        ]
+      },
+      {
+        value: "v-policies-for-schools-abroad/alcohol-and-drugs",
+        label: "Alcohol and Illegal Drugs",
+        className: "alcohol-and-drugs",
+      },
+      {
+        value: "v-policies-for-schools-abroad/middlebury-college-policies",
+        label: "Middlebury College Policies",
+        className: "middlebury-college-policies",
+        children: [
+          {value: "v-policies-for-schools-abroad/middlebury-college-policies/change-of-status", label: "Change of Status", className: "change-of-status"},
+          {value: "v-policies-for-schools-abroad/middlebury-college-policies/disciplinary-action", label: "Disciplinary Action", className: "disciplinary-action"},
+          {value: "v-policies-for-schools-abroad/middlebury-college-policies/appeal", label: "Appeals", className: "appeal"},
+          {value: "v-policies-for-schools-abroad/middlebury-college-policies/email-policy", label: "Email Policy", className: "email-policy"},
+          {value: "v-policies-for-schools-abroad/middlebury-college-policies/media-use-policy", label: "Media Use Policy", className: "media-use-policy"},
+          {value: "v-policies-for-schools-abroad/middlebury-college-policies/student-conduct", label: "Student Conduct", className: "student-conduct"},
+          {value: "v-policies-for-schools-abroad/middlebury-college-policies/introductory-matters", label: "Introductory Matters", className: "introductory-matters"},
+          {value: "v-policies-for-schools-abroad/middlebury-college-policies/community-standards", label: "Community Standards", className: "community-standards"},
+          {value: "v-policies-for-schools-abroad/middlebury-college-policies/emergency-removals", label: "Emergency Removals", className: "emergency-removals"},
+          {value: "v-policies-for-schools-abroad/middlebury-college-policies/scope-of-oversight", label: "Scope of Oversight", className: "scope-of-oversight"},
+          {value: "v-policies-for-schools-abroad/middlebury-college-policies/pending-discipline", label: "Pending Discipline", className: "pending-discipline"},
+          {value: "v-policies-for-schools-abroad/middlebury-college-policies/prohibited-conduct", label: "Prohibited Conduct", className: "prohibited-conduct"},
+          {value: "v-policies-for-schools-abroad/middlebury-college-policies/other-policies", label: "Other Policies", className: "other-policies"},
+          {value: "v-policies-for-schools-abroad/middlebury-college-policies/alcohol-and-other-drugs", label: "Alcohol and Other Drugs", className: "alcohol-and-other-drugs"},
+          {value: "v-policies-for-schools-abroad/middlebury-college-policies/health-and-community-responsibility", label: "Health and Community Responsibility", className: "health-and-community-responsibility"},
+          {value: "v-policies-for-schools-abroad/middlebury-college-policies/sanctions", label: "Sanctions ", className: "sanctions"},
+          {value: "v-policies-for-schools-abroad/middlebury-college-policies/laws-resources-and-additional-information", label: "Laws, Resources, and Additional Information", className: "laws-resources-and-additional-information"},
+          {value: "v-policies-for-schools-abroad/middlebury-college-policies/policy-against-sexual-misconduct", label: "Policy Against Sexual Misconduct Domestic and Dating Violence and Misconduct, and Stalking", className: "policy-against-sexual-misconduct"},
+          {value: "v-policies-for-schools-abroad/middlebury-college-policies/anti-harassment-discrimination-policy", label: "Anti-Harassment/Discrimination Policy", className: "anti-harassment-discrimination-policy"},
+        ]
+      }
+    ],
+  },
+  {
+    value: "vi-handbook-archive",
     label: "Previous Handbooks",
-    className: "v-handbook-archive",
+    className: "vi-handbook-archive",
   },
 ];

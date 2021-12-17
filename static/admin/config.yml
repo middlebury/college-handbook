@@ -122,9 +122,37 @@ collections:
           widget: "CKEditor",
           required: false,
         }
+  - name: "schools-abroad"
+    label: "V. Policies for Schools Abroad"
+    folder: "content/v-policies-for-schools-abroad"
+    path: "{{slug}}/{{slug}}/"
+    create: false
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          default: "document name",
+          widget: "string",
+          required: false,
+        }
+      - {
+        label: "Date Edited",
+        name: "date",
+        widget: "datetime",
+        date_format: "YYYY-MM-DD",
+        time_format: false,
+        format: "L",
+        required: false,
+        }
+      - {
+          label: "Text",
+          name: "body",
+          widget: "CKEditor",
+          required: false,
+        }
   - name: "previous-handbooks"
     label: "Previous Handbooks"
-    folder: "content/v-handbook-archive"
+    folder: "content/vi-handbook-archive"
     path: "{{slug}}/"
     create: false
     fields:
