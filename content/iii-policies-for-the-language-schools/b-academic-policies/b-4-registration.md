@@ -51,4 +51,4 @@ Audited courses are not recorded on the Middlebury transcript.
 
 Auditors should check with Language Schools offices about the availability of on-campus housing. After receiving permission from the director of the School to audit, auditors should see the Language Schools budget coordinator, in Sunderland 212, for payment of fees and MiddCard authorization.
 
-Auditing costs per week: tuition=$1,390; room and board=$935.
+Auditing costs per week: tuition=$1,465; room and board=$990.
