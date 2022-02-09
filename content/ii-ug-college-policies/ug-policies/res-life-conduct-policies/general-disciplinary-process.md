@@ -3,7 +3,6 @@ slug: "/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/gener
 date: "2021-05-01"
 title: "B.2.d. Student Conduct Process"
 ---
----
 
 **TABLE OF CONTENTS**
 
