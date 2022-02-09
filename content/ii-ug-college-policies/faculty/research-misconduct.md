@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/research-misconduct
+title: C.11. Misconduct in Research and Other Scholarly Activities
 date: 2021-05-01
-title: C.11. Misconduct in Research and Other Scholarly Activities - PROVISIONAL
 ---
 ## A. Policy Statement
 
