@@ -1681,7 +1681,7 @@ export const nodes = [
           { value: "v-policies-for-schools-abroad/schools-abroad-experience-planning/training-and-education", label: "B.1. Training and Education", className: "training-and-education"},
           { value: "v-policies-for-schools-abroad/schools-abroad-experience-planning/program-testing", label: "B.2. Program Testing", className: "program-testing"},
           { value: "v-policies-for-schools-abroad/schools-abroad-experience-planning/target-language", label: "B.3. Studying Another Language in the Target Language", className: "target-language"},
-          { value: "v-policies-for-schools-abroad/schools-abroad-experience-planning/cancellation-fees", label: "B.4. Program Testing", className: "B.4. Cancellation Fees"},
+          { value: "v-policies-for-schools-abroad/schools-abroad-experience-planning/cancellation-fees", label: "B.4. Cancellation Fees", className: "cancellation-fees"},
           { value: "v-policies-for-schools-abroad/schools-abroad-experience-planning/cancellation-fee-schedule", label: "B.5. Cancellation Fee Schedule", className: "cancellation-fee-schedule"},
           { value: "v-policies-for-schools-abroad/schools-abroad-experience-planning/refunds", label: "B.6. Refunds", className: "refunds"},
         ]
@@ -1718,5 +1718,10 @@ export const nodes = [
         ]
       }
     ],
-  }
+  },
+  {
+    value: "vi-handbook-archive",
+    label: "Previous Handbooks",
+    className: "vi-handbook-archive",
+  },
 ];

@@ -1,5 +1,5 @@
 ---
 slug: /pages/v-policies-for-schools-abroad/academic-policies/withdrawals
 date: 2022-02-17
-title: C. Academic Policies 
+title: C.3. Withdrawals
 ---
