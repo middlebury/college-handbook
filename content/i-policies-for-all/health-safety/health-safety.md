@@ -1,21 +1,17 @@
 ---
 slug: /pages/i-policies-for-all/health-safety
-date: 2021-05-01
 title: C. Health and Safety Policies
+date: 2021-05-01
 ---
-**Introduction**
+### Please choose from the following content:
 
-Middlebury is committed to maintaining a safe environment for the people who live, learn and work on its campuses and to enable its educational mission.  Policies in this section describe the basic commitments all members of the Middlebury community make to each other, to ensure our campuses are safe places for teaching, learning, living and working.  While procedures and specific implementation may vary across campuses and programs, we all have a shared interest in an environment that supports teaching and learning that enables us to engage with the world.
-
-The subpages in this section apply to all members of the Middlebury community in all locations.
-
-## Please choose from the following content:
-
-* [C.1\. Emergency Preparedness for Middlebury Schools and Programs](/pages/i-policies-for-all/health-safety/emerg-prepare)
-* [C.2\. Threat Assessment and Response Policy](/pages/i-policies-for-all/health-safety/tam-policy)
-* [C.3\. Emergency Removals Policy](/pages/i-policies-for-all/health-safety/emerg-removals)
-* [C.4\. Demonstration Regulations](/pages/i-policies-for-all/health-safety/demonst-protests)
-* [C.5\. Minors on Campus Policy](/pages/i-policies-for-all/health-safety/minors-on-campus)
-* [C.6\. Weapons Policy](/pages/i-policies-for-all/health-safety/weapons)
-* [C.7\. Alcohol, Tobacco and Other Drugs](/pages/i-policies-for-all/health-safety/alcohol-drugs)
-* [C.8\. No Smoking Policy](/pages/i-policies-for-all/health-safety/no-smoking)
+*   [C.1. Academic Program](/handbook/pages/v-policies-for-schools-abroad/academic-policies/academic-program)
+*   [C.2. Grades, Transcripts, and Transfer of Credit](/handbook/pages/v-policies-for-schools-abroad/academic-policies/grades-transcripts-transfer-credit)
+*   [C.3. Withdrawals](/handbook/pages/v-policies-for-schools-abroad/academic-policies/withdrawals)
+*   [C.4. Auditing](/handbook/pages/v-policies-for-schools-abroad/academic-policies/auditing)
+*   [C.5. Class Attendance](/handbook/pages/v-policies-for-schools-abroad/academic-policies/class-attendance)
+*   [C.6. Course Work](/handbook/pages/v-policies-for-schools-abroad/academic-policies/course-work)
+*   [C.7. Exams](/handbook/pages/v-policies-for-schools-abroad/academic-policies/exams)
+*   [C.8. Graduate-Level Coursework](/handbook/pages/v-policies-for-schools-abroad/academic-policies/graduate-level-coursework)
+*   [C.9. Internships](/handbook/pages/v-policies-for-schools-abroad/academic-policies/internships)
+*   [C.10 Change of Status](/handbook/pages/v-policies-for-schools-abroad/academic-policies/change-of-status)
