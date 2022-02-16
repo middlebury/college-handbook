@@ -1,10 +1,13 @@
 ---
 slug: /pages/i-policies-for-all/non-discrim-policies
-date: 2021-05-01
 title: B. Non-Discrimination Policies
+date: 2021-05-01
 ---
-* [B.1.a. Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy)
-* [B.1.b. Non-Discrimination Investigations & Resolutions Procedure](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin)
-* [B.1.b (1) Title IX Investigation & Resolutions Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy)
-* [B.1.c. Americans with Disabilities Act Policy](/pages/i-policies-for-all/non-discrim-policies/ada-policy)
-* [B.1.d. Service and Assistance Animals Policy](/pages/i-policies-for-all/non-discrim-policies/svc-assist-animals)
+### **Please select from the following content:**
+
+*   [B.1. Training and Education](/handbook/pages/v-policies-for-schools-abroad/schools-abroad-experience-planning/training-and-education/)
+*   [B.2. Program Testing](/handbook/pages/v-policies-for-schools-abroad/schools-abroad-experience-planning/program-testing)
+*   [B.3. Studying Another Language in the Target Language](/handbook/pages/v-policies-for-schools-abroad/schools-abroad-experience-planning/target-language)
+*   [B.4. Cancellation Fees](/handbook/pages/v-policies-for-schools-abroad/schools-abroad-experience-planning/cancellation-fees)
+*   [B.5. Cancellation Fee Schedule](/handbook/pages/v-policies-for-schools-abroad/schools-abroad-experience-planning/cancellation-fee-schedule)
+*   [B.6. Refunds](/handbook/pages/v-policies-for-schools-abroad/schools-abroad-experience-planning/refunds)
