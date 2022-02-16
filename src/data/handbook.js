@@ -1699,7 +1699,7 @@ export const nodes = [
           { value: "v-policies-for-schools-abroad/academic-policies/course-work", label: "C.6. Course Work", className: "course-work"},
           { value: "v-policies-for-schools-abroad/academic-policies/exams", label: "C.7. Exams", className: "exams"},
           { value: "v-policies-for-schools-abroad/academic-policies/graduate-level-coursework", label: "C.8. Graduate-Level Coursework", className: "graduate-level-coursework"},
-          { value: "v-policies-for-schools-abroad/academic-policies/internships", label: "C.9. Intrnships", className: "internships"},
+          { value: "v-policies-for-schools-abroad/academic-policies/internships", label: "C.9. Internships", className: "internships"},
           { value: "v-policies-for-schools-abroad/academic-policies/change-of-status", label: "C.10 Change of Status", className: "change-of-status"}
         ]
       },

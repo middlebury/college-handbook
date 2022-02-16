@@ -3,7 +3,7 @@ slug: /pages/v-policies-for-schools-abroad/academic-policies
 title: C. Academic Policies
 date: 2022-02-17
 ---
-### Please choose from the following content:
+## Please choose from the following content:
 
 *   [C.1. Academic Program](/handbook/pages/v-policies-for-schools-abroad/academic-policies/academic-program)
 *   [C.2. Grades, Transcripts, and Transfer of Credit](/handbook/pages/v-policies-for-schools-abroad/academic-policies/grades-transcripts-transfer-credit)

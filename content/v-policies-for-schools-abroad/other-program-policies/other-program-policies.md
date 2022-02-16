@@ -3,7 +3,7 @@ slug: /pages/v-policies-for-schools-abroad/other-program-policies
 title: D. Other Program Policies
 date: 2021-12-17
 ---
-**Please select from the following content:**
+## Please choose from the following content:
 
 *   [D.1. Student Records](/handbook/pages/v-policies-for-schools-abroad/other-program-policies/student-records)
 *   [D.2. Email Policy](/handbook/pages/v-policies-for-schools-abroad/other-program-policies/email-policy)
