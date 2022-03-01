@@ -23,7 +23,7 @@ Chinese, French, German, Hebrew, Japanese, Korean, Russian and Spanish 6-week se
 
 Arabic and Italian 6-week sessions: July 15
 
-Buenos Aires 6-week session: July 1
+Buenos Aires 6-week session: July 6
 
 Paris 6-week session: June 17
 
