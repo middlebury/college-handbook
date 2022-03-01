@@ -23,8 +23,8 @@ Chinese 8-week program – July 1
 Chinese 6-week program – July 13
 
 English 8-week program – July 1  
-English 6-week program – July 15  
-  
+English 6-week program – July 15
+
 French 6-week program in Paris – June 17  
 French 7-week program – July 8  
 French 6-week program in Vermont – July 13
@@ -34,8 +34,8 @@ German 6-week program – July 13
 
 Hebrew 7-week program – July 8  
 Hebrew 6-week program – July 8  
-Hebrew 3-week – end of 3rd day of classes of session  
-  
+Hebrew 3-week – end of 3rd day of classes of session
+
 Italian 7-week program – July 8  
 Italian 6-week program - July 15
 
@@ -50,7 +50,7 @@ Portuguese 7-week program – July 1
 Russian 8-week program – July 1  
 Russian 6-week program – July 13
 
-Spanish 6-week program in Buenos Aires – July 4  
+Spanish 6-week program in Buenos Aires – July 6  
 Spanish 7-week program – July 8  
 Spanish 6-week program in Vermont – July 13
 
