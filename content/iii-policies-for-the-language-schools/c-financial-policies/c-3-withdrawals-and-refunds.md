@@ -45,7 +45,7 @@ Japanese 6-week program – July 13
 Korean 8-week program – July 1  
 Korean 6-week program – July 13
 
-Portuguese 7-week program – July 1
+Portuguese 7-week program – July 6
 
 Russian 8-week program – July 1  
 Russian 6-week program – July 13
