@@ -270,17 +270,17 @@ College service cannot compensate for an absence of achievement in teaching and 
 
 #### **e. Departmental Evaluation** {#dept\_eval}
 
-The department letter is written by the chair. This letter will state the chair's judgment concerning the candidate's fitness for reappointment, tenure, or promotion and the reasons for it. In preparing this recommendation, the chair will conduct two or more classroom visits for reappointment and tenure reviews, one or more visits for post-tenure reviews, review the candidate's course response forms and all other materials submitted to the Reappointments Committee or the Promotions Committee for review, as well as the written recommendations of the tenured members of the department or of full professors when the review is for promotion to professor. The chair also will present, in the departmental letter, an accurate summary of the views, without attribution, of the senior members of the department, as well as the evaluations presented in letters from external experts, alumni, current students, and other faculty colleagues.
+The department letter is written by the chair. This letter will state the chair's judgment concerning the candidate's fitness for reappointment, tenure, or promotion and the reasons for it. In preparing this recommendation, the chair will conduct two or more classroom visits for reappointment and tenure reviews, one or more visits for post-tenure reviews, review the candidate's course response forms and other materials submitted to the Reappointments Committee or the Promotions Committee for review, as well as the written recommendations of the tenured members of the department or of full professors when the review is for promotion to professor. The chair also will present, in the departmental letter, an accurate summary of the views, without attribution, of the senior members of the department.
 
 #### **f. Program Director's Evaluation** {#program\_eval}
 
-A program director will submit a letter of programmatic evaluation in faculty reviews if and only if (i) programmatic involvement is explicitly stated in the letter of appointment; or (ii) the faculty member under review requests that the VPAA/DoF solicit a letter from the appropriate program director. This letter will state the director's judgment concerning the candidate's fitness for reappointment, tenure, or promotion and the reasons for it. The VPAA/DoF will solicit letters from at least two other senior members of the program, whom the program director selects in consultation with the candidate under review. The program director will provide the faculty member under review the names of these senior members. These letters will go to the program director and to the Reappointments Committee or the Promotions Committee. In preparing the program letter, the director will review the candidate's vita; syllabi from relevant courses; an example of scholarly work; when the candidate has taught a course with an explicit program label, the course response forms from those courses; all other materials submitted to the Reappointments Committee or the Promotions Committee for review pertaining to the program; and, when relevant, the written recommendations of the solicited program members. The director will also present, in the programmatic letter, an accurate summary of the views, without attribution, of any senior members of the program who have been solicited to write letters, as well as the evaluations presented in letters from external experts, alumni, current students, and other faculty colleagues. In cases where a program is based entirely within a department, the program director will write an individual letter that will go to the department chair and to the Reappointments Committee or the Promotions Committee. The department chair will summarize the views of the program director in the departmental letter. In such instances, the program director's letter will not be made available to the candidate.
+A program director will submit a letter of programmatic evaluation in faculty reviews if and only if (i) programmatic involvement is explicitly stated in the letter of appointment; or (ii) the faculty member under review requests that the VPAA/DoF solicit a letter from the appropriate program director. This letter will state the director's judgment concerning the candidate's fitness for reappointment, tenure, or promotion and the reasons for it. The VPAA/DoF will solicit letters from at least two other senior members of the program, whom the program director selects in consultation with the candidate under review. The program director will provide the faculty member under review the names of these senior members. These letters will go to the program director and to the Reappointments Committee or the Promotions Committee. In preparing the program letter, the director will review the candidate's vita; syllabi from relevant courses; an example of scholarly work; when the candidate has taught a course with an explicit program label, the course response forms from those courses; and, when relevant, the written recommendations of the solicited program members. The director will also present, in the programmatic letter, an accurate summary of the views, without attribution, of any senior members of the program who have been solicited to write letters. In cases where a program is based entirely within a department, the program director will write an individual letter that will go to the department chair and to the Reappointments Committee or the Promotions Committee. The department chair will summarize the views of the program director in the departmental letter. In such instances, the program director's letter will not be made available to the candidate.
 
 #### **g. Confidentiality and Access** {#confidentiality}
 
-Letters from students and alumni are always confidential. Letters from outside evaluators are always confidential. Letters from colleagues at Middlebury are made available to candidates only in the event of a decision to deny reappointment. Restricting access is meant to ensure frank and honest assessments of the candidates. The letters should be accurate in matters of fact upon which judgments are based. The departmental letter (i.e., the letter written by a chair that summarizes, without attribution, the views of tenured colleagues as well as the evaluations presented in other material) will be made available to the candidate at the time when it is submitted to the Reappointments Committee or the Promotions Committee. If a program letter is written, it will also be made available to the candidate at the time when it is submitted to the Reappointments Committee or the Promotions Committee. Any response to the departmental or programmatic letter that the candidate wishes to submit to the Reappointments Committee or the Promotions Committee must be submitted to the Reappointments Committee or the Promotions Committee and made available to the department chair or program director within two weeks of the receipt of the chair's or director's letter. Any further letters of response, either from the chair, the director, or the candidate, will be held in confidence by the Reappointments Committee or the Promotions Committee.
+Letters from students and alumni are always confidential. Letters from outside evaluators are always confidential. Letters from colleagues at Middlebury are made available to candidates only in the event of a decision to deny reappointment. Restricting access is meant to ensure frank and honest assessments of the candidates. The letters should be accurate in matters of fact upon which judgments are based. The departmental letter (i.e., the letter written by a chair that summarizes, without attribution, the views of tenured colleagues) will be made available to the candidate at the time when it is submitted to the Reappointments Committee or the Promotions Committee. If a program letter is written, it will also be made available to the candidate at the time when it is submitted to the Reappointments Committee or the Promotions Committee. Any response to the departmental or programmatic letter that the candidate wishes to submit to the Reappointments Committee or the Promotions Committee must be submitted to the Reappointments Committee or the Promotions Committee and made available to the department chair or program director within two weeks of the receipt of the chair's or director's letter. Any further letters of response, either from the chair, the director, or the candidate, will be held in confidence by the Reappointments Committee or the Promotions Committee.
 
-The VPAA/DoF, the president, the provost, the department chair, and members of the Reappointments Committee or the Promotions Committee will have access to all materials submitted in connection with a review. Senior departmental colleagues participating in a review will have access to all materials except individual letters from Middlebury faculty colleagues. The program director will have access to all materials submitted to the Reappointments Committee or the Promotions Committee for review pertaining to the program.
+The VPAA/DoF, the president, the provost, and members of the Reappointments Committee or the Promotions Committee will have access to all materials submitted in connection with a review. The department chair will have access to letters from other senior members of the department and to the candidate's vita, publications, and course response forms. The program director will have access to solicited letters from other senior members of the program and to the candidate's vita, relevant syllabi, an example of scholarship, and, when the candidate has taught a course with an explicit program label, course response forms from those courses.
 
 #### **3\. Procedures and Responsibilities** {#procedures\_responsibilities}
 
@@ -298,7 +298,7 @@ _(c)_ If the candidate so desires, to invite other colleagues to visit classes.
 
 _(d)_ To submit to the department chair and to the Reappointments Committee in a timely manner a complete vita, course syllabi, and other materials requested, as well as materials that the candidate thinks pertinent. For example, a faculty member may request the inclusion of personal comments or other materials with the course response forms which they believe may be useful in the interpretation of the forms.  To submit to the program director, when relevant, a complete vita, syllabi from relevant courses, and an example of scholarly work.
 
-_(e)_ To submit to the Reappointments Committee, department chair and tenured colleagues, and program director (when relevant) scholarly publications, a dissertation, and/or other appropriate evidence of scholarship or artistic activity.
+_(e)_ To submit to the Reappointments Committee scholarly publications, a dissertation, and/or other appropriate evidence of scholarship or artistic activity.
 
 _(f)_ To arrange with members of the Reappointments Committee an appropriate schedule of classroom visits.
 
@@ -314,7 +314,7 @@ _(c)_ To arrange with the candidate an appropriate schedule of classroom visits.
 
 _(d)_ To interview or to request information from other members of the College community, alumni, and persons off campus, as it deems necessary.
 
-_(e)_ To request letters of recommendation from current students and from recent graduates who have taken at least one course from the person under review. The Reappointments Committee will request letters from at least three students and at least three alumni in all reviews. Students may be asked to comment specifically on the particular criteria for teaching listed under Evaluation of Teaching, above. These letters will be submitted to the Office of the Vice President of Academic Affairs, who will share anonymized versions with the Reappointments Committee, department chair and tenured colleagues, and program director (when relevant). 
+_(e)_ To request letters of recommendation from current students and from recent graduates who have taken at least one course from the person under review. The Reappointments Committee will request letters from at least three students and at least three alumni in all reviews. Students may be asked to comment specifically on the particular criteria for teaching listed under Evaluation of Teaching, above. 
 
 _(f)_ To request a letter from the department chair evaluating the candidate's scholarly activity, promise of achievement, and teaching, and assessing the candidate's role in the long-term patterns of the department.
 
@@ -368,7 +368,7 @@ _(a)_ To arrange with the candidate an appropriate schedule of classroom visits
 
 _(b)_ To provide the Reappointments Committee with lists of at least six current students and six recent graduates who have taken at least one course from the candidate.
 
-_(c)_ To review the candidate's course response forms and letters from students, alumni, and other faculty colleagues, available online through the Office of the Vice President for Academic Affairs and Dean of the Faculty, as well as the dossier and self-evaluation assembled by the candidate.
+_(c)_ To review the candidate's course response forms available online through the Office of the Vice President for Academic Affairs and Dean of the Faculty.
 
 _(d)_ To meet with the candidate to discuss the contents of the departmental evaluation.
 
@@ -382,13 +382,9 @@ _(a)_ To submit a letter of recommendation, when requested, to the Reappointment
 
 _(b)_ Upon the invitation of a candidate, to observe a class or classes and to meet with the candidate to discuss his or her performance in the class, with suggestions for possible improvement. Such meetings will be held before the end of the term during which the visits take place.
 
-_(c)_ To review all of the candidate’s materials, including the candidate’s dossier and self-evaluation, and student and alumni letters.
-
 _vii. Program Director_
 
 _(a)_ To submit a letter to the Reappointments Committee containing the programmatic evaluation according to section 2.f. The focus of the programmatic evaluation shall be upon teaching, scholarship, contribution to the program, and promise as a teacher and scholar. This letter will be shared with the tenured program members who have been solicited by the VPAA/DoF to write letters and the candidate undergoing the review.
-
-_(b)_ To review the candidate’s materials pertaining to the program, including the candidate’s dossier and self-evaluation, student and alumni letters, and solicited letters from program colleagues.
 
 _viii. Provost_
 
@@ -450,7 +446,7 @@ _(c)_ To arrange with the candidate an appropriate schedule of classroom visits.
 
 _(d)_ To interview or to request information from other members of the College community, alumni, and persons off campus, as it deems necessary.
 
-_(e)_ To request letters of recommendation from current students and from recent graduates who have taken at least one course from the person under review. The Promotions Committee will request letters from at least three students and at least three alumni in all reviews. Students may be asked to comment specifically on the particular criteria for teaching listed under Evaluation of Teaching, above. These letters will be submitted to the Office of the Vice President of Academic Affairs, who will share anonymized versions with the Promotions Committee, department chair and tenured colleagues, and program director (when relevant).
+_(e)_ To request letters of recommendation from current students and from recent graduates who have taken at least one course from the person under review. The Promotions Committee will request letters from at least three students and at least three alumni in all reviews. Students may be asked to comment specifically on the particular criteria for teaching listed under Evaluation of Teaching, above. 
 
 _(f)_ To request a letter from the department chair evaluating the candidate's scholarly achievement, teaching, and service to the department.
 
@@ -526,13 +522,9 @@ _(a)_ To submit a letter of recommendation, when requested, to the Promotions Co
 
 _(b)_ Upon the invitation of a candidate, to observe a class or classes and to meet with the candidate to discuss his or her performance in the class, with suggestions for possible improvement. Such meetings will be held before the end of the term during which the visits take place.
 
-_(c)_ To review all of the candidate’s materials, including the candidate’s dossier and self-evaluation, student and alumni letters, and external letters.
-
 _vii. Program Director_
 
 _(a)_ To submit a letter to the Promotions Committee containing the programmatic evaluation according to section 2.f. above. The focus of the programmatic evaluation shall be upon the candidate's teaching, scholarly achievement, and service to the program. This letter should not speak to the composition and long-term needs of the program and faculty. This letter will be shared with any tenured program members who have been solicited by the VPAA/DoF to write letters and with the candidate undergoing the review.
-
-_(b)_ To review the candidate’s materials pertaining to the program, including the candidate’s dossier and self-evaluation, student and alumni letters, external letters, and solicited letters from program colleagues.
 
 _viii. President and Provost_
 
@@ -566,9 +558,9 @@ _(a)_ To arrange with the department chair, or chair's designate, an appropriat
 
 _(b)_ If the candidate so desires, to invite other colleagues to visit classes.
 
-_(c)_ To submit to the department chair and full professor colleagues, and to the Promotions Committee in a timely manner a complete vita, course syllabi, and other materials requested, as well as materials that the candidate thinks pertinent. For example, a faculty member may request the inclusion of personal comments or other materials with the course response forms which they believe may be useful in the interpretation of the forms. To submit to the program director, when relevant, a complete vita, syllabi from relevant courses, and an example of scholarly work.
+_(c)_ To submit to the department chair and to the Promotions Committee in a timely manner a complete vita, course syllabi, and other materials requested, as well as materials that the candidate thinks pertinent. For example, a faculty member may request the inclusion of personal comments or other materials with the course response forms which they believe may be useful in the interpretation of the forms. To submit to the program director, when relevant, a complete vita, syllabi from relevant courses, and an example of scholarly work.
 
-_(d)_ To submit to the Promotions Committee, department chair and full professor colleagues, and program director (when relevant) scholarly publications, and/or other appropriate evidence of scholarship or artistic achievement
+_(d)_ To submit to the Promotions Committee scholarly publications, and/or other appropriate evidence of scholarship or artistic achievement
 
 _(e)_ To arrange with members of the Promotions Committee an appropriate schedule of classroom visits.
 
@@ -606,11 +598,11 @@ _(c)_ To ensure that the candidate knows the identity of all those scholars out
 
 _iv. Department Chair_
 
-_(a)_ To recommend, after reviewing the candidate's course response forms and full dossier of materials including external letters, making a classroom visit or visits, and reviewing the written recommendations of departmental colleagues who are full professors, whether or not the candidate should be promoted on grounds of continued excellence in teaching, achievement in scholarship or artistic work, and service to the institution.
+_(a)_ To recommend, after reviewing the candidate's course response forms, making a classroom visit or visits, and reviewing the written recommendations of departmental colleagues who are full professors, whether or not the candidate should be promoted on grounds of continued excellence in teaching, achievement in scholarship, and service to the institution.
 
 _v. Program Director_
 
-_(a)_ When relevant, to recommend, after consultation with programmatic colleagues who are full professors, reviewing the full dossier of materials pertaining to the program including external letters, and after classroom visit(s), whether or not the candidate should be promoted on grounds of continued excellence in teaching, achievement in scholarship, and service to the institution.
+_(a)_ When relevant, to recommend, after consultation with programmatic colleagues who are full professors, and after classroom visit(s), whether or not the candidate should be promoted on grounds of continued excellence in teaching, achievement in scholarship, and service to the institution.
 
 _vi. Dean for Faculty Development and Research (DFDR)_
 
@@ -621,8 +613,6 @@ _vii. Department Faculty Members who Hold the Rank of Professor_
 _(a)_ To submit a letter of recommendation, when requested, to the Promotions Committee, with a copy to the department chair, that speaks to those aspects of a candidate's work with which he or she is familiar. Tenured faculty are expected to provide a letter upon request of the Committee, whether on academic leave or not.
 
 _(b)_ Upon the invitation of a candidate, to observe a class or classes and to meet with the candidate to discuss his or her performance in the class, with suggestions for possible improvement. Such meetings will be held before the end of the term during which the visits take place.
-
-_(c)_ To review the candidate’s materials, including the candidate’s dossier and self-evaluation, and external letters.
 
 _viii. President and Provost_
 
@@ -680,9 +670,9 @@ _(a)_ To arrange with the chair or director, or the chair's or director's desig
 
 _(b)_ If the candidate so desires, to invite other colleagues to visit classes.
 
-_(c)_ To submit to the department chair, tenured colleagues, and to the Promotions Committee in a timely manner a complete vita, course syllabi, and other materials requested, as well as materials that the candidate thinks pertinent. For example, a faculty member may request the inclusion of personal comments or other materials with the course response forms which they believe may be useful in the interpretation of the forms. For reviews of faculty appointed as Associate Professor (without tenure) or Associate Laboratory Professor, or those reviews associated with a request to be appointed as Associate Professor (without tenure) or Associate Laboratory Professor, the dossier should include relevant appropriate evidence of scholarship, artistic activity, and/or pedagogical innovation. To submit to the program director, when relevant, a complete vita, syllabi from relevant courses, and, if relevant, evidence of scholarly work.
+_(c)_ To submit to the department chair and to the Promotions Committee in a timely manner a complete vita, course syllabi, and other materials requested, as well as materials that the candidate thinks pertinent. For example, a faculty member may request the inclusion of personal comments or other materials with the course response forms which they believe may be useful in the interpretation of the forms. To submit to the program director, when relevant, a complete vita, syllabi from relevant courses, and, and example of scholarly work.
 
-_(d)_ To prepare a self-evaluation, concentrating particularly on teaching with reference to the criteria listed in 2.b. above. For reviews of faculty appointed as Associate Professor (without tenure) or Associate Laboratory Professor or those reviews associated with a request to be appointed as Associate Professor (without tenure) or Associate Laboratory Professor, the self-evaluation should also address the candidate's activity in scholarship, artistic work, and/or pedagogical innovation.
+_(d)_ To prepare and submit to the Reappointments Committee a self-evaluation, concentrating particularly on teaching with reference to the criteria listed in 2.b. above. For reviews of faculty appointed as Associate Professor (without tenure) or Associate Laboratory Professor or those reviews associated with a request to be appointed as Associate Professor (without tenure) or Associate Laboratory Professor, the self-evaluation should also address the candidate's activity in scholarship, and/or pedagogical innovation.
 
 _ii. Reappointments Committee_
 
@@ -736,7 +726,7 @@ _v. Department Chair or Program Director_
 
 _(a)_ To arrange with the candidate an appropriate schedule of classroom visits by the chair or director or the chair's or director's designate, and to ensure that the number of visits by other colleagues does not unnecessarily disrupt the candidate's courses.
 
-_(b)_ To review the candidate's course response forms, available electronically through the Office of the Vice President for Academic Affairs and Dean of the Faculty, as well as the dossier and self-evaluation assembled by the candidate.
+_(b)_ To review the candidate's course response forms, available electronically through the Office of the Vice President for Academic Affairs and Dean of the Faculty.
 
 _(c)_ To submit a letter to the Reappointments Committee containing the departmental or programmatic evaluation according to section 2.e. or 2.f. The focus of the departmental or programmatic evaluation will be upon the candidate's teaching performance and promise as a teacher and scholar. This letter will be shared with the tenured members of the department or program and the candidate undergoing the review.
 
@@ -749,8 +739,6 @@ _vi. Tenured Department or Program Faculty Members_
 _(a)_ To submit a letter of recommendation, when requested, to the Reappointments Committee, with a copy to the department chair or program director, that speaks to those aspects of a candidate's work with which he or she is familiar. Tenured faculty are expected to provide a letter upon request by the Committee, whether on academic leave or not.
 
 _(b)_ Upon the invitation of a candidate, to observe a class or classes and to meet with the candidate to discuss his or her performance in the class, with suggestions for possible improvement. Such meetings will be held before the end of the term during which the visits take place.
-
-_(c)_ To review all of the candidate’s materials, including the candidate’s dossier and self-evaluation.
 
 _vii. Provost_
 
