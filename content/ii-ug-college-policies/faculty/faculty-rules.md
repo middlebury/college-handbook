@@ -508,7 +508,7 @@ _(a)_ To arrange with the candidate an appropriate schedule of classroom visits
 
 _(b)_ To provide the Promotions Committee with lists of at least six current students and six recent graduates who have taken at least one course from the candidate.
 
-_(c)_ To review the candidate's course response forms and letters from external experts, students, alumni, and other faculty colleagues available through the Office of the Vice President for Academic Affairs and Dean of the Faculty, as well as the dossier and self-evaluation assembled by the candidate.
+_(c)_ To review the candidate's course response forms available electronically through the Office of the Vice President for Academic Affairs and Dean of the Faculty.
 
 _(d)_ To meet with the candidate to discuss the contents of the departmental evaluation.
 
