@@ -598,11 +598,11 @@ _(c)_ To ensure that the candidate knows the identity of all those scholars out
 
 _iv. Department Chair_
 
-_(a)_ To recommend, after reviewing the candidate's course response forms and full dossier of materials including external letters, making a classroom visit or visits, and reviewing the written recommendations of departmental colleagues who are full professors, whether or not the candidate should be promoted on grounds of continued excellence in teaching, achievement in scholarship or artistic work, and service to the institution.
+_(a)_ To recommend, after reviewing the candidate's course response forms, making a classroom visit or visits, and reviewing the written recommendations of departmental colleagues who are full professors, whether or not the candidate should be promoted on grounds of continued excellence in teaching, achievement in scholarship, and service to the institution.
 
 _v. Program Director_
 
-_(a)_ When relevant, to recommend, after consultation with programmatic colleagues who are full professors, reviewing the full dossier of materials pertaining to the program including external letters, and after classroom visit(s), whether or not the candidate should be promoted on grounds of continued excellence in teaching, achievement in scholarship, and service to the institution.
+_(a)_ When relevant, to recommend, after consultation with programmatic colleagues who are full professors, and after classroom visit(s), whether or not the candidate should be promoted on grounds of continued excellence in teaching, achievement in scholarship, and service to the institution.
 
 _vi. Dean for Faculty Development and Research (DFDR)_
 
@@ -613,8 +613,6 @@ _vii. Department Faculty Members who Hold the Rank of Professor_
 _(a)_ To submit a letter of recommendation, when requested, to the Promotions Committee, with a copy to the department chair, that speaks to those aspects of a candidate's work with which he or she is familiar. Tenured faculty are expected to provide a letter upon request of the Committee, whether on academic leave or not.
 
 _(b)_ Upon the invitation of a candidate, to observe a class or classes and to meet with the candidate to discuss his or her performance in the class, with suggestions for possible improvement. Such meetings will be held before the end of the term during which the visits take place.
-
-_(c)_ To review the candidate’s materials, including the candidate’s dossier and self-evaluation, and external letters.
 
 _viii. President and Provost_
 
@@ -672,9 +670,9 @@ _(a)_ To arrange with the chair or director, or the chair's or director's desig
 
 _(b)_ If the candidate so desires, to invite other colleagues to visit classes.
 
-_(c)_ To submit to the department chair, tenured colleagues, and to the Promotions Committee in a timely manner a complete vita, course syllabi, and other materials requested, as well as materials that the candidate thinks pertinent. For example, a faculty member may request the inclusion of personal comments or other materials with the course response forms which they believe may be useful in the interpretation of the forms. For reviews of faculty appointed as Associate Professor (without tenure) or Associate Laboratory Professor, or those reviews associated with a request to be appointed as Associate Professor (without tenure) or Associate Laboratory Professor, the dossier should include relevant appropriate evidence of scholarship, artistic activity, and/or pedagogical innovation. To submit to the program director, when relevant, a complete vita, syllabi from relevant courses, and, if relevant, evidence of scholarly work.
+_(c)_ To submit to the department chair and to the Promotions Committee in a timely manner a complete vita, course syllabi, and other materials requested, as well as materials that the candidate thinks pertinent. For example, a faculty member may request the inclusion of personal comments or other materials with the course response forms which they believe may be useful in the interpretation of the forms. To submit to the program director, when relevant, a complete vita, syllabi from relevant courses, and, and example of scholarly work.
 
-_(d)_ To prepare a self-evaluation, concentrating particularly on teaching with reference to the criteria listed in 2.b. above. For reviews of faculty appointed as Associate Professor (without tenure) or Associate Laboratory Professor or those reviews associated with a request to be appointed as Associate Professor (without tenure) or Associate Laboratory Professor, the self-evaluation should also address the candidate's activity in scholarship, artistic work, and/or pedagogical innovation.
+_(d)_ To prepare and submit to the Reappointments Committee a self-evaluation, concentrating particularly on teaching with reference to the criteria listed in 2.b. above. For reviews of faculty appointed as Associate Professor (without tenure) or Associate Laboratory Professor or those reviews associated with a request to be appointed as Associate Professor (without tenure) or Associate Laboratory Professor, the self-evaluation should also address the candidate's activity in scholarship, and/or pedagogical innovation.
 
 _ii. Reappointments Committee_
 
@@ -728,7 +726,7 @@ _v. Department Chair or Program Director_
 
 _(a)_ To arrange with the candidate an appropriate schedule of classroom visits by the chair or director or the chair's or director's designate, and to ensure that the number of visits by other colleagues does not unnecessarily disrupt the candidate's courses.
 
-_(b)_ To review the candidate's course response forms, available electronically through the Office of the Vice President for Academic Affairs and Dean of the Faculty, as well as the dossier and self-evaluation assembled by the candidate.
+_(b)_ To review the candidate's course response forms, available electronically through the Office of the Vice President for Academic Affairs and Dean of the Faculty.
 
 _(c)_ To submit a letter to the Reappointments Committee containing the departmental or programmatic evaluation according to section 2.e. or 2.f. The focus of the departmental or programmatic evaluation will be upon the candidate's teaching performance and promise as a teacher and scholar. This letter will be shared with the tenured members of the department or program and the candidate undergoing the review.
 
@@ -741,8 +739,6 @@ _vi. Tenured Department or Program Faculty Members_
 _(a)_ To submit a letter of recommendation, when requested, to the Reappointments Committee, with a copy to the department chair or program director, that speaks to those aspects of a candidate's work with which he or she is familiar. Tenured faculty are expected to provide a letter upon request by the Committee, whether on academic leave or not.
 
 _(b)_ Upon the invitation of a candidate, to observe a class or classes and to meet with the candidate to discuss his or her performance in the class, with suggestions for possible improvement. Such meetings will be held before the end of the term during which the visits take place.
-
-_(c)_ To review all of the candidate’s materials, including the candidate’s dossier and self-evaluation.
 
 _vii. Provost_
 
