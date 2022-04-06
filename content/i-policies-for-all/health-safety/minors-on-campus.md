@@ -37,7 +37,7 @@ All program sponsors, authorized adults, or any other individual who supervises 
 
 \*Inappropriate touching, including but not limited to contact with the minor’s buttocks, groin, breasts, mouth, or genitals, or where the minor is required or encouraged to have inappropriate contact with the buttocks, groin, breasts, mouth or genitals of another
 
-\*Harassment, Sexual misconduct, domestic violence, dating violence, stalking or related retaliation as defined by Middlebury’s [Non-Discrimination Policy](/assets/smdvs-prior-to-8-14-2020.pdf).
+\*Harassment, sexual misconduct, domestic violence, dating violence, stalking or related retaliation as defined by Middlebury’s [Non-Discrimination Policy](https://www.middlebury.edu/handbook/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy/).
 
 \*Hazing as defined by Middlebury’s [Policy Against Hazing](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy).
 
@@ -114,7 +114,7 @@ Any person who has reasonable cause to believe that a child has been abused or n
 
 Depending on the circumstances, reports may also be referred by Middlebury officials to local or state law enforcement authorities or other appropriate agencies (see also Sections 8 & 9, below).
 
-Complaints or reports under this policy will be addressed in accordance with existing policies, contracts, and/or appointment letters applicable to the individual and/or program at issue (e.g., Student Life Policies-General Disciplinary Processes \[undergraduate students\]; Language Schools policies \[language schools students\]; Bread Loaf School of English policies \[Bread Loaf students\]; Middlebury Institute policies \[Institute students\]; Employee Handbook, Faculty Handbook, or other policies, contracts or appointment letters applicable to the faculty or staff member for the particular program at issue). If the complaint includes allegations of sexual misconduct, domestic violence, dating violence, stalking, or harassment, the matter will be addressed in accordance with Middlebury’s [Policy Against Sexual Misconduct, Domestic  and Dating Violence and Misconduct, and Stalking](/assets/smdvs-prior-to-8-14-2020.pdf) and/or [Anti-Harassment/Discrimination Policy](/assets/anti-harassment-prior-to-8-14-2020.pdf) (as applicable). Complaints against undergraduate students who are enrolled in another Middlebury program at the time the alleged conduct occurred may be addressed in accordance with that program’s disciplinary processes and/or in accordance with Middlebury’s Student Life Policy-General Disciplinary Processes, as appropriate. Complaints against student employees may be addressed in accordance with applicable employment policies and/or Middlebury’s Student Life policies, as appropriate.
+Complaints or reports under this policy will be addressed in accordance with existing policies, contracts, and/or appointment letters applicable to the individual and/or program at issue (e.g., Student Life Policies-General Disciplinary Processes \[undergraduate students\]; Language Schools policies \[language schools students\]; Bread Loaf School of English policies \[Bread Loaf students\]; Middlebury Institute policies \[Institute students\]; Employee Handbook, Faculty Handbook, or other policies, contracts or appointment letters applicable to the faculty or staff member for the particular program at issue). If the complaint includes allegations of sexual misconduct, domestic violence, dating violence, stalking, or harassment, the matter will be addressed in accordance with Middlebury’s [Non-Discrimination Policy](https://www.middlebury.edu/handbook/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy/). Complaints against undergraduate students who are enrolled in another Middlebury program at the time the alleged conduct occurred may be addressed in accordance with that program’s disciplinary processes and/or in accordance with Middlebury’s Student Life Policy-General Disciplinary Processes, as appropriate. Complaints against student employees may be addressed in accordance with applicable employment policies and/or Middlebury’s Student Life policies, as appropriate.
 
 **8.**  **Mandated Reporting Under Vermont Law and Other Applicable State Laws**
 
@@ -154,79 +154,11 @@ Mandatory state law reporting requirements applicable to Middlebury programs in 
 
 **9\. Mandated Reporting of Crimes Under Federal Law**
 
-Certain College employees are “[Campus Security Authorities](https://www.middlebury.edu/offices/health/publicsafety/csa)” (“CSA”) and are therefore required under federal law (the “Clery Act”) to report suspected crimes that have occurred on College property, on all public property (including thoroughfares, streets, sidewalks, and parking facilities) that is within the campus, or immediately adjacent to and accessible from the campus, and on certain nonpublic property (such as any building or property owned or controlled by the College that is used in direct support of, or in relation to, the College’s educational purposes, is frequently used by students, and is not within the same reasonably contiguous geographic area of the College). CSAs include the following individuals:
-
-\*A campus police department or campus security department of an institution
-
-\*Any individual or individuals who have responsibility for campus security but who do not constitute a campus police department or a campus security department
-
-\*Any individual or organization specified in an institution’s statement of campus security policy as an individual or organization to which students and employees should report criminal offenses
-
-\*An official of an institution who has significant responsibility for student and campus activities, including, but not limited to, student housing, student discipline and campus judicial proceedings
-
-\*Middlebury's Campus Security Authorities include the following individuals:
-
-Associate Dean of the College/Director of Public Safety  
-Public Safety Staff  
-Vice President for Student Affairs/Dean of Students  
-Senior Associate Dean of Students  
-Director of Student Activities and Orientation,  
-Assistant Director of Student Activities For Programming & Events  
-Director of Outdoor Programs & Club Sports  
-Club Sports Coaches  
-Commons Heads  
-Commons Deans  
-Commons Residence Directors  
-Community Assistants  
-Resident Assistants  
-First Year Counselors  
-Assoc. Director of Community Standards  
-Asst. Director of Res. Life - Housing  
-Judicial Affairs Officer  
-Human Relations Officers  
-Civil Rights and Title IX Coordinator  
-Director of Health and Wellness Education  
-Assistant Director of Health and Wellness Education  
-Alcohol and Drug Ed Specialist  
-Posse Mentors  
-Any faculty or staff who travel with students on programs to foreign or domestic locations  
-Director of Athletics  
-Varsity and Junior Varsity Coaches  
-Field House Monitors  
-Advisors/Cluster Managers for Student Groups or Organizations  
-Deans, directors or co-directors for other Middlebury programs such as the Schools Abroad, Language Schools, Bread Loaf School of English, School of the Environment, Middlebury Institute of International Studies, Schools Abroad and MiddCORE
-
-A complete list of Campus Security Authories is available in Middlebury's [Annual Security and Fire Safety Reports](https://www.middlebury.edu/offices/health/publicsafety/Resources_and_Compliance_Requirements/Clery) for its campuses in Vermont, Calilfornia and New Mexico.
-
-A crime is reported when it is brought to the attention of a CSA, and the report is made in good faith. The crime must be reported by a CSA whether or not the individuals involved are members of the Middlebury community. The following crimes must be reported:
-
-Crimes that fall within the scope of the Clery Act and must be reported include the following:
-
-*   Murder and non-negligent manslaughter
-*   Manslaughter by negligence
-*   Sexual assault/sex offenses (rape, fondling, incest, and statutory rape)
-*   Robbery
-*   Aggravated assault
-*   Burglary
-*   Motor vehicle theft
-*   Arson
-*   Liquor Law violation
-*   Drug law violation
-*   Weapon law violation
-*   Hate crimes: any of the serious crimes above (except manslaughter by negligence) and larceny-theft, destruction/damage/vandalism of property, intimidation (threats of injury or violence), or simple assault, if there is evidence that the victim was intentionally selected because of the perpetrator’s bias against the victim on the basis of race, religion, gender, gender identity, sexual orientation, ethnicity, national origin, or disability
-*   Domestic violence
-*   Dating violence
-*   Stalking
-
-CSAs must also report arrests and referrals for campus disciplinary action for liquor law violations, drug law violations, and weapons law violations (e.g., possession, carrying, etc.).
-
-Definitions of these crimes can be found in the [Handbook for Campus Safety and Security Reporting](https://www2.ed.gov/admins/lead/safety/handbook.pdf) (\[https://www2.ed.gov/admins/lead/safety/handbook.pdf)] or in this Annual Security Report’s crime statistics section.
+Certain College employees are “[Campus Security Authorities](https://www.middlebury.edu/office/public-safety/forms-and-resources/campus-security-authorities)” (“CSA”) and are therefore required under federal law (the “Clery Act”) to report suspected [crimes](https://www.middlebury.edu/office/public-safety/forms-and-resources/campus-security-authorities#what-crimes-have-to-be-reported) that have occurred on College property, on all public property (including thoroughfares, streets, sidewalks, and parking facilities) that is within the campus, or immediately adjacent to and accessible from the campus, and on certain nonpublic property (such as any building or property owned or controlled by the College that is used in direct support of, or in relation to, the College’s educational purposes, is frequently used by students, and is not within the same reasonably contiguous geographic area of the College). A list of CSA's can be found [here](https://www.middlebury.edu/office/public-safety/forms-and-resources/campus-security-authorities#who-is-a-campus-security-authority).
 
 **10\. Retaliation**
 
 Retaliating directly or indirectly against a person who has in good faith made a report under this policy or participated in an investigation is prohibited. Retaliation includes but is not limited to ostracizing the person, pressuring the person to drop or not support the complaint or to provide false or misleading information, or engaging in conduct that may reasonably be perceived to affect adversely that person's educational, living, or work environment. Depending on the circumstances, retaliation may also be unlawful, regardless of whether the complaint is ultimately found to have merit.
-
-_**Amended September 9, 2019.**_
 
 ### **APPENDIX A: Contact Information for All Middlebury Programs** {#A}
 
@@ -246,17 +178,17 @@ Emergency: 911
 (24 hour hotline: 1.800.649.5285)
 
 **Civil Rights and Title IX Coordinator**  
-Marti McCaleb, J.D.   
+Butterfly Blaise Boire  
 Middlebury College  
-Service Building   
+Service Building 213  
 Middlebury, VT 05753  
-802.443.3289  
-[mmccaleb@middlebury.edu](mailto:mmccaleb@middlebury.edu)
+802.443.2147  
+[bboire@middlebury.edu](mailto:bboire@middlebury.edu)
 
 **Senior Human Relations Officer**  
-Eric Lopez  
+Thaddeus Watulak  
 Middlebury College  
-Service Building 235  
+Service Building 215  
 802.443. 3324  
 [el@middlebury.edu](mailto:el@middlebury.edu)
 
@@ -345,7 +277,7 @@ United Kingdom
 [Jeri.johnson@exeter.ox.ac.uk](mailto:Jeri.johnson@exeter.ox.ac.uk)
 
 **Middlebury Institute of International Studies at Monterey**  
-[Human Relations Officers](https://www.middlebury.edu/studentlife/doc/hro)   
+[Human Relations Officers](https://www.middlebury.edu/studentlife/doc/hro)  
 Ashley Fera Arrocha (Title IX Coordinator Designee for the Institute)  
 Associate Dean of Student Services  
 Office of Student Services  
