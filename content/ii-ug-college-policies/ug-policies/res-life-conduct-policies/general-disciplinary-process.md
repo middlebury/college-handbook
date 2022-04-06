@@ -1,21 +1,20 @@
 ---
-slug: "/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process"
-date: "2021-05-01"
-title: "B.2.d. Student Conduct Process"
+slug: /pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process
+title: B.2.d. Student Conduct Process
+date: 2021-05-01
 ---
-
 **TABLE OF CONTENTS**
 
 [**I. Introduction to Middlebury Student Discipline Processes**](#intro)
 
-* [a. Overview](#overview)
-[**II. Preliminary Issues**](#prelimissues)
-* [a. Applicability of These Procedures](#applicability)
-* [b. Administrative resolution](#adminresolution)
-* [c. No Contact Orders](#NCO)
-* [d. Legal Proceedings and Legal Counsel](#legalproceedings)
-* [e. Cooperation and Honesty](#cooperation)
-* [f. Principles of Fundamental Fairness](#fairness)
+*   [a. Overview](#overview)  
+    [**II. Preliminary Issues**](#prelimissues)
+*   [a. Applicability of These Procedures](#applicability)
+*   [b. Administrative resolution](#adminresolution)
+*   [c. No Contact Orders](#NCO)
+*   [d. Legal Proceedings and Legal Counsel](#legalproceedings)
+*   [e. Cooperation and Honesty](#cooperation)
+*   [f. Principles of Fundamental Fairness](#fairness)
 
 [**III. Charges and Evidence**](#chargesevidence)
 
@@ -25,8 +24,8 @@ title: "B.2.d. Student Conduct Process"
 
 [**VI. The Judicial Board**](#judicialboard)
 
-* [a. Composition](#composition)
-* [b. Hearing Procedures](#hearingprocedures)
+*   [a. Composition](#composition)
+*   [b. Hearing Procedures](#hearingprocedures)
 
 [**VII. Sanctions**](#sanctions)
 
@@ -78,7 +77,7 @@ Consistent with Middlebury’s core requirement of honesty and cooperation, stud
 
 Middlebury’s discipline procedures are driven by our commitment to fundamental fairness.  Among the considerations weighed by the Vice President for Student Affairs in establishing these procedures are: (1) ensuring that Middlebury’s conduct expectations are reasonable, (2) ensuring that students have reasonable notice (they know or should have known) about the conduct expectations, (3) providing that disciplinary procedures are carried out by individuals who are properly trained and authorized to act, (4) utilizing procedures that result in outcomes based on meaningful evidence, and (5) ensuring that students have notice of the charges against them, as well as an opportunity to present evidence, and (6) providing for appeals in processes that result in a sanction of official College discipline.
 
-Colleges are not courts of law, and Middlebury’s disciplinary proceedings have as their fundamental goal _education_, rather than criminal punishment or compensation.  Middlebury does not have the power to subpoena evidence or place witnesses under oath, and procedures are therefore necessarily different from a civil or criminal legal proceeding. However, the procedures outlined below and in the [TIX Sexual Harassment Investigations and Resolutions Procedure](/pages/i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy), as well as the [Non-Discrimination Investigations and Resolutions Procedure](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin), are designed to provide fundamental fairness and to protect students from arbitrary or capricious disciplinary action. All disciplinary authorities of Middlebury, including judicial board members, deans and Human Relations Officers conduct their proceedings in the spirit of these principles. If exceptional circumstances dictate variation from these procedures, the variation will not invalidate a decision unless it prevented fundamental fairness.
+Colleges are not courts of law, and Middlebury’s disciplinary proceedings have as their fundamental goal _education_, rather than criminal punishment or compensation.  Middlebury does not have the power to subpoena evidence or place witnesses under oath, and procedures are therefore necessarily different from a civil or criminal legal proceeding. However, the procedures outlined below and in the [Title IX Investigations and Resolutions Procedure](/pages/i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy), as well as the [Non-Discrimination Investigations and Resolutions Procedure](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin), are designed to provide fundamental fairness and to protect students from arbitrary or capricious disciplinary action. All disciplinary authorities of Middlebury, including judicial board members, deans and Human Relations Officers conduct their proceedings in the spirit of these principles. If exceptional circumstances dictate variation from these procedures, the variation will not invalidate a decision unless it prevented fundamental fairness.
 
 ## III. Charges and Evidence {#chargesevidence}
 
@@ -124,7 +123,7 @@ f. If the sanction is a form of official College discipline for non-academic mis
 
 ### a. Composition {#composition}
 
-i. The Judicial Board is comprised of students, faculty and staff, specifically: (1) a member of the faculty or academic administration appointed by the president of Middlebury, (2) two faculty members, (3) four students, (4) a dean of student life, and (5) a staff member.  There will be two student alternates, one faculty alternate, and one staff alternate.  Alternates will only substitute for absent members of their own constituency.  Either the presidential appointee or a dean of student life shall serve as the chair of the Judicial Board.
+i. The Judicial Board is comprised of students, faculty and staff, specifically: (1) a member of the faculty or academic administration appointed by the president of Middlebury, (2) two faculty members, (3) four students, (4) a dean of student life, and (5) a staff member.  There will be two student alternates, one faculty alternate, and one staff alternate.  Alternates will only substitute for absent members of their own constituency.  Either the presidential appointee, a student life dean, or student co-chair shall serve as the chair for a hearing.
 
 1.  Faculty Council appoints the faculty members.
 2.  Community Council appoints student members recommended by the selection committee. First-year students may not serve on the Judicial Board, however,  Febs are eligible to apply for the fall semester after their arrival on campus.  A student charged with a serious conduct infraction during their term of service may be required to step down from the Judicial Board, upon the request of the Office of Community Standards or a majority of the Judicial Board.
@@ -173,7 +172,7 @@ xv. The Office of Community Standards will ordinarily give written notification 
 
 ## VII. Sanctions {#sanctions}
 
-Middlebury College’s sanctions are generally described in Section B. 2\. e. of the Handbook and the information below is specific to conduct matters addressed under this process.
+Middlebury College’s sanctions are generally described in Section B. 2. e. of the Handbook and the information below is specific to conduct matters addressed under this process.
 
 a. After the Board makes the factual findings and if it makes a finding of responsibility, the respondent student is notified by letter.  The student may submit a sanctioning statement, which may include information about significant mitigating circumstances, to the Office of Community Standards, within 24 hours of receiving the outcome letter.
 
@@ -205,10 +204,10 @@ ii. If the sanction is a form of official College discipline for non-academic mi
 
 iii. Appeals to the VPAA/DOF and the VPSA will follow the same process:
 
-1. The VPAA/DOF or the VPSA may grant extensions of time for the respondent to appeal, upon request.   
-2. The VPAA/DOF or the VPSA will provide a copy of the written appeal to the Office of Community Standards, and the Office will provide access to the records of the case to the VPAA/DOF or VPSA.  
-3. The VPAA/DOF or the VPSA may consult with the Office of Community Standards and any other relevant individual regarding the appeal, as appropriate.   
-4. The VPAA/DOF or the VPSA will consider whether the appeal demonstrates by a preponderance of the evidence one of the bases for further action, and may require re-consideration by the initial decision-maker, re-convening the original Judicial Board, convening a new Judicial Board, to re-hear the entire matter or only a limited portion, or may require re-deliberation on the sanction.   
-5. The VPAA/DOF or the VPSA will ordinarily notify the student of their decision within seven business days of the receipt of the records of the initial determination, but this time may be extended if compelling circumstances warrant, and variation from this shall not invalidate a decision.  
-6. If reconsideration of some kind is required, the Office of Community Standards will take the appropriate steps to implement the decision of the VPAA/DOF or the VPSA, as necessary.  
-7. Decisions of the VPAA/DOF and the VPSA, or reconsideration of the initial determination by the Dean or the Board after a successful appeal are final, and not subject to further appeal, absent extraordinary circumstances.
+1.  The VPAA/DOF or the VPSA may grant extensions of time for the respondent to appeal, upon request. 
+2.  The VPAA/DOF or the VPSA will provide a copy of the written appeal to the Office of Community Standards, and the Office will provide access to the records of the case to the VPAA/DOF or VPSA.
+3.  The VPAA/DOF or the VPSA may consult with the Office of Community Standards and any other relevant individual regarding the appeal, as appropriate. 
+4.  The VPAA/DOF or the VPSA will consider whether the appeal demonstrates by a preponderance of the evidence one of the bases for further action, and may require re-consideration by the initial decision-maker, re-convening the original Judicial Board, convening a new Judicial Board, to re-hear the entire matter or only a limited portion, or may require re-deliberation on the sanction. 
+5.  The VPAA/DOF or the VPSA will ordinarily notify the student of their decision within seven business days of the receipt of the records of the initial determination, but this time may be extended if compelling circumstances warrant, and variation from this shall not invalidate a decision.
+6.  If reconsideration of some kind is required, the Office of Community Standards will take the appropriate steps to implement the decision of the VPAA/DOF or the VPSA, as necessary.
+7.  Decisions of the VPAA/DOF and the VPSA, or reconsideration of the initial determination by the Dean or the Board after a successful appeal are final, and not subject to further appeal, absent extraordinary circumstances.
