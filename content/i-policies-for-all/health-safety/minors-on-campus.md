@@ -189,15 +189,15 @@ Middlebury, VT 05753
 Thaddeus Watulak  
 Middlebury College  
 Service Building 215  
-802.443. 3324  
-[el@middlebury.edu](mailto:el@middlebury.edu)
-
-**Human Relations Officer**  
-Thaddeus Watulak  
-Middlebury College  
-Service Building  
 802.443. 5741  
 [twatulak@middlebury.edu](mailto:twatulak@middlebury.edu)
+
+**Human Relations Officer**  
+Cameron Connah  
+Middlebury College  
+Service Building 212  
+802.443. 3324  
+[cconnah@middlebury.edu](mailto:cconnah@middlebury.edu)
 
 **Alternate Human Relations Officers**  
 Laura Carotenuto  
