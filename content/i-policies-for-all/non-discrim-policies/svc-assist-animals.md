@@ -82,5 +82,3 @@ Middlebury maintains the right to remove an animal under certain circumstances i
 \-if it causes disturbances such as noise, barking, or excessive odors, or
 
 \-if it poses a direct threat to any member of the Middlebury community.
-
-_Updated: March 29, 2019_
