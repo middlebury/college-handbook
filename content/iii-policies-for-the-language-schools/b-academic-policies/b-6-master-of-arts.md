@@ -1,23 +1,23 @@
 ---
 slug: /pages/iii-policies-for-the-language-schools/b-academic-policies/b-6-master-of-arts
-date: 2021-05-01
 title: B.6 Master of Arts
+date: 2021-05-01
 ---
 **Master of Arts Degree Candidacy**
 
-The Master of Arts degree in Arabic, Chinese, French, German, Teaching Hebrew as a Second Language, Italian, Japanese, Russian, or Spanish requires 12 units of course credit. Receipt of the Bachelor of Arts degree or the equivalent from a regionally accredited institution is a prerequisite for admission to the Master of Arts program. Students are notified by letter of their formal acceptance into the Master of Arts program after successfully completing three graduate-level courses during their first summer of study on the Middlebury or Bennington campus.
+The Master of Arts degree in Arabic, Chinese, French, German, Teaching Hebrew as a Second Language, Italian, Japanese, Korean, Russian, or Spanish requires 12 units of course credit. Receipt of the Bachelor of Arts degree or the equivalent from a regionally accredited institution is a prerequisite for admission to the Master of Arts program. Students are notified by letter of their formal acceptance into the Master of Arts program after successfully completing three graduate-level courses during their first summer of study on the Middlebury or Bennington campus.
 
 If a student earns a grade lower than B- in any course during the summer of candidacy, the student will be notified in writing that admission to the Master of Arts degree program has been denied. Students who are denied admission to the Master of Arts degree program may submit a letter requesting reconsideration of candidacy if special circumstances exist that contributed to the negative outcome of the summer of candidacy. Written requests will be reviewed by the director whose decision, in consultation with faculty and the vice president’s office (if necessary), is final. Any student who is granted permission for readmission to the summer of candidacy must successfully complete all courses required for the degree.
 
 A highly-qualified undergraduate student may accumulate, before receipt of the Bachelor of Arts degree or equivalent, a maximum of three graduate units at the Language Schools to be applied toward the Middlebury Master of Arts degree. Such units will not count toward both degrees.
 
-Master of Arts degree students who are assigned a grade of “F” will be dismissed from the program. All other failing grades (see [_Grades and Transcripts_](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-8-student-records)) represent unsatisfactory progress and may jeopardize a student’s eligibility for federal loans, and may be grounds for dismissal from the program. Transfer courses may not be used to make up failures (see *Transfer Credits* section below). All failed courses must be made up in a summer session at Middlebury or Bennington. A Master of Arts candidate who withdraws from a School Abroad may complete the degree only through further study during a summer session at Middlebury or Bennington. Special permission must be granted to complete the degree at a School Abroad.
+Master of Arts degree students who are assigned a grade of “F” will be dismissed from the program. All other failing grades (see [_Grades and Transcripts_](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-8-student-records)) represent unsatisfactory progress and may jeopardize a student’s eligibility for federal loans, and may be grounds for dismissal from the program. Transfer courses may not be used to make up failures (see _Transfer Credits_ section below). All failed courses must be made up in a summer session at Middlebury or Bennington. A Master of Arts candidate who withdraws from a School Abroad may complete the degree only through further study during a summer session at Middlebury or Bennington. Special permission must be granted to complete the degree at a School Abroad.
 
 **Credits and Course Load**
 
 (see [_Registration_](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-4-registration))
 
-All credit awarded by the Language Schools is defined in terms of units. One unit equals three semester hours of credit. Students enrolled in the six-week graduate programs of the Arabic, Chinese, French, German, Hebrew, Italian, Japanese, Russian, and Spanish Schools normally earn three units of credit. Graduate students are not permitted to repeat a course for which they have received a passing grade and earned credit.
+All credit awarded by the Language Schools is defined in terms of units. One unit equals three semester hours of credit. Students enrolled in the six-week graduate programs of the Arabic, Chinese, French, German, Hebrew, Italian, Japanese, Korean, Russian, and Spanish Schools normally earn three units of credit. Graduate students are not permitted to repeat a course for which they have received a passing grade and earned credit.
 
 The Language Schools advise against taking more than the three-course load. Permission to take a fourth course must be obtained from the director or associate director of the School, and is granted only in rare exceptions, and only to graduate students who have studied previously at the School. Students are billed for extra courses after the beginning of the session (see Extra Course Fees). Payment in full is due upon receipt of the bill.
 
