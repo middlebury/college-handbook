@@ -11,7 +11,7 @@ Add/Drop procedures are handled by each School office. Students must obtain the 
 
 **Add/Drop Deadlines:**
 
-Arabic, Chinese, English, Japanese, Korean, and Russian 8-week sessions: July 5
+Arabic, Chinese, Japanese, Korean, and Russian 8-week sessions: July 5
 
 Portuguese 7-week session: July 4
 
@@ -33,7 +33,7 @@ All 2, 3 and 4-week sessions: end of the third day of class
 
 **Credits and Credit Load**
 
-All credit awarded by the Language Schools is defined in terms of units. One unit equals three semester hours of credit. Students enrolled in the eight-week session of the Arabic, Chinese, English, Japanese, Korean, and Russian Schools normally earn four units of credit. Students enrolled in the seven-week session of the French, German, Hebrew, Italian, Portuguese, and Spanish Schools normally earn three units of credit. Students enrolled in the six-week graduate programs of the Arabic, Chinese, French, German, Hebrew, Italian, Japanese, Korean, Russian, and Spanish Schools normally earn three units of credit. Graduate students are not permitted to repeat a course for which they have received a passing grade and earned credit. For all other students, repeating a course is allowed only with permission of the director of the school. This permission only will be granted in exceptional cases. To request permission to repeat a course, non-graduate students must submit a request in writing. The request must include justification as to why permission to repeat courses should be considered. If approval to repeat a course (or courses) is granted, only the first grade is calculated into the grade point average, and the course is only counted once for credit, although both grades appear on the transcript.
+All credit awarded by the Language Schools is defined in terms of units. One unit equals three semester hours of credit. Students enrolled in the eight-week session of the Arabic, Chinese, Japanese, Korean, and Russian Schools normally earn four units of credit. Students enrolled in the seven-week session of the French, German, Hebrew, Italian, Portuguese, and Spanish Schools normally earn three units of credit. Students enrolled in the six-week graduate programs of the Arabic, Chinese, French, German, Hebrew, Italian, Japanese, Korean, Russian, and Spanish Schools normally earn three units of credit. Graduate students are not permitted to repeat a course for which they have received a passing grade and earned credit. For all other students, repeating a course is allowed only with permission of the director of the school. This permission only will be granted in exceptional cases. To request permission to repeat a course, non-graduate students must submit a request in writing. The request must include justification as to why permission to repeat courses should be considered. If approval to repeat a course (or courses) is granted, only the first grade is calculated into the grade point average, and the course is only counted once for credit, although both grades appear on the transcript.
 
 For transfer purposes, the student’s home institution determines how many credits, graduate or undergraduate, are granted. Students should consult their home campus advisors.
 
