@@ -22,9 +22,6 @@ Arabic 6-week program - July 15
 Chinese 8-week program – July 1  
 Chinese 6-week program – July 13
 
-English 8-week program – July 1  
-English 6-week program – July 15
-
 French 6-week program in Paris – June 17  
 French 7-week program – July 8  
 French 6-week program in Vermont – July 13
