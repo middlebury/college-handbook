@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/non-discrim-policies/ada-policy
-date: 2021-05-01
 title: B.1.c. Americans with Disabilities Act Policy
+date: 2021-05-01
 ---
 **Table of Contents**
 
@@ -11,7 +11,7 @@ A. [Position Statement](#position)
 
 B. [Nature and Scope of Policy](#nature)
 
-C. [Admission for Students with Disabilities ](#admission)
+C. [Admission for Students with Disabilities](#admission) 
 
 D. [ADA Coordinators](#ada)
 
@@ -27,9 +27,9 @@ I. [Web Accessibility](#web)
 
 II. STUDENT ACCOMODATION PROCEDURES
 
-A. [Certification and Accommodation  ](#certification)
+A. [Certification and Accommodation](#certification) 
 
-B. [Role of the Student ](#role-stu)
+B. [Role of the Student](#role-stu) 
 
 C. [Role of the Faculty](#role-fac)
 
@@ -57,7 +57,7 @@ IV. [ASSISTANCE FOR STUDENTS WITH TEMPORARY IMPAIRMENTS](#assistance)
 
 #### **A. Position Statement** {#position}
 
-Middlebury is committed to ensuring equal access to its programs and activities for qualified individuals, including individuals with disabilities.  Therefore, Middlebury supports the standards set forth in Section 504 of the Rehabilitation Act of 1973 and the Americans with Disabilities Act (ADA) of 1990, as amended, and similar state laws (hereinafter "applicable law" or "law[s]"), which are designed to eliminate discrimination against qualified individuals with disabilities. Disabilities may include physical or mental impairments which substantially limit one or more of a person's major life activities, and which necessitate modifications to Middlebury’s facilities, programs, or services. Middlebury is committed to making reasonable accommodations for qualifying students, faculty, and employees with disabilities as required by applicable laws. Middlebury is committed to making the campus and its facilities accessible as required by applicable laws. Middlebury cannot make accommodations that are unreasonable, unduly burdensome or that fundamentally alter the nature of its programs or services.
+Middlebury is committed to ensuring equal access to its programs and activities for qualified individuals, including individuals with disabilities.  Therefore, Middlebury supports the standards set forth in Section 504 of the Rehabilitation Act of 1973 and the Americans with Disabilities Act (ADA) of 1990, as amended, and similar state laws (hereinafter "applicable law" or "law\[s\]"), which are designed to eliminate discrimination against qualified individuals with disabilities. Disabilities may include physical or mental impairments which substantially limit one or more of a person's major life activities, and which necessitate modifications to Middlebury’s facilities, programs, or services. Middlebury is committed to making reasonable accommodations for qualifying students, faculty, and employees with disabilities as required by applicable laws. Middlebury is committed to making the campus and its facilities accessible as required by applicable laws. Middlebury cannot make accommodations that are unreasonable, unduly burdensome or that fundamentally alter the nature of its programs or services.
 
 #### **B. Nature and Scope of Policy** {#nature}
 
@@ -77,7 +77,7 @@ The ADA Coordinator(s), in consultation with appropriate campus personnel, coord
 
 #### **E. Section 504 Coordinator** {#section}
 
-Middlebury designates the [Civil Rights and Title IX Coordinator](https://www.middlebury.edu/student-life/health-wellness-education-and-safety/campus-policies/human-relations-officer) to coordinate its efforts to comply with and carry out its responsibilities under Section 504 of the Rehabilitation Act of 1973\. Section 504, where applicable, generally prohibits discrimination in educational programs and employment, against qualified individuals with disabilities, on the basis of disability. See also Middlebury’s [Nondiscrimination Statement](https://www.middlebury.edu/about/handbook/general/nondiscrimination).
+Middlebury designates the [Civil Rights and Title IX Coordinator](https://www.middlebury.edu/student-life/health-wellness-education-and-safety/campus-policies/human-relations-officer) to coordinate its efforts to comply with and carry out its responsibilities under Section 504 of the Rehabilitation Act of 1973. Section 504, where applicable, generally prohibits discrimination in educational programs and employment, against qualified individuals with disabilities, on the basis of disability. See also Middlebury’s [Nondiscrimination Statement](https://www.middlebury.edu/about/handbook/general/nondiscrimination).
 
 #### **F. Accommodations at the Middlebury Institute of International Studies at Monterey** {#accom-miis}
 
@@ -85,7 +85,7 @@ The Middlebury Institute has separate policies and procedures for qualified stud
 
 #### **G. Accommodations for Employees** {#accom-empl}
 
-Faculty, staff, and other Middlebury employees who have ADA related concerns are assisted by Human Resources. For more information regarding the process by which employees can seek accommodations see [“Middlebury College Human Resources Procedures: ADA Compliance.”](/pages/ii-ug-college-policies/employee)
+Faculty, staff, and other Middlebury employees who have ADA related concerns are assisted by Human Resources. For more information regarding the process by which employees can seek accommodations see [“Middlebury College Human Resources Procedures: ADA Compliance.”](https://www.middlebury.edu/office/human-resources/self-service-resources/ada-information)
 
 #### **H. Accessibility of Campus Events and Programs** {#accessibility}
 
@@ -150,8 +150,8 @@ Providing proper accommodations requires timely student input. Immediate accommo
 
 The ADA requires that:
 
-* all otherwise qualified students are provided with equal access to courses, programs, goods, services, facilities, privileges and advantages and;
-* the impact of the disability on the student's learning and/or academic performance is mitigated without fundamentally altering the nature of the courses, programs, goods, services, facilities, privileges, and advantages.
+*   all otherwise qualified students are provided with equal access to courses, programs, goods, services, facilities, privileges and advantages and;
+*   the impact of the disability on the student's learning and/or academic performance is mitigated without fundamentally altering the nature of the courses, programs, goods, services, facilities, privileges, and advantages.
 
 Accommodations may involve modifications of the ways in which material is presented or learning is evaluated; for examples of accommodations, please visit the [DRC website](https://www.middlebury.edu/student-life/community-living/diversity-inclusivity/american-disability-act).  However, accommodations which fundamentally alter the nature of the courses, programs, goods, services, facilities, privileges, and advantages shall not be required of Middlebury faculty.
 
