@@ -29,7 +29,7 @@ Because assistance animals do not qualify as service animals under the ADA, they
 
 **i.  Reasonable Accommodation Request for Assistance Animals**
 
-In order to request a reasonable accommodation to possess an assistance animal in residence halls on campus, a person must initiate the accommodation process by contacting the appropriate resource:
+In order to request a reasonable accommodation to possess an assistance animal in residence halls on campus, or in an office or building on campus, a person must initiate the accommodation process by contacting the appropriate resource:
 
 **Students**
 
@@ -41,15 +41,15 @@ Service Building 222
 
 **Faculty or Staff**
 
-Christina Lynch, Business Partner  
 Human Resources  
-[clynch@middlebury.edu](mailto:clynch@middlebury.edu)  
-(802) 443-2637  
-Marble Works 113
+[hr@middlebury.edu](mailto:hr@middlebury.edu)   
+(802) 443-5465  
+Marble Works  
+152 Maple Street
 
 Each request to possess an assistance animal in residence halls will be evaluated on an individualized basis using the general policies applicable to all reasonable accommodation requests.
 
-If reasonable accommodation of an assistance animal is approved by Middlebury, each academic year or every summer,  assistance animals must be registered with the College (SAS or Human Resources). A denial for reasonable accommodation may be appealed by following the procedures outlined in the [ADA policy](https://www.middlebury.edu/student-life/community-living/diversity-inclusivity/american-disability-act/policy#Appeals). Information on the animal registration form may be shared with the Department of Public Safety, Facilities, and the Residential Life staff in order to confirm and/or receive confirmation that your animal has been approved as an accommodation.
+If reasonable accommodation of an assistance animal is approved by Middlebury, each academic year or every summer,  assistance animals must be registered with the College (SAS or Human Resources). A denial for reasonable accommodation may be appealed by following the procedures outlined in the appropriate ADA policy (ADA policy [for students](https://www.middlebury.edu/office/disability-resource-center/current-and-prospective-students/policies-and-procedures#Appeals), ADA policy [for employees](https://www.middlebury.edu/office/human-resources/self-service-resources/ada-information)). Information on the animal registration form may be shared with the Department of Public Safety, Facilities, and the Residential Life staff in order to confirm and/or receive confirmation that your animal has been approved as an accommodation.
 
 **C.** **Owner/Handler Responsibilities Relating to Service Animals and Assistance Animals**
 
