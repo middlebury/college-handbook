@@ -3,7 +3,7 @@ slug: /pages/iv-policies-for-the-institute/a-academic-policies/a-6-grades-credit
 title: A.6.l. Transfer of Academic Credit from Other Institutions
 date: 2021-05-01
 ---
-After being admitted to the Middlebury Institute, a student may petition the Language Studies Program Chair to consider courses taken elsewhere at accredited institutions for satisfaction of specific Institute degree requirements.
+After being admitted to the Middlebury Institute, a student may petition the Associate Dean of Academic Operations (who will consult with the relevant Program Chair) to consider courses taken elsewhere at accredited institutions for satisfaction of specific Institute degree requirements.
 
 A minimum residency requirement of 30 credits is required for all Middlebury Institute degrees. Transfer credit is limited to 25 percent of graduate degree requirements.
 
