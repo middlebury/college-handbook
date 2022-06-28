@@ -8,6 +8,10 @@
   publish = "public/"
   command = "sed -i \"s/branch: master/branch: ${CMS_BRANCH}/g\" static/admin/config.yml && npm run build"
 
+[build.environment]
+  NODE_VERSION = "14.19.3"
+  NPM_VERSION = "6.14.17"
+
 [[redirects]]
   from = "/handbook/*"
   to = "/:splat"
