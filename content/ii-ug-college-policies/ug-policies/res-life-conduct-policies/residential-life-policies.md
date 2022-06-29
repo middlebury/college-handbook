@@ -120,7 +120,7 @@ Fire Safety inspections will be organized and conducted on an on-going basis as 
 
 #### **Noise Regulations** {#noise}
 
-Middlebury seeks to promote the quiet, comfort, and health of the campus community and residents of the town of Middlebury. The student body must uphold the Ordinance for the Regulation of Noise of the town of Middlebury. This ordinance prohibits excessive or unnecessary noise, including vocal disturbances and loud music, and punishes offenders with fines.  Students should neither cause nor condone excessive amounts of noise, but should strive to be considerate and respectful of others and to be good citizens. Students are informed about Middlebury’s noise regulations by the residential life staff. Procedures on Noise Complaints can be found [here](https://www.middlebury.edu/offices/health/publicsafety/Noise_Regulations). Students who violate Middlebury policy or local ordinances will be subject to Middlebury's [student conduct process](https://www.middlebury.edu/handbook/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process/#composition).
+Middlebury seeks to promote the quiet, comfort, and health of the campus community and residents of the town of Middlebury. The student body must uphold the Ordinance for the Regulation of Noise of the town of Middlebury. This ordinance prohibits excessive or unnecessary noise, including vocal disturbances and loud music, and punishes offenders with fines.  Students should neither cause nor condone excessive amounts of noise, but should strive to be considerate and respectful of others and to be good citizens. Students are informed about Middlebury’s noise regulations by the residential life staff. Procedures on Noise Complaints can be found [here](https://www.middlebury.edu/offices/health/publicsafety/Noise_Regulations). Students who violate Middlebury policy or local ordinances will be subject to Middlebury's [student conduct process](https://www.middlebury.edu/handbook/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
 
 #### **Storage Regulations**
 
@@ -161,9 +161,9 @@ Permission must be granted for each term a student wants to live off campus and 
 
 Students who accept off-campus housing status and then request to move back on campus will be placed on a waiting list and housed by the residential systems coordinator following the completion of the housing processes taking place at that time.  There is no guarantee of housing for these students.
 
-Students who choose to live off-campus without authorization - that is, students who are not granted off-campus status but move off-campus nonetheless - will be subject to Middlebury's [student conduct process](https://www.middlebury.edu/handbook/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process/#composition).
+Students who choose to live off-campus without authorization - that is, students who are not granted off-campus status but move off-campus nonetheless - will be subject to Middlebury's [student conduct process](https://www.middlebury.edu/handbook/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
 
-Students who live off campus are expected to be good citizens. Students who violate Middlebury policy or local ordinances will be subject to Middlebury's [student conduct process](https://www.middlebury.edu/handbook/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process/#composition).
+Students who live off campus are expected to be good citizens. Students who violate Middlebury policy or local ordinances will be subject to Middlebury's [student conduct process](https://www.middlebury.edu/handbook/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
 
 Living on campus is considered to be an essential component of the educational experience at Middlebury. Request for off-campus housing on the basis of a medical or ADA-certified need will be considered on a case-by-case basis and will require appropriate documentation.
 
