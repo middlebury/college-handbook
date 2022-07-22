@@ -49,7 +49,7 @@ Students cannot switch rooms and keys or change residences without proper permis
 
 Students are not expected to be in areas that are not regular living spaces. They should not use areas outside of their living spaces for storage unless authorized. The list of spaces excluded from student use includes any roof or outer surface of any Middlebury building. Accessing a roof in any manner or climbing on a building is considered dangerous behavior and is prohibited; fines will be assessed.  Unauthorized access to prohibited areas of Middlebury buildings (e. g. basements, closets, crawlspaces and/or attics) will incur fines (see [section on fines and fees](https://www.middlebury.edu/offices/support/sfs/sfs-handbook)).
 
-Students are expected to be considerate of others with respect to noise in the residence halls; see [Noise Regulations](https://www.middlebury.edu/offices/health/publicsafety/Noise_Regulations) for more information. Conduct that creates a public disturbance in a residence hall or interferes with another student’s ability to study is prohibited.
+Students are expected to be considerate of others with respect to noise in the residence halls; see [Noise Policy](https://www.middlebury.edu/offices/health/publicsafety/Noise_Regulationshttps://www.middlebury.edu/office/public-safety/safety-and-security/noise-regulations) for more information. Conduct that creates a public disturbance in a residence hall or interferes with another student’s ability to study is prohibited.
 
 Students are expected to be responsible for their personal valuables and belongings. Middlebury does not accept responsibility for loss of money or other personal property or damage thereto which may occur in residence halls and elsewhere on campus. Students may wish to insure their property against such loss.
 
@@ -118,9 +118,11 @@ Any violation of fire safety regulations will result in a [fine](https://www.mid
 
 Fire Safety inspections will be organized and conducted on an on-going basis as deemed appropriate.  Students will be reminded that inspections will occur at the beginning of each semester, and will be advised of the conditions following the inspections.  Any material in violation of the fire safety regulations will be confiscated at the time of the inspection, and the student fined.
 
-#### **Noise Regulations** {#noise}
+#### **Noise Policy** {#noise}
 
-Middlebury seeks to promote the quiet, comfort, and health of the campus community and residents of the town of Middlebury. The student body must uphold the Ordinance for the Regulation of Noise of the town of Middlebury. This ordinance prohibits excessive or unnecessary noise, including vocal disturbances and loud music, and punishes offenders with fines.  Students should neither cause nor condone excessive amounts of noise, but should strive to be considerate and respectful of others and to be good citizens. Students are informed about Middlebury’s noise regulations by the residential life staff. Procedures on Noise Complaints can be found [here](https://www.middlebury.edu/offices/health/publicsafety/Noise_Regulations). Students who violate Middlebury policy or local ordinances will be subject to Middlebury's [student conduct process](https://www.middlebury.edu/handbook/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
+Middlebury seeks to promote the quiet, comfort, and health of the campus, the Town of Middlebury, and surrounding communities. Students are required to be considerate of others with respect to noise in the residence halls. Students should neither cause nor condone excessive amounts of noise, but should strive to be considerate and respectful of others and to be good neighbors. Conduct that creates a public disturbance in a residence hall or interferes with another student’s ability to study is prohibited.
+
+Students must also abide by all applicable town noise ordinances, including but not limited to the [Town of Middlebury Ordinance for the Regulation of Noise](https://www.middlebury.edu/office/sites/www.middlebury.edu.office/files/2020-10/NoiseGuidelines.pdf?fv=_HhJc6KU). This ordinance prohibits excessive or unnecessary noise, including vocal disturbances and loud music, and includes fines for non-compliance. Procedures on Noise Complaints can be found [here](https://www.middlebury.edu/office/public-safety/safety-and-security/noise-regulations). Students who violate Middlebury policy or local ordinances will be subject to Middlebury's [student conduct process](https://www.middlebury.edu/handbook/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
 
 #### **Storage Regulations**
 
@@ -163,7 +165,7 @@ Students who accept off-campus housing status and then request to move back on c
 
 Students who choose to live off-campus without authorization - that is, students who are not granted off-campus status but move off-campus nonetheless - will be subject to Middlebury's [student conduct process](https://www.middlebury.edu/handbook/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
 
-Students who live off campus are expected to be good citizens. Students who violate Middlebury policy or local ordinances will be subject to Middlebury's [student conduct process](https://www.middlebury.edu/handbook/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
+Students who live off campus are expected to be good neighbors. Students who violate Middlebury policy or local ordinances will be subject to Middlebury's [student conduct process](https://www.middlebury.edu/handbook/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
 
 Living on campus is considered to be an essential component of the educational experience at Middlebury. Request for off-campus housing on the basis of a medical or ADA-certified need will be considered on a case-by-case basis and will require appropriate documentation.
 
