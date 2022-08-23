@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/course-reg-course-conduct
-date: 2021-05-01
 title: B.1.f. Course Registration and Conduct of Courses
+date: 2021-05-01
 ---
 #### **1\. Registration Procedure**
 
@@ -21,13 +21,13 @@ Under certain exceptional circumstances, students may be permitted to carry fewe
 
 Students may opt to take a course on a Pass/D/Fail basis under the following conditions:
 
-a. Students may count toward graduation no more than a total of five courses with non-standard grading.  The category of “non-standard grading” includes courses elected under the Pass/D/Fail option; AP, IB, A-Level, and other pre-college testing credits; winter term and summer study honors/pass/fail courses\*; and credit-bearing internships.  Of these five credits, only *two* may be taken under the Pass/D/Fail option. Specific guidelines concerning non-standard grading can be found in the College Handbook under [Degree Requirements](https://www.middlebury.edu/about/college-handbook-2017-revision/II.-policies-for-the-undergraduate-college/policies-for-undergrads/academic-policies/degree-requirements).
+a. Students may count toward graduation no more than a total of five courses with non-standard grading.  The category of “non-standard grading” includes courses elected under the Pass/D/Fail option; AP, IB, A-Level, and other pre-college testing credits; winter term and summer study honors/pass/fail courses\*; and credit-bearing internships.  Of these five credits, only _two_ may be taken under the Pass/D/Fail option. Specific guidelines concerning non-standard grading can be found in the College Handbook under [Degree Requirements](https://www.middlebury.edu/about/college-handbook-2017-revision/II.-policies-for-the-undergraduate-college/policies-for-undergrads/academic-policies/degree-requirements).
 
 b. Students must be enrolled in at least three other courses with standard grading to take an additional course Pass/D/Fail.
 
 c. Courses taken under the Pass/D/Fail option may not be used to satisfy distribution, College Writing, First-Year Seminar, or cultures and civilizations requirements.
 
-d. Courses taken under the Pass/D/Fail option may not be used to satisfy major or minor requirements, with one exception: a first course taken under the Pass/D/Fail option in a department or program in which a student subsequently declares a major or minor may, *with the approval of the department chair or program director*, be counted toward major or minor requirements.
+d. Courses taken under the Pass/D/Fail option may not be used to satisfy major or minor requirements, with one exception: a first course taken under the Pass/D/Fail option in a department or program in which a student subsequently declares a major or minor may, _with the approval of the department chair or program director_, be counted toward major or minor requirements.
 
 e. Students may elect the Pass/D/Fail option, for a course in which they are already registered, during the first four weeks of the semester.  Students must turn in a completed Pass/D/Fail application by the end of the fourth week of classes.  The deadline for changing a course from Pass/D/Fail to standard grading is the drop deadline (i.e., the end of the fifth week of the semester). Students must email the Registrar's Office with their intent to revoke Pass/D/Fail by the end of the fifth week of classes.
 
@@ -43,7 +43,7 @@ h. A grade of Pass will not be calculated in the student’s GPA. The grades of 
 
 With advance permission of the instructor, a regularly enrolled student may audit other classes. The instructor establishes the conditions under which the student may audit. A student may request official audit status, in which case the course will be recorded on his or her transcript with "AUD" in the grade column. In order to obtain official audit status, the student must make a request to the instructor, and they must agree in writing on the conditions of satisfactory completion. Students must register for audited courses during the normal add period. After the end of the add/drop period, no student may change his/her audit status without approval from the Administration Committee. In no case may the student receive credit for auditing.
 
-Community members living in the Middlebury area may audit courses only with the permission of the instructor and the dean of curriculum or designee. Community members interested in auditing a course at the College, must complete the [Community Member Audit Request](https://www.middlebury.edu/media/view/290549/original/audit_form.doc) form and obtain the requisite signatures indicating approval. The audit status, if approved, is not officially recorded and there is no academic transcript kept in these cases. Current high school students may not audit courses at Middlebury College.
+Community members living in the Middlebury area may audit courses only with the permission of the instructor and the dean of curriculum or designee. Community members interested in auditing a course at the College, must complete the [Community Member Audit Request](https://www.middlebury.edu/college/sites/www.middlebury.edu.college/files/2022-08/Community%20audit_form.pdf) form and obtain the requisite signatures indicating approval. The audit status, if approved, is not officially recorded and there is no academic transcript kept in these cases. Current high school students may not audit courses at Middlebury College.
 
 #### **5\. Change of Course Registration** {#change}
 
@@ -61,7 +61,7 @@ Students who add a class late do so at their own risk. They will not be permitt
 
 Fall or spring semester course enrollment may not be limited or cut off during registration without permission of the VPAA/DOF or designee. This restriction does not apply to first-year student seminars, College Writing courses, seminars, language and laboratory sections, and studio courses. Department chairs are responsible for ensuring that there are an adequate number of openings for incoming first-year students in September and February.
 
-A list of all courses in which six or fewer students are enrolled will be referred to the VPAA/DOF or designee after completion of a registration period. The advisability of offering such courses for the current semester will be discussed promptly with the department chair involved. Enrollment in winter term courses is limited. _(See "[Winter Term](/pages/ii-ug-college-policies/ug-policies/academics/winter-term)")._
+A list of all courses in which six or fewer students are enrolled will be referred to the VPAA/DOF or designee after completion of a registration period. The advisability of offering such courses for the current semester will be discussed promptly with the department chair involved. Enrollment in winter term courses is limited. _(See "_[_Winter Term_](/pages/ii-ug-college-policies/ug-policies/academics/winter-term)_")._
 
 #### **7\. Class Meeting and Scheduling** {#class}
 
@@ -83,7 +83,7 @@ A student who fails to attend the first two hours of class loses his or her spac
 
 _**Guidelines for Handling Athletics-Explained Absences**_
 
-The list of scheduled athletics contests you receive several times a year from the director of Athletics has been approved by the [Athletic Policy Committee](/pages/ii-ug-college-policies/ug-policies/academics/winter-term) of the faculty (APC) acting under guidelines set forth in the *Middlebury College Handbook.* This list tells you when legitimate absences from class may be expected by students because they are involved in a sanctioned athletic event scheduled for that date. The APC regards these lists as informative. They are an *explanation* for an absence, but they do not imply that the student is excused from the obligations of a course or the class work missed.
+The list of scheduled athletics contests you receive several times a year from the director of Athletics has been approved by the [Athletic Policy Committee](/pages/ii-ug-college-policies/ug-policies/academics/winter-term) of the faculty (APC) acting under guidelines set forth in the _Middlebury College Handbook._ This list tells you when legitimate absences from class may be expected by students because they are involved in a sanctioned athletic event scheduled for that date. The APC regards these lists as informative. They are an _explanation_ for an absence, but they do not imply that the student is excused from the obligations of a course or the class work missed.
 
 Although faculty members are expected to make their policy on course attendance clear at the beginning of each course, it is the individual student's responsibility to consult with his or her instructor as to the effect of explained absences.
 
