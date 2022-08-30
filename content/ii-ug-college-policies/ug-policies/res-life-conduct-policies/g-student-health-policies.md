@@ -55,17 +55,46 @@ Each time you visit the Center for Health and Wellness (Counseling, Health Servi
 
 You are entitled to access your health records or request that we prepare a summary for you. Your records are accessible to you through the student health portal and you may request printed records or summaries by emailing chw@middlebury.edu. Center for Health and Wellness staff are available to review your records with you at any time.
 
-1.  **Confidentiality**
+##### **i. Confidentiality**
 
-Health records at Parton are confidential and are completely separate from all other College records. Students have the right to revoke or restrict authorization to share health care information, and Parton will not release any information about you without your written permission, except under the following conditions:
+Health records at the Center for Health and Wellness are confidential and are completely separate from all other College records. Students have the right to revoke or restrict authorization to share health care information, and Center for Health and Wellness staff will not release any information about you without your written or electronic permission, except under the following conditions:
 
-*   As authorized or required by law (i.e., when we are presented with a valid court order requiring us to release records);
+*   As authorized or required by law (i.e., when we are presented with a valid court order requiring us to release records);
 *   As necessary to protect you or others from a serious threat to health and safety, or to protect property from a serious threat of damage;
-*   As necessary to notify parents and/or deans when you have a serious mental or physical health problem and are unable to assume responsibility for notifying others.
+*   As necessary to notify parents and/or College officials when you have a serious mental or physical health problem and are unable to assume responsibility for notifying others;
+*   Under some circumstances when parents or legal guardians may have the right to access the records of a minor.
 
-In addition, Parton medical, sports medicine, and counseling staff confer with one another as needed to provide integrated care for you. Parton also works with Porter Hospital and the Counseling Service of Addison County (CSAC) to ensure a full range of medical and mental health options for students; when students receive treatment at multiple offices, we exchange only such information as is needed to maintain continuity of care.  Students may make requests to Parton, Porter or CSAC to revoke or restrict authorization to share such information.
+In addition, Center for Health and Wellness staff confer with one another as needed to provide integrated care for you. We also work with Porter Hospital and the Counseling Service of Addison County (CSAC) to ensure a full range of medical and mental health options for students. When students receive treatment from multiple providers and/or in multiple locations, we exchange only such information as is needed to maintain continuity of care.  Students may make requests to the Center for Health and Wellness, Porter or CSAC to revoke or restrict authorization to share such information.
 
-Please note: Middlebury College and Parton Center for Health and Wellness are not subject to the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and therefore are not required to comply with the various federal regulations relating to the use and disclosure of health information. Middlebury College is, however, committed to protecting student privacy. This policy should not be interpreted as creating any contractual rights and Middlebury College reserves the right to make changes to this policy at any time without prior notice.
+Please note: Middlebury College and the Center for Health and Wellness are not subject to the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and therefore are not required to comply with the various federal regulations relating to the use and disclosure of health information. Middlebury College and the Center for Health and Wellness are, however, subject to the Family Education Rights Protection Act of 1974 (FERPA) which classifies your health records as treatment records and confers similar protections related to privacy.
+
+This policy should not be interpreted as creating any contractual rights and Middlebury College reserves the right to make changes to this policy at any time without prior notice. 
+
+##### ii. Confidentiality for the Treatment of Minors
+
+According to certain provisions of Vermont State law, parents or legal guardians must provide permission for some forms of healthcare for individuals under the age of 18 (minors). These provisions also allow for certain exceptions. In these situations, a parent’s or legal guardian’s permission is not required:
+
+*   Minors of any age will be cared for in emergency situations that necessitate immediate treatment;
+*   Minors may receive outpatient mental health counseling without consent of a parent or guardian, but not prescription drugs.
+*   Minors 12 years o fage and older may obtain treatment for sexually transmitted diseases, drug dependence, and alcohol abuse;
+*   If a minor requires hospitalization for treatment of sexually transmitted diseases, drug dependence, or alcohol abuse, the parents or legal guardians must be notified of the hospitalization.
+*   Minors of any age may obtain treatment for the termination of a pregnancy, or receive medical treatment necessary to obtain contraceptive devices and medications.
+*   Minors of any age may obtain medical treatmen trelated to rape, incest, or sexual abuse. Health care providers are required to report such incidents to the Department of Children and Families within 24 hours.
+*   Minors 14 years or older may voluntarily admit themselves to a hospital for mental health related treatment if they give informed consent in writing.
+*   Minors under 14 may admit themselves to a hospital for mental health related treatment by providing their own written informed consent and a written application from a parent or guardian.
+*   Minors who are married or have ever been married , minors on active U.S. military duty, and minors emancipated by court order may give informed consent to their own health care.
+
+Center for Health and Wellness staff are available to provide an initial consultation with students who are under 18 years of age in order to review the need for consent for treatment as stipulated by Vermont State law.
+
+##### iii. Grievance Process
+
+If you have concerns, needs, or questions that were not (or could not be) addressed by staff members directly involved in your care, you may contact the Executive Director at 802-443-5361 or bmccall@middlebury.edu. You may also contact the Vice President of Student Affairs at 802-443-2465 or sruzicka@middlebury.edu.
+
+Most professions in the Center for Health and Wellness are also governed by laws defining professional conduct and/or codes of ethics. Healthcare consumers who have inquiries can [obtain a form to register a complaint](https://www.sec.state.vt.us/professional-regulation/file-a-complaint.aspx) with the State of Vermont and can also call 802-828-1505 or contact:
+
+ Secretary of State’s Office  
+89 Main Street, 3rd Floor  
+Montpelier, VT 05620-3402
 
 #### **3.** **Vaccines** {#vaccines}
 
