@@ -1,52 +1,67 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/g-student-health-policies
-date: 2021-05-01
 title: B.2.g. Student Health Policies
+date: 2021-05-01
 ---
-**[Health Forms](#health)**
+[**Health Forms**](#health)
 
-**[Commitment to Confidentiality](#confidentiality)**
+[**Commitment to Confidentiality**](#confidentiality)
 
-**[Vaccines](#vaccines)**
+[**Vaccines**](#vaccines)
 
-**[Pandemic Preparedness: Student Information Requiremen](#pandemic)[t](/pages/student_policies/student_health#pandemic)**
-
-**[Middlebury College Policy on HIV Infection](#hiv)**
+[**Pandemic Preparedness: Required Evacuation Plan**](#pandemic)
 
 [**Records Retention Policy**](#records)
 
-### **Parton Center for Health and Wellness**
+### **Center for Health and Wellness**
 
-[Parton Center for Health and Wellness ](https://www.middlebury.edu/studentlife/services/healthctr)("Parton") promotes student well-being. Our medical and counseling staff are here to help students when physical, emotional, or interpersonal issues become a problem. In addition, we have a wealth of health and wellness resources to support students as they navigate a demanding academic and social schedule.
+[The Center for Health and Wellness](https://www.middlebury.edu/studentlife/services/healthctr) supports the learning environment of Middlebury’s vibrant and diverse academic community by providing readily accessible and confidential health care to students within an inclusive, collaborative, and integrated treatment framework. Our multi-disciplinary staff are here to work with students and make referrals to community resources as needed.
 
-#### **1.** **Health Forms** {#health}
+We strive to create a safe, affirming, and nonjudgmental environment that embraces human diversity, including differences in race, color, ethnicity, national origin, religion, sex, sexual orientation, gender identity and expression, age, marital status, place of birth, and disability status. We are committed to respecting the uniqueness and complexity of student identities and life experiences.
 
-A completed Middlebury College Health Form is required prior to course registration. Forms are due:
+#### **1.** **Required Health Forms** {#health}
 
-* July 1 for September matriculation
-* October 31 for February matriculation
+The following forms and documents must be completed and uploaded to the [student health portal](https://midb.studenthealthportal.com/Account/Logon?ReturnUrl=%2f) prior to arrival on campus for all new students:
+
+1.  Middlebury College Health Form
+2.  New Student Attestation and Consent Form
+3.  Physical Examination Form (to be completed within six months of arrival for all student athletes, recommended for all other students)
+4.  Your Immunization Records from a healthcare provider(s)
+5.  Your insurance card (front and back)
+6.  Consent Form for Treatment of a Minor (for students who will arrive on campus under the age of 18)
+7.  Physician TB Form (for students who are at risk for Tuberculosis as defined by the form)
+8.  Provisional Admittance Form (for students who will not be in compliance with Vermont regulations for immunizations by July 15 for September matriculation or November 1 for February matriculation)
+
+Forms and documents are due:
+
+*   July 1 for September matriculation
+*   October 15 for February matriculation
+
+First-time student athletes are also required to meet conditions and complete forms listed in the [First-Time Athlete Athletic Clearance Procedures](https://www.middlebury.edu/office/center-health-wellness/sports-medicine/clearance-procedures).
+
+All required forms are available on the [student health portal](https://midb.studenthealthportal.com/Account/Logon?ReturnUrl=%2f) under “My Forms.” To upload documents (e.g. immunization records and insurance card information) select Document Upload, then Document Type (e.g. Immunization Record or Insurance Card), and complete by selecting Save.
 
 #### **2.** **Commitment to Confidentiality** {#confidentiality}
 
 **a. Understanding Your Health Record/Information**
 
-Each time you visit Parton Center for Health and Wellness (Counseling, Health Services, and Sports Medicine), or when Parton has an interaction with a third party about you, the information is documented in a secured, password protected electronic health file that is accessible only to Parton Center for Health and Wellness staff. Typically, this record contains a summary of your presenting concerns and symptoms, physical exam and/or counseling intake, test results, diagnoses, counseling progress notes, treatment and plan for future course of treatment if appropriate. This information makes up your “health record” or personal health information, and serves as a:
+Each time you visit the Center for Health and Wellness (Counseling, Health Services, Health and Wellness Education, Integrated Care and Sports Medicine), or when staff have an interaction with a third party about you, the information is documented in a secured, password protected electronic health record that is accessible only to Center for Health and Wellness staff. Typically, this record contains a summary of your presenting concerns and symptoms, physical exam and/or other intake information, test results, diagnoses, progress notes, treatment summaries, referrals to other resources, and plans for future courses of treatment if appropriate. This information makes up your health record or personal health information, and serves as a:
 
-* Basis for planning your care and treatment;
-* Means of communication with other health professionals who contribute to your care;
-* Legal document describing the care you received;
-* Source of information for public health officials charged with protecting the health of this state and the nation (only under very restricted circumstances);
-* Tool with which we can assess and continually work to improve the care we render and the outcomes we achieve.
+*   Basis for planning your care and treatment;
+*   Means of communication with other health professionals who contribute to your care;
+*   Legal document describing the care you received;
+*   Source of information for public health officials charged with protecting the health of this state and the nation (only under very restricted circumstances);
+*   Tool with which we can assess and continually work to improve the care we render and the outcomes we achieve.
 
-You are entitled to receive a copy of your health records, or we can prepare a summary for you. Because these are professional records, they may be best interpreted by someone who is a health professional. If you wish to see your records, we recommend you review them with us so that we can discuss the contents. In accordance with state law, Parton Center for Health and Wellness retains your records for a period of seven (7) years.  More information about your medical records can be found here.
+You are entitled to access your health records or request that we prepare a summary for you. Your records are accessible to you through the student health portal and you may request printed records or summaries by emailing chw@middlebury.edu. Center for Health and Wellness staff are available to review your records with you at any time.
 
 1.  **Confidentiality**
 
 Health records at Parton are confidential and are completely separate from all other College records. Students have the right to revoke or restrict authorization to share health care information, and Parton will not release any information about you without your written permission, except under the following conditions:
 
-* As authorized or required by law (i.e., when we are presented with a valid court order requiring us to release records);
-* As necessary to protect you or others from a serious threat to health and safety, or to protect property from a serious threat of damage;
-* As necessary to notify parents and/or deans when you have a serious mental or physical health problem and are unable to assume responsibility for notifying others.
+*   As authorized or required by law (i.e., when we are presented with a valid court order requiring us to release records);
+*   As necessary to protect you or others from a serious threat to health and safety, or to protect property from a serious threat of damage;
+*   As necessary to notify parents and/or deans when you have a serious mental or physical health problem and are unable to assume responsibility for notifying others.
 
 In addition, Parton medical, sports medicine, and counseling staff confer with one another as needed to provide integrated care for you. Parton also works with Porter Hospital and the Counseling Service of Addison County (CSAC) to ensure a full range of medical and mental health options for students; when students receive treatment at multiple offices, we exchange only such information as is needed to maintain continuity of care.  Students may make requests to Parton, Porter or CSAC to revoke or restrict authorization to share such information.
 
@@ -56,21 +71,21 @@ Please note: Middlebury College and Parton Center for Health and Wellness are no
 
 Vermont law requires that all students submit an immunization record, including proof of:
 
-* Measles, Mumps and Rubella (MMR): two doses after the student's first birthday
-* Meningococcal vaccine
-* Hepatitis B vaccine series
-* Tetanus, diphtheria, and acellular Pertussis (Tdap)
-* Varicella (chickenpox) vaccine: two dose series for people 13 and older who have not had chickenpox.
+*   Measles, Mumps and Rubella (MMR): two doses after the student's first birthday
+*   Meningococcal vaccine
+*   Hepatitis B vaccine series
+*   Tetanus, diphtheria, and acellular Pertussis (Tdap)
+*   Varicella (chickenpox) vaccine: two dose series for people 13 and older who have not had chickenpox.
 
 Some students, including those who travel abroad will benefit from:
 
-* Hepatitis A vaccine series
-* Typhoid vaccine
-* Other travel vaccines depend on destination and can be determined at a travel visit at Parton.
+*   Hepatitis A vaccine series
+*   Typhoid vaccine
+*   Other travel vaccines depend on destination and can be determined at a travel visit at Parton.
 
 Due to the length of time some vaccine series require, we recommend that all students considering travel abroad also consider receiving the Hepatitis A vaccine series prior to matriculation.
 
-#### **4\.** **Pandemic Preparedness: Student Information Requirement** {#pandemic}
+#### **4.** **Pandemic Preparedness: Student Information Requirement** {#pandemic}
 
 _All Middlebury College students are required to develop and enter a personal evacuation plan._
 
@@ -80,7 +95,7 @@ Middlebury College has expanded and updated its Emergency Plan to include the th
 
 The Middlebury College policy on HIV infection was revised in 1992 by the HIV Task Force, composed of Middlebury College students, staff, and faculty. The revised policy expresses a commitment to prevention of the disease through education, outlines services available in the campus community to individuals living with HIV, and sets guidelines for dealing with HIV-related issues. Copies of the policy are available to students at Parton, the Commons offices and online on the Parton website.
 
-#### **6. Records Retention Policy** {#records}
+#### **6\. Records Retention Policy** {#records}
 
 Parton Center for Health and Wellness, in order to establish guidelines for the maintenance, retention, preservation and disposal of medical records that are created or maintained by it, hereby adopts the following policy for preserving those records.
 
