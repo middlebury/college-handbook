@@ -140,7 +140,7 @@ Parton Center for Health and Wellness, in order to establish guidelines for the 
 The Center for Health and Wellness engages in the following actions in order to appropriately maintain, retain, preserve and purge treatment:
 
 *   retain treatment records for the period of time required by applicable law and regulation as indicated in these guidelines;
-*   dispose of treatment records promptly, in the appropriate manner after they have satisfied their required retention period, unless they are the subject of a Litigation Hold;
+*   purge of treatment records promptly, in the appropriate manner after they have satisfied their required retention period, unless they are the subject of a Litigation Hold;
 *   preserve treatment records subject to a Litigation Hold, if the records would otherwise be purged.
 
 **Retention Guidelines**
@@ -149,9 +149,13 @@ Treatment records are to be retained for the time periods indicated as follows.�
 
 <table><tbody><tr><td>RECORDS</td><td>RETENTION PERIOD</td></tr><tr><td>Treatment records - Adults (over 18)</td><td>7 years from last date of treatment or graduation, whichever is the latter.</td></tr><tr><td>Treatment records – Minors (under 18)</td><td>The longer of 7 years from last date of treatment, graduation, or until the patient is 25, whichever is the latter</td></tr></tbody></table>
 
-**Disposal Guidelines**
+Former students who have graduated from Middlebury or otherwise departed from the community who would like to request a copy of their records should email [chw@middlebury.edu](mailto:chw@middlebury.edu) and include their name, date of birth, and Middlebury ID number.
 
-Records should be disposed of promptly if they do not need to be retained in accordance with these guidelines.  It is costly to manage and store records and the intention of these guidelines is to manage this process while meeting Parton Center for Health and Wellness’s legal obligations.  Records must be disposed of in a manner that safeguards confidential, sensitive or proprietary information contained in the records.
+Some records are not subject to any retention period and can be discarded when they do not have administrative value.  Other documents are not considered “records” within the meaning of this policy and need to be maintained only as long they have administrative value.  Documents that are not considered “records” include:  duplicate copies of correspondence or other documents, blank forms, and transitory messages used for informal communication of information only, such as voice mails, self-sticking notes and phone messages.  Documents that are not “records” may be discarded when they do not have administrative value.
+
+**Purging Guidelines**
+
+Records should be purged promptly if they do not need to be retained in accordance with these guidelines.   Records must be disposed of in a manner that safeguards confidential, sensitive or proprietary information contained in the records. Ordinarily, physical records will be securely shredded and disposed of while electronic records will be purged from the electronic health record.
 
 **Litigation Hold Guidelines**
 
