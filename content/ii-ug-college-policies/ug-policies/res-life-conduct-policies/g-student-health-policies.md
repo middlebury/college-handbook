@@ -70,81 +70,84 @@ Please note: Middlebury College and the Center for Health and Wellness are not s
 
 This policy should not be interpreted as creating any contractual rights and Middlebury College reserves the right to make changes to this policy at any time without prior notice. 
 
-##### ii. Confidentiality for the Treatment of Minors
+##### **ii. Confidentiality for the Treatment of Minors**
 
 According to certain provisions of Vermont State law, parents or legal guardians must provide permission for some forms of healthcare for individuals under the age of 18 (minors). These provisions also allow for certain exceptions. In these situations, a parent’s or legal guardian’s permission is not required:
 
 *   Minors of any age will be cared for in emergency situations that necessitate immediate treatment;
 *   Minors may receive outpatient mental health counseling without consent of a parent or guardian, but not prescription drugs.
-*   Minors 12 years o fage and older may obtain treatment for sexually transmitted diseases, drug dependence, and alcohol abuse;
+*   Minors 12 years of age and older may obtain treatment for sexually transmitted diseases, drug dependence, and alcohol abuse;
 *   If a minor requires hospitalization for treatment of sexually transmitted diseases, drug dependence, or alcohol abuse, the parents or legal guardians must be notified of the hospitalization.
 *   Minors of any age may obtain treatment for the termination of a pregnancy, or receive medical treatment necessary to obtain contraceptive devices and medications.
-*   Minors of any age may obtain medical treatmen trelated to rape, incest, or sexual abuse. Health care providers are required to report such incidents to the Department of Children and Families within 24 hours.
+*   Minors of any age may obtain medical treatment related to rape, incest, or sexual abuse. Health care providers are required to report such incidents to the Department of Children and Families within 24 hours.
 *   Minors 14 years or older may voluntarily admit themselves to a hospital for mental health related treatment if they give informed consent in writing.
 *   Minors under 14 may admit themselves to a hospital for mental health related treatment by providing their own written informed consent and a written application from a parent or guardian.
 *   Minors who are married or have ever been married , minors on active U.S. military duty, and minors emancipated by court order may give informed consent to their own health care.
 
 Center for Health and Wellness staff are available to provide an initial consultation with students who are under 18 years of age in order to review the need for consent for treatment as stipulated by Vermont State law.
 
-##### iii. Grievance Process
+##### **iii. Grievance Process**
 
 If you have concerns, needs, or questions that were not (or could not be) addressed by staff members directly involved in your care, you may contact the Executive Director at 802-443-5361 or bmccall@middlebury.edu. You may also contact the Vice President of Student Affairs at 802-443-2465 or sruzicka@middlebury.edu.
 
 Most professions in the Center for Health and Wellness are also governed by laws defining professional conduct and/or codes of ethics. Healthcare consumers who have inquiries can [obtain a form to register a complaint](https://www.sec.state.vt.us/professional-regulation/file-a-complaint.aspx) with the State of Vermont and can also call 802-828-1505 or contact:
 
- Secretary of State’s Office  
+Secretary of State’s Office  
 89 Main Street, 3rd Floor  
 Montpelier, VT 05620-3402
 
 #### **3.** **Vaccines** {#vaccines}
 
-Vermont law requires that all students submit an immunization record, including proof of:
+**a. Required Vaccines under Vermont Law**
 
-*   Measles, Mumps and Rubella (MMR): two doses after the student's first birthday
-*   Meningococcal vaccine
-*   Hepatitis B vaccine series
-*   Tetanus, diphtheria, and acellular Pertussis (Tdap)
-*   Varicella (chickenpox) vaccine: two dose series for people 13 and older who have not had chickenpox.
+[Vermont law](https://www.middlebury.edu/office/sites/www.middlebury.edu.office/files/2021-01/REG_immunization.pdf?fv=EDEyywBB) requires that all students submit an up to date immunization record, including proof of vaccination or positive titers (when applicable) for:
+
+*   Measles, Mumps, and Rubella
+*   Meningitis
+*   Hepatitis B
+*   Tetanus, Diphtheria, and Pertussis
+*   Varicella
+
+ **b. Medical and Religious Exemptions**
+
+If you have any religious or medical exemptions, please complete the [Vermont College Immunizations Exemptions Form](https://www.middlebury.edu/office/sites/www.middlebury.edu.office/files/2021-01/ID_IZ_K12_College_Exemptions.pdf?fv=ChROnplB) as applicable and upload to your [student health portal](https://midb.studenthealthportal.com/Account/Logon?ReturnUrl=%2f) as a Immunization Exemption.
+
+Please be advised that unvaccinated students may be asked to miss class or leave campus in the event of a communicable disease outbreak.
+
+**c. Recommended Vaccines for Global Travel**
 
 Some students, including those who travel abroad will benefit from:
 
 *   Hepatitis A vaccine series
 *   Typhoid vaccine
-*   Other travel vaccines depend on destination and can be determined at a travel visit at Parton.
 
-Due to the length of time some vaccine series require, we recommend that all students considering travel abroad also consider receiving the Hepatitis A vaccine series prior to matriculation.
+Other travel vaccines depend on destination and can be determined at a travel visit with Health Services.
 
-#### **4.** **Pandemic Preparedness: Student Information Requirement** {#pandemic}
+Due to the length of time some vaccine series require, it is recommended that all students considering travel abroad also consider receiving the Hepatitis A vaccine series prior to matriculation.
 
-_All Middlebury College students are required to develop and enter a personal evacuation plan._
+#### **4.** **Pandemic Preparedness: Required Personal Evacuation Plan** {#pandemic}
 
-Middlebury College has expanded and updated its Emergency Plan to include the threat of severe illness, including pandemic flu. Because of the potential need for a quick response to an outbreak, individuals are the only people who can effectively plan for themselves. All Middlebury College students are required to develop and submit at least one Personal Evacuation Plan. Students will not be allowed to register for their second semester of classes until they have entered a plan (via Banner Web) that meets the minimum required elements.
+_All Middlebury College students are required to develop and enter a personal evacuation plan in BannerWeb._
 
-#### **5.** **Middlebury College Policy on HIV Infection** {#hiv}
+Because of the potential need for a quick response to an outbreak, individuals are the only people who can effectively plan for themselves. All Middlebury College students are required to develop and submit at least one Personal Evacuation Plan. Students will not be allowed to register for their second semester of classes until they have entered a plan (via Banner Web) that meets the minimum required elements.
 
-The Middlebury College policy on HIV infection was revised in 1992 by the HIV Task Force, composed of Middlebury College students, staff, and faculty. The revised policy expresses a commitment to prevention of the disease through education, outlines services available in the campus community to individuals living with HIV, and sets guidelines for dealing with HIV-related issues. Copies of the policy are available to students at Parton, the Commons offices and online on the Parton website.
-
-#### **6\. Records Retention Policy** {#records}
+#### **5\. Records Retention Policy** {#records}
 
 Parton Center for Health and Wellness, in order to establish guidelines for the maintenance, retention, preservation and disposal of medical records that are created or maintained by it, hereby adopts the following policy for preserving those records.
 
 **Policy**
 
-It is the policy of Parton Center for Health and Wellness:
+The Center for Health and Wellness engages in the following actions in order to appropriately maintain, retain, preserve and purge treatment:
 
-(1)  to retain medical records for the period of time required by applicable law and regulation as indicated in these guidelines;
-
-(2)  to dispose of medical records promptly, in the appropriate manner after they have satisfied their required retention period, unless they are the subject of a Litigation Hold;
-
-(3)  to preserve medical records subject to a Litigation Hold, if the records would otherwise be disposed of.
+*   retain treatment records for the period of time required by applicable law and regulation as indicated in these guidelines;
+*   dispose of treatment records promptly, in the appropriate manner after they have satisfied their required retention period, unless they are the subject of a Litigation Hold;
+*   preserve treatment records subject to a Litigation Hold, if the records would otherwise be purged.
 
 **Retention Guidelines**
 
-Medical records are to be retained for the time periods indicated as follows.  The medical records may be maintained in paper or electronic format, as appropriate and may be stored on-site or off-site, in accordance with the need to access the records.  The creator or receiver of the medical records is responsible for retaining the record.
+Treatment records are to be retained for the time periods indicated as follows.  The medical records may be maintained in paper or electronic format, as appropriate and may be stored on-site or off-site, in accordance with the need to access the records.  The creator or receiver of the medical records is responsible for retaining the record.
 
-Some records are not subject to any retention period and can be discarded when they do not have administrative value.  Other documents are not considered “records” within the meaning of this policy and need to be maintained only as long they have administrative value.  Documents that are not considered “records” include:  duplicate copies of correspondence or other documents, blank forms, and transitory messages used for informal communication of information only, such as voice mails, self-sticking notes and phone messages.  Documents that are not “records” may be discarded when they do not have administrative value.
-
-<table><tbody><tr><td>RECORDS</td><td>RETENTION PERIOD</td></tr><tr><td>Medical records - Adults (over 18)</td><td>7 years from last date of treatment (graduation)</td></tr><tr><td>Medical records – Minors (under 18)</td><td>The longer of 7 years from date of treatment or until the patient is 25</td></tr></tbody></table>
+<table><tbody><tr><td>RECORDS</td><td>RETENTION PERIOD</td></tr><tr><td>Treatment records - Adults (over 18)</td><td>7 years from last date of treatment or graduation, whichever is the latter.</td></tr><tr><td>Treatment records – Minors (under 18)</td><td>The longer of 7 years from last date of treatment, graduation, or until the patient is 25, whichever is the latter</td></tr></tbody></table>
 
 **Disposal Guidelines**
 
