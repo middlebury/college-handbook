@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/employee/employment/safety-security
-date: 2021-05-01
 title: 2.10 Safety & Security
+date: 2021-05-01
 ---
 Report all accidents or injuries occurring at Middlebury College, or while traveling on College business, as soon as possible.  Report accidents occurring in the course of employment to Human Resources; Public Safety should be notified of accidents involving students, guests, and visitors.
 
@@ -25,8 +25,8 @@ Employees in covered positions are required to attend blood-borne pathogen train
 
 The goal of our ergonomics program is to reduce the opportunity for musculoskeletal disorders (MSDs), help lessen muscle fatigue and increase productivity. Risk factors can be controlled by adjusting a workstation, varying work positions, reducing continuous or repetitious actions, and periodically stretching throughout the day. The EHS Office can conduct an ergonomic assessment on your work area (office workstation or other areas) or on a specific task you perform as part of your job and recommend improvements.
 
-Further information concerning the ergonomics program can be accessed at:  
-[https://www.middlebury.edu/offices/health/ehs/Ergo](https://www.middlebury.edu/offices/health/ehs/Ergo)
+Further information concerning the ergonomics program can be accessed at: [https://www.middlebury.edu/office/environmental-health-safety/workplace-safety#ergonomics](https://www.middlebury.edu/office/environmental-health-safety/workplace-safety#ergonomics)  
+ 
 
 **Workers' Compensation**
 
