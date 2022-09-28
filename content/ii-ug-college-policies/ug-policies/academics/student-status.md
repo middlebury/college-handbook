@@ -7,9 +7,9 @@ Students may be admitted for undergraduate courses at Middlebury only if they do
 
 #### **1\. Good Academic Standing**
 
-Students are "in good academic standing" if they are meeting the requirements of the Satisfactory Academic Progress policy. Seniors who need only one or two courses to graduate and who have been approved for special student status are also considered to be "in good academic standing."
+Students are "in good academic standing" if they are meeting the requirements of the Satisfactory Academic Progress policy. Seniors who need only one or two credits to graduate and who have been approved for special student status are also considered to be "in good academic standing."
 
-"Successful completion of a year" for veterans' benefits certification is defined as "in good standing." Students taking fewer than four courses, however, should consult with the registrar regarding veterans' benefits.
+"Successful completion of a year" for veterans' benefits certification is defined as "in good standing." Students taking fewer than four credits, however, should consult with the registrar regarding veterans' benefits.
 
 #### **2. Course Warnings**
 
@@ -98,7 +98,7 @@ A student who receives D or an F in the winter term or in summer study while on 
 
 A student who is enrolled in three courses and receives one F and one D grade, or two D grades, will be required to withdraw. A student enrolled in three courses who is on probation and who receives one D grade will be required to withdraw.
 
-The above rules also apply to Middlebury undergraduates who enroll in Language Schools, Schools Abroad, Bread Loaf School of English, School of the Environment, and externally sponsored programs approved by the office of International Programs and Off-Campus Study. Students withdrawn due to academic failure are not eligible to attend any Middlebury school or program until formally readmitted to the College.
+The above rules also apply to Middlebury undergraduates who enroll in Language Schools, Schools Abroad, Middlebury Institute for International Studies at Monterey, Bread Loaf School of English, School of the Environment, and externally sponsored programs approved by the office of International Programs and Off-Campus Study. Students withdrawn due to academic failure are not eligible to attend any Middlebury school or program until formally readmitted to the College.
 
 At any time, a student failing a course, consistently receiving grades below C-, or in any way neglecting the obligations of a course, may be placed on course warning.
 
@@ -110,7 +110,7 @@ Application for readmission must be made to the [Administration Committee](https
 
 #### **9\. Special Students** {#special}
 
-Special student status is designated for students with only one or two remaining courses (although Febs may apply for special student status for the fall semester when they have three remaining courses), and for students with a documented disability for which this arrangement is deemed by the Disability Resource Center staff to be a reasonable accommodation. Special students are charged by the course, and may not live on campus.
+Special student status is designated for students with only one or two remaining credits (although Febs may apply for special student status for the fall semester when they have three remaining credits), and for students with a documented disability for which this arrangement is deemed by the Disability Resource Center staff to be a reasonable accommodation. Special students are charged by the course, and may not live on campus.
 
 Students applying for special student status based on course completion must submit a completed Special Student application to the Office of the Registrar for approval. Students applying for special student status based on a documented disability must submit their request, along with appropriate documentation, to the Disability Resource Center office. [Applications for special student status](https://www.middlebury.edu/offices/academic/records/Forms/stuforms) must ordinarily be filed with the Office of the Registrar by March 15 for the fall semester and November 15 for the spring semester. Students whose circumstances change after March 15 or November 15 may file applications for special student status after those deadlines if they have compelling reasons.
 
