@@ -1,11 +1,11 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/deg-prgms-proj
-date: 2021-05-01
 title: B.1.e. Degree Programs & Projects
+date: 2021-05-01
 ---
 #### **A. First-year Student Seminars and College Writing Courses** {#first}
 
-First-year seminars are thematic courses that approach an area of intellectual inquiry from a perspective that attempts to make connections among a number of the traditional disciplines. Normally, a first-year seminar has an enrollment of no more than 15 students for each faculty member in the seminar. The first-year seminars have an intensive writing component. All entering students register for one first-year seminar. The instructor of this seminar is the first-year faculty adviser for all the students enrolled in the course. Normally, first-year seminars do not satisfy departmental major requirements. They may, however, satisfy distribution requirements. Exceptions to this pattern are published in the catalog of first-year seminars.  After successfully completing a first-year seminar, every student must complete by the end of the fourth semester or as determined by the student's major department or program, at least one course designated as a College writing course (CW). Students are responsible for completing both college writing requirements prior to graduation, and are strongly advised to fulfill their second CW credit _before_ they begin their final semester at Middlebury. A College writing course should not be taken concurrently with a first-year seminar, and if taken concurrently, will not satisfy this requirement.
+First-year seminars are thematic courses that approach an area of intellectual inquiry from a perspective that attempts to make connections among a number of the traditional disciplines. Normally, a first-year seminar has an enrollment of no more than 15 students for each faculty member in the seminar. The first-year seminars have an intensive writing component. All entering students register for one first-year seminar. The instructor of this seminar is the first-year faculty advisor for all the students enrolled in the course. Normally, first-year seminars do not satisfy departmental major requirements. They may, however, satisfy distribution requirements. Exceptions to this pattern are published in the catalog of first-year seminars.  After successfully completing a first-year seminar, every student must complete by the end of the fourth semester or as determined by the student's major department or program, at least one course designated as a College writing course (CW). Students are responsible for completing both college writing requirements prior to graduation, and are strongly advised to fulfill their second CW credit _before_ they begin their final semester at Middlebury. A College writing course should not be taken concurrently with a first-year seminar, and if taken concurrently, will not satisfy this requirement.
 
 #### **B. Distribution Requirement** {#distribution}
 
@@ -19,7 +19,7 @@ Courses that count toward the major or a minor may be used to satisfy distributi
 
 Independent study courses (0500 and above) do not qualify for distribution requirements.
 
-Students must take at least one course in seven of eight academic categories described below. Single courses can be listed with two distribution categories. A student may count a single course in no more than one academic category requirement. Courses taken under the Pass/D/Fail option may not be used to satisfy distribution, College Writing, First Year Seminar, or cultures and civilizations requirements.
+Students must take at least one course in seven of eight academic categories described below. Single courses can be listed with two distribution categories. A student may count a single course in no more than one academic category requirement. Courses taken under the Pass/D/Fail option (before Fall 2022) or the Credit/No-Credit option (Fall 2022 or later) may not be used to satisfy distribution, College Writing, First Year Seminar, or cultures and civilizations requirements.
 
 **1\. Academic Categories**
 
@@ -56,24 +56,6 @@ This category deals with the analysis of the individual in society. Courses in t
 Speaking, listening, reading, and writing in a language other than one's own exercise and expand the mind. Because of the close interdependence between language and culture, study of a foreign language helps one gain insights into other societies and ultimately one's own. Courses in this category include many, but not all, of those taught in a foreign language or which focus on texts in a foreign language.
 
 #### **2\. Cultures and Civilizations Requirement** {#cultures}
-
-**For students who entered the College prior to Fall 2017:**
-
-Middlebury College believes that students should have broad educational exposure to the variety of the world's cultures and civilizations, where these terms are broadly understood to intersect with geography, history, ethnicity, gender and other factors. Issues pertaining to culture are thus integral to most of the academic disciplines represented in the curriculum. Accordingly, Middlebury students are required to successfully complete four distinct courses to fulfill the cultures and civilizations requirement by taking a course in each of the following four categories:
-
-a. **AAL**: courses that focus on some aspect of the cultures and civilizations of Africa, Asia, Latin America, the Middle East, and the Caribbean.
-
-b. **CMP**: courses that focus on the process of comparison between and among cultures and civilizations, or courses that focus on the identity and experience of separable groups within cultures and civilizations.
-
-c. **EUR**: courses that focus on some aspect of European cultures and civilizations.
-
-d. **NOR**: courses that focus on some aspect of the cultures and civilizations of northern America (United States and Canada)
-
-A single course may be listed as fulfilling either AAL, EUR, or NOR (as recommended by the course instructor and determined by the Curriculum Committee).  Courses that satisfy CMP may also carry one of the regional area designations, however a student may not count one of these courses toward both the CMP and AAL/EUR/NOR requirements. A student may also count the same course toward both an academic category requirement, and one of the cultures and civilizations requirements. Courses that count toward the major and the minor, winter term courses, summer study courses, and first-year student seminars may be used to satisfy the cultures and civilizations requirement.
-
-College Board Advanced Placement credits may not be used to satisfy distribution or cultures and civilizations requirements.
-
-**For students who enter the College in Fall 2017 or later:**
 
 Middlebury College believes that students should 1) have educational exposure to the variety of the world's cultures and civilizations, where these terms are broadly understood to intersect with geography, history, ethnicity, gender and other factors, and 2) engage critically with sameness, difference, culture, and perspective. These goals are integral to most of the academic disciplines represented in the curriculum.
 
@@ -112,7 +94,7 @@ Students choose one of the following programs of study:
 \*_A student who has declared two majors will have to choose to complete only one major should scheduling conflicts occur._  
 \*\*_Majors considered interdisciplinary include: American Studies; Black Studies; Environmental Studies; Gender, Sexuality, and Feminist Studies; International and Global Studies; International Politics and Economics; Molecular Biology and Biochemistry; and Neuroscience._
 
-A major requires a minimum of 10 fall and spring semester courses. Students may take no more than 16 fall and spring semester courses and, in addition, no more than two winter term and summer study courses, combined, in a major department or program (one of which may be senior work).
+A major requires a minimum of 10 fall and spring semester credits. Students may take no more than 16 fall and spring semester credits and, in addition, no more than two winter term and summer study courses, combined, in a major department or program (one of which may be senior work).
 
 All students must officially declare a major by the end of the third semester. Any student who wishes to complete a second major must officially declare by the end of the fourth semester of study. After the fourth semester, students wishing to add a second major, or change majors, must petition and gain approval from the new department or program to ensure that the student can complete the major by the end of the eighth semester.
 
@@ -122,7 +104,7 @@ A department may define standards for the admission of students to its major pro
 
 In addition to specific courses required for a major, cognate courses may be recommended to further the student's particular academic interests or intentions. Departments offer different opportunities for senior work, adjusted both to the nature of the field and to students' needs. Students should consult the descriptions of senior work under each department or program for details on the available senior work offerings.
 
-Major/Adviser Declaration/Change Forms are available in the Office of the Registrar and each of the Commons offices. The declaration Form must be signed by the chair of the major department or program (or designee).
+Major/Advisor Declaration/Change Forms are available [online](https://www.middlebury.edu/office/registrar/forms). The declaration Form must be signed by the chair of the major department or program (or designee).
 
 **D. Change of Major**
 
