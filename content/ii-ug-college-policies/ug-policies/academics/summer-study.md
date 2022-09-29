@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/summer-study
-date: 2021-05-01
 title: B.1.g. Summer Study
+date: 2021-05-01
 ---
 **1\. General**
 
@@ -9,7 +9,7 @@ a. The Curriculum Committee is responsible for the general administration of the
 
 b. Each course proposal should contain the following items: title, description, class format, prerequisites, maximum effective size, and budgetary requests (if any).  Summer Study courses should include recommendations concerning academic distribution and cultures and civilizations distribution requirements.    
 
-c. The same grading system applies to all students taking a particular course for credit. Summer Study courses are graded on an A-F basis unless special arrangements are made through the Curriculum Committee (e.g., occasional independent projects or other courses where the instructor decides that the special nature of the course is better suited to honors/pass/fail grading).  All Summer Study course work must be completed by the end of the Summer Study period. Grades of incomplete will be submitted according to existing procedures except that in the absence of the Student Life Dean, the student and faculty member will consult directly with the dean of students or the dean of students’ designee.  Incomplete work must be satisfactorily completed by the last day of classes of the following fall term.
+c. The same grading system applies to all students taking a particular course for credit. Summer Study courses are graded on an A-F basis unless special arrangements are made through the Curriculum Committee (e.g., occasional independent projects or other courses where the instructor decides that the special nature of the course is better suited to honors/pass/fail grading).  All Summer Study course work must be completed by the end of the Summer Study period. Grades of incomplete will be submitted according to existing procedures except that in the absence of the Student Life Dean, the student and faculty member will consult directly with the dean of students or the dean of students’ designee.  The deadline for submission of all remaining work will be no later than the drop deadline of the following fall term.
 
 d. Auditing of Summer Study courses is not permitted.
 
@@ -19,16 +19,14 @@ a. Unless an exception is granted by the Curriculum Committee, enrollment will n
 
 b. During the Summer Study period, faculty and students are involved in a maximum of one academic credit bearing course at a time (including Language Schools, Bread Loaf School of English, and other Middlebury programs).  Summer Study courses must meet for a minimum of four weeks and 32 hours of instruction during the available Summer Study period.
 
-c. A maximum of three Summer Study credits will count toward required credits for graduation. A maximum of four Winter Term and a maximumof three Summer Study credits may count toward the graduation requirement of 36 credits.
+c. A maximum of three Summer Study credits will count toward required credits for graduation. A maximum of four Winter Term and a maximum of three Summer Study credits may count toward the graduation requirement of 36 credits.
 
 d. Summer Study course registration: 
 
 i. Students are not required to enroll in any Summer Study offering.  Students who do enroll must have already matriculated: they may not take a Summer Study course in advance of their first semester or term as Middlebury students. 
 
-ii. Summer Study course offerings will be announced the preceding winter or spring.  Students will apply to the faculty member offering a particular course, and only those students receiving faculty approval will be permitted to register.  Students will register via procedures announced by the Registrar's office.
+ii. Summer Study course offerings will be announced the preceding winter or spring.  Students will apply to the faculty member offering a particular course, and only those students receiving faculty approval will be permitted to register.  Students will register via procedures announced by the Office of the Registrar.
 
 iii. Changes in course registration may be made only during the first three days on which the class meets during the Summer Study period. Due to time constraints during Summer Study, late adds are automatically charged a late fee of $50.
 
 iv. A student who misses the first class meeting of a Summer Study course must be excused by the faculty member or it will be assumed that the student has dropped the course.
-
-_rev. 6/24/21_
