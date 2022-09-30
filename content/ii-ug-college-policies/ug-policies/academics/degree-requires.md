@@ -9,7 +9,7 @@ date: 2021-05-01
 
 Students may count toward graduation no more than a total of five courses with non-standard grading.  The category of "non-standard grading" includes courses elected under the Pass/D/Fail option (before Fall 2022); courses elected under the Credit/No Credit option (Fall 2022 or later); AP, IB, A-Level, and other pre-college testing credits; and credit-bearing internships. Of these five credits, no more than two may be taken under the Pass/D/Fail or Credit/No Credit option (specific guidelines concerning the Pass/D/Fail or Credit/No Credit option can be found in the College Handbook under [Course Registration and Conduct of Courses](/pages/ii-ug-college-policies/ug-policies/academics/course-reg-course-conduct)), and no more than two may be from AP, IB, A-level or other pre-college testing credits.
 
-b. A minimum of two winter term credits are required. A maximum of four Winter Term and a maximum of three Summer Study credits may count toward the graduation requirement of 36 credits.
+A minimum of two winter term credits are required. A maximum of four Winter Term and a maximum of three Summer Study credits may count toward the graduation requirement of 36 credits.
 
 **b. Residency**. First-year students must be enrolled in a Middlebury course during their first winter term at the College. This includes both September and February matriculates. Residency in Middlebury, VT, for the fall and spring semesters of the student's senior year is required for all students unless excused by the Administration Committee.
 
@@ -31,7 +31,7 @@ v. Two physical education units prior to graduation unless excused by the Admin
 
 i. The senior residency requirement is waived;
 
-ii. The 36 course total may include, but need not include, up to four winter term courses;
+ii. The 36 credit total may include, but need not include, up to four winter term courses;
 
 iii. The staff member’s _ad hoc_ admission committee may consider proposed substitute courses for those required for distribution or for the major requirement when, in the judgment of the committee, such changes enable the applicant to achieve the goals of the proposed program of study and when the proposed adjustments maintain the integrity of existing curricular requirements.
 
@@ -41,7 +41,7 @@ Middlebury College cooperates with the College Board's Advanced Placement Progra
 
 a. One Middlebury College course credit will be awarded for each qualifying AP exam score up to the maximum allowed as specified above in section A. Degree Requirements. Two credits will be awarded in those instances in which the department has demonstrated to the Curriculum Committee that the AP examination adequately covers material in two separately numbered Middlebury College courses that students would normally take sequentially.
 
-b. Advanced Placement credits may be used to anticipate course work at Middlebury. AP credits applied toward graduation will be counted toward the 16-course limit in the department granting the credit unless the department specifically states that the credits do not count toward the major.  The maximum number of Middlebury College course credits that may be accumulated through AP exams is specified above in section _A. Degree Requirements_.  A student may not register for a Middlebury College course that covers substantially the same material as an AP exam on which he or she has received a score eligible for credit as described above.  Departments will be responsible for submitting to the registrar lists of these equivalent courses.  In exceptional circumstances, the prohibition on registering for a course that is the equivalent of an AP exam may be waived by a department chair.
+b. Advanced Placement credits may be used to anticipate course work at Middlebury. AP credits applied toward graduation will be counted toward the 16-credit limit in the department granting the credit unless the department specifically states that the credits do not count toward the major.  The maximum number of Middlebury College course credits that may be accumulated through AP exams is specified above in section _A. Degree Requirements_.  A student may not register for a Middlebury College course that covers substantially the same material as an AP exam on which he or she has received a score eligible for credit as described above.  Departments will be responsible for submitting to the registrar lists of these equivalent courses.  In exceptional circumstances, the prohibition on registering for a course that is the equivalent of an AP exam may be waived by a department chair.
 
 c. Advanced Placement scores must be reported directly to Middlebury College by the College Board. In order for Advanced Placement credits to count toward the 36 credit requirement for graduation, the examination **scores must be received no later than the end of the student's second semester at Middlebury College.**
 
