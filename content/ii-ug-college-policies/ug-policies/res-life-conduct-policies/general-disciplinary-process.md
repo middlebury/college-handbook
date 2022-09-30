@@ -97,13 +97,13 @@ f. Formal or legal rules of evidence do not apply in Middlebury disciplinary pro
 
 a. If a student accepts responsibility for violating academic or non-academic policy, a Restorative Justice Panel (RJP) may be called to explore and identify the harm to individuals and/or community, and work with the responsible party to design an action plan and outcomes to repair harm caused.
 
-b. For academic policy violations, the faculty member must be a willing participant in the restorative process and agree to the action plan/outcomes. If the faculty member is unwilling to participate, students may choose to engage the Dean’s Disposition process.
+b. For academic policy violations, students must report the violation to the Office for Community Standards within 72 hours of submitting the assignment. Additionally, the faculty member must be a willing participant in the restorative process and agree to the action plan/outcomes. If the faculty member is unwilling to participate, students may choose to engage the Dean’s Disposition process.
 
 c. For non-academic policy violations, harmed parties are welcome participants in a Restorative Justice Panel, but they are not required to attend, as board members can represent the perspective of the community.
 
 d. All action plans must be approved by the Office of Community Standards. Students participating in a Restorative Justice Panel are required to complete the action plan within the agreed-upon timeline or they will be referred back to the Office for Community Standards for sanctioning.
 
-e. Restorative Panels will be comprised by one faculty, one staff, and two student members of the current Judicial Board.
+e. Restorative Panels will be comprised by one faculty, one staff, and one student, trained in Restorative Practices.
 
 ## V. Dean’s Dispositions {#deansdisposition}
 
@@ -123,7 +123,7 @@ f. If the sanction is a form of official College discipline for non-academic mis
 
 ### a. Composition {#composition}
 
-i. The Judicial Board is comprised of students, faculty and staff, specifically: (1) a member of the faculty or academic administration appointed by the president of Middlebury, (2) two faculty members, (3) four students, (4) a dean of student life, and (5) a staff member.  There will be two student alternates, one faculty alternate, and one staff alternate.  Alternates will only substitute for absent members of their own constituency.  Either the presidential appointee, a student life dean, or student co-chair shall serve as the chair for a hearing.
+i. The Judicial Board is comprised of students, faculty and staff, specifically: (1) a member of the faculty or academic administration appointed by the president of Middlebury, (2) two faculty members, (3) four students, and (4) two staff members.  There will be two student alternates, one faculty alternate, and one staff alternate.  Alternates will only substitute for absent members of their own constituency.  Either the presidential appointee, staff chair, or student co-chair shall serve as the chair for a hearing.
 
 1.  Faculty Council appoints the faculty members.
 2.  Community Council appoints student members recommended by the selection committee. First-year students may not serve on the Judicial Board, however,  Febs are eligible to apply for the fall semester after their arrival on campus.  A student charged with a serious conduct infraction during their term of service may be required to step down from the Judicial Board, upon the request of the Office of Community Standards or a majority of the Judicial Board.
