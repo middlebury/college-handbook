@@ -135,10 +135,9 @@ A. Investigations: Other than in an emergency, access to identifiable electronic
 3.  The Vice President of Student Affairs/Dean of the College for College students
 4.  The Vice President of Advancement for alumni, parents and friends
 5.  The VPAA/Dean of the Institute for MIIS faculty
-6.  The Executive Director of Enrollment, Advising & Student Services for MIIS students
-7.  The VPAA/Dean of the Schools for faculty or students of the Schools
-8.  The Vice President for Risk for all community members
-9.  The General Counsel for all community members
+6.  The VPAA/Dean of the Schools for faculty or students of the Schools
+7.  The Vice President for Risk for all community members
+8.  The General Counsel for all community members
 
 ITS will notify the senior leader about a pending need for authorization. The senior leader is responsible for weighing the needs of Middlebury against the privacy interests of the individual, in the context of applicable legal restrictions, and may take into consideration technological tools utilizing non-consumptive or data analytical techniques. Senior leaders may consult with the General Counsel and others as needed. Information provided under this exception will be limited to the information that is necessary to effectuate the institution’s purpose and must be maintained as confidential to the maximum extent possible.
 
