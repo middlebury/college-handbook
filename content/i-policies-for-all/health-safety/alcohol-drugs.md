@@ -74,7 +74,7 @@ l. **Middlebury-College Specific**: The following actions are specifically prohi
 
 The following actions are prohibited:
 
-a. Using or possessing illegal drugs or controlled substances, including but not limited to prescription medication without a properly issued prescription, psychedelic substances such as mushrooms, LSD, etc.
+a. Using or possessing illegal drugs or controlled substances, including but not limited to prescription medication without a properly issued prescription, psychedelic substances such as mushrooms, LSD, etc. This also includes cannabis (marijuana) and medical cannabis prescriptions because it is still considered an illegal drug under federal law.
 
 b. Misuse of legal substances to cause impairment/hallucination.
 
