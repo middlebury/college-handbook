@@ -47,7 +47,7 @@ Community members living in the Middlebury area may audit courses only with the 
 
 Immediately following the online registration period and through the end of the second week of the fall and spring semesters, course additions may be made if students have the consent of the instructor of the course into which the student wishes to enroll. Students must add  the approved course in Banner by the end of the second week of classes.  In the case of half-credit courses running for the second half of the fall or spring semester, students may add the class in accordance with a schedule announced by the Office of the Registrar.
 
-Students may not add a course after the deadline. Petitions for exceptions to this rule will be considered by the Office of the Registrar, and, if approved, a charge of $50 per add will be assessed.  The Office of the Registrar may forward to the Administration Committee any petitions for which the registrar requests faculty review and a committee decision.
+Students may not add a course after the deadline. Petitions for exceptions to this rule will be considered by the Office of the Registrar, and, if approved, a charge of $50 per add will be assessed.  The Office of the Registrar may forward to the Administration Committee any petitions for which the registrar requests faculty review and a committee decision. Students with a pending academic integrity violation may not add or drop a course.
 
 A student may withdraw from a course without receiving a failing grade up to the end of the  eighth week of classes.  In the case of half-credit courses running for the second half of the fall or spring semester, students may drop the class in accordance with a schedule announced by the Office of the Registrar.
 
