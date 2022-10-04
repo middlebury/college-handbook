@@ -47,8 +47,6 @@ ii.  Students who withdraw in the middle of a semester are ordinarily eligible 
 
 iii.  In circumstances where a student does not respond to communications about their intentions to return for the semester, and there is no other information suggesting their intent to return (e.g., no class registration, no engagement with Student Financial Services, not participating in housing processes, etc.) they will automatically be placed on a voluntary leave of absence.
 
-Leaves of absence when there is a pending disciplinary matter are addressed in [Section B.2.a.iv. Pending Discipline](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a-introductory-matters).
-
 iv.  Repeated or Extended Leaves:  A student who has taken three leaves from Middlebury, including any withdrawal for academic failure or mandatory leave of absence, or who has taken a leave of absence in excess of three years, may no longer be eligible for the regular re-admission process. A student in these circumstances who wishes to return to Middlebury should petition for re-enrollment by the Administration Committee.  The more extensive process of a petition for re-enrollment asks the student to document in some detail their readiness to return to Middlebury’s rigorous academic environment, including, as appropriate, how the student’s situation has changed or developed, to support a successful return.
 
 v. Conditions on Return: In some cases, the VPSA or their designee may impose specific requirements for readmission if the circumstances of the student’s departure warrant it. The goal of such conditions is to prepare the student for a successful return to Middlebury.
