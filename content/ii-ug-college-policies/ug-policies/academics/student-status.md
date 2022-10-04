@@ -45,9 +45,13 @@ i. Students may choose to take a leave of absence during their time at Middlebur
 
 ii.  Students who withdraw in the middle of a semester are ordinarily eligible for readmission after a full Fall or Spring semester away.  If they withdraw from a semester after December 1 (fall) or May 1 (spring), their courses will remain on the transcript. Any student wishing to take a leave of absence should consult with their Class Dean.
 
-iii.  Leaves of absence when there is a pending disciplinary matter are addressed in [Section B.2.a.iv. Pending Discipline](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a-introductory-matters).
+iii.  In circumstances where a student does not respond to communications about their intentions to return for the semester, and there is no other information suggesting their intent to return (e.g., no class registration, no engagement with Student Financial Services, not participating in housing processes, etc.) they will automatically be placed on a voluntary leave of absence.
 
 iv.  Repeated or Extended Leaves:  A student who has taken three leaves from Middlebury, including any withdrawal for academic failure or mandatory leave of absence, or who has taken a leave of absence in excess of three years, may no longer be eligible for the regular re-admission process. A student in these circumstances who wishes to return to Middlebury should petition for re-enrollment by the Administration Committee.  The more extensive process of a petition for re-enrollment asks the student to document in some detail their readiness to return to Middlebury’s rigorous academic environment, including, as appropriate, how the student’s situation has changed or developed, to support a successful return.
+
+v. Conditions on Return: In some cases, the VPSA or their designee may impose specific requirements for readmission if the circumstances of the student’s departure warrant it. The goal of such conditions is to prepare the student for a successful return to Middlebury.
+
+vi. A student who does not complete readmission or affirmatively complete a return will remain on voluntary leave of absence.
 
 **b.  Mandatory Leave of Absence**
 
@@ -65,22 +69,26 @@ v. Students placed on leave under this section may also be subject to the normal
 
 i. A student may request a temporary medical leave of absence for up to ten days. A temporary leave beyond ten days will only be granted in extraordinary circumstances.
 
-ii. The College may place the student on a temporary mandatory leave of absence for up to ten days when the conditions for a mandatory leave of absence, above, are met.  Whenever possible, the student will be given notice and an opportunity to speak with their Class Dean prior to or within three business days following the start of the temporary leave. The student’s Class Dean, in consultation with others as appropriate, will make a determination as to the student’s request after reviewing the information submitted. There is no right of appeal.
+ii. The College may place the student on a temporary mandatory leave of absence for up to ten days when the conditions for a mandatory leave of absence, above, are met.  Whenever possible, the student will be given notice and an opportunity to speak with a care management teams “Care Manager” or their Class Dean prior to or within three business days following the start of the temporary leave. The student’s Care Manager or Class Dean, in consultation with others as appropriate, will make a determination as to the student’s request after reviewing the information submitted. There is no right of appeal.
 
 *   Students who are placed on temporary medical leave may also be subject to the normal disciplinary processes when their conduct has violated College policy. If disciplinary action is appropriate, the matter must be resolved either before or immediately upon the student’s return.
-*   Students may return from their temporary medical leave after providing documentation and information in accordance with Section 5.d., below.
+*   Students may return from their temporary medical leave after providing documentation and information in accordance with Section 5.d. and 5.e., below.
 
 **d. Readmission**
 
-i. Students on leave are eligible for readmission for a three-year period, and many students who take a leave will have no requirements attached to their readmission. In some cases, a Dean or the VPSA may impose specific requirements for readmission if the circumstances of the student’s departure warrant it. The goal of such conditions is to prepare the student for a successful return to Middlebury; for example, a student may be asked to complete pre-approved coursework at another institution in order to demonstrate readiness to return to rigorous academic work or to provide clinical information to staff of the Center for Health & Wellness (CHW) to facilitate a successful return.  For example, student may need to complete the Medical Return Form and respond to any follow-up requests for information from CHW staff.  If the leave is health-related, any conditions or requirements for reinstatement will be based on an individualized assessment of each student including consideration of current medical knowledge and/or the best available objective evidence. Careful consideration will be given to the opinions and recommendations of the student’s treating physician or mental health professional, if available.
-
-*   As appropriate to the individual circumstances of a student’s departure, a Dean or VPSA may also require that the student provide information to their Class Dean when they seek readmission.  Typically, this includes a letter about the student's understanding of the problem that led to the leave, evidence of the student’s work to resolve the issue and/or progress made in managing the issue and other information that may assist the College in evaluating whether the student can safely and effectively participate in the residential academic programs of the College.
+i. Students on leave are eligible for readmission for a three-year period, and many students who take a leave will have no requirements attached to their readmission.
 
 ii. Students eligible for readmission can expect to receive instructions for completing the online readmission forms from their Class Dean. They must confirm their plan to return on this readmission date with their Student Life Dean no later than June 15 for the fall term and November 1 for the spring semester. Normally, readmission is for fall or spring semester only. Students will be readmitted for winter term or summer study only with special permission from the Vice President for Student Affairs or designee.
 
 iii. Students on probation for disciplinary or academic reasons will resume their probationary status upon their return for the duration of the assigned probationary period.
 
-iv. In the rare circumstance that a student’s request for readmission is denied by the Dean of Student Affairs on grounds of health or safety, the decision may be appealed in writing to the Vice President of Student Affairs.
+iv. In the rare circumstance that a student’s request for readmission is denied by the Dean of Students on grounds of health or safety, the decision may be appealed in writing to the Vice President of Student Affairs.
+
+**e. Readmission after Leaves with Conditions**
+
+In addition to the requirements outlined in 5.d above, in those cases where specific requirements were placed on eligibility for readmission, a student may be asked to complete pre-approved coursework at another institution in order to demonstrate readiness to return to rigorous academic work or to provide clinical information to staff of the Center for Health & Wellness (CHW) to facilitate a successful return.  For example, a student may need to complete the Medical Return Form and respond to any follow-up requests for information from CHW staff.  If the leave is health-related, any conditions or requirements for reinstatement will be based on an individualized assessment of each student including consideration of current medical knowledge and/or the best available objective evidence. Careful consideration will be given to the opinions and recommendations of the student’s treating physician or mental health professional, if available.
+
+*   As appropriate to the individual circumstances of a student’s departure, a Dean or VPSA may also require that the student provide information to the Leaves and Returns Committee when they seek readmission.  Typically, this includes a letter about the student's understanding of the problem that led to the leave, evidence of the student’s work to resolve the issue and/or progress made in managing the issue and other information that may assist the College in evaluating whether the student can safely and effectively participate in the residential academic programs of the College. The College also reserves the right to obtain a dean’s certification if a student has attended another institution.
 
 #### **6\. Accommodations for Students with Disabilities**
 
