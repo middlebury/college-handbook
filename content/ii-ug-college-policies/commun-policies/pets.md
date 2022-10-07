@@ -5,13 +5,13 @@ date: 2021-05-01
 ---
 Pet Policy and Requirements for “Dogs at Work”
 
-1) Pets are not allowed in Middlebury buildings including residence halls. Service and assistance animals are covered by the [Service & Assistance Animal Policy](/pages/i-policies-for-all/non-discrim-policies/svc-assist-animals). Exceptions for "dogs at work" are described below.
+1.  Pets are not allowed in Middlebury buildings including residence halls. Service and assistance animals are covered by the [Service & Assistance Animal Policy](/pages/i-policies-for-all/non-discrim-policies/svc-assist-animals). Exceptions for "dogs at work" are described below.
 
 Animals visiting campus grounds shall be on a leash at all times. Animals may not be left unattended or tied to any objects (e.g., structures, trees, or vehicles). All damages caused by an animal are the responsibility of the owner or guardian of the animal at the time of the damage; repairs will be billed accordingly.
 
 Administrative offices open to the public are considered public spaces, and no animals may be brought into them, except Service Animals.
 
-2) Exception for "Dogs at Work"
+1.  Exception for "Dogs at Work"
 
 Middlebury employees on the College campus in Vermont may bring their dogs to work in accordance with the requirements of this Policy, detailed below.  Dogs demonstrating any aggressive behavior will not be allowed on campus. Bringing a dog to work is a privilege and when other individuals’ health or participation are negatively impacted, this Policy places greater importance on the well-being and full participation of all members of our community than on the preference for bringing a dog to work. Employees may not register dogs that do not belong to them (e.g. friends' or family members' dogs).
 
@@ -27,7 +27,7 @@ Middlebury employees on the College campus in Vermont may bring their dogs to wo
 
 Faculty and staff with private offices or faculty and staff who share an office may bring their dogs to work during business hours only so long as they comply with all of the following requirements:
 
-a. Obtain permission from their supervisor/department chair by completing Part I of the [approval and registration form](https://www.middlebury.edu/system/files/media/Dog%20at%20Work%20Registration%20Form_2019.docx).  To be eligible for approval, employees must have a private office. With the approval of a supervisor or department chair, two employees who share a single office may be permitted to register their dog. However, only one dog is permitted in a single office at any given time.
+a. Obtain permission from their supervisor/department chair by completing Part I of the [approval and registration form](static/img/dog-at-work-registration-form_2022.pdf).  To be eligible for approval, employees must have a private office. With the approval of a supervisor or department chair, two employees who share a single office may be permitted to register their dog. However, only one dog is permitted in a single office at any given time.
 
 b. Complete Part II of the registration form and email a scanned copy of the completed form (Parts I and II), plus a digital photograph of their dog, to the Department of Public Safety at [publicsafety@middlebury.edu](mailto:publicsafety@middlebury.edu) (please write “Dog Registration” in the subject line). Note that the registration process requires that your dog have a current dog license in the owner’s hometown, and that the dog tag or town dog license number be provided to Public Safety.
 
