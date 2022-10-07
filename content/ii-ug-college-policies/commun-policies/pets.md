@@ -27,7 +27,7 @@ Middlebury employees on the College campus in Vermont may bring their dogs to wo
 
 Faculty and staff with private offices or faculty and staff who share an office may bring their dogs to work during business hours only so long as they comply with all of the following requirements:
 
-a. Obtain permission from their supervisor/department chair by completing Part I of the [approval and registration form](static/img/dog-at-work-registration-form_2022.pdf).  To be eligible for approval, employees must have a private office. With the approval of a supervisor or department chair, two employees who share a single office may be permitted to register their dog. However, only one dog is permitted in a single office at any given time.
+a. Obtain permission from their supervisor/department chair by completing Part I of the [approval and registration form](/assets/dog-at-work-registration-form_2022.pdf).  To be eligible for approval, employees must have a private office. With the approval of a supervisor or department chair, two employees who share a single office may be permitted to register their dog. However, only one dog is permitted in a single office at any given time.
 
 b. Complete Part II of the registration form and email a scanned copy of the completed form (Parts I and II), plus a digital photograph of their dog, to the Department of Public Safety at [publicsafety@middlebury.edu](mailto:publicsafety@middlebury.edu) (please write “Dog Registration” in the subject line). Note that the registration process requires that your dog have a current dog license in the owner’s hometown, and that the dog tag or town dog license number be provided to Public Safety.
 
