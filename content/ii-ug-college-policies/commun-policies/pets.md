@@ -31,7 +31,7 @@ a. Obtain permission from their supervisor/department chair by completing Part I
 
 b. Complete Part II of the registration form and email a scanned copy of the completed form (Parts I and II), plus a digital photograph of their dog, to the Department of Public Safety at [publicsafety@middlebury.edu](mailto:publicsafety@middlebury.edu) (please write “Dog Registration” in the subject line). Note that the registration process requires that your dog have a current dog license in the owner’s hometown, and that the dog tag or town dog license number be provided to Public Safety.
 
-c. Receive final approval and sign to be hung on door. If you have not received notification of final approval, your dog has not yet been approved to come to work. 
+c. Receive final approval and sign to be hung on door. If you have not received notification of final approval from the Office of General Counsel, your dog has not yet been approved to come to work. 
 
 d. When the dog is on campus, the faculty or staff member is responsible for ensuring that the Conduct Requirements spelled out below are followed.
 
