@@ -9,7 +9,7 @@ Students assume full responsibility for the payment of their bills by the due da
 
 The payment of tuition fees entitle students to enroll in three full courses at the graduate level (six-week session), or one level of the intensive language program (seven- or eight-week session). Students may be permitted to take an extra course by special permission of the director of the students' Language School.
 
-If a student receives permission to take an extra course for credit, the student must pay an extra course fee of $2,320. There is no fee adjustment for a student carrying less than a full load of studies.
+If a student receives permission to take an extra course for credit, the student must pay an extra course fee of $2,425. There is no fee adjustment for a student carrying less than a full load of studies.
 
 **Doctoral Student Fees**
 
