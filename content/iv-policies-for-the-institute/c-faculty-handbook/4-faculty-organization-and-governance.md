@@ -3,6 +3,58 @@ slug: /pages/iv-policies-for-the-institute/c-faculty-handbook/4-faculty-organiza
 title: C.4. Faculty Organization and Governance
 date: 2021-05-01
 ---
+**What is Faculty Governance?**
+
+In this Faculty Handbook we employ a definition of Faculty Governance at the Middlebury Institute based largely on the one proposed by the National Education Association, which has been adopted by many institutions of higher education in the United States:\[1\]  
+
+The term “Faculty Governance” is commonly used to describe a distinct feature of academic governance, which itself is a unique aspect of the governance culture in academia. It is derived, even embedded, in the ethos of “academic freedom,” arguably a fundamental value and pillar of all academic life. It echoes the idea that the search for knowledge/truth is the essence of the academic pursuit.
+
+While academia is a hierarchical system, it is also a system that -- at least in certain areas, particularly in curriculum, professional evaluation, and development -- is built on peer faculty judgement. The faculty, as a collective body and individuals, has a unique and major role in some aspects of the academic decision-making process.
+
+Hence, in academia the practice of governance is a _shared_ activity between administration and faculty. Shared governance is essential to protecting academic freedom, the advancement of knowledge, and the pursuit of truth.
+
+While those mutually related terms “Faculty Governance” and “Shared Governance” appear fundamental and intuitively straightforward, in practice they are often used as no more than academic clichés, terms devoid of clear and well-defined meanings.
+
+For the purposes of this document, we define “Faculty Shared Governance” as the balance between faculty and administration in academic planning and decision-making processes on the one hand, and administrative responsibility and accountability on the other.\[2\] 
+
+State and federal government and other external agencies have no role in the internal governance of institutions of higher education when they are functioning in accordance with state and federal laws.
+
+**Approach to Faculty Governance at MIIS**
+
+Shared governance at the Middlebury Institute is a joint effort among faculty, staff, administrators, and the governing boards. This relationship should be based on collegiality, accountability, transparency, and mutual respect.
+
+The Middlebury Institute Faculty Senate (including the Senate’s regular faculty standing and ad- hoc committees) and Assembly are the only authorized Institute faculty governance bodies that issue collective recommendations to Institute administration and the Institute/Middlebury governing boards on academic standards and policy, and on faculty status matters.  The Senate’s and Assembly’s exact roles, responsibilities, and relationships are spelled out in the policies of this Faculty Handbook.  Such governance activity is a regular part of an Institute faculty member's professional duties and should not be construed to confer managerial or supervisory status.
+
+While all legal authority in any institution of higher education originates from its highest governing board, which means that the legal right and fiduciary obligation to exercise authority is vested in -- and flows from -- its board and delegated further to lower administrative levels, at each decision level there should be a role for faculty engagement. That role could be divided to three distinct categories: primary decision-making responsibility, meaningful consultation, and being adequately and systematically informed.\[3\]
+
+Faculty members at MIIS, through their program chairs and through the Senate and its committees, have shared \[i.e., joint\] decision-making responsibility regarding the following areas:  
+
+1.  Determine the curriculum, subject matter, methods of instruction, and other matters of academic standards and processes.
+2.  Establish the requirements for earning MIIS degrees and certificates and authorize the administration and governing board to grant same.
+3.  Exercise primary responsibility for determining the status of faculty colleagues, especially appointment, contract renewal, and promotion.
+4.  Establish procedures for awarding promotions, sabbaticals, research support, and other rewards or perquisites.
+
+If, for any reason, the Middlebury Institute administrators and/or the Middlebury governing boards should fail to accept the faculty's recommendations in these areas, the faculty should have the right to appeal a decision it considers flawed.  Details on the appeal process on annual review, contract renewal, promotion and sabbatical and other grievances are spelled out in the Faculty handbook.  
+
+While relevant administrators at MIIS and in Middlebury possess primary decision-making responsibility, Institute faculty members should, via meaningful consultation, participate in decision-making in the following areas:4
+
+1.  Decisions about the future of the Institute, particularly in matters of personnel restructuring and strategic planning.
+2.  Selecting and evaluating administrators, particularly but not exclusive to deans.
+3.  Launching, resizing, or closing a degree or non-degree academic programs.
+4.  Master planning for campus facilities and grounds.
+5.  Decisions about policies and procedures governing salary structure, pay increases, and benefit programs.
+6.  Decisions about MIIS budget, making recommendations on financial issues with implications for academic programs, in the short- and long-term.
+
+For all other decision-making matters that do not fall into the categories above, and therefore do not require academic involvement, Institute faculty should be adequately and systematically informed well ahead of execution.
+
+\[1\] http://www.nea.org/home/34743.htm
+
+\[2\] See Gary A. Olson, “Exactly What Is 'Shared Governance'?”, The Chronicle of Higher Education, July 23, 2009 [https://www.chronicle.com/article/Exactly-What-Is-Shared/47065](https://www.chronicle.com/article/Exactly-What-Is-Shared/47065)
+
+\[3\] The Institute’s administrative leadership has adopted the ARCI model – Who is Accountable, Responsible, Consulted, Informed – as its practice for describing the roles of participants in various kinds of decisions.
+
+\[4\] We define “meaningful” consultation as: (1) sufficient time for consultation with appropriate stakeholders, (2) thorough documentation of the substance of the consultation, and (3) full transparency with the relevant authorized faculty governance bodies. On most occasions the transparency should include all members of the Senate, in other cases where discretion is required, the Senate President and Vice President should be consulted. 
+
 **C.4.a. Faculty Assembly**  
 The Faculty Assembly consists of all regular faculty and multi-year visiting faculty (those on a multi-year contract), excluding faculty also serving as the Institute's academic administrators (VPAA, deans, and any associate/assistant deans). Visiting faculty on single-year contracts, research professors, adjunct faculty and professors emeritae/i are not voting members of the Faculty Assembly: they may attend the Assembly and contribute to the discussion but are not eligible to vote.
 
@@ -47,7 +99,7 @@ Each school shall elect two representatives to the Faculty Senate in a school-wi
 
 Faculty in a school shall have the right to remove one or more of its representatives to the Faculty Senate and to elect another representative to serve the time remaining in the previous representative's term, using a process agreed to by the school’s regular faculty.
 
-The Faculty Senate shall schedule open Senate meetings at least once each semester and shall announce such open meetings in appropriate Institute publications_._ Any member of the Faculty Assembly may attend an open meeting. The Faculty Senate may hold closed meetings, at which attendance shall be by invitation only. The Faculty Senate may take action in closed meetings. A quorum shall consist of a majority of the members of the Faculty Senate, participating in person or digitally.
+The Faculty Senate shall schedule open Senate meetings at least once each semester and shall announce such open meetings in appropriate Institute publications\_.\_ Any member of the Faculty Assembly may attend an open meeting. The Faculty Senate may hold closed meetings, at which attendance shall be by invitation only. The Faculty Senate may take action in closed meetings. A quorum shall consist of a majority of the members of the Faculty Senate, participating in person or digitally.
 
 Chairpersons of standing committees serve as ex-officio members of the Faculty Senate. They shall attend Senate meetings when requested to do so. The president of the Senate shall consult with the chair of the Faculty Evaluation Committee as needed. Decisions made by the Academic Policy, Standards and Instruction Committee, other than those that involve specific cases of violation of academic standards, are reviewed by the Senate president, who in turn may, when necessary, consult the Faculty Senate and school faculty members as appropriate.
 
@@ -123,7 +175,7 @@ In addition, APSIC:
 
 APSIC reports its recommendations to the VPAAand the Senate for action and approval. In the case of curricular and programmatic proposals requiring further deliberation, APSIC consults further with the proposers before forwarding revised recommendations to the VPAA and Senate.
 
-**C.4.i. Salary and Benefits Committee (**_**ad hoc**_**)**
+**C.4.i. Salary and Benefits Committee (\*\*\_**ad hoc**\_**)\*\*
 
 Whenever constituted by the Faculty Senate, the primary role of this committee is to review and examine the structure of faculty benefits and salaries and make recommendations to the VPAA. The Committee shall work closely with the Human Resources staff at MIIS, and the benefits and compensation manager in the Human Resources department at Middlebury in the discharge of its responsibilities. Specific tasks and responsibilities are assigned at the time of constitution.
 
