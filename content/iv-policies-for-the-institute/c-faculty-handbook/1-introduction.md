@@ -7,7 +7,7 @@ date: 2021-05-01
 
 The purpose of this Faculty Handbook is to define faculty relationships within the academic community of the Middlebury Institute of International Studies at Monterey (hereafter "the Institute"). In particular, it sets forth the responsibilities, duties, and roles of the faculty, and the means by which the faculty as a body, through its committees, through its program chairs, and individually, participate in the governance process, the formulation and administration of academic policies, and personnel actions involving the employment of faculty members.
 
-The working definition of faculty governance for the Institute can be found in this Preamble.
+The working definition of faculty governance for the Institute can be found in the Preamble under Faculty Handbook Section C.4.
 
 Portions of [Section 1. Middlebury-Wide Policies](/pages/i-policies-for-all) also provide information that applies to faculty members.
 
