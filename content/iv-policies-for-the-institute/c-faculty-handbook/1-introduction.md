@@ -1,7 +1,7 @@
 ---
 slug: /pages/iv-policies-for-the-institute/c-faculty-handbook/1-introduction
-date: 2021-05-01
 title: C.1. Introduction
+date: 2021-05-01
 ---
 **C.1.a. Purpose**
 
@@ -9,9 +9,9 @@ The purpose of this Faculty Handbook is to define faculty relationships within t
 
 The working definition of faculty governance for the Institute can be found in this Preamble.
 
-Portions of [Section 1\. Middlebury-Wide Policies](/pages/i-policies-for-all) also provide information that applies to faculty members.
+Portions of [Section 1. Middlebury-Wide Policies](/pages/i-policies-for-all) also provide information that applies to faculty members.
 
-The terms of employment of faculty members are determined by reference to the written letter of faculty appointment to the faculty member (which normally states a specific period of appointment); the Faculty Handbook; and those sections of Employee Handbook that apply to faculty. These terms are continued with each new letter of appointment received on contract renewals.
+The terms of employment of faculty members are determined by reference to the written letter of faculty appointment to the faculty member (which normally states a specific period of appointment); the Faculty Handbook; and those sections of Employee Handbook that apply to faculty. These terms are continued with each new letter of appointment received at the time of contract renewals.
 
 This Faculty Handbook is the result of consultation among the Faculty Senate; the Faculty Assembly; administrative leadership, including deans and associate deans, the vice president for academic affairs and dean of the Institute (VPAA), the Middlebury provost and president, the Institute Board of Advisors, and the Middlebury Board of Trustees. This version of the handbook is considered active, and changes will be archived on an annual basis.
 
@@ -29,8 +29,8 @@ To accomplish its mission, the Institute is organized into two schools, and an o
 
 The schools are:
 
-* The Graduate School of International Policy and Management
-* The Graduate School of Translation, Interpretation, and Language Education
+*   The Graduate School of International Policy and Management
+*   The Graduate School of Translation, Interpretation, and Language Education
 
 **C.1.d. Research Centers**
 
@@ -39,5 +39,7 @@ The Institute recognizes, encourages, and supports research for the purpose of a
 ---
 
 ## Glossary of Terms
-#### **Development and Evaluation**: 
+
+#### **Development and Evaluation**:
+
 For the purposes of this handbook, evaluation refers to a faculty member's past performance, and is intended to offer both a summative assessment as well as to give formative feedback to inform future faculty development efforts. Evaluation of the faculty serves several Institute objectives, such as assuring and assessing educational effectiveness, providing performance feedback, developing faculty expertise, improving classroom performance, maintaining fairness, and documenting the basis for employment decisions. For the purposes of this handbook, development refers to the increase in capacity for a faculty member's future performance. A hallmark of professionals is that they also continually develop and update their knowledge and skills. Intentional, ongoing professional development is expected of all Institute faculty.
