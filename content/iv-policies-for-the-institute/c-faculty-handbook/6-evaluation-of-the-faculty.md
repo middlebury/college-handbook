@@ -1,11 +1,11 @@
 ---
 slug: /pages/iv-policies-for-the-institute/c-faculty-handbook/6-evaluation-of-the-faculty
-date: 2021-05-01
 title: C.6. Evaluation of the Faculty
+date: 2021-05-01
 ---
 Evaluation of the faculty serves several Institute objectives, such as assuring and assessing educational effectiveness, providing performance feedback, developing faculty expertise, improving classroom performance, maintaining fairness, and documenting the basis for employment decisions.
 
-Faculty are formally evaluated according to the procedures outlined below on three specific occasions. First, each year every regular faculty member or visiting faculty member on a multi-year contract (those holding a contract two-three years in length), is given an annual review by her/his school dean. Program chairs and language coordinators do not normally evaluate their faculty in the annual reviews. If a program decides they do want their program chair or language coordinator to contribute to the annual evaluation report, the faculty should have a right to review these comments just as they can view the dean's comments on their annual evaluation report. Second, each regular faculty member is evaluated for contract renewal. Third, the evaluation process is applied to all promotions. The evaluation process is based in part on judgments made upon the review of regularly administered end-of-semester student evaluations and upon peer faculty reviews.
+Faculty are formally evaluated according to the procedures outlined below on three specific occasions. First, each year every regular faculty member or visiting faculty member on a multi-year contract (those holding a contract two-three years in length), is given an annual review by her/his school dean. Program chairs and language coordinators do not normally evaluate their faculty in the annual reviews. If a program decides they do want their program chair or language coordinator to contribute to the annual evaluation report, the faculty should have a right to review these comments just as they can view the dean's comments on their annual evaluation report. Second, each regular faculty member is evaluated for contract renewal. Third, the evaluation process is applied to all promotions. The evaluation process is based in part on judgments made upon the review of regularly administered end-of-semester student evaluations and upon peer faculty reviews.
 
 #### **C.6.a. Criteria** {#criteria}
 
@@ -22,7 +22,7 @@ Evaluation is based on the following criteria:
 7.  Foster an atmosphere of respect
 8.  Be inclusive of diverse students and learning styles
 9.  Maintain high academic standards that require students to make progress towards producing professional-level work
-10. Submit required Institute reports, such as semester grades, on a timely basis
+10.  Submit required Institute reports, such as semester grades, on a timely basis
 
 Sources of input: Evaluation of teaching will assess both quantity (number of courses, number of new course preps, number of students, number of directed studies, number of demanding courses (as designated by the school), etc.) as well as the quality of teaching. It is essential that there are multiple sources of data used in the evaluation of teaching quality. These sources must represent multiple perspectives (e.g. the faculty member being evaluated, students, peers, and administrators). The faculty and academic administration shall jointly agree on appropriate data sources and processes for the assessment of teaching.
 
@@ -51,31 +51,31 @@ Sources of input: Data on scholarship and professional impact will be reported b
 7.  Creating professional development opportunities for students
 8.  Mentoring students
 9.  Middlebury and Institute leadership roles
-10. Directing a center
-11. Program chairs and language coordinators
-12. Faculty Senate
-13. APSIC
-14. FEC
-15. Chairing committees and task groups
-16. Other leadership roles
-17. Contributing to strategy and operations
-18. Serving on peer review committees
-19. Serving on search committees
-20. Serving on committees and task groups
-21. Developing program and Institute curriculum
-22. Supporting center initiatives
-23. Participating in focus groups and planning meetings
-24. Mentoring or training Institute faculty or staff
-25. Bringing resources into the organization
-26. Participation in marketing and recruitment efforts
-27. Working with donors
-28. Applying for and receiving grants that benefit Middlebury and the Institute
-29. Developing and/or coordinating non-degree programs and initiatives
-30. Hosting alumni events
+10.  Directing a center
+11.  Program chairs and language coordinators
+12.  Faculty Senate
+13.  APSIC
+14.  FEC
+15.  Chairing committees and task groups
+16.  Other leadership roles
+17.  Contributing to strategy and operations
+18.  Serving on peer review committees
+19.  Serving on search committees
+20.  Serving on committees and task groups
+21.  Developing program and Institute curriculum
+22.  Supporting center initiatives
+23.  Participating in focus groups and planning meetings
+24.  Mentoring or training Institute faculty or staff
+25.  Bringing resources into the organization
+26.  Participation in marketing and recruitment efforts
+27.  Working with donors
+28.  Applying for and receiving grants that benefit Middlebury and the Institute
+29.  Developing and/or coordinating non-degree programs and initiatives
+30.  Hosting alumni events
 
 Sources of input: Data on Middlebury/MIIS Service will be reported by the faculty member being evaluated and confirmed by the Dean. The faculty and academic administration shall jointly agree on appropriate methods of assessing the merits of the faculty members’ contributions in this category.
 
-**iv. Professional Development (0-20%)** \- A hallmark of professionals is that they continually develop and update their knowledge and skills. Intentional, ongoing professional development is expected of all Institute faculty. It is expected that each faculty member will seek improvement in one (or more) of the other three evaluation categories, with recognizable efforts annually. Professional development goals may include, but are not limited to:
+**iv. Professional Development (0-20%)** - A hallmark of professionals is that they continually develop and update their knowledge and skills. Intentional, ongoing professional development is expected of all Institute faculty. It is expected that each faculty member will seek improvement in one (or more) of the other three evaluation categories, with recognizable efforts annually. Professional development goals may include, but are not limited to:
 
 1.  Teaching
 2.  Learning a new content area
@@ -86,24 +86,24 @@ Sources of input: Data on Middlebury/MIIS Service will be reported by the facult
 7.  Testing a new teaching technique or technology
 8.  Scholarship and Professional impact
 9.  Formulating a research agenda
-10. Developing, or deepening, a research area
-11. Learning a new research method or tool
-12. Participating in writing accountability group
-13. Developing a consulting business plan
-14. Developing a professional website, blog, etc.
-15. Receiving training on engaging with journalists
-16. Undertaking new professional roles
-17. Middlebury/MIIS Service
-18. Taking management training
-19. Improving meeting facilitation skills
-20. Taking grant-writing training
-21. Undertaking new institutional roles
-22. Cross-category/Other
-23. Participating in mentorship as a mentee or in a peer-to-peer program
-24. Participating in professional development trainings (time-management, conflict resolution, leadership, etc.)
-25. Taking diversity training
-26. Taking a MIIS or external course
-27. Developing foreign language skills
+10.  Developing, or deepening, a research area
+11.  Learning a new research method or tool
+12.  Participating in writing accountability group
+13.  Developing a consulting business plan
+14.  Developing a professional website, blog, etc.
+15.  Receiving training on engaging with journalists
+16.  Undertaking new professional roles
+17.  Middlebury/MIIS Service
+18.  Taking management training
+19.  Improving meeting facilitation skills
+20.  Taking grant-writing training
+21.  Undertaking new institutional roles
+22.  Cross-category/Other
+23.  Participating in mentorship as a mentee or in a peer-to-peer program
+24.  Participating in professional development trainings (time-management, conflict resolution, leadership, etc.)
+25.  Taking diversity training
+26.  Taking a MIIS or external course
+27.  Developing foreign language skills
 
 Sources of input: Professional Development goals and progress may be reported by the faculty member being evaluated. Professional development activities may not be “double-counted” by reporting them in both the professional development category and another evaluation category. Each faculty member will set one or more goal(s) during the annual evaluation process and report on progress during the next annual evaluation. It is recognized that meaningful professional development is a multi-year process. Therefore, striving for an ambitious goal and not fully succeeding will not be penalized. Further, it is acknowledged that goals evolve and may change completely as new opportunities emerge.
 
@@ -125,7 +125,7 @@ The VPAA’s office notifies each faculty member in writing, by September 1, of 
 
 #### **C.6.e. Annual Reviews**
 
-During the academic year, every member of the regular faculty or visiting faculty member on a multi-year contract (those holding a contract two-three years in length), receives an annual review. These evaluations are conducted by the appropriate school deans, who rely on the Faculty Activity Reports (FARs) that each faculty member is required to provide annually to the dean. The annual review is based on a process mutually agreed upon with the school faculty, which shall include written comments from the school dean on the faculty member’s progress in the five criteria above, his/her strengths, and the areas in which improvement is needed. School deans are responsible for ensuring that each faculty member has received a copy of this review and has had an opportunity to respond to it in writing. These reviews and any responses shall become part of the faculty member’s personnel file. In the event of a disagreement, the evaluated faculty member may request that an annual review be forwarded to the Faculty Evaluation Committee for its independent evaluation. Such assessment shall be added to the faculty member’s file. See [Appendix A](/pages/iv-policies-for-the-institute/c-faculty-handbook/appendix-a-faculty-evaluation-schedule) for timetable for Annual Reviews.
+During the academic year, every member of the regular faculty or visiting faculty member on a multi-year contract (those holding a contract two-three years in length), receives an annual review. These evaluations are conducted by the appropriate school deans, who rely on the Faculty Activity Reports (FARs) that each faculty member is required to provide annually to the dean. The annual review is based on a process mutually agreed upon with the school faculty, which shall include written comments from the school dean on the faculty member’s progress in the five criteria above, his/her strengths, and the areas in which improvement is needed. School deans are responsible for ensuring that each faculty member has received a copy of this review and has had an opportunity to respond to it in writing. These reviews and any responses shall become part of the faculty member’s personnel file. In the event of a disagreement, the evaluated faculty member may request that an annual review be forwarded to the Faculty Evaluation Committee for its independent evaluation. Such assessment shall be added to the faculty member’s file. See [Appendix A](http://www.middlebury.edu/about/handbook/iv.-policies-for-the-institute/c.-faculty-handbook/appendix-a-faculty-evaluation-schedule) for timetable for Annual Reviews.
 
 #### **C.6.f. Contract renewals**
 
@@ -137,19 +137,15 @@ If contracts are renewed, faculty should be provided a copy of this new contract
 
 Requests for promotions shall be considered according to the schedule in [Appendix A](/pages/iv-policies-for-the-institute/c-faculty-handbook/appendix-a-faculty-evaluation-schedule). Faculty members may apply and be considered for promotion in accordance with the following schedules and criteria:
 
-i. **Lecturer**, for promotion to **senior lecturer**, at any time after meeting the requirement for appointment to the rank of Senior Lecturer (section [C.5.a.](/pages/iv-policies-for-the-institute/c-faculty-handbook/5-policies-and-procedures-for-members-of-the-faculty#categories)).
+i. **Assistant professor** (or assistant professors of professional practice)**,** for promotion to **associate professor** (or associate professors of professional practice), after four (4) years in rank, if at least two (2) of those years have been completed at the Institute, and after a total of at least five (5) years of full-time teaching or equivalent professional experience. Application for promotion can be made in the spring semester of the fifth year and promotion, if awarded, shall become effective at the start of the sixth year.
 
-ii. **Lecturer** or **senior lecturer**, for appointment as **assistant** or **associate professor**, after completion of the doctoral degree (section [C.5.a.](/pages/iv-policies-for-the-institute/c-faculty-handbook/5-policies-and-procedures-for-members-of-the-faculty#categories)).
+ii. **Associate professors** (or associate professors of professional practice) can apply for promotion to **full professor** (or full professor of professional practice) in either of the following cases: 
 
-iii. **Assistant professor (or assistant professors of professional practice),** for promotion to **associate professor (or associate professors of professional practice)**, after four (4) years in rank, if at least two (2) of those years have been completed at the Institute, and after a total of at least five (5) years of full-time teaching or equivalent professional experience. Application for promotion can be made in the spring semester of the fifth year and promotion, if awarded, shall become effective at the start of the sixth year.
+\[1\] For those who joined MIIS faculty as an associate professor, they are eligible to apply after four (4) years in rank at the associate level, if at least three (3) of those years have been completed at the Institute.
 
-iv. **Associate professors (or associate professors of professional practice)**, can apply for promotion to **full** **professor (or full professor of professional practice)**, in either of the following cases:
+\[2\] For those who joined MIIS faculty as an assistant professor, they are eligible to apply after completing nine (9) years of full-time teaching at accredited institutions of higher learning, or, if they are professors of professional practice, equivalent professional experience, and after four (4) years in rank at the associate level at the Institute.
 
-1\] For those who joined MIIS faculty as an associate professor they are eligible to apply after four (4) years in rank at the associate level, if at least three (3) of those years have been completed at the Institute.
-
-2\] For those who joined MIIS faculty as an assistant professor, they are eligible to apply after completing nine (9) years of full-time teaching at accredited institutions of higher learning, or, if they are professors of professional practice, equivalent professional experience, and after four (4) years in rank at the associate level at the Institute.
-
-Application for promotion to full professor can be made at earliest in the spring semester of the first academic year in which they have met the above criteria. If awarded, faculty will be notified of promotion by the end of that spring semester in the academic year in which they apply, and promotion shall become effective at the start of the following academic year (July 1st).
+Application for promotion to full professor can be made at earliest in the spring semester of the first academic year in which they have met the above criteria. If awarded, faculty will be notified of promotion by the end of that spring semester in the academic year in which they apply, and promotion shall become effective at the start of the following academic year (July 1st)."
 
 Among the considerations for promotion are the criteria for measuring excellence mentioned in Section [C.6.a.](/pages/iv-policies-for-the-institute/c-faculty-handbook/6-evaluation-of-the-faculty#criteria), as well as any further guidance established in each school. The principal determining factors for promotion for all faculty members, however, are excellence in teaching and validation of professional status, as determined by the individual school. Promotion to associate professor or professor requires evidence of significant contributions to the objectives of the Institute.
 
@@ -159,7 +155,8 @@ All such criteria include the faculty member’s behavior as a responsible Insti
 
 Evaluation of faculty members for the purpose of contract renewal or promotion is a sequential process involving review by a committee of peers, the relevant dean (GSTILE, GSIPM, LPP), the Faculty Evaluation Committee (FEC), the VPAA, the provost, and the president and Board of Trustees in the case of promotion to full professor. The faculty member has opportunities to respond at each stage of the process.  In cases of promotion, external reviews by qualified persons of adequate professional/academic standing are also required.
 
-##### **Step 1 —** 
+##### **Step 1 —**
+
 To initiate the evaluation process for promotion or contract renewal, faculty members prepare and submit their professional files to their relevant deans according to the schedule set forth in Appendix A.
 
 A complete file shall contain, but is not limited to, the following items:
@@ -174,11 +171,13 @@ A complete file shall contain, but is not limited to, the following items:
 It is the individual faculty member’s responsibility to initiate the evaluation process by submitting a complete, well-organized file by the deadline specified in the evaluation schedule ([Appendix A](/pages/iv-policies-for-the-institute/c-faculty-handbook/appendix-a-faculty-evaluation-schedule)). Should timely action not be taken by a faculty member, the relevant dean shall combine the relevant student course evaluation data and annual reviews into a rudimentary dossier, which is forwarded to the Peer Review Committee.
 
 ##### **Step 2 –** {#step2}
+
 The process of forming the Peer Review Committees, including the role, if any, of the program chairs, shall be as agreed upon between the dean and the faculty of each school. Members of the committee shall be regular faculty members who, in the judgment of the dean, possess the professional expertise to evaluate the dossier. In the event that for good cause shown to the satisfaction of the VPAA, a candidate objects to a committee member’s participation, the VPAA shall direct that a replacement be appointed. If a faculty member is applying for contract renewal and promotion in the same academic year, there will be a single peer review committee for both applications. The faculty member may opt to simply submit an addendum for the second of the two reviews.
 
 The Peer Review Committee shall evaluate the faculty member’s record and present to the dean a written report, inclusive of its recommendation (contract renewal/non-renewal, promotion/non-promotion, or approval/non-approval of a sabbatical proposal). Before the report is submitted to the dean, the committee can identify questions they have about the individual’s work in any of the four evaluation areas. The peer review committee can ask to meet privately (in person or online) with the faculty member to ask these questions, prior to finalizing the peer review form. Questions should be based on the dossier and the presentation and the discussion should not last longer than 45 - 60 minutes. Whether or not there is a meeting between the reviewee and reviewers, on the same date the Peer Review Committee recommendation is sent to the dean, a copy is forwarded to the faculty member, who has five (5) working days in which to submit a response to the committee’s evaluation and/or additional information to the relevant dean. This period may be extended if the faculty member is unavailable to receive and comment on the report.
 
-##### **Step 2a** – 
+##### **Step 2a** –
+
 The soliciting of external reviews in cases of promotion review shall be the responsibility of the VPAA. To this end, the faculty member and the relevant dean shall both submit a list of names, including contact information, of three persons possessing adequate professional/academic expertise and qualifications to evaluate the dossier and to judge also on the basis of the mission of the program with which the candidate is affiliated. External reviewers should be established scholars in the candidate’s field, or leaders in the profession.  In order to guarantee sufficient time and to facilitate the process, the name lists must be submitted to the VPAA no later than October 1. The VPAA shall then obtain a written evaluation from one person on each list.
 
 The external reviewers shall confine their evaluation to the faculty member’s record of scholarship/professional achievement as well as professional stature and present to the VPAA a written report, inclusive of their recommendation (promotion/non-promotion).
@@ -186,25 +185,29 @@ The external reviewers shall confine their evaluation to the faculty member’s 
 The external reviews shall be obtained in a period of time concurrent with the peer-review process. The faculty member will have access to the opinions of the external reviewers, but not to the external reviewers’ identities, thus preserving the confidentiality of the process. Restricting access is meant to ensure frank and honest assessments of the candidate, while still providing useful input into the faculty member’s formative evaluation.  The deans, FEC, and VPAA will have access to all materials submitted in connection with promotion review, including the external evaluations.
 
 ##### **Step 3 —** {#step3}
+
 The relevant dean, whose review must explicitly acknowledge the candidate’s written response(s), if any, adds his/her evaluation of the faculty member to the file and forwards it to the **Faculty Evaluation Committee**. The dean’s final evaluation shall be issued no sooner than five (5) working days after receiving the peer evaluation and the external reviews in cases of promotion.
 
 On the same date, a copy of the dean’s evaluation is sent by the relevant dean directly to the faculty member, who has five (5) working days in which to submit, to the **Faculty Evaluation Committee**, a response to the dean’s evaluation. This period may be extended if the faculty member is unavailable to receive and comment on the report.
 
-##### **Step 4 —** 
+##### **Step 4 —**
+
 The Faculty Evaluation Committee will review the file, explicitly acknowledging any written responses and other materials from the faculty member. The Committee may request additional information from any party involved in the case. If the Committee finds that the faculty member has not been accorded due process during the evaluation procedure, it shall forward such a finding to the VPAA, with copies forwarded to the relevant dean and to the faculty member on the same date. In doing so, the Committee shall consider whether in its judgment, the evaluation has proceeded in accordance with policies of the Faculty Handbook.
 
 Unless the Faculty Evaluation Committee finds that the faculty member has not been accorded due process during the prior evaluation procedure, it will then make its own independent evaluation. The Committee shall issue its final evaluation no sooner than five (5) working days after receiving the file from the **dean.** The Faculty Evaluation Committee’s independent evaluation may take one of three forms: (a) concurrence with the recommendations of the relevant dean; (b) non-concurrence with the recommendation of the relevant dean; or (c) a recommendation, for reasons stated, that the VPAA invoke the one-year extension provision (see section 6.10) or, under special circumstances, a longer extension to provide the faculty member sufficient time to demonstrate enhanced performance.
 
-##### **Step 5** — 
+##### **Step 5** —
+
 The Faculty Evaluation Committee places its finding of due process and its evaluation of the faculty member in the file, with copies forwarded to the faculty member, the relevant dean and the VPAA on the same date. The faculty member has five (5) working days in which to submit a response to the Committee’s evaluation and/or additional material to the VPAA.
 
 The VPAA, whose review must explicitly acknowledge any written response from the candidate submitted within five (5) days of the Faculty Evaluation Committee's decision, shall issue a final report including evaluation of the file and recommendation, no sooner than five (5) working days after receipt of the file. This report is added to the file, with copies forwarded to the faculty member **and** the relevant dean on the same date.
 
-In the case of renewal of a contract, the VPAA will make a recommendation to the provost.  The provost will make the decision about the contract renewal.
+In the case of renewal of a contract, the VPAA will make a recommendation to the provost.  The provost will make the decision about the contract renewal. 
 
 In the case of promotion to full professor, the recommendation will be forwarded to the president, who, in consultation with the provost, will make a decision, with the final decision to be made by the Board of Trustees.
 
-##### **Step 6** — 
+##### **Step 6** —
+
 In cases other than promotion to full professor, should the faculty member disagree with the decision of the provost, they may appeal the decision in writing to the president within five (5) working days of being notified of the decision. The decision of the president is final.
 
 A faculty member being evaluated may request an additional five (5) days in addition to the five (5) working days provided, for the purpose of obtaining materials deemed critical to the case.
@@ -213,7 +216,7 @@ A faculty member being evaluated may request an additional five (5) days in addi
 
 The Institute provides opportunities for professional development and research through faculty sabbatical leaves, subject to available financial resources and program requirements.
 
-After each six (6) year period of full-time (or full-time equivalent) teaching at the Institute, faculty members become eligible to apply for a sabbatical leave. \[See Appendix C\]  Application for sabbatical leave is made in the fall semester of the sixth year of full-time teaching (or full-time equivalent) and, if granted, leave commences in the seventh year.  Before applying for a subsequent sabbatical leave, faculty members must again complete a minimum of six (6) years of full-time (or full-time equivalent) teaching. If sabbatical is taken in the fall semester of an academic year only, the spring semester does not count as part of this next six (6) year increment of full-time teaching. 
+After each six (6) year period of full-time (or full-time equivalent) teaching at the Institute, faculty members become eligible to apply for a sabbatical leave. \[See Appendix C\] Application for sabbatical leave is made no earlier than in the fall semester of the sixth year of full-time teaching (or full-time equivalent).  If granted, leave (whether one semester or one full year) would take place within the seventh year.  Before applying for a subsequent sabbatical leave, faculty members must again complete a minimum of six (6) years of full-time (or full-time equivalent) teaching. If sabbatical is taken in the fall semester of an academic year only, the spring semester does not count as part of this next six (6) year increment of full-time teaching.  
 
 In the event that a faculty member is not able to take sabbatical when eligible, for reasons of institutional need or world events beyond their control, the academic administration shall have the right to allow the faculty member to be eligible for the next sabbatical as would have been originally scheduled (e.g. if a 7th year sabbatical is deferred to year 8, the administration may allow the individual to be eligible again within year 14, rather than waiting until year 15).
 
@@ -233,4 +236,6 @@ The VPAA of the Institute has approval/denial authority for all faculty sabbatic
 
 #### **C.6.k. Leave without Pay**
 
-In its continuing efforts to provide its faculty with opportunities for professional research and development, the Institute shall consider options for academic leave without pay on a case-by-case basis. A faculty member may apply for leave without pay, normally before September 15 of the year preceding the academic year in which the leave is requested, by submitting formal written application to the VPAA through the relevant dean. Leave taken without pay shall not be considered time served at the Institute for purposes of calculating promotion and contract renewal periods, and benefits shall be suspended for the length of the leave. However, under extraordinary circumstances at the discretion of the VPAA, as long as the faculty member takes leave without pay for one year or less, the VPAA may allow the faculty member to count that leave as time served towards contract renewal, sabbatical, and/or promotion.
+In its continuing efforts to provide its faculty with opportunities for professional research and development, the Institute shall consider options for academic leave without pay on a case-by-case basis. A faculty member may apply for leave without pay, normally before September 15 of the year preceding the academic year in which the leave is requested, by submitting formal written application to the VPAA through the relevant dean.  Every effort should be made to schedule a period of leave without pay in a manner that does not disrupt the Institute's academic programs.
+
+Leave taken without pay shall not be considered time served at the Institute for purposes of calculating promotion and contract renewal periods, and benefits shall be suspended for the length of the leave. However, under extraordinary circumstances at the discretion of the VPAA, as long as the faculty member takes leave without pay for one year or less, the VPAA may allow the faculty member to count that leave as time served towards contract renewal, sabbatical, and/or promotion.
