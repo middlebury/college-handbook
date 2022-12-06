@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/genl-principles/freedom-of-expression
-date: 2021-05-01
 title: A.5. Policy on Open Expression
+date: 2021-05-01
 ---
 Middlebury is a community of learners that dedicates itself to creating a world with a robust and inclusive public sphere, including on our campuses. A robust and inclusive public sphere is one where all voices can be heard and have the opportunity to contribute to the conversation. Middlebury’s mission is to prepare students to lead engaged, consequential, and creative lives, to contribute to their communities, and to address the world’s most challenging problems. This mission requires a learning environment where all community members practice engaging across difference, perspective taking, and critical thinking to expand their understanding of the range of attitudes, values, ideas, actions, issues, policies, and practices that exist on campus and in the world beyond. Learning occurs inside and outside the classroom, often involving public speech and action through which people affirm and enact their values.
 
@@ -31,12 +31,9 @@ Middlebury faculty, staff, and students may not claim or appear to represent the
 
 Related Policies and Documents:
 
-1. [Demonstration Regulations](/pages/i-policies-for-all/health-safety/demonst-protests)
-
-2. [Policy on Scheduling Middlebury Events](/pages/i-policies-for-all/appropriate-use/d-7-policy-on-scheduling-middlebury-space-for-events)
-
-3. [Frequently Asked Questions about Open Expression](https://www.middlebury.edu/about/open-expression/faqs)
-
-4. [Open Expression Resources Page](https://www.middlebury.edu/about/open-expression/speech-inclusion-resources)
+1.  [Demonstration Regulations](/pages/i-policies-for-all/health-safety/demonst-protests)
+2.  [Policy on Scheduling Middlebury Events](/pages/i-policies-for-all/appropriate-use/d-7-policy-on-scheduling-middlebury-space-for-events)
+3.  [Frequently Asked Questions about Open Expression](/assets/resources.pdf)
+4.  [Open Expression Resources Page](/assets/resources.pdf)
 
 _Effective 11-21-19_
