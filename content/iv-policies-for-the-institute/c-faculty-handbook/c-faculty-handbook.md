@@ -15,3 +15,4 @@ title: C. Faculty Handbook
 * [C.8\. Other Faculty Matters](/pages/iv-policies-for-the-institute/c-faculty-handbook/8-other-faculty-matters)
 * [Appendix A: Faculty Evaluation Schedule](/pages/iv-policies-for-the-institute/c-faculty-handbook/appendix-a-faculty-evaluation-schedule)
 * [Appendix B: AAUP Guidelines](/pages/iv-policies-for-the-institute/c-faculty-handbook/appendix-b-aaup-guidelines)
+* [Appendix C: Faculty Evaluation Calendar by Semester](/pages/iv-policies-for-the-institute/c-faculty-handbook/appendix-c-faculty-evaluation-calendar-by-semester)
