@@ -93,9 +93,9 @@ If the Office of the Registrar has not received either a provisional or a final 
 
 #### **7\. Change in Grades**
 
-Any request for a grade change must be submitted on a change of grade form to the Administration Committee by the instructor of the course with the endorsement of the department chair. Changes will be made only in case of clerical error or for the reason of fairness to a student. No change in a final grade on the transcript is effective until it is approved by the entire faculty.
+Any request for a grade change must be submitted on a change of grade form to the Administration Committee by the instructor of the course with the endorsement of the department chair. Changes will be made only in case of clerical error or for the reason of fairness to a student, following the Administration Committee's protocols for such requests. Requests for grade changes that are denied by the Administration Committee may be resubmitted by the course instructor only in cases where additional information not included in the original request may affect the committee's final decision. No change in a final grade on the transcript is effective until it is approved by the entire faculty.
 
-Students wishing to protest a grade may do so by speaking first to the instructor of the course, and then to the department chair. If the student is still not satisfied, the student may appeal in writing to the vice president for Academic Affairs and dean of the faculty (VPAA/DOF). The VPAA/DOF or designate will consult with the instructor of the course and the department chair and will make a final decision on the matter.  If the VPAA/DOF recommends a change in the student's grade, that recommendation will be submitted to the Administration Committee, which will include it on the recommendations for grade changes submitted to the faculty. No change in a final grade on the transcript is effective until it is approved by the entire faculty.
+Students wishing to protest a grade may do so by speaking first to the instructor of the course, and then to the department chair. If the instructor and department chair believe the grade should not be changed, and the student is still not satisfied, the student may appeal in writing to the vice president for Academic Affairs and dean of the faculty (VPAA/DOF). The VPAA/DOF or designate will consult with the instructor of the course and the department chair and will make a final decision on the matter.  If the VPAA/DOF recommends a change in the student's grade, that recommendation will be submitted to the Administration Committee, which will include it on the recommendations for grade changes submitted to the faculty. Students may not appeal to the VPAA/DOF for grade change requests that are denied by the Administration Committee. No change in a final grade on the transcript is effective until it is approved by the entire faculty.
 
 #### **8\. College Honors** {#chonors}
 
@@ -143,7 +143,7 @@ A fee of $5 is charged for each official transcript requested. A request form i
 
 #### **11.  Registrar**
 
-**Office of the Registrar**   
+**Office of the Registrar**  
 E-mail: [registrar@middlebury.edu](mailto:registrar@middlebury.edu)   
 Website: [https://go.middlebury.edu/registrar](https://go.middlebury.edu/registrar)  
 Phone: 802.443.5770
