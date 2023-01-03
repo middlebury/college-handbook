@@ -126,9 +126,9 @@ Regular Readmission is the recommended timeline for all students to ensure the b
 
 Late-Decision Readmission is not recommended, but is available as an exceptional provision that comes with caveats and conditions which students should carefully consider before electing it. Deadlines for Late-Decision Readmission have been set to allow students the possibility of returning in the spring or fall term immediately following coursework done elsewhere to qualify for readmission. Since students readmitted via Late-Decision will be notified of that outcome after the registration and housing processes have been run, the selection of courses and housing will be limited. Students may elect this option only on the condition that they accept whatever courses and housing assignments are available. 
 
-<table><tbody><tr><td colspan="2"><strong>Summary of Deadlines</strong></td></tr><tr><td><strong>Return Track</strong></td><td><strong>Application Deadline</strong></td></tr><tr><td>Fall Return, Regular</td><td>June 15</td></tr><tr><td>Fall Return, Late Decision</td><td>August 15</td></tr><tr><td>Spring Return, Regular</td><td>November 1</td></tr><tr><td>Spring Return, Late Decision</td><td>January 15</td></tr></tbody></table>
+<table><tbody><tr><td colspan="2"><strong>SUMMARY OF DEADLINES</strong></td></tr><tr><td><strong>Return Track</strong></td><td><strong>Application Deadline</strong></td></tr><tr><td>Fall Return, Regular</td><td>June 15</td></tr><tr><td>Fall Return, Late Decision</td><td>August 15</td></tr><tr><td>Spring Return, Regular</td><td>November 1</td></tr><tr><td>Spring Return, Late Decision &nbsp; &nbsp;&nbsp;</td><td>January 15</td></tr></tbody></table>
 
-#### **9\. Special Students** {#special}
+**9\. Special Students** {#special}
 
 Special student status is designated for students with only one or two remaining credits (although Febs may apply for special student status for the fall semester when they have three remaining credits), and for students with a documented disability for which this arrangement is deemed by the Disability Resource Center staff to be a reasonable accommodation. Special students are charged by the course, and may not live on campus.
 
