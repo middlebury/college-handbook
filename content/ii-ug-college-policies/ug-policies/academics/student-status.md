@@ -128,7 +128,7 @@ Late-Decision Readmission is not recommended, but is available as an exceptional
 
 <table><tbody><tr><td colspan="2"><strong>SUMMARY OF DEADLINES</strong></td></tr><tr><td><strong>Return Track</strong></td><td><strong>Application Deadline</strong></td></tr><tr><td>Fall Return, Regular</td><td>June 15</td></tr><tr><td>Fall Return, Late Decision</td><td>August 15</td></tr><tr><td>Spring Return, Regular</td><td>November 1</td></tr><tr><td>Spring Return, Late Decision &nbsp; &nbsp;&nbsp;</td><td>January 15</td></tr></tbody></table>
 
-**9\. Special Students** {#special}
+**9\. Special Students**
 
 Special student status is designated for students with only one or two remaining credits (although Febs may apply for special student status for the fall semester when they have three remaining credits), and for students with a documented disability for which this arrangement is deemed by the Disability Resource Center staff to be a reasonable accommodation. Special students are charged by the course, and may not live on campus.
 
