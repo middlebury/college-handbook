@@ -215,7 +215,7 @@ iv. All other committees will report, when appropriate, at least once a year.
 
 i. Small group meetings of the faculty will normally be scheduled in October, December, February, and April. The specific schedule for any given academic year will be determined by the Faculty Council, in consultation with the VPAA/DoF, in accordance with the following guidelines:
 
-The October, February, and April meetings will normally be held on the first Friday of the month. These meetings will normally be scheduled to begin at 2:45 p.m. The Faculty Council may choose to reschedule these meetings in order to avoid having them fall in the first week of classes in a term or on a Friday immediately before a vacation.
+The October, February, and April meetings will normally be held on the first Friday of the month. These meetings will normally be scheduled to begin at 3:00 p.m. The Faculty Council may choose to reschedule these meetings in order to avoid having them fall in the first week of classes in a term or on a Friday immediately before a vacation.
 
 The December meetings will be held on the Monday following the end of fall semester classes. These meetings will normally be scheduled to begin at 3:00 p.m.
 
