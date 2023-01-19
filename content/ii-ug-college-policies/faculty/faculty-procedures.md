@@ -1,13 +1,13 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/faculty-procedures
-date: 2021-05-01
 title: C.1. Faculty Rules and Proceduress
+date: 2021-05-01
 ---
 **1\. Article I Membership**
 
-**a. _Section 1 Automatic Eligibility_**
+**a.** _**Section 1 Automatic Eligibility**_
 
-By reason of their rank or of their office, the following are automatically entitled to membership in and upon the faculty of Middlebury College and have the right to vote at all faculty meetings except as noted in c. Section 3\. Voting Membership, below.
+By reason of their rank or of their office, the following are automatically entitled to membership in and upon the faculty of Middlebury College and have the right to vote at all faculty meetings except as noted in c. Section 3. Voting Membership, below.
 
 i. Faculty serving in rank: professor, associate professor, assistant professor, and instructor.
 
@@ -25,17 +25,17 @@ vii. The president, the provost, the vice president for Academic Affairs and dea
 
 viii. The dean of the library and the dean of admissions.
 
-**b. _Section 2 Additional Eligibility_**
+**b.** _**Section 2 Additional Eligibility**_
 
 Additions to the above general rule will be allowed by a majority of the entire voting faculty. Requests for such additions are to be submitted to the faculty by the VPAA/DoF.
 
-**c. _Section 3 Voting Membership_**
+**c.** _**Section 3 Voting Membership**_
 
 Adjunct appointees are entitled to attend all meetings of the faculty, but they do not have the right to vote. On-leave faculty are eligible to vote in online balloting for the election of faculty committees, or on other online  ballots that may be distributed.
 
 **2\. Article II Organization of the Faculty**
 
-**a. _Section 1 Officers_**
+**a.** _**Section 1 Officers**_
 
 i. The faculty moderator, elected in accordance with the provisions in b. Section 2 below, will serve as the presiding officer at all plenary sessions of the faculty. If the moderator is unable to attend a plenary session of the faculty, the Faculty Council will decide on an appropriate replacement for that meeting, after consulting with the moderator if at all possible.
 
@@ -43,7 +43,7 @@ ii. The parliamentarian, to be appointed each year by the Faculty Council, will 
 
 iii. The recording secretary, to be appointed each year by the Faculty Council, will compile proper minutes and other necessary records of the faculty proceedings and will see to the proper custody of such records.
 
-**b. _Section 2 Moderator_**
+**b.** _**Section 2 Moderator**_
 
 i. The faculty will elect a moderator to serve as the presiding officer at the plenary sessions of the faculty. The duties of the moderator will be:
 
@@ -75,7 +75,7 @@ iv. The moderator will be elected for a two-year term.
 
 (c) The election for moderator will be conducted by the VPAA/DoF using online balloting. The first ballot will include the names of all those who have consented to have their names put before the faculty as nominees. Faculty members will vote for one name from this ballot. If a candidate receives more than fifty percent of the votes cast on this ballot, that person will be elected as moderator. If no candidate receives more than fifty percent of the votes cast on the first ballot, a second ballot will be held listing the names of the two candidates who received the highest number of votes. Faculty members will vote for one name from this ballot. The candidate with the largest number of votes will be elected as moderator. In the case of tied votes for first or second place on the initial ballot, all of the names of the tied candidates will appear on the second ballot. If no candidate obtains more than fifty percent of the votes cast, a third ballot will be held listing the names of the two candidates who obtained the highest number of votes on the second ballot. Faculty members will vote for one on this ballot. The candidate with the largest number of votes will be elected as moderator.
 
-**c. _Section 3 Divisions, Departments and Programs_**
+**c.** _**Section 3 Divisions, Departments and Programs**_
 
 The several divisions, departments and programs of instruction comprising the administrative organization for the instructional work of the College will serve also as component parts of the faculty, where appropriate.
 
@@ -99,17 +99,17 @@ i. _Major Councils and Committees_
 
 ii. _Standing Committees_
 
-There will be standing committees of the faculty as provided below in 4\. Article IV. There will be such other standing committees as may be found convenient by the faculty for the discharge of its business.
+There will be standing committees of the faculty as provided below in 4. Article IV. There will be such other standing committees as may be found convenient by the faculty for the discharge of its business.
 
 **3\. Article III Plenary Sessions of the Faculty**
 
-**a. _Section 1 Time and Scheduling of Plenary Sessions_**
+**a.** _**Section 1 Time and Scheduling of Plenary Sessions**_
 
 i. Plenary sessions of the faculty will be scheduled in September, November, January, March and May. The specific schedule for any given academic year will be determined by the Faculty Council, in consultation with the Vice President for Academic Affairs and the Dean of the Faculty, in accordance with the following guidelines:
 
 The September meeting will be held during the week before the start of classes, at a time and place established in conjunction with other activities of that week.
 
-The November, January, and March meetings will normally be held on the first Friday of the month. These meetings will normally be scheduled to begin at 2:45 p.m. The Faculty Council may choose to reschedule these meetings in order to avoid having them fall in the first week of classes in a term or on a Friday immediately before a vacation.
+The November, January, and March meetings will normally be held on the first Friday of the month. These meetings will normally be scheduled to begin at 3:00 p.m. The Faculty Council may choose to reschedule these meetings in order to avoid having them fall in the first week of classes in a term or on a Friday immediately before a vacation.
 
 The May meeting will be scheduled on the Monday or Tuesday following the end of spring semester classes. This meeting will normally be scheduled to begin at 3:00 p.m.
 
@@ -125,7 +125,7 @@ ii. Special plenary sessions of the faculty may be called as follows:
 
 A special plenary session will be held in lieu of the next regularly scheduled small group meetings of the faculty, or at another time if necessary.
 
-**b. _Section 2 Attendance and Quorum_**
+**b.** _**Section 2 Attendance and Quorum**_
 
 i. Voting members of the faculty are expected to be present at all plenary sessions and small group meetings.
 
@@ -135,7 +135,7 @@ iii. A quorum in plenary sessions of the faculty will consist of one-third of th
 
 iv. The president and vice president of the Student Government Association, and the student members of the Community Council and Student Educational Affairs Committee, will be permitted to attend all plenary sessions of the faculty with the right to speak. Student members of other College committees will be permitted to attend those plenary sessions in which their committees’ recommendations are on the agenda with the right to speak when those recommendations are being debated. Two representatives each from the _Middlebury Campus_ and WRMC will be permitted to attend plenary sessions of the faculty.
 
-**c. _Section 3 Notice and Agenda_**
+**c.** _**Section 3 Notice and Agenda**_
 
 i. Notice and a statement of the agenda of each plenary session of the faculty will be sent to all members prior to the meeting.
 
@@ -155,7 +155,7 @@ iv. The following rules will govern the consideration of major policy matters, d
 
 (e) Drafts of motions to be voted on at the May plenary session must be presented to the recording secretary for circulation to the faculty no later than the first Friday of April, or the second Friday of April if the first Friday is during spring break.
 
-**d. _Section 4 Order of Business_**
+**d.** _**Section 4 Order of Business**_
 
 In plenary sessions of the faculty the normal order of business will be:
 
@@ -179,7 +179,7 @@ ix.  President's Announcements
 
 x. Adjournment
 
-**e. _Section 5 Rules of Order and Suspension of Rules_**
+**e.** _**Section 5 Rules of Order and Suspension of Rules**_
 
 i. The rules of parliamentary procedure as found in Robert's Rules of Order will govern the plenary sessions of the faculty in all cases to which they are applicable and in which they are not inconsistent with the regulations of Middlebury College.
 
@@ -187,7 +187,7 @@ ii. Rules and procedures governing the conduct of plenary sessions of the facult
 
 iii. The faculty at any point in its proceedings may, by majority vote, declare itself in executive session, thereby limiting the meeting to voting members only. All discussions and actions taken in executive session will be held in confidence until released by proper authority.
 
-**f. _Section 6 Voting_**
+**f.** _**Section 6 Voting**_
 
 i. In faculty actions, decisions will be taken by a majority of those voting unless otherwise specified.
 
@@ -199,7 +199,7 @@ iv. Questions involving votes upon faculty members by name will be decided by wr
 
 v. If the discussion of any motion extends beyond 4:30 p.m. at any given plenary session of the faculty, voting on that motion will be automatically suspended until the following session.
 
-**g. _Section 7 Committee Reports_**
+**g.** _**Section 7 Committee Reports**_
 
 i. The Faculty Council and the Educational Affairs Committee will report at each plenary session of the faculty. The Faculty Council’s report will include a summary of the discussion of small group meetings of the faculty held in the previous month.
 
@@ -215,7 +215,7 @@ iv. All other committees will report, when appropriate, at least once a year.
 
 i. Small group meetings of the faculty will normally be scheduled in October, December, February, and April. The specific schedule for any given academic year will be determined by the Faculty Council, in consultation with the VPAA/DoF, in accordance with the following guidelines:
 
-The October, February, and April meetings will normally be held on the first Friday of the month. These meetings will normally be scheduled to begin at 2:45 p.m. The Faculty Council may choose to reschedule these meetings in order to avoid having them fall in the first week of classes in a term or on a Friday immediately before a vacation.
+The October, February, and April meetings will normally be held on the first Friday of the month. These meetings will normally be scheduled to begin at 3:00 p.m. The Faculty Council may choose to reschedule these meetings in order to avoid having them fall in the first week of classes in a term or on a Friday immediately before a vacation.
 
 The December meetings will be held on the Monday following the end of fall semester classes. These meetings will normally be scheduled to begin at 3:00 p.m.
 
@@ -237,7 +237,7 @@ iv. The purpose of the small group meetings is to allow for full and open discus
 
 **5\. Article V Committees**
 
-**a. _Section 1  General_**
+**a.** _**Section 1  General**_
 
 i. The standing committees of the faculty, their respective objectives, duties, and functions, composition and method of election or appointment, will be as described in the Faculty Councils and Committees section in this chapter of the Handbook.
 
@@ -257,7 +257,7 @@ viii. All councils and committees with the exception of the Council on Reviews, 
 
 **6\. Article VI Amendments**
 
-**a. _Section 1_**
+**a.** _**Section 1**_
 
 Proposed amendments to these Rules and Procedures, with the exception of changes in the scheduling of meetings that are described herein, will be initiated at a regular plenary session of the faculty.
 
@@ -265,6 +265,6 @@ Proposed amendments to these Rules and Procedures, with the exception of changes
 
 Any such proposed amendment, if supported by at least twenty voting members, will then be referred to small group meetings for discussion prior to the next plenary session of the faculty.
 
-**c. _Section 3_**
+**c.** _**Section 3**_
 
 Notice of such proposed amendment will be included in the notice of the next plenary session of the faculty, and may there be adopted by a vote comprising at least a two-thirds majority of those present, provided at least a quorum is in attendance.
