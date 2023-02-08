@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/health-safety/alcohol-drugs
-date: 2021-05-01
 title: C.7. Alcohol, Tobacco and Other Drugs
+date: 2021-05-01
 ---
 **September 9 2019**
 
@@ -17,6 +17,7 @@ title: C.7. Alcohol, Tobacco and Other Drugs
 *   [**Laws and Resources**](/pages/i-policies-for-all/health-safety/alcohol-drugs/#laws-and-resources)
 
 ---
+
 #### **Introduction**
 
 Middlebury is committed to promoting individual and community health, safety, and responsibility. We require all students and employees to observe local, state, and federal laws governing the possession, use, and furnishing of alcoholic beverages, tobacco and controlled substances, also referred to as illegal drugs, and failure to do so is prohibited. We are also committed to ensuring that, in accordance with the Drug-Free Schools and Community Act of 1989 and the Drug-Free Schools and Campuses Regulations, our policies concerning alcohol, tobacco and drugs contain clear statements about: (1) the standards of conduct prohibiting the unlawful possession, use, or distribution of tobacco, illegal drugs and alcohol by students and employees; (2) that Middlebury will impose disciplinary sanctions on students and employees who violate these policies (consistent with local, state, and federal law); (3) the applicable legal sanctions under local, state, or federal law for the unlawful possession or distribution of tobacco, illegal drugs and alcohol; and (4) health risks and information regarding tobacco, drug or alcohol counseling, treatment or rehabilitation, or reentry programs that are available to students and employees. When tobacco, drug, or alcohol violations occur, disciplinary sanctions will be imposed in accordance with this policy. Serious incidents that put a student or others at risk of harm, as well as repeated offenses, may require a more vigorous response, including referral to counseling or a treatment facility, a leave of absence, and/or disciplinary outcomes as appropriate.
@@ -55,23 +56,25 @@ g. Possessing alcoholic beverages in unauthorized spaces. Open containers of alc
 
 h. Engaging in drinking games and other behaviors designed for the purpose of becoming intoxicated through the abusive use of alcohol (e.g., funnels, keg stands, “around-the-world” parties, and other alcohol consumption based on speed and/or volume, etc.).
 
-i. Administering alcohol to individuals against their will and/or without their knowledge.
+i. Possessing drinking game paraphernalia (e.g., funnels, pong tables, etc.)
 
-j. Repeated unsafe intoxication.
+j. Administering alcohol to individuals against their will and/or without their knowledge.
 
-k. **Middlebury-College Specific**: The following actions are specifically prohibited at Middlebury College:
+k. Unsafe intoxication. Students who are deemed by College officials to be intoxicated at an unsafe level, regardless of age, will be charged with unsafe intoxication when appropriate.
 
-1.  Violating party regulations. Party regulations may be found in the office of the Dean of Students and the Department of Public Safety, and at [go/party](https://www.middlebury.edu/student-life/community-living/residential-life/student-responsibilities-and-expectation/party-information). Small, informal gatherings held in individual rooms, suites, and small houses occupied by students of legal age, at which alcoholic beverages are consumed, do not have to be registered. Residents of the living space will be treated as "party hosts," and held responsible for the actions of individuals in attendance. Students are responsible for unregistered gatherings and related activities that occur in their rooms, whether or not they are present.
-2.  For purposes of this policy, residential hallways are normally considered private spaces. Students of legal age may transport open alcohol containers for personal use within residence halls, but the use of hallways for parties is prohibited. Individual Commons may designate certain spaces in residence halls as senior commons rooms; these spaces will be considered private.
-3.  Possession of alcohol in first-year residence halls.
-4.  Possession of kegs or common containers. Possession by students of kegs or common containers (e.g., punch bowls) without advance party registration with the appropriate office (see [go/party](https://www.middlebury.edu/student-life/community-living/residential-life/student-responsibilities-and-expectation/party-information)) is prohibited. Unauthorized kegs or common containers will be confiscated, along with taps, and the Department of Public Safety will return confiscated kegs and taps to the vendor.
-5.  Multiple instances involving assignment to a sober friend, and single or multiple instances involving alcohol/drug-related transport to the hospital and/or to detoxification facilities may also result in disciplinary action, consistent with the Medical Amnesty Policy (below).
+l. **Middlebury-College Specific**: The following actions are specifically prohibited at Middlebury College:
+
+1.  No possession of alcohol in first-year residence halls.
+2.  No possession of kegs or common containers. Possession by students of kegs or common containers (e.g., punch bowls) without advance party registration with the appropriate office (see [go/party](https://www.middlebury.edu/student-life/community-living/residential-life/student-responsibilities-and-expectation/party-information)) is prohibited. Unauthorized kegs or common containers will be confiscated, along with taps, and the Department of Public Safety will return confiscated kegs and taps to the vendor.
+3.  Multiple instances involving unsafe intoxication, and single or multiple instances involving alcohol/drug-related transport to the hospital and/or to detoxification facilities may also result in disciplinary action, consistent with the Medical Amnesty Policy (below).
+4.  Violating party regulations. Party regulations may be found in the office of the Dean of Students and the Department of Public Safety, and at [go/party](https://www.middlebury.edu/student-life/community-living/residential-life/student-responsibilities-and-expectation/party-information). Small, informal gatherings held in individual rooms, suites, and small houses occupied by students of legal age, at which alcoholic beverages are consumed, do not have to be registered. Residents of the living space will be treated as "party hosts," and held responsible for the actions of individuals in attendance. Students are responsible for unregistered gatherings and related activities that occur in their rooms, whether or not they are present.
+5.  The use of hallways for parties is prohibited. 
 
 #### **Drugs**
 
 The following actions are prohibited:
 
-a. Using or possessing illegal drugs or controlled substances, including but not limited to prescription medication without a properly issued prescription.
+a. Using or possessing illegal drugs or controlled substances, including but not limited to prescription medication without a properly issued prescription, psychedelic substances such as mushrooms, LSD, etc. This also includes cannabis (marijuana) and medical cannabis prescriptions because it is still considered an illegal drug under federal law.
 
 b. Misuse of legal substances to cause impairment/hallucination.
 
@@ -81,7 +84,7 @@ d. Growing, manufacturing, distributing, or selling illegal drugs or controlled 
 
 e. Administering drugs to individuals against their will and/or without their knowledge.
 
-f. Repeated unsafe consumption and/or impairment.
+f. Unsafe consumption and/or impairment.
 
 #### **Tobacco**
 
@@ -97,7 +100,7 @@ d. Possession, production, or provision of false ID.
 
 i. Administering tobacco, tobacco substitutes, or tobacco paraphernalia to individuals against their will and/or without their knowledge.
 
-j. Repeated unsafe consumption and/or impairment.
+j. Unsafe consumption and/or impairment.
 
 See also Middlebury's "[No Smoking Policy](/pages/i-policies-for-all/health-safety/no-smoking)"
 
@@ -105,7 +108,7 @@ See also Middlebury's "[No Smoking Policy](/pages/i-policies-for-all/health-safe
 
 **Responses to Alcohol, Tobacco and Other Drugs Policy Violations**
 
-Student wellness and overall health inform the College’s responses to the use of alcohol, tobacco and other drugs. As such, the primary goal of the conduct system is to educate and engage students by providing information, tools, and space for facilitated reflection. The College utilizes evidence-based educational opportunities to support informed decision making regarding students’ personal and academic success, as informed by Middlebury’s Community Standards, listed below.
+Student wellness and overall health inform the College’s responses to the use of alcohol, tobacco and other drugs. As such, the primary goal of the conduct system is to educate and engage students by providing information, tools, and space for facilitated reflection. The College utilizes evidence-based educational opportunities to support informed decision-making regarding students’ personal and academic success, as informed by Middlebury’s Community Standards, listed below.
 
 *   Cultivating respect and responsibility for self, others, and our shared environment;
 *   Encouraging personal and intellectual courage and growth;
@@ -173,7 +176,7 @@ Involvement with or dependency upon drugs or excessive or illegal use of alcohol
 
 For information specific to state and federal laws governing the use, possession, and distribution of tobacco, drugs and alcohol, as well as additional counseling and treatment resources and information related to health risks associated with the use of tobacco, illegal drugs and the abuse of alcohol, see:
 
-[Middlebury's Annual Drug-Free Schools and Communities Act Notice](https://www.middlebury.edu/offices/health/publicsafety/Resources_and_Compliance_Requirements/drug-free-schools-and-communities-act-notice)
+[Middlebury's Annual Drug-Free Schools and Communities Act Notice](https://www.middlebury.edu/office/public-safety/compliance-information/drug-free-schools-and-communities-act-notice)
 
 [Middlebury Institute's Annual Drug-Free Schools and Communities Act Notice](https://www.middlebury.edu/institute/student-life/student-policies/annual-drug-free-schools-and-communities-act-notice)
 

@@ -2,7 +2,7 @@
 
 ## Requirements
 
-* [Node.js](https://nodejs.org/) v12.22.1+
+* [Node.js](https://nodejs.org/) v14.15.0+
 
 **Start developing.**
 

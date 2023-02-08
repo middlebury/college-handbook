@@ -5,7 +5,7 @@ import {
 } from "../components/custom-editor-widget";
 import "../components/custom-editor-widget/ckeditor.css";
 import React from "react";
-import marked from "marked";
+import { marked } from "marked";
 
 const collections = ["middlebury-wide", "undergraduate-college", "language-schools", "miis-policies", "previous-handbooks"];
 
@@ -17,7 +17,7 @@ collections.forEach((name) => {
     return (
       <div>
         <h2>{data.title}</h2>
-        <div dangerouslySetInnerHTML={{ __html: marked(data.body) }} />
+        <div dangerouslySetInnerHTML={{ __html: marked.parse(data.body) }} />
       </div>
     );
   })

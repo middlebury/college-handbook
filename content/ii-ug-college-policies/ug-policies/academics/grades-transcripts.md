@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/grades-transcripts
-date: 2021-05-01
 title: B.1.k. Grades and Transcripts
+date: 2021-05-01
 ---
 #### **1\. Grading System**
 
@@ -21,7 +21,7 @@ C- = 1.67 
 D = 1.00   
 F = 0
 
-**b.** Credit, no credit: winter term internships, and student-led courses
+**b.** CR (credit), NCR (no credit): winter term internships, student-led courses and by student adoption of the CR/NCR grading option.
 
 **c.** S (satisfactory), U (unsatisfactory): for work in progress in a multiple-term course
 
@@ -33,11 +33,13 @@ F = 0
 
 Note: The Middlebury grade point average (GPA) is truncated at two decimal points; any values beyond the second decimal place are not considered in the GPA calculation.
 
+**g.** Half-credit courses count in the grade point average, weighted proportionally.
+
 #### **2\. Probation and Failure**
 
-All undergraduate students have the same probation and failure rules. These rules also apply to Middlebury undergraduates who enroll in Language Schools, Schools Abroad, Bread Loaf School of English, School of the Environment, and externally sponsored programs approved by the office of International Programs and Off-Campus Study. The Administration Committee will exercise considerable leniency in responding to first-year, first-term students and therefore will give strong consideration to readmitting a student who has received academic failure unless the student has demonstrated flagrant neglect of school work.
+All undergraduate students have the same probation and failure rules. These rules also apply to Middlebury undergraduates who enroll in Language Schools, Schools Abroad, Middlebury Institute for International Studies at Monterey, Bread Loaf School of English, School of the Environment, and externally sponsored programs approved by the office of International Programs and Off-Campus Study. The Administration Committee will exercise considerable leniency in responding to first-year, first-term students and therefore will give strong consideration to readmitting a student who has received academic failure unless the student has demonstrated flagrant neglect of school work.
 
-_**Probation** (please also refer to the section on [Student Status](/pages/ii-ug-college-policies/ug-policies/academics/student-status))**:**_
+_**Probation** (please also refer to the section on_ [_Student Status_](/pages/ii-ug-college-policies/ug-policies/academics/student-status)_)**:**_
 
 2 Ds  
 1 D and 1 F  
@@ -45,7 +47,7 @@ D or F in winter term
 D or F in summer study  
 1 D or 1 F for students completing only three courses in term
 
-_**Failure** (please also refer to the section on [Student Status](/pages/ii-ug-college-policies/ug-policies/academics/student-status))**:**_
+_**Failure** (please also refer to the section on_ [_Student Status_](/pages/ii-ug-college-policies/ug-policies/academics/student-status)_)**:**_
 
 3 Ds  
 2 Fs  
@@ -57,7 +59,7 @@ Three times on probation or failure
 1 F and 1 D, or 2 Ds for students completing only three courses  
 A second successive term on probation
 
-**_Failure while on Probation:_**  
+_**Failure while on Probation:**_  
 2 Ds  
 1 F  
 D or F in winter term  
@@ -67,7 +69,7 @@ A second successive term on probation
 
 #### **3\. Grade Reports**
 
-Final grades are reported to the Registrar's Office at the end of each semester, term or study period. All grades must be submitted online by the time specified by the registrar. A faculty member who fails to meet this deadline is reported within 24 hours to the department chair. If there is no response within another 24 hours, the VPAA/DOF or designate is notified. Instructors should not report final course grades to students.
+Final grades are reported to the Office of the Registrar at the end of each semester, term or study period. All grades must be submitted online by the time specified by the registrar. A faculty member who fails to meet this deadline is reported within 24 hours to the department chair. If there is no response within another 24 hours, the VPAA/DOF or designate is notified. Instructors should not report final course grades to students.
 
 Failure and D reports must be submitted by instructors to the registrar. These reports are used by the Administration Committee for determining eligibility for readmission and by Student Life Deans for advising.
 
@@ -83,31 +85,31 @@ When a course would have relatively little value unless followed by a second se
 
 #### **6\. Incomplete Grades**
 
-Incompletes are issued only in unanticipated, exceptional circumstances that arise near the end of the term and when a student has been meeting the majority of course expectations. Incompletes are granted by the Student Life Dean, after consultation with the faculty member involved. In order for the dean to grant an incomplete, the faculty member will provide the dean and the Registrar's Office with a provisional grade that would be assigned if the remaining work in the course were not completed. When the faculty member submits grades for the course, they will submit an incomplete for the student.
+Incompletes are issued only in unanticipated, exceptional circumstances that arise near the end of the study period and when a student has been meeting the majority of course expectations. Incompletes are granted by the Student Life Dean, after consultation with the faculty member involved. In order for the dean to grant an incomplete, the faculty member will provide the dean and the Office of the Registrar with a provisional grade that would be assigned if the remaining work in the course were not completed. When the faculty member submits grades for the course, they will submit an incomplete for the student.
 
-The Dean will share the provisional grade with the student and will set the deadline for the submission of all remaining work, which will ordinarily be before the deadline for adding classes in the following Fall or Spring semester. The deadline may be no later than the deadline to drop classes in the following semester. Incompletes in winter term courses will follow the same procedures: the deadline for the submission of all remaining work may be no later than the deadline to drop classes in the Spring semester. It is the student's responsibility to ensure that all work is completed by the deadline.  Should the faculty member be unavailable to evaluate the remaining work, it will be the responsibility of the department chair or program director, or designee, to complete the evaluation of submitted work. If the course is not completed by the deadline, the provisional grade based on the work that has been completed will be recorded by the Registrar's Office. 
+The Dean will share the provisional grade with the student and will set the deadline for the submission of all remaining work, which will ordinarily be before the deadline for adding classes in the following Fall or Spring semester. The deadline may be no later than the deadline to drop classes in the following semester. Incompletes in winter term courses will follow the same procedures: the deadline for the submission of all remaining work may be no later than the deadline to drop classes in the Spring semester. It is the student's responsibility to ensure that all work is completed by the deadline.  Should the faculty member be unavailable to evaluate the remaining work, it will be the responsibility of the department chair or program director, or designee, to complete the evaluation of submitted work. If the course is not completed by the deadline, the provisional grade based on the work that has been completed will be recorded by the Office of the Registrar. 
 
-If the Registrar's Office has not received either a provisional or a final grade by the deadline, the grade will ordinarily be recorded as an F. The Registrar's Office will notify the student that the grade has been recorded. Students seeking incompletes based on a disability or medical condition should be directed to the Disability Resource Center (DRC) Office. When the DRC staff determines that an incomplete is a reasonable accommodation for a disability, the dean will be notified and will grant the incomplete, which should ordinarily follow the procedures described above, unless the DRC Office determines a modification is necessary.
+If the Office of the Registrar has not received either a provisional or a final grade by the deadline, the grade will ordinarily be recorded as an F. The Office of the Registrar will notify the student that the grade has been recorded. Students seeking incompletes based on a disability or medical condition should be directed to the Disability Resource Center (DRC) Office. When the DRC staff determines that an incomplete is a reasonable accommodation for a disability, the dean will be notified and will grant the incomplete, which should ordinarily follow the procedures described above, unless the DRC Office determines a modification is necessary.
 
 #### **7\. Change in Grades**
 
-Any request for a grade change must be submitted on a change of grade form to the Administration Committee by the instructor of the course with the endorsement of the department chair. Changes will be made only in case of clerical error or for the reason of fairness to a student. No change in a final grade on the transcript is effective until it is approved by the entire faculty.
+Any request for a grade change must be submitted on a change of grade form to the Administration Committee by the instructor of the course with the endorsement of the department chair. Changes will be made only in case of clerical error or for the reason of fairness to a student, following the Administration Committee's protocols for such requests. Requests for grade changes that are denied by the Administration Committee may be resubmitted by the course instructor only in cases where additional information not included in the original request may affect the committee's final decision. No change in a final grade on the transcript is effective until it is approved by the entire faculty.
 
-Students wishing to protest a grade may do so by speaking first to the instructor of the course, and then to the department chair. If the student is still not satisfied, the student may appeal in writing to the vice president for Academic Affairs and dean of the faculty (VPAA/DOF). The VPAA/DOF or designate will consult with the instructor of the course and the department chair and will make a final decision on the matter.  If the VPAA/DOF recommends a change in the student's grade, that recommendation will be submitted to the Administration Committee, which will include it on the recommendations for grade changes submitted to the faculty. No change in a final grade on the transcript is effective until it is approved by the entire faculty.
+Students wishing to protest a grade may do so by speaking first to the instructor of the course, and then to the department chair. If the instructor and department chair believe the grade should not be changed, and the student is still not satisfied, the student may appeal in writing to the vice president for Academic Affairs and dean of the faculty (VPAA/DOF). The VPAA/DOF or designate will consult with the instructor of the course and the department chair and will make a final decision on the matter.  If the VPAA/DOF recommends a change in the student's grade, that recommendation will be submitted to the Administration Committee, which will include it on the recommendations for grade changes submitted to the faculty. Students may not appeal to the VPAA/DOF for grade change requests that are denied by the Administration Committee. No change in a final grade on the transcript is effective until it is approved by the entire faculty.
 
 #### **8\. College Honors** {#chonors}
 
-**a.** **_College Scholar:_** semester grade point average of 3.60 or higher for students taking four or more courses, with no grade below B-.
+**a.** _**College Scholar:**_ semester grade point average of 3.60 or higher for students taking four or more full-credit courses, with no grade below B-.
 
-**b.** **_Dean's List:_** semester grade point average of 3.30 or higher for students taking four or more courses, with no grade below B-.
+**b.** _**Dean's List:**_ semester grade point average of 3.30 or higher for students taking four or more full-credit courses, with no grade below B-.
 
-**c.** **_Graduation honors_** (on the basis of cumulative grades from the Middlebury undergraduate, summer, and overseas schools, all other approved programs abroad, and approved programs of domestic off-campus study):
+**c.** _**Graduation honors**_ (on the basis of cumulative grades from the Middlebury undergraduate, summer, and overseas schools, all other approved programs abroad, and approved programs of domestic off-campus study):
 
-**i.** *Cum laude:* graduation average of 3.40 or higher
+**i.** _Cum laude:_ graduation average of 3.40 or higher
 
-**ii.** *Magna cum laude:* graduation average of 3.60 or higher
+**ii.** _Magna cum laude:_ graduation average of 3.60 or higher
 
-**iii.** *Summa cum laude:* graduation average of 3.80 or higher
+**iii.** _Summa cum laude:_ graduation average of 3.80 or higher
 
 Standards for graduation honors are the same for all students eligible for a degree, regardless of the number of courses taken at Middlebury.
 
@@ -133,19 +135,18 @@ Awarding of departmental honors (Honors, High Honors, Highest Honors) is a depar
 
 #### **10\. Transcripts**
 
-Currently enrolled students have secure, ongoing access to their academic records online in BannerWeb. They may also request an official academic transcript from the Registrar's Office. The official transcript contains information on courses taken, grades received, majors and minors, degrees earned and honors awarded. The transcript also includes a student's semester and cumulative grade point average, calculated using the numerical equivalents in Section A above. The grades used in calculating the grade point average are those earned in the Middlebury undergraduate, summer, and overseas schools, all other approved programs abroad, and approved programs of domestic off-campus study.
+Currently enrolled students have secure, ongoing access to their academic records online in BannerWeb. They may also request an official academic transcript from the Office of the Registrar. The official transcript contains information on courses taken, grades received, majors and minors, degrees earned and honors awarded. The transcript also includes a student's semester and cumulative grade point average, calculated using the numerical equivalents in Section A above. The grades used in calculating the grade point average are those earned in the Middlebury undergraduate, summer, and overseas schools, all other approved programs abroad, and approved programs of domestic off-campus study.
 
-The transcript and information in the student file may be released to persons or organizations outside of the College only with specific written authorization from the student or as permitted by the federal Family Educational Rights and Privacy Act (FERPA), as noted in the [Student Privacy Rights under U.S. Federal Law](https://www.middlebury.edu/about/college-handbook-2017-revision/midd-all-policies/record_policies/ferpa) (FERPA) section of the Handbook.
+The transcript and information in the student file may be released to persons or organizations outside of the College only with specific written authorization from the student or as permitted by the federal Family Educational Rights and Privacy Act (FERPA), as noted in the [Student Privacy Rights under U.S. Federal Law](https://www.middlebury.edu/handbook/pages/i-policies-for-all/records/ferpa/) (FERPA) section of the Handbook.
 
-A fee of $5 is charged for each official transcript requested. A request form is available at [https://go.middlebury.edu/transcript](https://go.middlebury.edu/transcript). Transcript requests are accepted by mail, and in person Monday through Friday in Forest Hall during regular office hours.  Students may also request a transcript through the online ordering system. An additional surcharge is applied to transcript orders placed via the online ordering system. Please plan on two days for processing requests, and longer during end of term grading periods.  Students and alumni continue to have access to their own academic records on BannerWeb. No transcript will be issued to students who are financially indebted to the College until satisfactory arrangements have been made with the Office of Student Financial Services.
+A fee of $5 is charged for each official transcript requested. A request form is available at [https://go.middlebury.edu/transcript](https://go.middlebury.edu/transcript). Transcript requests are accepted by mail, and in person Monday through Friday in the Service Building during regular office hours.  Students may also request a transcript through the online ordering system. An additional surcharge is applied to transcript orders placed via the online ordering system. Please plan on two days for processing requests, and longer during end of term grading periods.  Students and alumni continue to have access to their own academic records on BannerWeb. No transcript will be issued to students who are financially indebted to the College until satisfactory arrangements have been made with the Office of Student Financial Services.
 
 #### **11.  Registrar**
 
-**Registrar's Office**   
+**Office of the Registrar**  
 E-mail: [registrar@middlebury.edu](mailto:registrar@middlebury.edu)   
 Website: [https://go.middlebury.edu/registrar](https://go.middlebury.edu/registrar)  
-Phone: 802.443.5770  
-Fax: 802.443.2030
+Phone: 802.443.5770
 
 Currently enrolled students should contact this office if they have questions about their academic transcripts or procedures regarding registration, dropping or adding courses, or transfer of credit.
 

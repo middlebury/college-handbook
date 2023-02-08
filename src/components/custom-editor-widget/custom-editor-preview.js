@@ -1,8 +1,8 @@
 import React from "react";
-import marked from "marked";
+import { marked } from "marked";
 
 export const CustomEditorPreview = (props) => {
   return (
-    <div dangerouslySetInnerHTML={{ __html: marked(props.value) }} />
+    <div dangerouslySetInnerHTML={{ __html: marked.parse(props.value) }} />
   );
 }

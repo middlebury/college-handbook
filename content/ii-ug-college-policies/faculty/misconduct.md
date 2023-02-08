@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/misconduct
-date: 2021-05-01
 title: C.6. Faculty Misconduct
+date: 2021-05-01
 ---
 _a. General Principles_
 
@@ -16,8 +16,8 @@ _In determining whether a faculty member’s actions constitute professional mis
 7.  Considerations of political opinions, race, creed, gender, sexual orientation, gender identity or expression, age, legally recognized forms of disability, or economic considerations—e.g., relating to the individual's salary level, length of contract—are absolutely prohibited in determining grounds for misconduct or assigning penalties for misconduct.
 8.  The principle of equal treatment should apply: instances of misconduct that are similar in nature and magnitude should be met with penalties that are similar in nature and magnitude, regardless of the identities of the faculty members involved.
 9.  Public perceptions and media representations of a faculty member should play no role in determining if misconduct has occurred, or in assessing any penalties that result from misconduct.
-10. Faculty participation is central to the hiring and promotion of our colleagues. The principle of self-governance requires that the faculty be significantly involved in the review of a colleague accused of professional misconduct.
-11. While the Board of Trustees has ultimate authority in matters involving faculty misconduct, in keeping with the principle of faculty self-governance, the Board will give considerable deference to the recommendations of the faculty and administration regarding faculty misconduct. In the event that the Board disagrees with the faculty’s or administration’s recommendations, the Board will provide a substantive written justification for its decision.
+10.  Faculty participation is central to the hiring and promotion of our colleagues. The principle of self-governance requires that the faculty be significantly involved in the review of a colleague accused of professional misconduct.
+11.  While the Board of Trustees has ultimate authority in matters involving faculty misconduct, in keeping with the principle of faculty self-governance, the Board will give considerable deference to the recommendations of the faculty and administration regarding faculty misconduct. In the event that the Board disagrees with the faculty’s or administration’s recommendations, the Board will provide a substantive written justification for its decision.
 
 _b. Definitions of Lesser Misconduct, Grounds for Termination, and Violations of the Anti-Harassment/Discrimination Policy and/or the Policy Against Sexual Misconduct, Domestic Violence, Dating Violence and Stalking_
 
@@ -116,7 +116,7 @@ If a member of the Promotions Committee is recused, the Reappointments Committee
 
 If the faculty ombudsperson is recused, the alternate ombudsperson will fulfill the role of the faculty ombudsperson in the procedures described above.
 
-If an administrator or the president is charged with professional misconduct, then the Board of Trustees will conduct its own hearing to consider whether they retain their administrative position. If the Board rescinds the administrative position and the president or administrator is a tenured faculty member, then they will subsequently be subject to the procedures described in section *c.iv*.
+If an administrator or the president is charged with professional misconduct, then the Board of Trustees will conduct its own hearing to consider whether they retain their administrative position. If the Board rescinds the administrative position and the president or administrator is a tenured faculty member, then they will subsequently be subject to the procedures described in section _c.iv_.
 
 _f. Teaching Ineffectiveness as Possible Grounds for Termination_  
 Tenure cannot be an impregnable barrier against sanctions for general teaching performance that is judged by competent authorities to be below a minimally acceptable level for the College. The chairs of departments, and the VPAA/DoF bear direct responsibility to take steps to correct seriously defective teaching. If a chair has reason to believe that a faculty member's teaching performance is seriously defective, the faculty member must be directly approached on this matter and be given a written statement outlining the problems. This statement will be prepared by the chair after appropriate consultation with other members of the faculty, professionals outside the College, current students, and alumni. The chair also will consult with the VPAA/DoF in all such matters and a copy of all correspondence with the faculty member will be filed in the Office of the VPAA/DoF.

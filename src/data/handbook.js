@@ -1610,6 +1610,12 @@ export const nodes = [
             label: "Appendix B: AAUP Guidelines",
             className: "appendix-b-aaup-guidelines",
           },
+          {
+            value:
+              "iv-policies-for-the-institute/c-faculty-handbook/appendix-c-faculty-evaluation-calendar-by-semester",
+            label: "Appendix C: Faculty Evaluation Calendar by Semester",
+            className: "appendix-c-faculty-evaluation-calendar-by-semester",
+          },
         ],
       },
       {
