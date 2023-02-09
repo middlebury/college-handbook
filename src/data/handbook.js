@@ -1669,44 +1669,45 @@ export const nodes = [
     className: "v-policies-for-schools-abroad",
     children: [
       {
-        value: "v-policies-for-schools-abroad/genl-principles",
-        label: "A. General Principles",
-        className: "genl-principles",
+        value: "v-policies-for-schools-abroad/student-conduct-policies",
+        label: "A. Student Conduct Policies",
+        className: "student-conduct-policies",
         children: [
-          { value: "v-policies-for-schools-abroad/genl-principles/community-standards", label: "A.1. Community Standards", className: "community-standards"},
-          { value: "v-policies-for-schools-abroad/genl-principles/language-pledge", label: "A.2. Language Pledge", className: "language-pledge"},
-          { value: "v-policies-for-schools-abroad/genl-principles/academic-honesty", label: "A.3. Academic Honesty/Honor Code", className: "academic-honesty"},
-          { value: "v-policies-for-schools-abroad/genl-principles/policy-violations", label: "A.4. Policy Violations", className: "policy-violations"},
-        ]
-      },
-      {
-        value: "v-policies-for-schools-abroad/schools-abroad-experience-planning",
-        label: "B. Policies for Planning Your Schools Abroad Experience",
-        className: "schools-abroad-experience-planning",
-        children: [
-          { value: "v-policies-for-schools-abroad/schools-abroad-experience-planning/training-and-education", label: "B.1. Training and Education", className: "training-and-education"},
-          { value: "v-policies-for-schools-abroad/schools-abroad-experience-planning/program-testing", label: "B.2. Program Testing", className: "program-testing"},
-          { value: "v-policies-for-schools-abroad/schools-abroad-experience-planning/target-language", label: "B.3. Studying Another Language in the Target Language", className: "target-language"},
-          { value: "v-policies-for-schools-abroad/schools-abroad-experience-planning/cancellation-fees", label: "B.4. Cancellation Fees", className: "cancellation-fees"},
-          { value: "v-policies-for-schools-abroad/schools-abroad-experience-planning/cancellation-fee-schedule", label: "B.5. Cancellation Fee Schedule", className: "cancellation-fee-schedule"},
-          { value: "v-policies-for-schools-abroad/schools-abroad-experience-planning/refunds", label: "B.6. Refunds", className: "refunds"},
+          { value: "v-policies-for-schools-abroad/student-conduct-policies/policy-violations-and-disciplinary-process", label: "A.3. Policy Violations and Disciplinary Process", className: "policy-violations-and-disciplinary-process"},
         ]
       },
       {
         value: "v-policies-for-schools-abroad/academic-policies",
-        label: "C. Academic Policies",
+        label: "B. Academic Policies",
         className: "academic-policies",
         children: [
-          { value: "v-policies-for-schools-abroad/academic-policies/academic-program", label: "C.1. Academic Program", className: "academic-program"},
-          { value: "v-policies-for-schools-abroad/academic-policies/grades-transcripts-transfer-credit", label: "C.2. Grades, Transcripts, and Transfer of Credit", className: "grades-transcripts-transfer-credit"},
-          { value: "v-policies-for-schools-abroad/academic-policies/withdrawals", label: "C.3. Withdrawals", className: "withdrawals"},
-          { value: "v-policies-for-schools-abroad/academic-policies/auditing", label: "C.4. Auditing", className: "auditing"},
-          { value: "v-policies-for-schools-abroad/academic-policies/class-attendance", label: "C.5. Class Attendance", className: "class-attendance"},
-          { value: "v-policies-for-schools-abroad/academic-policies/course-work", label: "C.6. Course Work", className: "course-work"},
-          { value: "v-policies-for-schools-abroad/academic-policies/exams", label: "C.7. Exams", className: "exams"},
-          { value: "v-policies-for-schools-abroad/academic-policies/graduate-level-coursework", label: "C.8. Graduate-Level Coursework", className: "graduate-level-coursework"},
-          { value: "v-policies-for-schools-abroad/academic-policies/internships", label: "C.9. Internships", className: "internships"},
-          { value: "v-policies-for-schools-abroad/academic-policies/change-of-status", label: "C.10 Change of Status", className: "change-of-status"}
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-1-academic-honesty", label: "B.1. Academic Honesty/Honor Code", className: "schools-abroad-b-1-academic-honesty"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-2-language-pledge", label: "B.2. Language Pledge", className: "schools-abroad-b-2-language-pledge"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-3-academic-program", label: "B.3. Academic Program", className: "schools-abroad-b-3-academic-program"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-4-master-of-arts-degree-candidacy", label: "B.4. Master of Arts Degree Candidacy (graduate students only)", className: "schools-abroad-b-4-master-of-arts-degree-candidacy"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-5-credit-validity", label: "B.5. Credit Validity (graduate students only)", className: "schools-abroad-b-5-credit-validity"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-6-grades-transcripts-transfer-credit", label: "B.6. Grades, Transcripts, and Transfer of Credit", className: "schools-abroad-b-6-grades-transcripts-transfer-credit"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-7-add-drop", label: "B.7. Add/Drop", className: "schools-abroad-b-7-add-drop"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-8-change-of-status", label: "B.8. Change of Status (Middlebury undergraduates only)", className: "schools-abroad-b-8-change-of-status"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-9-withdrawals", label: "B.9. Withdrawals", className: "schools-abroad-b-9-withdrawals"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-10-auditing", label: "B.10. Auditing", className: "schools-abroad-b-10-auditing"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-11-class-attendance", label: "B.11. Class Attendance", className: "schools-abroad-b-11-class-attendance"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-12-exams", label: "B.12. Exams", className: "schools-abroad-b-12-exams"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-13-internships", label: "B.13. Internships", className: "schools-abroad-b-13-internships"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-14-physical-education-courses", label: "B.14. Physical Education Courses", className: "schools-abroad-b-14-physical-education-courses"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-15-graduate-level-coursework", label: "B.15. Graduate-Level Coursework (Undergraduates only)", className: "schools-abroad-b-15-graduate-level-coursework"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-16-general-policies", label: "B.16. General Policies", className: "schools-abroad-b-16-general-policies"}
+        ]
+      },
+      {
+        value: "v-policies-for-schools-abroad/financial-policies",
+        label: "C. Financial Policies",
+        className: "financial-policies",
+        children: [
+          {value: "v-policies-for-schools-abroad/financial-policies/fees", label: "C.1. Fees", className: "fees"},
+          {value: "v-policies-for-schools-abroad/financial-policies/cancellation-fees", label: "C.2. Cancellation Fees", className: "cancellation-fees"},
+          {value: "v-policies-for-schools-abroad/financial-policies/cancellation-fee-schedule", label: "C.3. Cancellation Fee Schedule", className: "cancellation-fee-schedule"},
+          {value: "v-policies-for-schools-abroad/financial-policies/withdrawal-refund-schedule", label: "C.4. Withdrawal Refund Schedule", className: "withdrawal-refund-schedule"}
         ]
       },
       {

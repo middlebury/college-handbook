@@ -1,7 +1,7 @@
 ---
-slug: /pages/v-policies-for-schools-abroad/schools-abroad-experience-planning/cancellation-fee-schedule
-title: B.5. Cancellation Fee Schedule
-date: 2021-12-17
+slug: /pages/v-policies-for-schools-abroad/financial-policies/cancellation-fee-schedule
+title: C.3. Cancellation Fee Schedule
+date: 2023-02-09
 ---
 **All students**: Cancellation Before Committing to the Program: 
 

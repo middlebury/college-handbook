@@ -15,7 +15,7 @@ Consistent with the cultivation of an awareness of responsibility and accountabi
 
 ## Please select from the following content:
 
-*   [A. Student Conduct Policies](/pages/v-policies-for-schools-abroad/genl-principles)
-*   [B. Academic Policies](/pages/v-policies-for-schools-abroad/schools-abroad-experience-planning)
-*   [C. Financial Policies](/pages/v-policies-for-schools-abroad/academic-policies)
-*   [D. Other Program Policies](/pages/v-policies-for-schools-abroad/other-program-policies/other-program-policies)
+*   [A. Student Conduct Policies](/pages/v-policies-for-schools-abroad/student-conduct-policies)
+*   [B. Academic Policies](/pages/v-policies-for-schools-abroad/academic-policies)
+*   [C. Financial Policies](/pages/v-policies-for-schools-abroad/financial-policies)
+*   [D. Other Program Policies](/pages/v-policies-for-schools-abroad/other-program-policies/)
