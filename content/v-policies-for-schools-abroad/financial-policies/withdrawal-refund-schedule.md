@@ -3,10 +3,11 @@ slug: /pages/v-policies-for-schools-abroad/financial-policies/withdrawal-refund-
 title: C.4. Withdrawal Refund Schedule
 date: 2023-02-09
 ---
+Students who withdraw after the start of the program may receive refunds according to the table below, less any non-recoverable expenses (housing, etc.), provided that written notification of withdrawal is received by Middlebury within the indicated time frame. Students who are dismissed from the program are not eligible for a refund.
 
-Students who withdraw after the start of the program may receive refunds according to the table below, less any non-recoverable expenses (housing, etc.), provid¬ed that written notification of withdrawal is received by Middlebury within the indicated time frame.  Students who are dismissed from the program are not eligible for a refund.
+<table><tbody><tr><td>On or before the first day of orientation</td><td>100% of program fee refunded*</td></tr><tr><td>On or before the end of the second week of the program</td><td>75% of program fee refunded*</td></tr><tr><td>On or before the end of the fourth week of the program</td><td>50% of program fee refunded*</td></tr><tr><td>On or before the end of the eighth week of the program</td><td>25% of program fee refunded*</td></tr><tr><td>On or after the start of the ninth week of the program</td><td>0% of program fee refunded*</td></tr></tbody></table>
 
-*Middlebury students also forfeit the study abroad administrative fee
+\*Middlebury students also forfeit the study abroad administrative fee
 
 Students who are eligible for a refund will have the College charges and their financial aid (for Middlebury students) pro-rated based on the amount of time they were enrolled according to both Middlebury and federal formulas.
 
