@@ -1,6 +1,6 @@
 ---
 slug: /pages/v-policies-for-schools-abroad/financial-policies/withdrawal-refund-schedule
-title: C.4. Withdrawal Refund Schedule
+title: C.3. Withdrawal Refund Schedule
 date: 2023-02-09
 ---
 Students who withdraw after the start of the program may receive refunds according to the table below, less any non-recoverable expenses (housing, etc.), provided that written notification of withdrawal is received by Middlebury within the indicated time frame. Students who are dismissed from the program are not eligible for a refund.
