@@ -1,6 +1,6 @@
 ---
-slug: /pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-14-physical-education-courses
-title: B.14. Physical Education Courses
+slug: /pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-16-physical-education-courses
+title: B.16. Physical Education Courses
 date: 2023-02-09
 ---
 

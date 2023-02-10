@@ -1,6 +1,6 @@
 ---
-slug: /pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-16-general-policies
-title: B.16. General Policies
+slug: /pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-18-general-policies
+title: B.18. General Policies
 date: 2023-02-09
 ---
 

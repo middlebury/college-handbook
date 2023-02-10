@@ -1694,9 +1694,11 @@ export const nodes = [
           {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-11-class-attendance", label: "B.11. Class Attendance", className: "schools-abroad-b-11-class-attendance"},
           {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-12-exams", label: "B.12. Exams", className: "schools-abroad-b-12-exams"},
           {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-13-internships", label: "B.13. Internships", className: "schools-abroad-b-13-internships"},
-          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-14-physical-education-courses", label: "B.14. Physical Education Courses", className: "schools-abroad-b-14-physical-education-courses"},
-          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-15-graduate-level-coursework", label: "B.15. Graduate-Level Coursework (Undergraduates only)", className: "schools-abroad-b-15-graduate-level-coursework"},
-          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-16-general-policies", label: "B.16. General Policies", className: "schools-abroad-b-16-general-policies"}
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-14-arts-classes", label: "B.14. Arts Classes (Studio Art, Dance, Music)", className: "schools-abroad-b-14-arts-classes"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-15-independent-projects", label: "B.15 Independent Projects & Studies", className: "schools-abroad-b-15-independent-projects"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-16-physical-education-courses", label: "B.16. Physical Education Courses", className: "schools-abroad-b-16-physical-education-courses"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-17-graduate-level-coursework", label: "B.17. Graduate-Level Coursework (Undergraduates only)", className: "schools-abroad-b-17-graduate-level-coursework"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-18-general-policies", label: "B.18. General Policies", className: "schools-abroad-b-18-general-policies"}
         ]
       },
       {
@@ -1705,9 +1707,8 @@ export const nodes = [
         className: "financial-policies",
         children: [
           {value: "v-policies-for-schools-abroad/financial-policies/fees", label: "C.1. Fees", className: "fees"},
-          {value: "v-policies-for-schools-abroad/financial-policies/cancellation-fees", label: "C.2. Cancellation Fees", className: "cancellation-fees"},
-          {value: "v-policies-for-schools-abroad/financial-policies/cancellation-fee-schedule", label: "C.3. Cancellation Fee Schedule", className: "cancellation-fee-schedule"},
-          {value: "v-policies-for-schools-abroad/financial-policies/withdrawal-refund-schedule", label: "C.4. Withdrawal Refund Schedule", className: "withdrawal-refund-schedule"}
+          {value: "v-policies-for-schools-abroad/financial-policies/cancellation-fees-schedule", label: "C.2. Cancellation Fees and Schedule", className: "cancellation-fees-schedule"},
+          {value: "v-policies-for-schools-abroad/financial-policies/withdrawal-refund-schedule", label: "C.3. Withdrawal Refund Schedule", className: "withdrawal-refund-schedule"}
         ]
       },
       {
@@ -1715,7 +1716,7 @@ export const nodes = [
         label: "D. Other Program Policies",
         className: "other-program-policies",
         children: [
-          {value: "v-policies-for-schools-abroad/other-program-policies/student-records", label: "D.1. Student Records ", className: "student-records"},
+          {value: "v-policies-for-schools-abroad/other-program-policies/student-records", label: "D.1. Student Records", className: "student-records"},
           {value: "v-policies-for-schools-abroad/other-program-policies/email-policy", label: "D.2. Email Policy", className: "email-policy"},
           {value: "v-policies-for-schools-abroad/other-program-policies/media-use-policy", label: "D.3. Media Use Policy", className: "media-use-policy"},
           {value: "v-policies-for-schools-abroad/other-program-policies/bed-bug-policy", label: "D.4. Bed Bug Policy ", className: "bed-bug-policy"},
