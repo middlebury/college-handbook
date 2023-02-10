@@ -71,7 +71,7 @@ const Footer = () => {
                 </a>
               </li>
               <li className="midd-footer__item">
-                <a href="https://staging--college-handbook.netlify.app/admin" className="midd-footer__link" rel="nofollow">
+                <a href="https://college-handbook.netlify.app/admin" className="midd-footer__link" rel="nofollow">
                   Site-Editor Login
                 </a>
               </li>
