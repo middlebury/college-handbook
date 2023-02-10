@@ -1695,7 +1695,7 @@ export const nodes = [
           {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-12-exams", label: "B.12. Exams", className: "schools-abroad-b-12-exams"},
           {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-13-internships", label: "B.13. Internships", className: "schools-abroad-b-13-internships"},
           {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-14-arts-classes", label: "B.14. Arts Classes (Studio Art, Dance, Music)", className: "schools-abroad-b-14-arts-classes"},
-          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-15-independent-projects", label: "B.15 Independent Projects & Studies", className: "schools-abroad-b-15-independent-projects"},
+          {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-15-independent-projects", label: "B.15. Independent Projects & Studies", className: "schools-abroad-b-15-independent-projects"},
           {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-16-physical-education-courses", label: "B.16. Physical Education Courses", className: "schools-abroad-b-16-physical-education-courses"},
           {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-17-graduate-level-coursework", label: "B.17. Graduate-Level Coursework (Undergraduates only)", className: "schools-abroad-b-17-graduate-level-coursework"},
           {value: "v-policies-for-schools-abroad/academic-policies/schools-abroad-b-18-general-policies", label: "B.18. General Policies", className: "schools-abroad-b-18-general-policies"}
