@@ -99,7 +99,7 @@ const Page = (props) => {
         <em>
           <u>mutual respect</u>
         </em>
-        . We aspire to demonstrate intellectual range and emotional generosity
+         . We aspire to demonstrate intellectual range and emotional generosity
         by opening ourselves to different perspectives. As an institution,
         Middlebury is committed to creating an atmosphere in which all of its
         members live and work free from discrimination and harassment. Its

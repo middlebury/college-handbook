@@ -62,8 +62,15 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: "v-handbook-archive",
-        path: `${__dirname}/content/v-handbook-archive`,
+        name: "v-policies-for-schools-abroad",
+        path: `${__dirname}/content/v-policies-for-schools-abroad`,
+      },
+    },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "vi-handbook-archive",
+        path: `${__dirname}/content/vi-handbook-archive`,
       },
     },
     {

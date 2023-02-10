@@ -1,5 +1,5 @@
 ---
-slug: /pages/v-handbook-archive
+slug: /pages/vi-handbook-archive
 date: 2021-05-01
 title: Previous Handbooks
 ---
