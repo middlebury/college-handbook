@@ -7,7 +7,7 @@ date: 2022-02-17
 
 *   [B.1. Academic Honesty/Honor Code](/pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-1-academic-honesty)
 *   [B.2. Language Pledge](/pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-2-language-pledge)
-*   [B.3. Academic Program](/pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-3-academic-program) 
+*   [B.3. Academic Program](/pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-3-academic-program)
 *   [B.4. Master of Arts Degree Candidacy (graduate students only)](/pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-4-master-of-arts-degree-candidacy)
 *   [B.5. Credit Validity (graduate students only)](/pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-5-credit-validity)
 *   [B.6. Grades, Transcripts, and Transfer of Credit](/pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-6-grades-transcripts-transfer-credit)
@@ -19,5 +19,5 @@ date: 2022-02-17
 *   [B.12. Exams](/pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-12-exams)
 *   [B.13. Internships](/pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-13-internships)
 *   [B.14. Physical Education Courses](/pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-14-physical-education-courses)
-*   [B.15. Graduate-Level Coursework (Undergraduates only)](/pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-15-graduate-level-coursework)
+*   [B.15. Graduate-Level Coursework (undergraduates only)](/pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-15-graduate-level-coursework)
 *   [B.16. General Policies](/pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-16-general-policies)
