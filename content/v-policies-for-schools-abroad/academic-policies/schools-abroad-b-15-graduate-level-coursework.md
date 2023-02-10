@@ -1,6 +1,6 @@
 ---
 slug: /pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-15-graduate-level-coursework
-title: B.15. Graduate-Level Coursework (Undergraduates only)
+title: B.15. Graduate-Level Coursework (undergraduates only)
 date: 2022-02-17
 ---
 
