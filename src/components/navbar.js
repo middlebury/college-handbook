@@ -40,9 +40,9 @@ const Navbar = (props) => {
       className: "v-policies-for-schools-abroad",
     },
     {
-      value: "v-handbook-archive",
+      value: "vi-handbook-archive",
       label: "Previous Handbooks",
-      className: "v-handbook-archive",
+      className: "vi-handbook-archive",
     },
   ];
 
