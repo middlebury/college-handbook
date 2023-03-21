@@ -36,6 +36,6 @@ Exempt (salaried) employees are not paid on the basis of hours worked, and there
 
 ### Travel Expenses
 
-Employees are reimbursed for out-of-pocket travel expenses allowable under Middlebury College’s [Travel, Entertainment and Expense Policy and Procedures](static/assets/travel_expense_policy.pdf).
+Employees are reimbursed for out-of-pocket travel expenses allowable under Middlebury College’s [Travel, Entertainment and Expense Policy and Procedures](https://www.middlebury.edu/handbook/assets/travel_expense_policy.pdf).
 
 _Note:  This policy applies to employees whose travel is incidental to their work (that is, employees who are traveling somewhere to do their work); it is not intended to apply to those employees whose work is the travel itself.  For example, this policy does not apply to employees who are engaged to drive vans transporting students or other employees or to employees  engaged to transport materials between campus locations; all such driving time is regular work time, not travel time._
