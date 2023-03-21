@@ -5,4 +5,4 @@ date: 2021-05-01
 ---
 [**Degree Guidelines & Requirements**](static/assets/dml-student-guidelines-new.pdf)
 
-[**Degree Requirements Chart with Sample Course of Study**](https://www.middlebury.edu/system/files/media/New%20DML%20requirements%20chart_1.pdf)
+[**Degree Requirements Chart with Sample Course of Study**](static/assets/new-dml-requirements-chart.pdf)
