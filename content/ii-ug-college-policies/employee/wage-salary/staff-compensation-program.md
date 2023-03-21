@@ -12,4 +12,4 @@ As described in the Administrative Guidelines, the College's program relies on t
 *   [Career Band Definitions](static/assets/careerbanddefinitions.pdf)
 *   [Job Content Framework](static/assets/jobcontentframework.pdf)
 *   [Job Description Review Process](https://www.middlebury.edu/offices/business/hr/comp/review)
-*   [Ranges](https://www.middlebury.edu/system/files/media/Middlebury%20Staff%20Pay%20Ranges%20.pdf)
+*   [Ranges](static/assets/middlebury-staff-pay-ranges-.pdf)
