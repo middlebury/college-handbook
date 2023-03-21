@@ -35,7 +35,7 @@ The Institute TAM is co-chaired by the Associate Dean of Student Services and th
 
 Middlebury’s General Counsel serves as an adviser to both TAMs, and is expected to attend regular as well as _ad hoc_ meetings.
 
-Members of the TAM are identified by name and position here and in other Middlebury publications, as appropriate. Other Middlebury personnel and outside resources with relevant areas of specialization and responsibility may be called upon to assist the TAM, including but not limited to Commons deans, supervisors, law enforcement agencies, medical personnel, or other outside experts.  Both TAM teams follow these [Guidelines](static/assets/guidelines_tam_activities.pdf). The Office of the President will be kept apprised of the Team’s work as appropriate.
+Members of the TAM are identified by name and position here and in other Middlebury publications, as appropriate. Other Middlebury personnel and outside resources with relevant areas of specialization and responsibility may be called upon to assist the TAM, including but not limited to Commons deans, supervisors, law enforcement agencies, medical personnel, or other outside experts.  Both TAM teams follow these [Guidelines](https://www.middlebury.edu/handbook/assets/guidelines_tam_activities.pdf). The Office of the President will be kept apprised of the Team’s work as appropriate.
 
 #### **III. Reporting Potential Threats**
 
