@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/employee/wage-salary/travel-time
-date: 2021-05-01
 title: 6.6 Travel Time
+date: 2021-05-01
 ---
 ### Definition
 
@@ -13,7 +13,8 @@ Occasionally non-exempt (hourly) College employees are required to travel within
 
 Travel time will be paid at the employee’s regular hourly rate, or overtime rate when the total number of hours worked is in excess of 40 in a pay week (Monday through Sunday), in accordance with Middlebury College's normal overtime policy.
 
-### Same Day Travel  
+### Same Day Travel
+
 **From/To The Normal Workplace**:  For non-exempt employees who report to the normal work site prior to traveling, all time spent traveling between work locations during a single workday is considered work time and as such will be paid time.
 
 **From/To Home**: When an employee departs directly from his/her home for work-related travel (that is, begins travel without first going to the normal work location), and when an employee returns directly home from work-related travel (without first reporting to the work location) normal commuting time should be deducted from the travel time.
@@ -35,6 +36,6 @@ Exempt (salaried) employees are not paid on the basis of hours worked, and there
 
 ### Travel Expenses
 
-Employees are reimbursed for out-of-pocket travel expenses allowable under Middlebury College’s [Travel, Entertainment and Expense Policy and Procedures](https://www.middlebury.edu/system/files/media/Travel%2C%20Entertainment%2C%20and%20Expense%20Policy%20and%20Procedures_1.pdf).
+Employees are reimbursed for out-of-pocket travel expenses allowable under Middlebury College’s [Travel, Entertainment and Expense Policy and Procedures](static/assets/travel_expense_policy.pdf).
 
 _Note:  This policy applies to employees whose travel is incidental to their work (that is, employees who are traveling somewhere to do their work); it is not intended to apply to those employees whose work is the travel itself.  For example, this policy does not apply to employees who are engaged to drive vans transporting students or other employees or to employees  engaged to transport materials between campus locations; all such driving time is regular work time, not travel time._
