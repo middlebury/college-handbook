@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/employee/processes-development/staff-dev-funds
-date: 2021-05-01
 title: Staff Development Fund
+date: 2021-05-01
 ---
 The College encourages the development of employee job skills. An employee may submit applications to the staff development fund for support of activities that will enhance job performance.
 
@@ -22,4 +22,4 @@ In reviewing/approving applications for staff development funds, priority is giv
 
 ### Application Form
 
-[Click here to access application form.](https://www.middlebury.edu/media/view/180621/original/Staff_Dev._Fund_App.pdf)
+[Click here to access application form.](static/assets/staff_dev_fund_app.pdf)
