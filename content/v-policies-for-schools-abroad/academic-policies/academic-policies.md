@@ -23,3 +23,4 @@ date: 2022-02-17
 *   [B.16. Physical Education Courses](/pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-16-physical-education-courses)
 *   [B.17. Graduate-Level Coursework (Undergraduates only)](/pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-17-graduate-level-coursework)
 *   [B.18. General Policies](/pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-18-general-policies)
+*   B.19. Course Modality
