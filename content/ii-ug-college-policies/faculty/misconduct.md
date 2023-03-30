@@ -143,4 +143,4 @@ If the Promotions Committee and provost agree on a recommended outcome, then the
 
 **Appealing the Sanction**
 
-The complainant and respondent each have the right to challenge the sanction as described in the appeals procedures in the Non-Discrimination Policy, as appropriate.
+The complainant and respondent each have the right to challenge the sanction as described in the appeals procedures in the [Non-Discrimination Policy](https://www.middlebury.edu/handbook/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy/), as appropriate.
