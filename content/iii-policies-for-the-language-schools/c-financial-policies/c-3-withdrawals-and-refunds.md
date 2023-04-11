@@ -11,45 +11,48 @@ Students who complete check in with the Language Schools, but who decide to leav
 
 Students who have utilized Federal Student Aid eligibility (loans and/or grants) will be subject to the Return of Title IV regulations set forth by the US Department of Education.
 
-2022 Withdrawal Deadlines  
+2023 Withdrawal Deadlines  
 Program, Session, Refund Deadline\*
 
-Abenaki 2-week program – July 6
+Abenaki 2-week program – July 5
 
-Arabic 8-week program – July 1  
-Arabic 6-week program - July 15
+Arabic 8-week program – June 30  
+Arabic 6-week program - July 14
 
-Chinese 8-week program – July 1  
-Chinese 6-week program – July 13
+Chinese 8-week program – June 30  
+Chinese 6-week program – July 12
 
-French 6-week program in Paris – June 17  
-French 7-week program – July 8  
-French 6-week program in Vermont – July 13
+English 7-week program – July 7  
+English 6-week program – TBD  
+  
+French 6-week program in Paris – June 19  
+French 7-week program – July 7  
+French 6-week program in Vermont – July 12
 
-German 7-week program – July 8  
-German 6-week program – July 13
+German 7-week program – July 7  
+German 6-week program – July 12
 
-Hebrew 7-week program – July 8  
-Hebrew 6-week program – July 8  
-Hebrew 3-week – end of 3rd day of classes of session
+Hebrew 7-week program – July 7  
+Hebrew 6-week program – July 7  
+Hebrew 3 & 4-week – end of 3rd day of classes of session  
+  
+Italian 7-week program – July 7  
+Italian 6-week program - July 14
 
-Italian 7-week program – July 8  
-Italian 6-week program - July 15
+Japanese 8-week program – June 30  
+Japanese 6-week program – July 12
 
-Japanese 8-week program – July 1  
-Japanese 6-week program – July 13
+Korean 8-week program – June 30  
+Korean 6-week program – July 12
 
-Korean 8-week program – July 1  
-Korean 6-week program – July 13
+Portuguese 7-week program – July 7
 
-Portuguese 7-week program – July 1
+Russian 8-week program – June 30  
+Russian 6-week program – July 12
 
-Russian 8-week program – July 1  
-Russian 6-week program – July 13
-
-Spanish 6-week program in Buenos Aires – July 6  
-Spanish 7-week program – July 8  
-Spanish 6-week program in Vermont – July 13
+Spanish 6-week program in Buenos Aires – July 3  
+Spanish 7-week program – July 7  
+Spanish 6-week program in Vermont – July 12
 
 \*Refund deadlines expire at 5:00 pm on date noted
 
