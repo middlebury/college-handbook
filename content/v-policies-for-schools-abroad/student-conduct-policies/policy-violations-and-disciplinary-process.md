@@ -55,3 +55,15 @@ The decision made by the provost to grant or deny the appeal is final. Should an
 Because Middlebury is committed to cultivating a safe, healthy and inclusive community where all individuals treat each other with respect, we ask all students to complete an on-line training course as part of the pre-departure process.
 
 Middlebury's primary concern is for the health and safety of its students; therefore, the [Medical Amnesty Policy](https://www.middlebury.edu/handbook/pages/i-policies-for-all/health-safety/alcohol-drugs/#medical-amnesty-policy) exempts students who seek medical help for themselves or others from disciplinary action.
+
+_Student grievance policy (**Oxford program only**)_
+
+Student grievances should, in the first instance, be brought to the attention of the Principal.
+
+At every stage in the process, the Principal – or, if appropriate, another member of staff – will ensure that the complainant understands the student grievance policy.
+
+It may be that the Principal is able to resolve the matter informally by consultation with any students, tutors and staff involved. If a student is not satisfied with an informal resolution, then he/she can bring the matter to the Principal in writing. The Principal will investigate the matter, seeking guidance from others as appropriate. The Principal will then communicate the decision swiftly to the complainant. If a student is not satisfied with the decision of the Principal, then he/she can appeal to the Dean of International Programs at Middlebury College. The Dean’s decision is final.
+
+Should there be any merit in a complaint, then prompt and proportionate action will be taken to rectify the situation.
+
+If students are not satisfied with the outcome to this procedure, then – in matters directly relevant to the standards for accreditation – it is open to them to pursue the Complaints Procedure of the British Accreditation Council (BAC). Concerns about academic standards and quality may also be raised with the Quality Assurance Agency (QAA), which has educational oversight over the M-CMRS program.
