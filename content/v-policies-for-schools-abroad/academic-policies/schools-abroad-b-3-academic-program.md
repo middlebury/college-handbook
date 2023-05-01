@@ -28,3 +28,17 @@ Graduate students must enroll in at least 3 units of credit each term (summer, f
 _e) Course Modality_
 
 The expectation is that students will take all courses in person, unless there is an emergency that warrants a pivot to online/remote course.
+
+_f) Courses Not in the Target Language_
+
+Students may elect to take one (and only one) of their courses in English or in another foreign language, per semester, when certain conditions are met. Students from colleges/universities other than Middlebury should consult their home institutions to confirm they will be allowed to earn credit if taking a course that is not taught in the target language.
+
+1\. Studying Another Language in the Target Language
+
+Students are not permitted to start a new language while enrolled at a School Abroad. When academically justified (e.g. when the other language is part of the student’s undergraduate major/minor), and when clearly related to a student's academic plans and interests (e.g. when the student is studying abroad in that other foreign language the following semester), or if the language is relevant to the local cultural/historical context (e.g. local or indigenous languages–not merely beginning another Asian, Germanic, or Romance language, etc.), a single course in another language may be taken for credit per semester. In the case of continuing previous foreign language study, students should be prepared to be evaluated upon their return to their home institution to determine if they are eligible to advance to the next level. In cases with no academic rationale, credit will not be granted. In these cases, students may make private arrangements to continue the language at their own expense.
+
+2\. Major-related Courses in English (undergraduates only)
+
+If students need a course for their major, and it is taught only in English, they may enroll in one course in English per semester abroad. If courses needed for a student's major are only offered in English, the student may enroll in one course taught in English per semester abroad. Students may not enroll in courses in English to fulfill minor or distribution requirements abroad.
+
+Any language taught at our Schools Abroad that are not taught at Middlebury (e.g. indigenous languages) carry the course designation “IGST”.
