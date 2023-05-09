@@ -1,6 +1,6 @@
 import React from "react";
 import MiddLogo from "../images/midd-shield.svg";
-import { withPrefix } from "gatsby";
+// import { withPrefix } from "gatsby";
 
 const Header = () => {
   return (
@@ -9,7 +9,7 @@ const Header = () => {
         <div className="app-header__logo">
           <a href="/handbook">
             <img
-              src={withPrefix(MiddLogo)}
+              src={MiddLogo}
               sizes="(min-width: 1024px) 67px, 44px"
               alt="Middlebury Shield"
             />
