@@ -27,7 +27,7 @@ jobs:
       - name: Use Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '14'
+          node-version: '18'
           
       - name: Cache Node.js modules
         uses: actions/cache@v3
@@ -39,7 +39,7 @@ jobs:
             ${{ runner.OS }}-
             
       - name: Install dependencies
-        run: npm ci
+        run: npm ci --legacy-peer-deps
         
       - name: build
         run: npm run build

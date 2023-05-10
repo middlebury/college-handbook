@@ -9,8 +9,9 @@
   command = "sed -i \"s/branch: master/branch: ${CMS_BRANCH}/g\" static/admin/config.yml && npm run build"
 
 [build.environment]
-  NODE_VERSION = "14.19.3"
-  NPM_VERSION = "6.14.17"
+  NODE_VERSION = "18.16.0"
+  NPM_VERSION = "9.5.1"
+  NPM_FLAGS = "--legacy-peer-deps"
 
 [[redirects]]
   from = "/handbook/*"
