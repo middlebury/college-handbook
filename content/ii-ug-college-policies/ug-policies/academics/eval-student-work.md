@@ -31,7 +31,7 @@ Early in the semester, preferably on the syllabus, instructors should inform the
 
 **i.** _**A regularly scheduled written examination.**_ The time and place are established by the course scheduler.
 
-**ii.** _**A self-scheduled examination.**_ Self-scheduled examinations are taken at a designated examination center according to the following schedule: 9-12 a.m.; 2-5 p.m.; and 7-10 p.m., during the examination period. Students pick examinations up at the designated examination center within 15 minutes of each starting time and take the exam to a designated examination room. Students must return examination papers to the examination center by the conclusion of the examination hours or sooner, according to the time allotted for the examination. Exams are date-stamped at that time.
+**ii.** _**A self-scheduled examination.**_ Self-scheduled examinations are taken during the examination period at a designated examination center according to a schedule proposed by the Office of the Registrar and approved by the Curriculum Committee. Students pick examinations up at the designated examination center within 15 minutes of each starting time and take the exam to a designated examination room. Students must return examination papers to the examination center by the conclusion of the examination hours or sooner, according to the time allotted for the examination. Exams are date-stamped at that time.
 
 **iii.** _**A take-home examination.**_ Take-home examinations may be taken at the student's convenience during the final examination period and will be returned to the instructor according to procedures established before the last day of classes.
 
