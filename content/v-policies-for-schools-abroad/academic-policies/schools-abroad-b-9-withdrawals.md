@@ -7,7 +7,11 @@ This withdrawal policy applies to any student who decides not to participate in 
 
 Students who withdraw after the on-site registration period will receive grades of “WD”; refunds apply as per the Withdrawal Refund Schedule outlined in [Section C.4](/pages/v-policies-for-schools-abroad/financial-policies/withdrawal-refund-schedule). A grade of “WDF” as indicated on the back of the Middlebury College transcript applies only to Language Schools and not to Schools Abroad. Students who are dismissed or who withdraw after the on-site registration period and before the last week of classes will receive a grade of “WD” in all of their courses.
 
-Students who are dismissed or who voluntarily withdraw during the last week of classes (five class days prior to the start of exams) or after will receive a grade of “F” in all of their courses.
+Students who are dismissed or who voluntarily withdraw during the last week of classes (i.e., beginning at 12:00am local time on the fifth class day prior to the start of exams) or after will receive a grade of “F” in all of their courses.
+
+Middlebury undergraduate students who withdraw from a School Abroad after the start of a semester are not normally eligible for readmission to Middlebury the following term. 
+
+In some cases, the Vice President for Student Affairs or their designee may impose specific requirements for readmission if the circumstances of the student’s departure warrant it. The goal of such conditions is to prepare the student for a successful return to Middlebury.
 
 In exceptional circumstances, and when indicated by a medical or health care professional, students may request permission to withdraw from one (and only one) course, rather than withdraw entirely from the program. If permission to withdraw from a specific course is granted by the Director/Principal of the School Abroad, the student would stop all work related to that course and receive a “WD” on their transcript for that course.
 
@@ -24,4 +28,6 @@ Middlebury reserves the right to notify all institutions or programs in which th
 
 _**c) Readmission**_
 
-A student who would like to seek readmission to a School Abroad after withdrawal should refer to the Middlebury Handbook section on [Student Status](https://www.middlebury.edu/handbook/pages/ii-ug-college-policies/ug-policies/academics/student-status/).
+A student who would like to seek readmission to a School Abroad after withdrawal must reapply.
+
+MA candidates who wish to seek readmission after a withdrawal from a School Abroad should refer to the Schools Abroad Handbook section on [Master of Arts Degree Candidacy](https://www.middlebury.edu/handbook/pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-4-master-of-arts-degree-candidacy/).
