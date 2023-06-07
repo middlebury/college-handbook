@@ -98,9 +98,9 @@ c. Selling, manufacturing, or distributing tobacco, tobacco substitutes, or toba
 
 d. Possession, production, or provision of false ID.
 
-i. Administering tobacco, tobacco substitutes, or tobacco paraphernalia to individuals against their will and/or without their knowledge.
+e. Administering tobacco, tobacco substitutes, or tobacco paraphernalia to individuals against their will and/or without their knowledge.
 
-j. Unsafe consumption and/or impairment.
+f. Unsafe consumption and/or impairment.
 
 See also Middlebury's "[No Smoking Policy](/pages/i-policies-for-all/health-safety/no-smoking)"
 
