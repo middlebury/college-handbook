@@ -175,12 +175,12 @@ In addition, APSIC:
 
 APSIC reports its recommendations to the VPAAand the Senate for action and approval. In the case of curricular and programmatic proposals requiring further deliberation, APSIC consults further with the proposers before forwarding revised recommendations to the VPAA and Senate.
 
-**C.4.i. Salary and Benefits Committee (_ad hoc_)**
+**C.4.i. Salary and Benefits Committee (**_**ad hoc**_**)**
 
 Whenever constituted by the Faculty Senate, the primary role of this committee is to review and examine the structure of faculty benefits and salaries and make recommendations to the VPAA. The Committee shall work closely with the Human Resources staff at MIIS, and the benefits and compensation manager in the Human Resources department at Middlebury in the discharge of its responsibilities. Specific tasks and responsibilities are assigned at the time of constitution.
 
 ---
 
-* Faculty members should not serve on the FEC while their own contract renewal, promotion, or sabbatical is being evaluated by the FEC. However, if an insufficient number of faculty members are able to serve on FEC without such a conflict for a full three years, then as an exception, faculty members may, 1. when the issue precluding their service is contract renewal or promotion (during what would otherwise be the third year of their term), run for and serve on the FEC for a term of 2 consecutive years or 2. when the issue precluding their service is an application for sabbatical (to be submitted during the third year of their term), run for and serve a 3-year term, but recuse themselves from deliberations over their own sabbatical applications.
+*   Faculty members should not serve on the FEC while their own contract renewal, promotion, or sabbatical is being evaluated by the FEC. However, if an insufficient number of faculty members are able to serve on FEC without such a conflict for a full three years, then as an exception, faculty members may, 1. when the issue precluding their service is contract renewal or promotion (during what would otherwise be the third year of their term), run for and serve on the FEC for a term of 2 consecutive years or 2. when the issue precluding their service is an application for sabbatical (to be submitted during the third year of their term), run for and serve a 3-year term, but recuse themselves from deliberations over their own sabbatical applications.
 
 Approved by the Faculty Assembly, May 2018.
