@@ -99,7 +99,7 @@ Each school shall elect two representatives to the Faculty Senate in a school-wi
 
 Faculty in a school shall have the right to remove one or more of its representatives to the Faculty Senate and to elect another representative to serve the time remaining in the previous representative's term, using a process agreed to by the school’s regular faculty.
 
-The Faculty Senate shall schedule open Senate meetings at least once each semester and shall announce such open meetings in appropriate Institute publications\_.\_ Any member of the Faculty Assembly may attend an open meeting. The Faculty Senate may hold closed meetings, at which attendance shall be by invitation only. The Faculty Senate may take action in closed meetings. A quorum shall consist of a majority of the members of the Faculty Senate, participating in person or digitally.
+The Faculty Senate shall schedule open Senate meetings at least once each semester and shall announce such open meetings in appropriate Institute publications. Any member of the Faculty Assembly may attend an open meeting. The Faculty Senate may hold closed meetings, at which attendance shall be by invitation only. The Faculty Senate may take action in closed meetings. A quorum shall consist of a majority of the members of the Faculty Senate, participating in person or digitally.
 
 Chairpersons of standing committees serve as ex-officio members of the Faculty Senate. They shall attend Senate meetings when requested to do so. The president of the Senate shall consult with the chair of the Faculty Evaluation Committee as needed. Decisions made by the Academic Policy, Standards and Instruction Committee, other than those that involve specific cases of violation of academic standards, are reviewed by the Senate president, who in turn may, when necessary, consult the Faculty Senate and school faculty members as appropriate.
 
@@ -156,7 +156,7 @@ The Faculty Evaluation Committee shall review all faculty files of faculty appli
 
 The Faculty Evaluation Committee shall review a faculty Annual Review file only when requested to do so by the faculty member in question, or by the respective school dean, or by the VPAA (see page 28).
 
-The Faculty Evaluation Committee may also evaluate and recommend changes to the current systems and policies governing faculty contracts. It also may evaluate and recommend changes to the process of evaluating faculty performance, with particular attention to any inequities that may arise as a result of separate school policies\*.\* Any such recommended changes shall first be approved by the Faculty Senate before forwarding to the VPAA.
+The Faculty Evaluation Committee may also evaluate and recommend changes to the current systems and policies governing faculty contracts. It also may evaluate and recommend changes to the process of evaluating faculty performance, with particular attention to any inequities that may arise as a result of separate school policies. Any such recommended changes shall first be approved by the Faculty Senate before forwarding to the VPAA.
 
 The Faculty Evaluation Committee shall conduct its deliberations in closed meetings. All proceedings of this Committee will respect the privacy of all individuals involved in any evaluation.
 
@@ -175,12 +175,12 @@ In addition, APSIC:
 
 APSIC reports its recommendations to the VPAAand the Senate for action and approval. In the case of curricular and programmatic proposals requiring further deliberation, APSIC consults further with the proposers before forwarding revised recommendations to the VPAA and Senate.
 
-**C.4.i. Salary and Benefits Committee (\*\*\_**ad hoc**\_**)\*\*
+**C.4.i. Salary and Benefits Committee (_ad hoc_)**
 
 Whenever constituted by the Faculty Senate, the primary role of this committee is to review and examine the structure of faculty benefits and salaries and make recommendations to the VPAA. The Committee shall work closely with the Human Resources staff at MIIS, and the benefits and compensation manager in the Human Resources department at Middlebury in the discharge of its responsibilities. Specific tasks and responsibilities are assigned at the time of constitution.
 
 ---
 
-\* Faculty members should not serve on the FEC while their own contract renewal, promotion, or sabbatical is being evaluated by the FEC. However, if an insufficient number of faculty members are able to serve on FEC without such a conflict for a full three years, then as an exception, faculty members may, 1. when the issue precluding their service is contract renewal or promotion (during what would otherwise be the third year of their term), run for and serve on the FEC for a term of 2 consecutive years or 2. when the issue precluding their service is an application for sabbatical (to be submitted during the third year of their term), run for and serve a 3-year term, but recuse themselves from deliberations over their own sabbatical applications.
+* Faculty members should not serve on the FEC while their own contract renewal, promotion, or sabbatical is being evaluated by the FEC. However, if an insufficient number of faculty members are able to serve on FEC without such a conflict for a full three years, then as an exception, faculty members may, 1. when the issue precluding their service is contract renewal or promotion (during what would otherwise be the third year of their term), run for and serve on the FEC for a term of 2 consecutive years or 2. when the issue precluding their service is an application for sabbatical (to be submitted during the third year of their term), run for and serve a 3-year term, but recuse themselves from deliberations over their own sabbatical applications.
 
 Approved by the Faculty Assembly, May 2018.

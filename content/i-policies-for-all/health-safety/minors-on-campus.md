@@ -27,27 +27,27 @@ Minors who are on campus with one or both of their parents, legal guardians or o
 
 All program sponsors, authorized adults, or any other individual who supervises or interacts with minors on Middlebury property or in connection with Middlebury programs are expected to conduct themselves appropriately and maintain the highest standards of professionalism, ethics, and personal behavior. Prohibited conduct includes, but is not limited to, any of the following behaviors directed towards a minor and/or in the presence of a minor:
 
-\*Sexually abusing a minor or placing a minor at significant risk of sexual abuse
+*Sexually abusing a minor or placing a minor at significant risk of sexual abuse
 
-\*Harming a minor by physical injury, abuse, neglect, emotional maltreatment, or abandonment
+*Harming a minor by physical injury, abuse, neglect, emotional maltreatment, or abandonment
 
-\*Placing a minor at significant risk of physical or emotional harm
+*Placing a minor at significant risk of physical or emotional harm
 
-\*Sexually provocative games
+*Sexually provocative games
 
-\*Inappropriate touching, including but not limited to contact with the minor’s buttocks, groin, breasts, mouth, or genitals, or where the minor is required or encouraged to have inappropriate contact with the buttocks, groin, breasts, mouth or genitals of another
+*Inappropriate touching, including but not limited to contact with the minor’s buttocks, groin, breasts, mouth, or genitals, or where the minor is required or encouraged to have inappropriate contact with the buttocks, groin, breasts, mouth or genitals of another
 
-\*Harassment, sexual misconduct, domestic violence, dating violence, stalking or related retaliation as defined by Middlebury’s [Non-Discrimination Policy](https://www.middlebury.edu/handbook/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy/).
+*Harassment, sexual misconduct, domestic violence, dating violence, stalking or related retaliation as defined by Middlebury’s [Non-Discrimination Policy](https://www.middlebury.edu/handbook/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy/).
 
-\*Hazing as defined by Middlebury’s [Policy Against Hazing](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy).
+*Hazing as defined by Middlebury’s [Policy Against Hazing](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy).
 
-\*Other misconduct as defined by Middlebury’s [conduct policies](/).
+*Other misconduct as defined by Middlebury’s [conduct policies](/).
 
-\*Providing alcohol or other illegal substances to a minor
+*Providing alcohol or other illegal substances to a minor
 
-\*Threatening, intimidating, coercive or demeaning behavior
+*Threatening, intimidating, coercive or demeaning behavior
 
-\*Retaliation as defined in Section 10, below.
+*Retaliation as defined in Section 10, below.
 
 **4.  Authorization to Work with Minors**
 
@@ -55,33 +55,33 @@ Criminal background checks will be performed on all new full-time and part-time 
 
 In all cases, the following individuals must be criminal background checked and approved before they may work directly with any minor who participates in any Middlebury program or any program that occurs on Middlebury property:
 
-\*Any staff, faculty, student, volunteer or third party who works at any Middlebury-sponsored sports camp or clinic, or who works at any sports camp or clinic sponsored or conducted by another entity that takes place on Middlebury property
+*Any staff, faculty, student, volunteer or third party who works at any Middlebury-sponsored sports camp or clinic, or who works at any sports camp or clinic sponsored or conducted by another entity that takes place on Middlebury property
 
-\*Any staff, faculty, student, volunteer or third party who provides instruction to minors who are not enrolled in any Middlebury program (e.g., educational instruction, swim lessons, music lessons or skating lessons to local youth)
+*Any staff, faculty, student, volunteer or third party who provides instruction to minors who are not enrolled in any Middlebury program (e.g., educational instruction, swim lessons, music lessons or skating lessons to local youth)
 
-\*Public Safety Officers
+*Public Safety Officers
 
-\*Third parties who provide child care on Middlebury property
+*Third parties who provide child care on Middlebury property
 
-\*Employees who have regular access to student residence spaces (e.g., CRDs, custodial staff, bilingual assistants)
+*Employees who have regular access to student residence spaces (e.g., CRDs, custodial staff, bilingual assistants)
 
-\*Other categories of employees or third parties as deemed appropriate by Middlebury
+*Other categories of employees or third parties as deemed appropriate by Middlebury
 
 **Exception:** This section does not apply to current employees, students, volunteers or other third parties who:
 
-\*Provide medical care or counseling to minors who are enrolled in any Middlebury program.
+*Provide medical care or counseling to minors who are enrolled in any Middlebury program.
 
-\*Teach, supervise, counsel, or otherwise interact with minors who are enrolled in any Middlebury program.
+*Teach, supervise, counsel, or otherwise interact with minors who are enrolled in any Middlebury program.
 
-\*Interact with prospective student-athletes or other prospective students in connection with Middlebury’s recruiting and admissions programs
+*Interact with prospective student-athletes or other prospective students in connection with Middlebury’s recruiting and admissions programs
 
-\*Host their own guests on campus.
+*Host their own guests on campus.
 
-\*Participate in community service programs (unless the program sponsor requires a background check).
+*Participate in community service programs (unless the program sponsor requires a background check).
 
-\*Participate in internship programs (unless the program sponsor requires a background check)
+*Participate in internship programs (unless the program sponsor requires a background check)
 
-\*Are authorized by another school (e.g., local high school or middle school) to work with minors in connection with sports camps, clinics, practices, games or other activities that take place on Middlebury property.
+*Are authorized by another school (e.g., local high school or middle school) to work with minors in connection with sports camps, clinics, practices, games or other activities that take place on Middlebury property.
 
 **5.**  **Ratio of Authorized Adults to Minors Participating In College Programs**
 
@@ -247,8 +247,8 @@ Emergency: 911
 Holly Laird and Lars Engle  
 Office: 102 Anderson  
 505.995.4084  
-[Holly\_Laird@breadnet.middlebury.edu](mailto:Holly_Laird@breadnet.middlebury.edu)  
-[Lars\_Engle@breadnet.middlebury.edu](mailto:Lars_Engle@breadnet.middlebury.edu)
+[Holly_Laird@breadnet.middlebury.edu](mailto:Holly_Laird@breadnet.middlebury.edu)  
+[Lars_Engle@breadnet.middlebury.edu](mailto:Lars_Engle@breadnet.middlebury.edu)
 
 [St. Johns College Security Department](https://www.sjc.edu/santa-fe/office-safety-and-security/case-emergency/)  
 505.984.6000 or 505.984.6025 or 505.660.8177  
@@ -436,6 +436,6 @@ Washington D.C. law does not specifically address the confidentiality of the ide
 
 ---
 
-##### [\[1\]](#i-california) See [https://law.onecle.com/california/penal/11165.7.html](https://law.onecle.com/california/penal/11165.7.html) {#\_ftn1}
+##### [\[1\]](#i-california) See [https://law.onecle.com/california/penal/11165.7.html](https://law.onecle.com/california/penal/11165.7.html) {#_ftn1}
 
-##### [\[2\]](#ii-new-mexico) The statute reads that “every person” is required to report.  N.M.S.A. § 32A-4-3 (a).  Despite the statute’s plain language, the New Mexico Court of Appeals has held that that words “every person” only mean the professionals specifically identified in the statute (i.e. the professionals listed in the preceding bullet points).  _State v. Strauch_, 2014-NMCA-020, 317 P.3d 878, 881 (N.M. Ct.App. 2013). The New Mexico Supreme Court has decided to review this question. _State v. Strauch_, 321 P.3d 936 (N.M. Ct. App. 2014) (granting cert). Middlebury’s handling of related issues will comply with New Mexico law as applicable at the relevant time. {#\_ftn2}
+##### [\[2\]](#ii-new-mexico) The statute reads that “every person” is required to report.  N.M.S.A. § 32A-4-3 (a).  Despite the statute’s plain language, the New Mexico Court of Appeals has held that that words “every person” only mean the professionals specifically identified in the statute (i.e. the professionals listed in the preceding bullet points).  _State v. Strauch_, 2014-NMCA-020, 317 P.3d 878, 881 (N.M. Ct.App. 2013). The New Mexico Supreme Court has decided to review this question. _State v. Strauch_, 321 P.3d 936 (N.M. Ct. App. 2014) (granting cert). Middlebury’s handling of related issues will comply with New Mexico law as applicable at the relevant time. {#_ftn2}

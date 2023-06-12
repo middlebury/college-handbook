@@ -49,7 +49,7 @@ Middlebury College classifies faculty and staff members according to the chart b
 
 <table><tbody><tr><td><strong>Classification</strong></td><td><strong>FTE</strong></td><td><strong>Hours Per Year</strong></td><td><strong>Appointment Duration</strong></td><td><strong>Benefits Eligibility</strong></td></tr><tr><td><p><i><strong>Regular Employees:</strong></i></p><p>Full-Time</p></td><td>.8-1</td><td>1664+</td><td>on-going</td><td>Yes</td></tr><tr><td>Part-Time - Benefits Eligible</td><td>.48-.79</td><td>1000-1663</td><td>on-going</td><td>Yes</td></tr><tr><td>Time-Limited</td><td>.48+</td><td>1000+</td><td>9+ months (with end date)</td><td>Yes</td></tr><tr><td><p><i><strong>Casual** Employees:</strong></i></p><p>Part-Time - Not Benefits Eligible</p></td><td>&lt;.48</td><td>&lt;1000</td><td>on-going</td><td>No</td></tr><tr><td>On-Call</td><td>n/a</td><td>n/a</td><td>on-going</td><td>No</td></tr><tr><td>Temporary/Seasonal</td><td>n/a</td><td>n/a</td><td>&lt;9 months with end date</td><td>No</td></tr></tbody></table>
 
-\***\*1,000 Hour Rule**
+\*\***1,000 Hour Rule**
 
 Casual employees hired into positions such as those classified as: temporary, on-call, adjunct, seasonal, or other very part-time hour arrangements are, by definition, expected to work for a limited duration and/or for a low number of hours and as such are not budgeted to be benefits-eligible. To ensure compliance with various benefits laws and contracts such casual employees are **limited to a total – in ALL Middlebury jobs – of 999 work hours** in a rolling 12 month period.  At or before reaching 999 hours in a given period a casual employee must either be terminated from employment OR may be left “active” but not allowed to work until a new 12 month period begins.
 
