@@ -9,7 +9,7 @@
 Clone the repo and install node dependencies:
 
 ```shell
-npm install
+npm install --legacy-peer-deps
 ```
 
 Navigate into the site’s directory and start it up.
