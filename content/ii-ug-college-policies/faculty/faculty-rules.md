@@ -76,7 +76,7 @@ The Rules of Appointment and Tenure set forth the regulations and the procedures
 
 #### **b. Principles** {#principles}
 
-**i. _Teaching_.** Middlebury College expects to appoint to the faculty people of exceptional promise and achievement as teachers and as scholars or artists, who will help students to grow and to develop habits of lifelong learning, critical inquiry, and lucid communication.
+**i.** _**Teaching**_**.** Middlebury College expects to appoint to the faculty people of exceptional promise and achievement as teachers and as scholars or artists, who will help students to grow and to develop habits of lifelong learning, critical inquiry, and lucid communication.
 
 As a residential liberal arts college, Middlebury views teaching from a broad perspective that extends beyond the activities in classrooms, laboratories, studios, and recital halls. Advising students, providing guidance for independent projects, and the careful evaluation of student work are important components of a faculty member's responsibilities. Public lectures, presentations, or performances also contribute to teaching at Middlebury.
 
@@ -84,11 +84,11 @@ The **Course Syllabus** communicates the overall expectations that the faculty h
 
 The syllabus is subject to change as determined by the instructor with advance notice and due respect to fairness to the students as a whole. No additional major papers or projects may be announced after the end of the fifth week of the semester. No new assignments of work for evaluation may be made during the last week of classes.
 
-**ii. _Scholarship_.** Middlebury believes that a faculty actively engaged in scholarship enriches the intellectual climate of the College. The mastery of new knowledge or skills, including those outside of the faculty member's own discipline, is valued as a contribution to the intellectual life of the College; however, the quality of a faculty member's scholarship is evaluated primarily through his or her published, performed, or executed works. Scholarly achievement that is recognized as of significantly high quality by scholars or artists beyond Middlebury College is a prerequisite for promotion to tenure.
+**ii.** _**Scholarship**_**.** Middlebury believes that a faculty actively engaged in scholarship enriches the intellectual climate of the College. The mastery of new knowledge or skills, including those outside of the faculty member's own discipline, is valued as a contribution to the intellectual life of the College; however, the quality of a faculty member's scholarship is evaluated primarily through his or her published, performed, or executed works. Scholarly achievement that is recognized as of significantly high quality by scholars or artists beyond Middlebury College is a prerequisite for promotion to tenure.
 
-**iii. _Service_.** The Middlebury faculty has a vital role to play in sustaining the intellectual climate of the College outside the classroom, in governing the College, and in extending the impact of the College beyond the bounds of the campus. Beyond teaching and scholarship, the service roles played by individual faculty members include departmental, program, and committee responsibilities, activities with student organizations, participation in admissions or alumni activities, and other activities that benefit Middlebury College.
+**iii.** _**Service**_**.** The Middlebury faculty has a vital role to play in sustaining the intellectual climate of the College outside the classroom, in governing the College, and in extending the impact of the College beyond the bounds of the campus. Beyond teaching and scholarship, the service roles played by individual faculty members include departmental, program, and committee responsibilities, activities with student organizations, participation in admissions or alumni activities, and other activities that benefit Middlebury College.
 
-**iv. _Academic Freedom_.** Adapted from the 1940 "Statement of Principles on Academic Freedom and Tenure" of the American Association of University Professors:
+**iv.** _**Academic Freedom**_**.** Adapted from the 1940 "Statement of Principles on Academic Freedom and Tenure" of the American Association of University Professors:
 
 _(a) Purposes_. Institutions of higher education are conducted for the common good and not to further the interests of either the individual teacher or the institution as a whole. The common good depends upon the free search for truth and its free exposition.
 
@@ -104,9 +104,9 @@ College or university teachers are citizens, members of learned professions, and
 
 Consistent with AAUP’s 1940 “Statement of Principles on Academic Freedom and Tenure” and its subsequent amendments, all members of the Middlebury College faculty are entitled to full academic freedom described above regardless of race, color, ethnicity, sex, religion, national origin, age, disability, marital status, place of birth, veteran status, gender identity and expression, or sexual orientation.
 
-#### **c. Faculty Appointments** {#faculty_appts}
+#### **c. Faculty Appointments** {#faculty\_appts}
 
-**i. _Regular and Term Appointments_.** Both term and regular appointments may be offered at any faculty rank. Regular appointments are renewable and subject to the Review and Reappointment procedures described in subsections 1.e. and 1.f. below. Faculty on regular appointment normally pass through a probationary period whose length may vary with prior service elsewhere, during that time undergoing one or more reviews that will evaluate, both for the faculty member and for the College, the progress they have made in developing the qualities that may lead to appointment without limit of tenure.
+**i.** _**Regular and Term Appointments**_**.** Both term and regular appointments may be offered at any faculty rank. Regular appointments are renewable and subject to the Review and Reappointment procedures described in subsections 1.e. and 1.f. below. Faculty on regular appointment normally pass through a probationary period whose length may vary with prior service elsewhere, during that time undergoing one or more reviews that will evaluate, both for the faculty member and for the College, the progress they have made in developing the qualities that may lead to appointment without limit of tenure.
 
 Term appointments are either for specified terms only, or renewable, but faculty on term appointments are not eligible for tenure. Whether a faculty position is to be a regular or term appointment shall be determined by the provost, with the advice of the Educational Affairs Committee, prior to the filling of the position. Any change from a term to a regular appointment must be initiated by the appropriate department chair, recommended by the EAC, and approved by the provost. A faculty member who holds a regular Middlebury faculty appointment cannot be appointed after the first review to a full-time faculty position outside of rank. Faculty appointments are considered to be in rank when they use the following titles:
 
@@ -118,7 +118,7 @@ _(c) Associate Professor:_ Normal rank for first appointment with tenure, or wh
 
 _(d) Professor:_ The rank awarded to faculty who have passed the post-tenure review described in 1.f.iv. below, or whose initial appointment, based on accomplishment elsewhere, is at the rank of professor.
 
-**ii. _Special Appointments_.** Individuals with special appointments normally do not follow the schedule of reviews and promotions of regular faculty. Special appointments are assigned one of the faculty titles below. Special appointments may be within or outside of rank, do not carry tenure, and are not subject to the review and reappointment procedures described in subsection 1.e. However, faculty members on renewable special appointment are subject to periodic Contract Reviews by the Reappointments Committee, as specified in subsection 3.f., below.
+**ii.** _**Special Appointments**_**.** Individuals with special appointments normally do not follow the schedule of reviews and promotions of regular faculty. Special appointments are assigned one of the faculty titles below. Special appointments may be within or outside of rank, do not carry tenure, and are not subject to the review and reappointment procedures described in subsection 1.e. However, faculty members on renewable special appointment are subject to periodic Contract Reviews by the Reappointments Committee, as specified in subsection 3.f., below.
 
 _(a) Lecturer and Senior Lecturer:_ Renewable full- or part-time term appointments to fulfill specialized teaching responsibilities. Lecturers are not required to have a terminal degree. After at least nine years of consecutive service and following a successful Contract Review, Lecturers will be reappointed as Senior Lecturers.
 
@@ -156,7 +156,7 @@ _(f) Administrative Appointments:_ Senior College administrators whose major pr
 
 **v.** _**Appointments and Committee Assignments**_. Faculty members on regular, full-time special appointment, or associate appointment are eligible for assignment or election to all faculty committees and councils, provided all conditions for membership are met. All faculty members are expected to fulfill normal advising and administrative responsibilities.
 
-#### **d. Procedures of Appointment** {#procedure_appt}
+#### **d. Procedures of Appointment** {#procedure\_appt}
 
 **i.** _**New appointments**_. New appointments are made by the president or the president's designate in accordance with the authority vested in them by the Board of Trustees. New appointments, reappointments, and promotions are reported by the president to the board at its regular meetings.
 
@@ -228,11 +228,11 @@ _(g)_ ability to teach a broad range of students; and
 
 _(h)_ teaching outside the classroom.
 
-**ii. _Course Response Forms_.** Faculty members will receive a pdf of their course response forms via email following the end of the term and after all grades have been submitted.  Faculty member's course response forms are stored electronically on a secure server with the Office of Vice President for Academic Affairs and Dean of the Faculty, where they may be consulted only by the president, the provost, the vice president for Academic Affairs and dean of the faculty, the department chair, and the Reappointments Committee or Promotions Committee. Program directors will have access to all course response forms for courses taught with an explicit program label, either as a standalone or cross-listed course.  . A faculty member may request the addition of personal comments or other materials  with the course response forms which they believe may be useful in the interpretation of the forms.  Faculty members must share their personal copies of course response forms with colleagues writing on their behalf. The VPAA/DoF cannot grant access to electronic files to anyone other than those listed above. All course response forms are kept until the faculty member is reviewed for tenure. After the tenure review, CRFs five years and older will be deleted.
+**ii.** _**Course Response Forms**_**.** Faculty members will receive a pdf of their course response forms via email following the end of the term and after all grades have been submitted.  Faculty member's course response forms are stored electronically on a secure server with the Office of Vice President for Academic Affairs and Dean of the Faculty, where they may be consulted only by the president, the provost, the vice president for Academic Affairs and dean of the faculty, the department chair, and the Reappointments Committee or Promotions Committee. Program directors will have access to all course response forms for courses taught with an explicit program label, either as a standalone or cross-listed course.  . A faculty member may request the addition of personal comments or other materials  with the course response forms which they believe may be useful in the interpretation of the forms.  Faculty members must share their personal copies of course response forms with colleagues writing on their behalf. The VPAA/DoF cannot grant access to electronic files to anyone other than those listed above. All course response forms are kept until the faculty member is reviewed for tenure. After the tenure review, CRFs five years and older will be deleted.
 
 Faculty who have completed the equivalent of two years of full-time teaching may designate one course every two years as "CRF-optional". In these cases, those forms are held separately and not uploaded to the server. The faculty member may then decide whether to include the forms in their file held by the administration.
 
-**iii. _Classroom Visits_.** In the semester preceding the term in which the review takes place, the candidate should arrange with the department chair an appropriate schedule of class visits over the two terms. The chair (or a senior member of the department designated by the chair and acceptable to the candidate) will visit at least two classes. Other colleagues may visit classes if the candidate invites them. It is the responsibility of the chair to ensure that the visits are not unnecessarily disruptive. Following classroom visits, and before the end of the term during which the visits take place, if the candidate wishes it, each visiting colleague will meet with the individual being evaluated to discuss his or her performance in the classes visited and to make suggestions for possible improvement. Members of the Reappointments Committee or Promotions Committee, however, will not normally offer such commentaries. In all cases, which classes will be visited will be agreed on in advance by the candidate and the visitors.
+**iii.** _**Classroom Visits**_**.** In the semester preceding the term in which the review takes place, the candidate should arrange with the department chair an appropriate schedule of class visits over the two terms. The chair (or a senior member of the department designated by the chair and acceptable to the candidate) will visit at least two classes. Other colleagues may visit classes if the candidate invites them. It is the responsibility of the chair to ensure that the visits are not unnecessarily disruptive. Following classroom visits, and before the end of the term during which the visits take place, if the candidate wishes it, each visiting colleague will meet with the individual being evaluated to discuss his or her performance in the classes visited and to make suggestions for possible improvement. Members of the Reappointments Committee or Promotions Committee, however, will not normally offer such commentaries. In all cases, which classes will be visited will be agreed on in advance by the candidate and the visitors.
 
 #### **c. Evaluation of Scholarship** {#review\_eval\_scholarship}
 
@@ -628,7 +628,7 @@ _ix. President_
 
 _(a)_ To make the final decision and to notify the candidate.
 
-#### **e. Ten-Year Review** {#ten_year_rev}
+#### **e. Ten-Year Review** {#ten\_year\_rev}
 
 The ten-year review assesses professional achievements and service to the College and its curriculum since promotion to full professor, or since the last ten-year review, and seeks to aid in formulating plans for further growth and development.
 
@@ -658,7 +658,7 @@ _(b)_ As appropriate, to recognize unusually distinguished service, or to consi
 
 _(c)_ To discuss, as appropriate, with the faculty member under review ways in which the College might help that person attain his or her goals for professional growth.
 
-#### **f. Contract Reviews** {#contract_rev}
+#### **f. Contract Reviews** {#contract\_rev}
 
 A contract review concentrates on promise and performance as a teacher and, in the case of Special Appointment faculty undergoing a review for promotion to Associate Professor (without tenure) or Associate Laboratory Professor, on service and scholarship and/or pedagogical innovation. Among the information considered by the Reappointments Committee, the departmental or programmatic evaluation will be accorded the greatest weight; however, the Reappointments Committee will also review course materials, and course response forms, and will consider the composition and long-term needs of the department or program and the faculty in arriving at its final recommendation. In the case of Special Appointment faculty undergoing a review for promotion to Associate Professor (without tenure) or Associate Laboratory Professor, the Reappointments Committee will also examine evidence for scholarship and/or pedagogical innovation. The review will follow the procedures in 3.f.i. through 3.f.vii. below.
 
