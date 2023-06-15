@@ -88,7 +88,9 @@ The syllabus is subject to change as determined by the instructor with advance n
 
 **iii.** _**Service**_**.** The Middlebury faculty has a vital role to play in sustaining the intellectual climate of the College outside the classroom, in governing the College, and in extending the impact of the College beyond the bounds of the campus. Beyond teaching and scholarship, the service roles played by individual faculty members include departmental, program, and committee responsibilities, activities with student organizations, participation in admissions or alumni activities, and other activities that benefit Middlebury College.
 
-**iv.** _**Academic Freedom**_**.** Adapted from the 1940 "Statement of Principles on Academic Freedom and Tenure" of the American Association of University Professors:
+**iv.** _**Sample**_**.** Samplae sdgsgknfbknfkbksab
+
+**v.** _**Academic Freedom**_**.** Adapted from the 1940 "Statement of Principles on Academic Freedom and Tenure" of the American Association of University Professors:
 
 _(a) Purposes_. Institutions of higher education are conducted for the common good and not to further the interests of either the individual teacher or the institution as a whole. The common good depends upon the free search for truth and its free exposition.
 
