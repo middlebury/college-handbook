@@ -61,6 +61,8 @@ If reasonable accommodation of an assistance animal is approved by Middlebury, e
 
 \-Owners/handlers are responsible for cleaning and grooming related to their animal including bathing and grooming, pest control, and sanitary disposal of animal waste.
 
+\-Animals may not be left unattended for periods of time that may jeopardize the health or well-being of the animal or put others at risk.
+
 \-The owner/handler is responsible for any property damage caused by their animal, including the cost to cover repairs for damage the animal causes to Middlebury property, except reasonable wear and tear.
 
 **ii.  Licensing**
