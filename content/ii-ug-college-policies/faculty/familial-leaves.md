@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/familial-leaves
-date: 2021-05-01
 title: C.20. Leaves of Absence (nonacademic)
+date: 2021-05-01
 ---
 Leaves for the purpose of research are described in a separate [section](/pages/ii-ug-college-policies/faculty/leave-program).
 
@@ -17,19 +17,19 @@ _When reviewing this section of the handbook it is important to keep in mind the
 
 **Family and Medical Leave Act**
 
-The federal Family and Medical Leave Act (FMLA) and similar state leave laws entitle eligible faculty members to unpaid leaves of absence for: the foster placement, birth or adoption of a child; care of self or certain family member(s) with a serious health condition; certain exigencies arising from a family member’s call to active military duty; or to care for a family member injured while on active military duty. (See the [Employee Benefits chapter in the *Middlebury Handbook* ](/pages/ii-ug-college-policies/employee/time-away/family-medical-leave)or contact Human Resources for more information.) While the federal law provides for a period of unpaid, job-protected leave, as explained below Middlebury has several benefit programs and policies that provide for pay during certain FMLA-qualifying leaves.
+The federal Family and Medical Leave Act (FMLA) and similar state leave laws entitle eligible faculty members to unpaid leaves of absence for: the foster placement, birth or adoption of a child; care of self or certain family member(s) with a serious health condition; certain exigencies arising from a family member’s call to active military duty; or to care for a family member injured while on active military duty. (See the [Employee Benefits chapter in the _Middlebury Handbook_](/pages/ii-ug-college-policies/employee/time-away/family-medical-leave) or contact Human Resources for more information.) While the federal law provides for a period of unpaid, job-protected leave, as explained below Middlebury has several benefit programs and policies that provide for pay during certain FMLA-qualifying leaves.
 
 **Faculty Leave Reserve (FLR) Pay**
 
-Effective July 1, 2017 each benefits-eligible faculty member has a Faculty Leave Reserve (FLR) account; accrued FLR hours can be accessed to provide paid time off for a variety of needs.  Faculty accrue 1.54 hours of FLR time each pay period, which results in the addition of one week (40 hours) of FLR time per year of full-time work (accruals are pro-rated for part-time work, except that during FMLA leaves and sabbaticals accruals are not reduced.)  *Faculty members hired prior to July 1, 2017 were credited with a beginning balance of one week of FLR for each week of full-time service up to that date.*
+Effective July 1, 2017 each benefits-eligible faculty member has a Faculty Leave Reserve (FLR) account; accrued FLR hours can be accessed to provide paid time off for a variety of needs.  Faculty accrue 1.54 hours of FLR time each pay period, which results in the addition of one week (40 hours) of FLR time per year of full-time work (accruals are pro-rated for part-time work, except that during FMLA leaves and sabbaticals accruals are not reduced.)  _Faculty members hired prior to July 1, 2017 were credited with a beginning balance of one week of FLR for each year of full-time service up to that date._
 
 Accrued FLR can be used for any of the following reasons:
 
-* Pre- and post-parental-leave portion of semesters for new parents, should they wish to remain fully on leave instead of resuming non-teaching responsibilities.
-* To augment the 60% pay received from either the short-term or long-term disability benefit plans and thus remain at full salary.
-* Pre- or post-disability portions of semesters when a faculty member has no active disability, arrangements are in place for someone else to cover teaching, and full-time nonteaching duties are not available.
-* Any sort of family leave that would qualify as FMLA time.
-* Any reason that would qualify under the Vermont Earned Sick Time [1] law.
+*   Pre- and post-parental-leave portion of semesters for new parents, should they wish to remain fully on leave instead of resuming non-teaching responsibilities.
+*   To augment the 60% pay received from either the short-term or long-term disability benefit plans and thus remain at full salary.
+*   Pre- or post-disability portions of semesters when a faculty member has no active disability, arrangements are in place for someone else to cover teaching, and full-time nonteaching duties are not available.
+*   Any sort of family leave that would qualify as FMLA time.
+*   Any reason that would qualify under the Vermont Earned Sick Time \[1\] law.
 
 Faculty members wishing to use FLR pay will coordinate the request for time off with the VPAA/DoF and then work with Disability/Leave Specialist in Human Resources who will adjust the FLR balances to reflect time used.  Faculty members with five or fewer years of service may be allowed, at the discretion of the VPAA/DoF, to go into a negative FLR balance should needs arise that otherwise qualify for FLR but for which a sufficient balance has not accrued.  In no event will the new faculty member be able to have a negative balance of more than 200 hours.
 
@@ -37,7 +37,7 @@ Faculty members out on leave who have exhausted their FLR balances (except for c
 
 At **retirement** any accrued, unused FLR time will convert to College-paid medical and dental coverage, as described in the Middlebury College Health and Welfare Summary Plan Description.  There is no option to cash-out FLR under any circumstances or to use it for any purpose not specifically covered by the policy.
 
-_[1] The Faculty Leave Reserve Policy complies with the Vermont Earned Sick Leave Law, 21 V.S.A.&& 481-486 which requires limited paid time away from work for: physical or mental illness, preventative care, or to arrange services related to domestic violence or sexual assault.  Time can be for the employee’s own need or the needs of: a parent, spouse, child, sibling, parent-in-law, grandchild or foster child._
+_\[1\] The Faculty Leave Reserve Policy complies with the Vermont Earned Sick Leave Law, 21 V.S.A.&& 481-486 which requires limited paid time away from work for: physical or mental illness, preventative care, or to arrange services related to domestic violence or sexual assault.  Time can be for the employee’s own need or the needs of: a parent, spouse, child, sibling, parent-in-law, grandchild or foster child._
 
 **Parental Leaves/Parental Pay**
 
@@ -55,12 +55,12 @@ The amount and timing of Faculty Paid Parental Time will vary depending on wheth
 
 **Primary Caregiver Scheduled to Teach**
 
-When a child is expected to be born or adopted during a semester in which the parent is scheduled to teach, the faculty member will be relieved of **_teaching_** duties for the entire semester. Specifically:
+When a child is expected to be born or adopted during a semester in which the parent is scheduled to teach, the faculty member will be relieved of _**teaching**_ duties for the entire semester. Specifically:
 
 When the parent/faculty member is **not** also the birth mother:
 
-* During the first 6 weeks post-birth/adoption a faculty member who is not also a birth mother will not be expected to perform **_any_** duties, and will receive full salary.
-* For the remainder of the semester the faculty member can elect to:
+*   During the first 6 weeks post-birth/adoption a faculty member who is not also a birth mother will not be expected to perform _**any**_ duties, and will receive full salary.
+*   For the remainder of the semester the faculty member can elect to:
 
 1.  Continue or resume non-teaching duties such as committee work, administrative work, academic advising, and supervision of senior work, in which case he or she will continue to receive full pay, OR
 2.  If the faculty member is eligible under the Family and Medical Leave Act (FMLA) he or she can elect to continue leave with no duties generally for up to an additional 6 weeks (contact Human Resources for details), in which case he or she can:
@@ -71,8 +71,8 @@ b)    Be placed on unpaid leave with benefits.
 
 When the parent/faculty member **is** the birth mother:
 
-* During the post-birth period the birth mother is eligible for 6 weeks Paid Parental Time (paid at 100% pay) PLUS a period (typically 4 to 6 weeks) of Short-term Disability Pay (at 60% pay) during which time she will not be expected to perform **_any_** duties. A faculty member can opt to “supplement” the 60% STD pay with accrued FLR pay to receive up to full salary during the disability portion of the leave.
-* For the remainder of the semester the faculty member can elect to:
+*   During the post-birth period the birth mother is eligible for 6 weeks Paid Parental Time (paid at 100% pay) PLUS a period (typically 4 to 6 weeks) of Short-term Disability Pay (at 60% pay) during which time she will not be expected to perform _**any**_ duties. A faculty member can opt to “supplement” the 60% STD pay with accrued FLR pay to receive up to full salary during the disability portion of the leave.
+*   For the remainder of the semester the faculty member can elect to:
 
 1.  Continue or resume non-teaching duties such as committee work, administrative work, academic advising, and supervision of senior work, in which case he or she will continue to receive full pay, OR
 2.  If the faculty member is eligible under the Family and Medical Leave Act (FMLA) he or she can elect to continue leave with no duties generally for up to an additional 6 weeks (contact Human Resources for details), in which case he or she can:
@@ -99,15 +99,15 @@ _In either case the birth mother will also be eligible for an additional period 
 
 **Faculty/Staff Couples:** In situations where one parent is a member of the faculty and the other of the staff there are several possible scenarios for the Faculty parent:
 
-* **Faculty Parent who is scheduled to teach takes the initial leave:**  A faculty member who is scheduled to teach during the semester in which the new child arrives/is scheduled to arrive will be eligible for a teaching release and pay as described in the _“Primary Caregiver Scheduled to Teach”_ section, above.
-* **Faculty Parent who is NOT scheduled to teach takes the initial leave:**  A faculty member who is not scheduled to teach by reason of academic leave, administrative appointment, or other reason, and who will be the initial primary caregiver will be eligible for up to 6 weeks of Paid Parental Time immediately after the birth or adoption. If the parent is also the birth mother she will be eligible for an additional period of Short-Term Disability pay.
-* **Faculty Parent who takes a leave after the staff parent has used Staff Paid Parental Leave:**  When the staff parent takes parental leave first, a faculty spouse/partner (who subsequently qualifies as the primary caregiver) may take up to 6 weeks of fully paid parental leave, with no duties required. However, the timing of this Paid Parental Time leave is at the discretion of the VPAA/DoA, and would generally be timed so as not to disrupt a full academic semester—during J-term, for example. As an alternative, the Faculty parent could request a course release to be used within 12 months of the birth/adoption. Approval of a course release would be at the discretion of the VPAA/DoA.
+*   **Faculty Parent who is scheduled to teach takes the initial leave:**  A faculty member who is scheduled to teach during the semester in which the new child arrives/is scheduled to arrive will be eligible for a teaching release and pay as described in the _“Primary Caregiver Scheduled to Teach”_ section, above.
+*   **Faculty Parent who is NOT scheduled to teach takes the initial leave:**  A faculty member who is not scheduled to teach by reason of academic leave, administrative appointment, or other reason, and who will be the initial primary caregiver will be eligible for up to 6 weeks of Paid Parental Time immediately after the birth or adoption. If the parent is also the birth mother she will be eligible for an additional period of Short-Term Disability pay.
+*   **Faculty Parent who takes a leave after the staff parent has used Staff Paid Parental Leave:**  When the staff parent takes parental leave first, a faculty spouse/partner (who subsequently qualifies as the primary caregiver) may take up to 6 weeks of fully paid parental leave, with no duties required. However, the timing of this Paid Parental Time leave is at the discretion of the VPAA/DoA, and would generally be timed so as not to disrupt a full academic semester—during J-term, for example. As an alternative, the Faculty parent could request a course release to be used within 12 months of the birth/adoption. Approval of a course release would be at the discretion of the VPAA/DoA.
 
 _In all cases a faculty member qualifying under the FMLA or similar state law is entitled to up to 12 weeks of leave within a year of the birth/adoption. Such leave can be a combination of Paid Parental Time, Short-Term Disability pay, FLR, course release time, or unpaid time._
 
 **Adoptive families**
 
-Recognizing that it can be very difficult to predict precisely when placement of a child  will occur the VPAA/DoF will work closely with faculty who are adoptive parents to apply the provisions of this policy to their particular circumstances. Generally speaking, faculty who have not made previous arrangements for work release under this policy but receive their child within  semester during which they are teaching , can elect to be relieved of all non-teaching duties immediately upon the arrival of the child, provided they qualify as primary caregiver.  In these cases, the faculty member would be granted Paid Parental Time in the subsequent semester, under the terms described above.  *In all cases a faculty member qualifying for FMLA leave is immediately entitled to up to 12 weeks of unpaid FMLA leave, and may use accrued FLR, in addition to the Paid Parental Time described above.*
+Recognizing that it can be very difficult to predict precisely when placement of a child  will occur the VPAA/DoF will work closely with faculty who are adoptive parents to apply the provisions of this policy to their particular circumstances. Generally speaking, faculty who have not made previous arrangements for work release under this policy but receive their child within  semester during which they are teaching , can elect to be relieved of all non-teaching duties immediately upon the arrival of the child, provided they qualify as primary caregiver.  In these cases, the faculty member would be granted Paid Parental Time in the subsequent semester, under the terms described above.  _In all cases a faculty member qualifying for FMLA leave is immediately entitled to up to 12 weeks of unpaid FMLA leave, and may use accrued FLR, in addition to the Paid Parental Time described above._
 
 **Effect of Leave on Tenure Review Schedule**
 
@@ -119,6 +119,6 @@ Faculty members on ongoing appointments are eligible to apply for leave for pers
 
 The College will do its best to honor such requests, but it is incumbent upon the individual wishing such a leave to apply early enough so that the department affected may have time to plan for a replacement or make alternative arrangements for covering classes.
 
-**Vermont Earned Sick Time (VEST) for _Non-regular_ Faculty**
+**Vermont Earned Sick Time (VEST) for** _**Non-regular**_ **Faculty**
 
 Faculty members who are otherwise classified as **non-benefits-eligible** are provided with a paid time off benefit under the Vermont Earned Sick Leave Law, 21 V.S.A.&& 481-486.  VEST allows for certain paid time away from work for: physical or mental illness, preventative care, or to arrange services related to domestic violence or sexual assault.  Time can be for the employee’s own need or the needs of: a parent, spouse, child, sibling, parent-in-law, grandchild or foster child.  See the [VEST Policy in the Middlebury Handbook](/pages/ii-ug-college-policies/employee/time-away/4-14-vermont-earned-sick-time) for details.
