@@ -4,6 +4,8 @@ date: 2021-05-01
 title: Previous Handbooks
 ---
 
+### [College Handbook 2022-2023 (as of July 2023)](/assets/middlebury_handbook_2022-2023.pdf)
+
 ### [College Handbook 2018-2019](https://web.archive.org/web/20210115184109/http://www.middlebury.edu/about/handbook/handbook_archive/handbook-2018-2019)
 
 ### [College Handbook 2017-2018](https://web.archive.org/web/20210115184109/http://www.middlebury.edu/about/handbook/handbook_archive/handbook-2017-2018)
