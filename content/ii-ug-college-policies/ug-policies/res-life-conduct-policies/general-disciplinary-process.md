@@ -182,6 +182,8 @@ c. Sanctions are ordinarily issued by the Office of Community Standards.  Howev
 
 d. Plagiarism, cheating, or any other violation of the Undergraduate Honor System is normally punishable by suspension. In 1997, the faculty reaffirmed its commitment to suspension as the normal outcome for violations of the standards of academic integrity. Students found guilty of academic dishonesty will normally fail the course in which the offense occurred.  On rare occasions, if compelling reasons exist for not suspending a student found guilty of academic dishonesty, the sanctioning authority may issue no less than a reprimand and invoke either of the following penalties: a 0 or an F on the piece of work, or a 0 or an F in the course.
 
+e. Upon written request, the outcome of any disciplinary proceedings involving a crime of violence will be shared with the victim, or next of kin.
+
 ## VIII. Appeals {#appeals}
 
 a. Appeals are reviewed by Middlebury authorities who did not participate in the initial determination, and are trained to be impartial and free from a conflict of interest.
