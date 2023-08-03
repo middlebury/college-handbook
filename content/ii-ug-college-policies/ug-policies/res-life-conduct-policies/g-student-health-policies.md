@@ -34,8 +34,8 @@ The following forms and documents must be completed and uploaded to the [student
 
 Forms and documents are due:
 
-*   July 1 for September matriculation
-*   October 15 for February matriculation
+*   June 15 for September matriculation
+*   November 15 for February matriculation
 
 First-time student athletes are also required to meet conditions and complete forms listed in the [First-Time Athlete Athletic Clearance Procedures](https://www.middlebury.edu/office/center-health-wellness/sports-medicine/clearance-procedures).
 
