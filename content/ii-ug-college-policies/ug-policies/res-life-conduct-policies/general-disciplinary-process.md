@@ -113,9 +113,9 @@ b. At any time, a student respondent may notify the Office of Community Standard
 
 c. Where there are no disputed facts at issue, the Office of Community Standards will issue a sanction appropriate to the violation.
 
-d. If the student objects to a sanction other than official College discipline, they may submit a statement of their objection within three days to both the Associate Dean and the Dean of Students. The Dean of Students and the Associate Dean shall discuss the sanction and the student’s objection, and provide a written explanation of a decision to retain or adjust the sanction if appropriate.
+d. If the student objects to a sanction other than official College discipline, they may submit a statement of their objection within three days to both the Community Standards Office and the Dean of Students. The Dean of Students and the Community Standards Office shall discuss the sanction and the student’s objection, and provide a written explanation of a decision to retain or adjust the sanction if appropriate.
 
-e. If the sanction is a form of official College discipline for academic misconduct, the respondent may appeal the determination of responsibility to the VPAA/Dean of Faculty, as described below.
+e. If the sanction is a form of official College discipline for academic misconduct, the respondent may appeal the determination of responsibility to the Dean of Faculty, as described below.
 
 f. If the sanction is a form of official College discipline for non-academic misconduct, the respondent may appeal the determination of responsibility to the VPSA or Dean of Students, as described below.
 
@@ -123,14 +123,14 @@ f. If the sanction is a form of official College discipline for non-academic mis
 
 ### a. Composition {#composition}
 
-i. The Judicial Board is comprised of students, faculty and staff, specifically: (1) a member of the faculty or academic administration appointed by the president of Middlebury, (2) two faculty members, (3) four students, and (4) two staff members.  There will be two student alternates, one faculty alternate, and one staff alternate.  Alternates will only substitute for absent members of their own constituency.  Either the presidential appointee, staff chair, or student co-chair shall serve as the chair for a hearing.
+i. The Judicial Board is comprised of students, faculty and staff, including: (1) a member of the faculty or academic administration appointed by the president of Middlebury, (2) at least two faculty members, (3) at least four students, and (4) at least two staff members. A subset of the larger board will be used for judicial hearings. The composition of which will include at least one faculty member, at least one staff member, and at least three students. Either the presidential appointee, staff chair, or student co-chair shall serve as the chair for a hearing.
 
 1.  Faculty Council appoints the faculty members.
 2.  Community Council appoints student members recommended by the selection committee. First-year students may not serve on the Judicial Board, however,  Febs are eligible to apply for the fall semester after their arrival on campus.  A student charged with a serious conduct infraction during their term of service may be required to step down from the Judicial Board, upon the request of the Office of Community Standards or a majority of the Judicial Board.
-3.  Staff members are recommended by Staff Council and appointed by the President.
-4.  After the Judicial Board is constituted, it will elect from its members a student co-chair.  At least one co-chair must be present to convene a hearing.
+3.  Staff members are recommended by the Office of Community Standards and appointed by the Vice President of Student Affairs.
+4.  After the Judicial Board is constituted, student members will elect a student co-chair.  At least one co-chair must be present to convene a hearing.
 
-ii. Selection Committee:  The Office of Community Standards will convene a selection committee each spring, including one Community Council student member, one Community Council staff or faculty member, one non-returning student member of the Judicial Board, and one staff or faculty member of the Judicial Board. This selection committee will be responsible for advertising the availability of student positions on the Judicial Board; interviewing applicants; and submitting a slate of student members for the board to the Community Council for ratification. Whenever possible, at least one student member of the Judicial Board will have at least one year of prior experience. A student found guilty of a serious infraction of Middlebury rules by any Middlebury authority will be eligible for membership only after review by the selection committee in consultation with the Dean of Students/Office of Community Standards.
+ii. Selection Committee:  The Office of Community Standards will convene a selection committee each spring, including one Community Council student member, one Community Council staff or faculty member, one non-returning student member of the Judicial Board, and one staff or faculty member of the Judicial Board. This selection committee will be responsible for advertising the availability of student positions on the Judicial Board; interviewing applicants; and submitting a slate of student members for the board to the Community Council for ratification. Whenever possible, at least one student member of the Judicial Board will have at least one year of prior experience. A student found guilty of a serious infraction of Middlebury rules by any Middlebury authority will be eligible for membership only after review by the selection committee in consultation with the Office of Community Standards.
 
 iii. If the case involves a technical matter that falls outside the expertise of the members of the Judicial Board, the Office of Community Standards may invite an appropriate faculty and/or student adviser (without voting privileges) to assist the body during a hearing or deliberations.
 
