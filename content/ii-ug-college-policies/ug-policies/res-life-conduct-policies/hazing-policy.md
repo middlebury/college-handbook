@@ -1,9 +1,9 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy
-date: 2021-05-01
 title: B.2.c. Policy Against Hazing
+date: 2021-05-01
 ---
-_Last updated September 10, 2021_
+_Last updated September 7, 2023_
 
 Middlebury’s [General Conduct Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) include promoting healthy, safe, and balanced lifestyles. Student organizations and athletic teams can play a vital role in this process, and can provide transformative opportunities for friendship, leadership, and personal growth and discovery. Hazing of any kind is antithetical to these goals; therefore, Middlebury prohibits hazing activities, whether by an individual or an organization. In keeping with Middlebury’s prohibition of any kind of hazing, training and educational activities are periodically conducted with appropriate staff who support students and campus life.
 
@@ -21,7 +21,7 @@ For purposes of this policy, hazing is defined as any act committed by a person,
 
 Activity or conduct that furthers legitimate curricular, extracurricular, or military training program goals is not considered to be hazing, provided that:
 
-(i) the goals are approved by a Middlebury official who oversees the activities of the organization or team (e.g., coach or director of student activities); and
+(i) the goals are approved by a Middlebury official who oversees the activities of the organization or team (e.g., coach or Office of Student Engagement); and
 
 (ii) the activity or conduct furthers the goals in a manner that is appropriate, contemplated by Middlebury, and normal and customary for similar programs at other educational institutions.
 
@@ -67,7 +67,7 @@ a. Authority
 The Vice President for Student Affairs or an appropriate designee (hereinafter referred to as “VPSA”) monitors the implementation of this policy and imposes sanctions for violations. Any questions concerning the interpretation or application of this policy should be referred to the VPSA.
 
 b. Reporting  
-All Middlebury community members are expected to report activities believed to be hazing to a Student Life Dean, director of Athletics, associate dean for student activities, or the VPSA. See contact information below.
+All Middlebury community members are expected to report activities believed to be hazing to a Class Dean, director of Athletics, Office of Student Engagement, or the VPSA. See contact information below.
 
 c. Process  
 i. When an allegation of hazing or related retaliation is made, the VPSA or appropriate designee will determine initially whether the report or complaint alleges conduct that is prohibited by this policy and whether an investigation should be initiated. The VPSA may also suspend the activities of the organization or the activities of individual members thereof pending the outcome of the investigation.
@@ -90,7 +90,7 @@ b. Sanctions for individuals may include all of the usual sanctions under Middle
 
 **5\. Additional Policy Violations**
 
-Reported incidents may be referred to a judicial affairs officer, human relations officer, or other Middlebury official, as appropriate to the circumstances, to address alleged violations of other Middlebury policies, including but not limited to Middlebury’s [General Conduct Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) and [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy).
+Reported incidents may be referred to Community Standards, CR/TIX, or other Middlebury official, as appropriate to the circumstances, to address alleged violations of other Middlebury policies, including but not limited to Middlebury’s [General Conduct Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) and [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy).
 
 **6\. Referral to Law Enforcement**
 
@@ -105,7 +105,7 @@ Emergency: 802.443.5911
 Non-emergency: 802.443.5133
 
 [Vice President for Student Affairs](https://www.middlebury.edu/student-life/staff/leadership)  
-Smita Ruzicka
+Smita Ruzicka  
 802.443.5382  
 [sruzicka@middlebury.edu](mailto:sruzicka@middlebury.edu)
 
@@ -119,8 +119,7 @@ Derek Doucet
 802.443.3108  
 [ddoucet@middlebury.edu](mailto:ddoucet@middlebury.edu)
 
-[Student Life Deans](https://www.middlebury.edu/college/student-life/student-life-deans)  
-Scott Barnicle:  802.443.3350  
-Matt Longman:  802.443.3350  
-Emily Van Mistri:  802.443.3340  
-Jennifer Sellers:  802.443.3340
+[Class Deans](https://www.middlebury.edu/college/student-life/student-life-deans)  
+Scott Barnicle:  802.443.3350, [sbarnicl@middlebury.edu](mailto:sbarnicl@middlebury.edu)  
+Matt Longman:  802.443.3350, [longman@middlebury.edu](mailto:longman@middlebury.edu)  
+Jennifer Sellers:  802.443.3340, [jsellers@middlebury.edu](mailto:jsellers@middlebury.edu)
