@@ -134,9 +134,9 @@ ii. Selection Committee:  The Office of Community Standards will convene a sele
 
 iii. If the case involves a technical matter that falls outside the expertise of the members of the Judicial Board, the Office of Community Standards may invite an appropriate faculty and/or student adviser (without voting privileges) to assist the body during a hearing or deliberations.
 
-iv. Quorum:  Seven members of the Board shall constitute a quorum, of whom at least three must be students.   A finding of responsibility for a policy violation will result where no more than two Board members vote against a finding of responsibility.
+iv. Quorum:  Five members of the Board shall constitute a quorum, of whom at least three must be students.   A finding of responsibility for a policy violation will result where no more than two Board members vote against a finding of responsibility.
 
-v. Disqualification:   Any member of the Judicial Board who has a conflict of interest in a particular proceeding is disqualified from sitting on that case. If a member of the Board is disqualified, normally an alternate member from the same constituency will be selected to participate. If all of the deans of student life are disqualified from sitting on the Judicial Board in a particular proceeding, the VPSA/DOS will appoint a member of the administration to fulfill the duties of the representative from the Office of the Dean of Students/VPSA. If the faculty or administrative co-chair is disqualified from sitting on the Board in a particular proceeding, the VPSA/DOS will appoint a member of the academic administration to perform the duties of the administrative co-chair in that case.
+v. Disqualification:   Any member of the Judicial Board who has a conflict of interest in a particular proceeding is disqualified from sitting on that case. If a member of the Board is disqualified, normally an alternate member from the same constituency will be selected to participate. 
 
 ### b. Hearing Procedures {#hearingprocedures}
 
