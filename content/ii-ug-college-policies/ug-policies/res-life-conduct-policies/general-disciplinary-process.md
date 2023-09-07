@@ -202,12 +202,12 @@ i. If the sanction is a form of official College discipline for academic miscond
 
 ii. If the sanction is a form of official College discipline for non-academic misconduct, the respondent may appeal the determination of responsibility by submitting a written appeal within five business days to the VPSA or Dean of Students.
 
-iii. Appeals to the VPAA/DOF and the VPSA will follow the same process:
+iii. Appeals to the DOF and the VPSA will follow the same process:
 
-1.  The VPAA/DOF or the VPSA may grant extensions of time for the respondent to appeal, upon request. 
-2.  The VPAA/DOF or the VPSA will provide a copy of the written appeal to the Office of Community Standards, and the Office will provide access to the records of the case to the VPAA/DOF or VPSA.
-3.  The VPAA/DOF or the VPSA may consult with the Office of Community Standards and any other relevant individual regarding the appeal, as appropriate. 
-4.  The VPAA/DOF or the VPSA will consider whether the appeal demonstrates by a preponderance of the evidence one of the bases for further action, and may require re-consideration by the initial decision-maker, re-convening the original Judicial Board, convening a new Judicial Board, to re-hear the entire matter or only a limited portion, or may require re-deliberation on the sanction. 
-5.  The VPAA/DOF or the VPSA will ordinarily notify the student of their decision within seven business days of the receipt of the records of the initial determination, but this time may be extended if compelling circumstances warrant, and variation from this shall not invalidate a decision.
-6.  If reconsideration of some kind is required, the Office of Community Standards will take the appropriate steps to implement the decision of the VPAA/DOF or the VPSA, as necessary.
-7.  Decisions of the VPAA/DOF and the VPSA, or reconsideration of the initial determination by the Dean or the Board after a successful appeal are final, and not subject to further appeal, absent extraordinary circumstances.
+1.  The DOF or the VPSA may grant extensions of time for the respondent to appeal, upon request. 
+2.  The DOF or the VPSA will provide a copy of the written appeal to the Office of Community Standards, and the Office will provide access to the records of the case to the DOF or VPSA.
+3.  The DOF or the VPSA may consult with the Office of Community Standards and any other relevant individual regarding the appeal, as appropriate. 
+4.  The DOF or the VPSA will consider whether the appeal demonstrates by a preponderance of the evidence one of the bases for further action, and may require re-consideration by the initial decision-maker, re-convening the original Judicial Board, convening a new Judicial Board, to re-hear the entire matter or only a limited portion, or may require re-deliberation on the sanction. 
+5.  The DOF or the VPSA will ordinarily notify the student of their decision within seven business days of the receipt of the records of the initial determination, but this time may be extended if compelling circumstances warrant, and variation from this shall not invalidate a decision.
+6.  If reconsideration of some kind is required, the Office of Community Standards will take the appropriate steps to implement the decision of the DOF or the VPSA, as necessary.
+7.  Decisions of the DOF and the VPSA, or reconsideration of the initial determination by the Dean or the Board after a successful appeal are final, and not subject to further appeal, absent extraordinary circumstances.
