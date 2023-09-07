@@ -62,7 +62,7 @@ j. Administering alcohol to individuals against their will and/or without their 
 
 k. Unsafe intoxication. Students who are deemed by College officials to be intoxicated at an unsafe level, regardless of age, will be charged with unsafe intoxication when appropriate.
 
-l. **Middlebury-College Specific**: The following actions are specifically prohibited at Middlebury College:
+l. _Middlebury-College Specific_: The following actions are specifically prohibited at Middlebury College:
 
 1.  No possession of alcohol in first-year residence halls.
 2.  No possession of kegs or common containers. Possession by students of kegs or common containers (e.g., punch bowls) without advance party registration through Student Activities Office is prohibited. Unauthorized kegs or common containers will be confiscated, along with taps, and the Department of Public Safety will return confiscated kegs and taps to the vendor.
@@ -104,7 +104,19 @@ f. Unsafe consumption and/or impairment.
 
 See also Middlebury's "[No Smoking Policy](/pages/i-policies-for-all/health-safety/no-smoking)"
 
-#### **Disciplinary Sanctions: Students**
+**Employee Specific**
+
+For faculty and staff, the workplace is defined as any time when one’s capacity as an employee starts and stops. Policies must be followed regardless of location or format when acting in your capacity as an employee. Faculty and staff must adhere to the following expectations.
+
+a. Middlebury promotes a safe, health, and productive work environment for all individuals across the institution.  We comply with federal, state, and local laws governing the possession, use, and distribution of unlawful drugs at the work place. 
+
+b. It is the object of Middlebury to have a workforce that is free from the influence of controlled substances (illegal drugs) and alcohol during work hours.  The sale, possession, distribution or use of illicit drugs will not be tolerated.  Any employee member may be demoted, suspended, or dismissed for noncompliance with these laws or institution policy. 
+
+c. Middlebury complies with the Drug-Free Schools and Communities Act (as amended in 1989) and prohibits the unlawful possession, use or distribution of illicit drugs and alcohol by its students, staff and faculty members on College premises or as part of any of its activities. Furthermore, each and every member of the College community has the right and responsibility to pursue his/her academic endeavors in a safe, effective, drug-free environment. 
+
+d. The College will impose discipline on faculty, students and staff members who violate the standards of conduct.  Students who violate the provisions of the drug-free campus policy may be subject to suspension or expulsion.  Faculty and staff members including administrators found to be in violation of this policy may be subject to disciplinary actions, up to and including dismissal. Violating Vermont state statutes may also subject the individual to criminal prosecution. 
+
+**Disciplinary Sanctions: Students**
 
 **Responses to Alcohol, Tobacco and Other Drugs Policy Violations**
 
