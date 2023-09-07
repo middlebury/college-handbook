@@ -1,7 +1,7 @@
 ---
 slug: /pages/iv-policies-for-the-institute/d-employee-handbook/d-3-employee-benefits
-date: 2021-05-01
 title: D.3. Employee Benefits
+date: 2021-05-01
 ---
 In addition to the general description of benefits provided below, employees should consult the summary plan descriptions provided for each specific plan. All such benefits are subject to change, with or without advance notice, at the discretion of the Institute.
 
@@ -13,7 +13,7 @@ _Employees should refer to the Combined Time Off and/or the California Paid Sick
 
 **D.3.b. California Paid Sick Leave**
 
-##### **A. Allowable Uses** 
+##### **A. Allowable Uses**
 
 Up to 24 hours per year of California Paid Sick Leave (CSL) may be used for the diagnosis, care, or treatment of an existing health condition or for the preventive care of an employee, or an employee’s immediate family member. Covered family members include spouses, registered domestic partners, children, parents (including step-parents and parents-in-law), grandparents, grandchildren and siblings. Paid sick days are also available for employees who are the victims of domestic violence, sexual assault, or stalking.
 
@@ -23,37 +23,37 @@ CSL may not be used for “personal” absences or as vacation time.
 
 CSL benefits are available for all faculty and all student employees as well as staff employees classified as non-benefits-eligible who have worked for the Institute in California for 30 or more days within a year from the commencement of employment.
 
-##### **C. CSL: Accrual and Lump-Sum Versions** 
+##### **C. CSL: Accrual and Lump-Sum Versions**
 
 There are two versions of CSL, “Accrual” and “Lump Sum”, each with slightly different rules regarding allocation of time, carryover, and procedures for recording time used.  Other rules such as allowable uses and maximum annual time are the same for both versions of CSL.  The chart below shows the differences:
 
 <table><tbody><tr><td><strong>Version</strong></td><td><strong>Eligible Employee Types</strong></td><td><strong>CSL Allocation</strong></td><td><strong>Carryover Rules</strong></td><td><strong>Recording Time Used</strong></td></tr><tr><td><p><strong>CSL-</strong></p><p><strong>Accrual</strong></p></td><td><p>Student Employees</p><p>Non-Benefits-Eligible-Staff Employees</p></td><td>.0334 hours of CSL are accrued for each hour worked (1 hour of CSL accrues for every 30 hours worked), up to a maximum accrual of 48 hours.</td><td>Accrued, unused CSL will carry over each year, subject to the 48 hour cap.</td><td>Use code “CA Sick Leave” on BannerWeb time-sheet.</td></tr><tr><td><p><strong>CSL-</strong></p><p><strong>Lump-Sum</strong></p></td><td><p>Faculty Employees</p><p>Dual-Role (Faculty/Staff)</p><p>Employees</p></td><td>Receives a lump sum credit of 24 hours each July 1st (or date of hire for new employees).</td><td>Unused time will be forfeited June 30th each year.</td><td>Within 3 days of absence notify HR of time used via email.</td></tr></tbody></table>
 
-##### **D. Using CSL** 
+##### **D. Using CSL**
 
 Eligible employees:
 
-* Can begin to use available CSL on the 90th day of their employment.
-* Must use CSL in a minimum increment of one hour.
-* Must provide “reasonable advance notification” of their need to use CSL as soon as practicable, either orally or in writing.
-* Who are absent for longer than three days due to illness may be required to give medical evidence of illness and/or medical certification of fitness to return to work.
+*   Can begin to use available CSL on the 90th day of their employment.
+*   Must use CSL in a minimum increment of one hour.
+*   Must provide “reasonable advance notification” of their need to use CSL as soon as practicable, either orally or in writing.
+*   Who are absent for longer than three days due to illness may be required to give medical evidence of illness and/or medical certification of fitness to return to work.
 
 ##### **E. Protections Under the Law**
 
 The CA Paid Sick Leave Act contains strong protections for employees. The Act forbids employers from:
 
-* Denying employees the right to use accrued paid sick days (once the 90 waiting period has passed).
-* Taking any action against an employee for using accrued sick days or attempting to exercise the right to use accrued sick days. Prohibited actions include discharge, threat of discharge, demotion, suspension or any manner of discrimination.
-* Retaliating against employees who file complaints alleging violations of the Act, or who cooperate in an investigation or prosecution of an alleged violation or oppose any policy, practice or act prohibited by this law.
+*   Denying employees the right to use accrued paid sick days (once the 90 waiting period has passed).
+*   Taking any action against an employee for using accrued sick days or attempting to exercise the right to use accrued sick days. Prohibited actions include discharge, threat of discharge, demotion, suspension or any manner of discrimination.
+*   Retaliating against employees who file complaints alleging violations of the Act, or who cooperate in an investigation or prosecution of an alleged violation or oppose any policy, practice or act prohibited by this law.
 
 ##### **F. Other Important Information**
 
-* CSL is not recognized as hours worked for purposes of overtime pay.
-* Employees are not entitled to be paid for accrued but unused CSL or unused CSL from a lump sum allocation, upon resignation or termination of employment.
-* If an employee is rehired within a year of his or her separation, the Institute will reinstate any unused CSL that was previously accrued/granted and unused.
-* Available CSL balances will show on employee paystubs and may be viewed on Banner Web.
-* An employee based in another state who works in CA for at least 30 days in a year will also be subject to the CSL policy (or the CTO policy, if applicable).
-* Employees who work in cities that have paid sick leave ordinances that are more generous than the California Paid Sick Leave law may be covered by the local ordinance. Contact HR for further information.
+*   CSL is not recognized as hours worked for purposes of overtime pay.
+*   Employees are not entitled to be paid for accrued but unused CSL or unused CSL from a lump sum allocation, upon resignation or termination of employment.
+*   If an employee is rehired within a year of his or her separation, the Institute will reinstate any unused CSL that was previously accrued/granted and unused.
+*   Available CSL balances will show on employee paystubs and may be viewed on Banner Web.
+*   An employee based in another state who works in CA for at least 30 days in a year will also be subject to the CSL policy (or the CTO policy, if applicable).
+*   Employees who work in cities that have paid sick leave ordinances that are more generous than the California Paid Sick Leave law may be covered by the local ordinance. Contact HR for further information.
 
 **D.3.c. Holidays**
 
@@ -205,7 +205,7 @@ The Institute currently provides a life insurance plan for qualified employees. 
 
 The Institute currently offers Accidental Death and Dismemberment Insurance (AD&D) for qualified employees and their eligible dependents. Employees pay the full premium for this optional coverage through payroll deduction. Contact the Human Resources Office for details of the plan.
 
-**D.3\. i. Literacy Education**
+**D.3. i. Literacy Education**
 
 California Labor Code Sections 1040-1044 require employers to reasonably accommodate and assist employees in need of literacy education. Institute employees wishing to improve their literacy should contact Human Resources. The Institute itself does not offer literacy education, but Human Resources can provide assistance in the following ways:
 
@@ -267,9 +267,9 @@ The Institute currently contributes as required to the California Unemployment I
 
 Employees are currently protected by the Institute's workers' compensation insurance policy while employed at the Institute, at no cost to the employee. The policy covers an employee in case of occupational injury or illness. Coverage begins with the first day of employment and applies without regard to the number of hours worked per day or length of contract. Benefits may include:
 
-* payment of all medical expenses related to the accident or illness,
-* weekly payments, tax-free, based on Institute salary to partially cover lost wages, and
-* vocational rehabilitation to help qualified injured employees return to suitable employment.
+*   payment of all medical expenses related to the accident or illness,
+*   weekly payments, tax-free, based on Institute salary to partially cover lost wages, and
+*   vocational rehabilitation to help qualified injured employees return to suitable employment.
 
 Since workers' compensation payments are less than normal salary, an employee may elect to use part of her/his sick leave reserve and CTO accrual in addition to the workers' compensation payment in an effort to maintain full salary during the time off work.
 
@@ -289,15 +289,16 @@ For further information, please contact the Human Resources Office.
 
 Employees may be eligible for up to six weeks of state-provided paid family leave (PFL) insurance benefits when they take time off for one of the following purposes:
 
-* To bond with a child during the first 12 months after the child's birth or placement for adoption or foster care with the employee; or
-* To care for an immediate family member (spouse, registered domestic partner, child, parent, grandparent, grandchild, sibling and parent-in-law as defined by the PFL law) who is seriously ill and requires care.
+*   To bond with a child during the first 12 months after the child's birth or placement for adoption or foster care with the employee; or
+*   To care for an immediate family member (spouse, registered domestic partner, child, parent, grandparent, grandchild, sibling and parent-in-law as defined by the PFL law) who is seriously ill and requires care.
+*   To participate in a qualifying event because of a family member's military deployment.
 
 The PFL benefits described in this policy are a state-provided partial wage replacement benefit, not a protected leave of absence. To obtain approval for a leave of absence for the reasons set forth above, employees must contact Human Resources and comply with applicable eligibility, notice and certification requirements when required by state or federal law.
 
 ##### **A. Amount and Duration of Benefits**
 
-The weekly benefit amount is generally 60 or 70 percent of the employee's earnings (depending upon the employee's income), with benefits capped at a state-imposed maximum weekly benefit amount. Employees may receive up to six weeks of PFL benefits during a 12-month period, but may not receive more benefits than earned in wages during the base period for calculating benefits (generally, the 12 months prior to the quarter in which the claim is made).
+The weekly benefit amount is generally 60 or 70 percent of the employee's earnings (depending upon the employee's income), with benefits capped at a state-imposed maximum weekly benefit amount. Employees may receive up to eight weeks of PFL benefits during a 12-month period, but may not receive more benefits than earned in wages during the base period for calculating benefits (generally, the 12 months prior to the quarter in which the claim is made).
 
-When applicable, PFL benefits will run concurrently with leave time available under the California Family Rights Act and the federal Family and Medical Leave Act. Employees may use any accrued but unused sick leave prior to receiving PFL benefits. Employees are required to use any accrued but unused CTO, up to a maximum of two weeks prior to receiving PFL benefits. Employees may choose to use accrued but unused paid time in excess of two weeks.
+When applicable, PFL benefits will run concurrently with leave time available under the California Family Rights Act and the federal Family and Medical Leave Act. Employees may use any accrued but unused sick leave prior to receiving PFL benefits.
 
 Employees should inform Human Resources as soon as they become aware of circumstances that may trigger eligibility for benefits under any of these programs. Although these programs are funded and run by the state and all eligibility and benefit decisions are made by the state agencies involved, not by the Institute, Human Resources will assist you in obtaining additional information about these programs.
