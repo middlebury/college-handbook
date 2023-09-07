@@ -23,7 +23,7 @@ date: 2021-05-01
 
 #### **General** {#general}
 
-1.  All student organizations are subject to Middlebury policies, including but not limited to the [Anti-Harassment/Discrimination](/assets/anti-harassment-prior-to-8-14-2020.pdf) and [Hazing](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy) policies.
+1.  All student organizations are subject to Middlebury policies, including but not limited to the [Non-Discrimination](https://www.middlebury.edu/handbook/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy/) and [Hazing](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy) policies.
 2.  All recognized student organizations must register annually with the Office of Student Engagement (OSE) and have constitutions that have been approved by the Constitution Committee of the Student Government Association (SGA). The Constitution Committee may not approve a constitution with provisions that are in violation of federal, state, or local laws, or Middlebury policy.
 3.  All recognized student organizations must have an adviser who is a current, full-time Middlebury faculty or staff member or contract Middlebury employee. An adviser may inform an organization about its legal responsibilities and make appropriate suggestions about policy, but does not have authority to control policy or make personnel or financial decisions.
 4.  Student organizations are financed, in whole or in part, by the Student Activities Fee, which all students must pay in order to register for each term.
