@@ -111,7 +111,7 @@ Montpelier, VT 05620-3402
 
 **a. Required Vaccines under Vermont Law**
 
-[Vermont law](https://www.middlebury.edu/office/sites/www.middlebury.edu.office/files/2021-01/REG_immunization.pdf?fv=EDEyywBB) requires that all students submit an up to date immunization record, including proof of vaccination or positive titers (when applicable) for:
+[Vermont law](https://www.middlebury.edu/office/sites/www.middlebury.edu.office/files/2021-01/REG_immunization.pdf?fv=EDEyywBB) requires that all students submit an up-to-date immunization record, including proof of vaccination or positive titers (when applicable) for:
 
 *   Measles, Mumps, and Rubella
 *   Meningitis
@@ -121,7 +121,7 @@ Montpelier, VT 05620-3402
 
  **b. Medical and Religious Exemptions**
 
-If you have any religious or medical exemptions, please complete the [Vermont College Immunizations Exemptions Form](https://www.middlebury.edu/office/sites/www.middlebury.edu.office/files/2021-01/ID_IZ_K12_College_Exemptions.pdf?fv=ChROnplB) as applicable and upload to your [student health portal](https://midb.studenthealthportal.com/Account/Logon?ReturnUrl=%2f) as a Immunization Exemption.
+If you have any religious or medical exemptions, please complete the [Vermont College Immunizations Exemptions Form](https://www.middlebury.edu/office/sites/www.middlebury.edu.office/files/2021-01/ID_IZ_K12_College_Exemptions.pdf?fv=ChROnplB) as applicable and upload to your [student health portal](https://midb.studenthealthportal.com/Account/Logon?ReturnUrl=%2f) as an Immunization Exemption.
 
 Please be advised that unvaccinated students may be asked to miss class or leave campus in the event of a communicable disease outbreak.
 
