@@ -21,16 +21,25 @@ We strive to create a safe, affirming, and nonjudgmental environment that embrac
 
 #### **1.** **Required Health Forms** {#health}
 
-The following forms and documents must be completed and uploaded to the [student health portal](https://midb.studenthealthportal.com/Account/Logon?ReturnUrl=%2f) prior to arrival on campus for all new students:
+The following forms and documents are required and must be completed and/or uploaded to the [student health portal](https://midb.studenthealthportal.com/Account/Logon?ReturnUrl=%2f) prior to arrival on campus for all new undergraduate students:
 
-1.  Middlebury College Health Form
-2.  New Student Attestation and Consent Form
-3.  Physical Examination Form (to be completed within six months of arrival for all student athletes, recommended for all other students)
-4.  Your Immunization Records from a healthcare provider(s)
-5.  Your insurance card (front and back)
-6.  Consent Form for Treatment of a Minor (for students who will arrive on campus under the age of 18)
-7.  Physician TB Form (for students who are at risk for Tuberculosis as defined by the form)
-8.  Provisional Admittance Form (for students who will not be in compliance with Vermont regulations for immunizations by July 15 for September matriculation or November 1 for February matriculation)
+1.  Health History Form
+2.  Confidentiality and Consent to Treat Form
+3.  Emergency Contacts Form
+4.  Tuberculosis Screening
+5.  Images of the front and back of your insurance cards including primary, secondary, dental, and pharmacy if you have separate policies
+6.  A copy of your immunization record(s) provided to you by your health care provider(s)
+7.  [The Athlete Physical Exam Form](https://www.middlebury.edu/sites/www.middlebury.edu/files/2022-08/Athlete%20Physical%20Examination%20Form%20rev.%2008.02.2022.pdf?fv=8Ocsig6h) (required within 6 months of start of season for students participating in intercollegiate sports, club rugby or crew)
+
+The following forms and documents are conditionally required and must be completed and/or uploaded to the [student health portal](https://midb.studenthealthportal.com/Account/Logon?ReturnUrl=%2f) prior to arrival on campus for all new undergraduate students for whom they apply:
+
+1.  Consent Form for Treatment of a Minor for students who will arrive on campus under the age of 18
+2.  Physician TB Form for students who are determined to be at risk for tuberculosis based on the Tuberculosis Screening form in the student health portal
+3.  Provisional Admittance Form for students who will not be in compliance with Vermont regulations for immunizations by their deadline matriculation
+
+The following forms and documents are recommended to aid in the provision of comprehensive services and should be uploaded to the [student health portal](https://midb.studenthealthportal.com/Account/Logon?ReturnUrl=%2f) prior to arrival on campus for new undergraduate students:
+
+1.  Physical Examination Form
 
 Forms and documents are due:
 
@@ -39,13 +48,13 @@ Forms and documents are due:
 
 First-time student athletes are also required to meet conditions and complete forms listed in the [First-Time Athlete Athletic Clearance Procedures](https://www.middlebury.edu/office/center-health-wellness/sports-medicine/clearance-procedures).
 
-All required forms are available on the [student health portal](https://midb.studenthealthportal.com/Account/Logon?ReturnUrl=%2f) under “My Forms.” To upload documents (e.g. immunization records and insurance card information) select Document Upload, then Document Type (e.g. Immunization Record or Insurance Card), and complete by selecting Save.
+All required forms and instructions are available on the [student health portal](https://midb.studenthealthportal.com/Account/Logon?ReturnUrl=%2f) under “My Forms” or the [Center for Health and Wellness’s Forms website.](https://www.middlebury.edu/center-health-wellness/forms)
 
 #### **2.** **Commitment to Confidentiality** {#confidentiality}
 
 **a. Understanding Your Health Record/Information**
 
-Each time you visit the Center for Health and Wellness (Counseling, Health Services, Health and Wellness Education, Integrated Care and Sports Medicine), or when staff have an interaction with a third party about you, the information is documented in a secured, password protected electronic health record that is accessible only to Center for Health and Wellness staff. Typically, this record contains a summary of your presenting concerns and symptoms, physical exam and/or other intake information, test results, diagnoses, progress notes, treatment summaries, referrals to other resources, and plans for future courses of treatment if appropriate. This information makes up your health record or personal health information, and serves as a:
+Each time you visit the Center for Health and Wellness offices (Counseling, Health Services, Health and Wellness Education, Integrated Care and Sports Medicine), or when staff have an interaction with a third party about you, the information is documented in a secured, password protected electronic health record that is accessible only to Center for Health and Wellness staff. Typically, this record contains a summary of your presenting concerns and symptoms, physical exam and/or other intake information, test results, diagnoses, progress notes, treatment summaries, referrals to other resources, and plans for future courses of treatment if appropriate. This information makes up your health record or personal health information, and serves as a:
 
 *   Basis for planning your care and treatment;
 *   Means of communication with other health professionals who contribute to your care;
