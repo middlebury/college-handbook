@@ -9,7 +9,7 @@ date: 2021-05-01
 
 [**Vaccines**](#vaccines)
 
-[**Pandemic Preparedness: Required Evacuation Plan**](#pandemic)
+[**Emergency Preparedness: Required Evacuation Plan**](#emergency)
 
 [**Records Retention Policy**](#records)
 
@@ -21,16 +21,25 @@ We strive to create a safe, affirming, and nonjudgmental environment that embrac
 
 #### **1.** **Required Health Forms** {#health}
 
-The following forms and documents must be completed and uploaded to the [student health portal](https://midb.studenthealthportal.com/Account/Logon?ReturnUrl=%2f) prior to arrival on campus for all new students:
+The following forms and documents are required and must be completed and/or uploaded to the [student health portal](https://midb.studenthealthportal.com/Account/Logon?ReturnUrl=%2f) prior to arrival on campus for all new undergraduate students:
 
-1.  Middlebury College Health Form
-2.  New Student Attestation and Consent Form
-3.  Physical Examination Form (to be completed within six months of arrival for all student athletes, recommended for all other students)
-4.  Your Immunization Records from a healthcare provider(s)
-5.  Your insurance card (front and back)
-6.  Consent Form for Treatment of a Minor (for students who will arrive on campus under the age of 18)
-7.  Physician TB Form (for students who are at risk for Tuberculosis as defined by the form)
-8.  Provisional Admittance Form (for students who will not be in compliance with Vermont regulations for immunizations by July 15 for September matriculation or November 1 for February matriculation)
+1.  Health History Form
+2.  Confidentiality and Consent to Treat Form
+3.  Emergency Contacts Form
+4.  Tuberculosis Screening
+5.  Images of the front and back of your insurance cards including primary, secondary, dental, and pharmacy if you have separate policies
+6.  A copy of your immunization record(s) provided to you by your health care provider(s)
+7.  [The Athlete Physical Exam Form](https://www.middlebury.edu/sites/www.middlebury.edu/files/2022-08/Athlete%20Physical%20Examination%20Form%20rev.%2008.02.2022.pdf?fv=8Ocsig6h) (required within 6 months of start of season for students participating in intercollegiate sports, club rugby or crew)
+
+The following forms and documents are conditionally required and must be completed and/or uploaded to the [student health portal](https://midb.studenthealthportal.com/Account/Logon?ReturnUrl=%2f) prior to arrival on campus for all new undergraduate students for whom they apply:
+
+1.  Consent Form for Treatment of a Minor for students who will arrive on campus under the age of 18
+2.  Physician TB Form for students who are determined to be at risk for tuberculosis based on the Tuberculosis Screening form in the student health portal
+3.  Provisional Admittance Form for students who will not be in compliance with Vermont regulations for immunizations by their deadline matriculation
+
+The following forms and documents are recommended to aid in the provision of comprehensive services and should be uploaded to the [student health portal](https://midb.studenthealthportal.com/Account/Logon?ReturnUrl=%2f) prior to arrival on campus for new undergraduate students:
+
+1.  Physical Examination Form
 
 Forms and documents are due:
 
@@ -39,13 +48,13 @@ Forms and documents are due:
 
 First-time student athletes are also required to meet conditions and complete forms listed in the [First-Time Athlete Athletic Clearance Procedures](https://www.middlebury.edu/office/center-health-wellness/sports-medicine/clearance-procedures).
 
-All required forms are available on the [student health portal](https://midb.studenthealthportal.com/Account/Logon?ReturnUrl=%2f) under “My Forms.” To upload documents (e.g. immunization records and insurance card information) select Document Upload, then Document Type (e.g. Immunization Record or Insurance Card), and complete by selecting Save.
+All required forms and instructions are available on the [student health portal](https://midb.studenthealthportal.com/Account/Logon?ReturnUrl=%2f) under “My Forms” or the [Center for Health and Wellness’s Forms website.](https://www.middlebury.edu/center-health-wellness/forms)
 
 #### **2.** **Commitment to Confidentiality** {#confidentiality}
 
 **a. Understanding Your Health Record/Information**
 
-Each time you visit the Center for Health and Wellness (Counseling, Health Services, Health and Wellness Education, Integrated Care and Sports Medicine), or when staff have an interaction with a third party about you, the information is documented in a secured, password protected electronic health record that is accessible only to Center for Health and Wellness staff. Typically, this record contains a summary of your presenting concerns and symptoms, physical exam and/or other intake information, test results, diagnoses, progress notes, treatment summaries, referrals to other resources, and plans for future courses of treatment if appropriate. This information makes up your health record or personal health information, and serves as a:
+Each time you visit the Center for Health and Wellness offices (Counseling, Health Services, Health and Wellness Education, Integrated Care and Sports Medicine), communicate with Center staff, or when staff have an interaction with a third party about you, the information is documented in a secured, password protected electronic health record that is accessible only to Center for Health and Wellness staff, you, and those you provide written permission to access. Typically, this record contains a summary of your presenting concerns and symptoms, physical exam and/or other intake information, test results, diagnoses, progress notes, treatment summaries, referrals to other resources, and plans for future courses of treatment if appropriate. This information makes up your health record or personal health information, and serves as a:
 
 *   Basis for planning your care and treatment;
 *   Means of communication with other health professionals who contribute to your care;
@@ -53,7 +62,7 @@ Each time you visit the Center for Health and Wellness (Counseling, Health Servi
 *   Source of information for public health officials charged with protecting the health of this state and the nation (only under very restricted circumstances);
 *   Tool with which we can assess and continually work to improve the care we render and the outcomes we achieve.
 
-You are entitled to access your health records or request that we prepare a summary for you. Your records are accessible to you through the student health portal and you may request printed records or summaries by emailing chw@middlebury.edu. Center for Health and Wellness staff are available to review your records with you at any time.
+You are entitled to access your health records or request that we prepare a summary for you. Your records are accessible to you at all times through the student health portal and you may request printed records or summaries by emailing [chw@middlebury.edu](mailto:chw@middlebury.edu). To release your records to a third-party healthcare provider or designee of your choosing, you must complete an Authorization for the Release of Personal Health Information available on the [Center for Health and Wellness’s Forms website](https://www.middlebury.edu/center-health-wellness/forms) and bring it to a Center office in person, email it to [chw@middlebury.edu](mailto:chw@middlebury.edu), or upload it to your student health portal. Center for Health and Wellness staff are available to review your records with you at any time.
 
 ##### **i. Confidentiality**
 
@@ -61,36 +70,38 @@ Health records at the Center for Health and Wellness are confidential and are co
 
 *   As authorized or required by law (i.e., when we are presented with a valid court order requiring us to release records);
 *   As necessary to protect you or others from a serious threat to health and safety, or to protect property from a serious threat of damage;
-*   As necessary to notify parents and/or College officials when you have a serious mental or physical health problem and are unable to assume responsibility for notifying others;
-*   Under some circumstances when parents or legal guardians may have the right to access the records of a minor.
+*   As necessary to notify guardian and/or College officials when you have a serious mental or physical health problem and are unable to assume responsibility for notifying others;
+*   Under some circumstances when legal guardians may have the right to access the records of a minor.
 
-In addition, Center for Health and Wellness staff confer with one another as needed to provide integrated care for you. We also work with Porter Hospital and the Counseling Service of Addison County (CSAC) to ensure a full range of medical and mental health options for students. When students receive treatment from multiple providers and/or in multiple locations, we exchange only such information as is needed to maintain continuity of care.  Students may make requests to the Center for Health and Wellness, Porter or CSAC to revoke or restrict authorization to share such information.
+In addition, Center for Health and Wellness staff confer with one another as needed to provide integrated care for you. We also work with the University of Vermont Health Network’s Porter Medical Center (PMC) and the Counseling Service of Addison County (CSAC) to ensure continuity of care options for students including urgent and emergent situations.
 
-Please note: Middlebury College and the Center for Health and Wellness are not subject to the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and therefore are not required to comply with the various federal regulations relating to the use and disclosure of health information. Middlebury College and the Center for Health and Wellness are, however, subject to the Family Education Rights Protection Act of 1974 (FERPA) which classifies your health records as treatment records and confers similar protections related to privacy.
+Middlebury’s Confidentiality and Consent to Treat Form includes consent for Center for Health and Wellness staff to share personal health information with these important community partners to ensure high-quality, informed care for students. When students receive treatment from multiple providers and/or in multiple locations, we exchange only such information as is needed to maintain continuity of care.  Students may make requests to the Center for Health and Wellness, PMC or CSAC to revoke or restrict authorization to share such information at any time.
+
+Middlebury College and the Center for Health and Wellness are not subject to the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and therefore are not required to comply with the various federal regulations relating to the use and disclosure of health information. Middlebury College and the Center for Health and Wellness are, however, subject to the Family Education Rights Protection Act of 1974 (FERPA) which classifies your health records as treatment records and confers similar protections related to privacy.
 
 This policy should not be interpreted as creating any contractual rights and Middlebury College reserves the right to make changes to this policy at any time without prior notice. 
 
 ##### **ii. Confidentiality for the Treatment of Minors**
 
-According to certain provisions of Vermont State law, parents or legal guardians must provide permission for some forms of healthcare for individuals under the age of 18 (minors). These provisions also allow for certain exceptions. In these situations, a parent’s or legal guardian’s permission is not required:
+According to certain provisions of Vermont State law, legal guardians must provide permission for some forms of healthcare for individuals under the age of 18 (minors). These provisions also allow for certain exceptions. In these situations, a legal guardian’s permission is not required:
 
 *   Minors of any age will be cared for in emergency situations that necessitate immediate treatment;
-*   Minors may receive outpatient mental health counseling without consent of a parent or guardian, but not prescription drugs.
-*   Minors 12 years of age and older may obtain treatment for sexually transmitted diseases, drug dependence, and alcohol abuse;
-*   If a minor requires hospitalization for treatment of sexually transmitted diseases, drug dependence, or alcohol abuse, the parents or legal guardians must be notified of the hospitalization.
-*   Minors of any age may obtain treatment for the termination of a pregnancy, or receive medical treatment necessary to obtain contraceptive devices and medications.
-*   Minors of any age may obtain medical treatment related to rape, incest, or sexual abuse. Health care providers are required to report such incidents to the Department of Children and Families within 24 hours.
-*   Minors 14 years or older may voluntarily admit themselves to a hospital for mental health related treatment if they give informed consent in writing.
-*   Minors under 14 may admit themselves to a hospital for mental health related treatment by providing their own written informed consent and a written application from a parent or guardian.
-*   Minors who are married or have ever been married , minors on active U.S. military duty, and minors emancipated by court order may give informed consent to their own health care.
+*   Minors of any age may receive outpatient mental health counseling without consent of a  guardian, but not prescription medications;
+*   Minors 12 years of age and older may obtain treatment for sexually transmitted diseases, substance dependence and  abuse;
+*   If a minor requires hospitalization for treatment of sexually transmitted diseases, substance dependence, or  abuse, the  legal guardians must be notified of the hospitalization;
+*   Minors of any age may obtain treatment for the termination of a pregnancy, or receive medical treatment necessary to obtain contraceptive devices and medications;
+*   Minors of any age may obtain medical treatment related to rape, incest, or sexual abuse. Health care providers are required to report such incidents to the Department of Children and Families within 24 hours;
+*   Minors 14 years or older may voluntarily admit themselves to a hospital for mental health related treatment if they give informed consent in writing;
+*   Minors under 14 may admit themselves to a hospital for mental health related treatment by providing their own written informed consent and a written application from a parent or guardian;
+*   Minors who are married or have ever been married, minors on active U.S. military duty, and minors emancipated by court order may give informed consent to their own health care.
 
-Center for Health and Wellness staff are available to provide an initial consultation with students who are under 18 years of age in order to review the need for consent for treatment as stipulated by Vermont State law.
+Center for Health and Wellness staff are available to provide an initial consultation with students who are under 18 years of age in order to review the need(s) for guardian consent for treatment(s) as stipulated by Vermont State law.
 
 ##### **iii. Grievance Process**
 
-If you have concerns, needs, or questions that were not (or could not be) addressed by staff members directly involved in your care, you may contact the Executive Director at 802-443-5361 or bmccall@middlebury.edu. You may also contact the Vice President of Student Affairs at 802-443-2465 or sruzicka@middlebury.edu.
+If you have concerns, needs, or questions that were not (or could not be) addressed by staff members directly involved in your care, you may contact the Associate Vice President for Student Health and Well-being at 802-443-5361 or [bmccall@middlebury.edu](mailto:bmccall@middlebury.edu). You may also contact the Vice President of Student Affairs at 802-443-2465 or [sruzicka@middlebury.edu](mailto:sruzicka@middlebury.edu).
 
-Most professions in the Center for Health and Wellness are also governed by laws defining professional conduct and/or codes of ethics. Healthcare consumers who have inquiries can [obtain a form to register a complaint](https://www.sec.state.vt.us/professional-regulation/file-a-complaint.aspx) with the State of Vermont and can also call 802-828-1505 or contact:
+Most professions in the Center for Health and Wellness are also governed by laws and/or professional organizations that define a scope of practice, professional conduct and/or codes of ethics. Healthcare consumers who have inquiries can [obtain a form to register a complaint](https://www.sec.state.vt.us/professional-regulation/file-a-complaint.aspx) with the State of Vermont and can also call 802-828-1505 or contact:
 
 Secretary of State’s Office  
 89 Main Street, 3rd Floor  
@@ -100,7 +111,7 @@ Montpelier, VT 05620-3402
 
 **a. Required Vaccines under Vermont Law**
 
-[Vermont law](https://www.middlebury.edu/office/sites/www.middlebury.edu.office/files/2021-01/REG_immunization.pdf?fv=EDEyywBB) requires that all students submit an up to date immunization record, including proof of vaccination or positive titers (when applicable) for:
+[Vermont law](https://www.middlebury.edu/office/sites/www.middlebury.edu.office/files/2021-01/REG_immunization.pdf?fv=EDEyywBB) requires that all students submit an up-to-date immunization record, including proof of vaccination or positive titers (when applicable) for:
 
 *   Measles, Mumps, and Rubella
 *   Meningitis
@@ -110,7 +121,7 @@ Montpelier, VT 05620-3402
 
  **b. Medical and Religious Exemptions**
 
-If you have any religious or medical exemptions, please complete the [Vermont College Immunizations Exemptions Form](https://www.middlebury.edu/office/sites/www.middlebury.edu.office/files/2021-01/ID_IZ_K12_College_Exemptions.pdf?fv=ChROnplB) as applicable and upload to your [student health portal](https://midb.studenthealthportal.com/Account/Logon?ReturnUrl=%2f) as a Immunization Exemption.
+If you have any religious or medical exemptions, please complete the [Vermont College Immunizations Exemptions Form](https://www.middlebury.edu/office/sites/www.middlebury.edu.office/files/2021-01/ID_IZ_K12_College_Exemptions.pdf?fv=ChROnplB) as applicable and upload to your [student health portal](https://midb.studenthealthportal.com/Account/Logon?ReturnUrl=%2f) as an Immunization Exemption.
 
 Please be advised that unvaccinated students may be asked to miss class or leave campus in the event of a communicable disease outbreak.
 
@@ -125,15 +136,15 @@ Other travel vaccines depend on destination and can be determined at a travel vi
 
 Due to the length of time some vaccine series require, it is recommended that all students considering travel abroad also consider receiving the Hepatitis A vaccine series prior to matriculation.
 
-#### **4.** **Pandemic Preparedness: Required Personal Evacuation Plan** {#pandemic}
+#### **4.** **Required Personal Departure Plan in the Case of Evacuation or Emergency** {#emergency}
 
-_All Middlebury College students are required to develop and enter a personal evacuation plan in BannerWeb._
+Because of the potential need for a quick departure from campus related to a personal, family, or community emergency or in response to an outbreak of communicable illness, _all Middlebury College students are required to develop a personal departure plan for emergencies and/or situations that require evacuation, submit it to their program,  and update it on an annual basis._
 
-Because of the potential need for a quick response to an outbreak, individuals are the only people who can effectively plan for themselves. All Middlebury College students are required to develop and submit at least one Personal Evacuation Plan. Students will not be allowed to register for their second semester of classes until they have entered a plan (via Banner Web) that meets the minimum required elements.
+Students should alert any family members, friends, or trusted acquaintances that are a part of their plan at the time of submission and annual review. Students may not be allowed to attend classes, register for classes, or otherwise fully participate in their program until they have provided a plan that meets the minimum required elements as stated within each program.
 
 #### **5\. Records Retention Policy** {#records}
 
-Parton Center for Health and Wellness, in order to establish guidelines for the maintenance, retention, preservation and disposal of medical records that are created or maintained by it, hereby adopts the following policy for preserving those records.
+The Center for Health and Wellness, in order to establish guidelines for the maintenance, retention, preservation and disposal of medical records that are created or maintained by it, hereby adopts the following policy for preserving those records.
 
 **Policy**
 
@@ -151,7 +162,7 @@ Treatment records are to be retained for the time periods indicated as follows.�
 
 Former students who have graduated from Middlebury or otherwise departed from the community who would like to request a copy of their records should email [chw@middlebury.edu](mailto:chw@middlebury.edu) and include their name, date of birth, and Middlebury ID number.
 
-Some records are not subject to any retention period and can be discarded when they do not have administrative value.  Other documents are not considered “records” within the meaning of this policy and need to be maintained only as long they have administrative value.  Documents that are not considered “records” include:  duplicate copies of correspondence or other documents, blank forms, and transitory messages used for informal communication of information only, such as voice mails, self-sticking notes and phone messages.  Documents that are not “records” may be discarded when they do not have administrative value.
+Some records are not subject to any retention period and can be discarded when they do not have administrative value.  Other documents are not considered “records” within the meaning of this policy and need to be maintained only as long they have administrative value.  Documents that are not considered “records” include: duplicate copies of correspondence or other documents, blank forms, and transitory messages used for informal communication of information only, such as voice mails, and self-sticking notes.  Documents that are not “records” may be discarded when they do not have administrative value.
 
 **Purging Guidelines**
 
@@ -159,4 +170,4 @@ Records should be purged promptly if they do not need to be retained in accordan
 
 **Litigation Hold Guidelines**
 
-The Executive Director shall be notified immediately if an employee receives notification of any claim or complaint that could lead to litigation or governmental investigation.  The Executive Director will evaluate the information and communicate with the appropriate employees to assure that all evidence and records relating to the matter are preserved until the litigation or investigation is complete.   No employee should discard any document subject to a Litigation Hold.
+The Associate Vice President for Student Health and Well-Being shall be notified immediately if an employee receives notification of any claim or complaint that could lead to litigation or governmental investigation.  The Associate Vice President for Student Health and Well-Being will evaluate the information and communicate with the appropriate employees to assure that all evidence and records relating to the matter are preserved until the litigation or investigation is complete.   No employee should discard any document subject to a Litigation Hold.
