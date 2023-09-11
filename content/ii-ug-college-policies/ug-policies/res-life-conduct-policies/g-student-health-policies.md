@@ -144,7 +144,7 @@ Because of the potential need for a quick response to an outbreak, individuals a
 
 #### **5\. Records Retention Policy** {#records}
 
-Parton Center for Health and Wellness, in order to establish guidelines for the maintenance, retention, preservation and disposal of medical records that are created or maintained by it, hereby adopts the following policy for preserving those records.
+The Center for Health and Wellness, in order to establish guidelines for the maintenance, retention, preservation and disposal of medical records that are created or maintained by it, hereby adopts the following policy for preserving those records.
 
 **Policy**
 
@@ -162,7 +162,7 @@ Treatment records are to be retained for the time periods indicated as follows.�
 
 Former students who have graduated from Middlebury or otherwise departed from the community who would like to request a copy of their records should email [chw@middlebury.edu](mailto:chw@middlebury.edu) and include their name, date of birth, and Middlebury ID number.
 
-Some records are not subject to any retention period and can be discarded when they do not have administrative value.  Other documents are not considered “records” within the meaning of this policy and need to be maintained only as long they have administrative value.  Documents that are not considered “records” include:  duplicate copies of correspondence or other documents, blank forms, and transitory messages used for informal communication of information only, such as voice mails, self-sticking notes and phone messages.  Documents that are not “records” may be discarded when they do not have administrative value.
+Some records are not subject to any retention period and can be discarded when they do not have administrative value.  Other documents are not considered “records” within the meaning of this policy and need to be maintained only as long they have administrative value.  Documents that are not considered “records” include: duplicate copies of correspondence or other documents, blank forms, and transitory messages used for informal communication of information only, such as voice mails, and self-sticking notes.  Documents that are not “records” may be discarded when they do not have administrative value.
 
 **Purging Guidelines**
 
@@ -170,4 +170,4 @@ Records should be purged promptly if they do not need to be retained in accordan
 
 **Litigation Hold Guidelines**
 
-The Executive Director shall be notified immediately if an employee receives notification of any claim or complaint that could lead to litigation or governmental investigation.  The Executive Director will evaluate the information and communicate with the appropriate employees to assure that all evidence and records relating to the matter are preserved until the litigation or investigation is complete.   No employee should discard any document subject to a Litigation Hold.
+The Associate Vice President for Student Health and Well-Being shall be notified immediately if an employee receives notification of any claim or complaint that could lead to litigation or governmental investigation.  The Associate Vice President for Student Health and Well-Being will evaluate the information and communicate with the appropriate employees to assure that all evidence and records relating to the matter are preserved until the litigation or investigation is complete.   No employee should discard any document subject to a Litigation Hold.
