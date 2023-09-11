@@ -54,7 +54,7 @@ All required forms and instructions are available on the [student health portal]
 
 **a. Understanding Your Health Record/Information**
 
-Each time you visit the Center for Health and Wellness offices (Counseling, Health Services, Health and Wellness Education, Integrated Care and Sports Medicine), or when staff have an interaction with a third party about you, the information is documented in a secured, password protected electronic health record that is accessible only to Center for Health and Wellness staff. Typically, this record contains a summary of your presenting concerns and symptoms, physical exam and/or other intake information, test results, diagnoses, progress notes, treatment summaries, referrals to other resources, and plans for future courses of treatment if appropriate. This information makes up your health record or personal health information, and serves as a:
+Each time you visit the Center for Health and Wellness offices (Counseling, Health Services, Health and Wellness Education, Integrated Care and Sports Medicine), communicate with Center staff, or when staff have an interaction with a third party about you, the information is documented in a secured, password protected electronic health record that is accessible only to Center for Health and Wellness staff, you, and those you provide written permission to access. Typically, this record contains a summary of your presenting concerns and symptoms, physical exam and/or other intake information, test results, diagnoses, progress notes, treatment summaries, referrals to other resources, and plans for future courses of treatment if appropriate. This information makes up your health record or personal health information, and serves as a:
 
 *   Basis for planning your care and treatment;
 *   Means of communication with other health professionals who contribute to your care;
@@ -62,7 +62,7 @@ Each time you visit the Center for Health and Wellness offices (Counseling, Heal
 *   Source of information for public health officials charged with protecting the health of this state and the nation (only under very restricted circumstances);
 *   Tool with which we can assess and continually work to improve the care we render and the outcomes we achieve.
 
-You are entitled to access your health records or request that we prepare a summary for you. Your records are accessible to you through the student health portal and you may request printed records or summaries by emailing chw@middlebury.edu. Center for Health and Wellness staff are available to review your records with you at any time.
+You are entitled to access your health records or request that we prepare a summary for you. Your records are accessible to you at all times through the student health portal and you may request printed records or summaries by emailing [chw@middlebury.edu](mailto:chw@middlebury.edu). To release your records to a third-party healthcare provider or designee of your choosing, you must complete an Authorization for the Release of Personal Health Information available on the [Center for Health and Wellness’s Forms website](https://www.middlebury.edu/center-health-wellness/forms) and bring it to a Center office in person, email it to [chw@middlebury.edu](mailto:chw@middlebury.edu), or upload it to your student health portal. Center for Health and Wellness staff are available to review your records with you at any time.
 
 ##### **i. Confidentiality**
 
@@ -70,8 +70,8 @@ Health records at the Center for Health and Wellness are confidential and are co
 
 *   As authorized or required by law (i.e., when we are presented with a valid court order requiring us to release records);
 *   As necessary to protect you or others from a serious threat to health and safety, or to protect property from a serious threat of damage;
-*   As necessary to notify parents and/or College officials when you have a serious mental or physical health problem and are unable to assume responsibility for notifying others;
-*   Under some circumstances when parents or legal guardians may have the right to access the records of a minor.
+*   As necessary to notify guardian and/or College officials when you have a serious mental or physical health problem and are unable to assume responsibility for notifying others;
+*   Under some circumstances when legal guardians may have the right to access the records of a minor.
 
 In addition, Center for Health and Wellness staff confer with one another as needed to provide integrated care for you. We also work with Porter Hospital and the Counseling Service of Addison County (CSAC) to ensure a full range of medical and mental health options for students. When students receive treatment from multiple providers and/or in multiple locations, we exchange only such information as is needed to maintain continuity of care.  Students may make requests to the Center for Health and Wellness, Porter or CSAC to revoke or restrict authorization to share such information.
 
