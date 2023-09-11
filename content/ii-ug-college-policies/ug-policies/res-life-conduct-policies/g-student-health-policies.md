@@ -83,25 +83,25 @@ This policy should not be interpreted as creating any contractual rights and Mid
 
 ##### **ii. Confidentiality for the Treatment of Minors**
 
-According to certain provisions of Vermont State law, parents or legal guardians must provide permission for some forms of healthcare for individuals under the age of 18 (minors). These provisions also allow for certain exceptions. In these situations, a parent’s or legal guardian’s permission is not required:
+According to certain provisions of Vermont State law, legal guardians must provide permission for some forms of healthcare for individuals under the age of 18 (minors). These provisions also allow for certain exceptions. In these situations, a legal guardian’s permission is not required:
 
 *   Minors of any age will be cared for in emergency situations that necessitate immediate treatment;
-*   Minors may receive outpatient mental health counseling without consent of a parent or guardian, but not prescription drugs.
-*   Minors 12 years of age and older may obtain treatment for sexually transmitted diseases, drug dependence, and alcohol abuse;
-*   If a minor requires hospitalization for treatment of sexually transmitted diseases, drug dependence, or alcohol abuse, the parents or legal guardians must be notified of the hospitalization.
-*   Minors of any age may obtain treatment for the termination of a pregnancy, or receive medical treatment necessary to obtain contraceptive devices and medications.
-*   Minors of any age may obtain medical treatment related to rape, incest, or sexual abuse. Health care providers are required to report such incidents to the Department of Children and Families within 24 hours.
-*   Minors 14 years or older may voluntarily admit themselves to a hospital for mental health related treatment if they give informed consent in writing.
-*   Minors under 14 may admit themselves to a hospital for mental health related treatment by providing their own written informed consent and a written application from a parent or guardian.
-*   Minors who are married or have ever been married , minors on active U.S. military duty, and minors emancipated by court order may give informed consent to their own health care.
+*   Minors of any age may receive outpatient mental health counseling without consent of a  guardian, but not prescription medications;
+*   Minors 12 years of age and older may obtain treatment for sexually transmitted diseases, substance dependence and  abuse;
+*   If a minor requires hospitalization for treatment of sexually transmitted diseases, substance dependence, or  abuse, the  legal guardians must be notified of the hospitalization;
+*   Minors of any age may obtain treatment for the termination of a pregnancy, or receive medical treatment necessary to obtain contraceptive devices and medications;
+*   Minors of any age may obtain medical treatment related to rape, incest, or sexual abuse. Health care providers are required to report such incidents to the Department of Children and Families within 24 hours;
+*   Minors 14 years or older may voluntarily admit themselves to a hospital for mental health related treatment if they give informed consent in writing;
+*   Minors under 14 may admit themselves to a hospital for mental health related treatment by providing their own written informed consent and a written application from a parent or guardian;
+*   Minors who are married or have ever been married, minors on active U.S. military duty, and minors emancipated by court order may give informed consent to their own health care.
 
-Center for Health and Wellness staff are available to provide an initial consultation with students who are under 18 years of age in order to review the need for consent for treatment as stipulated by Vermont State law.
+Center for Health and Wellness staff are available to provide an initial consultation with students who are under 18 years of age in order to review the need(s) for guardian consent for treatment(s) as stipulated by Vermont State law.
 
 ##### **iii. Grievance Process**
 
-If you have concerns, needs, or questions that were not (or could not be) addressed by staff members directly involved in your care, you may contact the Executive Director at 802-443-5361 or bmccall@middlebury.edu. You may also contact the Vice President of Student Affairs at 802-443-2465 or sruzicka@middlebury.edu.
+If you have concerns, needs, or questions that were not (or could not be) addressed by staff members directly involved in your care, you may contact the Associate Vice President for Student Health and Well-being at 802-443-5361 or [bmccall@middlebury.edu](mailto:bmccall@middlebury.edu). You may also contact the Vice President of Student Affairs at 802-443-2465 or [sruzicka@middlebury.edu](mailto:sruzicka@middlebury.edu).
 
-Most professions in the Center for Health and Wellness are also governed by laws defining professional conduct and/or codes of ethics. Healthcare consumers who have inquiries can [obtain a form to register a complaint](https://www.sec.state.vt.us/professional-regulation/file-a-complaint.aspx) with the State of Vermont and can also call 802-828-1505 or contact:
+Most professions in the Center for Health and Wellness are also governed by laws and/or professional organizations that define a scope of practice, professional conduct and/or codes of ethics. Healthcare consumers who have inquiries can [obtain a form to register a complaint](https://www.sec.state.vt.us/professional-regulation/file-a-complaint.aspx) with the State of Vermont and can also call 802-828-1505 or contact:
 
 Secretary of State’s Office  
 89 Main Street, 3rd Floor  
