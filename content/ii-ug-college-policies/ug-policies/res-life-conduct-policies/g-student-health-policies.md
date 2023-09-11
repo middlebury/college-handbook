@@ -9,7 +9,7 @@ date: 2021-05-01
 
 [**Vaccines**](#vaccines)
 
-[**Pandemic Preparedness: Required Evacuation Plan**](#pandemic)
+[**Emergency Preparedness: Required Evacuation Plan**](#emergency)
 
 [**Records Retention Policy**](#records)
 
@@ -136,11 +136,11 @@ Other travel vaccines depend on destination and can be determined at a travel vi
 
 Due to the length of time some vaccine series require, it is recommended that all students considering travel abroad also consider receiving the Hepatitis A vaccine series prior to matriculation.
 
-#### **4.** **Pandemic Preparedness: Required Personal Evacuation Plan** {#pandemic}
+#### **4.** **Required Personal Departure Plan in the Case of Evacuation or Emergency** {#emergency}
 
-_All Middlebury College students are required to develop and enter a personal evacuation plan in BannerWeb._
+Because of the potential need for a quick departure from campus related to a personal, family, or community emergency or in response to an outbreak of communicable illness, _all Middlebury College students are required to develop a personal departure plan for emergencies and/or situations that require evacuation, submit it to their program,  and update it on an annual basis._
 
-Because of the potential need for a quick response to an outbreak, individuals are the only people who can effectively plan for themselves. All Middlebury College students are required to develop and submit at least one Personal Evacuation Plan. Students will not be allowed to register for their second semester of classes until they have entered a plan (via Banner Web) that meets the minimum required elements.
+Students should alert any family members, friends, or trusted acquaintances that are a part of their plan at the time of submission and annual review. Students may not be allowed to attend classes, register for classes, or otherwise fully participate in their program until they have provided a plan that meets the minimum required elements as stated within each program.
 
 #### **5\. Records Retention Policy** {#records}
 
