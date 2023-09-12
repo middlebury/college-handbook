@@ -3,8 +3,6 @@ slug: /pages/i-policies-for-all/health-safety/alcohol-drugs
 title: C.7. Alcohol, Tobacco and Other Drugs
 date: 2021-05-01
 ---
-**September 9 2019**
-
 *   [**Introduction**](/pages/i-policies-for-all/health-safety/alcohol-drugs#introduction)
 *   [**Policies**](/pages/i-policies-for-all/health-safety/alcohol-drugs/#middlebury-policies-and-local-state-and-federal-law)
 *   [**Alcohol**](/pages/i-policies-for-all/health-safety/alcohol-drugs/#alcohol)
