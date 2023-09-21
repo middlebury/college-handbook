@@ -4,10 +4,10 @@
 @import "core/functions";
 @import "core/variables";
 @import "core/mixins";
+@import "core/breakpoints";
+@import "core/display";
 
 // dependencies
-@import "../../node_modules/bootstrap/scss/mixins/breakpoints";
-@import "../../node_modules/bootstrap/scss/utilities/display";
 @import "../../node_modules/react-checkbox-tree/lib/react-checkbox-tree.css";
 
 // Base styles
