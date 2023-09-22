@@ -79,7 +79,7 @@ Determinations regarding whether a person is responsible for violating this poli
 
 Coercion means the use of unreasonable pressure to gain sexual access. Coercion is more than a momentary effort to persuade, entice, or attract another person to engage in sexual activity.  When a person makes clear a decision not to engage in sexual activity, or makes a decision to stop sexual activity, or a decision not to go beyond a certain sexual activity, continued pressure to engage can be coercive.  In evaluating whether coercion was used, the College will consider: (i) the frequency of the application of pressure; (ii) the intensity of the pressure; (iii) the degree of isolation of the person being pressured; (iv) the duration of the pressure; and (v) any other similar or related conduct.
 
-Please see also [Appendix A: Applicable Definitions: U.S. State and Federal Law where Middlebury Operates Programs](static/assets/appendix-a-nondiscrimination-policy.pdf).
+Please also see [Appendix A: Applicable Definitions: U.S. State and Federal Law where Middlebury Operates Programs](static/assets/appendix-a-nondiscrimination-policy.pdf).
 
 **Investigation and Resolutions Procedures.**
 
