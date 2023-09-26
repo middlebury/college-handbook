@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/faculty-committees
-date: 2021-05-01
 title: C.2. Faculty Councils and Committees
+date: 2021-05-01
 ---
 There are eight general councils and committees of the faculty:
 
@@ -43,7 +43,7 @@ The order of committee elections is as follows: Promotions Committee, Reappointm
 
 #### **1.A. The Promotions Committee of the Council on Reviews** {#PromoCom}
 
-**a. _Function_**
+**a.** _**Function**_
 
 The Promotions Committee advises the president on each case in which a faculty member is under review for promotion to tenure or to full professor, or is facing dismissal.
 
@@ -51,7 +51,7 @@ The vice president for Academic Affairs and dean of the faculty (VPAA/DoF) sits 
 
 The committee as part of the Council on Reviews will hold an annual open meeting to explain its procedures and to respond to questions and concerns from the faculty.
 
-**b. *Election***
+**b.** _**Election**_
 
 i. The committee will consist of three tenured full professors from the full-time teaching faculty elected by the faculty. No more than two members of the committee may be from one division and no more than one from a department. Each year a member of the faculty will be elected to a three-year term.
 
@@ -63,19 +63,19 @@ iv. The preliminary ballot will list all tenured full professors, with the excep
 
 Following the preliminary ballot, a second ballot will be distributed, listing the five candidates who received the greatest number of votes on the preliminary ballot. Faculty members may vote for up to two candidates on this ballot. After the second round of voting, a final ballot will be distributed, listing the two candidates who received the greatest number of votes on the second ballot. Faculty members may vote for one candidate on this ballot. The candidate with the greatest number of votes will be declared elected.
 
-For any second or third vacancy on the Promotions Committee, the election procedure as described above will be repeated, using the same preliminary ballot. The second ballot in each case will list the names of five candidates who remain eligible for election to the Promotions Committee. If the vacancies are of different lengths, the longest vacancy will be decided by the first round of election, and shorter vacancies by subsequent rounds of election.
+For any second or third vacancy on the Promotions Committee, the election procedure as described above will be repeated, revising the preliminary ballot to account for the mandated balance adjustments following earlier elections. The second ballot in each case will list the names of five candidates who remain eligible for election to the Promotions Committee. If the vacancies are of different lengths, the longest vacancy will be decided by the first round of election, and shorter vacancies by subsequent rounds of election.
 
 In the event of a tie vote on the preliminary ballot of any election, the names of candidates who received the five highest vote totals will be included on the second ballot.  On the second ballot of any election, in the event of a tie among three or more candidates for first place, a runoff ballot will be issued, listing the names of the tied candidates.  Faculty members may vote for one candidate on the runoff ballot.  The names of the two candidates who received the greatest number of votes on the runoff ballot will appear on the final ballot.  On the second ballot of any election, in the event of a tie among two or more candidates for second place, a runoff ballot will be issued, listing the names of the tied candidates.  Faculty members may vote for one candidate on the runoff ballot.  The name of the candidate who received the greatest number of votes on the runoff ballot will appear on the final ballot, along with the name of the candidate who received the greatest number of votes on the second ballot.
 
 #### **1.B. The Reappointments Committee of the Council on Reviews** {#RC}
 
-**a. _Function_**
+**a.** _**Function**_
 
 The Reappointments Committee advises the provost in all reappointment decisions. This committee also conducts ten-year reviews. The VPAA/DoF sits with the Reappointments Committee. All decisions and recommendations by both the committee and the provost shall be made and justified in accordance with the provisions and procedures specified in the Rules of Appointment and Tenure in the Faculty Handbook chapter of this handbook.
 
 The committee as part of the Council on Reviews will hold an annual open meeting to explain its procedures and to respond to questions and concerns from the faculty.
 
-**b. *Election***
+**b.** _**Election**_
 
 i. The committee will consist of three tenured full professors from the full-time teaching faculty elected by the faculty. No more than two members of the committee may be from one division and no more than one from a department. Each year a member of the faculty will be elected to a three-year term.
 
@@ -87,13 +87,13 @@ iv. The preliminary ballot will list all tenured full professors, with the excep
 
 Following the preliminary ballot, a second ballot will be distributed, listing the five candidates who received the greatest number of votes on the preliminary ballot. Faculty members may vote for up to two candidates on this ballot.  After the second round of voting, a final ballot will be distributed, listing the two candidates who received the greatest number of votes on the second ballot.  Faculty members may vote for one candidate on this ballot. The candidate with the greatest number of votes will be declared elected.
 
-For any second or third vacancy on the Reappointments Committee, the election procedure as described above will be repeated, using the same preliminary ballot.  The second ballot in each case will list the names of five candidates who remain eligible for election to the Reappointments Committee.  If the vacancies are of different lengths, the longest vacancy will be decided by the first round of election, and shorter vacancies by subsequent rounds of election.
+For any second or third vacancy on the Reappointments Committee, the election procedure as described above will be repeated, revising the preliminary ballot to account for the mandated balance adjustments following earlier elections.  The second ballot in each case will list the names of five candidates who remain eligible for election to the Reappointments Committee.  If the vacancies are of different lengths, the longest vacancy will be decided by the first round of election, and shorter vacancies by subsequent rounds of election.
 
 In the event of a tie vote on the preliminary ballot of any election, the names of candidates who received the five highest vote totals will be included on the second ballot.  On the second ballot of any election, in the event of a tie among three or more candidates for first place, a runoff ballot will be issued, listing the names of the tied candidates.  Faculty members may vote for one candidate on the runoff ballot.  The names of the two candidates who received the greatest number of votes on the runoff ballot will appear on the final ballot.  On the second ballot of any election, in the event of a tie among two or more candidates for second place, a runoff ballot will be issued, listing the names of the tied candidates.  Faculty members may vote for one candidate on the runoff ballot.  The name of the candidate who received the greatest number of votes on the runoff ballot will appear on the final ballot, along with the name of the candidate who received the greatest number of votes on the second ballot.
 
-#### **2\. The Faculty Council** {#faculty_council}
+#### **2\. The Faculty Council** {#faculty\_council}
 
-**a. *Function***
+**a.** _**Function**_
 
 Faculty Council is the executive committee of the faculty. In this capacity it (1) coordinates faculty business; (2) represents the College faculty when working with the administration and/or Board of Trustees on all matters related to the College faculty; (3) acts as the Committee on Committees; and (4) in conjunction with other elected faculty committees, works with the administration and/or Board of Trustees on matters of shared interest related to the College, the Schools, and the Institute. In fulfilling these roles, Faculty Council will:
 
@@ -119,7 +119,7 @@ x. Meet with Staff Council and elected faculty committees (either separately or 
 
 xi. Act, in consultation with the VPAA/DoF, as a Committee on Committees. In this capacity, Faculty Council will appoint faculty members to, and provide oversight for, all standing committees. The Council may also appoint ad hoc committees to consider and make recommendations regarding matters outside the scope of existing standing committees or to supplement the work of standing committees when necessary. It may recommend to the faculty the reconstruction or abolition of committees. In this function, the Council’s actions are subject to ratification by the faculty.
 
-**b. *Composition***
+**b.** _**Composition**_
 
 i. The council will consist of four tenured faculty members, two pre-tenure (i.e., nontenured regular appointment) faculty members, and one special appointment faculty member. Tenured and pre-tenure faculty must have completed two years of full-time faculty status at Middlebury before his or her elected term begins. Special appointment faculty members are eligible for election if and only if they have contracts extending for at least one year beyond the date of election, and have been a faculty member at the College for at least seven years.  Full-time members of the department of physical education are eligible for election to Faculty Council in the pre-tenure category after two years of full-time service. Faculty members currently under tenure review are not eligible for election.  A member of the Faculty Council may not simultaneously serve on the Council on Reviews, the Educational Affairs Committee, the Committee on Diversity, Equity, and Inclusion, the Strategy Committee, the Resources Committee, or the Appeals Council. No more than two members of the Faculty Council may be from one division, and no more than one member may be from one department.
 
@@ -127,7 +127,7 @@ ii. The members of the Faculty Council will elect one of its tenured members to 
 
 iii. Term of Election:  Normally, members of the faculty will serve for three-year terms. A pre-tenure Faculty Council member who receives tenure during his or her term will complete the term as a tenured member, and the resulting vacancy in the pre-tenure ranks will be filled by election, as specified below.  Changes in the faculty status of special appointment members (e.g., to pre-tenure or tenured status) will be treated in parallel fashion.  If changes in faculty status are such that the Faculty Council is no longer composed of four tenured members, two pre-tenure members, and one special appointment member, then the VPAA/DoF, in consultation with the Faculty Council, will decide which of its members will be excused from Faculty Council prior to the conclusion of his or her term.
 
-**c. *Election***
+**c.** _**Election**_
 
 For elections for Faculty Council, a preliminary ballot will include separate lists of all eligible members of the faculty in those membership categories (tenured, pre-tenure, and special appointment) for which positions are to be filled, except for members of Council on Reviews, Educational Affairs Committee, Committee on Diversity, Equity, and Inclusion, Strategy Committee, Resources Committee, Appeals Council, those who will be on leave during the following year, and those made ineligible or whose obligation is waived because of stipulations set forth above. On the preliminary ballot, faculty members may vote for up to five tenured candidates, up to five pre-tenure candidates, and up to five special appointment candidates. Following the preliminary ballot, a second ballot will be distributed, listing separately the names of the five tenured candidates, the five pre-tenure candidates, and the five special appointment candidates who received the greatest number of votes on the preliminary ballot.  Faculty members may vote for up to two candidates in each category.  After the second round of voting, a final ballot will be distributed, separately listing the two candidates in each category who received the greatest number of votes on the second ballot.  Faculty members may vote for one candidate in each category.  The candidate with the greatest number of votes will be declared elected.
 
@@ -137,13 +137,13 @@ In the event of a tie vote on the preliminary ballot of any election, the names 
 
 #### **3\. Educational Affairs Committee (EAC)** {#eac}
 
-**a. *Function***
+**a.** _**Function**_
 
 The Educational Affairs Committee has two functions of equal importance: (1) to oversee the general direction of the College curriculum and (2) to make recommendations on staffing and the allocation of teaching resources. The EAC considers proposals for new majors, standalone minors\*, and programs, changes in degree requirements and the College academic calendar, and other matters of general educational policy, and refers the proposals it approves to the full faculty for further action. The Committee considers proposals for new and restored positions on the faculty and for replacement staffing for faculty on leave, and recommends the proposals it approves to the provost or the provost’s designate. The committee's purpose is to provide guidance and direction to the manner in which resources are allocated to carry out Middlebury's educational mission as a liberal arts college.
 
 \*A standalone minor is defined as any minor for which there is no corresponding major.
 
-**b. *Composition***
+**b.** _**Composition**_
 
 i. The EAC will be composed of seven members: five elected, full-time, tenured members of the faculty; and two academic administrators appointed by the provost, one of whom will chair the committee. The faculty members of the EAC will elect one of their members to serve as a co-chair, alongside the administrative co-chair. When voting is necessary, only the elected faculty members shall vote, except in the case of a tie, when the chair will cast a deciding vote.
 
@@ -153,7 +153,7 @@ iii. In carrying out its functions, the EAC will create, as it deems necessary, 
 
 iv. The Student Government Association will be responsible for the appointment of four student representatives to serve as members of a Student Educational Affairs Committee (SEAC). The SEAC will invite one faculty member of the EAC to serve in an advisory capacity. The EAC will meet with the SEAC at least once a month to discuss matters of general educational policy. The EAC will consult with the SEAC prior to presenting proposals that require approval of the full faculty, such as proposals for new majors, standalone minors, and programs, changes in degree requirements and the College academic calendar, and other matters of general educational policy. The SEAC may initiate proposals for consideration by the EAC. The members of the SEAC are permitted to attend monthly faculty meetings, with the right to speak during consideration of curricular measures presented by the Educational Affairs Committee.
 
-**c. *Election***
+**c.** _**Election**_
 
 i. The five elected members of the Educational Affairs Committee will be elected at large by all voting members of the faculty. No more than two members of the committee may be from one division, and no more than one from a department. The elected members will serve three-year terms. Faculty members elected to the EAC normally will not, during their term of office, serve on any other committee or serve as chair of a department or division.
 
@@ -161,13 +161,13 @@ ii. The preliminary ballot will list all tenured members of the full-time teachi
 
 Following the preliminary ballot, a second ballot will be distributed listing the five candidates who received the greatest number of votes on the preliminary ballot.  Faculty members may vote for up to two candidates on this ballot.  After the second round of voting, a final ballot will be distributed listing the two candidates who received the greatest number of votes on the second ballot.  Faculty members may vote for one candidate on this ballot.  The candidate with the greatest number of votes will be declared elected.
 
-For any second or third vacancy on the EAC, the election procedure as described above will be repeated, using the same preliminary ballot.  The second ballot in each case will list the names of five candidates who remain eligible for election to the EAC.  If the vacancies are of different lengths, the longest vacancy will be decided by the first round of election, and shorter vacancies by subsequent rounds of election.
+For any second or third vacancy on the EAC, the election procedure as described above will be repeated, revising the preliminary ballot to account for the mandated balance adjustments following earlier elections.  The second ballot in each case will list the names of five candidates who remain eligible for election to the EAC.  If the vacancies are of different lengths, the longest vacancy will be decided by the first round of election, and shorter vacancies by subsequent rounds of election.
 
 For any fourth or fifth vacancy on the EAC, a new preliminary ballot will be issued, and the election procedures as described above will be followed.
 
 In the event of a tie vote on the preliminary ballot of any election, the names of candidates who received the five highest vote totals will be included on the second ballot.  On the second ballot of any election, in the event of a tie among three or more candidates for first place, a runoff ballot will be issued, listing the names of the tied candidates.  Faculty members may vote for one candidate on the runoff ballot.  The names of the two candidates who received the greatest number of votes on the runoff ballot will appear on the final ballot.  On the second ballot of any election, in the event of a tie among two or more candidates for second place, a runoff ballot will be issued, listing the names of the tied candidates.  Faculty members may vote for one candidate on the runoff ballot.  The name of the candidate who received the greatest number of votes on the runoff ballot will appear on the final ballot, along with the name of the candidate who received the greatest number of votes on the second ballot.
 
-**d. *Procedures***
+**d.** _**Procedures**_
 
 i. _Educational Policy_
 
@@ -177,13 +177,13 @@ i. _Educational Policy_
 
 (c) Such matters may not be initiated at the May plenary session of the faculty.
 
-ii. *Programs and Majors*
+ii. _Programs and Majors_
 
 (a) The Educational Affairs Committee will recommend for approval by a vote of the faculty any new program, standalone minor, or major or the elimination of any existing program, standalone minor, or major.
 
-(b) Proposals for new programs, standalone minors, and majors to be introduced in the following year's catalog should be submitted, with divisional approval, to the EAC no later than November 15\. All proposals for new programs and majors recommended by the EAC will be presented to the full faculty for a vote.
+(b) Proposals for new programs, standalone minors, and majors to be introduced in the following year's catalog should be submitted, with divisional approval, to the EAC no later than November 15. All proposals for new programs and majors recommended by the EAC will be presented to the full faculty for a vote.
 
-iii. *Academic Regulations*
+iii. _Academic Regulations_
 
 (a) Proposals for changes in academic regulations included in the catalog and the College Handbook will be referred to the Educational Affairs Committee.
 
@@ -195,11 +195,11 @@ The various standing committees will keep the Educational Affairs Committee info
 
 _i. Curriculum Committee_
 
-(a) *Composition*: the dean of curriculum, who is chair, four faculty members from different divisions, and two student members, elected by the Student Government Association.
+(a) _Composition_: the dean of curriculum, who is chair, four faculty members from different divisions, and two student members, elected by the Student Government Association.
 
-(b) *Function:* To approve or reject requests for additions, deletions, or alterations of courses that have been recommended by the appropriate divisions/departments; to act upon proposed changes in requirements for existing programs, majors, and minors; to exercise general oversight of the distribution requirement and the cultures and civilizations requirement; to exercise general oversight of the first-year seminar program; to undertake responsibility for the administration of an effective and well-balanced winter term program; to approve, in consultation with the dean of the College or designee, proposals from students for Independent Scholar status. The divisions may propose to the Curriculum Committee that certain courses be given divisional designations rather than departmental letters. Such proposals require prior consent of the instructor's department and the division in which the course is to be offered.
+(b) _Function:_ To approve or reject requests for additions, deletions, or alterations of courses that have been recommended by the appropriate divisions/departments; to act upon proposed changes in requirements for existing programs, majors, and minors; to exercise general oversight of the distribution requirement and the cultures and civilizations requirement; to exercise general oversight of the first-year seminar program; to undertake responsibility for the administration of an effective and well-balanced winter term program; to approve, in consultation with the dean of the College or designee, proposals from students for Independent Scholar status. The divisions may propose to the Curriculum Committee that certain courses be given divisional designations rather than departmental letters. Such proposals require prior consent of the instructor's department and the division in which the course is to be offered.
 
-(c) *Procedure:*
+(c) _Procedure:_
 
 (1) Proposals for the addition of courses to the curriculum must be presented to the Curriculum Committee for approval. Proposed courses for the fall and spring terms should be submitted to the Curriculum Committee by the deadline listed in the Chairs' Calendar.
 
@@ -215,18 +215,18 @@ The Curriculum Committee will consult the EAC before acting on proposals which i
 
 All approved changes will be reported to the faculty.
 
-ii. *Administration Committee*
+ii. _Administration Committee_
 
 This committee is responsible for reviewing petitions from students for exceptions to certain academic policies and from faculty members for grade changes. Policies overseen by the Administration Committee include but are not limited to the following:
 
-* course drops after the deadline for exceptional personal circumstances;
-* reduced course load for exceptional personal circumstances;
-* invocation of Pass/D/Fail status after the deadline for exceptional personal circumstances;
-* requests for readmission after academic failure or conduct-related suspension;
-* reinstatement for the purpose of credit transfer toward the Middlebury degree;
-* exceptions allowing retaking of courses for which credit was earned;
-* waivers of residence requirements for first-year Winter Term or senior year for non-medical reasons;
-* grade change requests from faculty members.
+*   course drops after the deadline for exceptional personal circumstances;
+*   reduced course load for exceptional personal circumstances;
+*   invocation of Pass/D/Fail status after the deadline for exceptional personal circumstances;
+*   requests for readmission after academic failure or conduct-related suspension;
+*   reinstatement for the purpose of credit transfer toward the Middlebury degree;
+*   exceptions allowing retaking of courses for which credit was earned;
+*   waivers of residence requirements for first-year Winter Term or senior year for non-medical reasons;
+*   grade change requests from faculty members.
 
 The Office of the Registrar may forward to the Administration Committee unusual or unprecedented petitions that fall within the office’s scope of responsibility for which the Registrar requests a Committee decision.
 
@@ -234,10 +234,10 @@ The Administration Committee is composed of two co-chairs, generally a dean from
 
 Middlebury’s academic policies embody the expectations that students are enrolled at Middlebury to pursue their academic degree; that they must adhere responsibly to the policies that support this goal; and that if factors arise that interfere with this goal, they will address them responsibly and/or seek help from Middlebury or external resources in a timely fashion. When evaluating petitions requesting exceptions to these policies, the Committee generally considers the following:
 
-* the goals of the relevant policies;
-* the responsibilities of students and of the institution;
-* the principles of fairness to the petitioner and of fairness to all other affected parties;
-* the individual circumstances of the petitioner.
+*   the goals of the relevant policies;
+*   the responsibilities of students and of the institution;
+*   the principles of fairness to the petitioner and of fairness to all other affected parties;
+*   the individual circumstances of the petitioner.
 
 Petitions may be approved, tabled, or denied. Petitions are tabled when the Committee identifies additional information needed for the evaluation; upon its receipt, the Committee resumes consideration. In cases of denial, petitioners who wish to provide relevant new or clarifying information may resubmit their petition to the Administration Committee for reconsideration.
 
@@ -251,19 +251,19 @@ iv. _Preprofessional Committees_
 
 To prepare committee recommendations; to assist students in their applications to medical, dental, engineering, and other professional schools.
 
-v. *Education Studies Committee*
+v. _Education Studies Committee_
 
 To work with the director of education studies in an advisory capacity. The committee consists of the director of education studies and two faculty members.
 
-vi. *Off-Campus Study*
+vi. _Off-Campus Study_
 
 To review, appraise, and approve or disapprove all student applications for a leave of absence to study off campus. The committee will be composed of two members of the faculty, one of whom is from the foreign language division, the director of off-campus study, and two senior students who have participated in off-campus programs.
 
-vii. *Center for Careers and Internships Advisory Committee*
+vii. _Center for Careers and Internships Advisory Committee_
 
 To work with the director of the Center for Careers and Internships in an advisory capacity. The committee consists of the director, two faculty members, and students.
 
-viii. *Honorary Degree Committee*
+viii. _Honorary Degree Committee_
 
 Two faculty members will be appointed to serve on the trustee committee that recommends to the president candidates for honorary degrees and Commencement speakers.
 
@@ -301,7 +301,7 @@ Elections and appointments will normally be for three-year terms. Positions that
 
 The CDEI will elect one of its own tenured members as chair. The chair will run meetings, set meeting agendas, write reports, report to the faculty at plenary meetings, and coordinate work with other committee chairs as needed.
 
-**c. *Election***
+**c.** _**Election**_
 
 For election for the CDEI, a preliminary ballot will include a list of all eligible tenured members, all eligible pre-tenured faculty members on regular appointment, and all eligible faculty members on special appointment who have contracts extending for at least one year beyond the date of start of the term to which they would be electedFaculty members already serving on Council on Reviews, Faculty Council, Educational Affairs Committee, Strategy Committee, Resources Committee, those who will be on leave during the following year, and those made ineligible or whose obligation is waived because of stipulations set forth above are ineligible for election.  On the preliminary ballot, faculty members may vote for up to five candidates. Following the preliminary ballot, a second ballot will be distributed, listing the names of the five candidates who received the greatest number of votes on the preliminary ballot. Faculty members may vote for up to two candidates on the second ballot. After the second round of voting, a final ballot will be distributed, listing the two candidates who received the greatest number of votes on the second ballot. Faculty members may vote for one candidate on the final ballot. The candidate with the greatest number of votes will be declared elected.
 
@@ -311,11 +311,11 @@ In the event of a tie vote on the preliminary ballot of any election, the names 
 
 **d. Procedures**
 
-In carrying out its functions, the CDEI may create *ad hoc* committees comprised of other faculty (and, as necessary, staff members and students) as needed.  The procedures for seeking approval of CDEI initiatives will be dictated by the nature of the initiative, but will follow existing channels for review as appropriate, including but not limited to the SGA, Community Council, Faculty Council, Educational Affairs Committee, and full faculty vote.
+In carrying out its functions, the CDEI may create _ad hoc_ committees comprised of other faculty (and, as necessary, staff members and students) as needed.  The procedures for seeking approval of CDEI initiatives will be dictated by the nature of the initiative, but will follow existing channels for review as appropriate, including but not limited to the SGA, Community Council, Faculty Council, Educational Affairs Committee, and full faculty vote.
 
 #### **5\. The Strategy Committee** {#strategy}
 
-**a. *Function***
+**a.** _**Function**_
 
 The Strategy Committee represents the College faculty in long-range strategic planning with the administration and the Board of Trustees. Though the committee is concerned primarily with the College, it will also represent the faculty in shared-governance discussions on matters of common interest to the College, the Schools, and the Institute. The committee is also charged with engaging the faculty, administration, and trustees on developments in higher education (both nationally and globally), as they might affect Middlebury College. In fulfilling this charge, the Strategy Committee will:
 
@@ -335,7 +335,7 @@ The Strategy Committee represents the College faculty in long-range strategic pl
 
 8\. At the end of each academic year submit a brief report to the faculty on its deliberations and actions, and identify issues for consideration the following year. This report will be included in the minutes of the last plenary session of the faculty.
 
-**b. *Composition***
+**b.** _**Composition**_
 
 i. The Strategy Committee will consist of four faculty members. Membership on the Strategy Committee is open to all tenured faculty members, all pre-tenured faculty members on regular appointment, and all faculty members on special appointment who have contracts extending for at least one year beyond the date of start of the term to which they would be elected or appointed. A member of the Strategy Committee must have completed two years of full-time faculty status at Middlebury before his or her term begins. A member of the Strategy Committee may not simultaneously serve on the Council on Reviews, the Faculty Council, the Educational Affairs Committee, the Committee on Diversity, Equity, and Inclusion, the Resources Committee, or the Appeals Council. No more than two members of the Strategy Committee may be from one division and no more than one member may be from one department.
 
@@ -345,7 +345,7 @@ iii. Elections and appointments will normally be for three-year terms. Positions
 
 iv. The Strategy Committee will elect one of its own members as chair. The chair will run meetings, set meeting agendas, write reports, report to the faculty at plenary meetings, and coordinate work with other committee chairs as needed.
 
-**c. *Election***
+**c.** _**Election**_
 
 For election for the Strategy Committee, a preliminary ballot will include a list of all eligible tenured members, all eligible pre-tenured faculty members on regular appointment, and all eligible faculty members on special appointment who have contracts extending for at least one year beyond the date of start of the term to which they would be elected. Faculty members already serving on Council on Reviews, Faculty Council, Educational Affairs Committee, Committee on Diversity, Equity, and Inclusion, Resources Committee, those who will be on leave during the following year, and those made ineligible or whose obligation is waived because of stipulations set forth above are ineligible for election.  On the preliminary ballot, faculty members may vote for up to five candidates. Following the preliminary ballot, a second ballot will be distributed, listing the names of the five candidates who received the greatest number of votes on the preliminary ballot. Faculty members may vote for up to two candidates on the second ballot. After the second round of voting, a final ballot will be distributed, listing the two candidates who received the greatest number of votes on the second ballot. Faculty members may vote for one candidate on the final ballot. The candidate with the greatest number of votes will be declared elected.
 
@@ -355,7 +355,7 @@ In the event of a tie vote on the preliminary ballot of any election, the names 
 
 #### **6\. The Resources Committee** {#resources}
 
-**a. *Function***
+**a.** _**Function**_
 
 The Resources Committee represents the College faculty in shared-governance discussions with the administration and Board of Trustees regarding Middlebury’s financial sustainability, especially as it relates to the College. In addition to its concern with matters directly related to the faculty, the Committee will also consider other financial matters that affect the integrity of Middlebury’s academic program and, for example, the College’s commitments to supporting students with financial need and insuring the diversity of the community. In carrying out this role, it will:
 
@@ -377,7 +377,7 @@ The Resources Committee represents the College faculty in shared-governance disc
 
 9\. At the end of each academic year, submit a brief summary report to the faculty on its deliberations and actions, and identify issues for consideration for the following year. This report will be included in the minutes of the last plenary session.
 
-**b. *Composition***
+**b.** _**Composition**_
 
 i. The Resources Committee will consist of four faculty members. Membership on the Resources Committee is open to all tenured faculty members, all pre-tenured faculty members on regular appointment, and faculty members on special appointment who have contracts extending for at least one year beyond the date of start of the term to which they would be elected or appointed, and have been a faculty member at the College for at least seven years. A member of the Resources Committee must have completed two years of full-time faculty status at Middlebury before his or her term begins. A member of the Resources Committee may not simultaneously serve on the Council of Reviews, the Faculty Council, the Educational Affairs Committee, the Committee on Diversity, Equity, and Inclusion, the Strategy Committee, or the Appeals Council. No more than two members of the Resources Committee may be from one division, and no more than one member may be from one department.
 
@@ -387,7 +387,7 @@ iii. Elections and appointments will normally be for three-year terms. Positions
 
 iv. The Resources Committee will elect one of its own members as chair. The chair will run meetings, set meeting agendas, write reports, report to the faculty at plenary meetings, and coordinate work with other committee chairs as needed.
 
-**c. *Election***
+**c.** _**Election**_
 
 For election for the Resources Committee, a preliminary ballot will include a list of all eligible tenured members, all pre-tenured faculty members on regular appointment, and all eligible faculty members on special appointment who have contracts extending for at least one year beyond the date of start of the term to which they would be elected. Faculty members already serving on Council on Reviews, Faculty Council, Educational Affairs Committee, Committee on Diversity, Equity, and Inclusion, Strategy Committee, those who will be on leave during the following year, and those made ineligible or whose obligation is waived because of stipulations set forth above are ineligible for election.  On the preliminary ballot, faculty members may vote for up to five candidates. Following the preliminary ballot, a second ballot will be distributed, listing the names of the five candidates who received the greatest number of votes on the preliminary ballot. Faculty members may vote for up to two candidates on the second ballot. After the second round of voting, a final ballot will be distributed, listing the two candidates who received the greatest number of votes on the second ballot. Faculty members may vote for one candidate on the final ballot. The candidate with the greatest number of votes will be declared elected.
 
@@ -397,11 +397,11 @@ In the event of a tie vote on the preliminary ballot of any election, the names 
 
 #### **7\. The Appeals Council and Appeal Committees** {#appeals}
 
-**a. *Function***
+**a.** _**Function**_
 
 The Appeals Council will form an Appeal Committee to hear the case of any faculty member who believes that his or her non-reappointment is based on grounds involving procedural errors that may have influenced the Promotions Committee or the Reappointments Committee, the president and/or provost, or violations of academic freedom, as outlined in the Rules of Appointment and Tenure, Appeal Procedures, in the Faculty Handbook section of this handbook.
 
-**b. *Election of Appeals Council***
+**b.** _**Election of Appeals Council**_
 
 The faculty will elect five tenured faculty to serve as an Appeals Council. The Appeals Council will select a secretary. All tenured members of the faculty, except the members of the Council on Reviews, the Faculty Council, the Educational Affairs Committee, the Committee on Diversity, Equity, and Inclusion, the Strategy Committee, and the Resources Committee, administrative officers, and those scheduled for leave in the year in which the elected term would begin are eligible for election to the Appeals Council. No two members of the Appeals Council may be from the same department.
 
@@ -413,7 +413,7 @@ For any vacancy, if no eligible candidate obtains support from 50% or more of th
 
 In the event of a tie vote on the preliminary ballot of any election, the names of candidates who received the two highest vote totals will be included on the second ballot.  If no candidate on the second ballot receives more than 50% of the votes cast, the names of the two candidates who received the greatest number of votes will appear on a final ballot.
 
-**c. _Formation of an Appeal Committee_**
+**c.** _**Formation of an Appeal Committee**_
 
 When an appeal is to be heard, the Appeals Council will form an Appeal Committee, choosing its chair and two other members by rotation from the Appeals Council. In no case will a member of an Appeal Committee be a member of the appellant's department. In the event of an appeal resulting from a negative Physical Education and Athletics Committee on Reappointment (PEACOR) review, an additional member will be selected at random from the pool of eligible senior associates in athletics to serve on the Appeal Committee alongside two regular members of the Appeals Council. The selected senior associate in athletics should have no shared coaching responsibilities with the appellant. The Appeals Council will hear and act upon any request (whether by a panel member or by the appellant) that any member be disqualified from serving on an Appeal Committee; such request must be submitted to the Appeals Council within one week after the appellant has been notified of the Appeal Committee's membership.
 
