@@ -3,7 +3,7 @@ slug: /pages/ii-ug-college-policies/faculty
 title: 2.3. Faculty Handbook
 date: 2021-05-01
 ---
-These rules are applicable to members of the faculty of the undergraduate College. Nothing in this shall override any applicable Middlebury-Wide policy.
+These rules are applicable to members of the faculty of the undergraduate College. Nothing in this section shall override any applicable Middlebury-Wide policy.
 
 ## Please select from the following content:
 
