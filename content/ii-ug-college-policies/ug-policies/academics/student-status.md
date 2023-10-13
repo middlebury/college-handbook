@@ -13,7 +13,7 @@ Students are "in good academic standing" if they are meeting the requirements of
 
 #### **2. Course Warnings**
 
-Faculty members may send out course warnings to students thought to be in danger of receiving grades of "D" or "F."  The Student Life Dean will normally monitor grades around the middle of the term and may contact parents or guardians of students who appear to be having academic difficulties, including receiving one or more course warning.
+Faculty members may send out course warnings to students thought to be in danger of receiving grades of "D" or "F."  The Class Dean will normally monitor grades around the middle of the term and may contact parents or guardians of students who appear to be having academic difficulties, including receiving one or more course warning.
 
 #### **3. Probation**
 
@@ -27,7 +27,7 @@ a. Off-Campus Study status for overseas programs is approved by the [Off-Campus 
 
 b. Middlebury agrees to accept approved junior year abroad programs as equivalent to a full year's work. Students on other forms of leave have no such guarantee and must seek final approval of courses after their return to Middlebury. Students on Off-Campus Study status must inform the College if they withdraw from the institution they are attending or if they take a reduced course load.
 
-c.The following policies will govern readmission for students who have been approved for programs of Off-Campus Study and then wish to change their status:
+The following policies will govern readmission for students who have been approved for programs of Off-Campus Study and then wish to change their status:
 
 i. Such students will be readmitted for fall or spring semester only. They will not be readmitted for summer study or for winter term, regardless of the plan for housing.
 
@@ -43,7 +43,7 @@ iv. There will be no readmissions after the September 1 and January 15 dates.
 
 i. Students may choose to take a leave of absence during their time at Middlebury.  They may choose not to return after a successfully completed semester, or they may choose to take a leave during a semester in progress. If they choose to withdraw from a semester in progress prior to December 1 for the fall semester or May 1 for the spring semester, no courses will appear on their transcript. (A course with a failing grade assessed as a penalty for academic dishonesty by the Academic Judicial Board will not be removed from a transcript regardless of the timing.)
 
-ii.  Students who withdraw in the middle of a semester are ordinarily eligible for readmission after a full Fall or Spring semester away.  If they withdraw from a semester after December 1 (fall) or May 1 (spring), their courses will remain on the transcript. Any student wishing to take a leave of absence should consult with their Class Dean.
+ii.  Students who withdraw in the middle of a semester are ordinarily eligible for readmission after a full Fall or Spring semester away.  If they withdraw from a semester after December 1 (fall) or May 1 (spring), their courses will remain on the transcript. Any student wishing to take a leave of absence should consult their Class Dean.
 
 iii.  In circumstances where a student does not respond to communications about their intentions to return for the semester, and there is no other information suggesting their intent to return (e.g., no class registration, no engagement with Student Financial Services, not participating in housing processes, etc.) they will automatically be placed on a voluntary leave of absence.
 
@@ -78,7 +78,7 @@ ii. The College may place the student on a temporary mandatory leave of absence 
 
 i. Students on leave are eligible for readmission for a three-year period, and many students who take a leave will have no requirements attached to their readmission.
 
-ii. Students eligible for readmission can expect to receive instructions for completing the online readmission forms from their Class Dean. They must confirm their plan to return on this readmission date with their Student Life Dean no later than June 15 for the fall term and November 1 for the spring semester. Normally, readmission is for fall or spring semester only. Students will be readmitted for winter term or summer study only with special permission from the Vice President for Student Affairs or designee.
+ii. Students eligible for readmission can expect to receive instructions for completing the online readmission forms from their Class Dean. They must confirm their plan to return on this readmission date with their Class Dean no later than June 15 for the fall term and November 1 for the spring semester. Normally, readmission is for fall or spring semester only. Students will be readmitted for winter term or summer study only with special permission from the Vice President for Student Affairs or designee.
 
 iii. Students on probation for disciplinary or academic reasons will resume their probationary status upon their return for the duration of the assigned probationary period.
 
@@ -106,7 +106,7 @@ A student who receives D or an F in the winter term or in summer study while on 
 
 A student who is enrolled in three courses and receives one F and one D grade, or two D grades, will be required to withdraw. A student enrolled in three courses who is on probation and who receives one D grade will be required to withdraw.
 
-The above rules also apply to Middlebury undergraduates who enroll in Language Schools, Schools Abroad, Middlebury Institute for International Studies at Monterey, Bread Loaf School of English, School of the Environment, and externally sponsored programs approved by the office of International Programs and Off-Campus Study. Students withdrawn due to academic failure are not eligible to attend any Middlebury school or program until formally readmitted to the College.
+The above rules also apply to Middlebury undergraduates who enroll in Language Schools, Schools Abroad, Middlebury Institute of International Studies at Monterey, Bread Loaf School of English, School of the Environment, and externally sponsored programs approved by the office of International Programs and Off-Campus Study. Students withdrawn due to academic failure are not eligible to attend any Middlebury school or program until formally readmitted to the College.
 
 At any time, a student failing a course, consistently receiving grades below C-, or in any way neglecting the obligations of a course, may be placed on course warning.
 
@@ -124,17 +124,19 @@ Regular Readmission is the recommended timeline for all students to ensure the b
 
 **Late-Decision Readmission:** Application must be made by August 15 for fall semester, and January 15 for spring semester. Only complete applications consisting of a petition and all supporting materials (including a final, official transcript) submitted by the August 15 or the January 15 deadline will be considered for Late-Decision Readmission. 
 
-Late-Decision Readmission is not recommended, but is available as an exceptional provision that comes with caveats and conditions which students should carefully consider before electing it. Deadlines for Late-Decision Readmission have been set to allow students the possibility of returning in the spring or fall term immediately following coursework done elsewhere to qualify for readmission. Since students readmitted via Late-Decision will be notified of that outcome after the registration and housing processes have been run, the selection of courses and housing will be limited. Students may elect this option only on the condition that they accept whatever courses and housing assignments are available. 
+Late-Decision Readmission is not recommended but is available as an exceptional provision that comes with caveats and conditions which students should carefully consider before electing it. Deadlines for Late-Decision Readmission have been set to allow students the possibility of returning in the spring or fall term immediately following coursework done elsewhere to qualify for readmission. Since students readmitted via Late-Decision will be notified of that outcome after the registration and housing processes have been run, the selection of courses and housing will be limited. Students may elect this option only on the condition that they accept whatever courses and housing assignments are available. 
 
 <table><tbody><tr><td colspan="2"><strong>SUMMARY OF DEADLINES</strong></td></tr><tr><td><strong>Return Track</strong></td><td><strong>Application Deadline</strong></td></tr><tr><td>Fall Return, Regular</td><td>June 15</td></tr><tr><td>Fall Return, Late Decision</td><td>August 15</td></tr><tr><td>Spring Return, Regular</td><td>November 1</td></tr><tr><td>Spring Return, Late Decision &nbsp; &nbsp;&nbsp;</td><td>January 15</td></tr></tbody></table>
 
 **9\. Special Students**
 
-Special student status is designated for students with only one or two remaining credits (although Febs may apply for special student status for the fall semester when they have three remaining credits), and for students with a documented disability for which this arrangement is deemed by the Disability Resource Center staff to be a reasonable accommodation. Special students are charged by the course, and may not live on campus.
+Special student status is designated for students with only one or two remaining credits (although Febs may apply for special student status for the fall semester when they have three remaining credits), and for students with a documented disability for which this arrangement is deemed by the Disability Resource Center staff to be a reasonable accommodation. Special students are charged by the course and may not live on campus.
 
 Students applying for special student status based on course completion must submit a completed Special Student application to the Office of the Registrar for approval. Students applying for special student status based on a documented disability must submit their request, along with appropriate documentation, to the Disability Resource Center office. [Applications for special student status](https://www.middlebury.edu/offices/academic/records/Forms/stuforms) must ordinarily be filed with the Office of the Registrar by March 15 for the fall semester and November 15 for the spring semester. Students whose circumstances change after March 15 or November 15 may file applications for special student status after those deadlines if they have compelling reasons.
 
-Occasionally, special students wish to remain living and eating on campus. When this request is based on a documented disability, students should submit this request to the Disability Resource Center office. When this request is based on exceptional personal circumstances, students may apply to the Administration Committee.
+Beginning in the spring 2024 semester, special students will automatically be added to the 50 meal plan.  Special students should contact Dining Services if they would like to opt out of a meal plan. 
+
+Occasionally, special students wish to remain living on campus. When this request is based on a documented disability, students should submit this request to the Disability Resource Center office. When this request is based on exceptional personal circumstances, students may apply to the Administration Committee.
 
 #### **10\. Ninth Semester**
 
