@@ -5,7 +5,7 @@ date: 2021-05-01
 ---
 **1\. General**
 
-a. The Curriculum Committee is responsible for the general administration of the Summer Study academic program. All courses must be approved first by the Curriculum Committee, which may make or suggest adjustments in proposed courses in consultation with those concerned, and then by the vice president for Academic Affairs/dean of the faculty (VPAA/DOF) who, in consultation with other College administrators, will review proposed courses for logistical and financial feasibility.  Only courses approved by both the Curriculum Committee and the VPAA/DOF will be offered.
+a. The Curriculum Committee is responsible for the general administration of the Summer Study academic program. All courses must be approved first by the Curriculum Committee, which may make or suggest adjustments in proposed courses in consultation with those concerned, and then by the Vice President for Academic Affairs (VPAA) who, in consultation with other College administrators, will review proposed courses for logistical and financial feasibility.  Only courses approved by both the Curriculum Committee and the VPAA will be offered.
 
 b. Each course proposal should contain the following items: title, description, class format, prerequisites, maximum effective size, and budgetary requests (if any).  Summer Study courses should include recommendations concerning academic distribution and cultures and civilizations distribution requirements.    
 
@@ -23,7 +23,7 @@ c. A maximum of three Summer Study credits will count toward required credits fo
 
 d. Summer Study course registration: 
 
-i. Students are not required to enroll in any Summer Study offering.  Students who do enroll must have already matriculated: they may not take a Summer Study course in advance of their first semester or term as Middlebury students. 
+i. Students are not required to enroll in any Summer Study offering.  In most cases, students who do enroll must have already matriculated: they may not take a Summer Study course in advance of their first semester or term as Middlebury students. 
 
 ii. Summer Study course offerings will be announced the preceding winter or spring.  Students will apply to the faculty member offering a particular course, and only those students receiving faculty approval will be permitted to register.  Students will register via procedures announced by the Office of the Registrar.
 
