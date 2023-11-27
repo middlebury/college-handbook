@@ -4,8 +4,8 @@ backend:
   branch: master
   accept_roles: ["admin", "editor"]
 
-media_folder: /assets
-public_folder: /assets
+media_folder: static/assets
+public_folder: static/assets
 display_url: https://www.middlebury.edu/handbook/
 
 publish_mode: editorial_workflow
