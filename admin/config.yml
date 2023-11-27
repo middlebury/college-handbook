@@ -53,13 +53,13 @@ collections:
           required: false,
         }
       - {
-        label: "Date Edited",
-        name: "date",
-        widget: "datetime",
-        date_format: "YYYY-MM-DD",
-        time_format: false,
-        format: "L",
-        required: false,
+          label: "Date Edited",
+          name: "date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "L",
+          required: false,
         }
       - {
           label: "Text",
@@ -109,13 +109,13 @@ collections:
           required: false,
         }
       - {
-        label: "Date Edited",
-        name: "date",
-        widget: "datetime",
-        date_format: "YYYY-MM-DD",
-        time_format: false,
-        format: "L",
-        required: false,
+          label: "Date Edited",
+          name: "date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "L",
+          required: false,
         }
       - {
           label: "Text",
@@ -137,13 +137,13 @@ collections:
           required: false,
         }
       - {
-        label: "Date Edited",
-        name: "date",
-        widget: "datetime",
-        date_format: "YYYY-MM-DD",
-        time_format: false,
-        format: "L",
-        required: false,
+          label: "Date Edited",
+          name: "date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "L",
+          required: false,
         }
       - {
           label: "Text",
@@ -165,13 +165,13 @@ collections:
           required: false,
         }
       - {
-        label: "Date Edited",
-        name: "date",
-        widget: "datetime",
-        date_format: "YYYY-MM-DD",
-        time_format: false,
-        format: "L",
-        required: false,
+          label: "Date Edited",
+          name: "date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "L",
+          required: false,
         }
       - {
           label: "Text",
