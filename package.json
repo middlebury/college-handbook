@@ -14,21 +14,21 @@
     "serve": "gatsby serve --prefix-paths",
     "clean": "gatsby clean"
   },
-  "devDependencies": {
+  "dependencies": {
     "@ckeditor/ckeditor5-react": "^6.2.0",
     "ckeditor5-custom-build": "git+https://github.com/poojagunturu96/ckeditor5-markdown.git",
-    "gatsby": "^5.12.11",
+    "decap-cms-app": "^3.0.12",
+    "gatsby": "^5.13.0",
+    "gatsby-plugin-decap-cms": "^4.0.3",
     "gatsby-plugin-local-search": "^2.0.1",
-    "gatsby-plugin-netlify-cms": "^7.9.0",
-    "gatsby-plugin-react-helmet": "^6.9.0",
+    "gatsby-plugin-react-helmet": "^6.13.0",
     "gatsby-plugin-remove-fingerprints": "0.0.2",
-    "gatsby-plugin-sass": "^6.12.3",
-    "gatsby-remark-autolink-headers": "^6.12.3",
-    "gatsby-source-filesystem": "^5.12.1",
-    "gatsby-transformer-remark": "^6.12.3",
+    "gatsby-plugin-sass": "^6.13.0",
+    "gatsby-remark-autolink-headers": "^6.13.0",
+    "gatsby-source-filesystem": "^5.13.0",
+    "gatsby-transformer-remark": "^6.13.0",
     "gh-pages": "^6.1.0",
-    "marked": "^10.0.0",
-    "netlify-cms-app": "^2.15.72",
+    "marked": "^11.1.0",
     "query-string": "^8.1.0",
     "react": "^18.2.0",
     "react-checkbox-tree": "^1.7.2",
@@ -37,5 +37,8 @@
     "react-icons": "^4.12.0",
     "react-use-flexsearch": "^0.1.1",
     "sass": "^1.69.5"
+  },
+  "overrides": {
+    "graphql": "^16.7.1"
   }
 }
