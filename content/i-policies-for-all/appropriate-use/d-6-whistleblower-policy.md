@@ -1,9 +1,9 @@
 ---
 slug: /pages/i-policies-for-all/appropriate-use/d-6-whistleblower-policy
-date: 2021-05-01
 title: D.6. Whistleblower Policy
+date: 2021-05-01
 ---
-#### **Policy Statement**
+### **Policy Statement**
 
 Middlebury College has a deep commitment to responsible stewardship of its financial resources and accountability for the public and private support that enables the College to pursue its mission.  Middlebury College is committed to compliance with the laws and regulations to which it is subject, and to promulgate College policies and procedures to interpret and apply these laws and regulations in the College setting.
 
@@ -23,7 +23,7 @@ The college has also created an anonymous reporting mechanism.  The establishme
 
 Consequently, the College has contracted with a third-party report recipient, called EthicsPoint, who will accept and process anonymous reports.  Reports may be filed concerning matters involving various financial risks, environmental and safety matters as well as data privacy, conflict of interest and other issues.
 
-If an individual wishes to make an anonymous report, instructions regarding the types of issues that may be reported anonymously and the procedures for making such a report may be found online at **[www.middleburycollege.ethicspoint.com](https://www.middleburycollege.ethicspoint.com)** or call the College hotline to report improper activities at 1-866-593-6965.  The hotline is independently operated to help ensure confidentiality.
+If an individual wishes to make an anonymous report, instructions regarding the types of issues that may be reported anonymously and the procedures for making such a report may be found online at [**www.middleburycollege.ethicspoint.com**](https://www.middleburycollege.ethicspoint.com) or call the College hotline to report improper activities at 1-866-593-6965.  The hotline is independently operated to help ensure confidentiality.
 
 This policy does not fundamentally change the responsibility for conducting investigations.  Individual employee grievances and complaints regarding terms and conditions of employment will continue to be reviewed under the applicable academic and staff personnel policies.  The College retains the right to close a report within 30 days if insufficient information has been provided.
 
@@ -39,10 +39,10 @@ Consultation with the College’s general counsel is required before negotiating
 
 For questions about the policy, contact:
 
-Enterprise Risk Management\
-Old Chapel\
-Middlebury, VT 05753\
-Phone: 802-443-5001\
+Enterprise Risk Management  
+Old Chapel  
+Middlebury, VT 05753  
+Phone: 802-443-5001  
 [vprisk@middlebury.edu](mailto:vprisk@middlebury.edu)
 
 #### **Related Documents / Policies**
