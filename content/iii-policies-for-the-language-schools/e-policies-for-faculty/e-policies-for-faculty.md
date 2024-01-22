@@ -5,7 +5,7 @@ title: E. Policies for Faculty
 ---
 **Your Employment**
 
-Middlebury Language Schools' faculty and staff are considered "at will" employees. No employment contract is expressed or implied. Language Schools' faculty and staff are governed by the Middlebury College Handbook ([www.middlebury.edu/handbook](https://go.middlebury.edu/handbook)).
+Middlebury Language Schools' faculty and staff are considered "at will" employees. No employment contract is expressed or implied. Language Schools' faculty and staff are governed by the Middlebury College Handbook ([https://handbook.middlebury.edu](https://go.middlebury.edu/handbook)).
 
 **Salary Payments**
 

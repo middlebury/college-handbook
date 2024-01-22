@@ -39,7 +39,7 @@ Awards made as a result of grant or contract proposals submitted by Middlebury f
 
 **f**. If the application calls for purchase of equipment requiring maintenance after a warranty period, there must be a budget to be charged for maintenance.
 
-**g.** All grant proposals must disclose any family relationship between any individuals named in the proposal using the [Family Relationship Disclosure Form](https://www.middlebury.edu/handbook/assets/famrel_jan07_form.doc). No family members may be paid with grant funds unless that relationship was disclosed in the proposal or disclosed to the controller or designee after receipt of a grant award.
+**g.** All grant proposals must disclose any family relationship between any individuals named in the proposal using the [Family Relationship Disclosure Form](/assets/famrel_jan07_form.doc). No family members may be paid with grant funds unless that relationship was disclosed in the proposal or disclosed to the controller or designee after receipt of a grant award.
 
 **h.** Any “Significant Financial Interest” (as defined by Federal and [Middlebury policy](https://www.middlebury.edu/offices/support/grants/sro/policies/COI/coifull)) must be disclosed to the controller at the time of submission. After a grant is funded, significant financial interests must be disclosed at least annually and at any time such a new interest arises.   In lieu of the aforementioned requirement, proposals to and grants awarded by any Public Health Service entity including the National Institutes of Health are governed by the [PHS/NIH Financial Conflict of Interest Policy](https://www.middlebury.edu/offices/support/grants/sro/policies/phs-fcoi) posted on the Middlebury website.
 

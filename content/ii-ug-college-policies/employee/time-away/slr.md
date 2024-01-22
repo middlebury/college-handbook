@@ -7,7 +7,7 @@ Sick Leave Reserve can be used in the event employees have a bona fide illness, 
 
 Appointments with physicians, dentists, or other health care providers that take place during normal working hours may be claimed.
 
-At the end of each fiscal year, any excess over the maximum CTO bank will be automatically transferred into the employee’s Sick Leave Reserve (SLR) bank. Sick Leave Reserve time, however, cannot be transferred to CTO. [See 4.2 Combined Time Off for Maximum (hours) at fiscal year end.](https://www.middlebury.edu/handbook/pages/ii-ug-college-policies/employee/time-away/cto/) Employees must call in, using their department's protocol, if they are going to be absent from work. Doctor's notes may be required.
+At the end of each fiscal year, any excess over the maximum CTO bank will be automatically transferred into the employee’s Sick Leave Reserve (SLR) bank. Sick Leave Reserve time, however, cannot be transferred to CTO. [See 4.2 Combined Time Off for Maximum (hours) at fiscal year end.](/pages/ii-ug-college-policies/employee/time-away/cto/) Employees must call in, using their department's protocol, if they are going to be absent from work. Doctor's notes may be required.
 
 **Exempt Staff SLR Use**
 

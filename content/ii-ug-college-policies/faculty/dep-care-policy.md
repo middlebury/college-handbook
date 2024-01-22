@@ -23,6 +23,6 @@ _Guidelines and restrictions_
 *   After the activity has occurred, faculty should submit a reimbursement form (which will be provided once your application has been approved) along with original receipts.  A receipt that clearly indicates the dates of service and the amount of the payment **must** accompany all requests for reimbursement.  In the case of non-professional child care (e.g., a high school student who is providing babysitting services), a handwritten receipt will suffice, but it must contain the _name_ of the provider, the provider’s _social security number_, the _dates_ of service, and the _amount_ received in payment.
 *   Reimbursements to the faculty member will be reported as taxable income.
 
-Link to [application](https://www.middlebury.edu/handbook/assets/dependentcare_form.doc).
+Link to [application](/assets/dependentcare_form.doc).
 
 _rev. 8/1/16_
