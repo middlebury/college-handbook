@@ -11,7 +11,7 @@ const SearchResults = ({ results }) => {
         results.map((result) => {
           return (
             <div className="search-results__item">
-              <a href={`/handbook${result.slug}`}>
+              <a href={`${result.slug}`}>
                 <h3>{result.title}</h3>
               </a>
               <p
