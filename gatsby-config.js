@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/handbook",
+  pathPrefix: "",
   siteMetadata: {
     title: "Middlebury Handbook",
     description: "Middlebury Handbook",
