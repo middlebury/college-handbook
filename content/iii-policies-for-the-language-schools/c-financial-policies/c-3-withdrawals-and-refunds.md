@@ -23,8 +23,8 @@ Chinese 8-week program – June 30
 Chinese 6-week program – July 12
 
 English 7-week program – July 7  
-English 6-week program – TBD  
-  
+English 6-week program – TBD
+
 French 6-week program in Paris – June 19  
 French 7-week program – July 7  
 French 6-week program in Vermont – July 12
@@ -34,8 +34,8 @@ German 6-week program – July 12
 
 Hebrew 7-week program – July 7  
 Hebrew 6-week program – July 7  
-Hebrew 3 & 4-week – end of 3rd day of classes of session  
-  
+Hebrew 3 & 4-week – end of 3rd day of classes of session
+
 Italian 7-week program – July 7  
 Italian 6-week program - July 14
 
@@ -56,4 +56,4 @@ Spanish 6-week program in Vermont – July 12
 
 \*Refund deadlines expire at 5:00 pm on date noted
 
-**REAPPLICATION AFTER WITHDRAWAL:** An undergraduate or graduate student who wishes to reapply after having withdrawn or been asked to withdraw for medical or psychological reasons will be required to submit a medical readmission form. The form must be completed and signed by the treating physician or psychotherapist indicating that the student is prepared to undertake an intensive program of study and noting what specific accommodations, if any, the student will request.
+**REAPPLICATION AFTER WITHDRAWAL:** An undergraduate or graduate student who wishes to reapply after having withdrawn or been asked to withdraw for medical or psychological reasons will be required to submit a medical readmission form. The form must be completed and signed by the treating physician or psychotherapist indicating that the student is prepared to undertake an intensive program of study and noting what specific accommodations, if any, the student will  request.
