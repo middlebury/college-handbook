@@ -6,7 +6,7 @@
 
 [build]
   publish = "public/"
-  command = "sed -i \"s/branch: master/branch: ${CMS_BRANCH}/g\" static/admin/config.yml && npm run build"
+  command = "sed -i \"s/branch: main/branch: ${CMS_BRANCH}/g\" static/admin/config.yml && npm run build"
 
 [build.environment]
   NODE_VERSION = "18.16.0"
