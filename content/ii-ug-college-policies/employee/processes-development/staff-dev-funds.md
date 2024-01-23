@@ -22,4 +22,4 @@ In reviewing/approving applications for staff development funds, priority is giv
 
 ### Application Form
 
-[Click here to access application form.](/assets/staff_dev_fund_app.pdf)
+[Click here to access application form.](https://www.middlebury.edu/handbook/assets/staff_dev_fund_app.pdf)

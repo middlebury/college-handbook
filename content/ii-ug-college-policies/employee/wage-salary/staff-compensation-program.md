@@ -9,7 +9,7 @@ Positions at Middlebury are grouped according to content in one of four career b
 
 As described in the Administrative Guidelines, the College's program relies on the tools below for assigning positions to a Career Band and Level.
 
-*   [Career Band Definitions](/assets/careerbanddefinitions.pdf)
-*   [Job Content Framework](/assets/jobcontentframework.pdf)
+*   [Career Band Definitions](https://www.middlebury.edu/handbook/assets/careerbanddefinitions.pdf)
+*   [Job Content Framework](https://www.middlebury.edu/handbook/assets/jobcontentframework.pdf)
 *   [Job Description Review Process](https://www.middlebury.edu/offices/business/hr/comp/review)
-*   [Ranges](/assets/middlebury-staff-pay-ranges-.pdf)
+*   [Ranges](https://www.middlebury.edu/handbook/assets/middlebury-staff-pay-ranges-.pdf)

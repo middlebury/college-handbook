@@ -25,7 +25,7 @@ The definition of assistance animals under the FHA (Fair Housing Act) and for th
 
 The United States Department of Housing and Urban Development applies the FHA to numerous housing situations including dorms and residence halls on college and university campuses. It requires such entities to provide _reasonable accommodations_ for people with disabilities living in dorms and residence halls. Assistance animals are considered a reasonable accommodation under the FHA.
 
-Because assistance animals do not qualify as service animals under the ADA, they are only allowed in the room and building of the student, faculty, or staff member who has been approved for reasonable accommodation. They will be allowed in outdoor spaces under proper handling when appropriate (e.g. taking a dog for a walk in accordance with [II.A.6. Pet Policy](/pages/ii-ug-college-policies/commun-policies/pets) and Section C. below), but they are not allowed in other offices, dorm rooms, classrooms, dining halls, or any other space or building on campus.
+Because assistance animals do not qualify as service animals under the ADA, they are only allowed in the room and building of the student, faculty, or staff member who has been approved for reasonable accommodation. They will be allowed in outdoor spaces under proper handling when appropriate (e.g. taking a dog for a walk in accordance with [II.A.6. Pet Policy](https://www.middlebury.edu/handbook/pages/ii-ug-college-policies/commun-policies/pets) and Section C. below), but they are not allowed in other offices, dorm rooms, classrooms, dining halls, or any other space or building on campus.
 
 **i.  Reasonable Accommodation Request for Assistance Animals**
 

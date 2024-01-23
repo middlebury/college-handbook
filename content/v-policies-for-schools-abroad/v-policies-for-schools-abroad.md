@@ -11,7 +11,7 @@ These policies may be amended from time to time and therefore students should re
 
 Middlebury College has unrestricted right to use and publish photographs taken of participants while enrolled at the Middlebury College Schools Abroad. This includes photographs or videos, for editorial purposes, or any other official college purpose. This may include print, electronic, or any other media form.
 
-Consistent with the cultivation of an awareness of responsibility and accountability, students found in violation of Middlebury’s policies as stated herein, the [Middlebury-Wide Policies](/pages/i-policies-for-all) in the Middlebury Handbook, or the host university’s policies and/or who participate in prohibited acts as defined herein will be held responsible and will be subject to discipline up to and including suspension or expulsion from the School Abroad. In addition, students may be subject to discipline by any Middlebury program in which the student is or will be enrolled or their home institution. 
+Consistent with the cultivation of an awareness of responsibility and accountability, students found in violation of Middlebury’s policies as stated herein, the [Middlebury-Wide Policies](https://www.middlebury.edu/handbook/pages/i-policies-for-all) in the Middlebury Handbook, or the host university’s policies and/or who participate in prohibited acts as defined herein will be held responsible and will be subject to discipline up to and including suspension or expulsion from the School Abroad. In addition, students may be subject to discipline by any Middlebury program in which the student is or will be enrolled or their home institution. 
 
 ## Please select from the following content:
 

@@ -3,7 +3,7 @@ slug: /pages/ii-ug-college-policies/employee/time-away/family-medical-leave
 title: 4.6 Family & Medical Leave
 date: 2021-05-01
 ---
-_see:_ [**FMLA Procedure**](/assets/family_and_medical_leave.docx)
+_see:_ [**FMLA Procedure**](https://www.middlebury.edu/handbook/assets/family_and_medical_leave.docx)
 
 In compliance with the Family and Medical Leave Act of 1993 (FMLA) and the Vermont Parental Leave Act, the College grants up to twelve weeks of unpaid leave to an eligible employee during a rolling 12 month period. FMLA leaves of absence can be granted for the following reasons:
 

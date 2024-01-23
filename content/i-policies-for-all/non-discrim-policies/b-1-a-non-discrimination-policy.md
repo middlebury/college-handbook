@@ -97,7 +97,7 @@ In accordance with Federal law and the Title IX regulations issued in May 2020, 
 
 **(B)** **Non-Discrimination Investigations & Resolutions Procedure**
 
-All other conduct prohibited by this policy that is not covered by Middlebury’s Title IX Investigation & Resolutions Procedure is investigated and adjudicated using Middlebury’s [Non-Discrimination Investigation & Resolutions Procedure](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin).
+All other conduct prohibited by this policy that is not covered by Middlebury’s Title IX Investigation & Resolutions Procedure is investigated and adjudicated using Middlebury’s [Non-Discrimination Investigation & Resolutions Procedure](https://www.middlebury.edu/handbook/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin).
 
 **(C)** **General Conduct Procedures**.
 
