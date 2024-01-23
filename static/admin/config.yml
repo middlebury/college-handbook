@@ -6,7 +6,7 @@ backend:
 
 media_folder: static/assets
 public_folder: /assets
-display_url: https://handbook.middlebury.edu
+display_url: https://www.middlebury.edu/handbook/
 
 publish_mode: editorial_workflow
 
