@@ -56,4 +56,4 @@ Spanish 6-week program in Vermont – July 12
 
 \*Refund deadlines expire at 5:00 pm on date noted
 
-**REAPPLICATION AFTER WITHDRAWAL:** An undergraduate or graduate student who wishes to reapply after having withdrawn or been asked to withdraw for medical or psychological reasons will be required to submit a medical readmission form. The form must be completed and signed by the treating physician or psychotherapist indicating that the student is prepared to undertake an intensive program of study and noting what specific accommodations, if any, the student will  request.
+**REAPPLICATION AFTER WITHDRAWAL:** An undergraduate or graduate student who wishes to reapply after having withdrawn or been asked to withdraw for medical or psychological reasons will be required to submit a medical readmission form. The form must be completed and signed by the treating physician or psychotherapist indicating that the student is prepared to undertake an intensive program of study and noting what specific accommodations, if any, the student will request.
