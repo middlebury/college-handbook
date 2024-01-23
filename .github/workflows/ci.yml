@@ -46,8 +46,9 @@ jobs:
         
       - name: Deploy
         if: github.ref == 'refs/heads/master'
-        uses: peaceiris/actions-gh-pages@v3
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          publish_dir: ./public
-          publish_branch: site
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          folder: ./public
+          branch: site
+          token: ${{ secrets.GITHUB_TOKEN }}
+          clean-exclude: .github/
