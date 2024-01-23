@@ -1,5 +1,5 @@
 [context.production.environment]
-  CMS_BRANCH = "master"
+  CMS_BRANCH = "main"
 
 [context.staging.environment]
   CMS_BRANCH = "staging"
