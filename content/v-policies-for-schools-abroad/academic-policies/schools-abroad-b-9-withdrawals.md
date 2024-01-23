@@ -30,4 +30,4 @@ _**c) Readmission**_
 
 A student who would like to seek readmission to a School Abroad after withdrawal must reapply.
 
-MA candidates who wish to seek readmission after a withdrawal from a School Abroad should refer to the Schools Abroad Handbook Section [B.4. Master of Arts Degree Candidacy](https://www.middlebury.edu/handbook/pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-4-master-of-arts-degree-candidacy/).
+MA candidates who wish to seek readmission after a withdrawal from a School Abroad should refer to the Schools Abroad Handbook Section [B.4. Master of Arts Degree Candidacy](/pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-4-master-of-arts-degree-candidacy/).

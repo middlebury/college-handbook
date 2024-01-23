@@ -122,7 +122,7 @@ Fire Safety inspections will be organized and conducted on an on-going basis as 
 
 Middlebury seeks to promote the quiet, comfort, and health of the campus, the Town of Middlebury, and surrounding communities. Students are required to be considerate of others with respect to noise in the residence halls. Students should neither cause nor condone excessive amounts of noise, but should strive to be considerate and respectful of others and to be good neighbors. Conduct that creates a public disturbance in a residence hall or interferes with another student’s ability to study is prohibited.
 
-Students must also abide by all applicable town noise ordinances, including but not limited to the [Town of Middlebury Ordinance for the Regulation of Noise](https://www.middlebury.edu/office/sites/www.middlebury.edu.office/files/2020-10/NoiseGuidelines.pdf?fv=_HhJc6KU). This ordinance prohibits excessive or unnecessary noise, including vocal disturbances and loud music, and includes fines for non-compliance. Procedures on Noise Complaints can be found [here](https://www.middlebury.edu/office/public-safety/safety-and-security/noise-regulations). Students who violate Middlebury policy or local ordinances will be subject to Middlebury's [student conduct process](https://www.middlebury.edu/handbook/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
+Students must also abide by all applicable town noise ordinances, including but not limited to the [Town of Middlebury Ordinance for the Regulation of Noise](https://www.middlebury.edu/office/sites/www.middlebury.edu.office/files/2020-10/NoiseGuidelines.pdf?fv=_HhJc6KU). This ordinance prohibits excessive or unnecessary noise, including vocal disturbances and loud music, and includes fines for non-compliance. Procedures on Noise Complaints can be found [here](https://www.middlebury.edu/office/public-safety/safety-and-security/noise-regulations). Students who violate Middlebury policy or local ordinances will be subject to Middlebury's [student conduct process](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
 
 #### **Storage Regulations**
 
@@ -163,9 +163,9 @@ Permission must be granted for each term a student wants to live off campus and 
 
 Students who accept off-campus housing status and then request to move back on campus will be placed on a waiting list and housed by the residential systems coordinator following the completion of the housing processes taking place at that time.  There is no guarantee of housing for these students.
 
-Students who choose to live off-campus without authorization - that is, students who are not granted off-campus status but move off-campus nonetheless - will be subject to Middlebury's [student conduct process](https://www.middlebury.edu/handbook/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
+Students who choose to live off-campus without authorization - that is, students who are not granted off-campus status but move off-campus nonetheless - will be subject to Middlebury's [student conduct process](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
 
-Students who live off campus are expected to be good neighbors. Students who violate Middlebury policy or local ordinances will be subject to Middlebury's [student conduct process](https://www.middlebury.edu/handbook/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
+Students who live off campus are expected to be good neighbors. Students who violate Middlebury policy or local ordinances will be subject to Middlebury's [student conduct process](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
 
 Living on campus is considered to be an essential component of the educational experience at Middlebury. Request for off-campus housing on the basis of a medical or ADA-certified need will be considered on a case-by-case basis and will require appropriate documentation.
 
