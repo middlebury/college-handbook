@@ -78,13 +78,19 @@ ii. The College may place the student on a temporary mandatory leave of absence 
 
 **d. Readmission**
 
-i. Students on leave are eligible for readmission for a three-year period, and many students who take a leave will have no requirements attached to their readmission.
+Except where indicated below, all requests for readmission will be reviewed by the Leaves and Returns committee, who will make a recommendation for or against readmission to the Dean of Students based on an individualized assessment of each student’s readiness to return and successfully participate in the College’s academic and residential program. The Leaves and Returns Committee is comprised of staff from the Center for Health and Wellness and the Office of Care Management, with input from other relevant offices such as the Disability Resource Center, Class Deans and International Student and Scholar Services as necessary and appropriate.  
 
-ii. Students eligible for readmission can expect to receive instructions for completing the online readmission forms from their Class Dean. They must confirm their plan to return on this readmission date with their Class Dean no later than June 15 for the fall term and November 1 for the spring semester. Normally, readmission is for fall or spring semester only. Students will be readmitted for winter term or summer study only with special permission from the Vice President for Student Affairs or designee.
+The Dean of Students will ordinarily accept committee recommendations, but final readmission decisions are at the discretion of the Dean of Students or their designee.  
+
+i. Students on leave are eligible to request readmission for a three-year period, starting from the date on which their leave began as documented in their leave letter.
+
+ii. Students eligible for readmission with an anticipated return date of the upcoming semester (as stated in their original leave letter) can expect to receive instructions for completing the online readmission forms from the Office of Care Management. They must confirm their plan to return on this readmission date by completing the instructions provided by the Office of Care Management no later than June 1 for the fall term and November 1 for the spring semester. Normally, readmission is for fall or spring semester only. Students will be readmitted for winter term or summer study only with special permission from the Dean of Students or designee.
 
 iii. Students on probation for disciplinary or academic reasons will resume their probationary status upon their return for the duration of the assigned probationary period.
 
-iv. In the rare circumstance that a student’s request for readmission is denied by the Dean of Students on grounds of health or safety, the decision may be appealed in writing to the Vice President of Student Affairs.
+iv. Students with conduct pending through Community Standards must clarify with Community Standards whether their conduct must be resolved before they are eligible to return.
+
+iv. In the  circumstance that a student’s request for readmission is denied by the Dean of Students , the decision may be appealed in writing to the Vice President of Student Affairs within 5 business days of the decision. Appeal instructions will be provided to students in their readmission denial letters.
 
 **e. Readmission after Leaves with Conditions**
 
