@@ -65,7 +65,7 @@ const Page = (props) => {
         inquiry and expression
       </p>
       <p>
-        With the right of academic freedom comes the responsibility of
+        With the right of academic freedom comes the responsibility of 
         <em>
           <i>integrity</i>
         </em>
