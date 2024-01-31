@@ -3,6 +3,7 @@ slug: /pages/ii-ug-college-policies/faculty/misconduct
 title: C.6. Faculty Misconduct
 date: 2021-05-01
 ---
+
 _a. General Principles_
 
 _In determining whether a faculty member’s actions constitute professional misconduct, and in determining any penalties for faculty misconduct, up to and including termination, faculty members, administrators, and Trustees will act in accordance with the following principles:_
