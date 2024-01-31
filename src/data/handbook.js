@@ -188,6 +188,11 @@ export const nodes = [
         label: "F. Required Disclosures",
         className: "f-required-disclosures",
       },
+      {
+        value: "i-policies-for-all/g-misconduct-in-research",
+        label: "G. Misconduct in Research and Other Scholarly Activities",
+        className: "g-misconduct-in-research",
+      },
     ],
   },
   {
