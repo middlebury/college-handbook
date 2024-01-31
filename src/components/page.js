@@ -19,7 +19,7 @@ const Page = (props) => {
       </p>
       <h2>Introduction to Middlebury&#8217;s Handbook</h2>
       <p>
-        This 2021-2022 Handbook supersedes previous editions of the College,
+        This Handbook supersedes previous editions of the College,
         Institute, and Language Schools Handbooks as of its online publication
         date. Section I applies to all students, faculty and staff of Middlebury
         programs, while other sections may apply only to specific populations,
