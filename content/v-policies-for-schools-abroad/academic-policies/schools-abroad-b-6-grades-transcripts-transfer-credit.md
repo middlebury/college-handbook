@@ -7,7 +7,7 @@ The following grades are used: A, A-, B+, B, B-, C+, C, C-, D, F. **No grade bel
 
 Since our host universities do not use the same system of credits and grades as U.S. institutions, students receive U.S. equivalent credits and grades as established by the appropriate School Abroad Director/Principal. Your country-specific handbook includes the relevant conversion chart for your School Abroad.
 
-Taking a course pass/fail is not an option at the Schools Abroad.
+Effective fall 2024, Middlebury College undergraduates enrolled in a Middlebury School Abroad may elect the Credit/No Credit grading option for a single course per semester, following the framework of the Middlebury College [Credit/No Credit policy](https://handbook.middlebury.edu/pages/ii-ug-college-policies/ug-policies/academics/course-reg-course-conduct/).  Individual deadlines to invoke or revoke Credit/No Credit vary by program due to differing academic calendars and will be published in the Schools Abroad academic calendars.  Undergraduates from institutions other than Middlebury may invoke the Credit/No Credit grading option in accordance with the Middlebury College policy provided non-standard grades are accepted by their home institution.
 
 When final grades become available, students will be able to access them online via BannerWeb.  Grades are never released over the phone.
 
