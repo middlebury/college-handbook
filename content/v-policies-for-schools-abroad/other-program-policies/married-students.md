@@ -1,5 +1,5 @@
 ---
-slug: /pages/v-policies-for-schools-abroad/other-program-policies/media-use-policy
+slug: /pages/v-policies-for-schools-abroad/other-program-policies/married-students
 title: D.8. Married Students
 date: 2024-02-08
 ---
