@@ -8,7 +8,7 @@ const Page = (props) => {
         <em>
           Through a commitment to immersive learning, we prepare students to
           lead engaged, consequential, and creative lives, contribute to their
-          communities, and address the world’s most challenging problems.
+          communities, and address the world&#8217;s most challenging problems.
         </em>
       </p>
       <p>
@@ -19,14 +19,14 @@ const Page = (props) => {
       </p>
       <h2>Introduction to Middlebury&#8217;s Handbook</h2>
       <p>
-        This 2021-2022 Handbook supersedes previous editions of the College,
+        This Handbook supersedes previous editions of the College,
         Institute, and Language Schools Handbooks as of its online publication
         date. Section I applies to all students, faculty and staff of Middlebury
         programs, while other sections may apply only to specific populations,
         such as students in a particular program. Middlebury ensures compliance
         with local laws throughout its programs, in the United States and
         abroad, while setting common expectations for the behavior of all
-        members of Middlebury programs to advance Middlebury's educational
+        members of Middlebury programs to advance Middlebury&#8217;s educational
         mission. Practical considerations of style and a desire to present
         information to the Middlebury community in a useful, efficient manner
         dictate that this Handbook focus on the more general principles that
@@ -36,7 +36,7 @@ const Page = (props) => {
       </p>
       <h2>Academic Freedom, Integrity, and Respect</h2>
       <p>
-        Middlebury’s educational mission is supported by three pillars: the
+        Middlebury&#8217;s educational mission is supported by three pillars: the
         right of academic freedom, the responsibility of personal and
         professional integrity, and the value of respect.
       </p>
@@ -55,23 +55,20 @@ const Page = (props) => {
         speech that some may find offensive. While this right is broad, it is
         not without limit. The Handbook defines and describes specific
         circumstances in which unfettered freedom would infringe on the rights
-        of others or impede Middlebury’s educational mission and operations.
-        These sections delineate policies prohibiting disruption of Middlebury’s
-        educational functions, define Middlebury’s general conduct standards and
+        of others or impede Middlebury&#8217;s educational mission and operations.
+        These sections delineate policies prohibiting disruption of Middlebury&#8217;s
+        educational functions, define Middlebury&#8217;s general conduct standards and
         anti-harassment and discrimination policies, and address the rights and
         obligations of faculty in establishing the parameters of courses. Such
-        policies are intended to protect Middlebury’s academic mission and the
+        policies are intended to protect Middlebury&#8217;s academic mission and the
         personal rights of all members of its community, not to inhibit academic
         inquiry and expression
       </p>
       <p>
-        With the right of academic freedom comes the responsibility of
-        <em>
-          <i>integrity</i>
-        </em>
+        With the right of academic freedom comes the responsibility of <em>integrity</em>
         , which is a key guard against false information and the abuse of power.
         Personal and professional integrity have many components that extend
-        beyond the specifics of Middlebury’s honor code, and they encompass a
+        beyond the specifics of Middlebury&#8217;s honor code, and they encompass a
         broader ethical practice of inquiry pursued with rigor and honesty.
         Professional integrity requires recognition of the expertise of past and
         current communities of scholars and students, and necessitates critical
@@ -79,7 +76,7 @@ const Page = (props) => {
         transparent reporting of research, observation, and experimental
         evidence, consistent with the respective standards of our disciplines.
         On a personal level, integrity calls for recognition of the limits of
-        one’s own knowledge and expertise at any moment in time, and demands
+        one&#8217;s own knowledge and expertise at any moment in time, and demands
         curiosity and creativity in the face of those limits. It also means the
         willingness to take a principled stand even when it is unpopular, and
         equal willingness to admit error. Correspondingly, given that
