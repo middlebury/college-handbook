@@ -12,3 +12,4 @@ date: 2021-12-17
 *   [D.5. Independent Activity During Program Breaks](/pages/v-policies-for-schools-abroad/other-program-policies/independent-activity)
 *   [D.6. Religious Holidays](/pages/v-policies-for-schools-abroad/other-program-policies/religious-holidays)
 *   [D.7. Alcohol and Illegal Drugs](/pages/v-policies-for-schools-abroad/other-program-policies/alcohol-and-illegal-drugs)
+*   [D.8. Married Students](/pages/v-policies-for-schools-abroad/other-program-policies/married-students)
