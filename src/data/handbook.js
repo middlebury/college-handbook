@@ -1728,7 +1728,8 @@ export const nodes = [
           {value: "v-policies-for-schools-abroad/other-program-policies/independent-activity", label: "D.5. Independent Activity During Program Breaks", className: "independent-activity"},
           {value: "v-policies-for-schools-abroad/other-program-policies/religious-holidays", label: "D.6. Religious Holidays ", className: "religious-holidays"},
           {value: "v-policies-for-schools-abroad/other-program-policies/alcohol-and-illegal-drugs", label: "D.7. Alcohol and Illegal Drugs", className: "alcohol-and-illegal-drugs"},
-          {value: "v-policies-for-schools-abroad/other-program-policies/married-students", label: "D.8. Married Students", className: "married-students"}
+          {value: "v-policies-for-schools-abroad/other-program-policies/married-students", label: "D.8. Married Students", className: "married-students"},
+          {value: "v-policies-for-schools-abroad/other-program-policies/students-with-disabilities", label: "D.9. Students with Disabilities", className: "students-with-disabilities"}
         ]
       }
     ],
