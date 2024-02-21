@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin
-date: 2021-05-01
 title: B.1.b. Non-Discrimination Investigations & Resolutions Procedure
+date: 2021-05-01
 ---
 ## A. General Provisions
 
@@ -31,7 +31,7 @@ c. Assistance by Middlebury
 
 Requests for assistance with contacting law enforcement authorities or obtaining an Order of Protection, a Relief from Abuse Order, a Restraining Order or other lawful order may be made in person, via email, phone or teleconference to the CRTIX Coordinator, an HRO, or Public Safety For additional information regarding making reports to the police and/or obtaining an Order of Protection, Restraining Order, or Relief from Abuse Order.
 
-## 3.    What This Procedure Covers 
+## 3.    What This Procedure Covers
 
 This Non-Discrimination Investigations & Resolutions Procedure is intended to address instances of prohibited discrimination, including sexual harassment and other harassment, as defined in Middlebury’s Non-Discrimination Policy that are not required by the Department of Education to be handled under Middlebury’s Title IX Investigation & Resolutions Procedure.
 
@@ -59,7 +59,7 @@ An individual who speaks to a confidential resource must understand that, if the
 
 b. Non-Confidential Resources
 
-Non-confidential resources are all faculty or staff members, including ombudpersons and residential life staff who are not medical or counseling professionals, clergy, or MiddSafe Advocates, and are therefore not permitted to honor requests for confidentiality. Non-confidential faculty or staff who learn of an incident of discrimination, harassment or related retaliation involving a student are required to report that information to the HRO. (See Section B.1\. for more information).
+Non-confidential resources are all faculty or staff members, including ombudpersons and residential life staff who are not medical or counseling professionals, clergy, or MiddSafe Advocates, and are therefore not permitted to honor requests for confidentiality. Non-confidential faculty or staff who learn of an incident of discrimination, harassment or related retaliation involving a student are required to report that information to the HRO. (See Section B.1. for more information).
 
 Faculty and staff who are “[Campus Security Authorities](https://www.middlebury.edu/offices/health/publicsafety/csa)” are required to report certain crimes to the Department of Public Safety for the purpose of compliance with the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act.
 
@@ -85,7 +85,7 @@ Middlebury encourages individuals to report incidents of discrimination, harassm
 
 All members of Middlebury’s community are expected to promote an environment free from prohibited discrimination, harassment, including sexual harassment, and related retaliation.
 
-Any faculty or staff member who learns of an incident of discrimination, harassment, or related retaliation involving a student must report this information to a Middlebury Human Relations Officer or the Civil Rights and Title IX Coordinator (see [Appendix A](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin#A) for contact information), or the appropriate dean or program director in cases involving the Language Schools, Schools Abroad, Bread Loaf, the Middlebury Institute, MiddCore, School of the Environment, or other Middlebury program, as applicable, unless their status as a confidential resource precludes this disclosure. Confidential resources include the staff of the Center for Health and Wellness, the staff of the Chaplain’s Office, MiddSafe Advocates, or other medical, counseling, support or religious personnel and volunteers who are required by law to maintain confidentiality. Please see Section A.5\. Confidentiality for more information.
+Any faculty or staff member who learns of an incident of discrimination, harassment, or related retaliation involving a student must report this information to a Middlebury Human Relations Officer or the Civil Rights and Title IX Coordinator (see [Appendix A](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin#A) for contact information), or the appropriate dean or program director in cases involving the Language Schools, Schools Abroad, Bread Loaf, the Middlebury Institute, MiddCore, School of the Environment, or other Middlebury program, as applicable, unless their status as a confidential resource precludes this disclosure. Confidential resources include the staff of the Center for Health and Wellness, the staff of the Chaplain’s Office, MiddSafe Advocates, or other medical, counseling, support or religious personnel and volunteers who are required by law to maintain confidentiality. Please see Section A.5. Confidentiality for more information.
 
 Employees with supervisory responsibility must report incidents of discrimination, harassment, including sexual harassment, or retaliation, and, if directed by HR or another appropriate official, take appropriate remedial action should such matters come to their attention. Supervisors should report any complaints or suspected acts of harassment, discrimination, or retaliation (even if they do not involve direct reports) to a HRO, Human Resources, or the Civil Rights and Title IX Coordinator in accordance with Section 2, below. Depending upon the circumstances of a given situation, supervisors may be responsible for taking steps such as, by way of example but not limitation, addressing issues directly with staff, faculty, or students whom they supervise, facilitating informal resolution or mediation of issues, providing information on avenues to address questions of harassment, discrimination, and/or retaliation, or pursuing complaints under the complaint procedures described here.
 
@@ -93,7 +93,7 @@ Failure to report or address harassment, discrimination, or retaliation complain
 
 ## 2.    Complaint Procedures
 
-Any Middlebury student, faculty member, staff member or applicant (for employment or to any Middlebury program) who has reasonable cause to believe that discrimination or harassment, including sexual harassment, has occurred or is occurring, or who believes that a student, faculty member, staff member or applicant has been subjected to retaliation for having brought or supported a complaint of discrimination or harassment, is encouraged to bring that information to the immediate attention of the official who is designated to receive such reports in the Middlebury program at issue (reports or complaints can be made verbally or in writing).[[1]](#_ftn1) Reports may also be made to the Civil Rights and Title IX Coordinator or any HRO (student, faculty and staff matters), or to Human Resources (employees).
+Any Middlebury student, faculty member, staff member or applicant (for employment or to any Middlebury program) who has reasonable cause to believe that discrimination or harassment, including sexual harassment, has occurred or is occurring, or who believes that a student, faculty member, staff member or applicant has been subjected to retaliation for having brought or supported a complaint of discrimination or harassment, is encouraged to bring that information to the immediate attention of the official who is designated to receive such reports in the Middlebury program at issue (reports or complaints can be made verbally or in writing).[\[1\]](#_ftn1) Reports may also be made to the Civil Rights and Title IX Coordinator or any HRO (student, faculty and staff matters), or to Human Resources (employees).
 
 If the designated HRO is unavailable, or if the HRO has a conflict of interest, the report should be made to the designated alternate HRO for the program at issue. The alternate shall have the same authority as the designated HRO to oversee investigations and adjudicate harassment, discrimination, and retaliation complaints. The names and contact information for offices and/or individuals serving as Human Relations Officers and alternate Human Relations Officers in Middlebury’s various programs and locations are listed on the Civil Rights and Title IX website.
 
@@ -133,7 +133,7 @@ If the conduct occurred during the course and scope of the student’s employmen
 
 j. To the extent permitted by law, the complainant and respondent will be afforded the same rights and opportunities throughout the investigation and adjudication process, including the opportunity to present witnesses and other evidence. However, the decision to interview particular witnesses or consider evidence offered by the parties is within the sole discretion of the HRO and/or investigator.
 
-k. The complainant and respondent will ordinarily be notified of the HRO’s determination as to whether there was a policy violation. In sexual harassment cases involving student complainants, both parties will be notified of the HRO’s determination simultaneously in writing, to the extent permitted by law. However, information regarding discipline or sanctions will not be shared with any complainant under this policy except as permitted or required by law.[[2]](#_ftn2)
+k. The complainant and respondent will ordinarily be notified of the HRO’s determination as to whether there was a policy violation. In sexual harassment cases involving student complainants, both parties will be notified of the HRO’s determination simultaneously in writing, to the extent permitted by law. However, information regarding discipline or sanctions will not be shared with any complainant under this policy except as permitted or required by law.[\[2\]](#_ftn2)
 
 ## 3.    Timely Investigation and Determination
 
@@ -141,7 +141,7 @@ Middlebury works to resolve all complaints handled under this Procedure in a tim
 
 Middlebury will not wait for the conclusion of a criminal investigation or proceeding to begin its own investigation and resolve complaints under this policy. Middlebury will, however, comply with valid requests by law enforcement for cooperation in a criminal investigation. As such, Middlebury may need to delay temporarily an investigation under this policy while law enforcement is in the process of gathering evidence. Once law enforcement has completed gathering evidence, Middlebury will promptly resume and complete its investigation. Middlebury may also take interim measures to ensure the safety and well-being of the complainant and the school community while law enforcement is gathering evidence.
 
-## 4.    Appeals 
+## 4.    Appeals
 
 In cases where the respondent is a student, the complainant and respondent each has the right to appeal the outcome under the circumstances described below. The right of appeal is only available to a respondent or complainant who participated in the investigative process.
 
@@ -198,11 +198,11 @@ The [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b
 
 A student may file a complaint of discrimination, harassment, including sexual harassment, or related retaliation relating to the conduct of the HRO, Civil Rights and Title IX Coordinator,  or investigator appointed under this policy with  Miguel Fernandez, Chief Diversity Officer (802.443.5792; [fernande@middlebury.edu](mailto:fernande@middlebury.edu)), or the appropriate supervisory authority for the Institute, as appropriate given the program at issue. Faculty and staff may file complaints relating to the conduct of the HRO, Civil Rights and Title IX Coordinator, or investigator appointed under this policy with Miguel Fernandez, Chief Diversity Officer (802.443.5792; [fernande@middlebury.edu](mailto:fernande@middlebury.edu)). These officials may appoint an individual to serve as a special alternate HRO, as appropriate.
 
-## 10\.    The Human Relations Officer and Record Keeping
+## 10.    The Human Relations Officer and Record Keeping
 
 The HRO may keep confidential records or reports developed under this Procedure and the actions taken in response to those reports, and use them for purposes such as to identify individuals or departments likely to benefit from training. Information about the HRO is available at several college offices: Human Relations Office, [Civil Rights and Title IX Coordinator/Compliance Officer](https://www.middlebury.edu/studentlife/doc/hro), [Vice President for Student Affairs and Dean of Students](https://www.middlebury.edu/college/student-life/dean-students), Student Life deans, Vice President for Academic Affairs and Dean of the Faculty, Public Safety, Human Resources, program directors, and the Middlebury Institute’s HROs.
 
-## 11\.    Addendum (California Employees Only) {#Addendum}
+## 11.    Addendum (California Employees Only) {#Addendum}
 
 California law has specific requirements for what must be set forth in a harassment/discrimination policy applicable to employees. In accordance with California’s Fair Employment and Housing Act Regulations (“FEHA”), and in addition to the policy provisions set forth above, this addendum applies to faculty, staff and other employees who are employed by the Middlebury Institute of International Studies at Monterey, Middlebury’s Language Schools at Mills College and any other Middlebury program that is located in California.
 
@@ -217,7 +217,7 @@ Discrimination is defined as conduct directed at an individual based on their pe
 Discrimination is established if a preponderance of the evidence demonstrates that an enumerated basis (see above definition) was a substantial motivating factor in the denial of an employment benefit to that individual by the employer or other covered entity, and the denial is not justified by a permissible defense. This standard applies only to claims of discrimination on a basis above (see also Government Code Section 12940, subdivision (a)), and to claims of retaliation under Government Code section 12940 subdivision (h). A substantial factor motivating the denial of the employment benefit is a factor that a reasonable person would consider to have contributed to the denial. It must be more than a remote or trivial factor. It does not have to be the only cause of denial.
 
 _Harassment_  
-Harassment is defined as verbal, written, visual, or physical conduct based on or motivated by an individual's actual or perceived race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex (includes pregnancy, childbirth, breastfeeding, and related medical conditions), gender, gender identity, gender expression, age (over 40), sexual orientation, or military and veteran status of any person and/or any other status or characteristic as defined and to the extent protected by law in the location where a particular program is operating, that has the purpose or effect, from the point of view of a reasonable person, of objectively and substantially:
+Harassment is defined as verbal, written, visual, or physical conduct based on or motivated by an individual's actual or perceived race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex (includes pregnancy, childbirth, breastfeeding, and related medical conditions), gender, gender identity, gender expression, age (over 40), sexual orientation, or military and veteran status of any person and/or any other status or characteristic as defined and to the extent protected by law in the location where a particular program is operating, that has the purpose or effect, from the point of view of a reasonable person, of objectively and significantly:
 
 1.  undermining and detracting from or interfering with an individual's educational or work performance or access to Middlebury resources; or
 2.  creating an intimidating, hostile, or offensive educational, work, or living environment.
@@ -316,7 +316,7 @@ A complainant is usually an individual who has alleged a violation(s) of Middleb
 A respondent is an individual whose alleged conduct is being investigated to determine if it is in violation of the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy) or other Middlebury policies, if applicable. See also B.6.Scope of Oversight of this policy for more information.
 
 **Confidential Resources**  
-Confidential resources include the staff of the Parton Center for Health and Wellness, the staff of the Chaplain’s office, Middlebury Safe and Confidential Advocates (“MiddSafe” [[3]](#_ftn3)) or other medical, counseling, support or religious personnel and volunteers who are required by law to maintain confidentiality. For more information, see Section A.5. Confidentiality.
+Confidential resources include the staff of the Parton Center for Health and Wellness, the staff of the Chaplain’s office, Middlebury Safe and Confidential Advocates (“MiddSafe” [\[3\]](#_ftn3)) or other medical, counseling, support or religious personnel and volunteers who are required by law to maintain confidentiality. For more information, see Section A.5. Confidentiality.
 
 **No Contact Order**
 
@@ -356,8 +356,8 @@ Service Building
 
 ---
 
-##### [[1]](#2-complaint-procedures) Everyone is entitled to report complaints of sexual harassment and sexual misconduct. Complaints should be made under the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy). {#_ftn1}
+##### [\[1\]](#2-complaint-procedures) Everyone is entitled to report complaints of sexual harassment and sexual misconduct. Complaints should be made under the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy). {#\_ftn1}
 
-##### [[2]](#2-complaint-procedures) Disclosure of the sanction imposed on the respondent will be permitted in sexual harassment cases when the sanction directly relates to the complainant (e.g., No Contact Orders, building restrictions, classroom changes or where the respondent is prohibited from attending Middlebury for a period of time) {#_ftn2}
+##### [\[2\]](#2-complaint-procedures) Disclosure of the sanction imposed on the respondent will be permitted in sexual harassment cases when the sanction directly relates to the complainant (e.g., No Contact Orders, building restrictions, classroom changes or where the respondent is prohibited from attending Middlebury for a period of time) {#\_ftn2}
 
-##### [[3]](#glossary) Middlebury’s Vermont undergraduate campus program includes a confidential resource called [MiddSafe](https://www.middlebury.edu/offices/health/saoc/middsafe); for more information, see [https://www.middlebury.edu/offices/health/saoc/middsafe](https://www.middlebury.edu/offices/health/saoc/middsafe) {#_ftn3}
+##### [\[3\]](#glossary) Middlebury’s Vermont undergraduate campus program includes a confidential resource called [MiddSafe](https://www.middlebury.edu/offices/health/saoc/middsafe); for more information, see [https://www.middlebury.edu/offices/health/saoc/middsafe](https://www.middlebury.edu/offices/health/saoc/middsafe) {#\_ftn3}
