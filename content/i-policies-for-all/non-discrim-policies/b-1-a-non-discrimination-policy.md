@@ -37,7 +37,7 @@ Members of and visitors to the Middlebury community are prohibited from engaging
 
 3\. Discrimination in employment, admission or access to Middlebury’s education or extracurricular activities means taking an action against a person based on or motivated by that individual’s protected characteristic(s) (identified in (iii) above).
 
-4\. Discriminatory [harassment](#harassment) means verbal, written, visual, or physical conduct based on or motivated by an individual's [actual or perceived sex](#sex), sexual orientation, gender identity or expression, race, creed, color, place of birth, ancestry, ethnicity, religion, national origin, age, disability, marital status, or other characteristics defined and protected by local law, that has the purpose or effect, from the point of view of a reasonable person, of objectively and substantially:
+4\. Discriminatory [harassment](#harassment) means verbal, written, visual, or physical conduct based on or motivated by an individual's [actual or perceived sex](#sex), sexual orientation, gender identity or expression, race, creed, color, place of birth, ancestry, ethnicity, religion, national origin, age, disability, marital status, or other characteristics defined and protected by local law, that has the purpose or effect, from the point of view of a reasonable person, of objectively and significantly:
 
 1.  undermining and detracting from or interfering with an individual's educational or work performance or access to Middlebury resources; or
 2.  creating an intimidating, hostile, or abusive educational, work, or living environment.
