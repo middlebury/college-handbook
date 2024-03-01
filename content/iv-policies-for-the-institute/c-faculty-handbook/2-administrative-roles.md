@@ -5,17 +5,19 @@ date: 2021-05-01
 ---
 As a graduate school of Middlebury, the administration of the Institute operates within the larger Middlebury administrative structure.  The academic administration of the Institute resides within the purview of the provost, who is the chief academic officer of Middlebury.  The provost is charged with providing strategic and operational leadership and with ensuring the quality and integrity of all its academic programs and initiatives, including those of the Middlebury Institute of International Studies. In that capacity, the provost is involved in decision-making broadly across academic, financial, and operational spheres for the Institute.
 
-This section describes the major administrative roles at the Institute and outlines the relationship and responsibilities of the Faculty with respect to each. Faculty members should be consulted in the selection of the vice president for academic affairs and dean of the Institute.
+This section describes the major administrative roles at the Institute and outlines the relationship and responsibilities of the Faculty with respect to each.
 
 #### **C.2.a. Vice President for Academic Affairs and Dean of the Institute (VPAA)**
 
-The VPAA is responsible for the overall management of the business and academic affairs of the Institute, including support in instruction, research, and development. In the exercise of the duties of the office, the VPAA meets with Faculty Senate when requested, and meets regularly with the Senate president and vice president, as well as consulting with other faculty representatives through the Institute Leadership Group, appropriate faculty committees, and the relevant deans. [\[1\]](#institute-council)
+The VPAA is responsible for the overall management of the business and academic affairs of the Institute, including support in instruction, research, and development. In the exercise of the duties of the office, the VPAA meets with Faculty Senate or Faculty Senate leadership when requested, as well as consulting with faculty representatives through the Institute Leadership Group, Council of Program Chairs, appropriate faculty committees, and the relevant deans. [\[1\]](#institute-council)
 
-The VPAA is appointed by the president of Middlebury, and reports to the Middlebury provost. The VPAA is the Senior Administrative Officer serving as liaison to the Institute Board of Overseers.
+The VPAA shall organize all-faculty meetings or campus town halls as appropriate to engage the full faculty in dialogue. Additionally, the Faculty Senate may invite the VPAA to make a presentation and/or address questions at Faculty Assemblies.
 
-Due process should be followed in the selection of the VPAA. When a new Vice President of Academic Affairs/Dean of the Institute is select, Institute Faculty have the right to be meaningfully consulted in the selection. Feedback regarding the priorities for hiring and on the actual candidates should be gathered from the Faculty Assembly through a process designed and administered by the Faculty Senate, in conjunction with the current MIIS Council.
+The VPAA is appointed by the president of Middlebury, and reports to the Middlebury provost. The VPAA is the Senior Administrative Officer serving as liaison to the Institute Board of Advisors.
 
-As part of the process by which the VPAA is evaluated, the faculty should be consulted for input in the annual review of the VPAA.
+Due process should be followed in the selection of the VPAA. When a new Vice President of Academic Affairs/Dean of the Institute is selected, Institute Faculty have the right to be meaningfully consulted in the selection. Feedback regarding the priorities for hiring and on the actual candidates should be gathered from the Faculty Assembly through a process designed and administered by the Faculty Senate, in conjunction with the current MIIS Council.
+
+As part of the process by which the VPAA is evaluated, the faculty should be consulted annually.
 
 The VPAA directs the activities of other members of the staff, sees that the decisions and directives of the Institute Board of Advisors and the Middlebury Board of Trustees are implemented, and performs such other functions as the president and provost of Middlebury and the Institute Board of Advisors may require.
 
@@ -23,33 +25,37 @@ The VPAA appoints senior administrators; deans, associate deans, program chairs,
 
 The VPAA appoints faculty members in accordance with processes described below. Faculty appointments are subject to the approval of the Middlebury Board of Trustees through its consent agenda.
 
-The VPAA, along with the Middlebury provost, oversees the Institute’s response to charges of faculty misconduct, including procedures for  termination of  the appointment of a faculty member, in accordance with the policies of the Faculty Handbook.
+The VPAA, along with the Middlebury provost, oversees the Institute’s response to charges of faculty misconduct, including procedures for termination of the appointment of a faculty member, in accordance with the policies of the Faculty Handbook.
 
 Academic staff members are “at will” employees whose positions may be terminated at any time. (See Employee Handbook.)
 
+Evaluation of the VPAA
+
+Evaluation of the VPAA is conducted by the Provost according to guidelines in the Employee Handbook. The Provost shall coordinate with the Faculty Senate to solicit input from the faculty. The faculty input will be taken into account in the VPAA’s evaluations, both formative and summative.
+
 #### **C.2.b. Deans**
 
-A dean provides academic leadership and administrative management for a school of the Institutel. Deans articulate the interests of their schools, as well as coordinate with other Middlebury administrators on policies and decisions requiring collaboration. Deans ensure the effective formulation and implementation of academic policies, curriculum planning and development, budgeting, faculty recruitment and evaluation, and faculty development.
+Deans provide academic leadership and administrative management for the Institute. Deans advocate for programs and research centers, as well as coordinate with other Middlebury administrators on policies and decisions. Deans ensure the effective formulation and implementation of academic policies, curriculum planning and development, budgeting, faculty recruitment and evaluation, and faculty development.
 
-Deans also work with the offices of Institutional Advancement and Alumni Relations; Marketing and Recruitment; Admissions, and Financial Aid; the Registrar’s Office; the Business Office; the Communications office, and other academic and administrative services, and with the Institute Board of Overseers when necessary or requested.
+Deans routinely work with the offices of Institutional Advancement and Alumni Relations; Marketing and Recruitment; Admissions, and Financial Aid; the Registrar’s Office; the Business Office; the Communications office, and other academic and administrative services, and with the Institute Board of Advisors when necessary or requested.
 
-Deans serve as liaisons with professional associations, as well as with academic, business, and professional communities, helping to increase the visibility of their schools and the Institute as a whole.
+Deans may serve as liaisons with academic, business, and professional communities, helping to increase the visibility of the Institute as a whole.
 
-School deans (GSTILE, GSIPM) may have two appointments. First, they may have a regular faculty appointment, the specific term of which is held in abeyance (does not run) while they serve as dean. Second, as administrators, deans report to the VPAA. Their appointment is normally for a scheduled term of three (3) years and is renewable. However, the VPAA has the authority to terminate these administrative appointments at any time prior to the three-year term. On termination of the administrative appointment, the faculty contract, if one is held, resumes and the dean has the option to resume regular faculty status under the faculty contract, unless the VPAA terminates the appointment of a faculty member in accordance with the process defined in this Faculty Handbook based upon conduct in their role as dean.
+Deans may have two appointments if indicated in their appointment letter. First, they may have a regular faculty appointment, the specific term of which is held in abeyance (does not run) while they serve as dean. Second, as administrators, deans report to the VPAA. Their appointment is normally for a scheduled term of three (3) years and is renewable. However, the VPAA has the authority to terminate these administrative appointments at any time prior to the three-year term. On termination of the administrative appointment, the faculty contract, if one is held, resumes and the dean has the option to resume regular faculty status under the faculty contract, unless the VPAA terminates the appointment of a faculty member in accordance with the process defined in this Faculty Handbook based upon conduct in their role as dean.
 
-The relationships between the deans and Institute faculty is an important link between administrators and faculty at the Institute. It is at the school level that most academic matters arise and that the most important step in faculty evaluation takes place. A basic principle in the governance of the Institute is that deans consult their faculty on a regular basis. It is at the school level that faculty have the most authority and responsibility, and that mutual respect and consultation are most critical. One factor in establishing and maintaining this relationship is the active participation of faculty in the selection and evaluation of deans.
+The relationships between the deans and Institute faculty is an important link between administrators and faculty at the Institute. It is within these relationships  that most academic matters are addressed  and that the most important step in faculty evaluation takes place. A basic principle in the governance of the Institute is that deans consult with faculty on a regular basis. Mutual respect and consultation are most critical. One factor in establishing and maintaining this relationship is the active participation of faculty in the selection and evaluation of deans.
 
 _Selection of Deans_
 
-When the position of a school dean becomes open, a search committee shall be formed, composed of the VPAA, three regular faculty members of that school selected by the school faculty, and one regular faculty member of the other school selected by that other school’s faculty. The search committee shall also actively seek input from students and relevant staff and be trained on diversity.This committee shall normally normally conduct an international search.
+When a dean position becomes open, a search committee shall be formed, composed of the VPAA and, three or four regular faculty members representing a range of programs. The search committee shall actively seek input from students and relevant staff and be trained on diversity, equity, and inclusion. This committee shall normally conduct an international search.
 
-The committee shall approve the interviewing of at least three (3) finalists recommended by the committee. These candidates shall be interviewed by the search committee, the regular faculty of the school, the other deans, staff representatives, and student representatives.
+The committee shall approve the interviewing of at least three (3) finalists recommended by the committee. These candidates shall be interviewed by the search committee, Institute faculty, the other deans, staff representatives, and student representatives.
 
 The search committee shall gather and summarize comments on each candidate and create a ranked list of finalists from whom the VPAA makes the final selection.
 
 _Evaluation of Deans_
 
-Evaluation of the deans is conducted by the VPAA according to guidelines in the Employee Handbook. The VPAA shall establish a process to solicit input from the faculty of the respective schools. This process of gathering input shall be completed by March 20th, so that faculty input can be taken into account in the VPAA's evaluation.
+Evaluation of the deans is conducted by the VPAA according to guidelines in the Employee Handbook. The VPAA shall coordinate with the Faculty Senate to solicit input from the faculty. The faculty input will be taken into account in the deans’  evaluations, both formative and summative.
 
 #### **C.2.c. Program Chairs**
 
