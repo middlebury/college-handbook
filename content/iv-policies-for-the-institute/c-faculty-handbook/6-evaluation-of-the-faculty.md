@@ -141,9 +141,8 @@ i. **Assistant professor** (or assistant professors of professional practice)**,
 
 ii. **Associate professors** (or associate professors of professional practice) can apply for promotion to **full professor** (or full professor of professional practice) in either of the following cases: 
 
-\[1\] For those who joined MIIS faculty as an associate professor, they are eligible to apply after four (4) years in rank at the associate level, if at least three (3) of those years have been completed at the Institute.
-
-\[2\] For those who joined MIIS faculty as an assistant professor, they are eligible to apply after completing nine (9) years of full-time teaching at accredited institutions of higher learning, or, if they are professors of professional practice, equivalent professional experience, and after four (4) years in rank at the associate level at the Institute.
+1.  For those who joined MIIS faculty as an associate professor, they are eligible to apply after four (4) years in rank at the associate level, if at least three (3) of those years have been completed at the Institute.
+2.  For those who joined MIIS faculty as an assistant professor, they are eligible to apply after completing nine (9) years of full-time teaching at accredited institutions of higher learning, or, if they are professors of professional practice, equivalent professional experience, and after four (4) years in rank at the associate level at the Institute.
 
 Application for promotion to full professor can be made at earliest in the spring semester of the first academic year in which they have met the above criteria. If awarded, faculty will be notified of promotion by the end of that spring semester in the academic year in which they apply, and promotion shall become effective at the start of the following academic year (July 1st)."
 
