@@ -23,14 +23,9 @@ Academic policy-making is a shared responsibility, with the various members of t
 
 Academic policies are subject to ongoing review and updating. They are officially maintained in the Policies and Standards Manual, access to which is provided to all faculty and students through the Institute’s Web site found [here](/pages/iv-policies-for-the-institute/a-academic-policies).
 
-**C.1.c. Graduate Schools**
+**C.1.c. Organization of the Institute**
 
-To accomplish its mission, the Institute is organized into two schools, and an office for language and professional programs, each headed by a dean, research centers headed by directors, and various staff to manage academic support functions. See the webpage [Organizational Charts and Contacts](https://www.middlebury.edu/institute/faculty-staff/organizational-resources/charts-contacts).
-
-The schools are:
-
-*   The Graduate School of International Policy and Management
-*   The Graduate School of Translation, Interpretation, and Language Education
+To accomplish its mission, the Institute is organized into two schools, an office for executive and custom programs, and research centers This Institute is home to Middlebury's English Language School. See the webpage [Organizational Charts and Contacts](https://www.middlebury.edu/institute/faculty-staff/organizational-resources/charts-contacts).
 
 **C.1.d. Research Centers**
 
