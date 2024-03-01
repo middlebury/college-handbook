@@ -113,33 +113,19 @@ In addition to its other responsibilities, the Faculty Senate:
 *   may nominate candidates for honorary degrees. For this purpose, the Faculty Senate shall operate under the general principle that honorary degrees are awarded to recognize individuals whose work exemplifies the qualities of intellect, character, and creativity most valued by the Institute; and to acknowledge individual accomplishments, especially academic accomplishments, and general contributions to society. These nominations may be forwarded to the VPAA and the president of Middlebury for consideration.
 
 **C.4.e. Senate Officers**  
-The president and vice-president of the Faculty Senate must be full-time regular faculty members.
+The Senate leadership (President, President-Elect, and Past President), shall divide the leadership duties. Faculty Senate develops and maintains job descriptions for each role, though the leadership may decide by mutual agreement to make adjustments to the division of labor, as long as all required work is completed.  Responsibilities of the Senate leadership include representing faculty at appropriate Middlebury meetings, representing faculty in decisions on distributing faculty development funds, meeting regularly with the VPAA and/or Deans, organizing Senate and Assembly meetings, organizing faculty elections, keeping records of faculty decisions and votes, soliciting faculty input in shared governance, and organizing changes to the Faculty Handbook in consultation with Middlebury's General Counsel and Human Resources representatives as needed.
 
-The Faculty Assembly shall elect the new Senate president at the meeting of the Faculty Assembly in the second week of the spring semester, thus permitting sufficient time for the relevant program and school to arrange for the president’s teaching load reduction. The term of the Senate president shall be three (3) years beginning on the first of July following election the previous semester.
-
-Once the Senate has been constituted in the second week of the fall semester (see above), it shall elect a vice-president to assist the president in the completion of all duties. The vice-president shall normally be from a different school than that of the president. The term of the Senate vice-president shall be three (3) years beginning on election by the Senate prior to the meeting of the Faculty Assembly in the second week of the fall semester.
-
-The president, assisted by the president-elect in years where one is training, attend leadership meetings organized by the administration, represent faculty in decisions on distributing faculty development funds, meet regularly with the VPAA, keep records of faculty decisions and votes, and organize changes to the Faculty Handbook in consultation with Middlebury's Legal Council and Human Resources representatives as needed.
-
-There shall be a budget for those activities deemed necessary for the effective operation of the Faculty Senate, approved as part of the Institute’s normal budget process. The Faculty Senate president shall maintain an official presence in the form of an office, normally his/her personal faculty office. The vice-president shall assist the president in all duties and shall attend meetings as the representative of the Faculty Senate when the president is unable to do so.
-
-The president of the Senate shall receive release time from teaching in agreement with the VPAA of the Institute. As with sabbatical leaves, release time for these positions is dependent on the ability of the school to continue its academic programs given the reduced teaching load of the president and vice-president of the Senate, and the requisite budgetary support. The Senate president may also request a work-study student for specific projects.
-
-The faculty representative to the Board of Overseers is an _ex officio_ member of the Faculty Senate and attends meetings when necessary.
+There shall be a budget for those activities deemed necessary for the effective operation of the Faculty Senate, approved as part of the Institute’s normal budget process. The President of the Senate shall receive release time from teaching in agreement with the VPAA of the Institute. As with sabbatical leaves, release time for these positions is dependent on the ability of the school to continue its academic programs given the reduced teaching load of the Presidentof the Senate, and the requisite budgetary support. The Senate president may also request a work-study student for specific projects. 
 
 **C.4.f. Faculty Committees**
 
-Standing Committees shall include the Faculty Evaluation Committee (FEC) and the Academic Policy, Standards, and Instruction Committee (APSIC). These committees are important elements of faculty governance. They receive instructions from the Faculty Senate, and shall keep the Senate apprised of their work in a timely fashion.
+Standing Committees of the Faculty Senate shall include the Faculty Evaluation Committee (FEC) and the Academic Policy, Standards, and Instruction Committee (APSIC). These committees are important elements of faculty governance. They receive instructions from the Faculty Senate, and shall keep the Senate apprised of their work in a timely fashion.
 
-Standing committees shall have the responsibilities and authorities set forth in the committee descriptions below, together with such additional duties and responsibilities as may be assigned them by the Faculty Senate.
+Standing committees shall have the responsibilities and authorities set forth in the committee descriptions below, together with such additional duties and responsibilities as may be assigned them by the Faculty Senate. Committee terms run from July 1 through June 30 of each year, though summer work is typically limited to urgent needs.
 
-A standing committee consists of two faculty members from each school and one member elected at-large by the Faculty Assembly, each with full voting power. Faculty Evaluation Committee members must be regular faculty on multiple-year contracts and shall not be eligible for promotion or contract renewal during their terms of office. The Academic Policy, Standards, and Instruction Committee shall have a student member with full voting power, selected by the Student Council. The VPAA and the registrar are _ex officio_ members of the Academic Policy, Standards, and Instruction Committee and attend meetings when necessary.
+A standing committee consists of five faculty members elected by the Faculty Assembly, each with full voting power. Faculty Evaluation Committee members must be regular faculty on multiple-year contracts and shall not be eligible for promotion or contract renewal during their terms of office. The Academic Policy, Standards, and Instruction Committee shall have a student member with full voting power, selected by the Student Council. The VPAA and the registrar are _ex officio_ members of the Academic Policy, Standards, and Instruction Committee and attend meetings when necessary.
 
-The term of office for each faculty member serving on a standing committee (i.e. Senate, FEC, APSIC) shall be three years,\* normally with a turnover of approximately one-third (1/3) of the membership on each committee each year. If faculty members are unable to serve out the full 3-year terms on FEC due to an application by these faculty members for contract renewal, sabbatical, or promotion during their 3-year terms, then as an exception said faculty members may serve a 2-year term on the FEC.
-
-The term of office for each faculty member serving on a standing committee (i.e. Senate, FEC, and APSIC) shall normally be three years,\* with a turnover of approximately one-third (1/3) of the membership on each committee each year. In elections, priority for being included on the slate of candidates will go to faculty members who are able to serve 3-year terms.
-
-The faculty of each school shall establish its own procedure for selecting and removing its representatives to standing committees. School faculty who are members of the Faculty Assembly shall be eligible for selection. Members of standing committees shall regularly report back to their schools. In the last week of March, Committee chairs shall inform the Senate president of upcoming vacancies. The Senate president shall then inform the school deans of upcoming vacancies in the Senate, FEC, and APSIC so that nominations can be made and elections held in April.  Terms begin the following September.  The results shall be announced at the Faculty Assembly in May, at which time any at-large members can be elected.
+The term of office for each faculty member serving on a standing committee (i.e. Senate, FEC, APSIC) shall be three years,\* normally with a turnover of approximately one-third (1/3) of the membership on each committee each year. If faculty members are unable to serve out the full 3-year terms on FEC due to an application by these faculty members for contract renewal, sabbatical, or promotion during their 3-year terms, then as an exception, said faculty members may serve a 2-year term on the FEC.  In elections, priority for being included on the slate of candidates will go to faculty members who are able to serve 3-year terms. Nominations should be managed to try to ensure a diverse representation of academic programs on the committees. 
 
 The Faculty Senate may appoint _ad hoc_ committees to help it discharge its functions or to perform periodic functions, and to engage with substantial changes that may affect the nature of the Institute. These may include, but are not limited to:
 
@@ -150,17 +136,17 @@ The Faculty Senate may appoint _ad hoc_ committees to help it discharge its func
 
 **C.4.g. Faculty Evaluation Committee**
 
-The Faculty Evaluation Committee shall review all faculty files of faculty applicants for contract renewal, promotion, and sabbatical leave. After ensuring that due process has been observed, the Committee shall make an independent recommendation based on the procedures outlined on pages 26-28.
+The Faculty Evaluation Committee shall review all faculty files of faculty applicants for contract renewal, promotion, and sabbatical leave. After ensuring that due process has been observed, the Committee shall make an independent recommendation based on the procedures outlined in this handbook.
 
-The Faculty Evaluation Committee shall review a faculty Annual Review file only when requested to do so by the faculty member in question, or by the respective school dean, or by the VPAA (see page 28).
+The Faculty Evaluation Committee shall review a faculty Annual Review file only when requested to do so by the faculty member in question, or by the Dean of Teaching, Learning, and Faculty Development, or by the VPAA (see page 28).
 
-The Faculty Evaluation Committee may also evaluate and recommend changes to the current systems and policies governing faculty contracts. It also may evaluate and recommend changes to the process of evaluating faculty performance, with particular attention to any inequities that may arise as a result of separate school policies. Any such recommended changes shall first be approved by the Faculty Senate before forwarding to the VPAA.
+The Faculty Evaluation Committee may also evaluate and recommend changes to the current systems and policies governing faculty contracts. It also may evaluate and recommend changes to the process of evaluating faculty performance, with particular attention to any inequities that may arise. Any such recommended changes shall first be approved by the Faculty Senate before forwarding to the Dean of Teaching, Learning, and Faculty Development and the VPAA.
 
 The Faculty Evaluation Committee shall conduct its deliberations in closed meetings. All proceedings of this Committee will respect the privacy of all individuals involved in any evaluation.
 
 **C.4.h. Academic Policy, Standards, and Instruction Committee**
 
-The formulation and administration of academic policies at the Middlebury Institute is a shared responsibility of the Institute Board of Overseers, the Middlebury Board of Trustees, the Middlebury provost and president, the VPAA, deans and associate deans, and the faculty.
+The formulation and administration of academic policies at the Middlebury Institute is a shared responsibility of the Institute Board of Advisors, the Middlebury Board of Trustees, the Middlebury provost and president, the VPAA, deans and associate deans, and the faculty.
 
 The Academic Policies, Standards, and Instruction Committee (APSIC) serves as the faculty committee charged with oversight of Part I of the MIIS _Policies and Standards Manual_ (PSM). Early in the fall semester, APSIC reviews Part I of the _PSM_ in light of its deliberations over the preceding year, recommending changes and amendments to the Faculty Senate and VPAA for action and approval. Those changes and amendments that are approved by the administration are then included in the new edition of the _PSM_, prepared during the summer for distribution to students at the beginning of the fall semester.
 
@@ -171,11 +157,11 @@ In addition, APSIC:
 *   deliberates on student grievances and appeals;
 *   has at least two members serve on any Student Conduct Board dealing with an alleged student violation of academic standards or policies.
 
-APSIC reports its recommendations to the VPAAand the Senate for action and approval. In the case of curricular and programmatic proposals requiring further deliberation, APSIC consults further with the proposers before forwarding revised recommendations to the VPAA and Senate.
+APSIC reports its recommendations to the VPAA for action and approval. For all recommendations related to academic programs or policy, the Senate President-Elect should be copied on recommendations in order to keep the Senate informed. In the case of curricular and programmatic proposals requiring further deliberation, APSIC consults further with the proposers before forwarding revised recommendations to the VPAA and Senate. APSIC’s primary contact on the Institute Council is the Dean of Academic Innovation.
 
 **C.4.i. Salary and Benefits Committee (**_**ad hoc**_**)**
 
-Whenever constituted by the Faculty Senate, the primary role of this committee is to review and examine the structure of faculty benefits and salaries and make recommendations to the VPAA. The Committee shall work closely with the Human Resources staff at MIIS, and the benefits and compensation manager in the Human Resources department at Middlebury in the discharge of its responsibilities. Specific tasks and responsibilities are assigned at the time of constitution.
+Whenever constituted by the Faculty Senate, the primary role of this committee is to review and examine the structure of faculty benefits and salaries and make recommendations to the VPAA. The Committee shall work closely with the Human Resources staff in the discharge of its responsibilities. Specific tasks and responsibilities are assigned at the time of constitution.
 
 ---
 
