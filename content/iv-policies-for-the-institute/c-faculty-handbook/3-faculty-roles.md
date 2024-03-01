@@ -17,19 +17,19 @@ The Institute is committed to the principle of professional faculty development,
 
 The development of faculty teaching and research capabilities is the joint responsibility of the administration and faculty.
 
-Each school shall develop specific plans for faculty development, to include a budget and a process for allocating such resources. Policies shall address, but shall not be limited to: teaching load; release time for research, administration, and curriculum development; sabbaticals; academic leaves of absence; travel for faculty development and/or conference participation; study for advanced degrees; programs and study to advance the quality of teaching; and awards for research and teaching.
+The Dean of Teaching, Learning, and Faculty Development shall develop and implement specific plans for faculty development, to include a budget and a process for allocating such resources. Policies shall address, but shall not be limited to: teaching load; release time for research, administration, and curriculum development; sabbaticals; academic leaves of absence; travel for faculty development and/or conference participation; study for advanced degrees; programs and study to advance the quality of teaching; and awards for research and teaching.
 
 **C.3.c. Faculty Involvement in Educational Support**
 
 Certain support functions can have a major impact on the ability of the faculty to accomplish the educational mission of the Institute successfully. Faculty therefore advise and participate in activities including but not limited to:
 
-*   consult with marketing and recruiting to best support them in their efforts to attract students;
+*   consulting with enrollment management to best support them in their efforts to attract students;
 *   development and maintenance of facilities for teaching, learning, and research, including classrooms, the library, computer labs, interpreting labs and audio-visual equipment;
 *   selection, acquisition, and deployment of specific resources in instructional technology;
 *   institutional advancement and fundraising;
-*   the framing and execution of strategic plans;
+*   framing and execution of strategic plans;
 *   development and administration of the process by which faculty are selected, appointed, evaluated and terminated;
-*   involvement, through their schools, in the process by which resources are allocated at the school and Institute levels.
+*   involvement in the process by which resources are allocated.
 
 **C.3.d. Academic Freedom and Intellectual Contribution**
 
