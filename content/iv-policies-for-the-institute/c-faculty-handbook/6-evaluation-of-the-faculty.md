@@ -5,7 +5,7 @@ date: 2021-05-01
 ---
 Evaluation of the faculty serves several Institute objectives, such as assuring and assessing educational effectiveness, providing performance feedback, developing faculty expertise, improving classroom performance, maintaining fairness, and documenting the basis for employment decisions.
 
-Faculty are formally evaluated according to the procedures outlined below on three specific occasions. First, each year every regular faculty member or visiting faculty member on a multi-year contract (those holding a contract two-three years in length), is given an annual review by her/his school dean. Program chairs and language coordinators do not normally evaluate their faculty in the annual reviews. If a program decides they do want their program chair or language coordinator to contribute to the annual evaluation report, the faculty should have a right to review these comments just as they can view the dean's comments on their annual evaluation report. Second, each regular faculty member is evaluated for contract renewal. Third, the evaluation process is applied to all promotions. The evaluation process is based in part on judgments made upon the review of regularly administered end-of-semester student evaluations and upon peer faculty reviews.
+Faculty are formally evaluated according to the procedures outlined below on three specific occasions. First, each year every regular faculty member or visiting faculty member on a multi-year contract (those holding a contract two-three years in length), is given an annual review by the Dean of Teaching, Learning, and Faculty Development. Program chairs and Program Heads  do not normally evaluate their faculty in the annual reviews. If a program decides they do want their program chair or Program Head  to contribute to the annual evaluation report, the faculty should have a right to review these comments just as they can view the dean's comments on their annual evaluation report. Second, each regular faculty member is evaluated for contract renewal. Third, the evaluation process is applied to all promotions. The evaluation process is based in part on judgments made upon the review of regularly administered end-of-semester student evaluations and upon peer faculty reviews.
 
 #### **C.6.a. Criteria** {#criteria}
 
@@ -24,7 +24,7 @@ Evaluation is based on the following criteria:
 9.  Maintain high academic standards that require students to make progress towards producing professional-level work
 10.  Submit required Institute reports, such as semester grades, on a timely basis
 
-Sources of input: Evaluation of teaching will assess both quantity (number of courses, number of new course preps, number of students, number of directed studies, number of demanding courses (as designated by the school), etc.) as well as the quality of teaching. It is essential that there are multiple sources of data used in the evaluation of teaching quality. These sources must represent multiple perspectives (e.g. the faculty member being evaluated, students, peers, and administrators). The faculty and academic administration shall jointly agree on appropriate data sources and processes for the assessment of teaching.
+Sources of input: Evaluation of teaching will assess both quantity (number of courses, number of new course preps, number of students, number of directed studies, number of demanding courses, etc.) as well as the quality of teaching. It is essential that there are multiple sources of data used in the evaluation of teaching quality. These sources must represent multiple perspectives (e.g. the faculty member being evaluated, students, peers, and administrators). The faculty and academic administration shall jointly agree on appropriate data sources and processes for the assessment of teaching.
 
 **ii. Scholarship and Professional Impact (20-50%)** -  As a professional graduate school, one of the Institute’s greatest assets is the professional engagement of its faculty. This category evaluates the professional impact that faculty members make in their academic and professional fields and in the local and global communities.  Positive scholarship and professional impact increases the visibility and reputation of the Institute. Forms of professional impact include, but are not limited to:
 
@@ -73,7 +73,7 @@ Sources of input: Data on scholarship and professional impact will be reported b
 29.  Developing and/or coordinating non-degree programs and initiatives
 30.  Hosting alumni events
 
-Sources of input: Data on Middlebury/MIIS Service will be reported by the faculty member being evaluated and confirmed by the Dean. The faculty and academic administration shall jointly agree on appropriate methods of assessing the merits of the faculty members’ contributions in this category.
+Sources of input: Data on Middlebury/MIIS Service will be reported by the faculty member being evaluated and confirmed by the Dean of Teaching, Learning, and Faculty Development. The faculty and academic administration shall jointly agree on appropriate methods of assessing the merits of the faculty members’ contributions in this category.
 
 **iv. Professional Development (0-20%)** - A hallmark of professionals is that they continually develop and update their knowledge and skills. Intentional, ongoing professional development is expected of all Institute faculty. It is expected that each faculty member will seek improvement in one (or more) of the other three evaluation categories, with recognizable efforts annually. Professional development goals may include, but are not limited to:
 
@@ -113,7 +113,7 @@ The above elements are not mutually exclusive. While demonstrated excellence in 
 
 All criteria necessarily include the faculty member’s behavior as a responsible Institute citizen, including serving as a quality colleague to faculty, a quality mentor to students, and an Institute community member who fosters its values and complies with its policies.
 
-School deans, in consultation with the faculty of each degree program and the VPAA, shall establish clear guidelines for any weighting of criteria applicable to faculty evaluations in their schools.
+The Dearn of Teaching, Learning, and Faculty Development, in consultation with the faculty of each degree program and the VPAA, shall establish clear guidelines for any weighting of criteria applicable to faculty evaluations.
 
 #### **C.6.c. Tracking**
 
@@ -121,7 +121,7 @@ The VPAA is responsible for recording all information related to the evaluation 
 
 #### **C.6.d. Commencement of evaluation process**
 
-The VPAA’s office notifies each faculty member in writing, by September 1, of the faculty member’s obligations with respect to the particular type of evaluation (annual review, contract renewal, or promotion action) that is to be undertaken in a given year. [Appendix A](/pages/iv-policies-for-the-institute/c-faculty-handbook/appendix-a-faculty-evaluation-schedule) provides a schedule that academic administration, the Faculty Evaluation Committee, and faculty being reviewed should follow. By the date stipulated on this calendar, faculty members shall submit reports on their activities (Faculty Activity Reports or FARs) based on the five criteria described in section [C.6.a.](#criteria) FARs assist the academic administration and the Faculty Evaluation Committee in evaluating the record and the potential of the faculty members. Each school prescribes a template that clearly defines what is expected of faculty in this report.
+The VPAA’s office notifies each faculty member in writing, by September 1, of the faculty member’s obligations with respect to the particular type of evaluation (annual review, contract renewal, or promotion action) that is to be undertaken in a given year. [Appendix A](/pages/iv-policies-for-the-institute/c-faculty-handbook/appendix-a-faculty-evaluation-schedule) provides a schedule that academic administration, the Faculty Evaluation Committee, and faculty being reviewed should follow. By the date stipulated on this calendar, faculty members shall submit reports on their activities (Faculty Activity Reports or FARs) based on the four criteria described in section [C.6.a.](#criteria) FARs assist the academic administration and the Faculty Evaluation Committee in evaluating the record and the potential of the faculty members.  The administration, in collaboration with the Faculty Senate, shall maintain a rubric and instructions that clearly define what is expected of faculty in this report.
 
 #### **C.6.e. Annual Reviews**
 
