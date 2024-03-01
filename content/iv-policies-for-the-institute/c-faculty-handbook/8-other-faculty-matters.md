@@ -1,7 +1,7 @@
 ---
 slug: /pages/iv-policies-for-the-institute/c-faculty-handbook/8-other-faculty-matters
-date: 2021-05-01
 title: C.8. Other Faculty Matters
+date: 2021-05-01
 ---
 #### **C.8.a. Compensation and Benefits**
 
@@ -11,9 +11,9 @@ Faculty salaries are set by the VPAA as part of the annual budget process after 
 
 The Institute recognizes jury duty as a civic obligation and shall excuse all summoned faculty members from work without loss of pay if jury duty is required. However, in most cases, courts agree to delay the jury duty requirement for teachers if that duty falls during an academic semester. Every effort should be made to obtain such a delay in order not to disrupt the academic process. However, should jury duty be required during the academic semester, the following procedure applies:
 
-* Upon presentation of a formal summons, a faculty member shall be excused from work for service as a juror.
-* The faculty member shall consult with the relevant dean to find appropriate substitute(s) for any class time missed or to arrange for a make-up class or classes.
-* The same procedures as outlined above shall be followed for faculty members who are served subpoenas for court appearances directly related to their work duties.
+*   Upon presentation of a formal summons, a faculty member shall be excused from work for service as a juror.
+*   The faculty member shall consult with the Dean of Teaching, Learning, and Faculty Development to find appropriate substitute(s) for any class time missed or to arrange for a make-up class or classes.
+*   The same procedures as outlined above shall be followed for faculty members who are served subpoenas for court appearances directly related to their work duties.
 
 #### **C.8.c. Outside Organizational Activity/Solicitation**
 
@@ -21,7 +21,7 @@ Because of the Institute's status as a nonprofit organization, no faculty member
 
 #### **C.8.d. Procedures to follow in case of illness or emergency**
 
-Any unexpected development preventing a faculty member from meeting a class should be reported to, and handled by, the appropriate relevant dean. When a class must be canceled, absent exceptional circumstances, the dean's assistant should be informed by the faculty member in time to post notice in the scheduled classroom. If an acceptable substitute cannot be found, the class must be made up.
+Any unexpected development preventing a faculty member from meeting a class should be reported to, and handled by, the Dean of Teaching, Learning, and Faculty Development. When a class must be canceled, absent exceptional circumstances, the Assistant to the Academic Deans should be informed by the faculty member in time to notify the students by email, if the faculty member has not already done so. If an acceptable substitute cannot be found, the class must be made up.
 
 #### **C.8.e. Policy Against Sexual Misconduct, Domestic Violence, Dating Violence and Stalking**
 
@@ -35,21 +35,21 @@ However, if a faculty member has a complaint of harassment, discrimination, or o
 
 **Filing a Grievance –** The grievance process begins with a written document transmitted by the faculty member to the VPAA that states:
 
-* the faculty member’s name, department, and appointment history;
-* the decisions by the Institute and the events that give rise to the grievance;
-* the adverse impact on the faculty member;
-* the part of his/her contract with the Institute, of the faculty handbook, of other policies, or of law, that have been violated, and in what manner there has been material  damage to the faculty member;
-* the resolution or remedy that is requested;
-* the names of the decision-makers and other persons with knowledge of the matters at issue;
-* what the faculty member has done to attempt to resolve the complaint.
+*   the faculty member’s name, department, and appointment history;
+*   the decisions by the Institute and the events that give rise to the grievance;
+*   the adverse impact on the faculty member;
+*   the part of his/her contract with the Institute, of the faculty handbook, of other policies, or of law, that have been violated, and in what manner there has been material  damage to the faculty member;
+*   the resolution or remedy that is requested;
+*   the names of the decision-makers and other persons with knowledge of the matters at issue;
+*   what the faculty member has done to attempt to resolve the complaint.
 
 **Notification of Grievance  –** The VPAA shall notify the officer, agent, or representative of the Institute whose decision or actions are at issue. Where the decision or action at issue is by a committee of the Institute, the VPAA may choose to notify the committee.
 
 **Efforts to Resolve the Grievance –** The VPAA shall consult with the grieving faculty member and the officer, agent or representative of the Institute whose decision or actions are at issue, in an effort to identify if it is possible to resolve the grievance without a hearing. The VPAA has the power to propose a resolution of the grievance which shall conclude the grievance unless the grieving faculty member objects.
 
-**Faculty Grievance Review Committee  –** If the VPAA believes that the matter at issue is properly deemed to be a grievance as defined by this policy, the VPAA forms a faculty grievance review committee (FGRC), doing so in consultation with the relevant dean and the grieving faculty member. The VPAA appoints the chair and two other members to the FGRC; presents to the FGRC its charge; convenes the FGRC; and determines all procedural questions that are not resolved by this policy.
+**Faculty Grievance Review Committee (hereinafter referred to as “FGRC”)  –** If the VPAA believes that the matter at issue is properly deemed to be a grievance as defined by this policy, the VPAA forms a FGRC, doing so in consultation with the Dean of Teaching, Learning, and Faculty Development and the grieving faculty member. The VPAA appoints the chair and two other members to the FGRC; presents to the FGRC its charge; convenes the FGRC; and determines all procedural questions that are not resolved by this policy.
 
-The VPAA solicits suggestions for committee members from the relevant dean and the grieving faculty member and appoints from the Institute faculty community at large, the chair and two other members of the FGRC. The grieving faculty member may petition the VPAA to excuse any member for good cause shown to the VPAA, such as prior knowledge of the grievance facts or demonstrated interest or bias toward or against any person involved in the matter.
+The VPAA solicits suggestions for committee members from the Dean of Teaching, Learning, and Faculty Development and the grieving faculty member and appoints from the Institute faculty community at large, the chair and two other members of the FGRC. The grieving faculty member may petition the VPAA to excuse any member for good cause shown to the VPAA, such as prior knowledge of the grievance facts or demonstrated interest or bias toward or against any person involved in the matter.
 
 **Hearings** **–** The VPAA convenes and charges the FGRC within 30 days of the filing of the grievance, absent exigency or absence of key persons. The VPAA sets forth, in a charge letter, the procedures of hearing of the grievance and the date for hearing.
 
@@ -77,11 +77,11 @@ Note that misconduct charges against a Middlebury Institute faculty member that 
 
 **Professional Misconduct-Specific  –** Professional misconduct addressed by this policy includes the following:
 
-* dishonest, illegal or unethical behavior in the faculty member's teaching, research or service duties;
-* preventing or obstructing Institute teaching, research, or service functions, or any other lawful function of the Institute;
-* neglect of Institute-related duties or responsibilities;
-* other professional misconduct of a serious nature, including but not limited to, intentionally inflicting physical harm or other serious harm on a member of the Institute community, knowingly violating an Institute policy regulating behavior of faculty members; and
-* attempting to, abetting, or inciting another to, engage in conduct which would violate the above-described forms of misconduct if engaged in by the faculty member.
+*   dishonest, illegal or unethical behavior in the faculty member's teaching, research or service duties;
+*   preventing or obstructing Institute teaching, research, or service functions, or any other lawful function of the Institute;
+*   neglect of Institute-related duties or responsibilities;
+*   other professional misconduct of a serious nature, including but not limited to, intentionally inflicting physical harm or other serious harm on a member of the Institute community, knowingly violating an Institute policy regulating behavior of faculty members; and
+*   attempting to, abetting, or inciting another to, engage in conduct which would violate the above-described forms of misconduct if engaged in by the faculty member.
 
 **Disciplinary Procedures – General –** Discipline for professional misconduct involves either severe sanction(s) or less than severe sanctions. Proposed discipline may not be imposed except in compliance with faculty disciplinary procedures. Discipline other than severe sanctions may be imposed by action of the VPAA.
 
@@ -97,8 +97,8 @@ The panel shall rule upon any suggestion that a member or members of the propose
 
 The principal responsibilities of the hearing panel are to develop a record, to make findings based on the record, and to forward a recommendation to the VPAA.  Unless an extension is granted by the chair upon a showing of good cause, the hearing panel shall begin the hearing within 60 days of the referral of a matter.
 
-The hearing panel shall not be bound by formal rules of evidence. The VPAA shall have the burden of proving the charge of misconduct. Both the faculty member and the VPAA shall be permitted to present evidence, to examine all evidence presented, to confront and question all witnesses, and to present arguments orally or in writing. The faculty member may act as his or her own representative or may utilize the assistance of another faculty member. The VPAA may designate an Institute employee or employees who will participate on behalf of the VPAA. Party representatives may not be currently working as attorneys. Proceedings shall be tape recorded. Absent the agreement of the parties, the hearing shall be open only to those directly involved in the proceedings.
+The hearing panel shall not be bound by formal rules of evidence. The VPAA shall have the burden of proving the charge of misconduct. Both the faculty member and the VPAA shall be permitted to present evidence, to examine all evidence presented, to confront and question all witnesses, and to present arguments orally or in writing. The faculty member may act as his or her own representative or may utilize the assistance of another faculty member. The VPAA may designate an Institute employee or employees who will participate on behalf of the VPAA. Party representatives may not be currently working as attorneys. Proceedings shall be recorded. Absent the agreement of the parties, the hearing shall be open only to those directly involved in the proceedings.
 
 The VPAA shall review and consider the panel’s report and make a recommendation to the provost as to whether or not the charges are sustained and if so, the discipline to be imposed.  The provost will make a decision and notify the faculty member, and the panel. Decisions of the provost may be appealed to the president. All disciplinary decisions involving severe sanctions are ultimately subject to Board of Trustees approval.
 
-(b) **Non-Severe Sanctions**:  In the case of proposed sanctions which are not severe, the VPAA will prepare a written statement of charges, the proposed sanctions, and a brief summary of relevant facts. In the event that matter is not resolved to the mutual satisfaction of the VPAA and the faculty member within thirty (30) days of delivery of the written statement, the VPAA may impose discipline which carries other than severe sanction.  The VPAA will thereafter notify the faculty member in writing of the imposition of discipline. The VPAA may likewise impose sanctions that are not severe, while proceedings for severe sanctions under (a) above are pending. Imposition of sanctions that are not severe may be appealed to the provost.
+(b) **Non-Severe Sanctions**:  In the case of proposed sanctions which are not severe, the VPAA will prepare a written statement of charges, the proposed sanctions, and a brief summary of relevant facts. In the event that the matter is not resolved to the mutual satisfaction of the VPAA and the faculty member within thirty (30) days of delivery of the written statement, the VPAA may impose discipline which carries other than severe sanction.  The VPAA will thereafter notify the faculty member in writing of the imposition of discipline. The VPAA may likewise impose sanctions that are not severe, while proceedings for severe sanctions under (a) above are pending. Imposition of sanctions that are not severe may be appealed to the Provost.
