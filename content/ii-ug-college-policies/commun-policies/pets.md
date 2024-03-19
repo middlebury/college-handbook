@@ -29,15 +29,15 @@ Faculty and staff with private offices or faculty and staff who share an office 
 
 a. Obtain permission from their supervisor/department chair by completing Part I of the [approval and registration form](/assets/dog-at-work-registration-form_2022.pdf).  To be eligible for approval, employees must have a private office. With the approval of a supervisor or department chair, two employees who share a single office may be permitted to register their dog. However, only one dog is permitted in a single office at any given time.
 
-b. Complete Part II of the registration form and email a scanned copy of the completed form (Parts I and II), plus a digital photograph of their dog, to the Department of Public Safety at [publicsafety@middlebury.edu](mailto:publicsafety@middlebury.edu) (please write “Dog Registration” in the subject line). Note that the registration process requires that your dog have a current dog license in the owner’s hometown, and that the dog tag or town dog license number be provided to Public Safety.
+b. Complete Part II of the registration form and email a scanned copy of the completed form (Parts I and II), plus a digital photograph of their dog, to the Risk Office at [vprisk@middlebury.edu](mailto:vprisk@middlebury.edu) (please write “Dog Registration” in the subject line). Note that the registration process requires that your dog have a current dog license in the owner’s hometown, and that the dog tag or town dog license number be provided to the Risk Office.
 
-c. Receive final approval and sign to be hung on door. If you have not received notification of final approval from the Office of General Counsel, your dog has not yet been approved to come to work. 
+c. Receive final approval and sign to be hung on door. If you have not received notification of final approval from the Risk Office, your dog has not yet been approved to come to work. 
 
 d. When the dog is on campus, the faculty or staff member is responsible for ensuring that the Conduct Requirements spelled out below are followed.
 
 **Conduct Requirements for Dogs At Work Program**
 
-*   Owners must register any participating dog with the Department of Public Safety.
+*   Owners must register any participating dog with the Risk Office.
 *   Owners must post a sign on the office door when a dog is present. (A sign will be sent in campus mail once the dog registration has received final approval.)
 *   Owners must ensure that dogs are appropriately cleaned and groomed while on campus.
 *   Owners are required to clean up after their dogs, both inside and outside the office, and building.
@@ -47,3 +47,5 @@ d. When the dog is on campus, the faculty or staff member is responsible for ens
 *   Owners must make alternate arrangements to meet with students, co-workers, visitors and/or vendors who are allergic to or uncomfortable when dogs are present in the office. It is the responsibility of the owner to notify visitors beforehand that a dog will be present in the office.
 
 d.  Enforcement.  Concerns about Dogs at Work should be directed to the Vice-President or Dean for the office or program where the dog owner works.  Violation of any of the Conduct Requirements is a basis for terminating the registration of a dog.  Failure to comply with the Conduct Requirements may result in fines, in addition to termination of registration, and repeated violations may be subject to additional sanctions.
+
+Any questions about this policy may contact the Office of General Counsel at [gc@middlebury.edu](mailto:gc@middlebury.edu).
