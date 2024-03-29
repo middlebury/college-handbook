@@ -1,7 +1,7 @@
 ---
 slug: /pages/iv-policies-for-the-institute/d-employee-handbook/d-1-employment-policies-and-practices
-date: 2021-05-01
 title: D.1. Employment Policies and Practices
+date: 2021-05-01
 ---
 **D.1.a. Introduction**
 
@@ -13,13 +13,13 @@ The Institute reserves the right to change, revise, or eliminate any of the poli
 
 Some of the policies and provisions contained herein (such as holiday and CTO benefits) are not applicable to faculty. If you have any questions as to which policies are not applicable to faculty, please address them to the Human Resources Department. Additional policies and provisions that apply solely to the faculty are described in a Faculty Handbook section of the Institute Handbook.
 
-While the Employee Handbook provides much detail, it does not cover every permutation of every situation. Questions should be directed to the Human Resources Office at ext. 3520\. The College President is the final and binding interpreter of the provisions of the Employee Handbook as they apply to the facts of a particular situation.
+While the Employee Handbook provides much detail, it does not cover every permutation of every situation. Questions should be directed to the Human Resources Office at ext. 3520. The College President is the final and binding interpreter of the provisions of the Employee Handbook as they apply to the facts of a particular situation.
 
 **D.1.b. About the Institute**
 
 The Middlebury Institute of International Studies at Monterey is an academic community committed to preparing innovative professionals able to provide leadership in cross-cultural, multilingual environments. Founded in 1955 with a commitment to promoting international understanding through the study of language and culture, the Institute has graduated prominent leaders in foreign service and diplomacy, in language teaching, translation and interpretation, and in the international business and nonprofit communities.
 
-Effective June 30, 2010, the Institute merged with Middlebury College following an affiliation with the College that was established in 2005\. One of the country’s leading liberal arts colleges, Middlebury is also home to the renowned Middlebury Language Schools, Schools Abroad in twelve countries, the Bread Loaf School of English, and the Bread Loaf Writer’s Conference. Affiliation with Middlebury has created a unique opportunity for both institutions to have an even greater impact in the realm of global education.
+Effective June 30, 2010, the Institute merged with Middlebury College following an affiliation with the College that was established in 2005. One of the country’s leading liberal arts colleges, Middlebury is also home to the renowned Middlebury Language Schools, Schools Abroad in twelve countries, the Bread Loaf School of English, and the Bread Loaf Writer’s Conference. Affiliation with Middlebury has created a unique opportunity for both institutions to have an even greater impact in the realm of global education.
 
 As a graduate school of Middlebury College, the Institute is governed by the Board of Trustees of Middlebury College, which has also established a Board of Overseers of the Institute to review and advise the Institute regarding its operations and to make recommendations to the Board of Trustees of the College.
 
@@ -57,7 +57,7 @@ Middlebury College and the Middlebury Institute maintain Affirmative Action Plan
 
 **D.1.h. Identification Cards**
 
-All employees are expected to obtain an Institute photo identification card within the first week of employment. After submitting the required employment paperwork to the Human Resources Office, new employees may make arrangements to obtain identification cards by contacting Security at x4153\. Identification cards are property of the Institute and must be relinquished at the conclusion of employment.
+All employees are expected to obtain an Institute photo identification card within the first week of employment. After submitting the required employment paperwork to the Human Resources Office, new employees may make arrangements to obtain identification cards by contacting Security at x4153. Identification cards are property of the Institute and must be relinquished at the conclusion of employment.
 
 **D.1.i. Background Screenings**
 
@@ -123,19 +123,19 @@ If you feel your check may be inaccurate, first verify that your time was submit
 
 The Middlebury Institute of International Studies at Monterey maintains the following staff employment status definitions. These definitions are used primarily to determine eligibility for benefits. The primary basis for determining employment status is committed hours, defined as regularly scheduled and budgeted hours assigned to a specific position. Regardless of the number of hours actually worked, on-call positions have no committed hours. Human Resources will work collaboratively with managers to determine the classification of each position.
 
-**_Regular staff employees_** work on a regular schedule for an unspecified duration and are normally employed for a position as a result of open recruitment. Regular employees may be classified as full-time; part-time benefit eligible; part-time non-benefit eligible.
+_**Regular staff employees**_ work on a regular schedule for an unspecified duration and are normally employed for a position as a result of open recruitment. Regular employees may be classified as full-time; part-time benefit eligible; part-time non-benefit eligible.
 
 If a regular staff employee is classified as exempt, the employee is not paid based on the number of hours worked. If a regular staff employee is classified as non-exempt, the employee is paid based on the number of hours worked AND AN HOURLY RATE OF PAY.
 
-**_Full-time staff employees_** are normally scheduled to work 37.5 hours per week. To be classified as full-time for purposes of benefits, an employee must be scheduled to work at least 32 hours per week (1664 hours per year). Full-time staff employees are benefits eligible.
+_**Full-time staff employees**_ are normally scheduled to work 37.5 hours per week. To be classified as full-time for purposes of benefits, an employee must be scheduled to work at least 32 hours per week (1664 hours per year). Full-time staff employees are benefits eligible.
 
-**_Part-time, benefit eligible staff employees_** are scheduled to work at least 20 but less than 32 hours per week (between 1000 and 1663 hours per year).
+_**Part-time, benefit eligible staff employees**_ are scheduled to work at least 20 but less than 32 hours per week (between 1000 and 1663 hours per year).
 
-**_Part-time, non-benefit eligible staff employees_** are scheduled to work less than 20 hours per week, or less than 1000 hours per year.
+_**Part-time, non-benefit eligible staff employees**_ are scheduled to work less than 20 hours per week, or less than 1000 hours per year.
 
-**_Time-limited employees_** are employed for an assignment of a “not to exceed” specific duration. A time-limited employee is eligible for benefits if the committed hours for his/her position totals 1000 hours in the 12 months following his/her appointment. Postgraduate Fellows are included in this category. Time-limited assignments may be extended; however, the employment status of an employee who works longer than the period originally expected and designated will not automatically change.
+_**Time-limited employees**_ are employed for an assignment of a “not to exceed” specific duration. A time-limited employee is eligible for benefits if the committed hours for his/her position totals 1000 hours in the 12 months following his/her appointment. Postgraduate Fellows are included in this category. Time-limited assignments may be extended; however, the employment status of an employee who works longer than the period originally expected and designated will not automatically change.
 
-**_On-call staff employees_** work as needed on an hourly basis. Hours may vary from part-time to full-time. There are no committed hours attached to these positions. On-call staff are not eligible for benefits.
+_**On-call staff employees**_ work as needed on an hourly basis. Hours may vary from part-time to full-time. There are no committed hours attached to these positions. On-call staff are not eligible for benefits.
 
 Staff positions funded from external sources will be classified into the appropriate job status as determined by job assignment and the duration of time that the position is not to exceed.
 
@@ -241,16 +241,16 @@ The Institute may choose in appropriate situations to utilize a progressive disc
 
 If a situation, at the discretion of the Institute, warrants progressive discipline, the disciplinary actions applied may include a verbal warning, a written warning, a written reprimand, and/or termination from employment. Every action need not be taken in each case, and depending upon the relevant circumstances, the Institute may decide to take any disciplinary action, including immediate termination, at any time. Relevant circumstances that affect the course of disciplinary action may include the Institute’s judgment as to the seriousness or severity of the individual employee's deficiencies in performance and/or conduct, prior performance and conduct, and management's assessment of appropriate factors identified during the investigation. Examples of some of the circumstances that in the Institute’s judgment might lead to summary discharge include, but are not limited to:
 
-* Conduct that is in opposition to the Institute's nondiscrimination or harassment policies;
-* Sustained insubordination or refusal to comply with a reasonable request given by the supervisor or Institute official, or abusive treatment of a supervisor or Institute official;
-* Theft of Institute property, personal property, or theft of service;
-* Falsification of records, time cards, or claiming sickness under false pretenses;
-* Disorderly conduct while on the job;
-* Deliberate, frequent, and/or recurring violations of stated safety regulations, even if they are not intentional;
-* Unexcused absence without notice for three days;
-* Use or possession of, or being under the influence of illegal substances or alcohol while at work;
-* Threatening physical harm, or actual physical violence to another member of the Institute community;
-* Breach of confidentiality, which is defined as releasing to unauthorized persons, or misuse of confidential information to which an employee is privy because of her/his job.
+*   Conduct that is in opposition to the Institute's nondiscrimination or harassment policies;
+*   Sustained insubordination or refusal to comply with a reasonable request given by the supervisor or Institute official, or abusive treatment of a supervisor or Institute official;
+*   Theft of Institute property, personal property, or theft of service;
+*   Falsification of records, time cards, or claiming sickness under false pretenses;
+*   Disorderly conduct while on the job;
+*   Deliberate, frequent, and/or recurring violations of stated safety regulations, even if they are not intentional;
+*   Unexcused absence without notice for three days;
+*   Use or possession of, or being under the influence of illegal substances or alcohol while at work;
+*   Threatening physical harm, or actual physical violence to another member of the Institute community;
+*   Breach of confidentiality, which is defined as releasing to unauthorized persons, or misuse of confidential information to which an employee is privy because of her/his job.
 
 **D.1.ff. Promotions and Transfers**
 
@@ -295,6 +295,8 @@ Although the Institute has no retirement age, work restrictions may be imposed u
 **D.1.ll. Reductions in Force**
 
 Under some circumstances, the Institute may restructure or reduce its workforce. If so, the Institute will make a reasonable effort to inform affected employees in advance. Employees to be laid off will be told the expected duration of the layoff if known. In determining which employees will be laid off, the Institute will identify the positions to be reduced and in selecting for retention among staff members performing in the same position to be reduced, will consider its operating requirements and other factors, including employees’ skills, productivity, ability, past performance, and, where other factors are equal in its judgment, their length of service.
+
+Managers considering reorganization of their units should consult with Human Resources. They will be expected to complete a specific process as outlined in the Reorganization and Severance Policy, in partnership with Human Resources.  
 
 **D.1.mm. Exit Interview**
 
