@@ -66,4 +66,4 @@ It may be that the Principal is able to resolve the matter informally by consult
 
 Should there be any merit in a complaint, then prompt and proportionate action will be taken to rectify the situation.
 
-If students are not satisfied with the outcome to this procedure, then – in matters directly relevant to the standards for accreditation – it is open to them to pursue the Complaints Procedure of the British Accreditation Council (BAC). Concerns about academic standards and quality may also be raised with the Quality Assurance Agency (QAA), which has educational oversight over the M-CMRS program.
+Concerns about academic standards and quality may be raised with the Quality Assurance Agency (QAA), which has educational oversight over the M-CMRS program.
