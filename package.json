@@ -17,7 +17,7 @@
   "dependencies": {
     "@ckeditor/ckeditor5-react": "^6.2.0",
     "ckeditor5-custom-build": "git+https://github.com/poojagunturu96/ckeditor5-markdown.git",
-    "decap-cms-app": "^3.1.6",
+    "decap-cms-app": "^3.1.8",
     "gatsby": "^5.13.3",
     "gatsby-plugin-decap-cms": "^4.0.4",
     "gatsby-plugin-local-search": "^2.0.1",
@@ -35,7 +35,7 @@
     "react-helmet": "^6.1.0",
     "react-icons": "^5.0.1",
     "react-use-flexsearch": "^0.1.1",
-    "sass": "^1.72.0"
+    "sass": "^1.74.1"
   },
   "overrides": {
     "graphql": "^16.7.1"
