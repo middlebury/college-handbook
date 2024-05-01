@@ -29,7 +29,7 @@ Faculty and staff with private offices or faculty and staff who share an office 
 
 a. Obtain permission from their supervisor/department chair by completing Part I of the [approval and registration form](/assets/dog-at-work-registration-form_2022.pdf).  To be eligible for approval, employees must have a private office. With the approval of a supervisor or department chair, two employees who share a single office may be permitted to register their dog. However, only one dog is permitted in a single office at any given time.
 
-b. Complete Part II of the registration form and email a scanned copy of the completed form (Parts I and II), plus a digital photograph of their dog, to the Risk Office at [vprisk@middlebury.edu](mailto:vprisk@middlebury.edu) (please write “Dog Registration” in the subject line). Note that the registration process requires that your dog have a current dog license in the owner’s hometown, and that the dog tag or town dog license number be provided to the Risk Office.
+b. Complete Part II of the registration form and email a scanned copy of the completed form (Parts I and II), plus a digital photograph of their dog, to the Risk Office at [vprisk@middlebury.edu](mailto:vprisk@middlebury.edu) (please write “Dog Registration” in the subject line). Note that the registration process requires that your dog have a current dog license in the owner’s hometown, and that the dog tag or town dog license number be provided to the Risk Office. No dog may be permitted on campus that is not fully vaccinated and current on all vaccinations.
 
 c. Receive final approval and sign to be hung on door. If you have not received notification of final approval from the Risk Office, your dog has not yet been approved to come to work. 
 
