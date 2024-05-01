@@ -43,7 +43,7 @@ iv. There will be no readmissions after the September 1 and January 15 dates.
 
 i. Students may choose to take a leave of absence during their time at Middlebury. They may choose not to return after a successfully completed semester, or they may choose to take a leave during a semester in progress. Any student wishing to take a leave of absence should consult their Class Dean to review their academic progress and identify any changes to their academic plan that may be indicated before or after a leave. When students leave during a semester in progress and prior to December 1 for the fall semester or May 1 for the spring semester, no courses will appear on their transcript. If they take a leave from a semester after December 1 (fall) or May 1 (spring), their courses will remain on the transcript. A course with a failing grade assessed as a penalty for academic dishonesty by the Academic Judicial Board will not be removed from a transcript regardless of the timing. 
 
-ii. Students may declare a leave of absence for the fall semester without penalty on or before June 1 for the fall semester and October 15 for the spring semester. Students who declare a leave of absence after these deadlines will be assessed a $500 fee.   
+ii. Students may declare a leave of absence without penalty on or before June 1 for the fall semester and October 15 for the spring semester. Students who declare a leave of absence after these deadlines will be assessed a $500 fee.   
 
 iii. Students who take a leave in the middle of a semester are ordinarily eligible for readmission after a full Fall or Spring semester away.  
 
