@@ -5,17 +5,17 @@ date: 2021-05-01
 ---
 **Attendance**
 
-Attendance and participation in all classes is mandatory and an integral part of the academic program. Students are not permitted to miss more than three days of class for any reason. Missing more than three days will likely result in removal from the program and failing grades. No reimbursement will be given in such cases. Students must receive approval from their program director for all absences.
+Attendance and participation in all classes is mandatory and an integral part of the academic program. Students must receive written approval from their School director for all absences and are ordinarily are not permitted to miss more than three days of class for any reason. Missing more than three days will likely result in removal from the program and failing grades. No reimbursement will be given in such cases. 
 
 **Placement Tests**
 
-Test results, rather than length of previous study, determine placement in courses. By applying to a Middlebury Language School, students indicate the willingness to accept placement determined by the School on the basis of placement tests. Students should check their School’s arrival information for times and locations of placement tests.
+Test results, rather than length of previous study, determine placement in courses. By applying to a Middlebury Language School, students indicate the willingness to accept placement determined by the School on the basis of placement tests. Students should check their School’s arrival information for times and locations of placement tests. Final determination of a student’s placement lies with the School’s Director. 
 
-Schools will provide students with pertinent information regarding the time and place for advising and course selection.
+Students should check their School’s arrival information for times and locations of placement tests. Schools will provide students with pertinent information regarding the time and place for advising and course selection.
 
 **Transferring from One School to Another**
 
-Middlebury Language Schools offer admission to one language school. It is rarely possible, and is not permitted after the first week of classes, for a student to transfer from one Language School to another. In those cases in which transfer may be possible, permission is required from the directors of both Schools and the dean of Language Schools.
+Middlebury Language Schools offer admission to one language school. It is rarely possible, and is not permitted after the first week of classes, for a student to transfer from one Language School to another. In those cases in which transfer may be possible, permission is required from the directors of both Schools and the dean of Language Schools as well as completion of the application and enrollment processes.
 
 **Curriculum**
 
@@ -27,6 +27,6 @@ At the graduate level, Middlebury offers the Master of Arts and the Doctor of Mo
 
 You will be asked to complete online forms evaluating your summer experience. These evaluations are confidential: student names are not required and no faculty member will see the evaluation forms until grades have been submitted. You will also be asked to complete a general survey designed to help us improve our overall programs and facilities. We appreciate your cooperation in completing these questionnaires.
 
-**Survey Policy**
+**Policy on Research at the Language Schools**
 
-All surveys or questionnaires, of any kind, involving faculty, students, or staff, will have to be registered in advance with the office of the Dean of the Language Schools. The Dean’s office will contact the Director of the School (or Schools) involved for their permission. No surveys may be conducted without permission from both the Dean and the Director(s) of the School(s). Each proposed survey needs to state in clear and unequivocal terms that participation by faculty or students is entirely voluntary and in no way related to course requirements or grades. If students are involved, the survey must also be approved by the Institutional Review Board.
+Any research conducted at the Language Schools, whether on data produced by faculty, staff, or students, should be approved by an Institutional Review Board, and include an informed consent process, stating in clear and unequivocal terms that participation by faculty or students is entirely voluntary and in no way related to course requirements or grades.   Research by Language Schools faculty and staff is eligible to be approved either through Middlebury’s Institutional Review Board ([https://www.middlebury.edu/institutional-review-board](https://www.middlebury.edu/institutional-review-board)) or that of their home institution.   Additionally, the Director of the School (or Schools) involved must be notified of the research conducted.  Language School students may also only conduct research in the Language School context with approval from their home institution or Middlebury’s IRB process and express permission of the Director of the School (or Schools) in which the research will be carried out.
