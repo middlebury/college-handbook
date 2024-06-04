@@ -1,49 +1,55 @@
 ---
 slug: /pages/iii-policies-for-the-language-schools/e-policies-for-faculty
-date: 2021-05-01
 title: E. Policies for Faculty
+date: 2021-05-01
 ---
 **Your Employment**
 
-Middlebury Language Schools' faculty and staff are considered "at will" employees. No employment contract is expressed or implied. Language Schools' faculty and staff are governed by the Middlebury College Handbook ([https://handbook.middlebury.edu](https://go.middlebury.edu/handbook)).
+Middlebury Language School faculty and staff are considered "at will" employees. No employment contract is expressed or implied. Language Schools' faculty and staff are governed by the Middlebury College Handbook ([https://handbook.middlebury.edu](https://go.middlebury.edu/handbook)).
 
 **Salary Payments**
 
 Summer faculty and staff are paid in bi-weekly installments. The final payment will not be issued until all obligations to the College have been met.
 
+**Language Schools Employee and Dependent Auditor Benefit**
+
+With permission of the School Director, Language School faculty/staff with more than one year of service and their dependents may be eligible to audit Language Schools classes at no charge, however there may be charges for room and board depending on auditor status.
+
+All auditor requests must be approved by the Director of the School in which the class(es) will be audited. Schools may individually determine requirements or restrictions (age, number of courses taken, pledge, residence, etc.).
+
 **Academic Policies**
 
 **Information about Yourself and Your Courses**
 
-Each faculty member must submit a syllabus, including a description of how the final grade is determined, an outline of material to be covered—including exams and deadlines—for each course offered during the summer session, as well as a curriculum vitae (CV/résumé) to the School's Assistant Director at the start of the session. In addition, supply your Assistant Director with a photograph and brief biography (200–250 words) to be posted on the Language Schools' website. Please give these documents to your School Assistant Director by the end of the first week of classes, or earlier if possible.
+Each faculty member must submit a syllabus, including a description of how the final grade is determined, an outline of material to be covered—and all course requirements, including exams and deadlines—for each course offered during the summer session, as well as a curriculum vitae (CV/résumé) to the School's Assistant Director at the start of the session. In addition, supply your Assistant Director with a photograph and brief biography (200–250 words) to be posted on the Language Schools' website. Please give these documents to your School Assistant Director by the end of the first week of classes, or earlier if possible.
 
 **Classes**
 
 Classes meet five days a week, Monday through Friday. No holidays are observed during the summer session. Please refer any questions about class schedules and classrooms to the Assistant Director of your School.
 
-In Middlebury's highly-intensive summer program, great importance is placed on regular attendance and participation. It is expected that students miss class only for illness or the most compelling of reasons. Normally students are not permitted to miss more than three days of class. Missing more than three days will likely result in removal from the program and failing grades. Please report to the director of your School any student who is frequently absent from class.
+In Middlebury's highly-intensive summer program, great importance is placed on regular attendance and participation. It is expected that students will miss class only for illness or the most compelling of reasons. Normally students are not permitted to miss more than three days of class. Missing more than three days will likely result in removal from the program and failing grades. Please report to the director of your School any student who is frequently absent from class.
 
 **Advising Students**
 
-Please refer students who seem to be experiencing difficulty(handling stress, adjusting to language immersion, etc.) to either the College counseling center in Centeno House, ext. 5141, or the dean on call. Please reassure students that the Language Pledge is suspended when dealing with all health and counseling personnel.
+Please refer students who seem to be experiencing difficulty (handling stress, adjusting to language immersion, etc.) to the Director of their school, dean of the Language Schools, or a counselor via TimelyCare. Please reassure students that the Language Pledge is suspended when dealing with all health and counseling personnel.
 
-We urge you to refer students who seem to be experiencing trouble adjusting to the College counseling center in Centeno House, ext. 5141, or to the Dean, Stephen Snyder, ext. 5292\. Please reassure students that the Language Pledge is suspended when dealing with all health and counseling personnel.
+We urge you to refer students who seem to be experiencing trouble adjusting to the Director of their school, dean of the Language Schools, or a counselor via TimelyCare. Please reassure students that the Language Pledge is suspended when dealing with all health and counseling personnel.
 
 **Student Records**
 
-In accordance with [FERPA](/pages/i-policies-for-all/records/ferpa) (Family Educational Rights and Privacy Act of 1974), students or former students of Middlebury College have the right to inspect all educational records placed in their files after January 1975\. Note: For additional information, contact the Registrar's Office at ext. 5770.
+In accordance with [FERPA](/pages/i-policies-for-all/records/ferpa) (Family Educational Rights and Privacy Act of 1974), students or former students of Middlebury College have the right to inspect all educational records placed in their files after January 1975. Note: For additional information, contact the Registrar's Office at ext. 5770.
 
 **Class Lists**
 
-Please check class lists carefully for accuracy, and report any discrepancies to your School coordinator. If there are students in your class whose names do not appear on your class list, request that they clarify their status immediately with the School office. Note: Auditors are not included on class lists, and may not take an active part in class.
+Please check class lists carefully for accuracy, and report any discrepancies to your School Director or Assistant Director. If there are students in your class whose names do not appear on your class list, request that they clarify their status immediately with the School office. Note: Auditors are not included on class lists, and may not take an active part in class.
 
-Class lists will be distributed at the beginning of the session. Please keep your list up-to-date during the add/drop period. Changes made through the add/drop period should be corrected by hand until you receive updated lists.
+Class lists will be available at the beginning of the session. Please keep your list up-to-date during the add/drop period and communicate changes with your School office.
 
 Once you receive the revised lists, please check to ensure that adds and drops have been properly entered. It is important that this be done carefully, as these lists are used for both final grades and for billing when extra courses are taken.
 
 **Course Changes**
 
-Students who wish to add or drop a course, or change from one section to another, must present you with add/drop cards for your signature and approval. The director or associate director of your School must also sign the cards. Please note the add/drop deadlines for [Middlebury campus programs](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-4-registration) and [Bennington campus programs](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-4-registration).
+Add/drop procedures are handled by each School office. Students should obtain the approvals of the instructors involved in the added and dropped courses, as well as approval of the Director or Associate Director of the School. The director or associate director of your School must also sign the cards. Please note the add/drop deadlines for [Middlebury campus programs](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-4-registration) and [Bennington campus programs](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-4-registration).
 
 **Plagiarism**
 
@@ -65,8 +71,7 @@ All work submitted by students must be their own. It is unacceptable for student
 
 The use of online dictionaries is acceptable because students are responsible for using the provided words or short phrases, choosing the most appropriate one, putting it in the proper grammatical context, and providing all necessary punctuation. A translation program, on the other hand, provides a complete phrase or longer piece of text; here a student has only to copy the provided words. Therefore, anything created by a translation program cannot be considered the student's own work and, such work will be considered academic misconduct, which is a serious offense and can result in punishment up to and including expulsion from the Language Schools.
 
-Middlebury Language Schools students are bound by the Middlebury [Honor Code](/pages/ii-ug-college-policies/ug-policies/academics/acad-honesty).   
-
+Middlebury Language Schools students are bound by the Middlebury [Honor Code](/pages/ii-ug-college-policies/ug-policies/academics/acad-honesty). 
 
 **Grade Rosters**
 
