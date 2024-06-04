@@ -98,7 +98,7 @@ collections:
   - name: "miis-policies"
     label: "IV. Policies for the Institute of International Studies"
     folder: "content/iv-policies-for-the-institute"
-    path: "{{slug}}/{{slug}}/"
+    path: "{{slug}}/{{slug}}/{{slug}}"
     create: false
     fields:
       - {
@@ -156,6 +156,7 @@ collections:
     folder: "content/vi-handbook-archive"
     path: "{{slug}}/"
     create: false
+    sortable_fields: []
     fields:
       - {
           label: "Title",
