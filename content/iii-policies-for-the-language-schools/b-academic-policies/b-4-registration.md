@@ -7,39 +7,41 @@ Graduate students in the Arabic, French, German, Italian, Japanese, Korean, Russ
 
 **ADD/DROP Procedures**
 
-Add/Drop procedures are handled by each School office. Students must obtain the approvals of the instructors involved in the added and dropped courses, as well as approval of the director or associate director of the School. Students cannot add new courses after the Add/Drop deadline. Courses dropped before the Add/Drop deadline do not appear on transcripts. Courses dropped after the posted deadlines, but on or before July 19 will receive a grade of WD on the transcript. Courses dropped after July 19 receive a grade of WDF on the transcript. Notifying an instructor of non-attendance does not constitute official withdrawal from a course.
+Add/Drop procedures are handled by each School office. Students must obtain the approvals of the instructors involved in the added and dropped courses, as well as approval of the director or associate director of the School. Students cannot add new courses after the Add/Drop deadline. Courses dropped before the Add/Drop deadline do not appear on transcripts. Courses dropped after the posted deadlines, but on or before July 17 will receive a grade of WD (withdraw) on the transcript. Courses dropped after July 17 receive a grade of WDF (withdraw failing) on the transcript. Notifying an instructor of non-attendance does not constitute official withdrawal from a course.
 
 **Add/Drop Deadlines:**
 
-Arabic, Chinese, Japanese, Korean, and Russian 8-week sessions: July 4
+Arabic, Chinese, Japanese, Korean, and Russian 8-week sessions: July 2
 
-French, English, German, Hebrew, Italian, Portuguese and Spanish 7-week sessions: July 10
+English, French, German, Hebrew, Italian, Portuguese and Spanish 7-week sessions: July 8
 
-Chinese, French, German, Japanese, Korean, Russian and Spanish 6-week sessions: July 12
+Chinese, French, German, Hebrew, Japanese, Korean, Russian and Spanish 6-week sessions: July 10
 
-Hebrew 6-week session: July 7
+Arabic, English and Italian 6-week sessions: July 12
 
-Arabic and Italian 6-week sessions: July 14
-
-English 6-week session: TBD
-
-Buenos Aires 6-week session: July 3
-
-Paris 6-week session: June 19
+Buenos Aires 6-week session: July 2
 
 All 2, 3 and 4-week sessions: end of the third day of class
 
-\* _Last date to drop without grade penalty for all programs is July 19_
+\* _Last date to drop without grade penalty for all programs is July 17_
 
 **Credits and Credit Load**
 
-All credit awarded by the Language Schools is defined in terms of units. One unit equals three semester hours of credit. Students enrolled in the eight-week session of the Arabic, Chinese, Japanese, Korean, and Russian Schools normally earn four units of credit. Students enrolled in the seven-week session of the English, French, German, Hebrew, Italian, Portuguese, and Spanish Schools normally earn three units of credit. Students enrolled in the six-week graduate programs of the Arabic, Chinese, French, German, Hebrew, Italian, Japanese, Korean, Russian, and Spanish Schools normally earn three units of credit. Graduate students are not permitted to repeat a course for which they have received a passing grade and earned credit. For all other students, repeating a course is allowed only with permission of the director of the school. This permission only will be granted in exceptional cases. To request permission to repeat a course, non-graduate students must submit a request in writing. The request must include justification as to why permission to repeat courses should be considered. If approval to repeat a course (or courses) is granted, only the first grade is calculated into the grade point average, and the course is only counted once for credit, although both grades appear on the transcript.
+All credit awarded by the Language Schools is defined in terms of units. 
+
+One unit equals three semester hours of credit. Students enrolled in the eight-week session of the Arabic, Chinese, Japanese, Korean, and Russian Schools normally earn four units of credit. Students enrolled in the seven-week session of the English, French, German, Hebrew, Italian, Portuguese, and Spanish Schools normally earn three units of credit. Students enrolled in the six-week graduate programs of the Arabic, Chinese, French, German, Hebrew, Italian, Japanese, Korean, Russian, and Spanish Schools normally earn three units of credit. 
+
+Graduate students are not permitted to repeat a course for which they have received a passing grade and earned credit. For all other policies on retaking a graduate course for which a student received a failing grade, see section B.6.
+
+For immersion students who have successfully completed a course in a prior summer, repeating that course is allowed only with permission of the director of the school. This permission to repeat that course only will be granted in exceptional cases. To request permission to repeat a course, non-graduate students must submit a request in writing. The request must include justification as to why permission to repeat courses should be considered. If approval to repeat a course (or courses) is granted, only the first grade is calculated into the grade point average, and the course is only counted once for credit, although both grades appear on the transcript.
 
 For transfer purposes, the student’s home institution determines how many credits, graduate or undergraduate, are granted. Students should consult their home campus advisors.
 
-All students must pay the full tuition even if they carry less than the full load of courses.
+All summer students must pay the full tuition even if they carry less than the full load of courses, as defined for that Language School. Students may only enroll in a single course if that is part of an approved single-course pathway in that particular Language School.
 
-A degree must be earned within a 10-year period. All units of credit expire after 10 years, whether earned at Middlebury College or transferred from another institution. Thus, credit earned at the 2023 session will expire after the end of the 2033 session. The validity of a degree, which certifies a level of achievement, does not expire.
+During the academic year, in certain circumstances with approval of the Director, students can pay a single course fee for an online portion of a graduate program.
+
+A degree must be earned within a 10-year period. All units of credit expire after 10 years, whether earned at Middlebury College or transferred from another institution. Thus, credit earned at the 2026 session will expire after the end of the 2036 session. The validity of a degree, which certifies a level of achievement, does not expire.
 
 **Auditing**
 
@@ -49,6 +51,4 @@ Occasionally, auditing privileges are granted to individuals not enrolled in one
 
 Audited courses are not recorded on the Middlebury transcript.
 
-Auditors should check with Language Schools offices about the availability of on-campus housing. After receiving permission from the director of the School to audit, auditors should see the Language Schools budget coordinator, in Sunderland 212, for payment of fees and MiddCard authorization.
-
-Auditing costs per week: tuition=$1,465; room and board=$990.
+Auditors should check with Language Schools offices about the availability of on-campus housing. After receiving permission from the director of the School to audit, auditors should see the Language Schools budget coordinator for the costs associated with auditing and payment of fees.
