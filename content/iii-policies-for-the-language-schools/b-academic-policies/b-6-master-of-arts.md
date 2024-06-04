@@ -9,9 +9,55 @@ The Master of Arts degree in Arabic, Chinese, French, German, Teaching Hebrew as
 
 If a student earns a grade lower than B- in any course during the summer of candidacy, the student will be notified in writing that admission to the Master of Arts degree program has been denied. Students who are denied admission to the Master of Arts degree program may submit a letter requesting reconsideration of candidacy if special circumstances exist that contributed to the negative outcome of the summer of candidacy. Written requests will be reviewed by the director whose decision, in consultation with faculty and the vice president’s office (if necessary), is final. Any student who is granted permission for readmission to the summer of candidacy must successfully complete all courses required for the degree.
 
+For guidelines to specific Schools, please see below: 
+
+Arabic: 
+
+[https://drive.google.com/file/d/1PfFIvXV2NM4CLX3GFK1zhxMUXdS8XOVt/view?usp=sharing](https://drive.google.com/file/d/1PfFIvXV2NM4CLX3GFK1zhxMUXdS8XOVt/view?usp=sharing)
+
+Chinese
+
+[https://www.middlebury.edu/language-schools/languages/chinese/graduate](https://www.middlebury.edu/language-schools/languages/chinese/graduate)
+
+[https://docs.google.com/document/d/171O5V3Lcq47t7xPujNrOGqKKhUbvVaiB/edit](https://docs.google.com/document/d/171O5V3Lcq47t7xPujNrOGqKKhUbvVaiB/edit)
+
+French:
+
+2024, 25 Middlebury School of French MA in Applied Languages Degree Guidelines and Procedures \_ 10.30.23
+
+2024, 25 Middlebury School of French MA in Applied Languages Degree w. TAPIF Requirements \_ 10.19.23
+
+ 2024, 25 Middlebury School of French MA in French Degree Guidelines and Procedures\_10.19.23
+
+2024 Middlebury School of French MA Degree Requirements, Independent Research Paper
+
+German MA Degree Requirements:  [https://docs.google.com/document/d/1ED1awCYvSvsUIhbwnmVFiuBeuxMoxLQd/edit](https://docs.google.com/document/d/1ED1awCYvSvsUIhbwnmVFiuBeuxMoxLQd/edit)
+
+Italian:
+
+[https://www.middlebury.edu/language-schools/languages/italian/graduate](https://www.middlebury.edu/language-schools/languages/italian/graduate)
+
+Japanese:
+
+[https://www.middlebury.edu/language-schools/japanese/graduate-program-japanese/policies](https://www.middlebury.edu/language-schools/japanese/graduate-program-japanese/policies)
+
+Korean:
+
+[https://www.middlebury.edu/language-schools/sites/default/files/2022-10/Korean%20Policies%202022-2023_1.pdf](https://www.middlebury.edu/language-schools/sites/default/files/2022-10/Korean%20Policies%202022-2023_1.pdf)
+
+Russian:
+
+[https://docs.google.com/document/d/1CsPuIzes-zu4CuWNPD3loI7R7m8cOHom/edit](https://docs.google.com/document/d/1CsPuIzes-zu4CuWNPD3loI7R7m8cOHom/edit)
+
+Spanish:
+
+[https://www.middlebury.edu/language-schools/languages/spanish/graduate](https://www.middlebury.edu/language-schools/languages/spanish/graduate)
+
 A highly-qualified undergraduate student may accumulate, before receipt of the Bachelor of Arts degree or equivalent, a maximum of three graduate units at the Language Schools to be applied toward the Middlebury Master of Arts degree. Such units will not count toward both degrees.
 
-Master of Arts degree students who are assigned a grade of “F” will be dismissed from the program. All other failing grades (see [_Grades and Transcripts_](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-8-student-records)) represent unsatisfactory progress and may jeopardize a student’s eligibility for federal loans, and may be grounds for dismissal from the program. Transfer courses may not be used to make up failures (see _Transfer Credits_ section below). All failed courses must be made up in a summer session at Middlebury or Bennington. A Master of Arts candidate who withdraws from a School Abroad may complete the degree only through further study during a summer session at Middlebury or Bennington. Special permission must be granted to complete the degree at a School Abroad.
+Master of Arts degree students who are assigned a grade of “F” will be dismissed from the program. All other failing grades (see [_Grades and Transcripts_](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-8-student-records)) represent unsatisfactory progress and may jeopardize a student’s eligibility for federal loans, and may be grounds for dismissal from the program. Transfer courses may not be used to make up failures (see _Transfer Credits_ section below). All failed summer courses must be made up in a summer session at Middlebury or Bennington.  Failed online academic year courses may be made up in a subsequent online semester, even if this means that students are taking more than the expected course load per online semester.
+
+A Master of Arts candidate who withdraws from a School Abroad may complete the degree only through further study during a summer session at Middlebury or Bennington. Special permission must be granted to complete the degree at a School Abroad.
 
 **Credits and Course Load**
 
@@ -29,11 +75,11 @@ Students may not earn academic credit for independent study courses conducted ou
 
 **Transfer Credits**
 
-After formal admission to the program, candidates for the MA and DML degrees may request permission from the coordinator of their School to transfer from another institution the maximum of the equivalent of one full-time summer of study at Middlebury (three units). Final approval will come from the Registrar’s Office. To be considered for transfer, courses must be valued at the equivalent of one unit of Middlebury credit (three semester hours, four and a half quarter hours, or six ECTS units). For courses taken at institutions on the quarter system, as well as institutions whose courses do not carry credit equaling three semester hours, the Middlebury Language Schools grant (a) one unit of credit for two quarter courses or (b) two units of credit for three quarter courses. Students need to submit in writing which option they intend to follow.
+After formal admission to the program, candidates for the MA and DML degrees may request permission from the Assistant Director of their School to transfer from another institution the maximum of the equivalent of one full-time summer of study at Middlebury (three units). Final approval will come from the Registrar’s Office. To be considered for transfer, courses must be valued at the equivalent of one unit of Middlebury credit (three semester hours, four and a half quarter hours, or six ECTS units). For courses taken at institutions on the quarter system, as well as institutions whose courses do not carry credit equaling three semester hours, the Middlebury Language Schools grant (a) one unit of credit for two quarter courses or (b) two units of credit for three quarter courses. Students need to submit in writing which option they intend to follow.
 
 Only courses taken after successful completion of the initial summer and formal admission to degree candidacy can be transferred. Courses taken at other institutions before the first summer of study may not be transferred toward a Middlebury degree, and transferred courses may not be used toward any other degree. Written approval of a course’s transferability must be obtained from Middlebury before registering for the course. Courses that have not been pre-approved will be considered for transfer only in those instances in which a student can demonstrate that pre-approval was not possible (for example, due to a last minute cancellation of a pre-approved course). Middlebury courses transferred from one degree program are not eligible for another Middlebury degree.
 
-Courses for transfer must be graduate level and taken at an accredited institution that offers a Master of Arts degree in either the language of study or a related discipline. In either case, to be considered for transfer credit, these courses must be taught entirely in the language of the student’s degree program. Middlebury Language Schools do not accept certificate courses, correspondence courses, independent study, courses taught fully or partially in English\*, or courses from extension or continuing education programs. Students may not transfer courses from Middlebury Language Schools partner institutions abroad if they are not enrolled in a Middlebury Language Schools program at the time the student takes the courses. For specific Schools’ policies on transfer credits from MAT or MEd programs, please consult the School director.
+Courses for transfer must be graduate level and taken at an accredited institution that offers a Master of Arts degree in either the language of study or a related discipline. In either case, to be considered for transfer credit, these courses must be taught entirely in the language of the student’s degree program. Middlebury Language Schools do not accept certificate courses, asynchronous online courses, correspondence courses, independent study, courses taught fully or partially in English\*, or courses from extension or continuing education programs. Students may not transfer courses from Middlebury Language Schools partner institutions abroad if they are not enrolled in a Middlebury Language Schools program at the time the student takes the courses. For specific Schools’ policies on transfer credits from MAT or MEd programs, please consult the School director.
 
 _\*With the exception of the Middlebury-Monterey option of the Arabic or Chinese MA degrees._
 
