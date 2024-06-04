@@ -70,7 +70,7 @@ collections:
   - name: "language-schools"
     label: "III. Policies for the Language Schools"
     folder: "content/iii-policies-for-the-language-schools"
-    path: "{{slug}}/"
+    path: "{{slug}}/{{slug}}"
     create: false
     fields:
       - {
