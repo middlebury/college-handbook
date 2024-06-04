@@ -14,7 +14,6 @@ collections:
   - name: "middlebury-wide"
     label: "I. Middlebury Wide Policies"
     folder: "content/i-policies-for-all"
-    file: "{{slug}}/{{slug}}/"
     create: false
     fields:
       - {
