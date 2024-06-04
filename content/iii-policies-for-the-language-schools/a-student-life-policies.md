@@ -1,22 +1,16 @@
 ---
 slug: /pages/iii-policies-for-the-language-schools/a-student-life-policies
-date: 2021-05-01
 title: A. Student Conduct Policies
+date: 2021-05-01
 ---
-All Middlebury Language Schools students are subject to the [Middlebury-wide Policies](/pages/i-policies-for-all) in the Middlebury Handbook. In addition, students are subject to the policies listed below:
+All Middlebury Language Schools students are subject to the [Middlebury-wide Policies](/pages/i-policies-for-all) in the Middlebury Handbook. Particularly relevant to Language School students are the Student Conduct Policies, which describe the values and expectations of all participants:
 
-[Community Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a-introductory-matters#community-standards)
+1.     [Language Pledge](https://www.middlebury.edu/handbook/pages/iii-policies-for-the-language-schools/b-academic-policies/b-2-language-pledge/)
 
-[Scope of Oversight](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a-introductory-matters#scope-of-oversight)
+2.     [Respectful Behavior](https://www.middlebury.edu/handbook/pages/i-policies-for-all/genl-principles/respectful-behavior/)
 
-[Pending Discipline](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a-introductory-matters#pending-discipline)
+3.     [Honesty and Cooperation in Middlebury Matters](https://www.middlebury.edu/handbook/pages/i-policies-for-all/genl-principles/honesty-cooperation/)
 
-[Disciplinary Process](/pages/iii-policies-for-the-language-schools/a-student-life-policies/disciplinary-process)
+4.     [Non-discrimination](https://www.middlebury.edu/handbook/pages/i-policies-for-all/genl-principles/non-discrimination-statement/)  
 
-[General Conduct Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards)
-
-[Policy Against Hazing](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy)
-
-[Community Bias Response Team Policy](/pages/ii-ug-college-policies/commun-policies/cbrt)
-
-[Withdrawals and Readmission](/pages/iii-policies-for-the-language-schools/a-student-life-policies/withdrawals-and-readmission)
+5.     [Open Expression](https://www.middlebury.edu/handbook/pages/i-policies-for-all/genl-principles/freedom-of-expression/)
