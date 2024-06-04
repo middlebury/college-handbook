@@ -1,25 +1,31 @@
 ---
 slug: /pages/iii-policies-for-the-language-schools/a-student-life-policies/withdrawals-and-readmission
-date: 2021-05-01
 title: Withdrawals and Readmission
+date: 2021-05-01
 ---
 **A. Voluntary Withdrawal**
 
-To withdraw from the Language Schools a student must complete and sign an official Withdrawal Form at the Language Schools office. For more information, refer to the [Withdrawals and Refunds Policy](/pages/iii-policies-for-the-language-schools/c-financial-policies/c-3-withdrawals-and-refunds). Students who withdrawal are subject to the readmission requirements below.
+i. The Language Schools provides a range of support services to address the medical needs of students, including mental health needs, within the context of the campus community. On occasion, students may experience health needs requiring a level of care that exceeds what Middlebury can appropriately provide. In such circumstances, students may withdraw from their Language School program (see “Voluntary Withdraw,” above). 
+
+To withdraw from the Language Schools, a student must complete and sign an official Withdrawal Form, which may be obtained from the student’s School Director or Assistant Director. For more information, refer to the [Withdrawals and Refunds Policy](https://handbook.middlebury.edu/pages/iii-policies-for-the-language-schools/c-financial-policies/c-3-withdrawals-and-refunds). Students who withdrawal are subject to the readmission requirements below.
 
 **B. Mandatory Withdrawal**
 
-i. The Language Schools provides a range of support services to address the medical needs of students, including mental health needs, within the context of the campus community. On occasion, students may experience health needs requiring a level of care that exceeds what Middlebury can appropriately provide. In such circumstances, students may withdraw from their Language School program (see “Voluntary Withdraw,” above). In situations where a student is unable or unwilling to carry out substantial self-care obligations, where their behavior is unduly disruptive to the community, where current medical knowledge and/or the best available objective evidence indicates that a student poses a significant risk to the health or safety of others, or where a student poses an actual risk to their own safety not based on mere speculation, stereotypes, or generalizations about individuals with disabilities, and the student does not want to withdraw voluntarily, the dean of the Language Schools or designee (hereinafter referred to as the “dean”) has the authority to withdraw the student.
+In situations where a student is unable or unwilling to carry out substantial self-care obligations, where their behavior is unduly disruptive to the community, where current medical knowledge and/or the best available objective evidence indicates that a student poses a significant risk to the health or safety of others, or where a student poses an actual risk to their own safety not based on mere speculation, stereotypes, or generalizations about individuals with disabilities, and the student does not want to withdraw voluntarily, the dean of the Language Schools or designee (hereinafter referred to as the “dean”) has the authority to withdraw the student.
 
 ii. Before placing any student on a mandatory withdraw, Middlebury will do an individualized assessment to determine if there are reasonable accommodations that would permit the student to continue to participate in the campus community without withdrawing from the program.  A medical evaluation by a competent specialist may be required. To enable careful, individualized consideration, the student may need to sign a release authorizing disclosure of relevant information by and between treatment providers working with the student and the appropriate Middlebury official(s).
 
-iii. The student will be notified of the withdrawal decision in writing. Student(s) will be given notice and an opportunity to speak with the dean prior to or within five business days following the start of the mandatory withdrawal. The decision may be appealed, following the procedures set forth in Section iv., below.
+iii. The student will be notified of the withdrawal decision in writing. Student(s) will be given notice and an opportunity to speak with the dean prior to or within three business days following the start of the mandatory withdrawal. The decision may be appealed, following the procedures set forth in Section iv., below.
 
-iv. An appeal of a mandatory withdrawal decision may be made in writing (including email) to the provost or designee (hereinafter referred to as the “provost”) within five business days of receipt of the decision. The appeal must state the grounds for the appeal and include any supporting evidence. Absent extenuating circumstances, the provost will ordinarily notify the student of the appeal decision within five business days of receipt of the appeal.
+iv. An appeal of a mandatory withdrawal decision may be made in writing (including email) to the provost or designee (hereinafter referred to as the “provost”) within three business days of receipt of the decision. The appeal must state the grounds for the appeal and include any supporting evidence. Absent extenuating circumstances, the provost will ordinarily notify the student of the appeal decision within five business days of receipt of the appeal. Students awaiting the outcome of an appeal are ordinarily required to depart campus, at their expense, until the appeal is resolved.
 
 v. Students withdrawn under this section may also be subject to the normal disciplinary processes if their conduct has violated any Middlebury policy. If disciplinary action is appropriate, the matter must be resolved either before or immediately upon the student’s return.
 
-**C. Readmission**
+**C. Emergency Removals**
+
+This process is guided by Middlebury’s [Emergency Removals Policy](https://handbook.middlebury.edu/pages/i-policies-for-all/health-safety/emerg-removals/)
+
+**D. Readmission**
 
 i. A student who seeks readmission to the Language Schools after withdrawal should contact the dean of the Language Schools. Students eligible for readmission can expect to receive instructions for completing applicable readmission forms from the appropriate Language School official. They must confirm their plan to return to their Language School program by the deadline set by the official. Students may be subject to certain readmission requirements. See below.
 
@@ -35,6 +41,6 @@ vi. Students on probation for disciplinary or academic reasons will resume their
 
 vii. In the rare circumstance that a student’s request for readmission is denied on grounds of health or safety, the decision may be appealed in writing to the Vice President for Student Affairs or designee (undergraduate program), or as appropriate, to the Provost or designee (all other Middlebury programs). The appeal must state the grounds for the appeal and include any supporting evidence. Absent extenuating circumstances, the appellate official will ordinarily notify the student of the appeal decision within five business days of receipt of the appeal.
 
-**D. Notice to the Student’s Home Institution**
+**E. Notice to the Student’s Home Institution**
 
 Middlebury reserves the right to notify all institutions or programs in which the student is (or will be) enrolled of any medical or non-medical withdrawal of the student from a Middlebury School of the Environment.
