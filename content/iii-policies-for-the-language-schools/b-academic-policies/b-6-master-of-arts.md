@@ -23,13 +23,13 @@ Chinese
 
 French:
 
-2024, 25 Middlebury School of French MA in Applied Languages Degree Guidelines and Procedures \_ 10.30.23
+[MA in French, degree requirements 2024/25](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1C0-Pfnyo01jtxoMCvamT8bGhejP00J3ERWgd_wXzd4w%2Fedit%3Fusp%3Dsharing&data=05%7C02%7Cnsteen%40middlebury.edu%7C45500442a4544a251a4e08dc84d0160f%7Ca1bb0a191576421dbe93b3a7d4b6dcaa%7C1%7C0%7C638531276459500347%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C4000%7C%7C%7C&sdata=jua88dNxpGVaXHZG6It6eikJhJbRnwF1esqy1C2d3%2BA%3D&reserved=0) 
 
-2024, 25 Middlebury School of French MA in Applied Languages Degree w. TAPIF Requirements \_ 10.19.23
+[MA in Applied Languages; French, degree requirements 2024/25](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1lVDVfZ3IdiqbABsgae63KDlhpQitUVuV6n715V4aeNQ%2Fedit%3Fusp%3Dsharing&data=05%7C02%7Cnsteen%40middlebury.edu%7C45500442a4544a251a4e08dc84d0160f%7Ca1bb0a191576421dbe93b3a7d4b6dcaa%7C1%7C0%7C638531276459512893%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C4000%7C%7C%7C&sdata=HSm%2Fs4tsbR2Go6E%2FO0S3D6ePPJgNexkcsp4sXGINYXI%3D&reserved=0) 
 
-2024, 25 Middlebury School of French MA in French Degree Guidelines and Procedures\_10.19.23
+[MA in Applied Languages with TAPIF, degree requirements 2024/25](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F10F6DiUiJwbEsaoPb9TxwfsmvOVuF25mdJRUmuZ--r-g%2Fedit%3Fusp%3Dsharing&data=05%7C02%7Cnsteen%40middlebury.edu%7C45500442a4544a251a4e08dc84d0160f%7Ca1bb0a191576421dbe93b3a7d4b6dcaa%7C1%7C0%7C638531276459521752%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C4000%7C%7C%7C&sdata=J6XnIRjbinJJGXnEHEqZ2sOA7uF%2BkDYHB47sFy1jPCo%3D&reserved=0) 
 
-2024 Middlebury School of French MA Degree Requirements, Independent Research Paper
+[MA in French, Independent Research paper, 2024](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1JtFlgTLeYcAEJ65Qc91rt_KgjZT3qaThISQJkoeqgU8%2Fedit%3Fusp%3Dsharing&data=05%7C02%7Cnsteen%40middlebury.edu%7C45500442a4544a251a4e08dc84d0160f%7Ca1bb0a191576421dbe93b3a7d4b6dcaa%7C1%7C0%7C638531276459528097%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C4000%7C%7C%7C&sdata=JWG4unv7YSd1rqkITlUO7Pu93mrq3QSIkWv2PSVt0Ks%3D&reserved=0)
 
 German MA Degree Requirements: 
 
