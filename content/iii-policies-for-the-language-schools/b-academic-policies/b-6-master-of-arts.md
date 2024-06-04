@@ -27,11 +27,13 @@ French:
 
 2024, 25 Middlebury School of French MA in Applied Languages Degree w. TAPIF Requirements \_ 10.19.23
 
- 2024, 25 Middlebury School of French MA in French Degree Guidelines and Procedures\_10.19.23
+2024, 25 Middlebury School of French MA in French Degree Guidelines and Procedures\_10.19.23
 
 2024 Middlebury School of French MA Degree Requirements, Independent Research Paper
 
-German MA Degree Requirements:  [https://docs.google.com/document/d/1ED1awCYvSvsUIhbwnmVFiuBeuxMoxLQd/edit](https://docs.google.com/document/d/1ED1awCYvSvsUIhbwnmVFiuBeuxMoxLQd/edit)
+German MA Degree Requirements: 
+
+[https://docs.google.com/document/d/1ED1awCYvSvsUIhbwnmVFiuBeuxMoxLQd/edit](https://docs.google.com/document/d/1ED1awCYvSvsUIhbwnmVFiuBeuxMoxLQd/edit)
 
 Italian:
 
