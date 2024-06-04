@@ -1,6 +1,6 @@
 ---
 slug: /pages/iii-policies-for-the-language-schools/c-financial-policies/c-2-employment
-date: 2021-05-01
 title: C.2 Employment
+date: 2021-05-01
 ---
-Due to the intensive nature of the Language Schools summer session and the Language Pledge, Language Schools' students may not operate concessions or accept employment.
+The Language Schools summer in-person sessions are full-time, highly intensive programs with a strict Language Pledge. Students enrolled in these programs may not work for an employer (or on a freelance or voluntary basis, etc.) while studying on campus, especially if such work is conducted in a language other than the language of study. The same prohibition applies to academic writing, research, and online coursework, especially if these involve violations of the Language Pledge. Exceptions are made for occasional urgent communications, such as an email or voice call necessary for maintaining or securing employment or good academic standing at another institution after the summer session. Such communications should be kept to a minimum and must not expose other students to languages other than their language of study. This prohibition does not necessarily apply to activities of limited scope conducted in the language of study, such as writing in the language of study in one's free time. Questions about permitted exceptions should be directed to the Director of the Language School.
