@@ -10,6 +10,8 @@ display_url: https://handbook.middlebury.edu
 
 publish_mode: editorial_workflow
 
+sortable_fields: []
+
 collections:
   - name: "middlebury-wide"
     label: "I. Middlebury Wide Policies"
