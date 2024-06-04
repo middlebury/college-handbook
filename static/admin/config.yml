@@ -42,7 +42,7 @@ collections:
   - name: "undergraduate-college"
     label: "II. Policies for the Undergraduate College"
     folder: "content/ii-ug-college-policies"
-    path: "{{slug}}/{{slug}}/{{slug}}/"
+    path: "{{slug}}/{{slug}}/{{slug}}"
     create: false
     fields:
       - {
@@ -126,7 +126,7 @@ collections:
   - name: "schools-abroad"
     label: "V. Policies for Schools Abroad"
     folder: "content/v-policies-for-schools-abroad"
-    path: "{{slug}}/{{slug}}/"
+    path: "{{slug}}/{{slug}}"
     create: false
     fields:
       - {
@@ -154,7 +154,7 @@ collections:
   - name: "previous-handbooks"
     label: "Previous Handbooks"
     folder: "content/vi-handbook-archive"
-    path: "{{slug}}/"
+    path: "{{slug}}"
     create: false
     sortable_fields: []
     fields:
