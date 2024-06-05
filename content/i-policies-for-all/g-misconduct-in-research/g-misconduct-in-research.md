@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/g-misconduct-in-research
 date: 2024-31-01
-title: G. Misconduct in Research
+title: G. Misconduct in Research and Other Scholarly Activities
 ---
 ## A. Policy Statement
 
