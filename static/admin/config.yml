@@ -10,14 +10,13 @@ display_url: https://handbook.middlebury.edu
 
 publish_mode: editorial_workflow
 
-sortable_fields: []
-
 collections:
   - name: "middlebury-wide"
     label: "I. Middlebury Wide Policies"
     folder: "content/i-policies-for-all"
     path: "{{slug}}/"
     create: false
+    sortable_fields: []
     fields:
       - {
           label: "Title",
@@ -46,6 +45,7 @@ collections:
     folder: "content/ii-ug-college-policies"
     path: "{{slug}}/{{slug}}/{{slug}}/"
     create: false
+    sortable_fields: []
     fields:
       - {
           label: "Title",
@@ -74,6 +74,7 @@ collections:
     folder: "content/iii-policies-for-the-language-schools"
     path: "{{slug}}/"
     create: false
+    sortable_fields: []
     fields:
       - {
           label: "Title",
@@ -102,6 +103,7 @@ collections:
     folder: "content/iv-policies-for-the-institute"
     path: "{{slug}}/{{slug}}/"
     create: false
+    sortable_fields: []
     fields:
       - {
           label: "Title",
@@ -130,6 +132,7 @@ collections:
     folder: "content/v-policies-for-schools-abroad"
     path: "{{slug}}/{{slug}}/"
     create: false
+    sortable_fields: []
     fields:
       - {
           label: "Title",
@@ -158,6 +161,7 @@ collections:
     folder: "content/vi-handbook-archive"
     path: "{{slug}}/"
     create: false
+    sortable_fields: []
     fields:
       - {
           label: "Title",
