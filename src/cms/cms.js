@@ -13,6 +13,7 @@ CMS.registerWidget("CKEditor", CustomEditorControl, CustomEditorPreview);
 
 collections.forEach((name) => {
   CMS.registerPreviewTemplate(name, ({ entry }) => {
+    console.log(name, entry);
     const { data } = entry.toJS();
     return (
       <div>

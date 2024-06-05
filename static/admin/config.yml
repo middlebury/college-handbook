@@ -7,17 +7,17 @@ backend:
 media_folder: static/assets
 public_folder: /assets
 display_url: https://handbook.middlebury.edu
+search: false
 
 publish_mode: editorial_workflow
-
-sortable_fields: []
 
 collections:
   - name: "middlebury-wide"
     label: "I. Middlebury Wide Policies"
     folder: "content/i-policies-for-all"
-    path: "{{slug}}/"
+    path: "{{slug}}/{{slug}}/{{slug}}"
     create: false
+    sortable_fields: ['title']
     fields:
       - {
           label: "Title",
@@ -44,8 +44,9 @@ collections:
   - name: "undergraduate-college"
     label: "II. Policies for the Undergraduate College"
     folder: "content/ii-ug-college-policies"
-    path: "{{slug}}/{{slug}}/{{slug}}/"
+    path: "{{slug}}/{{slug}}/{{slug}}"
     create: false
+    sortable_fields: []
     fields:
       - {
           label: "Title",
@@ -72,8 +73,9 @@ collections:
   - name: "language-schools"
     label: "III. Policies for the Language Schools"
     folder: "content/iii-policies-for-the-language-schools"
-    path: "{{slug}}/"
+    path: "{{slug}}/{{slug}}"
     create: false
+    sortable_fields: []
     fields:
       - {
           label: "Title",
@@ -100,8 +102,9 @@ collections:
   - name: "miis-policies"
     label: "IV. Policies for the Institute of International Studies"
     folder: "content/iv-policies-for-the-institute"
-    path: "{{slug}}/{{slug}}/"
+    path: "{{slug}}/{{slug}}/{{slug}}"
     create: false
+    sortable_fields: []
     fields:
       - {
           label: "Title",
@@ -128,8 +131,9 @@ collections:
   - name: "schools-abroad"
     label: "V. Policies for Schools Abroad"
     folder: "content/v-policies-for-schools-abroad"
-    path: "{{slug}}/{{slug}}/"
+    path: "{{slug}}/{{slug}}"
     create: false
+    sortable_fields: []
     fields:
       - {
           label: "Title",
@@ -156,8 +160,9 @@ collections:
   - name: "previous-handbooks"
     label: "Previous Handbooks"
     folder: "content/vi-handbook-archive"
-    path: "{{slug}}/"
+    path: "{{slug}}"
     create: false
+    sortable_fields: []
     fields:
       - {
           label: "Title",
