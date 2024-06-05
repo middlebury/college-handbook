@@ -15,6 +15,7 @@ collections:
   - name: "middlebury-wide"
     label: "I. Middlebury Wide Policies"
     folder: "content/i-policies-for-all"
+    path: "{{slug}}/{{slug}}/{{slug}}"
     create: false
     sortable_fields: ['title']
     fields:
