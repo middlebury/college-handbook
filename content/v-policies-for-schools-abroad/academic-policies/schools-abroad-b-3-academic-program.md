@@ -23,7 +23,7 @@ Middlebury considers a semester and an academic year abroad equivalent to a seme
 
 _d) Graduate Students_
 
-Graduate students must enroll in at least 3 units of credit each term (summer, fall, and spring). Students who enroll in less will not be eligible for financial aid. Graduate students are not permitted to repeat a course for which they have received a passing grade and earned credit.
+Graduate students must enroll in at least 3 units of credit each term (summer, fall, and spring). Students who enroll in less will not be eligible for financial aid. Graduate students are not permitted to repeat a course for which they have received a passing grade and earned credit. Graduate students are normally not permitted to enroll in more than 5 units of credit in a single term.
 
 _e) Course Modality_
 
