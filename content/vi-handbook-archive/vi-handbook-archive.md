@@ -3,7 +3,8 @@ slug: /pages/vi-handbook-archive
 title: Previous Handbooks
 date: 2024-07-02
 ---
-### [College Handbook 203-2024 (as of June 2024)](/assets/middlebury-handbook-23-24.pdf)  
+### [College Handbook 2023-2024 (as of June 2024)](/assets/middlebury-handbook-23-24.pdf)
+
 [College Handbook 2022-2023 (as of July 2023)](/assets/middlebury_handbook_2022-2023.pdf)
 
 ### [College Handbook 2018-2019](https://web.archive.org/web/20210115184109/http://www.middlebury.edu/about/handbook/handbook_archive/handbook-2018-2019)
