@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Helmet } from "react-helmet";
-import ClassicEditor from "ckeditor5-custom-build";
+import Ckeditor from "./ckeditor";
 import { CKEditor } from "@ckeditor/ckeditor5-react";
 
 export class CustomEditorControl extends Component {
@@ -16,7 +16,7 @@ export class CustomEditorControl extends Component {
           <link rel="stylesheet" href="/admin/cms.css" type="text/css"></link>
         </Helmet>
         <CKEditor
-          editor={ ClassicEditor }
+          editor={ Ckeditor }
           config={{
             removePlugins: [ 'BlockQuote', 'EasyImage', 'ImageUpload', 'MediaEmbed' ],
             heading: {
