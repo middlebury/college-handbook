@@ -106,9 +106,7 @@ All 300-level and 400-level language courses regularly meet for 4 hours a week f
 
 **H. Language Studies for Professional Purposes Specialization**
 
-A language studies for professional purposes specialization will be granted to Language Studies (LS) students who can demonstrate proficiency at the intermediate high level or above at the onset of the program and develop content knowledge and professional skills, within the LS curriculum. We offer specializations in the following languages:  
-  
- 
+A language studies for professional purposes specialization will be granted to Language Studies (LS) students who can demonstrate proficiency at the intermediate high level or above at the onset of the program and develop content knowledge and professional skills, within the LS curriculum. We offer specializations in the following languages:
 
 Arabic for Professional Purposes
 
@@ -132,7 +130,7 @@ A persuasive or informative professional talk in the target language, dealing wi
 
 A professional dossier for students who desire to expand and strengthen their personal learning network, while gaining business correspondence and interpersonal communication skills. This dossier will comprise a resume and a professional bio in the target language, plus at least 3 interviews (in the target language) with professionals who are highly proficient speakers of the target language and are using this language in their line of work. Students will be responsible for establishing contact with professionals, maintaining formal correspondence with them, and transcribing and synthesizing the interviews. The dossier will include a comprehensive reflection, demonstrating evidence of advanced language and content learning. Specific guidelines for the target language will be provided by the instructor of record.
 
-A field research project,as an outcome of a practica or immersive professional learning experience in a region where the target language is widely used or needed for the project at hand. Students will be responsible for gathering in-situ data in the target language (detailed field notes, self-reflections, formal and informal interviews, surveys, etc.), corresponding to their professional field. After the experience, students will analyze and present their findings, in the context of a language course or independent study. Specific guidelines for the target language will be provided by the instructor of record. Note: This project will be particularly attractive for students who remain on campus for only two semesters and/or aim to maximize immersive learning opportunities.  
+A field research project,as an outcome of a practica or immersive professional learning experience in a region where the target language is widely used or needed for the project at hand. Students will be responsible for gathering in-situ data in the target language (detailed field notes, self-reflections, formal and informal interviews, surveys, etc.), corresponding to their professional field. After the experience, students will analyze and present their findings, in the context of a language course or independent study. Specific guidelines for the target language will be provided by the instructor of record. Note: This project will be particularly attractive for students who remain on campus for only two semesters and/or aim to maximize immersive learning opportunities. 
 
 **I. Option to Study More Than One Language or Change Language of Study**
 
