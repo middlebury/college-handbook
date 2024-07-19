@@ -1137,31 +1137,23 @@ export const nodes = [
             children: [
               {
                 value:
-                  "iv-policies-for-the-institute/a-academic-policies/a-4-change-of-academic-program/a-4-a-admission-of-bais-students-to-a-master-s-program",
-                label:
-                  "A.4.a. Admission of BAIS Students to a Master's Program",
-                className:
-                  "a-4-a-admission-of-bais-students-to-a-master-s-program",
+                  "iv-policies-for-the-institute/a-academic-policies/a-4-change-of-academic-program/a-4-a-change-of-degree-program",
+                label: "A.4.a. Change of Degree Program",
+                className: "a-4-a-change-of-degree-program",
               },
               {
                 value:
                   "iv-policies-for-the-institute/a-academic-policies/a-4-change-of-academic-program/a-4-b-change-of-degree-program",
-                label: "A.4.b. Change of Degree Program",
+                label: "A.4.b. Admission to a Second Graduate Degree Program",
                 className: "a-4-b-change-of-degree-program",
               },
               {
                 value:
-                  "iv-policies-for-the-institute/a-academic-policies/a-4-change-of-academic-program/a-4-c-change-of-degree-program",
-                label: "A.4.c. Admission to a Second Graduate Degree Program",
-                className: "a-4-c-change-of-degree-program",
-              },
-              {
-                value:
-                  "iv-policies-for-the-institute/a-academic-policies/a-4-change-of-academic-program/a-4-d-special-admission-and-registration-policies-for-non-degree-students",
+                  "iv-policies-for-the-institute/a-academic-policies/a-4-change-of-academic-program/a-4-c-special-admission-and-registration-policies-for-non-degree-students",
                 label:
-                  "A.4.d. Special Admission and Registration Policies for Non-Degree Students",
+                  "A.4.c. Special Admission and Registration Policies for Non-Degree Students",
                 className:
-                  "a-4-d-special-admission-and-registration-policies-for-non-degree-students",
+                  "a-4-c-special-admission-and-registration-policies-for-non-degree-students",
               },
             ],
           },
