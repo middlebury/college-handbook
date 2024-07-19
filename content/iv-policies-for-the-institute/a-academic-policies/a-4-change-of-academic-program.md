@@ -1,7 +1,7 @@
 ---
 slug: /pages/iv-policies-for-the-institute/a-academic-policies/a-4-change-of-academic-program
+title: A.4. Change of Degree Program
 date: 2021-05-01
-title: A.4. Change of Academic Program
 ---
 * [A.4.a. Admission of BAIS Students to a Master's Program](/pages/iv-policies-for-the-institute/a-academic-policies/a-4-change-of-academic-program/a-4-a-admission-of-bais-students-to-a-master-s-program)
 * [A.4.b. Change of Degree Program](/pages/iv-policies-for-the-institute/a-academic-policies/a-4-change-of-academic-program/a-4-b-change-of-degree-program)
