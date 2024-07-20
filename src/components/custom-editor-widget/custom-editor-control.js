@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import { Helmet } from "react-helmet";
 import {
 	ClassicEditor,
-	AccessibilityHelp,
 	Autosave,
 	Bold,
 	Essentials,
@@ -14,7 +13,6 @@ import {
 	List,
 	Markdown,
 	Paragraph,
-	SelectAll,
 	Table,
 	TableToolbar,
 	Undo
@@ -34,28 +32,23 @@ export class CustomEditorControl extends Component {
           'undo',
           'redo',
           '|',
-          'selectAll',
-          '|',
           'heading',
           '|',
           'bold',
           'italic',
-          '|',
-          'horizontalLine',
           'link',
-          'insertTable',
-          '|',
           'bulletedList',
           'numberedList',
-          'indent',
-          'outdent',
           '|',
-          'accessibilityHelp'
+          'horizontalLine',
+          'insertTable',
+          '|',
+          'indent',
+          'outdent'
         ],
         shouldNotGroupWhenFull: false
       },
       plugins: [
-        AccessibilityHelp,
         Autosave,
         Bold,
         Essentials,
@@ -67,7 +60,6 @@ export class CustomEditorControl extends Component {
         List,
         Markdown,
         Paragraph,
-        SelectAll,
         Table,
         TableToolbar,
         Undo
