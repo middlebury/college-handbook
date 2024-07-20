@@ -3,6 +3,7 @@ import {
   CustomEditorControl,
   CustomEditorPreview,
 } from "../components/custom-editor-widget";
+import "ckeditor5/ckeditor5.css";
 import "../components/custom-editor-widget/ckeditor.css";
 import React from "react";
 import { marked } from "marked";
