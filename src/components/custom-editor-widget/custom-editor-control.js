@@ -19,7 +19,7 @@ import {
 } from 'ckeditor5';
 import { CKEditor } from "@ckeditor/ckeditor5-react";
 
-import 'ckeditor5/ckeditor5.css';
+// import 'ckeditor5/ckeditor5.css';
 
 export class CustomEditorControl extends Component {
   onChange = (event, editor) => {
@@ -134,6 +134,7 @@ export class CustomEditorControl extends Component {
     return (
       <div>
         <Helmet>
+          <link rel="stylesheet" href="https://cdn.ckeditor.com/ckeditor5/42.0.1/ckeditor5.css" />
           <link rel="stylesheet" href="/admin/cms.css" type="text/css"></link>
         </Helmet>
         <CKEditor
