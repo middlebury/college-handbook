@@ -19,6 +19,8 @@ import {
 } from 'ckeditor5';
 import { CKEditor } from "@ckeditor/ckeditor5-react";
 
+import 'ckeditor5/ckeditor5.css';
+
 export class CustomEditorControl extends Component {
   onChange = (event, editor) => {
     const data = editor.getData();

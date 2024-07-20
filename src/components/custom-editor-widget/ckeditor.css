@@ -1,5 +1,3 @@
-@import '../../../node_modules/ckeditor5/dist/ckeditor5.css';
-
 .ck.ck-sticky-panel__placeholder {
   height: 0px !important;
 }
