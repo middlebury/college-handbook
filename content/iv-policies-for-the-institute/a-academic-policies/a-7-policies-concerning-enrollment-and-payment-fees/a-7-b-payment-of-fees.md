@@ -1,16 +1,22 @@
 ---
 slug: /pages/iv-policies-for-the-institute/a-academic-policies/a-7-policies-concerning-enrollment-and-payment-fees/a-7-b-payment-of-fees
-date: 2021-05-01
 title: A.7.b. Payment of Fees
+date: 2021-05-01
 ---
-Any outstanding tuition balance must be paid in full before a student is eligible to register.
+Any outstanding tuition/fee balance must be paid in full before a student is eligible to register.
 
 Any credit card payment made to a student account in excess of the balance (less anticipated financial aid) will be refunded to the credit card utilized for payment.
 
-All registrations for courses or programs at the Institute are subject to subsequent revocation by the Institute in its sole discretion, and at any time that the Institute determines that a student account has a negative balance. If the Institute thus revokes registration for a course or program, the student may not further attend those courses, nor may the student earn grades.
+Tuition is due by 4pm on the first day of classes each semester.
 
-All students pay tuition and fees to the Business Office and finalize their registration for classes by 4 PM on the 20th business day of classes of the fall or spring semester or the 13th business day for summer term in order to avoid the late payment fee of $250\. Students who have not paid their tuition by the 20th business day of classes will not be permitted to continue until they have developed a payment plan acceptable to the Business Office. If the Business Office approves such a payment plan, the Institute nevertheless retains the discretion to revoke the registration at any subsequent time that the Institute determines that a student account has a negative balance, because payments have not been made in compliance with the payment plan. If the Institute thus revokes registration for a course or program, the student may not further attend those courses, nor may the student earn grades.
+**Late Fees:**
 
-Students who are being sponsored by other organizations for full or partial tuition are responsible for the Institute receiving these payments by the 20th business day of classes. If such payments are not possible by 20th businessday of classes, the student must provide the Business Office with written commitment from the sponsoring organization that full payment of tuition and fees will occur. Such written commitment must be on the letterhead of the sponsoring organization and must include the total amount the sponsoring organization will pay each semester, billing instructions, and the signature of the authorized representative of the sponsoring organization. If such written documentation is not provided by 4 PM on the 20th businessday of the semester, the late registration fee of $250 will be assessed. In this case it is the student’s responsibility to make arrangements for payment of the late fee in addition to the tuition and fees. If the Business Office approves such an external written commitment, the Institute nevertheless retains the discretion for subsequent revocation of the registration at any time that the Institute determines that a student account has a negative balance because payments have not been made in compliance with the external written commitment. If the Institute thus revokes registration for a course or program, the student may not further attend those courses, nor may the student earn grades.
+The Middlebury Institute provides an add/drop period during the first two weeks of the semester, which allows students to modify their enrollment by adding or dropping classes.  Any student whose tuition and fees are not paid in full by the Monday following the second week of classes will be assessed a $250 late fee.  A late fee will trigger a hold on the student’s account, preventing their ability to register for future credits until their tuition and fees are paid in full.
+
+Students who have provided documentation to the Bursar of a third party payment (such as an organization, government, or third party entity) will not be charged a late fee.
+
+Any student whose tuition and fees remain unpaid after the 20th day of classes each semester will be contacted by the dean and will be asked to provide details on when their tuition will be paid.  Students will face administrative withdrawal at the discretion of the dean if they cannot provide a guarantee of payment satisfactory to their dean and the Institute.
+
+Students who are administratively withdrawn may not return to the Institute for future enrollment until their tuition balance has been paid in full and they are in good financial and academic standing.
 
 #### [Return to table of contents](/pages/iv-policies-for-the-institute/a-academic-policies/a-7-policies-concerning-enrollment-and-payment-fees)
