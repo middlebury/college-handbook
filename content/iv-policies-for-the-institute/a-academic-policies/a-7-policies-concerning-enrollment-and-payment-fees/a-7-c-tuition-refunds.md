@@ -1,22 +1,18 @@
 ---
 slug: /pages/iv-policies-for-the-institute/a-academic-policies/a-7-policies-concerning-enrollment-and-payment-fees/a-7-c-tuition-refunds
-date: 2021-05-01
 title: A.7.c. Tuition Refunds
+date: 2021-05-01
 ---
-If a student voluntarily withdraws from the Middlebury Institute at any time during the academic year after the academic term has begun, or officially drops below a full-time load,tuition (less deposit) shall be refunded as follows:
+If a student voluntarily withdraws from the Middlebury Institute at any time during the academic year after the academic term has begun, or officially drops below a full-time load, tuition (less deposit) shall be refunded as follows:
 
-<table><tbody><tr><td><strong>Time of Withdrawal from the Middlebury Institute</strong></td><td><strong>Percent Tuition Refunded or Credited</strong></td></tr><tr><td>Before the 11th day of the academic term</td><td>100%</td></tr><tr><td>11th through 20th day of the academic term</td><td>50%</td></tr><tr><td>After the 20th day of the academic term</td><td>0%</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Time of Withdrawal from the Middlebury Institute</strong></td><td><strong>Percent Tuition Reversed</strong></td></tr><tr><td>Before the 11th day of the academic term</td><td>100%</td></tr><tr><td>11th through 20th day of the academic term</td><td>50%</td></tr><tr><td>21st through 45th day of the academic term</td><td>10%</td></tr><tr><td>After the 45th day of the academic term</td><td>0%</td></tr></tbody></table>
 
-Weekend workshops and other brief courses dropped by 4 P.M. on the last business day a week before they begin will receive full refund. After that deadline, there is no refund.
+Weekend workshops and other brief courses dropped by 4 P.M. on the last business day a week before they begin, will have the full amount of the tuition credited to their account, if the drop brings them below half time.  Full time students that remain full time after they drop are not eligible for any tuition to be reversed. After that deadline, there is no tuition reversed.
 
-If a student’s enrollment status during the regular academic year voluntarily changes from full-time to part- time as a result of dropping a course(s) by 4 P.M. on the 10th business day of the academic term the student will be refunded the difference between the paid full-time tuition and the per-credit cost. If the student has been billed full tuition but has not paid in full, her/his tuition account will be credited for the difference between full-time tuition and the per-credit cost.
+**The summer refund schedule is as follows:**
 
-The refund schedules for summer programs **other than the Summer Intensive Language Program** is as follows:
+<table><tbody><tr><td><strong>Time of Withdrawal from Summer Program</strong></td><td><strong>Percent Tuition Refunded or Credited</strong></td></tr><tr><td>Before the 11th day of the term</td><td>100%</td></tr><tr><td>11th through 15th day of the term</td><td>50%</td></tr><tr><td>16th day through 23rd day of the term</td><td>10%</td></tr><tr><td>After 24th day of the term</td><td>0%</td></tr></tbody></table>
 
-<table><tbody><tr><td><strong>Time of Withdrawal from Summer Program</strong></td><td><strong>Percent Tuition Refunded or Credited</strong></td></tr><tr><td>Before the 6th day of the program</td><td>100%</td></tr><tr><td>6th through 13th day of the program</td><td>50%</td></tr><tr><td>After the 13th day of the program</td><td>0%</td></tr></tbody></table>
+Non-credit, fee-based programs as well as programs offered through Middlebury Institute Online publish their own refund schedules. Students should consult with the program and/or the Middlebury Institute Online handbook.
 
-The Intensive Language Programs and non-credit, fee-based programs publish their own refund schedules. Students should consult with the program.
-
-**Note:** **Federal financial aid has different refund rules. Students receiving Federal financial aid should see the Office of Student Financial Services before withdrawing.**
-
-#### [Return to table of contents](/pages/iv-policies-for-the-institute/a-academic-policies/a-7-policies-concerning-enrollment-and-payment-fees)
+**Note:** Federal financial aid has different refund rules. Students receiving Federal financial aid or VA educational benefits should contact the Office of Student Financial Services before withdrawing.
