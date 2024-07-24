@@ -9,7 +9,7 @@ The Middlebury Institute awards Master of Arts (MA), Master of Public Administra
 
 MA in Conference Interpretation (MACI)
 
-MA in Environmental Policy Management (MAEPM)
+MA in Environmental Policy and Management (MAEPM)
 
 MA in International Policy and Development (MAIPD)
 
