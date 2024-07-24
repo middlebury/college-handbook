@@ -140,7 +140,7 @@ Special student status is designated for students with only one or two remaining
 
 Students applying for special student status based on course completion must submit a completed Special Student application to the Office of the Registrar for approval. Students applying for special student status based on a documented disability must submit their request, along with appropriate documentation, to the Disability Resource Center office. [Applications for special student status](https://www.middlebury.edu/offices/academic/records/Forms/stuforms) must ordinarily be filed with the Office of the Registrar by March 15 for the fall semester and November 15 for the spring semester. Students whose circumstances change after March 15 or November 15 may file applications for special student status after those deadlines if they have compelling reasons.
 
-Beginning in the spring 2024 semester, special students will automatically be added to the 50 meal plan.  Special students should contact Dining Services if they would like to opt out of a meal plan. 
+Beginning in the spring 2024 semester, special students will automatically be added to the [50 meal plan](https://www.middlebury.edu/student-financial-services/financial-tools-and-resources/student-financial-services-handbook#special-students). Special students should contact Dining Services if they would like to opt out of a meal plan. 
 
 Occasionally, special students wish to remain living on campus. When this request is based on a documented disability, students should submit this request to the Disability Resource Center office. When this request is based on exceptional personal circumstances, students may apply to the Administration Committee.
 
