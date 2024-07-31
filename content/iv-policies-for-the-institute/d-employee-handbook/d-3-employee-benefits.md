@@ -243,7 +243,7 @@ Additional information about options and limitations is available in the HR offi
 
 **D.3.n. Employee Educational Assistance**
 
-After one year of benefits-qualifying employment, full-time employees and part-time benefits-eligible employees may register tuition-free for one Institute course or four units, whichever is greater, per term or semester. A tuition credit form, available from the Human Resources Office, must be completed and signed by the employee and his/her supervisor,  and by representatives of the registrar’s, cashier’s and HR offices. If the course is scheduled during normal working hours of a non-exempt staff member, an amended work schedule for the semester or duration of the course must be submitted for the file in the Human Resources Office.
+After one year of benefits-qualifying employment, full-time employees and part-time benefits-eligible employees may register tuition-free for either: 1) one Institute course or four units, whichever is greater, per term or semester, on campus, or 2) one Institute online course, or three credits, per term, up to nine credits per year. A tuition credit form, available from the Human Resources Office, must be completed and signed by the employee and his/her supervisor,  and by representatives of the registrar’s, cashier’s and HR offices. If the course is scheduled during normal working hours of a non-exempt staff member, an amended work schedule for the semester or duration of the course must be submitted for the file in the Human Resources Office. 
 
 Tuition benefits above $5,250 are taxable, and taxes will be withheld from employee’s pay during the semester of attendance, as required by the IRS.
 
