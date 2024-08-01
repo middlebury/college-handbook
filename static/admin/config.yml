@@ -39,7 +39,6 @@ collections:
           name: "body",
           widget: "CKEditor",
           required: false,
-          comment: 'This is a multiline\ncomment',
         }
   - name: "undergraduate-college"
     label: "II. Policies for the Undergraduate College"
