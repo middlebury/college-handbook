@@ -32,7 +32,7 @@ module.exports = {
             options: {
               // remove static from the start of links 
               replacements: {
-                'static/': '/'
+                'static/assets': '/assets'
               },
               prefix: false,
             },
