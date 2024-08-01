@@ -13,7 +13,7 @@ Violations of this Policy may result in sanctions up to and including terminatio
 
 This Policy applies to all Middlebury students, staff, faculty, applicants and visitors to Middlebury’s programs and campus.  “Middlebury” includes the undergraduate college, the Language Schools, the School of the Environment, Bread Loaf School of English, Bread Loaf Writers’ Conference, the Schools Abroad, and the Middlebury Institute of International Studies at Monterey.
 
-See also the Addendum applicable to California employees only, available at [Appendix A: Addendum Applicable to California Employees](static/assets/appendix-a_addendum-applicable-to-california-employees.pdf).
+See also the Addendum applicable to California employees only, available at [Appendix A: Addendum Applicable to California Employees](/assets/appendix-a_addendum-applicable-to-california-employees.pdf).
 
 **Types of Behavior Prohibited by Law and this Policy:**
 
@@ -168,7 +168,7 @@ Determinations regarding whether a person is responsible for violating this Poli
 
 **25\. Preponderance of the Evidence** is an evidentiary standard (e.g., the level of evidence that is sufficient to persuade a decisionmaker that there was a policy violation) that means “more likely than not,” or, greater than 50%.
 
-Please also see [Appendix B: Applicable Definitions: U.S. State and Federal Law where Middlebury Operates Programs](static/assets/appendix-b_applicable-definitions-in-states-where-middlebury-operates.pdf).
+Please also see [Appendix B: Applicable Definitions: U.S. State and Federal Law where Middlebury Operates Programs](/assets/appendix-b_applicable-definitions-in-states-where-middlebury-operates.pdf).
 
 _Published: August 14, 2020_
 
