@@ -93,7 +93,7 @@ Generally, harassment may include repeated slurs, or taunts in the guise of joke
 
 Specifically in the context of Reporting Individuals who are Middlebury employees working in a Middlebury education program or activity in Vermont, harassment also includes conduct described in the Vermont law definition stated in footnote 1.
 
-**7\.** _**Quid Pro Quo**_ **Sexual Harassment** means unwelcome sexual advances, requests for sexual favors, and other verbal, written, visual or physical conduct of a sexual nature when:
+**7.** _**Quid Pro Quo**_ **Sexual Harassment** means unwelcome sexual advances, requests for sexual favors, and other verbal, written, visual or physical conduct of a sexual nature when:
 
 1.  submission to that conduct is made either explicitly or implicitly a term or condition of employment or educational status;
 2.  submission to or rejection of such conduct is used as a component of or as the basis for employment decisions (such as wages, evaluation, advancement, assigned duties, or shifts) or educational/student life-related decisions (such as grades, class assignments, or letters of recommendation, or residence-related decisions) affecting an individual; or
@@ -167,11 +167,11 @@ Determinations regarding whether a person is responsible for violating this Poli
 
 **23\. Prohibited Conduct** means conduct that is prohibited by this Non-Discrimination Policy.
 
-**24\. Supportive Measures** are non-punitive, non-disciplinary individualized services offered as appropriate, as reasonably available, and without fee or charge that are calculated  to restore or preserve access to Middlebury educational or employment programs, activities, and resources, and/or to provide support during a resolution process.
+**24\. Supportive Measures** are non-punitive, non-disciplinary individualized services offered as appropriate, as reasonably available, and without fee or charge that are calculated to restore or preserve access to Middlebury educational or employment programs, activities, and resources, and/or to provide support during a resolution process.
 
 **25\. Preponderance of the Evidence** is an evidentiary standard (e.g., the level of evidence that is sufficient to persuade a decisionmaker that there was a policy violation) that means “more likely than not,” or, greater than 50%.
 
-Please also see Appendix B: Applicable Definitions: U.S. State and Federal Law where Middlebury Operates Programs.
+Please also see [Appendix B: Applicable Definitions: U.S. State and Federal Law where Middlebury Operates Programs](static/assets/appendix-b_applicable-definitions-in-states-where-middlebury-operates.pdf).
 
 _Published: August 14, 2020_
 
