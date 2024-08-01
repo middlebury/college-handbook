@@ -5,7 +5,7 @@ backend:
   accept_roles: ["admin", "editor"]
 
 media_folder: static/assets
-public_folder: https://handbook.middlebury.edu/assets
+public_folder: /assets
 display_url: https://handbook.middlebury.edu
 
 publish_mode: editorial_workflow
@@ -33,6 +33,19 @@ collections:
           time_format: false,
           format: "L",
           required: false,
+        }
+      - {
+          label: "Manual PDF",
+          name: "manual_pdf",
+          widget: "file",
+          default: "/uploads/general-manual.pdf",
+          media_library:
+          {
+            config:
+              {
+                multiple: true
+              }
+          }
         }
       - {
           label: "Text",
