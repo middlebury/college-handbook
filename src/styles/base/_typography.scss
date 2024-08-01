@@ -5,11 +5,11 @@
 }
 
 .anchor-link {
-  &.after {
-    padding-left: 0.375em !important;
-  }
-
   font-size: 1em;
   line-height: 1;
   color: #0d395f;
+  
+  &.after {
+    padding-left: 0.375em !important;
+  }
 }

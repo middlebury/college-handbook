@@ -9,8 +9,9 @@
 }
 
 .app-header__wrap {
-  @include make-container;
   display: flex;
+  
+  @include make-container;
 
   @media print {
     display: block;

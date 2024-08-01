@@ -27,6 +27,16 @@ module.exports = {
               isIconAfterHeader: true
             }
           },
+          {
+            resolve: 'gatsby-remark-find-replace',
+            options: {
+              // remove static from the start of links 
+              replacements: {
+                'static/assets': '/assets'
+              },
+              prefix: false,
+            },
+          },
         ],
       },
     },
