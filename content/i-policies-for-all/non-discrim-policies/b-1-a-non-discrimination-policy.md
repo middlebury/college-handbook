@@ -122,11 +122,9 @@ Specifically in the context of Reporting Individuals who are Middlebury employee
 
 **14\. Stalking** means engaging in two or more acts directed at a specific person that would cause a reasonable person to either (i) fear for the person’s safety or the safety of others; OR (ii) suffer substantial emotional distress. For purposes of this definition:
 
-1.      Acts means acts in which the stalker directly, indirectly, or through third parties, by any action, method, device, or means, follows, monitors, observes, surveils, threatens, or communicates to or about a person, or interferes with a person’s property.
-
-2.      Reasonable person means a reasonable person under similar circumstances and with similar identities to the Reporting Individual.
-
-3.      Substantial emotional distress means significant mental suffering or anguish that may, but does not necessarily, require medical or other professional treatment or counseling.
+1.  Acts means acts in which the stalker directly, indirectly, or through third parties, by any action, method, device, or means, follows, monitors, observes, surveils, threatens, or communicates to or about a person, or interferes with a person’s property.
+2.  Reasonable person means a reasonable person under similar circumstances and with similar identities to the Reporting Individual.
+3.  Substantial emotional distress means significant mental suffering or anguish that may, but does not necessarily, require medical or other professional treatment or counseling.
 
 **15\. Consent** means words or actions, affirmatively, unambiguously and voluntarily spoken or engaged in by each party, which a reasonable person would interpret as a willingness to participate in agreed-upon sexual conduct.
 
@@ -139,7 +137,7 @@ A person is “incapable of consenting” for purposes of this Policy if they:
 *   are asleep, unconscious, or otherwise unaware that the conduct is occurring; or
 *   lack the mental ability to make or communicate a decision about whether to engage in the conduct at issue.
 
- A person may be incapable of consenting due to the effects of alcohol, drugs or other intoxicants, or due to a physical, mental or other condition.
+A person may be incapable of consenting due to the effects of alcohol, drugs or other intoxicants, or due to a physical, mental or other condition.
 
 The use of alcohol or drugs does not minimize or excuse a person’s responsibility for committing sexual misconduct, or that person’s responsibility for determining whether another is capable of giving consent, as described above.
 
@@ -149,9 +147,8 @@ Determinations regarding whether a person is responsible for violating this Poli
 
 **17\. Reporting Individual** means
 
-(1) A student or employee who is alleged to have been subjected to conduct that could constitute a violation of the Non-Discrimination Policy; or
-
-(2) A person other than a student or employee who is alleged to have been subjected to conduct that could constitute a violation of the Non-Discrimination Policy and who was participating or attempting to participate in Middlebury’s education or employment program or activity at the time of the alleged prohibited conduct. 
+1.  A student or employee who is alleged to have been subjected to conduct that could constitute a violation of the Non-Discrimination Policy; or
+2.  A person other than a student or employee who is alleged to have been subjected to conduct that could constitute a violation of the Non-Discrimination Policy and who was participating or attempting to participate in Middlebury’s education or employment program or activity at the time of the alleged prohibited conduct. 
 
 **Reporting Individual** also means “complainant” as that term is used in Federal law (including the Title IX regulations issued in April 2024).
 
