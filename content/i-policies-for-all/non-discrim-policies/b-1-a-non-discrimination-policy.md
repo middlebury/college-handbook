@@ -3,6 +3,16 @@ slug: /pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-po
 title: B.1.a. Non-Discrimination Policy
 date: 2021-05-01
 ---
+NOTE: This Policy will be in effect August 1, 2024, and will not apply retroactively.  For Prohibited Conduct allegedly occurring before August 1, 2024, Middlebury will apply the definition of Prohibited Conduct and procedures in place at the time of the alleged conduct.[\[1\]](#_ftn1) For Prohibited Conduct allegedly occurring on or after August 1, 2024, the definition of Prohibited Conduct and procedures set forth in this Policy will apply, to the fullest extent permitted by applicable law.[\[2\]](#_ftn2) Middlebury retains discretion to make appropriate adjustments to promote fairness and consistency.  The Parties will be notified in advance of any proceedings which definition(s) and procedures apply.
+
+---
+
+[\[1\]](#_ftnref1) All prior policies can be found at \[ADD LINK TO PRIOR POLICIES HERE\].
+
+[\[2\]](#_ftnref2) As of the time this Policy was published on August 1, 2024, several federal courts had enjoined the Department of Education from implementing, enacting, or enforcing the April 2024 Title IX regulations referenced above as to numerous states and hundreds of colleges and universities across the country attended by members of certain non-profit student organizations. In light of these developments, Middlebury will implement the policies and procedures set forth in this Policy to the fullest extent that it can do so within the scope of its inherent authority to enact Middlebury policies for the benefit of the Middlebury community (including the definitions of Prohibited Conduct stated in this Policy), but it will also apply procedural features of prior policies as deemed necessary under applicable law. Parties to formal proceedings conducted under this Policy will be notified which procedures will apply.
+
+---
+
 Middlebury is committed to creating and maintaining a diverse, equitable and inclusive campus environment where we value openness, curiosity, rigor, and equality. Discrimination, including harassment, is antithetical to our values and mission, and, therefore, Middlebury seeks to eradicate unlawful discrimination based on protected personal characteristics in its educational and employment environments.
 
 Individuals who feel they have experienced discrimination, including harassment, based on a protected personal characteristic are strongly encouraged to report the behavior to our [Civil Rights and Title IX office](https://www.middlebury.edu/title-IX/about) (“CRTIX”). Middlebury provides timely services to those who have been affected by discrimination, including harassment.  It is not necessary to file a complaint with Middlebury or participate in an adjudication process in order to request “supportive measures” from Middlebury. Appropriate supportive measures may vary depending on specific facts and circumstances and will be determined on a case-by-case basis. Moreover, Middlebury provides procedures to assure prompt and equitable investigation and resolution intended to stop discrimination/harassment, remedy harms and prevent repetition.
@@ -148,7 +158,7 @@ Determinations regarding whether a person is responsible for violating this Poli
 **17\. Reporting Individual** means
 
 1.  A student or employee who is alleged to have been subjected to conduct that could constitute a violation of the Non-Discrimination Policy; or
-2.  A person other than a student or employee who is alleged to have been subjected to conduct that could constitute a violation of the Non-Discrimination Policy and who was participating or attempting to participate in Middlebury’s education or employment program or activity at the time of the alleged prohibited conduct. 
+2.  A person other than a student or employee who is alleged to have been subjected to conduct that could constitute a violation of the Non-Discrimination Policy and who was participating or attempting to participate in Middlebury’s education or employment program or activity at the time of the alleged prohibited conduct.
 
 **Reporting Individual** also means “complainant” as that term is used in Federal law (including the Title IX regulations issued in April 2024).
 
