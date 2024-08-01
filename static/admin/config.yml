@@ -35,24 +35,12 @@ collections:
           required: false,
         }
       - {
-          label: "Manual PDF",
-          name: "manual_pdf",
-          widget: "file",
-          default: "/uploads/general-manual.pdf",
-          media_library:
-          {
-            config:
-              {
-                multiple: true
-              }
-          }
-        }
-      - {
           label: "Text",
           name: "body",
           widget: "CKEditor",
           required: false,
         }
+      - comment: 'This is a multiline\ncomment'
   - name: "undergraduate-college"
     label: "II. Policies for the Undergraduate College"
     folder: "content/ii-ug-college-policies"
