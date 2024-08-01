@@ -9,7 +9,7 @@ date: 2021-05-01
 
 Except as otherwise specified herein, this  Non-Discrimination Investigations & Resolutions Procedure **(“Procedure”)** applies to faculty, staff, students, and applicants (for employment at Middlebury or to Middlebury's programs; hereinafter referred to as "applicants") as well as to others who participate in Middlebury programs and activities, including the undergraduate college, the Language Schools, the School of the Environment, MiddCore, Bread Loaf School of English, Bread Loaf Writers’ Conference, Middlebury College Schools Abroad, and the Middlebury Institute of International Studies at Monterey (“the Middlebury Institute”). The policy also applies to volunteers, interns and persons providing services pursuant to a contract to the extent required by applicable local law.
 
-See also [Addendum](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin#Addendum) applicable to California employees only, in this document below.
+See also the Addendum applicable to California employees only, available at [Appendix A: Addendum Applicable to California Employees](https://handbook.middlebury.edu/assets/appendix-a_addendum-applicable-to-california-employees.pdf).
 
 This Procedure is available online at go/antiharassment. Printed copies may be requested from the Civil Rights and Title IX Coordinator.
 
@@ -201,80 +201,6 @@ A student may file a complaint of discrimination, harassment, including sexual h
 ## 10.    The Human Relations Officer and Record Keeping
 
 The HRO may keep confidential records or reports developed under this Procedure and the actions taken in response to those reports, and use them for purposes such as to identify individuals or departments likely to benefit from training. Information about the HRO is available at several college offices: Human Relations Office, [Civil Rights and Title IX Coordinator/Compliance Officer](https://www.middlebury.edu/studentlife/doc/hro), [Vice President for Student Affairs and Dean of Students](https://www.middlebury.edu/college/student-life/dean-students), Student Life deans, Vice President for Academic Affairs and Dean of the Faculty, Public Safety, Human Resources, program directors, and the Middlebury Institute’s HROs.
-
-## 11.    Addendum (California Employees Only) {#Addendum}
-
-California law has specific requirements for what must be set forth in a harassment/discrimination policy applicable to employees. In accordance with California’s Fair Employment and Housing Act Regulations (“FEHA”), and in addition to the policy provisions set forth above, this addendum applies to faculty, staff and other employees who are employed by the Middlebury Institute of International Studies at Monterey, Middlebury’s Language Schools at Mills College and any other Middlebury program that is located in California.
-
-**1\. Definitions**
-
-_Employees_  
-With respect to protections of individuals from unlawful harassment, the term “employee” shall include unpaid interns, volunteers, and persons providing services pursuant to a contract. With respect to protections of individuals from unlawful discrimination, the term “employee” shall include a person who serves in an unpaid internship or any other limited-duration program that provides work experience.
-
-_Discrimination_  
-Discrimination is defined as conduct directed at an individual based on their perceived or actual race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex (includes pregnancy, childbirth, breastfeeding, and related medical conditions), gender, gender identity, gender expression, age (over 40), sexual orientation, or military and veteran status of any person and/or any other status or characteristic as defined and to the extent protected by law.
-
-Discrimination is established if a preponderance of the evidence demonstrates that an enumerated basis (see above definition) was a substantial motivating factor in the denial of an employment benefit to that individual by the employer or other covered entity, and the denial is not justified by a permissible defense. This standard applies only to claims of discrimination on a basis above (see also Government Code Section 12940, subdivision (a)), and to claims of retaliation under Government Code section 12940 subdivision (h). A substantial factor motivating the denial of the employment benefit is a factor that a reasonable person would consider to have contributed to the denial. It must be more than a remote or trivial factor. It does not have to be the only cause of denial.
-
-_Harassment_  
-Harassment is defined as verbal, written, visual, or physical conduct based on or motivated by an individual's actual or perceived race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex (includes pregnancy, childbirth, breastfeeding, and related medical conditions), gender, gender identity, gender expression, age (over 40), sexual orientation, or military and veteran status of any person and/or any other status or characteristic as defined and to the extent protected by law in the location where a particular program is operating, that has the purpose or effect, from the point of view of a reasonable person, of objectively and significantly:
-
-1.  undermining and detracting from or interfering with an individual's educational or work performance or access to Middlebury resources; or
-2.  creating an intimidating, hostile, or offensive educational, work, or living environment.
-
-Harassment may include but is not limited to:
-
-1.  Verbal harassment, e.g., epithets, derogatory comments or slurs on a basis enumerated in the above;
-2.  Physical harassment, e.g., assault, impeding or blocking movement, or any physical interference with normal work or movement, when directed at an individual on a basis enumerated above;
-3.  Visual forms of harassment, e.g., derogatory posters, cartoons, or drawings on a basis enumerated above; or
-4.  Sexual favors, e.g., unwanted sexual advances, which condition an employment benefit upon an exchange of sexual favors.
-
-_National Origin_  
-(a) National origin includes, but is not limited to, the individual’s or ancestors’ actual or perceived:
-
-(1)   Physical, cultural, or linguistic characteristics associated with a national origin group;
-
-(2)   marriage to or association with persons of a national origin group;
-
-(3)   tribal affiliation;
-
-(4)   membership in or association with an organization identified with or seeking to promote the interests of a national origin group;
-
-(5)   attendance or participation in schools, churches, temples, mosques, or other religious institutions generally used by persons of a national origin group; and
-
-(6)   name that is associated with a national origin group.
-
-(b) “National origin groups” include, but are not limited to, ethnic groups, geographic places of origin, and countries that are not presently in existence.
-
-(c) “Undocumented applicant or employee” means an applicant or employee who lacks legal authorization under federal law to be present and/or to work in the United States.
-
-_Retaliation_  
-Retaliation against any individual because the individual has opposed discrimination or harassment on the basis of any protected category, has participated in the filing of a complaint, or has testified, assisted, or participated in any other manner in a proceeding in which discrimination, harassment, or retaliation has been alleged is prohibited.
-
-Retaliation may include, but is not limited to:
-
-(1) threatening to contact or contacting immigration authorities or a law enforcement agency about the immigration status of the employee, former employee, applicant, or a family member (e.g., spouse, domestic partner, parent, sibling, child, uncle, aunt, niece, nephew, cousin, grandparent, great-grandparent, grandchild, or great-grandchild, by blood, adoption, marriage, or domestic partnership) of the employee, former employee, or applicant; or
-
-(2) taking adverse action against an employee because the employee updates or attempts to update personal information based on a change of name, social security number, or government-issued employment documents.
-
-_Prohibited Conduct (Coworkers, Third Parties, Supervisors and Managers)_  
-The law prohibits coworkers and third parties, as well as supervisors and managers, with whom the employee comes in contact from engaging in unlawful harassment, discrimination, or retaliation.
-
-**2\. Complaint Process**
-
-Employees may complain orally or in writing. The complaint reporting process is described in more detail in Section B above. In addition to those procedures, the parties involved in a harassment, discrimination or related retaliation complaint will receive a designation of confidentiality, to the extent possible. Confidentiality will be kept by Middlebury to the extent possible, although Middlebury cannot promise absolute confidentiality.
-
-When Middlebury receives allegations of misconduct under this policy, it will conduct a fair, timely, and thorough investigation and reach reasonable conclusions based on the evidence presented.
-
-Supervisors must report any complaints of misconduct under this policy to a Human Relations Officer so that Middlebury can try to resolve the claim internally. (This provision does not preclude employees from filing complaints with external agencies. See the Civil Rights and Title IX website for more information.).
-
-If at the end of the investigation misconduct under this policy is found, appropriate remedial measures shall be taken.
-
-The investigation will be documented, and the Human Relations Officer will track the investigation for reasonable progress.
-
-**3\. Dissemination of the Policy**
-
-This addendum, along with the full text of Middlebury’s [Non-Discrimination](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin) **Investigations & Resolutions Procedure**, will be disseminated to all California employees via email with an acknowledgement return form.
 
 ---
 
