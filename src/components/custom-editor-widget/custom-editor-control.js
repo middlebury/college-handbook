@@ -134,7 +134,7 @@ export class CustomEditorControl extends Component {
     return (
       <div>
         <Helmet>
-          <link rel="stylesheet" href="https://cdn.ckeditor.com/ckeditor5/42.0.1/ckeditor5.css" />
+          <link rel="stylesheet" href="https://cdn.ckeditor.com/ckeditor5/42.0.2/ckeditor5.css" />
           <link rel="stylesheet" href="/admin/cms.css" type="text/css"></link>
         </Helmet>
         <CKEditor

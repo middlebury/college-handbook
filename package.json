@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@ckeditor/ckeditor5-react": "^8.0.0",
-    "ckeditor5": "^42.0.1",
+    "ckeditor5": "^42.0.2",
     "ckeditor5-custom-build": "git+https://github.com/poojagunturu96/ckeditor5-markdown.git",
     "decap-cms-app": "^3.1.11",
     "gatsby": "^5.13.7",
@@ -30,7 +30,7 @@
     "gatsby-source-filesystem": "^5.13.1",
     "gatsby-transformer-remark": "^6.13.1",
     "gh-pages": "^6.1.1",
-    "marked": "^12.0.2",
+    "marked": "^13.0.3",
     "react": "^18.3.1",
     "react-checkbox-tree": "^1.7.2",
     "react-dom": "^18.3.1",
