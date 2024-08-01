@@ -13,7 +13,7 @@ Violations of this Policy may result in sanctions up to and including terminatio
 
 This Policy applies to all Middlebury students, staff, faculty, applicants and visitors to Middlebury’s programs and campus.  “Middlebury” includes the undergraduate college, the Language Schools, the School of the Environment, Bread Loaf School of English, Bread Loaf Writers’ Conference, the Schools Abroad, and the Middlebury Institute of International Studies at Monterey.
 
-See also the Addendum applicable to California employees only, available at Appendix A: Addendum Applicable to California Employees.
+See also the Addendum applicable to California employees only, available at [Appendix A: Addendum Applicable to California Employees](static/assets/appendix-a_addendum-applicable-to-california-employees.pdf).
 
 **Types of Behavior Prohibited by Law and this Policy:**
 
