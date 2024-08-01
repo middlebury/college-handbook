@@ -1,8 +1,18 @@
 ---
 slug: /pages/i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy
-title: B.1.b (1) TIX Investigation & Resolutions Procedure
+title: B.1.b (1) TIX Investigation & Resolutions Procedure (eff. 8/1/24)
 date: 2021-05-01
 ---
+NOTE: This Procedure will be in effect August 1, 2024, and will not apply retroactively.  For Prohibited Conduct allegedly occurring before August 1, 2024, the College will apply the definition of Prohibited Conduct and procedures in place at the time of the alleged conduct.[\[1\]](#_ftn1) For Prohibited Conduct allegedly occurring on or after August 1, 2024, the definition of Prohibited Conduct and procedures set forth in this Procedure will apply, to the fullest extent permitted by applicable law.[\[2\]](#_ftn2) Middlebury retains discretion to make appropriate adjustments to promote fairness and consistency. The Parties will be notified in advance of any proceedings which definition(s) and procedures apply.
+
+---
+
+[\[1\]](#_ftnref1) All prior policies and procedures can be found at \[ADD LINK TO PRIOR POLICIES HERE\].
+
+[\[2\]](#_ftnref2) As of the time this Procedure was published on August 1, 2024, several federal courts had enjoined the Department of Education from implementing, enacting, or enforcing the April 2024 Title IX regulations referenced above as to numerous states and hundreds of colleges and universities across the country attended by members of certain non-profit student organizations. In light of these developments, Middlebury will implement the policies and procedures set forth in this Procedure to the fullest extent that it can do so within the scope of its inherent authority to enact College policies for the benefit of the Middlebury community (including the definitions of Prohibited Conduct stated in this Procedure), but it will also apply procedural features of prior policies as deemed necessary under applicable law. Parties to formal proceedings conducted under this Procedure will be notified which procedures will apply.
+
+---
+
 **B.1.b (1) TIX Investigations & Resolutions Procedure (eff. 8/1/24)**
 
 **A. General Provisions** 
@@ -63,7 +73,7 @@ Confidential Resources must explain to any reporting party who describes conduct
 
 *   The Confidential Resource’s status as confidential for purposes of this Procedure, and that they will not report information about conduct that reasonably may constitute Prohibited Conduct to CRTIX without the reporting party’s permission;
 *   How to contact CRTIX and how to make a complaint of sex discrimination; and
-*   That CRTIX may be able to offer and coordinate supportive measures, as well as initiate an informal resolution process or an investigation under Middlebury policy and procedures. 
+*   That CRTIX may be able to offer and coordinate supportive measures, as well as initiate an informal resolution process or an investigation under Middlebury policy and procedures.
 
 Individuals who report incidents of discrimination and harassment to Confidential Resources should be aware that in certain limited circumstances, confidentiality may not be absolute.[\[5\]](#_ftn5) Individuals who are not employed by or affiliated with Middlebury are under no obligation to report anything to Middlebury. 
 
@@ -132,7 +142,7 @@ _a.       Report(s) indicate a potential violation of the Non-Discriminati
 The CRTIX Coordinator, _in addition to conducting outreach and providing supportive measures described above_, conducts an initial evaluation[\[7\]](#_ftn7) in which they assess: 
 
 *   whether the conduct reported, if established by a preponderance of the evidence, would constitute a violation of the Non-Discrimination Policy’s prohibition against sex-based discrimination and harassment (and/or related retaliation); and
-*   whether the Respondent and the reported conduct are subject to Middlebury’s authority 
+*   whether the Respondent and the reported conduct are subject to Middlebury’s authority
 
 The CRTIX Coordinator communicates with the Reporting Individual whether an investigative process can proceed, information about what the investigative process entails, and information about alternative (non-investigative and non-adjudicative based) processes and solicits the Reporting Individual’s input as to whether the Reporting Individual would like to proceed with an investigation. This input is given significant but not controlling weight. 
 
@@ -182,7 +192,7 @@ Once the CRTIX Coordinator has determined the scope of the investigation, they w
 *   A statement that the Respondent is presumed not responsible for the alleged conduct and that a determination regarding responsibility is made at the conclusion of the investigation and adjudication, and that prior to that determination, the Parties will have an opportunity to present relevant and not otherwise impermissible evidence to a trained, impartial decision-maker;
 *   Notification that each Party may have an advisor of their choice, who is not required to be (but may be) an attorney, and who may accompany them through all steps of the process;
 *   A statement that Middlebury’s Non-Discrimination Policy prohibits knowingly making false statements, including knowingly submitting false information during the investigation and adjudication process; and
-*   The name of the investigator, along with information about the process to notify the CRTIX Coordinator of any conflict of interest that the investigator may have in advance of the interview process. 
+*   The name of the investigator, along with information about the process to notify the CRTIX Coordinator of any conflict of interest that the investigator may have in advance of the interview process.
 
 The Notice Letter may be amended as appropriate during the course of the investigation. 
 
@@ -264,7 +274,7 @@ For each major stage of the investigative and adjudication process, this Procedu
 
 *   A Party who wishes to request an extension of any deadline established by this Procedure or during the investigation and adjudication process should make that request via email to the person who communicated the deadline;
 *   The person who communicated the deadline will inform the requesting party promptly regarding whether the requested extension will be granted, modified, or denied.
-*   When an extension is granted in whole or in part, the non-requesting Party will be notified and will receive a corresponding extension for the non-requesting Party’s compliance with any similar deadline, as applicable. 
+*   When an extension is granted in whole or in part, the non-requesting Party will be notified and will receive a corresponding extension for the non-requesting Party’s compliance with any similar deadline, as applicable.
 
 **VI.    Appeals** 
 
@@ -272,7 +282,7 @@ Appeals of dismissals, of closures after initial evaluation, and of HRO determin
 
 *   Procedural irregularity that affected the outcome of the matter;
 *   New evidence has become available that could affect the outcome of the matter and that was not reasonably available at the time the determination regarding responsibility, the dismissal, or the closure after initial evaluation was made; and/or
-*   The CRTIX Coordinator (or designee), investigator, or decision-maker (HRO) had a disqualifying conflict of interest or bias for or against Reporting Individuals or Respondents generally, or the individual Reporting Individual or Respondent, that affected the outcome of the matter 
+*   The CRTIX Coordinator (or designee), investigator, or decision-maker (HRO) had a disqualifying conflict of interest or bias for or against Reporting Individuals or Respondents generally, or the individual Reporting Individual or Respondent, that affected the outcome of the matter
 
 Appeals must be submitted in writing to the CRTIX Coordinator within 5 business days[\[22\]](#_ftn22) of the applicable CRTIX action, must articulate one of the permissible bases for appeal, and must provide information or evidence to support the appealing Party’s argument. 
 
@@ -288,13 +298,13 @@ The appellate decision-maker may deny the appeal, or if one or more of the appea
 
 *   Return the case to CRTIX for action;
 *   return the case to the original HRO for reconsideration; or
-*   appoint an alternate HRO to review the case (if the original outcome was materially altered by bias or conflict of interest on the part of the adjudicating HRO). 
+*   appoint an alternate HRO to review the case (if the original outcome was materially altered by bias or conflict of interest on the part of the adjudicating HRO).
 
 It is the responsibility of the appellate decision-maker to determine which aspects of the case merit a new review, and to direct the CRTIX office or HRO accordingly. 
 
 The appellate decision-maker will issue a written decision on the appeal, including a brief explanation of their reasoning, which will be provided simultaneously to both Parties.  Ordinarily this will be completed in 20 business days. A denial by an appellate decision-maker is final. In the event the appeal is accepted and the matter is returned to CRTIX or the HRO for reconsideration, the subsequent determination is final. 
 
-**VII.  Outcomes **  
+\*\*VII.  Outcomes \*\*  
 
 For matters that were investigated and adjudicated, there are several possible outcomes. 
 
@@ -339,7 +349,7 @@ In determining the sanction or sanctions or other actions, the sanctioning autho
 *   Any prior misconduct by the Respondent, including the Respondent’s relevant prior conduct history, at Middlebury or elsewhere;
 *   Whether the Respondent has accepted responsibility for the violation;
 *   The maintenance of a safe, nondiscriminatory and respectful environment conducive to living, learning, and working, as applicable; and
-*   Any other mitigating, aggravating, or compelling factors. 
+*   Any other mitigating, aggravating, or compelling factors.
 
 When a student Respondent is found responsible for sexual assault, suspension or expulsion are the likely outcomes. 
 
@@ -362,9 +372,6 @@ When a student Respondent is found responsible for sexual assault, suspension or
 4.       After consulting with the identified employees, the adjudicating HRO will provide the Vice President(s) with a list of remedial actions, which may include policy or practice changes and other steps designed to ensure that violations of the Non-Discrimination Policy do not continue or recur within the Middlebury programs or activities reviewed during the investigation.  A copy of the remedial actions will also be provided to the General Counsel, Chief Risk Officer and the Vice President of the Office of Institutional Diversity, Equity, and Inclusion.
 
 5.        The recommended steps will include time frames for progress reporting on implementation that must be adhered to by the employees tasked with implementing the recommendations.
-
-  
- 
 
 ---
 
