@@ -12,3 +12,7 @@ The subpages in this section apply to all members of the Middlebury community in
 *   [A.5. Policy on Open Expression](/pages/i-policies-for-all/genl-principles/freedom-of-expression)
 
 [test](static/assets/2020-2024-non-discrimination-policies-and-procedures.pdf)
+
+| 1 | fdf | weff |
+| --- | --- | --- |
+| 2 | efsdf | fvdvfv |
