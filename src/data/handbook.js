@@ -685,6 +685,12 @@ export const nodes = [
                 label: "2.19 Staff E-mail and Computer Use Policy",
                 className: "staff-computer-use",
               },
+              {
+                value:
+                  "ii-ug-college-policies/employee/employment/consensual-relationships-employee-student",
+                label: "2.20 Policy on Consensual Relationships Between Employees (Faculty and Staff) and Students",
+                className: "consensual-relationships-employee-student",
+              }
             ],
           },
           {
