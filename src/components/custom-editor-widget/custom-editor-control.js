@@ -113,17 +113,17 @@ export class CustomEditorControl extends Component {
       },
   
       link: {
-        addTargetToExternalLinks: true,
-        defaultProtocol: 'https://',
-        decorators: {
-          toggleDownloadable: {
-            mode: 'manual',
-            label: 'Downloadable',
-            attributes: {
-              download: 'file'
-            }
-          }
-        }
+        // addTargetToExternalLinks: true,
+        // defaultProtocol: 'https://',
+        // decorators: {
+        //   toggleDownloadable: {
+        //     mode: 'manual',
+        //     label: 'Downloadable',
+        //     attributes: {
+        //       download: 'file'
+        //     }
+        //   }
+        // }
       },
       placeholder: 'Type or paste your content here!',
       table: {
