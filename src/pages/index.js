@@ -1,8 +1,8 @@
 import React from "react";
-import Page from "../components/page";
+import Homepage from "../components/homepage";
 
 const IndexPage = () => {
-  return <Page></Page>;
+  return <Homepage></Homepage>;
 };
 
 export default IndexPage;

@@ -156,6 +156,35 @@ collections:
           widget: "CKEditor",
           required: false,
         }
+  - name: "miis-online-policies"
+    label: "VI. Policies for Middlebury Institute Online"
+    folder: "content/vi-policies-for-middlebury-institute-online"
+    path: "{{slug}}/{{slug}}/"
+    create: false
+    sortable_fields: []
+    fields:
+      - {
+          label: "Title",
+          name: "title",
+          default: "document name",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Date Edited",
+          name: "date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "L",
+          required: false,
+        }
+      - {
+          label: "Text",
+          name: "body",
+          widget: "CKEditor",
+          required: false,
+        }
   - name: "previous-handbooks"
     label: "Previous Handbooks"
     folder: "content/vi-handbook-archive"

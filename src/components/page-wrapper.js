@@ -9,7 +9,7 @@ import SplitPane, {
 } from "./split-pane";
 import Footer from "./footer";
 import CheckboxTree from "react-checkbox-tree";
-import { nodes } from "../data/handbook";
+import { nodes } from "../data";
 import { navigate } from "gatsby";
 import SearchResults from "./search-results";
 import { useStaticQuery, graphql } from "gatsby";

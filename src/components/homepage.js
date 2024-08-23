@@ -1,6 +1,6 @@
 import React from "react";
 
-const Page = (props) => {
+const Homepage = (props) => {
   return (
     <div>
       <h2>Middlebury&#8217;s Mission Statement</h2>
@@ -117,4 +117,4 @@ const Page = (props) => {
   );
 };
 
-export default Page;
+export default Homepage;
