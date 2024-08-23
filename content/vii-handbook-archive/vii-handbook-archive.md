@@ -1,5 +1,5 @@
 ---
-slug: /pages/vi-handbook-archive
+slug: /pages/vii-handbook-archive
 title: Previous Handbooks
 date: 2024-07-02
 ---

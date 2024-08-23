@@ -79,8 +79,15 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: "vi-handbook-archive",
-        path: `${__dirname}/content/vi-handbook-archive`,
+        name: "vi-policies-for-middlebury-institute-online",
+        path: `${__dirname}/content/vi-policies-for-middlebury-institute-online`,
+      },
+    },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: "vii-handbook-archive",
+        path: `${__dirname}/content/vii-handbook-archive`,
       },
     },
     {
