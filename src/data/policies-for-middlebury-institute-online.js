@@ -29,7 +29,24 @@ export const policiesForInstituteOnline = [
           {
             value: "vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-1-academic-integrity",
             label: "B.1. Academic Integrity",
-            className: "b-1-academic-integrity"
+            className: "b-1-academic-integrity",
+            children: [ 
+              {
+                value: "vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-1-academic-integrity/b-1-a-definitions",
+                label: "B.1.a. Definitions",
+                className: "b-1-a-definitions",
+              },
+              {
+                value: "vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-1-academic-integrity/b-1-b-student-responsibilities",
+                label: "B.1.b. Student Responsibilities for their Academic Work",
+                className: "b-1-b-student-responsibilities",
+              },
+              {
+                value: "vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-1-academic-integrity/b-1-c-violations-of-academic-honesty-policy",
+                label: "B.1.c. Violations of the Academic Honesty Policy, Procedures, and Disciplinary Actions",
+                className: "b-1-c-violations-of-academic-honesty-policy",
+              }
+            ]
           },
           {
             value: "vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-2-academic-calendar",
