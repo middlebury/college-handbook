@@ -187,7 +187,7 @@ collections:
         }
   - name: "previous-handbooks"
     label: "Previous Handbooks"
-    folder: "content/vi-handbook-archive"
+    folder: "content/vii-handbook-archive"
     path: "{{slug}}/"
     create: false
     sortable_fields: []

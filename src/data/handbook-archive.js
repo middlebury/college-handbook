@@ -1,7 +1,7 @@
 export const handbookArchiveNodes = [
   {
-    value: "vi-handbook-archive",
+    value: "vii-handbook-archive",
     label: "Previous Handbooks",
-    className: "vi-handbook-archive",
+    className: "vii-handbook-archive",
   }
 ]

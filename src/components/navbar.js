@@ -40,9 +40,14 @@ const Navbar = (props) => {
       className: "v-policies-for-schools-abroad",
     },
     {
-      value: "vi-handbook-archive",
+      value: "vi-policies-for-middlebury-institute-online",
+      label: "VI. Policies for Middlebury Institute Online",
+      className: "vi-policies-for-middlebury-institute-online",
+    },
+    {
+      value: "vii-handbook-archive",
       label: "Previous Handbooks",
-      className: "vi-handbook-archive",
+      className: "vii-handbook-archive",
     },
   ];
 

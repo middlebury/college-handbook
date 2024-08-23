@@ -86,8 +86,8 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: "vi-handbook-archive",
-        path: `${__dirname}/content/vi-handbook-archive`,
+        name: "vii-handbook-archive",
+        path: `${__dirname}/content/vii-handbook-archive`,
       },
     },
     {
