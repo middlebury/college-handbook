@@ -13,7 +13,7 @@ When final grades become available, students will be able to access them online 
 
 _a) Middlebury Students_
 
-Grades are automatically recorded on the student's Middlebury College transcript. You will be able to access your grades via BannerWeb as soon as you complete the study abroad evaluation.
+Grades are automatically recorded on the student's Middlebury College transcript.
 
 _b) Students From Other Colleges and Universities_
 
