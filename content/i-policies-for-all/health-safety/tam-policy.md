@@ -39,7 +39,7 @@ Members of the TAM are identified by name and position here and in other Middleb
 
 #### **III. Reporting Potential Threats**
 
-Anyone who believes that an individual has committed or may commit an act of violence, or otherwise may pose a threat to the health or safety of any member of the Middlebury community should **call the Department of Public Safety immediately at** **802.443.5911 at Middlebury College or Campus Security at 831-647-4153 at the Middlebury Institute**. **In case of an emergency, please dial 911.**
+Anyone who believes that an individual has committed or may commit an act of violence, or otherwise may pose a threat to the health or safety of any member of the Middlebury community should **call the Department of Public Safety immediately at** **802.443.5911 at Middlebury College or Campus Security at 831-647-4153 at the Middlebury Institute**. Members of the Middlebury, Vermont community are also welcome to use this [online reporting form](https://forms.office.com/pages/responsepage.aspx?id=GQq7oXYVHUK-k7On1Lbcqr_v36F22QZGmzP-mFcpy5FUNUdFOUwzNFVMMElKT1NSUDZHTjRaNE0zVyQlQCN0PWcu&route=shorturl) (anonymous option available). **In case of an emergency, please dial 911.**
 
 The Chair of a TAM will assess the reported information and determine whether to convene the TAM.
 
