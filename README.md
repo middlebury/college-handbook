@@ -4,7 +4,7 @@
 
 * [Node.js](https://nodejs.org/) v18.16.0+
 
-**Start developing.**
+## Start developing
 
 Clone the repo and install node dependencies:
 
@@ -12,9 +12,32 @@ Clone the repo and install node dependencies:
 npm install
 ```
 
-Navigate into the site’s directory and start it up.
+Navigate into the site’s directory and start it up:
 
 ```shell
 cd college-handbook/
-npm run develop
+npm start
 ```
+
+If the project fails to start due to errors run:
+
+```shell
+npm run clean
+npm start
+```
+
+To compile the site for production so it can be deployed:
+
+```shell
+npm run build
+```
+
+To serves the production build of the site for testing prior to deployment:
+
+```shell
+npm run serve
+```
+
+## Contributing to the project 
+
+Look at CONTRIBUTING.md for instructions on how to add new pages to the handbook. 
