@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/health-safety/demonst-protests
 title: C.4. Demonstration and Protest Regulations
-date: 2021-05-01
+date: 2024-08-28
 ---
 In keeping with Middlebury’s Open Expression Policy, these Regulations provide the process for ensuring demonstrations can occur safely and establish Middlebury’s time, place and manner requirements. These time, place and manner requirements are intended to ensure safety and protect Middlebury’s ability to fulfill its essential operations, especially its educational functions. Essential operations are operations that are necessary for the daily or regular operation of Middlebury to support and carry out our educational mission and typically cannot be easily moved to another location. For example, teaching and attending classes, maintaining heat and power to the campus, supporting campus events and activities, providing meals to students in residence, clearing snow and ice, are examples of some of Middlebury’s essential operations.
 
@@ -85,11 +85,11 @@ d. Organizers must remove all items and materials at the end of the demonstratio
 
 (17) Public Safety/Campus Security staff are, in collaboration with law enforcement, responsible for keeping the peace, in accordance with their departmental policies, as well as for coordinating with and supporting local law enforcement in order to keep the peace. Public Safety/Campus Security has the authority to respond to acts of violence, threats of violence, substantial disruption, or overcrowding (e.g., the number of people exceeds maximum occupancy limits) as appropriate to protect the safety of Middlebury community members. Public Safety/Campus Security ordinarily responds to substantially disruptive behavior by asking the person or persons to identify themselves and to stop the behavior, prior to documenting the person’s conduct as a violation of policy or taking further action, such as engaging law enforcement, as appropriate to the circumstances. Other Middlebury officials may also issue warnings to individuals or groups to facilitate enforcement of Middlebury’s Policy on Open Expression.
 
-8\. Individuals who engage in substantially disruptive behavior will generally be warned once, which may be done individually or to a group of participants. Any Middlebury official in attendance will ordinarily request identification, document substantially disruptive behavior, and record it to facilitate enforcement of Middlebury’s Policy on Open Expression.
+(18) Individuals who engage in substantially disruptive behavior, as determined by Middlebury officials at the event or location, will generally be warned once, which may be done individually or to a group of participants. Any Middlebury official in attendance will ordinarily request identification, document substantially disruptive behavior, and record it to facilitate enforcement of Middlebury’s Policy on Open Expression.  If disciplinary action is warranted, the matter will be referred to the appropriate office, or in the case of employees, to the appropriate supervisor for performance management, or disciplinary action, in accordance with Middlebury’s conduct policies.
 
-9\. Guidelines for Sanctions - Students
+(19) Guidelines for Sanctions - Students
 
-a. The following guidelines are provided to ensure consistent and transparent sanctions for students who violate the Policy on Open Expression and these Demonstration Regulations. The recommended sanctions are typical examples and should not be read to prevent lesser sanctions for less serious behavior, or greater penalties for more serious behavior. The range of sanctions below is not an exhaustive list as other sanctions including loss or restriction of Middlebury privileges or future Middlebury opportunities, educational/reparative assignments and/or fines or restitution may be issued as appropriate to the circumstances (see also [Sanctions](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process#sanctions)). Prior conduct and judicial history may also be taken into account in determining sanctions.
+a. The following guidelines are provided to ensure consistent and transparent sanctions for students who violate the Policy on Open Expression and these Demonstration and Protest Regulations. The recommended sanctions are typical examples and should not be read to prevent lesser sanctions for less serious behavior, or greater penalties for more serious behavior. The range of sanctions below is not an exhaustive list as other sanctions including loss or restriction of Middlebury privileges or future Middlebury opportunities, educational/reparative assignments and/or fines or restitution may be issued as appropriate to the circumstances (see also [Sanctions](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process#sanctions)). Prior conduct and judicial history may also be taken into account in determining sanctions.
 
 i. Warned about substantial disruption, asked to leave, leaves voluntarily without further disruption: _Range is ordinarily no sanction; a reprimand may be appropriate for disruption clearly intended to prevent someone else’s expression._
 
@@ -104,3 +104,5 @@ v. Removed, including by arrest, due to physical violence against another person
 For more information on the interpretation and enforcement of the [Open Expression Policy](/pages/i-policies-for-all/genl-principles/freedom-of-expression) and these Regulations, please see the related [Frequently Asked Questions](https://www.middlebury.edu/about/open-expression/faqs) and [Resources](https://www.middlebury.edu/about/open-expression/speech-inclusion-resources).
 
 _Effective 11-21-19_
+
+_Updated 8-28-24_
