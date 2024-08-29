@@ -7,7 +7,7 @@ import "../components/custom-editor-widget/ckeditor.css";
 import React from "react";
 import { marked } from "marked";
 
-const collections = ["middlebury-wide", "undergraduate-college", "language-schools", "miis-policies", "previous-handbooks"];
+const collections = ["middlebury-wide", "undergraduate-college", "language-schools", "miis-policies", "miis-online-policies", "previous-handbooks"];
 
 CMS.registerWidget("CKEditor", CustomEditorControl, CustomEditorPreview);
 
@@ -17,7 +17,7 @@ collections.forEach((name) => {
     return (
       <div>
         <h2>{data.title}</h2>
-        <div dangerouslySetInnerHTML={{ __html: marked.parse(data.body) }} />
+        <div dangerouslySetInnerHTML={{ __html: marked.parse(data.body ? data.body : "" ) }} />
       </div>
     );
   })
