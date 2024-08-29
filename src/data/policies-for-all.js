@@ -172,7 +172,7 @@ export const policiesForAllNodes = [
           {
             value:
               "i-policies-for-all/appropriate-use/posters",
-            label: "D.8. Posters",
+            label: "D.8. Posters, Chalking, Banners and Other Displays",
             className: "posters",
           }
         ],

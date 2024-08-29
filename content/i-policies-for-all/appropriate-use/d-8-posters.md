@@ -4,4 +4,4 @@ title: D.8. Posters, Chalking, Banners and Other Displays
 date: 2024-08-28
 ---
 
-Enter content here.
+.
