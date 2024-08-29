@@ -96,7 +96,7 @@ export const policiesForAllNodes = [
           },
           {
             value: "i-policies-for-all/health-safety/demonst-protests",
-            label: "C.4. Demonstration Regulations",
+            label: "C.4. Demonstration and Protest Regulations",
             className: "demonst-protests",
           },
           {
@@ -119,6 +119,11 @@ export const policiesForAllNodes = [
             label: "C.8. No Smoking Policy",
             className: "no-smoking",
           },
+          {
+            value: "i-policies-for-all/health-safety/camping-overnight-occupancy",
+            label: "C.9 Camping/Overnight Occupancy of Unauthorized Locations",
+            className: "camping-overnight-occupancy",
+          }
         ],
       },
       {
@@ -164,6 +169,12 @@ export const policiesForAllNodes = [
             label: "D.7. Policy on Scheduling Middlebury Space for Events",
             className: "d-7-policy-on-scheduling-middlebury-space-for-events",
           },
+          {
+            value:
+              "i-policies-for-all/appropriate-use/posters",
+            label: "D.8. Posters",
+            className: "posters",
+          }
         ],
       },
       {
