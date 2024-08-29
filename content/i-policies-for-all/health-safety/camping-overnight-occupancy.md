@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/health-safety/camping-overnight-occupancy
 title: C.9 Camping/Overnight Occupancy of Unauthorized Locations
-date: 2024-08-28
+date: 2024-08-29
 ---
 In order to carry out its educational mission, Middlebury is committed to maintaining a safe, secure, and healthy environment in which our students and employees live and work. Therefore, overnight occupancy of any non-residential space, indoors or outdoors, on any Middlebury property[\[1\]](#_ftn1), is prohibited.  
 
