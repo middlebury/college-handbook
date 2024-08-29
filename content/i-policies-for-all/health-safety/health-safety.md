@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/health-safety
-date: 2021-05-01
 title: C. Health and Safety Policies
+date: 2021-05-01
 ---
 **Introduction**
 
@@ -11,11 +11,12 @@ The subpages in this section apply to all members of the Middlebury community in
 
 ## Please choose from the following content:
 
-* [C.1\. Emergency Preparedness for Middlebury Schools and Programs](/pages/i-policies-for-all/health-safety/emerg-prepare)
-* [C.2\. Threat Assessment and Response Policy](/pages/i-policies-for-all/health-safety/tam-policy)
-* [C.3\. Emergency Removals Policy](/pages/i-policies-for-all/health-safety/emerg-removals)
-* [C.4\. Demonstration Regulations](/pages/i-policies-for-all/health-safety/demonst-protests)
-* [C.5\. Minors on Campus Policy](/pages/i-policies-for-all/health-safety/minors-on-campus)
-* [C.6\. Weapons Policy](/pages/i-policies-for-all/health-safety/weapons)
-* [C.7\. Alcohol, Tobacco and Other Drugs](/pages/i-policies-for-all/health-safety/alcohol-drugs)
-* [C.8\. No Smoking Policy](/pages/i-policies-for-all/health-safety/no-smoking)
+*   [C.1. Emergency Preparedness for Middlebury Schools and Programs](/pages/i-policies-for-all/health-safety/emerg-prepare)
+*   [C.2. Threat Assessment and Response Policy](/pages/i-policies-for-all/health-safety/tam-policy)
+*   [C.3. Emergency Removals Policy](/pages/i-policies-for-all/health-safety/emerg-removals)
+*   [C.4. Demonstration Regulations](/pages/i-policies-for-all/health-safety/demonst-protests)
+*   [C.5. Minors on Campus Policy](/pages/i-policies-for-all/health-safety/minors-on-campus)
+*   [C.6. Weapons Policy](/pages/i-policies-for-all/health-safety/weapons)
+*   [C.7. Alcohol, Tobacco and Other Drugs](/pages/i-policies-for-all/health-safety/alcohol-drugs)
+*   [C.8. No Smoking Policy](/pages/i-policies-for-all/health-safety/no-smoking)
+*   [C.9 Camping/Overnight Occupancy of Unauthorized Locations](https://handbook.middlebury.edu/pages/i-policies-for-all/health-safety/camping-overnight-occupancy/)
