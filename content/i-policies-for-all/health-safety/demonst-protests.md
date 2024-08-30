@@ -59,7 +59,7 @@ f. Participants in a demonstration or protest may be asked for identification at
 
 (8) Event Sponsors are required to participate in meetings and discussions needed to plan for the safety and security of an event, as well as to respond in a timely way to email and other communications from Events Management, Public Safety/Campus Security, the office of the VPSA and others. Failure to communicate appropriately and participate in necessary planning may result in Middlebury declining to provide the resources to support the Event Sponsor’s requested event.
 
-(9) If necessary, Public Safety/Campus Security will develop a security plan. Event Sponsors are required to comply with the security plan, which may include utilization of local law enforcement, including but not limited to the Middlebury Police Department,the Vermont State Police, or California authorities. Event Sponsors must be present for the entire duration of the event.  See [Event Host Policy](https://www.middlebury.edu/event-management/policies/event-host-policy). 
+(9) If necessary, Public Safety/Campus Security will develop a security plan. Event Sponsors are required to comply with the security plan, which may include utilization of local law enforcement, including but not limited to the Middlebury Police Department, the Vermont State Police, or California authorities. Event Sponsors must be present for the entire duration of the event. See [Event Host Policy](https://www.middlebury.edu/event-management/policies/event-host-policy). 
 
 (10) Event Sponsors are encouraged to suggest safety and/or crowd control measures appropriate to their proposed Event, but are nonetheless always required to support and comply with the security plan developed by Public Safety/Campus Security, and as applicable, local law enforcement. Specifically, Event Sponsors may request particular conditions for entry to an event or other aspects of how the Event will be organized, such as the time doors open, restricted items, whether tickets or a Middlebury ID is required. However, the final conditions for the Event will be determined by Middlebury.
 
@@ -71,7 +71,7 @@ f. Participants in a demonstration or protest may be asked for identification at
 
 (14) Important logistic requirements
 
-a. Connection to and of Middlebury’s utilities (power, etc.), or erection of any structure  must be approved in advance (during the weekday) by Facilities Services.
+a. Connection to and of Middlebury’s utilities (power, etc.), or erection of any structure must be approved in advance (during the weekday) by Facilities Services.
 
 b. Demonstrators and protesters may not mark or use trees or Middlebury structures to support or display signs, messages, materials, or equipment without prior approval of Facilities Services.
 
