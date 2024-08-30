@@ -12,10 +12,7 @@ Additionally, camping on any Middlebury property, in or under Middlebury structu
 *   Sleeping outdoors with or without a tent, tarp, lean-to, bedding, hammock, cot, structure, protection, or similar unauthorized device between the hours of 10:00 p.m. and 8:00 a.m.;
 *   Sleeping in or under any parked vehicle beyond the purpose of a short nap (e.g. work breaks or study breaks).
 
-This policy applies to all Middlebury students, faculty, and staff, as well as Middlebury affiliates, contractors and visitors. Students are expected to reside in designated residential spaces overnight. Students, faculty, and staff in violation of this policy may be referred for discipline. Any individual who refuses to comply with this policy may also be issued a no trespass order or may be subject to removal by law enforcement.
-
-  
- 
+This policy applies to all Middlebury students, faculty, and staff, as well as Middlebury affiliates, contractors and visitors. Students are expected to reside in designated residential spaces overnight. Students, faculty, and staff in violation of this policy may be referred for discipline. Any individual who refuses to comply with this policy may also be issued a No Trespass Notice (NTO) or may be subject to removal by law enforcement.
 
 ---
 
