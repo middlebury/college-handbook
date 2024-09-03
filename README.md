@@ -3,6 +3,11 @@
 ## Requirements
 
 * [Node.js](https://nodejs.org/) v18.16.0+
+* [Gatsby CLI](https://www.gatsbyjs.com/docs/tutorial/getting-started/part-0/#gatsby-cli) - Install the Gatsby CLI globally by running the command below:
+
+```shell
+npm install -g gatsby-cli
+```
 
 ## Start developing
 
