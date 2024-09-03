@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: middlebury/college-handbook
   branch: main
   accept_roles: ["admin", "editor"]
