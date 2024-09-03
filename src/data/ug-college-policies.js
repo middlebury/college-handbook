@@ -341,6 +341,11 @@ export const ugCollegePoliciesNodes = [
             label: "C.25. Policy on Consensual Relationships Between Faculty and Staff Members and Students",
             className: "consensual-relationships-faculty",
           },
+          {
+            value: "ii-ug-college-policies/faculty/bonuses-for-all",
+            label: "C.26. Bonuses for All",
+            className: "bonuses-for-all",
+          },
         ],
       },
       {
