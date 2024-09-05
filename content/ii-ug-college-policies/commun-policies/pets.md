@@ -28,7 +28,7 @@ Middlebury employees on the College campus in Vermont may bring their dogs to wo
 
 Faculty and staff with private offices or faculty and staff who share an office may bring their registered dogs to work during business hours only, so long as they follow these steps for approval:
 
-a. The dog owner must first obtain permission from their supervisor/department chair/VP by completing Part I of the [approval and registration form](/assets/dog-at-work-registration-form_2022.pdf).  To be eligible for approval, employees must have a private office. With the approval of a supervisor/department chair/VP, two employees who share a single office may be permitted to register their dog. However, only one dog is permitted in a single office at any given time.
+a. The dog owner must first obtain permission from their supervisor/department chair/VP by completing Part I of the [approval and registration form](/assets/dog-at-work-registration-form_2022.pdf). To be eligible for approval, employees must have a private office. With the approval of a supervisor/department chair/VP, two employees who share a single office may be permitted to register their dog. However, only one dog is permitted in a single office at any given time.
 
 b. The dog owner must complete Part II of the registration form and email a scanned copy of the completed form (Parts I and II), plus a digital photograph of their dog, to the Office of General Counsel & Risk Management at [vprisk@middlebury.edu](mailto:vprisk@middlebury.edu) (please write “Dog Registration” in the subject line). Note that the registration process requires that your dog have a current dog license in the owner’s hometown, and that the dog tag or town dog license number be provided to the Office of General Counsel & Risk Management. No dog may be permitted on campus that is not fully vaccinated and current on all vaccinations (this includes puppies).
 
@@ -53,7 +53,7 @@ d. When the dog is on campus, the faculty or staff member is responsible for ens
 
 ### Enforcement
 
-a. Concerns about Dogs at Work should first be directed to the Vice-President or Dean for the office or program where the dog owner works, if possible. Otherwise, all other concerns should be sent to [gc@middlebury.edu](mailto:gc@middlebury.edu) for further handling.
+a. Concerns about Dogs at Work should first be directed to the Vice-President or Dean for the office or program where the dog owner works, if possible. Otherwise, issues and complaints about dogs at work should be sent to [gc@middlebury.edu](mailto:gc@middlebury.edu) for further handling.
 
 b. The Department of Public Safety should only be contacted in emergencies or serious incidents involving a dog, such as a dog bite.
 
