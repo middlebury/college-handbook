@@ -45,7 +45,8 @@ d. When the dog is on campus, the faculty or staff member is responsible for ens
 *   Owners are strongly encouraged to crate their dogs if/when they leave them unattended in their office.
 *   Owners may not bring dogs to dining halls or other indoor food operation areas. 
 *   Owners must ensure that dogs are appropriately cleaned and groomed while on campus.
-*   Owners are required to clean up after their dogs, both inside and outside the office, and building.Owners will be financially responsible for any damage or cleaning costs resulting from the dog.
+*   Owners are required to clean up after their dogs, both inside and outside the office, and building.
+*   Owners will be financially responsible for any damage or cleaning costs resulting from the dog.
 *   Custodians will not clean offices where dogs are registered, regardless of how often the dog is present in the office. Owners are responsible for cleaning their own offices.
 *   Owners must make alternate arrangements to meet with students, co-workers, visitors and/or vendors who are allergic to or uncomfortable when dogs are present in the office. It is the responsibility of the owner to notify visitors beforehand that a dog will be present in the office.
 
