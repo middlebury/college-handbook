@@ -53,7 +53,7 @@ d. When the dog is on campus, the faculty or staff member is responsible for ens
 
 ### Enforcement
 
-a. If possible, concerns about Dogs at Work should first be directed to the Vice-President or Dean for the office or program where the dog owner works. Otherwise, all other concerns should be sent to [gc@middlebury.edu](mailto:gc@middlebury.edu) for further handling.
+a. Concerns about Dogs at Work should first be directed to the Vice-President or Dean for the office or program where the dog owner works, if possible. Otherwise, all other concerns should be sent to [gc@middlebury.edu](mailto:gc@middlebury.edu) for further handling.
 
 b. The Department of Public Safety should only be contacted in emergencies or serious incidents involving a dog, such as a dog bite.
 
