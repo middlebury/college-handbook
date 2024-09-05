@@ -54,7 +54,7 @@ d. When the dog is on campus, the faculty or staff member is responsible for ens
 
 a. If possible, concerns about Dogs at Work should first be directed to the Vice-President or Dean for the office or program where the dog owner works. Otherwise, all other concerns should be sent to [gc@middlebury.edu](mailto:gc@middlebury.edu) for further handling.
 
-b. The Department of Public Safety should only be contacted in emergencies or serious incidents involving a dog, such as a dog bite. 
+b. The Department of Public Safety should only be contacted in emergencies or serious incidents involving a dog, such as a dog bite.
 
 c. Violation of any of the Conduct Requirements is a basis for terminating the registration of a dog. Failure to comply with the Conduct Requirements may result in fines, in addition to termination of registration, and repeated violations may be subject to additional sanctions.
 
