@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/commun-policies/pets
 title: A.6. Pet Policy
-date: 2021-05-01
+date: 2024-09-05
 ---
 Pet Policy and Requirements for “Dogs at Work”
 
