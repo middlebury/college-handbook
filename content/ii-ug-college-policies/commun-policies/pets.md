@@ -40,7 +40,8 @@ d. When the dog is on campus, the faculty or staff member is responsible for ens
 
 *   Owners must register and receive approval of their dog with the Office of General Counsel & Risk Management before bringing them in their office.
 *   Owners must post a sign on the office door when a dog is present. (A sign will be sent in campus mail once the dog registration has received final approval.)
-*   Owners must keep dogs on leashes at all times when not in their office. Dogs may not be off-leash outside of the owner’s office, including in public areas of a building. **Dogs running freely through hallways and buildings is a direct violation of this policy.**
+*   Dogs running freely through hallways and buildings is a direct violation of this policy and grounds for immediate termination of registration.
+*   Owners must keep dogs on leashes at all times when not in their office. Dogs may not be off-leash outside of the owner’s office, including in public areas inside or outside a building. 
 *   Registered dogs may not visit the offices of other registered dogs or be brought to conference rooms.
 *   Owners are strongly encouraged to crate their dogs if/when they leave them unattended in their office.
 *   Owners may not bring dogs to dining halls or other indoor food operation areas. 
