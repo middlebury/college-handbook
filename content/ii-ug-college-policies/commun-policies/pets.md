@@ -38,17 +38,17 @@ d. When the dog is on campus, the faculty or staff member is responsible for ens
 
 ### Conduct Requirements for Dogs At Work Program
 
-*   Owners must register and receive approval of their dog with the Office of General Counsel & Risk Management before bringing them in their office.
-*   Owners must post a sign on the office door when a dog is present. (A sign will be sent in campus mail once the dog registration has received final approval.)
-*   Dogs running freely through hallways and buildings is a direct violation of this policy and grounds for immediate termination of registration.
+*   Owners must register and receive approval of their dog with the Office of General Counsel & Risk Management before bringing them to work or in their office.
+*   Owners must post a sign on the office door when their registered dog is present. (A sign will be sent in campus mail once the dog registration has received final approval.)
+*   Dogs must remain with owners at all times. Dogs running freely through hallways and buildings is a direct violation of this policy and grounds for immediate termination of registration.
 *   Owners must keep dogs on leashes at all times when not in their office. Dogs may not be off-leash outside of the owner’s office, including in public areas inside or outside a building. 
-*   Registered dogs may not visit the offices of other registered dogs or be brought to conference rooms.
+*   Registered dogs may not be brought to conference rooms.
 *   Owners are strongly encouraged to crate their dogs if/when they leave them unattended in their office.
 *   Owners may not bring dogs to dining halls or other indoor food operation areas. 
 *   Owners must ensure that dogs are appropriately cleaned and groomed while on campus.
 *   Owners are required to clean up after their dogs, both inside and outside the office, and building.
 *   Owners will be financially responsible for any damage or cleaning costs resulting from the dog.
-*   Custodians will not clean offices where dogs are registered, regardless of how often the dog is present in the office. Owners are responsible for cleaning their own offices.
+*   Owners are responsible for cleaning their own offices. Custodians will not clean offices where dogs are registered, regardless of how often the dog is present in the office. 
 *   Owners must make alternate arrangements to meet with students, co-workers, visitors and/or vendors who are allergic to or uncomfortable when dogs are present in the office. It is the responsibility of the owner to notify visitors beforehand that a dog will be present in the office.
 
 ### Enforcement
