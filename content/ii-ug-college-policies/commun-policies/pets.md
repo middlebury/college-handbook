@@ -5,7 +5,7 @@ date: 2021-05-01
 ---
 Pet Policy and Requirements for “Dogs at Work”
 
-1\. Pets are not allowed in Middlebury buildings including residence hall, dining halls and other food operation areas. Service and assistance animals are covered by the [Service & Assistance Animal Policy](/pages/i-policies-for-all/non-discrim-policies/svc-assist-animals). Exceptions for "dogs at work" are described below.
+1\. Pets are not allowed in Middlebury buildings including residence halls, dining halls and other food operation areas or indoor eating venues. Service and assistance animals are covered by the [Service & Assistance Animal Policy](/pages/i-policies-for-all/non-discrim-policies/svc-assist-animals). Exceptions for "dogs at work" are described below.
 
 Animals visiting campus grounds must be on a leash at all times. Animals may not be left unattended or tied to any objects (e.g., structures, trees, or vehicles). All damages caused by an animal are the responsibility of the owner or guardian of the animal at the time of the damage; repairs will be billed accordingly.
 
@@ -15,7 +15,7 @@ Administrative offices open to the public are considered public spaces, and no a
 
 Middlebury employees on the College campus in Vermont may bring their dogs to work in accordance with the requirements of this Policy, detailed below.  Dogs demonstrating any aggressive behavior will not be allowed on campus. Bringing a dog to work is a privilege and when other individuals’ health or participation are negatively impacted, this Policy places greater importance on the well-being and full participation of all members of our community than on the preference for bringing a dog to work. Employees may not register dogs that do not belong to them (e.g. friends' or family members' dogs).
 
-**Dogs May Not Be Registered In These Buildings (this list is subject to change at any time)**
+### **Dogs May Not Be Registered In These Buildings (this list is subject to change at any time)**
 
 *   Peterson Family Athletic Complex (exceptions may be made for specific locations)
 *   McCardell Bicentennial Hall (dogs are not allowed in this building at any time)
@@ -36,7 +36,7 @@ c. Once final approval is granted by the Office of General Counsel & Risk Manage
 
 d. When the dog is on campus, the faculty or staff member is responsible for ensuring that the Conduct Requirements spelled out below are followed.
 
-**Conduct Requirements for Dogs At Work Program**
+### Conduct Requirements for Dogs At Work Program
 
 *   Owners must register and receive approval of their dog with the Office of General Counsel & Risk Management before bringing them in their office.
 *   Owners must post a sign on the office door when a dog is present. (A sign will be sent in campus mail once the dog registration has received final approval.)
@@ -50,6 +50,12 @@ d. When the dog is on campus, the faculty or staff member is responsible for ens
 *   Custodians will not clean offices where dogs are registered, regardless of how often the dog is present in the office. Owners are responsible for cleaning their own offices.
 *   Owners must make alternate arrangements to meet with students, co-workers, visitors and/or vendors who are allergic to or uncomfortable when dogs are present in the office. It is the responsibility of the owner to notify visitors beforehand that a dog will be present in the office.
 
-d.  Enforcement.  Concerns about Dogs at Work should be directed to the Vice-President or Dean for the office or program where the dog owner works.  Dog complaints may also be sent to the Department of Public Safety. Violation of any of the Conduct Requirements is a basis for terminating the registration of a dog. Failure to comply with the Conduct Requirements may result in fines, in addition to termination of registration, and repeated violations may be subject to additional sanctions.
+### Enforcement
+
+a. If possible, concerns about Dogs at Work should first be directed to the Vice-President or Dean for the office or program where the dog owner works. Otherwise, all other concerns should be sent to [gc@middlebury.edu](mailto:gc@middlebury.edu) for further handling.
+
+b. The Department of Public Safety should only be contacted in emergencies or serious incidents involving a dog, such as a dog bite.
+
+c. Violation of any of the Conduct Requirements is a basis for terminating the registration of a dog. Failure to comply with the Conduct Requirements may result in fines, in addition to termination of registration, and repeated violations may be subject to additional sanctions.
 
 Any questions about this policy may contact the Office of General Counsel & Risk Management at [gc@middlebury.edu](mailto:gc@middlebury.edu).
