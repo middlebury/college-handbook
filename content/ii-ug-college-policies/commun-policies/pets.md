@@ -5,7 +5,7 @@ date: 2021-05-01
 ---
 Pet Policy and Requirements for “Dogs at Work”
 
-1\. Pets are not allowed in Middlebury buildings including residence halls. Service and assistance animals are covered by the [Service & Assistance Animal Policy](/pages/i-policies-for-all/non-discrim-policies/svc-assist-animals). Exceptions for "dogs at work" are described below.
+1\. Pets are not allowed in Middlebury buildings including residence and dining halls. Service and assistance animals are covered by the [Service & Assistance Animal Policy](/pages/i-policies-for-all/non-discrim-policies/svc-assist-animals). Exceptions for "dogs at work" are described below.
 
 Animals visiting campus grounds shall be on a leash at all times. Animals may not be left unattended or tied to any objects (e.g., structures, trees, or vehicles). All damages caused by an animal are the responsibility of the owner or guardian of the animal at the time of the damage; repairs will be billed accordingly.
 
@@ -31,7 +31,7 @@ a. The dog owner must first obtain permission from their supervisor/department c
 
 b. The dog owner must complete Part II of the registration form and email a scanned copy of the completed form (Parts I and II), plus a digital photograph of their dog, to the Office of General Counsel & Risk Management at [vprisk@middlebury.edu](mailto:vprisk@middlebury.edu) (please write “Dog Registration” in the subject line). Note that the registration process requires that your dog have a current dog license in the owner’s hometown, and that the dog tag or town dog license number be provided to the Office of General Counsel & Risk Management. No dog may be permitted on campus that is not fully vaccinated and current on all vaccinations.
 
-c. Once final approval is granted by the Office of General Counsel & Risk Management and a sign to hang on your door has been received, only then may the dog be brought to your office. If you have not received notification of final approval from the Office of General Counsel & Risk Management, your dog has not yet been approved to come to work. 
+c. Once final approval is granted by the Office of General Counsel & Risk Management, and a sign to hang on your door has been received, only then may the dog be brought to your office. If you have not received notification of final approval from the Office of General Counsel & Risk Management, your dog has not yet been approved to come to work. 
 
 d. When the dog is on campus, the faculty or staff member is responsible for ensuring that the Conduct Requirements spelled out below are followed.
 
