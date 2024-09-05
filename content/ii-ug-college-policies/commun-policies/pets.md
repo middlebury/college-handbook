@@ -47,6 +47,6 @@ d. When the dog is on campus, the faculty or staff member is responsible for ens
 *   Custodians will not clean offices where dogs are registered, regardless of how often the dog is present in the office. Owners are responsible for cleaning their own offices.
 *   Owners must make alternate arrangements to meet with students, co-workers, visitors and/or vendors who are allergic to or uncomfortable when dogs are present in the office. It is the responsibility of the owner to notify visitors beforehand that a dog will be present in the office.
 
-d.  Enforcement.  Concerns about Dogs at Work should be directed to the Vice-President or Dean for the office or program where the dog owner works.  Violation of any of the Conduct Requirements is a basis for terminating the registration of a dog.  Failure to comply with the Conduct Requirements may result in fines, in addition to termination of registration, and repeated violations may be subject to additional sanctions.
+d.  Enforcement.  Concerns about Dogs at Work should be directed to the Vice-President or Dean for the office or program where the dog owner works.  Violation of any of the Conduct Requirements is a basis for terminating the registration of a dog. Failure to comply with the Conduct Requirements may result in fines, in addition to termination of registration, and repeated violations may be subject to additional sanctions.
 
 Any questions about this policy may contact the Office of General Counsel & Risk Management at [gc@middlebury.edu](mailto:gc@middlebury.edu).
