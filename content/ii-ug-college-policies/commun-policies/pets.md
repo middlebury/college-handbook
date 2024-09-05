@@ -42,8 +42,10 @@ d. When the dog is on campus, the faculty or staff member is responsible for ens
 *   Owners must post a sign on the office door when a dog is present. (A sign will be sent in campus mail once the dog registration has received final approval.)
 *   Owners must ensure that dogs are appropriately cleaned and groomed while on campus.
 *   Owners are required to clean up after their dogs, both inside and outside the office, and building.
-*   Owners must keep dogs on leashes at all times when not in their office. Owners are strongly encouraged to crate their dogs if/when they leave them unattended in their office.  Dogs may not be off-leash outside of the owner’s office, including in public areas of a building. Dogs running freely through hallways and buildings is a direct violation of this policy.
-*   Owners may not bring dogs to dining halls or other indoor food operation areas.
+*   Owners must keep dogs on leashes at all times when not in their office. Dogs may not be off-leash outside of the owner’s office, including in public areas of a building. Dogs running freely through hallways and buildings is a direct violation of this policy.
+*   Registered dogs may not visit the offices of other registered dogs.
+*   Owners are strongly encouraged to crate their dogs if/when they leave them unattended in their office.
+*   Owners may not bring dogs to dining halls or other indoor food operation areas. 
 *   Owners will be financially responsible for any damage or cleaning costs resulting from the dog.
 *   Custodians will not clean offices where dogs are registered, regardless of how often the dog is present in the office. Owners are responsible for cleaning their own offices.
 *   Owners must make alternate arrangements to meet with students, co-workers, visitors and/or vendors who are allergic to or uncomfortable when dogs are present in the office. It is the responsibility of the owner to notify visitors beforehand that a dog will be present in the office.
