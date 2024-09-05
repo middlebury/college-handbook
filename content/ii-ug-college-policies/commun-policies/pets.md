@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/commun-policies/pets
 title: A.6. Pet Policy
-date: 2021-05-01
+date: 2024-09-05
 ---
 Pet Policy and Requirements for “Dogs at Work”
 
@@ -38,21 +38,22 @@ d. When the dog is on campus, the faculty or staff member is responsible for ens
 
 ### Conduct Requirements for Dogs At Work Program
 
-*   Owners must register and receive approval of their dog with the Office of General Counsel & Risk Management before bringing them in their office.
-*   Owners must post a sign on the office door when a dog is present. (A sign will be sent in campus mail once the dog registration has received final approval.)
-*   Owners must keep dogs on leashes at all times when not in their office. Dogs may not be off-leash outside of the owner’s office, including in public areas of a building. **Dogs running freely through hallways and buildings is a direct violation of this policy.**
-*   Registered dogs may not visit the offices of other registered dogs or be brought to conference rooms.
-*   Owners are strongly encouraged to crate their dogs if/when they leave them unattended in their office.
-*   Owners may not bring dogs to dining halls or other indoor food operation areas. 
+*   Owners must register and receive approval of their dog with the Office of General Counsel & Risk Management before bringing them to work or in their office.
+*   Owners must post a sign on the office door when their registered dog is present. (A sign will be sent in campus mail once the dog registration has received final approval.)
+*   Dogs must remain with owners at all times. Dogs running freely through hallways and buildings is a direct violation of this policy and grounds for immediate termination of registration.
+*   Owners must keep dogs on leashes at all times when not in their office. Dogs may not be off-leash outside of the owner’s office, including in public areas inside or outside a building. 
+*   Owners may not bring dogs to meeting spaces or conference rooms.
+*   Owners are advised not to leave their dogs alone in their offices. If they must do so, owners are strongly encouraged to crate their dogs.
+*   Owners may not bring dogs to dining halls and other food operation areas or indoor eating venues. 
 *   Owners must ensure that dogs are appropriately cleaned and groomed while on campus.
 *   Owners are required to clean up after their dogs, both inside and outside the office, and building.
 *   Owners will be financially responsible for any damage or cleaning costs resulting from the dog.
-*   Custodians will not clean offices where dogs are registered, regardless of how often the dog is present in the office. Owners are responsible for cleaning their own offices.
+*   Owners are responsible for cleaning their own offices. Custodians will not clean offices where dogs are registered, regardless of how often the dog is present in the office. 
 *   Owners must make alternate arrangements to meet with students, co-workers, visitors and/or vendors who are allergic to or uncomfortable when dogs are present in the office. It is the responsibility of the owner to notify visitors beforehand that a dog will be present in the office.
 
 ### Enforcement
 
-a. If possible, concerns about Dogs at Work should first be directed to the Vice-President or Dean for the office or program where the dog owner works. Otherwise, all other concerns should be sent to [gc@middlebury.edu](mailto:gc@middlebury.edu) for further handling.
+a. Concerns about Dogs at Work should first be directed to the Vice-President or Dean for the office or program where the dog owner works, if possible. Otherwise, all other concerns should be sent to [gc@middlebury.edu](mailto:gc@middlebury.edu) for further handling.
 
 b. The Department of Public Safety should only be contacted in emergencies or serious incidents involving a dog, such as a dog bite.
 
