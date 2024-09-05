@@ -37,7 +37,7 @@ d. When the dog is on campus, the faculty or staff member is responsible for ens
 
 **Conduct Requirements for Dogs At Work Program**
 
-*   Owners must register any participating dog with the Risk Office.
+*   Owners must register any participating dog with the Office of General Counsel & Risk Management.
 *   Owners must post a sign on the office door when a dog is present. (A sign will be sent in campus mail once the dog registration has received final approval.)
 *   Owners must ensure that dogs are appropriately cleaned and groomed while on campus.
 *   Owners are required to clean up after their dogs, both inside and outside the office, and building.
