@@ -17,7 +17,7 @@ Middlebury employees on the College campus in Vermont may bring their dogs to wo
 
 **Dogs May Not Be Registered In These Buildings (this list is subject to change at any time)**
 
-*   Peterson Family Athletic Complex
+*   Peterson Family Athletic Complex (exceptions may be made for specific locations)
 *   McCardell Bicentennial Hall (dogs are not allowed in this building at any time)
 *   The Marble Works
 *   Emma Willard House
