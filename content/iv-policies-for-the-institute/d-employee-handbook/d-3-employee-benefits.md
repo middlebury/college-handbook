@@ -115,7 +115,7 @@ Employees may use CTO hours to provide a cushion for incapacitation due to illne
 
 Sick leave reserve is not vested and is not payable upon separation of employment. If an employee is absent three consecutive days due to illness or injury, medical evidence of her/his condition may be required before the Institute honors any sick leave reserve usage.
 
-At retirement, as defined in the College's Retiree Benefits policy, accumulated sick leave reserve or faculty leave reserve will convert to an employer contribution to a Health Reimbursement Account (HRA).. For full details see the HRA Summary Plan Description (visit the Retiring from Middlebury website or contact GMHEC Benefits Team). 
+At retirement, as defined in the College's Retiree Benefits policy, accumulated sick leave reserve or faculty leave reserve will convert to an employer contribution to a Health Reimbursement Account (HRA). For full details see the HRA Summary Plan Description (visit the Retiring from Middlebury website or contact GMHEC Benefits Team). 
 
 **D.3.f. Medical Leave Assistance Fund (MLAF)**
 
