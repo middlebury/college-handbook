@@ -1,7 +1,7 @@
 ---
 slug: /pages/iv-policies-for-the-institute/d-employee-handbook/d-3-employee-benefits
 title: D.3. Employee Benefits
-date: 2024-07-31
+date: 2024-09-06
 ---
 In addition to the general description of benefits provided below, employees should consult the summary plan descriptions provided for each specific plan. All such benefits are subject to change, with or without advance notice, at the discretion of the Institute.
 
