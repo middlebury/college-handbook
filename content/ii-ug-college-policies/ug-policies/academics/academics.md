@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics
 title: B.1. Academic Policies
-date: 2021-05-01
+date: 09/10/2024
 ---
 Middlebury’s model of immersive learning for the undergraduate degree is grounded in a common experience of full-time, residential, in-person academic study, completed over the course of four years and eight consecutive semesters and four winter terms.   In keeping with a liberal arts and sciences philosophy, Middlebury college students are expected to be fully engaged members of an intellectual community, exploring a range of disciplines through our distribution requirements, and making connections among them.  Our liberal arts foundation emboldens students to engage in difficult discussions with respect, appreciate difference, commonality, and connectedness across and within cultures and societies around the world, helping Middlebury realize its vision of a robust and inclusive public sphere.  The curriculum is designed in such a way that all students carry a similar course load, rigorously engage a field of study (or major), and make continuous, dedicated progress toward the degree (in accordance with Middlebury’s academic policies and expectations).
 
