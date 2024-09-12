@@ -44,7 +44,8 @@ d. When the dog is on campus, the faculty or staff member is responsible for ens
 *   Owners must keep dogs on leashes at all times when not in their office. Dogs may not be off-leash outside of the owner’s office, including in public areas inside or outside a building. 
 *   Owners may not bring dogs to meeting spaces or conference rooms.
 *   Owners are advised not to leave their dogs alone in their offices. If they must do so, owners are strongly encouraged to crate their dogs.
-*   Owners may not bring dogs to dining halls and other food operation areas or indoor eating venues. 
+*   Owners may not bring dogs to dining halls and other food operation areas or indoor eating venues.
+*   Dogs may only be brought to work during standard operating hours and are not allowed in any Middlebury building overnight.
 *   Owners must ensure that dogs are appropriately cleaned and groomed while on campus.
 *   Owners are required to clean up after their dogs, both inside and outside the office, and building.
 *   Owners will be financially responsible for any damage or cleaning costs resulting from the dog.
