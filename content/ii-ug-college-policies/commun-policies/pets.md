@@ -26,7 +26,7 @@ Middlebury employees on the College campus in Vermont may bring their dogs to wo
 *   Davis Library (exceptions may be made for specific locations)
 *   Bread Loaf campus (exceptions may be made for specific locations)
 
-Faculty and staff with private offices or faculty and staff who share an office may bring their registered dogs to work during business hours only, so long as they follow these steps for approval:
+Faculty and staff with private offices or faculty and staff who share an office may bring their registered dogs to work during [standard business hours](https://handbook.middlebury.edu/pages/ii-ug-college-policies/employee/employment/scheduling-hours-operation/) only, so long as they follow these steps for approval:
 
 a. The dog owner must first obtain permission from their supervisor/department chair/VP by completing Part I of the [approval and registration form](/assets/dog-at-work-registration-form_2022.pdf). To be eligible for approval, employees must have a private office. With the approval of a supervisor/department chair/VP, two employees who share a single office may be permitted to register their dog. However, only one dog is permitted in a single office at any given time.
 
@@ -44,7 +44,8 @@ d. When the dog is on campus, the faculty or staff member is responsible for ens
 *   Owners must keep dogs on leashes at all times when not in their office. Dogs may not be off-leash outside of the owner’s office, including in public areas inside or outside a building. 
 *   Owners may not bring dogs to meeting spaces or conference rooms.
 *   Owners are advised not to leave their dogs alone in their offices. If they must do so, owners are strongly encouraged to crate their dogs.
-*   Owners may not bring dogs to dining halls and other food operation areas or indoor eating venues. 
+*   Owners may not bring dogs to dining halls and other food operation areas or indoor eating venues.
+*   Dogs may only be brought to work during standard operating hours and are not allowed in any Middlebury building overnight.
 *   Owners must ensure that dogs are appropriately cleaned and groomed while on campus.
 *   Owners are required to clean up after their dogs, both inside and outside the office, and building.
 *   Owners will be financially responsible for any damage or cleaning costs resulting from the dog.
