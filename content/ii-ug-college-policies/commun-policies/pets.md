@@ -19,12 +19,12 @@ Middlebury employees on the College campus in Vermont may bring their dogs to wo
 
 **Dogs May Not Be Registered In These Buildings (this list is subject to change at any time)**
 
-*   Peterson Family Athletic Complex (exceptions may be made for specific locations)
-*   McCardell Bicentennial Hall (dogs are not allowed in this building at any time)
-*   The Marble Works
 *   Emma Willard House
+*   McCardell Bicentennial Hall (dogs are not allowed in this building at any time)
+*   The Marble Works (dogs are not allowed in this building at any time)
+*   700 Exchange Street (dogs are not allowed in this building at any time)
+*   Peterson Family Athletic Complex (exceptions may be made for specific locations)
 *   The Mahaney Center for the Arts (exceptions may be made for specific locations)
-*   700 Exchange Street (exceptions may be made for specific locations)
 *   Davis Library (exceptions may be made for specific locations)
 *   Bread Loaf campus (exceptions may be made for specific locations)
 
