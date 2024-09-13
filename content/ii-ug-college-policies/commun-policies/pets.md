@@ -43,10 +43,10 @@ d. When the dog is on campus, the faculty or staff member is responsible for ens
 *   Owners must register and receive approval of their dog with the Office of General Counsel & Risk Management before bringing them to work or in their office.
 *   Owners must post a sign on the office door when their registered dog is present. (A sign will be sent in campus mail once the dog registration has received final approval.)
 *   Dogs must remain with owners at all times. Dogs running freely through hallways and buildings is a direct violation of this policy and grounds for immediate termination of registration.
-*   Owners must keep dogs on leashes at all times when not in their office. Dogs may not be off-leash outside of the owner’s office, including in public areas inside or outside a building. 
-*   Owners may not bring dogs to meeting spaces or conference rooms.
-*   Owners are advised not to leave their dogs alone in their offices. If they must do so, owners are strongly encouraged to crate their dogs.
+*   Owners must keep dogs on leashes at all times when not in their office. Dogs may not be off leash outside of the owner’s office, including in public areas inside or outside a building. 
+*   Owners may not bring dogs to classrooms, meeting spaces, conference rooms, or other public gathering spaces.
 *   Owners may not bring dogs to dining halls and other food operation areas or indoor eating venues.
+*   Owners are advised not to leave their dogs alone in their offices. If they must do so, owners are strongly encouraged to crate their dogs.
 *   Dogs may only be brought to work during standard operating hours and are not allowed in any Middlebury building overnight.
 *   Owners must ensure that dogs are appropriately cleaned and groomed while on campus.
 *   Owners are required to clean up after their dogs, both inside and outside the office, and building.
