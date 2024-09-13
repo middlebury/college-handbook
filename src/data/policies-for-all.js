@@ -192,6 +192,11 @@ export const policiesForAllNodes = [
             label: "E.2. Access to Student Data for Research",
             className: "student-data-for-research",
           },
+          {
+            value: "i-policies-for-all/records/student-location-determination-policy",
+            label: "E.3 Student Location Determination Policy",
+            className: "student-location-determination-policy",
+          },
         ],
       },
       {
