@@ -3,8 +3,7 @@ slug: /pages/i-policies-for-all/records/student-location-determination-policy
 title: E.3 Student Location Determination Policy
 date: 2024-09-13
 ---
-**Policy Statement**
-
+**Policy Statement**  
 U.S. federal and state regulations require institutions of higher education to make a determination regarding the State in which a prospective or current student is located, which must be applied consistently to all students. [34 CFR 600.9(c)(2)(i)](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-VI/part-600/subpart-A/section-600.9#p-600.9\(c\)\(2\)\(i\)). Further, institutions are required to have a policy to determine the location of a student for the purpose of sending required licensure disclosures. [34 CFR 668.43(c)(3)(ii)](https://www.ecfr.gov/current/title-34/subtitle-B/chapter-VI/part-668/subpart-D/section-668.43)
 
 **Responsible Senior Administrator**  
