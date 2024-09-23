@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/appropriate-use/d-6-whistleblower-policy
-date: 2021-05-01
 title: D.6. Whistleblower Policy
+date: 2021-05-01
 ---
 #### **Policy Statement**
 
@@ -23,7 +23,7 @@ The college has also created an anonymous reporting mechanism.  The establishme
 
 Consequently, the College has contracted with a third-party report recipient, called EthicsPoint, who will accept and process anonymous reports.  Reports may be filed concerning matters involving various financial risks, environmental and safety matters as well as data privacy, conflict of interest and other issues.
 
-If an individual wishes to make an anonymous report, instructions regarding the types of issues that may be reported anonymously and the procedures for making such a report may be found online at **[www.middleburycollege.ethicspoint.com](https://www.middleburycollege.ethicspoint.com)** or call the College hotline to report improper activities at 1-866-593-6965.  The hotline is independently operated to help ensure confidentiality.
+If an individual wishes to make an anonymous report, instructions regarding the types of issues that may be reported anonymously and the procedures for making such a report may be found online at [**www.middleburycollege.ethicspoint.com**](https://www.middleburycollege.ethicspoint.com) or call the College hotline to report improper activities at 1-866-593-6965.  The hotline is independently operated to help ensure confidentiality.
 
 This policy does not fundamentally change the responsibility for conducting investigations.  Individual employee grievances and complaints regarding terms and conditions of employment will continue to be reviewed under the applicable academic and staff personnel policies.  The College retains the right to close a report within 30 days if insufficient information has been provided.
 
@@ -35,14 +35,18 @@ Any charges of faculty misconduct brought as a result of an investigation under 
 
 Consultation with the College’s general counsel is required before negotiating or entering into any restitution agreement resulting from the findings of an investigation.
 
+#### Test test test
+
+test test test
+
 #### **Contacts**
 
 For questions about the policy, contact:
 
-Enterprise Risk Management\
-Old Chapel\
-Middlebury, VT 05753\
-Phone: 802-443-5001\
+Enterprise Risk Management  
+Old Chapel  
+Middlebury, VT 05753  
+Phone: 802-443-5001  
 [vprisk@middlebury.edu](mailto:vprisk@middlebury.edu)
 
 #### **Related Documents / Policies**
