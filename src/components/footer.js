@@ -7,7 +7,7 @@ const Footer = () => {
         Additional navigation
       </h2>
       <div className="container">
-        <div className="row">
+        {/* <div className="row"> */}
           <div className="col-lg-3">
             <div className="mb-4 mb-lg-0">
               <a href="https://www.middlebury.edu">
@@ -82,7 +82,7 @@ const Footer = () => {
               </li>
             </ul>
           </div>
-        </div>
+        {/* </div> */}
       </div>
     </nav>
   );
