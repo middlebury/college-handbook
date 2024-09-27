@@ -51,7 +51,17 @@ Students are expected to be considerate of others with respect to noise in the r
 
 Students are expected to be responsible for their personal valuables and belongings. Middlebury does not accept responsibility for loss of money or other personal property or damage thereto which may occur in residence halls and elsewhere on campus. Students may wish to insure their property against such loss.
 
-Students may not remove Middlebury-provided furniture from their bedroom for any reason, including but not limited to bedframes, mattresses, dressers, bookcases, chairs, desks and wardrobes. Removal of any College furniture without proper permission will result in a fine. Limited medical or ADA exceptions may be granted with appropriate approval. For a list of furniture that are not allowed on campus, please read [here](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies/apprv-furniture).
+Students may not remove Middlebury-provided furniture from their bedroom for any reason, including but not limited to bedframes, mattresses, dressers, bookcases, chairs, desks and wardrobes. It is not permitted to move furniture designated for indoor use outdoors to porches, balconies, or lawns. This includes but is not limited to: couches, armchairs, beds, or other upholstered items. Removal of any College furniture without proper permission will result in a fine. Limited medical or ADA exceptions may be granted with appropriate approval. For a list of furniture that are not allowed on campus, please read [here](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies/apprv-furniture).
+
+Pools, hot tubs, saunas or soaking tubs are prohibited inside and outside of campus buildings. Trampolines of any size are not permitted. 
+
+To maintain a safe living environment for all students, maximum room occupancy at any time has been established for all room types as the number of two guests per assigned resident plus the total number of residents of the space. For example, a four-person suite with all residents present can have up to eight additional people in their space. Therefore, the total number of people allowed in the suite at once is twelve.
+
+Students are prohibited from engaging in sporting activities, including but not limited to using dartboards, skateboards, bikes, roller skates, scooters, or sleds, and throwing/hitting any type of ball or frisbee in hallways, lounges, common areas, basements, and private spaces of the residence halls. 
+
+**Camping/Overnight Occupancy of Unauthorized Locations**
+
+Students are expected to reside in designated residential spaces overnight. Overnight occupancy of any non-residential space, inside or outside, is prohibited. Camping, defined as the setting up, construction, or overnight occupancy of tents or any other unauthorized structures, or overnight occupancy without tents or structures, of any unauthorized outdoor campus location, without prior written approval of Events Management. See Handbook policy [I.C.9 Camping/Overnight Occupancy of Unauthorized Locations](https://handbook.middlebury.edu/pages/i-policies-for-all/health-safety/camping-overnight-occupancy/) for more information.
 
 #### **(4) Use of Residential Spaces** {#use}
 
