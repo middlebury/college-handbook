@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/grades-transcripts
 title: B.1.k. Grades and Transcripts
-date: 2021-05-01
+date: 08/30/2024
 ---
 #### **1\. Grading System**
 
@@ -85,11 +85,15 @@ When a course would have relatively little value unless followed by a second se
 
 #### **6\. Incomplete Grades**
 
-Incompletes are issued only in unanticipated, exceptional circumstances that arise near the end of the study period and when a student has been meeting the majority of course expectations. Incompletes are granted by the Class Dean, after consultation with the faculty member involved. In order for the dean to grant an incomplete, the faculty member will provide the dean and the Office of the Registrar with a provisional grade that would be assigned if the remaining work in the course were not completed. When the faculty member submits grades for the course, they will submit an incomplete for the student.
+Incompletes are issued only in unanticipated, exceptional circumstances that arise near the end of the study period and when a student has been meeting the majority of course expectations. Incompletes are granted by the Class Dean, after consultation with the faculty member involved and ordinarily may not be granted after the last day of the final exam period. 
 
-The Dean will share the provisional grade with the student and will set the deadline for the submission of all remaining work, which will ordinarily be before the deadline for adding classes in the following Fall or Spring semester. The deadline may be no later than the deadline to drop classes in the following semester. Incompletes in winter term courses will follow the same procedures: the deadline for the submission of all remaining work may be no later than the deadline to drop classes in the Spring semester. It is the student's responsibility to ensure that all work is completed by the deadline.  Should the faculty member be unavailable to evaluate the remaining work, it will be the responsibility of the department chair or program director, or designee, to complete the evaluation of submitted work. If the course is not completed by the deadline, the provisional grade based on the work that has been completed will be recorded by the Office of the Registrar. 
+In order for the dean to grant an incomplete, the faculty member will provide the dean and the Office of the Registrar with a provisional grade that would be assigned if the remaining work in the course were not completed. When the faculty member submits grades for the course, they will submit an incomplete for the student.
 
-If the Office of the Registrar has not received either a provisional or a final grade by the deadline, the grade will ordinarily be recorded as an F. The Office of the Registrar will notify the student that the grade has been recorded. Students seeking incompletes based on a disability or medical condition should be directed to the Disability Resource Center (DRC) Office. When the DRC staff determines that an incomplete is a reasonable accommodation for a disability, the dean will be notified and will grant the incomplete, which should ordinarily follow the procedures described above, unless the DRC Office determines a modification is necessary.
+The Dean will share the provisional grade with the student and will set the deadline for the submission of all remaining work, which will ordinarily be before the deadline for adding classes in the following Fall or Spring semester. The deadline may be no later than the deadline to drop classes in the following semester. Incompletes in winter term courses will follow the same procedures: the deadline for the submission of all remaining work may be no later than the deadline to drop classes in the Spring semester. It is the student's responsibility to ensure that all work is completed by the deadline. Should the faculty member be unavailable to evaluate the remaining work, it will be the responsibility of the department chair or program director, or designee, to complete the evaluation of submitted work. If the course is not completed by the deadline, the provisional grade based on the work that has been completed will be recorded by the Office of the Registrar. 
+
+If the Office of the Registrar has not received either a provisional or a final grade by the deadline, the grade will ordinarily be recorded as an F. The Office of the Registrar will notify the student that the grade has been recorded. 
+
+Students seeking incompletes based on a disability or medical condition should be directed to the Disability Resource Center (DRC) Office. When DRC staff determine that an incomplete is a reasonable, prospective accommodation for a documented disability, and the dean determines that the student meets the other criteria for an Incomplete (the student has been meeting the majority of course expectations prior to onset of the medical condition) the dean will grant the incomplete following the procedures described above.
 
 #### **7\. Change in Grades**
 
@@ -149,5 +153,3 @@ Website: [https://go.middlebury.edu/registrar](https://go.middlebury.edu/regist
 Phone: 802.443.5770
 
 Currently enrolled students should contact this office if they have questions about their academic transcripts or procedures regarding registration, dropping or adding courses, or transfer of credit.
-
-_rev. 6/24/21_
