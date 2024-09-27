@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/grades-transcripts
 title: B.1.k. Grades and Transcripts
-date: 2021-05-01
+date: 08/30/2024
 ---
 #### **1\. Grading System**
 
@@ -153,5 +153,3 @@ Website: [https://go.middlebury.edu/registrar](https://go.middlebury.edu/regist
 Phone: 802.443.5770
 
 Currently enrolled students should contact this office if they have questions about their academic transcripts or procedures regarding registration, dropping or adding courses, or transfer of credit.
-
-_rev. 6/24/21_
