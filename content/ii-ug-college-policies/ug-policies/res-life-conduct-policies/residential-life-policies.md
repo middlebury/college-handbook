@@ -1,10 +1,8 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies
 title: B.2.f. Residential Life Policies
-date: 2021-05-01
+date: 08/30/2024
 ---
-_Last updated August 12, 2017_
-
 1.       [Fundamental Purposes](#fundamental)
 
 2.       [Housing Options on Campus](#housing)
@@ -27,25 +25,25 @@ d.       [Housing Regulations & Resources](#housing)
 
 #### **(1) Fundamental Purposes** {#fundamental}
 
-Middlebury College’s [Community Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) speak directly to the goals and values that underlie all of Middlebury’s residential life policies: safety; respect for self, others and our shared environment; individual responsibility; and fostering a diverse and inclusive community committed to civility, open-mindedness and finding common ground. Enrolled students are required to live on campus for all 8 eight semesters and participate in the dining plan.  A small number of upper class students may be permitted to live off-campus as authorized by the office of the Dean of Students (DOS).  The procedure to request permission is [below](#requesting). The College assigns housing and reserves the right to change and alter housing assignments to better serve compelling community interests.
+Middlebury College’s [Community Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) speak directly to the goals and values that underlie all of Middlebury’s residential life policies: safety; respect for self, others and our shared environment; individual responsibility; and fostering a diverse and inclusive community committed to civility, open-mindedness and finding common ground. Enrolled students are required to live on campus for all 8 eight semesters and participate in the dining plan.  A small number of upper class students may be permitted to live off-campus as authorized by the office of the Residential Life Dean of Students (DOS).  The procedure to request permission is [below](#requesting). The College assigns housing and reserves the right to change and alter housing assignments to better serve compelling community interests.
 
 #### **(2) Housing options on Campus** {#housing}
 
-At Middlebury College, students are offered more than 60 on-campus buildings for student housing. All students are assigned to one of five [Commons](https://www.middlebury.edu/student-life/community-living/residential-life/commons-system) for the first two years. Juniors and seniors can choose from other housing options available across campus while remaining a member of their original Commons. Middlebury maintains houses in the belief that they can be a positive addition to the larger campus community and that they provide students with valuable opportunities for assuming responsibility for activities and programs that support the life of the Middlebury community.
+At Middlebury College, students are offered more than 60 on-campus buildings for student housing. As a residential college, Middlebury requires that students live on campus until they graduate. A limited number of seniors are released to live off campus for their senior year. First-Year and sophomore students live in traditional residence halls, typically in double rooms with shared community bathrooms. Junior and senior students are able to choose from a variety of housing options, including traditional singles and doubles, and single and double rooms within shared suites, small houses, and a variety of themed communities.
 
-In addition to First year and Sophomore housing with the Commons, the College offers Academic and Special Interest Houses that students can join on campus for students interested in pursuing common academic, co-curricular, and special interests. Oversight of these houses is the shared responsibility of the Office of the Dean of Students and the academic (in the case of Academic Interest houses) or administrative (in the case of special interest houses) department sponsoring the house. Rising sophomores, juniors, and seniors are eligible to reside in Academic Interest Houses. Students can choose from the other housing options in their junior and senior year.
+In addition to class year housing, the College also offers Academic, Special Interest, and Social Houses that students can join if they are on campus to pursue common academic, co-curricular, and special interests. Oversight of these houses is the shared responsibility of the Office of the Dean of Students and the academic (in the case of Academic Interest houses) or administrative (in the case of special interest and social houses) department sponsoring the house. Rising sophomores, juniors, and seniors are eligible to reside in Academic, Special Interest and Social Houses.
 
-More information on joining these houses and the Room Draw process can be found at: [https://www.middlebury.edu/student-life/community-living/housing-information](https://www.middlebury.edu/student-life/community-living/housing-information)
+More information on housing options and housing selection processes can be found at: [https://www.middlebury.edu/residential-life/housing-overview](https://www.middlebury.edu/residential-life/housing-overview)
 
 Middlebury reserves the right to reassign, restrict, and, suspend student housing where that decision will serve a compelling community interest, or in instances where a student has demonstrated a flagrant and/or repeated disregard for the principles set forth in the Handbook. This includes the restriction from participating in room draw and housing selection.
 
 #### **(3) Student Responsibilities and Expectations** {#student}
 
-Residential Living Spaces are provided for Middlebury students only.
+Residential Living Spaces are provided for actively enrolled Middlebury students only.
 
-Students are responsible for what takes place in their rooms and common suite space, including parties and other activities, whether or not they are present. It is the student’s responsibility to maintain clean and sanitary conditions in dormitory rooms, and must clear common space after personal use.
+Middlebury’s housing spaces provide students the opportunity for independent, adult living, within Middlebury’s residential campus, providing certain facilities to allow students to dine together, do their laundry, study and gather socially, etc.  It is the student’s responsibility to maintain their person, their belongings, and clean and sanitary conditions in dormitory rooms, and they must clear common spaces after personal use. Students are responsible for what takes place in their rooms and common suite space, including parties and other activities, whether or not they are present.
 
-Students cannot switch rooms and keys or change residences without proper permission.
+Students cannot switch rooms and room codes/keys or change residences without permission from the Office of Residential Life
 
 Students are not expected to be in areas that are not regular living spaces. They should not use areas outside of their living spaces for storage unless authorized. The list of spaces excluded from student use includes any roof or outer surface of any Middlebury building. Accessing a roof in any manner or climbing on a building is considered dangerous behavior and is prohibited; fines will be assessed.  Unauthorized access to prohibited areas of Middlebury buildings (e. g. basements, closets, crawlspaces and/or attics) will incur fines (see [section on fines and fees](https://www.middlebury.edu/offices/support/sfs/sfs-handbook)).
 
