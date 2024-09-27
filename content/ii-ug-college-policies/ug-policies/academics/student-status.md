@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/student-status
 title: B.1.l. Student Status
-date: 2021-05-01
+date: 08/30/2024
 ---
 Students may be admitted for undergraduate courses at Middlebury only if they do not already have a baccalaureate degree from Middlebury or any other institution.
 
