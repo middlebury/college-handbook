@@ -23,6 +23,8 @@ d.       [Housing Regulations & Resources](#housing)
 
 6.       [Termination of a House](#termination)
 
+7\.       [Graduating Winter Athlete Housing Policy](#winterathlete)
+
 #### **(1) Fundamental Purposes** {#fundamental}
 
 Middlebury College’s [Community Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) speak directly to the goals and values that underlie all of Middlebury’s residential life policies: safety; respect for self, others and our shared environment; individual responsibility; and fostering a diverse and inclusive community committed to civility, open-mindedness and finding common ground. Enrolled students are required to live on campus for all 8 eight semesters and participate in the dining plan.  A small number of upper class students may be permitted to live off-campus as authorized by the office of the Residential Life Dean of Students (DOS).  The procedure to request permission is [below](#requesting). The College assigns housing and reserves the right to change and alter housing assignments to better serve compelling community interests.
@@ -199,3 +201,15 @@ b. for disciplinary reasons if there are repeated violations by a house of Middl
 c.  on the grounds of loss of student support and extraordinary expense to Middlebury if room occupancy of the house by members fails to meet the capacity requirements established by the Office of the Dean of Students and the IHC or dorm damages for the house exceed normal wear and tear.
 
 d. The President may seek input from appropriate bodies, such as the Community Council. The President is not required to consult other offices or bodies, however, and reserves the right to take whatever action is necessary, including immediate, indefinite suspension of the house or termination of the house. Indefinite suspension shall mean suspension of the house as a social organization at Middlebury, including loss of the right of members to reside in the house.
+
+#### **(7) Graduating Winter Athlete Housing Policy** {#winterathlete}
+
+Winter season athletes graduating in February and eligible to continue competing with their teams for the remainder of their seasons are welcome to do so, subject to approval by the Director of Athletics.
+
+Since only enrolled students are permitted to live in Middlebury College housing, these athletes may not live on campus and are responsible for arranging their own off campus housing.
+
+Athletes for whom this poses a significant financial hardship may petition the Athletic Policy Committee for an exception to this policy. Petitions will only be considered if there is available housing as determined by Residential Life.
+
+Petitions, submitted by email to the committee chair, are due by November 1. Late petitions will not be accepted and there is no appeal of the committee’s decisions. In addition to the athlete’s level of financial need, their conduct history as recorded with the Office of Community Standards will be considered in rendering a decision.
+
+To preserve petitioners’ privacy, student members of the committee will not be present for deliberations and will not vote. Petitions are decided upon by simple majority of the non-student members of the committee. Approvals to remain on campus may require moving to temporary campus housing if the athlete’s fall or winter term room is needed for students enrolled in the spring term.
