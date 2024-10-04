@@ -32,11 +32,8 @@ Middlebury faculty, staff, and students may not claim or appear to represent the
 Related Policies and Documents:
 
 1.  [Demonstration Regulations](/pages/i-policies-for-all/health-safety/demonst-protests)
-
 2.  [Policy on Scheduling Middlebury Events](/pages/i-policies-for-all/appropriate-use/d-7-policy-on-scheduling-middlebury-space-for-events)
-
-3.  [Frequently Asked Questions about Open Expression](/assets/faq.pdf)
-
+3.  [Frequently Asked Questions about Open Expression](static/assets/faq-about-open-expression-10-4-2024.pdf)
 4.  [Open Expression Resources Page](/assets/resources.pdf)
 
 _Effective 11-21-19_
