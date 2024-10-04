@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/genl-principles/freedom-of-expression
 title: A.5. Policy on Open Expression
-date: 2021-05-01
+date: 10/04/2024
 ---
 Middlebury is a community of learners that dedicates itself to creating a world with a robust and inclusive public sphere, including on our campuses. A robust and inclusive public sphere is one where all voices can be heard and have the opportunity to contribute to the conversation. Middlebury’s mission is to prepare students to lead engaged, consequential, and creative lives, to contribute to their communities, and to address the world’s most challenging problems. This mission requires a learning environment where all community members practice engaging across difference, perspective taking, and critical thinking to expand their understanding of the range of attitudes, values, ideas, actions, issues, policies, and practices that exist on campus and in the world beyond. Learning occurs inside and outside the classroom, often involving public speech and action through which people affirm and enact their values.
 
