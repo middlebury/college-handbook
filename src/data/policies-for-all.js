@@ -209,6 +209,28 @@ export const policiesForAllNodes = [
         label: "G. Misconduct in Research and Other Scholarly Activities",
         className: "g-misconduct-in-research",
       },
+      {
+        value: "i-policies-for-all/h-information-technology",
+        label: "H. Information Technology",
+        className: "h-information-technology",
+        children: [
+          {
+            value: "i-policies-for-all/h-information-technology/h-1-info-tech-overview",
+            label: "H.1. Information Technology Overview",
+            className: "h-1-info-tech-overview"
+          },
+          {
+            value: "i-policies-for-all/h-information-technology/h-2-responsible-use-policy",
+            label: "H.2. Responsible Use Policy",
+            className: "h-2-responsible-use-policy"
+          },
+          {
+            value: "i-policies-for-all/h-information-technology/h-3-privacy-and-security-policy",
+            label: "H.3. Privacy and Security Policy",
+            className: "h-3-privacy-and-security-policy"
+          }
+        ]
+      }
     ],
   }
 ]
