@@ -1,7 +1,7 @@
 ---
 slug: /pages/vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-5-grades-credits-academic-policies/b-5-h-transfer-of-credit
-title: B.5.h. Transfer of Credit From Other Institutions
-date: 2024-08-23
+title: B.5.i. Transfer of Credit From Other Institutions
+date: 10/29/2024
 ---
 After being admitted to the Middlebury Institute Online, a student may petition the Dean (who will consult with the relevant Program Director) to consider courses taken elsewhere at accredited institutions for satisfaction of specific Institute degree requirements. Transfer credit is limited to a maximum of 25 percent of graduate degree requirements for courses requiring more than 30 credits. 
 
