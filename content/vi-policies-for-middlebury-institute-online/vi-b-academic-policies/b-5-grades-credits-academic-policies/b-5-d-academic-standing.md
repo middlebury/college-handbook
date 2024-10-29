@@ -1,7 +1,7 @@
 ---
 slug: /pages/vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-5-grades-credits-academic-policies/b-5-d-academic-standing
-title: B.5.d. Academic Standing
-date: 2024-08-23
+title: B.5.e. Academic Standing
+date: 10/29/2024
 ---
 A student’s academic standing is calculated at the end of each term. All students are required to maintain an overall 3.00 grade point average in all course work completed at the Middlebury Institute Online. 
 
