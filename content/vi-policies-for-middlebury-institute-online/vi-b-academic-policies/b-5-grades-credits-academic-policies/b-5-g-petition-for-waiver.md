@@ -1,7 +1,7 @@
 ---
 slug: /pages/vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-5-grades-credits-academic-policies/b-5-g-petition-for-waiver
-title: B.5.g. Petition for Waiver of Academic Requirements
-date: 2024-08-23
+title: B.5.h. Petition for Waiver of Academic Requirements
+date: 10/29/2024
 ---
 Students who wish to be considered for a waiver of any academic policy or requirement for any degree program should complete and submit a Petition for Waiver of Academic Regulations from the Records Office. 
 
