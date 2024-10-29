@@ -1,5 +1,5 @@
 ---
-slug: /pages/vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-5-grades-credits-academic-policies/b-5-h-transfer-of-credit
+slug: /pages/vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-5-grades-credits-academic-policies/b-5-i-transfer-of-credit
 title: B.5.i. Transfer of Credit From Other Institutions
 date: 10/29/2024
 ---

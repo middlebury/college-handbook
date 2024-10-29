@@ -1,5 +1,5 @@
 ---
-slug: /pages/vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-5-grades-credits-academic-policies/b-5-e-academic-probation
+slug: /pages/vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-5-grades-credits-academic-policies/b-5-f-academic-probation
 title: B.5.f. Academic Probation
 date: 10/29/2024
 ---

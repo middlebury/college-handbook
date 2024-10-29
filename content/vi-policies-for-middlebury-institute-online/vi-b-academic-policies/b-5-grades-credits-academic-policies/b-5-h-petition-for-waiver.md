@@ -1,5 +1,5 @@
 ---
-slug: /pages/vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-5-grades-credits-academic-policies/b-5-g-petition-for-waiver
+slug: /pages/vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-5-grades-credits-academic-policies/b-5-h-petition-for-waiver
 title: B.5.h. Petition for Waiver of Academic Requirements
 date: 10/29/2024
 ---

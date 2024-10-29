@@ -1,5 +1,5 @@
 ---
-slug: /pages/vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-5-grades-credits-academic-policies/b-5-i-graduation-with-honors
+slug: /pages/vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-5-grades-credits-academic-policies/b-5-j-graduation-with-honors
 title: B.5.j. Graduation with Honors
 date: 10/29/2024
 ---

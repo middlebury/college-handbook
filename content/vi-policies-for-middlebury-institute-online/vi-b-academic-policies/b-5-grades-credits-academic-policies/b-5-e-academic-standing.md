@@ -1,5 +1,5 @@
 ---
-slug: /pages/vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-5-grades-credits-academic-policies/b-5-d-academic-standing
+slug: /pages/vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-5-grades-credits-academic-policies/b-5-e-academic-standing
 title: B.5.e. Academic Standing
 date: 10/29/2024
 ---
