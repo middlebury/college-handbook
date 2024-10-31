@@ -15,7 +15,9 @@ Administrative offices open to the public are considered public spaces, and no a
 
 ### 2\. Exception for "Dogs at Work"
 
-Middlebury employees on the College campus in Vermont may bring their dogs to work in accordance with the requirements of this Policy, detailed below.  Dogs demonstrating any aggressive behavior will not be allowed on campus. Bringing a dog to work is a privilege and when other individuals’ health or participation are negatively impacted, this Policy places greater importance on the well-being and full participation of all members of our community than on the preference for bringing a dog to work. Employees may not register dogs that do not belong to them (e.g. friends' or family members' dogs).
+Middlebury employees on the College campus in Vermont may bring their dogs to work in accordance with the requirements of this Policy, detailed below. Dogs demonstrating any aggressive behavior will not be allowed on campus. Bringing a dog to work is a privilege and when other individuals’ health or participation are negatively impacted, this Policy places greater importance on the well-being and full participation of all members of our community than on the preference for bringing a dog to work. Employees may not register dogs that do not belong to them (e.g. friends' or family members' dogs).
+
+**Note:** Service dogs are not required to be registered under this policy. Please see the [Service Animal Policy](/pages/i-policies-for-all/non-discrim-policies/svc-assist-animals) for more information.
 
 **Dogs May Not Be Registered In These Buildings (this list is subject to change at any time)**
 
@@ -43,7 +45,7 @@ d. When the dog is on campus, the faculty or staff member is responsible for ens
 *   Owners must register and receive approval of their dog with the Office of General Counsel & Risk Management before bringing them to work or in their office.
 *   Owners must post a sign on the office door when their registered dog is present. (A sign will be sent in campus mail once the dog registration has received final approval.)
 *   Dogs must remain with owners at all times. Dogs running freely through hallways and buildings is a direct violation of this policy and grounds for immediate termination of registration.
-*   Owners must keep dogs on leashes at all times when not in their office. Dogs may not be off leash outside of the owner’s office, including in public areas inside or outside a building. 
+*   Owners must keep dogs on leashes at all times when not in their office. Dogs may not be off leash outside of the owner’s office, including in public areas inside or outside a building.
 *   Owners may not bring dogs to classrooms, meeting spaces, conference rooms, or other public gathering spaces.
 *   Owners may not bring dogs to dining halls and other food operation areas or indoor eating venues.
 *   Owners are advised not to leave their dogs alone in their offices. If they must do so, owners are strongly encouraged to crate their dogs.
@@ -51,7 +53,7 @@ d. When the dog is on campus, the faculty or staff member is responsible for ens
 *   Owners must ensure that dogs are appropriately cleaned and groomed while on campus.
 *   Owners are required to clean up after their dogs, both inside and outside the office, and building.
 *   Owners will be financially responsible for any damage or cleaning costs resulting from the dog.
-*   Owners are responsible for cleaning their own offices. Custodians will not clean offices where dogs are registered, regardless of how often the dog is present in the office. 
+*   Owners are responsible for cleaning their own offices. Custodians will not clean offices where dogs are registered, regardless of how often the dog is present in the office.
 *   Owners must make alternate arrangements to meet with students, co-workers, visitors and/or vendors who are allergic to or uncomfortable when dogs are present in the office. It is the responsibility of the owner to notify visitors beforehand that a dog will be present in the office.
 
 ### 3\. Enforcement
