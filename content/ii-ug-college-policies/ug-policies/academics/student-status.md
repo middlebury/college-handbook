@@ -31,9 +31,9 @@ The following policies will govern readmission for students who have been approv
 
 i. Such students will be readmitted for fall or spring semester only. They will not be readmitted for summer study or for winter term, regardless of the plan for housing.
 
-ii. The deadline for guaranteed readmission for the fall semester is June 15. After this date, students who wish to be readmitted will be placed on a waiting list. Students on the waiting list will be notified on September 1 if they have been readmitted for the fall.
+ii. The deadline for guaranteed readmission for the fall semester is June 1. After this date, students who wish to be readmitted will be placed on a waiting list. Students on the waiting list will be notified on September 1 if they have been readmitted for the fall.
 
-iii. The deadline for guaranteed readmission for the spring semester is November 15. After this date, students who wish to be readmitted will be placed on a waiting list. Students on the waiting list will be notified on January 15 if they have been readmitted for the spring.
+iii. The deadline for guaranteed readmission for the spring semester is October 15. After this date, students who wish to be readmitted will be placed on a waiting list. Students on the waiting list will be notified on January 15 if they have been readmitted for the spring.
 
 iv. There will be no readmissions after the September 1 and January 15 dates.
 
@@ -105,7 +105,6 @@ In addition to the requirements outlined in 5.d above, in those cases where spec
 In the event a return from leave petition is initiated and the student does not matriculate that semester, for any reason, the College reserves the right to require submission of updated or new versions of any of the required documentation outlined above, due not later than the published submissions deadline for the semester in which the student is petitioning for return.
 
 *   _Returns from Leaves of Absence (all Types and Durations) and Athletics Participation._ Athletes returning from a Leave of Absence of any type or duration must be cleared by  Sports Medicine prior to return to participation in any varsity or tier 1 club athletics activities.
-
 *   _Returns After Attendance at Other Institutions._ The College also reserves the right to obtain a dean’s certification if a student has attended another institution. Dean’s certifications are official documents confirming attendance and good standing and are typically obtained by request to the office of the dean of students of the institution in question.
 
 #### **6\. Accommodations for Students with Disabilities**
