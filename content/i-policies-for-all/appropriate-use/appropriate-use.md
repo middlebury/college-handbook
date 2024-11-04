@@ -41,3 +41,4 @@ Lorem ipsum
 | 1 | 2 | 3 |
 | --- | --- | --- |
 | 4 | 5 | 6 |
+| hello | this is | a table |
