@@ -121,8 +121,8 @@ export class CustomEditorControl extends Component {
     return (
       <div>
         <Helmet>
-          <link rel="stylesheet" href="https://cdn.ckeditor.com/ckeditor5/43.3.0/ckeditor5.css" />
-          <link rel="stylesheet" href="/admin/cms.css" type="text/css"></link>
+          <link rel="preload" href="https://cdn.ckeditor.com/ckeditor5/43.3.0/ckeditor5.css" />
+          <link rel="preload" href="/admin/cms.css" type="text/css"></link>
         </Helmet>
         <CKEditor
           editor={ ClassicEditor }
