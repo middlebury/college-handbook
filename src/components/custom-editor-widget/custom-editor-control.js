@@ -114,7 +114,8 @@ export class CustomEditorControl extends Component {
   
       placeholder: 'Type or paste your content here.',
       table: {
-        contentToolbar: ['tableRow']
+        contentToolbar: ['tableColumn', 'tableRow'],
+        tableColumn: ['insertTableColumnLeft', 'insertTableColumnRight', 'removeTableColumn', 'selectTableColumn']
       }
     };
 
