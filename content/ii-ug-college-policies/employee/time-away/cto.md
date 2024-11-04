@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/employee/time-away/cto
-date: 2021-05-01
 title: 4.2 Combined Time Off
+date: 2021-05-01
 ---
 In order to provide flexibility to employees in the use of time off, Middlebury College utilizes combined time off (CTO). CTO can be used for vacation, sick, or personal time, as well as for three floating holidays (Memorial Day, Independence Day, and Labor Day).
 
@@ -17,9 +17,9 @@ Faculty, temporary, seasonal, part-time employees in positions budgeted for less
 
 CTO accrues in hours after each biweekly payroll is run. Accrual is based on length of service, as follows:
 
-<table><tbody><tr><td><strong>Length of Service</strong></td><td><strong>Annual Accrual for 1 Full Time Equivalent</strong></td><td><strong>CTO Accrual for Each Hour Paid</strong></td></tr><tr><td>0-2 Years</td><td>26 days/yr.</td><td>0.1 hrs.</td></tr><tr><td>Over 2-10 Years</td><td>31 days/yr.</td><td>0.1192 hrs.</td></tr><tr><td>Over 10-20 Years</td><td>36 days/yr.</td><td>0.1385 hrs.</td></tr><tr><td>Over 20 Years</td><td>40 days/yr.</td><td>0.1538 hrs.</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Length of Service</strong></td><td><strong>Annual Accrual for 1 Full Time Equivalent</strong></td><td><strong>CTO Accrual for Each Hour Paid</strong></td></tr><tr><td>0-2 Years</td><td>26 days/yr..</td><td>0.1 hrs.</td></tr><tr><td>Over 2-10 Years</td><td>31 days/yr.</td><td>0.1192 hrs.</td></tr><tr><td>Over 10-20 Years</td><td>36 days/yr.</td><td>0.1385 hrs.</td></tr><tr><td>Over 20 Years</td><td>40 days/yr..</td><td>0.1538 hrs.</td></tr><tr><td>test</td><td>test</td><td>test</td></tr></tbody></table>
 
-## CTO Maximum {#CTO_MAX}
+## CTO Maximum {#CTO\_MAX}
 
 The following chart outlines CTO maximum accruals.
 
