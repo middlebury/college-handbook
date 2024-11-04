@@ -112,7 +112,10 @@ export class CustomEditorControl extends Component {
         ]
       },
   
-      placeholder: 'Type or paste your content here.'
+      placeholder: 'Type or paste your content here.',
+      table: {
+        contentToolbar: ['tableRow']
+      }
     };
 
     return (
