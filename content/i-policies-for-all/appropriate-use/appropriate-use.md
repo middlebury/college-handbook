@@ -38,7 +38,7 @@ Lorem ipsum
 
 ---
 
-| 1 | 2 | 3 |
+| This | is  | cool |
 | --- | --- | --- |
-| 4 | 5 | 6 |
+| Test | test | test |
 | hello | this is | a table |
