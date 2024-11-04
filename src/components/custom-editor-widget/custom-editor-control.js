@@ -112,20 +112,7 @@ export class CustomEditorControl extends Component {
         ]
       },
   
-      link: {
-        // addTargetToExternalLinks: true,
-        // defaultProtocol: 'https://',
-        // decorators: {
-        //   toggleDownloadable: {
-        //     mode: 'manual',
-        //     label: 'Downloadable',
-        //     attributes: {
-        //       download: 'file'
-        //     }
-        //   }
-        // }
-      },
-      placeholder: 'Type or paste your content here!',
+      placeholder: 'Type or paste your content here.',
       table: {
         contentToolbar: ['tableColumn', 'tableRow', 'mergeTableCells']
       }
@@ -134,7 +121,7 @@ export class CustomEditorControl extends Component {
     return (
       <div>
         <Helmet>
-          <link rel="stylesheet" href="https://cdn.ckeditor.com/ckeditor5/42.0.1/ckeditor5.css" />
+          <link rel="stylesheet" href="https://cdn.ckeditor.com/ckeditor5/43.3.0/ckeditor5.css" />
           <link rel="stylesheet" href="/admin/cms.css" type="text/css"></link>
         </Helmet>
         <CKEditor
