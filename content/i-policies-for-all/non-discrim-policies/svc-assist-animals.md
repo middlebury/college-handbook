@@ -27,7 +27,7 @@ The United States Department of Housing and Urban Development applies the FHA to
 
 Because assistance animals do not qualify as service animals under the ADA, they are only allowed in the room and residential building of the person who has been approved for reasonable accommodation. They will be allowed in outdoor spaces under proper handling when appropriate (e.g. taking a dog for a walk in accordance with [II.A.6. Pet Policy](/pages/ii-ug-college-policies/commun-policies/pets) and Section C. below), but they are not allowed in other offices, dorm rooms, classrooms, dining halls, or any other space or building on campus. 
 
-**Note:** Employees may register their assistance dog under "dogs at work" in the [Pet Policy](/pages/ii-ug-college-policies/commun-policies/pets) in order to bring them on campus and into their office.
+**Note:** Employees may register their assistance dog under the exception for "dogs at work" in the [Pet Policy](/pages/ii-ug-college-policies/commun-policies/pets) in order to bring them on campus and into their office.
 
 **i.  Reasonable Accommodation Request for Assistance Animals in Residence Halls or Campus Housing**
 
