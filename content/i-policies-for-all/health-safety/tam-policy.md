@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/health-safety/tam-policy
 title: C.2. Threat Assessment and Response Policy
-date: 2021-05-01
+date: 11/14/2024
 ---
 *   [**Introduction**](#i-introduction--purpose)
 *   [**Threat Assessment Team**](#ii-threat-assessment-team)
@@ -13,17 +13,17 @@ date: 2021-05-01
 
 #### **I. Introduction & Purpose**
 
-Middlebury is committed to maintaining campus and workplace environments that are safe and secure for all students, staff, faculty, and visitors. As part of this commitment, Middlebury has established two Threat Assessment and Management Teams (“TAM”), which are empowered to assess risk and, in cooperation with other Middlebury teams or offices as appropriate, formulate an appropriate response in situations where an individual’s behavior and/or statements indicate they may present a threat to the health or safety of others.  The Vermont TAM is responsible for all the programs based in Vermont and elsewhere except that the Institute TAM is responsible for the Middlebury Institute of International Studies. The TAMs seek to mitigate potential risks before they result in harm.
+Middlebury is committed to maintaining campus and workplace environments that are safe and secure for all students, staff, faculty, and visitors. As part of this commitment, Middlebury has established two Threat Assessment and Management Teams (“TAM”), whose role is to assess reported threats and, in cooperation with other Middlebury teams or offices as appropriate, to formulate an appropriate response in situations where an individual’s behavior and/or statements indicate they may present a threat to the health or safety of others. The Vermont TAM is responsible for all the programs based in Vermont and elsewhere except that the Institute TAM is responsible for the Middlebury Institute of International Studies. The TAMs seek to mitigate potential threats before they result in harm.
 
 Nothing in this policy shall be construed to alter or amend other applicable Middlebury policies.
 
 #### **II. Threat Assessment Team**
 
-The Chief Risk Officer appoints the members of the Vermont TAM and names its chair, and appoints new or different team members as necessary; the VPAA/Dean of the Institute appoints the members of the Institute TAM.  Each TAM is advisory and makes recommendations to the appropriate office in the programs for which it is responsible.
+The Chief Risk Officer appoints the members of the Vermont TAM and names its chair and appoints new or different team members as necessary; the VPAA/Dean of the Institute appoints the members of the Institute TAM.  Each TAM is advisory and makes recommendations to the appropriate office in the programs for which it is responsible.
 
-The Vermont TAM is chaired by the Associate Vice President of Safety, and ordinarily consists of representatives (or their designees) from the Department of Public Safety, Academic Affairs, Vice President for Student Affairs and Dean of Students Office, Office of the Chief Risk Officer, Human Resources, and the Center for Health & Wellness.
+The Vermont TAM is chaired by the Associate Vice President of Safety, and ordinarily consists of representatives (or their designees) from the Department of Public Safety, Academic Affairs, Vice President for Student Affairs and Dean of Students Office, Office of the General Counsel & Risk Management, Human Resources, and the Center for Health & Wellness.
 
-The Institute TAM is co-chaired by the Associate Dean of Student Services and the Executive Assistant to the Vice President.  Ordinarily, the Institute TAM consists of representatives from Advising, Career, Student Services, Human Resources, Information Technology Services, Communications, the Institute campus security, and the VP’s office.
+The Institute TAM is co-chaired by the Associate Dean of Student Services and the Executive Assistant to the Director of Operations. Ordinarily, the Institute TAM consists of representatives from Advising, Career, Student Services, Human Resources, Information Technology Services, Communications, the Institute campus security, and the VP’s office.
 
 **Vermont TAM**
 
@@ -33,9 +33,9 @@ The Institute TAM is co-chaired by the Associate Dean of Student Services and th
 
 <table><tbody><tr><td>Contact</td><td>Title</td><td>Email</td><td>Phone</td></tr><tr><td>Ashley Arrocha</td><td>Co-Chair, Associate Dean of Student Services</td><td><a href="mailto:aarrocha@middlebury.edu">aarrocha@middlebury.edu</a></td><td>831.647.4654</td></tr><tr><td>Barbara Burke</td><td>Director of Operations</td><td><a href="mailto:blburke@middlebury.edu">blburke@middlebury.edu</a></td><td>831.647.3513</td></tr><tr><td>Betcie Daniels</td><td>Campus Security Manager</td><td><a href="mailto:bdaniels@middlebury.edu">bdaniels@middlebury.edu</a></td><td>831.647.4153</td></tr><tr><td>Sierra Abukins</td><td>Director of Communications</td><td><a href="mailto:sabukins@middlebury.edu">sabukins@middlebury.edu</a></td><td>831.647.6606</td></tr><tr><td>Michael Ulibarri</td><td>Senior Business Partner</td><td><a href="mailto:mulibarr@middlebury.edu">mulibarr@middlebury.edu</a></td><td>831.647.6404</td></tr><tr><td>MaxJulian Ham</td><td>Assistant Director of Residential Life</td><td><a href="mailto:mham@middlebury.edu">mham@middlebury.edu</a></td><td>831.647.6442</td></tr><tr><td>Gustavo Carvalho</td><td>Systems Engineer II, Information Technology</td><td><a href="mailto:gcarvalh@middlebury.edu">gcarvalh@middlebury.edu</a></td><td>831.647.6658</td></tr></tbody></table>
 
-Middlebury’s General Counsel serves as an adviser to both TAMs, and is expected to attend regular as well as _ad hoc_ meetings.
+Middlebury’s General Counsel serves as an adviser to both the VT and Institute TAMs and is expected to attend regular as well as _ad hoc_ meetings.
 
-Members of the TAM are identified by name and position here and in other Middlebury publications, as appropriate. Other Middlebury personnel and outside resources with relevant areas of specialization and responsibility may be called upon to assist the TAM, including but not limited to Commons deans, supervisors, law enforcement agencies, medical personnel, or other outside experts.  Both TAM teams follow these [Guidelines](/assets/guidelines_tam_activities.pdf). The Office of the President will be kept apprised of the Team’s work as appropriate.
+Members of the TAM are identified by name and position here and in other Middlebury publications, as appropriate. Other Middlebury personnel and outside resources with relevant areas of specialization and responsibility may be called upon to assist the TAM, including but not limited to class deans, supervisors, law enforcement agencies, medical personnel, or other outside experts. Both TAM teams follow these [Guidelines](/assets/guidelines_tam_activities.pdf). The Office of the President will be kept apprised of the Team’s work as appropriate.
 
 #### **III. Reporting Potential Threats**
 
@@ -51,7 +51,7 @@ All reports under this policy will be handled in a sensitive manner. Information
 
 In general, the law recognizes and protects the confidentiality of communications between a person seeking care and a medical or mental health professional or religious adviser. The medical, mental health, and religious professionals at Middlebury respect and protect confidential communications from students, faculty, and staff to the extent that they are legally able to do so. One of these professionals may have to breach a confidence, however, when he or she perceives a serious risk of danger to another person or property.
 
-Middlebury and its campuses are also part of larger communities. If there is an independent investigation or lawsuit relating to an act of violence or a potential threat, those involved or others may be required by law to provide documents, testimony, or other information.
+Middlebury and its campuses are also part of larger communities. If there is an independent investigation or lawsuit relating to an act of violence or a potential threat, those involved, or others may be required by law to provide documents, testimony, or other information.
 
 #### **V. Retaliation**
 
