@@ -13,7 +13,7 @@ date: 11/14/2024
 
 #### **I. Introduction & Purpose**
 
-Middlebury is committed to maintaining campus and workplace environments that are safe and secure for all students, staff, faculty, and visitors. As part of this commitment, Middlebury has established two Threat Assessment and Management Teams (“TAM”), whose role is to assess reported threats and, in cooperation with other Middlebury teams or offices as appropriate, to formulate an appropriate response in situations where an individual’s behavior and/or statements indicate they may present a threat to the health or safety of others. The Vermont TAM is responsible for all the programs based in Vermont and elsewhere except that the Institute TAM is responsible for the Middlebury Institute of International Studies. The TAMs seek to mitigate potential threats before they result in harm.
+Middlebury is committed to maintaining campus and workplace environments that are safe and secure for all students, staff, faculty, and visitors. As part of this commitment, Middlebury has established two Threat Assessment and Management Teams (“TAM”), whose role is to assess information and reported threats and, in cooperation with other Middlebury teams or offices as appropriate, to formulate an appropriate response in situations where an individual’s behavior and/or statements indicate they may present a threat to the health or safety of others. The Vermont TAM is responsible for all the programs based in Vermont and elsewhere except that the Institute TAM is responsible for the Middlebury Institute of International Studies. The TAMs seek to mitigate potential threats before they result in harm.
 
 Nothing in this policy shall be construed to alter or amend other applicable Middlebury policies.
 
