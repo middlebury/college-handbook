@@ -79,7 +79,7 @@ Individuals who report incidents of discrimination and harassment to Confidentia
 
 **III.    Mandatory Reporting** 
 
-All Middlebury faculty and employees, other than those designated as Confidential Resources, are Mandated Reporters and are expected to promptly report all known information about conduct that reasonably may constitute actual or suspected violations of the Non-Discrimination Policy to the CRTIX Coordinator or Deputy CRTIX Coordinator. Student-employees who receive such information in the context of their employment are Mandated Reporters. Failure of a Mandated Reporter to report such information is a violation of Middlebury Policy and can subject an employee to disciplinary action. 
+All Middlebury faculty and employees, other than those designated as Confidential Resources under the circumstances described above, are required to promptly report all known information about conduct that reasonably may constitute actual or suspected violations of the Non-Discrimination Policy to the CRTIX Coordinator or Deputy CRTIX Coordinator. This requirement applies to student-employees who receive such information in the context of their employment. Failure of an employee to report such information is a violation of Middlebury Policy and can subject an employee to disciplinary action. 
 
 **IV.    Prohibition on Making False Reports** 
 
