@@ -61,9 +61,9 @@ Middlebury’s CRTIX office staff also includes Human Relations Officers (“HRO
 
 **II.      Confidential Reporting** 
 
-There are certain people on campus (“Confidential Resources”) to whom individuals can report in a confidential manner—meaning, they will not share with anyone else (including CRTIX) the information that has been disclosed to them in a way that identifies a reporting party or the individuals involved in an incident of Prohibited Conduct (unless they are requested to by the reporting Party or a legal obligation requires it). At Middlebury, the following are designated Confidential Resources[\[4\]](#_ftn4): 
+Some members of the Middlebury community have legal obligations or privileges not to disclose information that is disclosed with them in their professional capacities. These individuals are “Confidential Resources” who can be told about potential non-discrimination policy violations in a confidential manner—meaning, they will not share with anyone else (including CRTIX) the information that has been disclosed to them in a way that identifies a reporting party or the individuals involved in an incident of Prohibited Conduct (unless they are requested to by the reporting Party or a legal obligation requires it). At Middlebury, the following are designated Confidential Resources[\[4\]](#_ftn4): 
 
-*   Staff within Middlebury Center for Health & Wellness (including SANE nurses)
+*   Medical and support staff at the Middlebury Center for Health & Wellness (including SANE nurses)
 *   Counseling Services
 *   MiddCare
 *   MiddSafe Advocates
