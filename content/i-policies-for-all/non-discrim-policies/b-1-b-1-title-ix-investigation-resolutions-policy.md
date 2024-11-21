@@ -198,7 +198,7 @@ The Notice Letter may be amended as appropriate during the course of the investi
 
 **C.      Appointment of an Investigator** 
 
-The CRTIX Coordinator appoints investigators, either a Middlebury employee or an external investigator, who serves as a neutral, impartial fact-finder. External investigators are supervised by a Middlebury HRO [\[9\]](#_ftn9), including tracking the investigation for reasonable progress, assisting with the creation and maintenance of investigative records, and assisting the external investigator as necessary.[\[10\]](#_ftn10) Other Middlebury officials may at times be called upon to assist with an investigation, depending on the circumstances. 
+The CRTIX Coordinator appoints investigators, either a Middlebury employee or an external investigator, who serves as a neutral, impartial fact-finder. External investigators are supervised by a Middlebury HRO[\[9\]](#_ftn9), including tracking the investigation for reasonable progress, assisting with the creation and maintenance of investigative records, and assisting the external investigator as necessary.[\[10\]](#_ftn10) Other Middlebury officials may at times be called upon to assist with an investigation, depending on the circumstances. 
 
 In selecting the investigator for a particular matter, the CRTIX Coordinator will take care to select an individual who does not have a conflict of interest or bias against Reporting Individuals or Respondents generally or an individual Reporting Individual or Respondent. The CRTIX Coordinator will notify the Parties of the identity of the investigator and Parties may, within 3 business days of such notice, object to the appointment of the investigator by providing a written statement (which may be transmitted electronically) as to why the Party believes that the investigator has a conflict of interest or bias. The CRTIX Coordinator will make decisions regarding such objections and the appointment of an alternate investigator, as necessary. The CRTIX Coordinator’s decision about whether there is a conflict is final. 
 
@@ -355,11 +355,15 @@ When a student Respondent is found responsible for sexual assault, suspension or
 
 2.       Sanctions and other actions will go into effect at either the expiration of the deadline for the submission of an appeal where no appeal is submitted, or at the conclusion of the appeal process if applicable.[\[24\]](#_ftn24) This language does not preclude the possibility of emergency action as needed; please see Section C.II. 
 
-3.       Sanctions are assigned by the appropriate supervisory authority for the Respondent(s): for students: the Dean of Students, the Dean of the Language Schools, the VPAA of the Institute, the Dean of the Bread Loaf School of English, etc.; for staff, the appropriate Vice President (or designee). When multiple supervisory authorities are involved in assigning sanctions, they may collaborate with each other as appropriate. 
+3.       Sanctions are assigned by the appropriate supervisory authority for the Respondent(s). When multiple supervisory authorities are involved in assigning sanctions, they may collaborate with each other as appropriate.  
 
-4.       If the adjudicating HRO finds that a faculty member has engaged in conduct that violates the Non-Discrimination Policy, or other Middlebury policies under investigation, if applicable (absent or following an appeal of that finding in accordance with this Procedure, if an appeal was granted), CRTIX will provide the case materials to the Provost. The Provost will initiate the appropriate procedures under the applicable Handbook policies and/or contracts. 
+4\.      For students, the Dean of Students, the Dean of the Language Schools, the VPAA of the Institute, the Dean of the Bread Loaf School of English, etc..
 
-5.       In any case in which a finding of a violation of the Non-Discrimination Policy has been issued, violation of a plan or directive to address the Prohibited Conduct or related sanction may be grounds for discipline. 
+5\.     For staff, the appropriate Vice President (or designee for the area or unit in which the staff member works). 
+
+6.     If the adjudicating HRO finds that a faculty member has engaged in conduct that violates the Non-Discrimination Policy, or other Middlebury policies under investigation, if applicable (absent or following an appeal of that finding in accordance with this Procedure, if an appeal was granted), CRTIX will provide the case materials to the Provost. The Provost will initiate the appropriate procedures under the applicable Handbook policies and/or contracts. The Provost may also assign a designee -- ordinarily the Vice President of Academic Affairs (VPAA) -- to initiate the appropriate procedures under the applicable Handbook policies or contracts.
+
+7.       In any case in which a finding of a violation of the Non-Discrimination Policy has been issued, violation of a plan or directive to address the Prohibited Conduct or related sanction may be grounds for discipline. 
 
 **E.       Recommendation of Steps to Ensure that Violations do not Continue or Recur** 
 
