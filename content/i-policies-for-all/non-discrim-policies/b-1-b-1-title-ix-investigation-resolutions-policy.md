@@ -7,7 +7,7 @@ NOTE: This Procedure will be in effect August 1, 2024, and will not apply retroa
 
 ---
 
-\[a\] All prior policies and procedures can be found [here](/assets/2020-2024-non-discrimination-policies-and-procedures.pdf). {a}
+\[a\] The prior policies and procedures that were in affect immediately prior to the effective date of the current policies and procedures can be found [here](/assets/2020-2024-non-discrimination-policies-and-procedures.pdf). {a}
 
 \[b\] As of the time this Procedure was published on August 1, 2024, several federal courts had enjoined the Department of Education from implementing, enacting, or enforcing the April 2024 Title IX regulations referenced above as to numerous states and hundreds of colleges and universities across the country attended by members of certain non-profit student organizations. In light of these developments, Middlebury will implement the policies and procedures set forth in this Procedure to the fullest extent that it can do so within the scope of its inherent authority to enact College policies for the benefit of the Middlebury community (including the definitions of Prohibited Conduct stated in this Procedure), but it will also apply procedural features of prior policies as deemed necessary under applicable law. Parties to formal proceedings conducted under this Procedure will be notified which procedures will apply.{b}
 
@@ -61,9 +61,9 @@ Middlebury’s CRTIX office staff also includes Human Relations Officers (“HRO
 
 **II.      Confidential Reporting** 
 
-There are certain people on campus (“Confidential Resources”) to whom individuals can report in a confidential manner—meaning, they will not share with anyone else (including CRTIX) the information that has been disclosed to them in a way that identifies a reporting party or the individuals involved in an incident of Prohibited Conduct (unless they are requested to by the reporting Party or a legal obligation requires it). At Middlebury, the following are designated Confidential Resources[\[4\]](#_ftn4): 
+Some members of the Middlebury community have legal obligations or privileges not to disclose information that is disclosed with them in their professional capacities. These individuals are “Confidential Resources” who can be told about potential non-discrimination policy violations in a confidential manner—meaning, they will not share with anyone else (including CRTIX) the information that has been disclosed to them in a way that identifies a reporting party or the individuals involved in an incident of Prohibited Conduct (unless they are requested to by the reporting Party or a legal obligation requires it). At Middlebury, the following are designated Confidential Resources[\[4\]](#_ftn4): 
 
-*   Staff within Middlebury Center for Health & Wellness (including SANE nurses)
+*   Medical and support staff at the Middlebury Center for Health & Wellness (including SANE nurses)
 *   Counseling Services
 *   MiddCare
 *   MiddSafe Advocates
@@ -79,7 +79,7 @@ Individuals who report incidents of discrimination and harassment to Confidentia
 
 **III.    Mandatory Reporting** 
 
-All Middlebury faculty and employees, other than those designated as Confidential Resources, are Mandated Reporters and are expected to promptly report all known information about conduct that reasonably may constitute actual or suspected violations of the Non-Discrimination Policy to the CRTIX Coordinator or Deputy CRTIX Coordinator. Student-employees who receive such information in the context of their employment are Mandated Reporters. Failure of a Mandated Reporter to report such information is a violation of Middlebury Policy and can subject an employee to disciplinary action. 
+All Middlebury faculty and employees, other than those designated as Confidential Resources under the circumstances described above, are required to promptly report all known information about conduct that reasonably may constitute actual or suspected violations of the Non-Discrimination Policy to the CRTIX Coordinator or Deputy CRTIX Coordinator. This requirement applies to student-employees who receive such information in the context of their employment. Failure of an employee to report such information is a violation of Middlebury Policy and can subject an employee to disciplinary action. 
 
 **IV.    Prohibition on Making False Reports** 
 
@@ -198,7 +198,7 @@ The Notice Letter may be amended as appropriate during the course of the investi
 
 **C.      Appointment of an Investigator** 
 
-The CRTIX Coordinator appoints investigators, either a Middlebury Human Relations Officer (HRO)[\[9\]](#_ftn9) or an external investigator, who serves as a neutral, impartial fact-finder. External investigators are supervised by a Middlebury HRO, including tracking the investigation for reasonable progress, assisting with the creation and maintenance of investigative records, and assisting the external investigator as necessary.[\[10\]](#_ftn10) Other Middlebury officials may at times be called upon to assist with an investigation, depending on the circumstances. 
+The CRTIX Coordinator appoints investigators, either a Middlebury employee or an external investigator, who serves as a neutral, impartial fact-finder. External investigators are supervised by a Middlebury HRO[\[9\]](#_ftn9), including tracking the investigation for reasonable progress, assisting with the creation and maintenance of investigative records, and assisting the external investigator as necessary.[\[10\]](#_ftn10) Other Middlebury officials may at times be called upon to assist with an investigation, depending on the circumstances. 
 
 In selecting the investigator for a particular matter, the CRTIX Coordinator will take care to select an individual who does not have a conflict of interest or bias against Reporting Individuals or Respondents generally or an individual Reporting Individual or Respondent. The CRTIX Coordinator will notify the Parties of the identity of the investigator and Parties may, within 3 business days of such notice, object to the appointment of the investigator by providing a written statement (which may be transmitted electronically) as to why the Party believes that the investigator has a conflict of interest or bias. The CRTIX Coordinator will make decisions regarding such objections and the appointment of an alternate investigator, as necessary. The CRTIX Coordinator’s decision about whether there is a conflict is final. 
 
@@ -355,11 +355,15 @@ When a student Respondent is found responsible for sexual assault, suspension or
 
 2.       Sanctions and other actions will go into effect at either the expiration of the deadline for the submission of an appeal where no appeal is submitted, or at the conclusion of the appeal process if applicable.[\[24\]](#_ftn24) This language does not preclude the possibility of emergency action as needed; please see Section C.II. 
 
-3.       Sanctions are assigned by the appropriate supervisory authority for the Respondent(s): for students: the Dean of Students, the Dean of the Language Schools, the VPAA of the Institute, the Dean of the Bread Loaf School of English, etc.; for staff, the appropriate Vice President (or designee). When multiple supervisory authorities are involved in assigning sanctions, they may collaborate with each other as appropriate. 
+3.       Sanctions are assigned by the appropriate supervisory authority for the Respondent(s). When multiple supervisory authorities are involved in assigning sanctions, they may collaborate with each other as appropriate.  
 
-4.       If the adjudicating HRO finds that a faculty member has engaged in conduct that violates the Non-Discrimination Policy, or other Middlebury policies under investigation, if applicable (absent or following an appeal of that finding in accordance with this Procedure, if an appeal was granted), CRTIX will provide the case materials to the Provost. The Provost will initiate the appropriate procedures under the applicable Handbook policies and/or contracts. 
+4\.      For students, the Dean of Students, the Dean of the Language Schools, the VPAA of the Institute, the Dean of the Bread Loaf School of English, etc..
 
-5.       In any case in which a finding of a violation of the Non-Discrimination Policy has been issued, violation of a plan or directive to address the Prohibited Conduct or related sanction may be grounds for discipline. 
+5\.     For staff, the appropriate Vice President (or designee for the area or unit in which the staff member works). 
+
+6.     If the adjudicating HRO finds that a faculty member has engaged in conduct that violates the Non-Discrimination Policy, or other Middlebury policies under investigation, if applicable (absent or following an appeal of that finding in accordance with this Procedure, if an appeal was granted), CRTIX will provide the case materials to the Provost. The Provost will initiate the appropriate procedures under the applicable Handbook policies and/or contracts. The Provost may also assign a designee -- ordinarily the Vice President of Academic Affairs (VPAA) -- to initiate the appropriate procedures under the applicable Handbook policies or contracts.
+
+7.       In any case in which a finding of a violation of the Non-Discrimination Policy has been issued, violation of a plan or directive to address the Prohibited Conduct or related sanction may be grounds for discipline. 
 
 **E.       Recommendation of Steps to Ensure that Violations do not Continue or Recur** 
 
