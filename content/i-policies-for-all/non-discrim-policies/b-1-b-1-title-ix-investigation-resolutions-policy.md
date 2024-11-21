@@ -7,7 +7,7 @@ NOTE: This Procedure will be in effect August 1, 2024, and will not apply retroa
 
 ---
 
-\[a\] All prior policies and procedures can be found [here](/assets/2020-2024-non-discrimination-policies-and-procedures.pdf). {a}
+\[a\] The prior policies and procedures that were in affect immediately prior to the effective date of the current policies and procedures can be found [here](/assets/2020-2024-non-discrimination-policies-and-procedures.pdf). {a}
 
 \[b\] As of the time this Procedure was published on August 1, 2024, several federal courts had enjoined the Department of Education from implementing, enacting, or enforcing the April 2024 Title IX regulations referenced above as to numerous states and hundreds of colleges and universities across the country attended by members of certain non-profit student organizations. In light of these developments, Middlebury will implement the policies and procedures set forth in this Procedure to the fullest extent that it can do so within the scope of its inherent authority to enact College policies for the benefit of the Middlebury community (including the definitions of Prohibited Conduct stated in this Procedure), but it will also apply procedural features of prior policies as deemed necessary under applicable law. Parties to formal proceedings conducted under this Procedure will be notified which procedures will apply.{b}
 
