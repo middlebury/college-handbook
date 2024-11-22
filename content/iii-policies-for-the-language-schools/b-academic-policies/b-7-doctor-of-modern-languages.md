@@ -1,7 +1,7 @@
 ---
 slug: /pages/iii-policies-for-the-language-schools/b-academic-policies/b-7-doctor-of-modern-languages
 title: B.7 Doctor of Modern Languages
-date: 2021-05-01
+date: 11/22/2024
 ---
 [Degree Guidelines & Procedures for the DML in Russian, French, Spanish, German, Italian](https://www.middlebury.edu/language-schools/sites/default/files/2022-05/DML%20Student%20Guidelines%20New_%20\(002\).pdf)
 
