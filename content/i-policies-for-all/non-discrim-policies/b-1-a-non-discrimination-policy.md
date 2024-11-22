@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy
 title: B.1.a. Non-Discrimination Policy
-date: 2021-05-01
+date: 11/22/2024
 ---
 Middlebury is committed to creating and maintaining a diverse, equitable and inclusive campus environment where we value openness, curiosity, rigor, and equality. Discrimination, including harassment, is antithetical to our values and mission, and, therefore, Middlebury seeks to eradicate unlawful discrimination based on protected personal characteristics in its educational and employment environments.
 
@@ -168,11 +168,11 @@ Determinations regarding whether a person is responsible for violating this Poli
 
 **25\. Preponderance of the Evidence** is an evidentiary standard (e.g., the level of evidence that is sufficient to persuade a decisionmaker that there was a policy violation) that means “more likely than not,” or, greater than 50%.
 
-Please also see [Appendix B: Applicable Definitions: U.S. State and Federal Law where Middlebury Operates Programs](/assets/appendix-b_applicable-definitions-in-states-where-middlebury-operates.pdf).
+Please also see [Appendix B: Applicable Definitions: U.S. State and Federal Law where Middlebury Operates Programs](static/assets/appendix-b_applicable-definitions-in-states-where-midd-operates-8-23-24.pdf).
 
 _Published: August 14, 2020_
 
-_Last Amended: August 1, 2024_
+_Last Amended: November 22, 2024_
 
 ---
 
