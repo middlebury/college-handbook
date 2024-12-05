@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@ckeditor/ckeditor5-react": "^9.4.0",
-    "ckeditor5": "^43.3.1",
+    "ckeditor5": "^44.0.0",
     "decap-cms-app": "^3.4.0",
     "gatsby": "^5.14.0",
     "gatsby-plugin-decap-cms": "^4.0.4",
