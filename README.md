@@ -37,7 +37,7 @@ To compile the site for production so it can be deployed:
 npm run build
 ```
 
-To serves the production build of the site for testing prior to deployment:
+To serve the production build of the site for testing prior to deployment:
 
 ```shell
 npm run serve

@@ -19,13 +19,13 @@
   The files in this folder have semantic names according to their section name in the handbook. They contain an array of JSON objects describing the pages under that section and their hierarchy. 
   File|Section it pertains to
   ---|---
-  policies-for-all.js | I. Middlebury-Wide Policies
-  ug-college-policies.js | II. Policies for the Undergraduate College
-  policies-for-the-language-schools.js | III. Policies for the Language Schools
-  policies-for-the-institute.js | IV. Policies for the Institute of International Studies
-  policies-for-schools-abroad.js | V. Policies for Schools Abroad
-  policies-for-middlebury-institute-online.js | VI. Policies for Middlebury Institute Online
-  handbook-archive.js | Previous Handbooks
+  i-policies-for-all.js | I. Middlebury-Wide Policies
+  ii-ug-college-policies.js | II. Policies for the Undergraduate College
+  iii-policies-for-the-language-schools.js | III. Policies for the Language Schools
+  iv-policies-for-the-institute.js | IV. Policies for the Institute of International Studies
+  v-policies-for-schools-abroad.js | V. Policies for Schools Abroad
+  vi-policies-for-middlebury-institute-online.js | VI. Policies for Middlebury Institute Online
+  vii-handbook-archive.js | Previous Handbooks
 
   This data is used by [`react-checkbox-tree`](https://github.com/jakezatecky/react-checkbox-tree?tab=readme-ov-file#node-properties) to build left hand menu.
 
