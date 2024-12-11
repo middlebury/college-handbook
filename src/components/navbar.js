@@ -6,7 +6,10 @@ import {
   FaStepForward,
   FaBackward,
   FaStepBackward,
+  // FaInfoCircle,
+  FaRegCheckSquare,
 } from "react-icons/fa";
+import { BsInfoCircleFill } from "react-icons/bs";
 import { SearchBar, SearchBarPresentation } from "./search-bar";
 import { navigate } from "gatsby";
 
@@ -101,6 +104,7 @@ const Navbar = (props) => {
     doc.write("</body></html>");
     doc.close();
     myWindow.focus(); // necessary for IE >= 10*/
+    myWindow.print();
   };
 
   const handleFontSize = (e, param) => {
@@ -115,12 +119,12 @@ const Navbar = (props) => {
         fontSize.current -= 20;
       }
     }
-    
+
     const element = document.getElementById("print-section");
     if (fontSize.current === 100) {
-        element.classList.add("print-section__font-size");
+      element.classList.add("print-section__font-size");
     } else {
-        element.classList.remove("print-section__font-size");
+      element.classList.remove("print-section__font-size");
     }
     element.style.fontSize = `${fontSize.current}%`;
   };
@@ -147,6 +151,7 @@ const Navbar = (props) => {
             aria-label="Skip to first page"
             className="navbar__button"
             onClick={(e) => handleClick(e, "fast-backward")}
+            title="First"
           >
             <FaStepBackward />
           </button>
@@ -154,6 +159,7 @@ const Navbar = (props) => {
             aria-label="Previous Page"
             className="navbar__button"
             onClick={(e) => handleClick(e, "backward")}
+            title="Previous"
           >
             <FaBackward />
           </button>
@@ -161,6 +167,7 @@ const Navbar = (props) => {
             aria-label="Next Page"
             className="navbar__button"
             onClick={(e) => handleClick(e, "forward")}
+            title="Next"
           >
             <FaForward />
           </button>
@@ -168,6 +175,7 @@ const Navbar = (props) => {
             aria-label="Skip to last page"
             className="navbar__button"
             onClick={(e) => handleClick(e, "fast-forward")}
+            title="Last"
           >
             <FaStepForward />
           </button>
@@ -178,6 +186,7 @@ const Navbar = (props) => {
             onClick={(e) => {
               handleFontSize(e, "increase");
             }}
+            title="Increase Font Size"
           >
             <FaFont />
             <span
@@ -196,6 +205,7 @@ const Navbar = (props) => {
             onClick={(e) => {
               handleFontSize(e, "decrease");
             }}
+            title="Decrease Font Size"
           >
             <FaFont />
             <span
@@ -212,8 +222,38 @@ const Navbar = (props) => {
             aria-label="Print Page"
             className="navbar__button"
             onClick={handlePrint}
+            title="Print"
           >
             <FaPrint />
+          </button>
+          <button
+            aria-label="Print Information"
+            className="navbar__button tooltip"
+            style={{
+              margin: "0px",
+              fontSize: "14px",
+              verticalAlign: "super",
+              paddingLeft: "3px",
+            }}
+          >
+            <BsInfoCircleFill />
+            <span class="tooltiptext" aria-hidden="true" role="tooltip">
+              <ul class="tooltiptext__list">
+                <li>
+                  To print the current page, click the print &nbsp;
+                  <FaPrint />
+                  &nbsp; icon.
+                </li>
+                <li>
+                  To print multiple pages, select the checkboxes &nbsp;
+                  <FaRegCheckSquare />
+                  &nbsp; in the left pane (or in the page menu below on mobile)
+                  for the pages you want to print and click the print &nbsp;
+                  <FaPrint />
+                  &nbsp; icon.
+                </li>
+              </ul>
+            </span>
           </button>
         </div>
       </div>
