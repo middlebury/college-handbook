@@ -3,25 +3,25 @@ slug: /pages/i-policies-for-all/h-information-technology/h-3-privacy-and-securit
 title: H.3. Privacy and Security Policy
 date: 12/11/2024
 ---
-# PURPOSE
+## PURPOSE
 
 Handling confidential and private information appropriately is a core Middlebury value. The Information Technology Privacy and Security policy outlines how Middlebury balances legitimate expectations for personal privacy with compelling institutional interests to ensure the safety and security of our community, compliance with various legal and regulatory requirements, and the reliable delivery and security of essential technology services and associated data.
 
-# SCOPE
+## SCOPE
 
 This policy applies to all students, faculty, and staff, as well as retirees, emeriti, contractors, guests, and other parties authorized to interact with Middlebury’s technology services.
 
-# Definitions
+## Definitions
 
 Please refer to H.1 Information Technology - Overview for explanations of phrases and terms used throughout the Information Technology policies. 
 
-# Policy
+## Policy
 
 ITS is committed to responsible behavior in its management and maintenance of technology services and makes every reasonable effort to respect personal privacy within the constraints of supporting Middlebury’s academic mission and facilitating administrative operations.
 
 ## Your Rights and Responsibilities
 
-### Consent 
+### Consent
 
 By choosing to interact with Middlebury technology services, including with your personally-owned devices, you consent to Middlebury’s monitoring and management practices as described in this policy.
 
@@ -56,7 +56,7 @@ Middlebury collects technology service usage data to ensure the reliability, per
 *   File access logs
 *   Geographic location data, inferred from the sources above and others
 
-### Log Retention 
+### Log Retention
 
 Logs are retained as long as legally required or for legitimate business reasons including usage trending, performance monitoring, and cybersecurity. Logs may be preserved indefinitely if they were collected as part of a legal or conduct investigation.
 
@@ -64,7 +64,7 @@ Logs are retained as long as legally required or for legitimate business reasons
 
 As a general matter, Middlebury does not guarantee the confidentiality of any content housed within or transmitted through its systems or networks. In certain circumstances Middlebury may need to access information for legitimate institutional purposes, an illustrative but not exhaustive list of which are described below.
 
-#### Health and Safety Matters 
+#### Health and Safety Matters
 
 In situations where the safety of any human being is seriously threatened, Middlebury reserves the right to access information to reduce the health and safety risk.
 
@@ -120,7 +120,7 @@ ITS is authorized to monitor technology services to collect adoption and usage s
 
 ITS is authorized to perform system maintenance when and as needed to ensure the performance, availability, and security of Middlebury technology services. 
 
-#### Necessary Actions 
+#### Necessary Actions
 
 ITS is authorized to take necessary actions, when required, to protect Middlebury technology services from abuse or misuse, including revoking access to services until such issues are resolved. ITS is authorized to disable technology services, if necessary, to prevent them from being abused or misused due to a cybersecurity vulnerability. Such systems will remain offline until the cybersecurity issue is resolved and the impacted systems can be safely returned to service
 
