@@ -20,7 +20,7 @@
     width: 50%;
   }
 
-  @include media(lg) { 
+  @include media(lg) {
     width: initial;
     margin-right: auto;
     margin-left: auto;
@@ -73,8 +73,58 @@
 .navbar__buttons {
   padding: 0;
 
-  @include media(lg){
+  @include media(lg) {
     padding-left: 20px;
+  }
+}
+
+.tooltip {
+  position: relative;
+}
+
+.tooltip .tooltiptext {
+  background: #fff;
+  color: #000;
+  box-shadow: 0 0 8px rgb(32 32 32 / 50%);
+  font-size: 0.875rem;
+  width: 50vw;
+  padding: 0.5rem;
+  position: absolute;
+  right: -3px;
+  top: 25px;
+  visibility: hidden;
+  text-align: left;
+  border-radius: 0;
+  z-index: 15;
+
+  @include media(sm) {
+    width: 50vw;
+    right: 0;
+    left: 22px;
+    top: 0px;
+  }
+
+  @include media(md) {
+    width: 30vw;
+  }
+
+  @include media(lg) {
+    width: 20vw;
+  }
+}
+
+.tooltip:hover .tooltiptext,
+.tooltip:focus .tooltiptext {
+  visibility: visible;
+}
+
+.tooltiptext__list {
+  margin: 0;
+  padding: 0;
+  padding-left: 22px;
+
+  & li {
+    margin: 0;
   }
 }
 
@@ -98,7 +148,7 @@
     }
   }
 
-  &:hover{
+  &:hover {
     color: $navy;
   }
 }
