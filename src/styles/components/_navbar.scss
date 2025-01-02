@@ -1,10 +1,13 @@
+@use "../core/mixins";
+@use "../core/variables";
+
 .navbar {
   left: 0;
   top: 0;
   height: fit-content;
   width: 100%;
-  background-color: $gray-lighter;
-  border-bottom: solid 1px $brand-primary;
+  background-color: variables.$gray-lighter;
+  border-bottom: solid 1px variables.$brand-primary;
 }
 
 .navbar__container {
@@ -14,13 +17,13 @@
   align-items: flex-start;
   margin: unset;
 
-  @include make-container;
+  @include mixins.make-container;
 
-  @include media(md) {
+  @include mixins.media(md) {
     width: 50%;
   }
 
-  @include media(lg) { 
+  @include mixins.media(lg) { 
     width: initial;
     margin-right: auto;
     margin-left: auto;
@@ -34,11 +37,11 @@
   padding-top: 16px;
   width: 100%;
 
-  @include media(lg) {
+  @include mixins.media(lg) {
     padding-top: 0;
     width: 22%;
   }
-  @include media(xl) {
+  @include mixins.media(xl) {
     padding-top: 0;
     width: 23%;
   }
@@ -52,7 +55,7 @@
 }
 
 .navbar__search-input {
-  border: solid 1px $brand-primary;
+  border: solid 1px variables.$brand-primary;
   border-radius: 0;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -65,7 +68,7 @@
 .navbar__heading {
   margin: 0.5em 0;
 
-  @include media(lg) {
+  @include mixins.media(lg) {
     margin: 0 0 0 25px;
   }
 }
@@ -73,7 +76,7 @@
 .navbar__buttons {
   padding: 0;
 
-  @include media(lg){
+  @include mixins.media(lg){
     padding-left: 20px;
   }
 }
@@ -84,21 +87,21 @@
   border: none;
   padding: 5px;
   cursor: pointer;
-  color: $navy-dark;
+  color: variables.$navy-dark;
   transition: color 0.2s;
 
   &.search {
-    background-color: $navy-dark;
+    background-color: variables.$navy-dark;
     padding: 8px;
     transition: background-color 0.2s;
     font-size: 0;
 
     &:hover {
-      background-color: $navy;
+      background-color: variables.$navy;
     }
   }
 
   &:hover{
-    color: $navy;
+    color: variables.$navy;
   }
 }

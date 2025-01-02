@@ -1,3 +1,5 @@
+@use "../core/variables";
+
 .rct-text {
   align-items: flex-start;
 }
@@ -16,7 +18,7 @@
 }
 
 .active {
-  background-color: $blue-lighter;
+  background-color: variables.$blue-lighter;
 }
 
 .rct-node-clickable {
@@ -28,7 +30,7 @@
 
   &:focus {
     outline: 0;
-    background: $blue-lighter;
+    background: variables.$blue-lighter;
   }
 }
 

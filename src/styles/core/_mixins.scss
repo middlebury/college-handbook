@@ -1,5 +1,9 @@
+@use "breakpoints";
+@use "variables";
+@use 'sass:math';
+
 @mixin media($breakpoint) {
-  @include media-breakpoint-up($breakpoint) {
+  @include breakpoints.media-breakpoint-up($breakpoint) {
     @content;
   }
 }
@@ -22,18 +26,18 @@
 }
 
 @mixin make-gutters() {
-  padding-right: math.div($grid-gutter-width, 2);
-  padding-left: math.div($grid-gutter-width, 2);
+  padding-right: math.div(variables.$grid-gutter-width, 2);
+  padding-left: math.div(variables.$grid-gutter-width, 2);
 
   @include media(lg) {
-    padding-right: math.div($grid-gutter-width-lg, 2);
-    padding-left: math.div($grid-gutter-width-lg, 2);
+    padding-right: math.div(variables.$grid-gutter-width-lg, 2);
+    padding-left: math.div(variables.$grid-gutter-width-lg, 2);
   }
 }
 
 @mixin make-container() {
   margin-right: auto;
   margin-left: auto;
-  max-width: $container-max-width;
+  max-width: variables.$container-max-width;
   @include make-gutters;
 }

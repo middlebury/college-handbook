@@ -1,12 +1,15 @@
+@use "../core/mixins";
+@use "../core/variables";
+
 .midd-footer {
-  background-color: $navy-dark;
-  padding-top: $spacing-4;
-  padding-bottom: $spacing-4;
-  @include print-hide;
+  background-color: variables.$navy-dark;
+  padding-top: variables.$spacing-4;
+  padding-bottom: variables.$spacing-4;
+  @include mixins.print-hide;
 }
 
 .container {
-  @include make-container;
+  @include mixins.make-container;
 }
 
 .midd-footer__list {
@@ -14,7 +17,7 @@
   margin: 0;
   list-style-type: none;
 
-  @include media(lg) {
+  @include mixins.media(lg) {
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -27,21 +30,21 @@
 .midd-footer__item {
   margin: 0;
   &:not(:first-child) {
-    @include media(lg) {
-      margin-left: $spacing-3;
+    @include mixins.media(lg) {
+      margin-left: variables.$spacing-3;
     }
-    @include media(xl) {
-      margin-left: $spacing-4;
+    @include mixins.media(xl) {
+      margin-left: variables.$spacing-4;
     }
   }
 }
 
 .midd-footer__link {
-  color: $white;
+  color: variables.$white;
   font-size: 14px;
   display: block;
-  padding-top: $spacing-1;
-  padding-bottom: $spacing-1;
+  padding-top: variables.$spacing-1;
+  padding-bottom: variables.$spacing-1;
   white-space: nowrap;
   text-decoration: none;
 
@@ -50,7 +53,7 @@
     text-decoration: underline;
   }
 
-  @include media(lg) {
+  @include mixins.media(lg) {
     padding-top: 0;
     padding-bottom: 0;
   }
@@ -67,14 +70,14 @@
 }
 
 .col-lg-9 {
-  @include media(lg) {
+  @include mixins.media(lg) {
     flex: 0 0 75%;
     max-width: 75%;
   }
 }
 
 .col-lg-3 {
-  @include media(lg) {
+  @include mixins.media(lg) {
     flex: 0 0 25%;
     max-width: 25%;
   }
@@ -85,7 +88,7 @@
 }
 
 .mb-lg-0 {
-  @include media(lg) {
+  @include mixins.media(lg) {
     margin-bottom: 0 !important;
   }
 }

@@ -1,17 +1,21 @@
+@use "../core/functions";
+@use "../core/mixins";
+@use "../core/variables";
+
 .App {
-  @include media(lg) {
+  @include mixins.media(lg) {
     overflow: hidden;
   }
 }
 
 .app-header {
-  background: $navy-dark;
+  background: variables.$navy-dark;
 }
 
 .app-header__wrap {
   display: flex;
   
-  @include make-container;
+  @include mixins.make-container;
 
   @media print {
     display: block;
@@ -27,7 +31,7 @@
 .app-header__logo {
   padding: 0.5rem 0;
 
-  @include media(md) {
+  @include mixins.media(md) {
     padding: 0;
     position: relative;
     top: 1rem;
@@ -40,29 +44,29 @@
 }
 
 .app-header__title {
-  font-size: rem(24);
+  font-size: functions.rem(24);
   line-height: 1;
-  font-family: $font-family-serif;
-  color: $white;
+  font-family: variables.$font-family-serif;
+  color: variables.$white;
   margin: initial;
 
-  @include media(lg) {
+  @include mixins.media(lg) {
     line-height: 1.4;
-    font-size: rem(28);
+    font-size: functions.rem(28);
   }
 }
 
 .app-header__link {
-  color: $white;
+  color: variables.$white;
   text-decoration: none;
 
   @media print {
     display: block;
-    margin-top: $spacing-3;
+    margin-top: variables.$spacing-3;
   }
 
   &:hover {
     text-decoration: underline;
-    color: $white;
+    color: variables.$white;
   }
 }

@@ -1,11 +1,14 @@
+@use "../core/mixins";
+@use "../core/variables";
+
 .search-results {
   overflow-y: scroll;
   margin-bottom: 16px;
-  background-color: $blue-lighter;
+  background-color: variables.$blue-lighter;
   padding: 8px;
   margin-top: 48px;
 
-  @include media(lg){
+  @include mixins.media(lg){
     margin-top: 64px;
   }
 }

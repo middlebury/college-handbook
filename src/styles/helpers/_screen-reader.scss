@@ -1,4 +1,6 @@
+@use "../core/mixins";
+
 .visually-hidden,
 .sr-only {
-  @include sr-only;
+  @include mixins.sr-only;
 }

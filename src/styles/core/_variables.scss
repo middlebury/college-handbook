@@ -1,3 +1,5 @@
+@use "functions";
+
 // Media sizes
 // prettier-ignore
 $grid-breakpoints: (
@@ -8,8 +10,8 @@ $grid-breakpoints: (
     xl: 1440px
 );
 
-$grid-gutter-width: rem(32) !default;
-$grid-gutter-width-lg: rem(64) !default;
+$grid-gutter-width: functions.rem(32) !default;
+$grid-gutter-width-lg: functions.rem(64) !default;
 
 $container-max-width: 1440px !default;
 
@@ -25,15 +27,15 @@ $spacers: (
 );
 
 $spacing-0: 0 !default;
-$spacing-1: rem(4) !default;
-$spacing-2: rem(8) !default;
-$spacing-3: rem(16) !default;
-$spacing-4: rem(24) !default;
-$spacing-5: rem(32) !default;
-$spacing-6: rem(40) !default;
-$spacing-7: rem(48) !default;
-$spacing-8: rem(64) !default;
-$spacing-9: rem(96) !default;
+$spacing-1: functions.rem(4) !default;
+$spacing-2: functions.rem(8) !default;
+$spacing-3: functions.rem(16) !default;
+$spacing-4: functions.rem(24) !default;
+$spacing-5: functions.rem(32) !default;
+$spacing-6: functions.rem(40) !default;
+$spacing-7: functions.rem(48) !default;
+$spacing-8: functions.rem(64) !default;
+$spacing-9: functions.rem(96) !default;
 
 $spacing: (
   0: $spacing-0,

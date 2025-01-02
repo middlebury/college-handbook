@@ -1,28 +1,29 @@
 @use "sass:math";
 
 // Core functionality / settings
-@import "core/functions";
-@import "core/variables";
-@import "core/mixins";
-@import "core/breakpoints";
-@import "core/display";
+@use "sass:meta";
+@use "core/functions";
+@use "core/variables";
+@use "core/mixins";
+@use "core/breakpoints";
+@use "core/display";
 
 // dependencies
 @import "../../node_modules/react-checkbox-tree/lib/react-checkbox-tree.css";
 
 // Base styles
-@import "base/typography";
-@import "base/global";
+@include meta.load-css("base/typography");
+@include meta.load-css("base/global");
 
 // Components
-@import "components/header";
-@import "components/navbar";
-@import "components/split-pane";
-@import "components/checkbox-tree";
-@import "components/search-results";
-@import "components/midd-footer";
+@include meta.load-css("components/header");
+@include meta.load-css("components/navbar");
+@include meta.load-css("components/split-pane");
+@include meta.load-css("components/checkbox-tree");
+@include meta.load-css("components/search-results");
+@include meta.load-css("components/midd-footer");
 
 // Helpers
-@import "helpers/screen-reader";
-@import "helpers/font";
-@import "helpers/text";
+@include meta.load-css("helpers/screen-reader");
+@include meta.load-css("helpers/font");
+@include meta.load-css("helpers/text");
