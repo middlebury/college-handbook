@@ -28,15 +28,15 @@
     "gatsby-remark-find-replace": "^0.3.0",
     "gatsby-source-filesystem": "^5.14.0",
     "gatsby-transformer-remark": "^6.14.0",
-    "gh-pages": "^6.2.0",
-    "marked": "^15.0.3",
+    "gh-pages": "^6.3.0",
+    "marked": "^15.0.6",
     "react": "^18.3.1",
     "react-checkbox-tree": "^1.7.2",
     "react-dom": "^18.3.1",
     "react-helmet": "^6.1.0",
     "react-icons": "^5.4.0",
     "react-use-flexsearch": "^0.1.1",
-    "sass": "^1.82.0"
+    "sass": "^1.83.1"
   },
   "overrides": {
     "graphql": "^16.7.1"
