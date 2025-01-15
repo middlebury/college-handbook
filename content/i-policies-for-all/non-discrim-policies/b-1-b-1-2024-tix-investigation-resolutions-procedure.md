@@ -1,20 +1,13 @@
 ---
 slug: /pages/i-policies-for-all/non-discrim-policies/b-1-b-1-2024-tix-investigation-resolutions-procedure
-title: B.1.b (1) TIX Investigation & Resolutions Procedure (eff. 8/1/24)
+title: "B.1.b (1) TIX Investigation & Resolutions Procedure "
 date: 2024-08-01
 ---
-
-NOTE: This Procedure will be in effect August 1, 2024, and will not apply retroactively.  For Prohibited Conduct allegedly occurring before August 1, 2024, the College will apply the definition of Prohibited Conduct and procedures in place at the time of the alleged conduct.[\[a\]](#a) For Prohibited Conduct allegedly occurring on or after August 1, 2024, the definition of Prohibited Conduct and procedures set forth in this Procedure will apply, to the fullest extent permitted by applicable law.[\[b\]](#b) Middlebury retains discretion to make appropriate adjustments to promote fairness and consistency. The Parties will be notified in advance of any proceedings which definition(s) and procedures apply.
-
----
-
-##### \[a\] The prior policies and procedures that were in affect immediately prior to the effective date of the current policies and procedures can be found [here](/assets/2020-2024-non-discrimination-policies-and-procedures.pdf). {#a}
-
-##### \[b\] As of the time this Procedure was published on August 1, 2024, several federal courts had enjoined the Department of Education from implementing, enacting, or enforcing the April 2024 Title IX regulations referenced above as to numerous states and hundreds of colleges and universities across the country attended by members of certain non-profit student organizations. In light of these developments, Middlebury will implement the policies and procedures set forth in this Procedure to the fullest extent that it can do so within the scope of its inherent authority to enact College policies for the benefit of the Middlebury community (including the definitions of Prohibited Conduct stated in this Procedure), but it will also apply procedural features of prior policies as deemed necessary under applicable law. Parties to formal proceedings conducted under this Procedure will be notified which procedures will apply.{#b}
+**NOTE: THIS PROCEDURE IS CURRENTLY UNDER REVIEW.** The 2024 Title IX Final Rule has been vacated nationally in a decision by the United States District Court for the Eastern District of Kentucky. In this decision, the court states that the Department of Education exceeds its statutory authority in implementing the 2024 Title IX Final Rule and violates the First Amendment of the Constitution. This means that as of January 9, 2025, the 2024 Title IX Final Rule is no longer in effect for all schools receiving federal funding in the United States and that they must revert to the 2020 Title IX Final Rule, but we are awaiting further guidance from the Department of Education as to the compliance timeline. The prior policies and procedures that were in affect immediately prior to the effective date of the 2024 policies and procedures can be found [here](/assets/2020-2024-non-discrimination-policies-and-procedures.pdf).
 
 ---
 
-**B.1.b (1) TIX Investigations & Resolutions Procedure (eff. 8/1/24)**
+**B.1.b (1) TIX Investigations & Resolutions Procedure**
 
 **A. General Provisions** 
 
