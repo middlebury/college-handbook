@@ -1,8 +1,9 @@
 ---
-slug: /pages/i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy
+slug: /pages/i-policies-for-all/non-discrim-policies/b-1-b-1-2024-tix-investigation-resolutions-procedure
 title: B.1.b (1) TIX Investigation & Resolutions Procedure (eff. 8/1/24)
 date: 2024-08-01
 ---
+
 NOTE: This Procedure will be in effect August 1, 2024, and will not apply retroactively.  For Prohibited Conduct allegedly occurring before August 1, 2024, the College will apply the definition of Prohibited Conduct and procedures in place at the time of the alleged conduct.[\[a\]](#a) For Prohibited Conduct allegedly occurring on or after August 1, 2024, the definition of Prohibited Conduct and procedures set forth in this Procedure will apply, to the fullest extent permitted by applicable law.[\[b\]](#b) Middlebury retains discretion to make appropriate adjustments to promote fairness and consistency. The Parties will be notified in advance of any proceedings which definition(s) and procedures apply.
 
 ---

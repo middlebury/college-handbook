@@ -57,9 +57,15 @@ export const policiesForAllNodes = [
           },
           {
             value:
-              "i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy",
-            label: "B.1.b (1). Title IX Investigation & Resolutions Policy",
-            className: "b-1-b-1-title-ix-investigation-resolutions-policy",
+              "i-policies-for-all/non-discrim-policies/b-1-b-1-2024-tix-investigation-resolutions-procedure",
+            label: "B.1.b (1). 2024 TIX Investigation & Resolutions Procedure",
+            className: "b-1-b-1-2024-tix-investigation-resolutions-procedure",
+          },
+          {
+            value:
+              "i-policies-for-all/non-discrim-policies/b-1-b-2-2020-tix-investigation-resolutions-procedure",
+            label: "B.1.b (2). 2020 TIX Investigation & Resolutions Procedure",
+            className: "b-1-b-2-2020-tix-investigation-resolutions-procedure",
           },
           {
             value: "i-policies-for-all/non-discrim-policies/ada-policy",
