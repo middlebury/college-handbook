@@ -1,8 +1,12 @@
 ---
 slug: /pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy
 title: B.1.a. Non-Discrimination Policy
-date: 11/22/2024
+date: 01/15/2025
 ---
+**THIS POLICY IS CURRENTLY UNDER REVIEW.** The 2024 Title IX Final Rule has been vacated nationally in a decision by the United States District Court for the Eastern District of Kentucky. In this decision, the court states that the Department of Education exceeds its statutory authority in implementing the 2024 Title IX Final Rule and violates the First Amendment of the Constitution. This means that as of January 9, 2025, the 2024 Title IX Final Rule is no longer in effect for all schools receiving federal funding in the United States and that they must revert to the 2020 Title IX Final Rule, but we are awaiting further guidance from the Department of Education as to the compliance timeline. The prior policies and procedures that were in affect immediately prior to the effective date of the 2024 policies and procedures can be found [here](/assets/2020-2024-non-discrimination-policies-and-procedures.pdf).
+
+---
+
 Middlebury is committed to creating and maintaining a diverse, equitable and inclusive campus environment where we value openness, curiosity, rigor, and equality. Discrimination, including harassment, is antithetical to our values and mission, and, therefore, Middlebury seeks to eradicate unlawful discrimination based on protected personal characteristics in its educational and employment environments.
 
 Individuals who feel they have experienced discrimination, including harassment, based on a protected personal characteristic are strongly encouraged to report the behavior to our [Civil Rights and Title IX office](https://www.middlebury.edu/title-IX/about) (“CRTIX”). Middlebury provides timely services to those who have been affected by discrimination, including harassment.  It is not necessary to file a complaint with Middlebury or participate in an adjudication process in order to request “supportive measures” from Middlebury. Appropriate supportive measures may vary depending on specific facts and circumstances and will be determined on a case-by-case basis. Moreover, Middlebury provides procedures to assure prompt and equitable investigation and resolution intended to stop discrimination/harassment, remedy harms and prevent repetition.
