@@ -7,7 +7,7 @@ date: 2024-08-01
 
 ---
 
-**B.1.b (1) TIX Investigations & Resolutions Procedure (eff. 8/1/24)**
+**B.1.b (1) TIX Investigations & Resolutions Procedure**
 
 **A. General Provisions** 
 
