@@ -1,289 +1,411 @@
 ---
 slug: /pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin
 title: B.1.b. Non-Discrimination Investigations & Resolutions Procedure
-date: 2021-05-01
+date: 01/17/2025
 ---
-## A. General Provisions
-
-## 1.    Scope
-
-Except as otherwise specified herein, this  Non-Discrimination Investigations & Resolutions Procedure **(“Procedure”)** applies to faculty, staff, students, and applicants (for employment at Middlebury or to Middlebury's programs; hereinafter referred to as "applicants") as well as to others who participate in Middlebury programs and activities, including the undergraduate college, the Language Schools, the School of the Environment, MiddCore, Bread Loaf School of English, Bread Loaf Writers’ Conference, Middlebury College Schools Abroad, and the Middlebury Institute of International Studies at Monterey (“the Middlebury Institute”). The policy also applies to volunteers, interns and persons providing services pursuant to a contract to the extent required by applicable local law.
-
-See also the Addendum applicable to California employees only, available at [Appendix A: Addendum Applicable to California Employees](https://handbook.middlebury.edu/assets/appendix-a_addendum-applicable-to-california-employees.pdf).
-
-This Procedure is available online at go/antiharassment. Printed copies may be requested from the Civil Rights and Title IX Coordinator.
-
-There are many resources available to individuals who are involved in some way with an incident of discrimination, retaliation, or harassment, including sexual harassment. Please see Appendix [A](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin#A) for contact information.
-
-## 2.    Proceedings Outside of Middlebury
-
-Any individual has the right to pursue discrimination and harassment complaints, including sexual harassment and related retaliation utilizing local, state, or federal enforcement agencies, including local and state police agencies, as appropriate, regardless of whether they choose to file a complaint with Middlebury (see contact information available on the Civil Rights and Title IX website). The agencies listed on the Civil Rights and Title IX website can conduct impartial investigations, and facilitate conciliation, and, if an agency finds that there is probable cause or reasonable grounds to believe that unlawful harassment, discrimination, or retaliation has occurred, it may take the case to court.
-
-a. Criminal Complaints
-
-Any student or employee may pursue criminal charges with local, state, or federal law enforcement agencies. Middlebury will offer and, upon request, provide assistance to individuals covered under this procedure with notifying law enforcement agencies. These options are available regardless of whether an individual chooses to file a complaint with Middlebury. Individuals have the option to notify such agencies with or without assistance from Middlebury, and have the option not to personally notify such authorities.
-
-b. Orders of Protection
-
-Middlebury does not have the authority to issue Relief From Abuse Orders, Orders of Protection or Restraining Orders as these are granted by the court system. Individuals who have experienced Title IX Sexual Harassment may be eligible to pursue Orders of Protection, Restraining Orders and/or Relief from Abuse Orders from courts in the United States or courts outside of the United States as applicable. Middlebury will offer its support to individuals if they request Middlebury’s assistance with making contact with law enforcement authorities and other external resources to seek such orders. Middlebury will respect such orders to the extent applicable.
-
-c. Assistance by Middlebury
-
-Requests for assistance with contacting law enforcement authorities or obtaining an Order of Protection, a Relief from Abuse Order, a Restraining Order or other lawful order may be made in person, via email, phone or teleconference to the CRTIX Coordinator, an HRO, or Public Safety For additional information regarding making reports to the police and/or obtaining an Order of Protection, Restraining Order, or Relief from Abuse Order.
-
-## 3.    What This Procedure Covers
-
-This Non-Discrimination Investigations & Resolutions Procedure is intended to address instances of prohibited discrimination, including sexual harassment and other harassment, as defined in Middlebury’s Non-Discrimination Policy that are not required by the Department of Education to be handled under Middlebury’s Title IX Investigation & Resolutions Procedure.
-
-Middlebury may, in exceptional circumstances, vary from this Procedure. So long as such a variation is consistent with relevant law and allows for fundamental fairness in the processes followed, variations from this process under those circumstances will not invalidate an outcome.
-
-Middlebury complies with all applicable provisions of state and federal law which prohibit discrimination in employment, or in admission or access to its educational or extracurricular programs, activities, or facilities. With respect to Middlebury programs operating in states other than Vermont (e.g., California, New Mexico, and Washington D.C.), discrimination shall be defined as stated in the Non-Discrimination Policy unless the local law applicable to the program at issue mandates a broader definition, in which case such law will apply.
-
-## 4.    Retaliation
-
-Retaliation against an individual for raising an allegation of discrimination, for cooperating in an investigation of such a complaint, or for opposing discriminatory practices is prohibited under the Non-Discrimination Policy.
-
-## 5.    Confidentiality
-
-Certain Middlebury employees may maintain confidentiality, but most cannot. Although strict confidentiality may therefore not be guaranteed, in all cases Middlebury will handle information in a sensitive manner and will endeavor to protect the privacy of individuals and maintain confidentiality to the extent possible consistent with its obligations to respond to reports of discrimination, harassment and/or related retaliation.
-
-This section is intended to inform students, faculty, and staff of the various reporting and confidential disclosure options available to them, so that they can make informed choices about where to go for help.
-
-a. Confidential Resources
-
-A confidential resource is an individual who is legally and ethically bound to keep confidential all information shared with them in the course of providing counsel and support, except under the circumstances noted below. Middlebury respects that the decision to come forward may be difficult and that individuals may wish to seek assistance from someone who can provide confidential information and support, and who can provide assurances that what is disclosed will not be acted on except in the circumstances outlined below. (For a list of confidential resources, see the Civil Rights and Title IX website).
-
-In general, the law recognizes and protects the confidentiality of communications between a person seeking care and a medical or mental health professional, religious advisor or MiddSafe Advocate. The medical, mental health, religious professionals and MiddSafe advocates at Middlebury and their off-campus counterparts respect and protect confidential communications from students, faculty, and staff to the extent they are legally able to do so. These professionals may have to breach a confidence, however, when they perceive a serious risk of danger or threat to any person or property. In addition, medical and mental health professionals may be required by law to report certain crimes (e.g., any allegation of sexual and/or physical abuse of a person under 18). These exceptions to confidentiality are governed by the law of the state in which the confidential resource is located.
-
-An individual who speaks to a confidential resource must understand that, if they want to maintain confidentiality, Middlebury will be unable to conduct an investigation into the particular incident or pursue disciplinary action against the individual who is alleged to have violated this policy.
-
-b. Non-Confidential Resources
-
-Non-confidential resources are all faculty or staff members, including ombudpersons and residential life staff who are not medical or counseling professionals, clergy, or MiddSafe Advocates, and are therefore not permitted to honor requests for confidentiality. Non-confidential faculty or staff who learn of an incident of discrimination, harassment or related retaliation involving a student are required to report that information to the HRO. (See Section B.1. for more information).
-
-Faculty and staff who are “[Campus Security Authorities](https://www.middlebury.edu/offices/health/publicsafety/csa)” are required to report certain crimes to the Department of Public Safety for the purpose of compliance with the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act.
-
-Employees with supervisory responsibility are expected to report all incidents of harassment, discrimination and related retaliation involving employees to the HRO and/or to Human Resources.
-
-General inquiries to Middlebury officials about policies or procedures, and conversations in which the alleged wrongdoer is not identified by name or by implication from the circumstances may remain private. Otherwise, individuals who want to maintain confidentiality should seek a confidential resource.
-
-c. Confidentiality
-
-Middlebury is responsible for providing a safe and nondiscriminatory environment for students, faculty and staff.  Outside of the Confidential Resources outlined above, Middlebury will take reasonable steps to avoid disclosure of the identity of a complainant.  Depending on a number of factors including the specifics of a concern, the identity of a complainant may become readily apparent.  Middlebury will only disclose information regarding a concern of discrimination on a need to know basis or as required to by law.
-
-d. Other Disclosures Required by Law
-
-Middlebury will not include the names of complainants or other identifying information in publicly available reports as required by the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act. In certain circumstances, Middlebury may need to report an incident to law enforcement authorities. Such circumstances include but are not limited to incidents that warrant the undertaking of safety and security measures for the protection of the individual and/or the campus community, instances involving abuse of minors, or situations in which there is clear and imminent danger and/or a weapon may be involved.
+**NOTE: THIS PROCEDURE IS CURRENTLY UNDER REVIEW**. Although this Procedure is not used to process claims of discrimination/harassment falling under Title IX, this procedure is connected to Middlebury’s Non-Discrimination Policy, which is currently under review based on a recent court decision concerning the 2024 Title IX regulations. Out of an abundance of caution, Middlebury is reviewing this non-Title IX procedure to ensure that it is consistent with the current state of the law.
 
 ---
 
-## B. Procedures for Addressing Harassment, Discrimination and Related Retaliation
-
-Middlebury encourages individuals to report incidents of discrimination, harassment and related retaliation so that they can obtain support and information and so that Middlebury can respond appropriately.  Individuals are encouraged to report their concerns to the Civil Rights and Title IX Coordinator.
-
-## 1.    Reporting Requirements for Staff and Faculty
-
-All members of Middlebury’s community are expected to promote an environment free from prohibited discrimination, harassment, including sexual harassment, and related retaliation.
-
-Any faculty or staff member who learns of an incident of discrimination, harassment, or related retaliation involving a student must report this information to a Middlebury Human Relations Officer or the Civil Rights and Title IX Coordinator (see [Appendix A](/pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin#A) for contact information), or the appropriate dean or program director in cases involving the Language Schools, Schools Abroad, Bread Loaf, the Middlebury Institute, MiddCore, School of the Environment, or other Middlebury program, as applicable, unless their status as a confidential resource precludes this disclosure. Confidential resources include the staff of the Center for Health and Wellness, the staff of the Chaplain’s Office, MiddSafe Advocates, or other medical, counseling, support or religious personnel and volunteers who are required by law to maintain confidentiality. Please see Section A.5. Confidentiality for more information.
-
-Employees with supervisory responsibility must report incidents of discrimination, harassment, including sexual harassment, or retaliation, and, if directed by HR or another appropriate official, take appropriate remedial action should such matters come to their attention. Supervisors should report any complaints or suspected acts of harassment, discrimination, or retaliation (even if they do not involve direct reports) to a HRO, Human Resources, or the Civil Rights and Title IX Coordinator in accordance with Section 2, below. Depending upon the circumstances of a given situation, supervisors may be responsible for taking steps such as, by way of example but not limitation, addressing issues directly with staff, faculty, or students whom they supervise, facilitating informal resolution or mediation of issues, providing information on avenues to address questions of harassment, discrimination, and/or retaliation, or pursuing complaints under the complaint procedures described here.
-
-Failure to report or address harassment, discrimination, or retaliation complaints or suspected acts of harassment, discrimination, or retaliation appropriately in accordance with this section may be considered a violation of Middlebury’s policy.
-
-## 2.    Complaint Procedures
-
-Any Middlebury student, faculty member, staff member or applicant (for employment or to any Middlebury program) who has reasonable cause to believe that discrimination or harassment, including sexual harassment, has occurred or is occurring, or who believes that a student, faculty member, staff member or applicant has been subjected to retaliation for having brought or supported a complaint of discrimination or harassment, is encouraged to bring that information to the immediate attention of the official who is designated to receive such reports in the Middlebury program at issue (reports or complaints can be made verbally or in writing).[\[1\]](#_ftn1) Reports may also be made to the Civil Rights and Title IX Coordinator or any HRO (student, faculty and staff matters), or to Human Resources (employees).
-
-If the designated HRO is unavailable, or if the HRO has a conflict of interest, the report should be made to the designated alternate HRO for the program at issue. The alternate shall have the same authority as the designated HRO to oversee investigations and adjudicate harassment, discrimination, and retaliation complaints. The names and contact information for offices and/or individuals serving as Human Relations Officers and alternate Human Relations Officers in Middlebury’s various programs and locations are listed on the Civil Rights and Title IX website.
-
-Middlebury encourages students, faculty, staff and applicants to report instances of unwelcome protected-characteristic-related conduct (including unwelcome conduct of a sexual nature) even if the conduct is not sufficiently severe such that it undermines and detracts from or interferes with an individual’s education, work performance, or access to Middlebury resources, or creates an intimidating, hostile, or offensive educational, work, or living environment. Middlebury encourages such reports, including through our online form, so that the behavior can be addressed before it creates a hostile environment for the affected individual. In such instances, the HRO and/or other Middlebury officials, to the extent appropriate, will address the conduct in a manner that is reasonably calculated to prevent its reoccurrence.
-
-When the HRO receives actual notice – i.e., a written or oral complaint or report directed to the HRO – of conduct that may constitute prohibited discrimination or harassment (including sexual harassment) or related retaliation that may be investigated and adjudicated under this Procedure, Middlebury will initiate the following process, except as otherwise provided in subsection 5, below:
-
-a. The HRO will promptly determine initially whether the report or complaint alleges conduct that is prohibited by the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy) and whether an investigation and adjudication should proceed under this Procedure.
-
-b. If the HRO determines that the report or complaint does fall within the scope of  the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy) and that an investigation and adjudication should proceed, a copy of the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy) and this Procedure will be provided to the complainant and the respondent and the parties will be notified that Middlebury is investigating the possibility that the respondent has violated the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy) using this Procedure (absent extenuating circumstances). The HRO will then, individually or in conjunction with other Middlebury offices or individuals (including, if warranted, independent investigators), promptly and equitably conduct or supervise an investigation that is appropriate under the circumstances. The investigation will be conducted in a prompt, thorough, fair, timely, equitable, and impartial manner.
-
-The investigator is authorized to contact any and all individuals; Middlebury recognizes, however, that individuals who are bound by legal privileges may not be able to disclose privileged information, unless an exception applies. The investigator is authorized to access relevant records, except those legally protected as confidential or privileged, and may collect any additional evidence relevant to the complaint. The nature and scope of the investigation is within the sole discretion of the investigator and/or the HRO.
-
-All witnesses identified in connection with an investigation under this Procedure are expected to cooperate fully in the investigation by providing complete, accurate, and truthful information. Middlebury policy prohibits intentionally making a false report or providing false or misleading information in any investigation under this Procedure. Complainants will not be deemed to have provided false or misleading information under this policy if their factual allegations are intended to be truthful and are made in good faith, regardless of whether the conduct complained of is ultimately found to constitute a policy violation.
-
-Witnesses may be expected to sign statements or other documents memorializing the information provided in the course of the investigation and may be asked to keep the substance of the investigation interview confidential. Failure to cooperate fully with the investigator or other Middlebury official (including but not limited to providing false information, as described above) may subject the employee or student to the full range of disciplinary actions available to the supervising authority or responsible official in accordance with the program’s existing policies and/or contracts, as applicable, up to and including termination of employment or suspension or expulsion from Middlebury.
-
-The parties may retain legal counsel at any time, although legal counsel is not permitted to participate in Middlebury’s investigation and adjudication process under this Procedure. Attorneys who wish to communicate about a case may contact Middlebury’s legal counsel directly.
-
-In cases where the student is a respondent, if at any point prior to or during the investigation and adjudication process, the HRO becomes aware that other Middlebury policies may have been violated in relation to the matter under investigation, these alleged policy violations may, where appropriate, also be resolved through the investigation and adjudication process in this Procedure. The decision to investigate and adjudicate other alleged policy violations is within the sole discretion of the HRO. In all cases the parties will be notified if the HRO determines that additional alleged policy violations will be investigated and adjudicated in accordance with the procedures set forth herein.
-
-c. The HROs, Civil Rights and Title IX Coordinator, Vice President for Academic Affairs/Dean of Faculty (“VPAA”), Human Resources Department, Vice President for Student Affairs and Dean of Students, Vice president for Academic Affairs and Dean of the Language Schools, Dean of International Programs, RDs, public safety staff, or other supervisory authority for the program at issue (or their designees) may also at any time take appropriate steps, including by way of example only, issuance of No Contact Orders, temporary changes in assignment of duties or housing, changes in class schedules or class requirements, or other accommodations, as appropriate, to protect complaining parties on an interim basis.
-
-d. After the investigation is completed, the investigator shall issue a report to the adjudicating HRO, together with recommended findings, based on a preponderance of the evidence standard, i.e., whether it was more likely than not that the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy) (or other Middlebury policies, if applicable) was violated. The report may be issued orally or in writing depending on the nature and complexity of the information.
-
-e. The adjudicating HRO is not bound by the investigator’s report. Rather, it is advisory to the HRO. The adjudicating HRO may accept or reject the investigator’s recommended finding in whole or in part, and may request additional relevant information before making a determination. The HRO should avoid duplicating the efforts of the investigator, as well as accepting the investigator’s recommended finding without careful review of all of the evidence.
-
-f. Either party may choose to meet individually with the adjudicating HRO prior to the HRO’s determination. The HRO may also request an individual meeting with either party or any other person(s) as appropriate.
-
-g. After review of the investigator’s report and recommended finding, the HRO shall issue a determination as to whether a violation of the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy) occurred. The HRO’s determination will be based on a preponderance of the evidence standard, and the HRO will reach a reasonable conclusion based on the evidence presented.
-
-h. If the HRO finds that a staff or faculty member has engaged in conduct that violates the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy) the HRO will refer the matter to the appropriate supervisory authority  (e.g., the Middlebury College VPAA or designee, Provost, the Middlebury Institute’s Chief Academic Officer or designee \[“the Middlebury Institute’s CAO”\], Vice President for Academic Affairs and Dean of the Language Schools, Dean of International Programs, in the case of a faculty member, as applicable to the program at issue, and/or the Middlebury College Human Resources Department, or the Middlebury Institute’s Human Resources Department, as applicable, in the case of a staff member) to take appropriate remedial measures. The supervisory authority may impose disciplinary action under existing policies and/or contracts, as applicable (e.g., verbal warnings, written warnings, written reprimands, or termination of employment), or other action as deemed appropriate under the circumstances.
-
-i. If the HRO finds that a student has engaged in conduct that violates the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy) (or other Middlebury policies under investigation, if applicable), the HRO will refer the matter to the supervisory authority for the program in which the student is enrolled at the time of the misconduct and the supervisory authority for any other Middlebury program in which the student is or will be enrolled (e.g., the Vice President for Student Affairs and Dean of Students,  Vice President for Academic Affairs and Dean of the Language Schools, Dean of International Programs, Dean of the Institute, Director of the Bread Loaf School of English, Director of the Bread Loaf Writer’s Conference, etc.), as applicable, for disciplinary action. Such disciplinary action could include warnings, written reprimands, probationary status, official college discipline, or suspension or expulsion from any or all Middlebury program(s) in which the student is or will be enrolled or participating, or other action as deemed appropriate under the circumstances (e.g. remedies applied to the respondent to address the needs of the complainant, including but not limited to room changes, class changes, building restrictions, extracurricular activity restrictions, modification of No Contact Orders to favor the complainant, and other actions to preserve the rights of the complainant to a discrimination-free environment). Additional non-disciplinary outcomes, such as extending and modifying mutual No Contact Orders, may also be imposed regardless of the finding.
-
-If the conduct occurred during the course and scope of the student’s employment at Middlebury, the matter will be referred jointly to the Human Resources Department and the appropriate supervisory authority for the program(s) at issue, as applicable, for disciplinary action up to and including termination of employment and expulsion from Middlebury, or other action as deemed appropriate under the circumstances (see above).
-
-j. To the extent permitted by law, the complainant and respondent will be afforded the same rights and opportunities throughout the investigation and adjudication process, including the opportunity to present witnesses and other evidence. However, the decision to interview particular witnesses or consider evidence offered by the parties is within the sole discretion of the HRO and/or investigator.
-
-k. The complainant and respondent will ordinarily be notified of the HRO’s determination as to whether there was a policy violation. In sexual harassment cases involving student complainants, both parties will be notified of the HRO’s determination simultaneously in writing, to the extent permitted by law. However, information regarding discipline or sanctions will not be shared with any complainant under this policy except as permitted or required by law.[\[2\]](#_ftn2)
-
-## 3.    Timely Investigation and Determination
-
-Middlebury works to resolve all complaints handled under this Procedure in a timely manner. The investigation will be documented, and the HRO will track the investigation for reasonable and timely progress. Both the complainant and respondent will be informed when the investigation is complete, a determination has been issued, and, where appropriate, a sanction has been imposed.
-
-Middlebury will not wait for the conclusion of a criminal investigation or proceeding to begin its own investigation and resolve complaints under this policy. Middlebury will, however, comply with valid requests by law enforcement for cooperation in a criminal investigation. As such, Middlebury may need to delay temporarily an investigation under this policy while law enforcement is in the process of gathering evidence. Once law enforcement has completed gathering evidence, Middlebury will promptly resume and complete its investigation. Middlebury may also take interim measures to ensure the safety and well-being of the complainant and the school community while law enforcement is gathering evidence.
-
-## 4.    Appeals
-
-In cases where the respondent is a student, the complainant and respondent each has the right to appeal the outcome under the circumstances described below. The right of appeal is only available to a respondent or complainant who participated in the investigative process.
-
-The purpose of an appeal is to review the adjudication process.
-
-Appeals are accepted on the basis of one or more of the following:
-
-*   discovery of significant new factual material not available to the HRO that could have affected the original outcome; however, prior omission of factual information that the appealing party knew or reasonably should have known is not a ground for an appeal;
-*   procedural error where the error prevented fundamental fairness;
-*   The HRO, investigator(s), or another decision-maker(s) had a conflict of interest or bias for or against complainants or respondents generally, or the individual complainant or respondent, that affected the outcome of the matter.
-
-An appeal must be made in writing to the appellate officer for the program in connection with which the finding of responsibility was made. Therefore, an appeal must be directed to the VPAA (complaints against undergraduate students and complaints against MiddCore students), the Provost (complaints against Language Schools, Schools Abroad, Bread Loaf School of English, Bread Loaf Writers' Conference, and School of the Environment students) or the Middlebury Institute’s CAO (complaints against Institute students), as applicable.
-
-Appeals must be made within 5 days of receipt of notice of the HRO’s determination and must include the grounds for appeal and an outline of any supporting evidence.
-
-The Middlebury official responsible for hearing the appeal (i.e., VPAA, Provost, or the Middlebury Institute’s CAO, as applicable) will invite an informational response to the appeal from the HRO and the other party (to the extent permitted by law), who may respond within 5 business days of the request. The Middlebury official may request assistance from the original investigator, or from a new investigator, or any other relevant individual, as necessary.
-
-The Middlebury official may deny the appeal, or if one or more of the appeal grounds have been met, may:
-
-*   return the case to the original HRO for reconsideration; or
-*   appoint an alternate HRO  to review the case, which will ordinarily occur when the original outcome was deemed to be affected by an official's bias.
-
-It is the responsibility of the Middlebury official to determine which aspects of the case merit a new review, and to direct the HRO accordingly.
-
-Absent extenuating circumstances, the Middlebury official will notify the complainant and respondent of the appeal decision simultaneously in writing within 15 days, to the extent permitted by law, and will notify the HRO in writing of instructions for any further action.
-
-All decisions by the Middlebury official following a second review of the case are final.
-
-## 5.    Informal Resolutions/Disposition Prior to a Final Determination
-
-At all stages of the investigation and determination processes, Middlebury officials, when appropriate, may make available to complainants informal resolution options for resolving complaints. In assessing whether alternative dispute resolution is appropriate, Middlebury officials may consider factors such as, for example, (1) the nature of the allegations, (2) the agreement of the complainant and the respondent, (3) other relevant factors such as any disability of the complainant or the respondent, or any history of misconduct or other policy violations by the respondent. A complainant will not be required to engage in alternative dispute resolution and may end the alternative dispute resolution process at any time. If the complainant ends the alternative resolution process or if the process is either not appropriate or is unsuccessful, Middlebury officials shall continue to respond to the allegations in accordance with this Procedure.
-
-If at any point before or during the investigation, a student respondent chooses to accept responsibility under this policy, the HRO may issue a determination and refer the matter to the appropriate supervisory authority for the program at issue in accordance with Section B.2.i., above. The supervisory authority may issue a sanction and/or take other action that is reasonably calculated to address the harassment or discriminatory conduct and prevent its recurrence.
-
-## 6.    Scope of Oversight (Students)
-
-Students will be held accountable for the Scope of Oversight provision in section II.[B.2.a.iii.](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/a.-introductory-matters) of the Handbook.
-
-Middlebury retains sole discretion to determine whether to initiate an investigation and adjudication under this Procedure regardless of the outcome of any disciplinary proceeding conducted by a non-Middlebury institution or program and/or the outcome of any law enforcement investigation or court proceeding.
-
-In cases where a student is found responsible for a policy violation while participating in any Middlebury program, the finding of responsibility may also be referred to the appropriate authority overseeing any additional Middlebury program or other school or program in which the student is or will also be enrolled for other action as deemed appropriate (see also Section B.2.i., above). This may include but is not limited to: further investigation; additional adjudication under existing policies (using only information gathered in the first disciplinary process, or using subsequently gathered information, or both, as deemed appropriate by the overseeing authority); disciplinary action; or other remedies or processes deemed appropriate by the authority overseeing the additional Middlebury and/or other program or school in which the student is or will be enrolled.
-
-## 7.    Emergency Removals
-
-Middlebury’s Emergency Removals Policy is found at section [I.C.3](/pages/i-policies-for-all/health-safety/emerg-removals) of the Handbook.
-
-## 8.    Plans or Directives Issued by the Human Relations Officer
-
-In any case in which a finding of harassment, discrimination, or retaliation has been issued, violation of a plan or directive to address the harassment, discrimination, or retaliation may be grounds for further discipline.
-
-## 9.    Revisions & Complaints about the Civil Rights & TIX office
-
-The [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy) and this Procedure may be amended from time to time; the policies and procedures published on Middlebury’s Website should be consulted for any updates. Amended policies and procedures, as published through Middlebury’s Website, shall supersede wholly any prior versions. Reasonable accommodations will be provided for persons with disabilities who need assistance in reviewing the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy) and this Procedure and/or filing or pursuing a complaint under this Procedure, upon request.
-
-A student may file a complaint of discrimination, harassment, including sexual harassment, or related retaliation relating to the conduct of the HRO, Civil Rights and Title IX Coordinator,  or investigator appointed under this policy with Khuram Hussain, VP of Equity & Inclusion (315-729-2286; [khussain@middlebury.edu](mailto:khussain@middlebury.edu)), or the appropriate supervisory authority for the Institute, as appropriate given the program at issue. Faculty and staff may file complaints relating to the conduct of the HRO, Civil Rights and Title IX Coordinator, or investigator appointed under this policy with Khuram Hussain, VP of Equity & Inclusion (315-729-2286; [khussain@middlebury.edu](mailto:khussain@middlebury.edu)). These officials may appoint an individual to serve as a special alternate HRO, as appropriate.
-
-## 10.    The Human Relations Officer and Record Keeping
-
-The HRO may keep confidential records or reports developed under this Procedure and the actions taken in response to those reports, and use them for purposes such as to identify individuals or departments likely to benefit from training. Information about the HRO is available at several college offices: Human Relations Office, [Civil Rights and Title IX Coordinator/Compliance Officer](https://www.middlebury.edu/studentlife/doc/hro), [Vice President for Student Affairs and Dean of Students](https://www.middlebury.edu/college/student-life/dean-students), Student Life deans, Vice President for Academic Affairs and Dean of the Faculty, Public Safety, Human Resources, program directors, and the Middlebury Institute’s HROs.
+NOTE: This Procedure will be in effect August 1, 2024, and will not apply retroactively. For Prohibited Conduct allegedly occurring before August 1, 2024, the College will apply the definition of Prohibited Conduct and procedures in place at the time of the alleged conduct.[\[a\]](https://handbook.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy/#a) For Prohibited Conduct allegedly occurring on or after August 1, 2024, the definition of Prohibited Conduct and procedures set forth in this Procedure will apply, to the fullest extent permitted by applicable law. Middlebury retains discretion to make appropriate adjustments to promote fairness and consistency. The Parties will be notified in advance of any proceedings which definition(s) and procedures apply.
 
 ---
 
-## C. Policy on Consensual Relationships Between Faculty and Staff Members and Students
-
-The integrity and trust of the faculty-student relationship is central to Middlebury’s educational mission.  Amorous relationships, defined as any dating, sexual, or other romantic relationship of any length between a faculty member and a student, even if they are not directly in any advisory or teaching role, involve a power differential, and therefore raise serious questions about unfair grading or other imbalanced evaluation practices, conflicts of interest, favoritism and bias. These concerns have an adverse impact on the educational environment of other students, as well as the student directly involved.
-
-A seemingly consensual relationship between any employee with a student may meet the legal definition of sexual harassment, as lack of mutual consent may be inferred from the power differential between the employee – whether faculty or staff – and a student. Accordingly, amorous relationships between all Middlebury employees – faculty and staff – and all students enrolled in any Middlebury program are prohibited.
-
-In exceptional cases falling outside of the anticipated scope of this policy, such as a relationship between an employee and a graduate student in an unrelated Middlebury program, exemptions to this policy may be granted by the Vice President for Academic Affairs/Dean of Faculty (“VPAA/DoF”), or their designee(s), for faculty members, and the Vice President of Human Resources (“VPHR”), or their designee(s), for staff members.  Any employee, whether faculty or staff, who wishes to request such an exemption, shall submit a written statement to the VPAA/DoF or the VPHR, as applicable, explaining the reasons for the request. The VPAA/DoF or the VPHR will consult with the student and then respond in writing to the faculty or staff member with their decision and any conditions of approval that may apply, as applicable.
-
-Questions about this policy shall be directed to the VPAA/DoF for faculty, or the VPHR for staff.
-
-If Middlebury receives information that a faculty or staff member has violated this policy, the procedures laid out in the applicable misconduct policy shall be followed. If the employee is found to have violated this policy, the faculty or staff member will be subject to all appropriate discipline, including termination, consistent with the procedures of the applicable policy.
+ \[a\] The policies and procedures that were in effect immediately prior to the effective date of the current policies and procedures can be found [here](https://handbook.middlebury.edu/assets/2020-2024-non-discrimination-policies-and-procedures.pdf).
 
 ---
 
-## D. Intellectual Inquiry and Debate
+**A. General Provisions**
 
-Middlebury is a community of learners and as such recognizes and affirms that free intellectual inquiry, debate, and constructive dialogue are vital to Middlebury’s academic mission and must be protected even when the views expressed are unpopular or controversial. Middlebury’s [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy) and this Procedure are meant neither to proscribe nor to inhibit discussions, in or out of the classroom, of complex, controversial, or sensitive matters, including sex, sexual orientation, gender identity or expression, race, color, ethnicity, religion, marital status, place of birth, ancestry, national origin, age, or disability, when in the judgment of a reasonable person they arise appropriately and with respect for the dignity of others. Middlebury also recognizes that verbal conduct can be used specifically to intimidate or coerce and to inhibit genuine discourse, free inquiry, and learning. Such abuses are unacceptable. The "reasonable person standard" is to be used in judging whether harassment has occurred.
+**I.        Purpose**
 
----
+ Middlebury strictly prohibits conduct that constitutes unlawful protected personal characteristic-based discrimination and harassment, as well as related retaliation, through its [Non-Discrimination Policy](https://handbook.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy/). Through this Non-Discrimination Investigations and Resolutions Procedure (“Procedure”), administered by the [Middlebury Civil Rights and Title IX office](https://www.middlebury.edu/title-IX/about) (“CRTIX”), Middlebury takes reasonable and appropriate remedial action to prevent unlawful protected personal characteristic-based discrimination, harassment, and related retaliation, eliminate any hostile environment, prevent its recurrence, and address its discriminatory effects on all those impacted, if applicable. CRTIX may, depending upon the circumstances, vary from this Procedure. So long as such a variation is consistent with relevant law and allows for fundamental fairness in the processes followed, variations from this Procedure under those circumstances will not invalidate an outcome or constitute a basis for appeal.
 
-## GLOSSARY
+**II.      What this Procedure Covers**
 
-**Human Relations Officer**
+This Procedure applies to allegations of non-sex-based violations of the Non-Discrimination Policy, and to allegations of related retaliation, in both employment and access to educational opportunities.[\[1\]](#_ftn1) Where a complaint alleges other non-sex-based Middlebury policy violations arising out of the same facts and circumstances as allegations that must be addressed utilizing this Procedure, Middlebury may, in its discretion, address those other alleged violations through this Procedure.
 
-The Human Relations Officer (“HRO”) is the administrator responsible for overseeing investigations and adjudicating complaints under this policy.
+Except as otherwise specified herein, this Procedure applies to all Middlebury students,[\[2\]](#_ftn2) faculty, and staff, as well as to others who were participating or attempting to participate in Middlebury’s educational or employment programs and activities at the time the alleged misconduct occurred. This includes the undergraduate college, the Language Schools, the School of the Environment, Bread Loaf School of English, Bread Loaf Writers’ Conference, the Middlebury Institute of International Studies at Monterey ("the Institute"), and the Schools Abroad. Faculty and staff are, together, referred to as “Employee” or “Employees” in this Procedure.
 
-**Civil Rights and Title IX Coordinator**  
-The Civil Rights and Title IX Coordinator is the administrator responsible for receiving initial complaints and concerns about any form of discrimination and/or harassment, as well as coordinating training, outreach, etc.
+**B. Reporting Violations of the Non-Discrimination Policy**
 
-**Complainant**
+Middlebury encourages individuals to report potential violations of the Non-Discrimination Policy so that they can obtain support and information and so that Middlebury can respond appropriately.
 
-A complainant is usually an individual who has alleged a violation(s) of Middlebury’s [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy) that can be investigated and adjudicated under this Procedure. In some cases (such as, e.g., cases in which a person involved in an incident of an alleged policy violation does not wish to participate in the process but Middlebury decides that the alleged misconduct needs to be addressed), Middlebury may serve as the complainant or may pursue an investigation and adjudication under this Procedure without a designated complainant. In these cases, Middlebury may extend the full rights of the complainant as defined in this Procedure to affected parties as deemed appropriate by the HRO.
+In addition, as will be described below, Middlebury employees who learn of potential violations of the Non-Discrimination Policy are required to report that information to the Civil Rights and Title IX Coordinator (“CRTIX Coordinator”[\[3\]](#_ftn3)) unless they are deemed Confidential Resources (see below subsections B.II and B.III).   
 
-**Respondent**
+**I.        Making A Report**
 
-A respondent is an individual whose alleged conduct is being investigated to determine if it is in violation of the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy) or other Middlebury policies, if applicable. See also B.6.Scope of Oversight of this policy for more information.
+Any person who believes that they have been impacted by a violation of the Non-Discrimination Policy, or who has reason to believe that one has occurred or is occurring, should report this information to the immediate attention of the CRTIX Coordinator or to the Deputy Civil Rights and Title IX Coordinator (“Deputy CRTIX Coordinator”) at:
 
-**Confidential Resources**  
-Confidential resources include the staff of the Parton Center for Health and Wellness, the staff of the Chaplain’s office, Middlebury Safe and Confidential Advocates (“MiddSafe” [\[3\]](#_ftn3)) or other medical, counseling, support or religious personnel and volunteers who are required by law to maintain confidentiality. For more information, see Section A.5. Confidentiality.
+Butterfly Blaise Boire
 
-**No Contact Order**
+Civil Rights and Title IX Coordinator
 
-When harassment or other forms of interpersonal misconduct have been alleged, or when otherwise deemed appropriate under the circumstances, the vice president for student affairs and dean of students, vice president for academic affairs and dean of language schools, dean of international programs, RDs, Civil Rights and Title IX Coordinator, HRO, Public Safety staff, or appropriate supervisory authority for the program at issue may issue No Contact Orders to the persons involved, whether or not disciplinary action is taken. A No Contact Order is used to restrict encounters between individuals. While a No Contact Order in and of itself does not constitute discipline and will not appear in an employee’s personnel file or on a student’s disciplinary record, refusal to adhere to the order after written or verbal notification of its terms is prohibited and may result in disciplinary action.
+Middlebury College
 
-**No Trespass Notice**
+Service Building, Room 213
 
-A No Trespass Notice prohibits the presence of an individual on Middlebury property, or other properties on which Middlebury programs are occurring. No Trespass Notices are legally enforceable and may lead to the arrest of individuals in violation.
+84 S Service Rd
 
-**Days**
+Middlebury, VT 05753
 
-Unless otherwise noted, “days” indicates calendar days, regardless of whether the majority of Middlebury’s administrative offices are open. “Business days” indicates days on which the majority of Middlebury’s administrative offices are open, and generally connotes Mondays through Fridays.
+(802) 443-2147
 
----
-
-## Appendix A: Civil Rights and Title IX Coordinator {#A}
-
-Inquiries concerning the application of Title IX may be referred to Middlebury’s [Civil Rights and Title IX Coordinator](https://www.middlebury.edu/studentlife/doc/hro) or to the United States Department of Education Office for Civil Rights. The full text of Middlebury’s [Nondiscrimination Statement](https://www.middlebury.edu/about/handbook/general/nondiscrimination) is available at [https:www.middlebury.edu/pages/general/nondiscrimination](https://www.middlebury.edu/about/handbook/general/nondiscrimination). Printed copies may be obtained from the offices of the Vice President for Student Affairs, the Student Life deans, the Civil Rights and Title IX Coordinator, human relations officer(s) or the supervisory authority for the program at issue. Reasonable accommodations will be provided for persons with disabilities who need assistance in reviewing Middlebury’s [Nondiscrimination Statement](https://www.middlebury.edu/about/handbook/general/nondiscrimination) and its Non-Discrimination policies and procedures.
-
-The [Civil Rights and Title IX Coordinator](https://www.middlebury.edu/studentlife/doc/hro) is the administrator responsible for coordinating Middlebury’s efforts to comply with and carry out its responsibilities under Title IX. The Civil Rights and Title IX Coordinator’s responsibilities include overseeing the process for handling all Title IX complaints and identifying and addressing any patterns or systemic problems that arise during the review of such complaints.
-
-Middlebury’s Human Relations Officers serve as the Civil Rights and Title IX Coordinator’s designees for the purposes of overseeing investigations and adjudicating sexual harassment and related retaliation complaints under this policy and sexual misconduct and related retaliation complaints under Middlebury’s [Non-Discrimination Policy.](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy) Middlebury’s Alternate Human Relations Officers serve in a similar capacity as the Title IX Coordinator’s designee(s) when the Human Relations Officers are unavailable or have a conflict of interest.
-
-**Civil Rights & Title IX Coordinator**
-
-Butterfly Blaise Boire  
-802.443.2147  
-Service Building  
 [bboire@middlebury.edu](mailto:bboire@middlebury.edu)
 
-**Human Relations Officer**
+Taryn Moran
 
-Thaddeus Watulak, J.D.  
-802.443.5741  
-Service Building  
-[twatulak@middlebury.edu](mailto:twatulak@middlebury.edu)
+Deputy Civil Rights and Title IX Coordinator
+
+Middlebury College
+
+Service Building, Room 218
+
+84 S Service Rd
+
+Middlebury, VT 05753
+
+(802) 443-5840
+
+[tarynm@middlebury.edu](mailto:tarynm@middlebury.edu)
+
+You may also report to [knowyourrights@middlebury.edu](mailto:knowyourrights@middlebury.edu), by using the online reporting tool at _go/report_, or by visiting this [link to the official reporting form](https://docs.google.com/forms/d/e/1FAIpQLScdGEC6GzlLWXjerzahQSXdisBMProfp4Wj0ry-Pk9dYQYX5w/viewform).
+
+Middlebury’s CRTIX office staff also includes Human Relations Officers (“HROs”)[\[4\]](#_ftn4) who are able to receive reports of violations of the Non-Discrimination Policy in the event that the CRTIX Coordinator or Deputy CRTIX Coordinator are not available. For more information about the CRTIX office staff (including contact information), please visit [https://www.middlebury.edu/title-IX/about](https://www.middlebury.edu/title-IX/about). Concerns about discrimination, harassment, or related retaliation engaged in by any member of the CRTIX office should be directed to Middlebury’s Vice President for Equity and Inclusion, Khuram Hussain, at [khussain@middlebury.edu](mailto:khussain@middlebury.edu).  
+
+**II.      Confidential Reporting**
+
+Some members of the Middlebury community have legal obligations or privileges not to disclose information that is shared with them in their professional capacities.  These individuals are “Confidential Resources” who can be told about potential Non-Discrimination Policy violations in a confidential manner—meaning, they will not share with anyone else (including CRTIX) the information that has been disclosed to them in a way that identifies a reporting Party or the individuals involved in an incident of Prohibited Conduct (unless they are requested to by the reporting Party or a legal obligation requires it). Confidential Resources[\[5\]](#_ftn5) include:
+
+·         Medical and support staff at the Middlebury Center for Health & Wellness (including SANE nurses)
+
+·         Counseling Services
+
+·         MiddCare
+
+·         MiddSafe Advocates
+
+·         Chaplains within the Scott Center
+
+In addition, an employee of Middlebury who is conducting an Institutional Review Board-approved human-subjects research study designed to gather information about sex discrimination is a Confidential Resource. The employee’s confidential status, however, is only with respect to information received while conducting the study.
+
+Confidential Resources must explain to any reporting Party who describes conduct that reasonably may constitute Prohibited Conduct:
+
+·         The Confidential Resource’s status as confidential for purposes of this Procedure, and that they will not report information about conduct that reasonably may constitute Prohibited Conduct to CRTIX without the reporting Party’s permission;
+
+·         How to contact CRTIX and how to make a complaint of Prohibited Conduct; and
+
+·         That CRTIX may be able to offer and coordinate supportive measures, as well as initiate an informal resolution process or an investigation under Middlebury policy and procedures.
+
+Individuals who report incidents of discrimination and harassment to Confidential Resources should be aware that in certain limited circumstances, confidentiality may not be absolute.[\[6\]](#_ftn6) Individuals who are not employed by or affiliated with Middlebury are under no obligation to report anything to Middlebury.
+
+**III.    Mandatory Reporting**
+
+All Middlebury faculty and employees, other than those designated as Confidential Resources under the circumstances described above, are required to promptly report all known information about conduct that reasonably may constitute actual or suspected violations of the Non-Discrimination Policy to the CRTIX Coordinator or Deputy CRTIX Coordinator. This requirement applies to student-employees who receive such information in the context of their employment. Failure of an employee to report as required is a violation of Middlebury Policy and can subject an employee to disciplinary action.
+
+**IV.    Prohibition on Making False Reports**
+
+Middlebury prohibits intentionally making a false report or providing false or misleading information in the reporting of a complaint. Reporting Individuals will not be deemed to have provided false or misleading information under this Procedure if their factual allegations are intended to be truthful and are made in good faith, regardless of whether the conduct complained of is ultimately found to constitute a policy violation.
+
+**C. Supportive Measures and Non-Adjudicative Response Options**
+
+In many instances when CRTIX receives a report of alleged violations of the Non-Discrimination Policy, an investigative and adjudicative process (see Section D) will follow. If investigation and adjudication is not possible or is not the most appropriate means of addressing the allegations, CRTIX may take other actions depending on the circumstances, as described below. (These actions may also be taken in conjunction with an investigation).  
+
+**I.        Supportive Measures**
+
+Once CRTIX has received a report of an alleged Non-Discrimination Policy violation, a CRTIX staff member will engage in outreach to each known impacted Party to engage in a conversation about supportive measures.[\[7\]](#_ftn7) Supportive measures are non-punitive, non-disciplinary individualized services offered as appropriate, as reasonably available, and without fee or charge that are calculated  to restore or preserve access to Middlebury educational or employment programs, activities, and resources, or to provide support during an informal resolution process or an investigative resolution process. It is not necessary to participate in an investigation process in order to request supportive measures from Middlebury. Common supportive measures include: counseling; extensions of deadlines and other course-related adjustments; campus escort services; increased security and monitoring of certain areas of the campus; mutual restrictions on contact applied to one or more individuals; leaves of absence; changes in class, work, housing, or extracurricular activity, regardless of whether there is or is not a comparable alternative; and training and education programs related to protected personal characteristic-based harm.
+
+A Party seeking a supportive measure should request the measure by communicating with CRTIX, which will determine which supportive measures are reasonably necessary and appropriate.  CRTIX will notify both Parties, as appropriate, of approved, individualized supportive measures, and may deny, modify, or terminate any supportive measure based on all available information. Parties may also seek additional supportive measures or modification or termination of a supportive measure applicable to them if circumstances change materially. An impartial Middlebury employee, within CRTIX or otherwise, will determine whether or not to modify or reverse any initial decision to provide, deny, modify, or terminate supportive measures applicable to the Party requesting review. The question for consideration in such reviews will be whether the supportive measure under review is consistent or inconsistent with the definition of supportive measure stated above.
+
+Middlebury will maintain as confidential any supportive measures provided to the Reporting Individual or Respondent, to the extent that maintaining such confidentiality would not impair the ability of Middlebury to provide the supportive measures.
+
+All individuals are encouraged to report concerns about the failure of another individual to abide by any restrictions imposed by a supportive measure to Public Safety (802-443-5133 or 802-443-5911) after hours or in an emergency or to CRTIX in circumstances outside of an emergency situation. Middlebury will take prompt and responsive action to enforce supportive measures, which may include additional supportive measures and/or disciplinary penalties under student or employment disciplinary policies, as applicable.
+
+Middlebury may, as appropriate, modify or terminate supportive measures at the conclusion of any informal resolution process or investigative resolution process, or may continue them in the same or modified form beyond that point.
+
+**II.      Emergency Removal and/or Administrative Leave**
+
+If a report indicates a risk of violence or an emergency situation, Middlebury may remove someone from its educational programs or from employment consistent with its [Emergency Removals Policy](https://handbook.middlebury.edu/pages/i-policies-for-all/health-safety/emerg-removals/) and/or its Threat Assessment & Management practices.
+
+When the Respondent is an employee, or a student employee accused of misconduct in the course of their employment, Middlebury may take action in the form of placing the employee on paid or unpaid Administrative Leave, depending on the circumstances.
+
+**III.    Informal Resolution (Adaptable Resolution)** 
+
+Reports to CRTIX may be resolved through informal or “adaptable” resolutions, when appropriate. At all stages of the resolution process (including after an investigation has commenced), the CRTIX Coordinator, when appropriate, may make available to the Parties informal resolution options for resolving complaints. In assessing whether informal resolution is appropriate, the CRTIX Coordinator may consider factors such as, for example, (1) the nature of the allegations, (2) the agreement of the Reporting Individual and the Respondent, (3) other relevant factors such as any disability of the Reporting Individual or the Respondent, (4) any history of misconduct or other policy violations by the Respondent, and (5) whether the alleged conduct would present a future risk of harm to others. A Party will not be required to engage in informal resolution and may end the informal resolution process at any time. If a Party ends the informal resolution process or if the CRTIX Coordinator determines that the process is either not appropriate or is unsuccessful, CRTIX shall continue to respond to the allegations in accordance with this Procedure.
+
+To proceed with informal resolution, the CRTIX Coordinator must obtain the Parties’ voluntary, written consent to the informal resolution process. Middlebury will not require or pressure a Party to participate in informal resolution or to engage in any particular form of informal resolution, and will not require waiver of applicable rights to participate in investigative resolution as a condition of enrollment or continuing enrollment, or employment or continuing employment, or exercise of any other right.
+
+**IV.    Referral to the Community Bias Response Team (CBRT)**
+
+When reports made to the CRTIX office do not fall within the scope of the Non-Discrimination Policy but involve behavior that allegedly has a negative impact based on protected personal characteristics, CRTIX may refer the matter to the Community Bias Response Team ([Middlebury CBRT](https://www.middlebury.edu/community-bias-response-team)) to be addressed under CBRT’s procedures.
+
+It is not the purpose of CBRT to investigate, arbitrate, or to take the place of other Middlebury administrative processes; CBRT does not initiate disciplinary action or impose sanctions regarding bias incidents.
+
+**D. Investigation and Adjudication Process**
+
+**I.        Initial Assessment**
+
+Upon receipt of any report coming to CRTIX’s attention, the CRTIX Coordinator conducts an initial assessment to determine whether additional steps by CRTIX are necessary. For matters clearly not implicating the Non-Discrimination Policy and for which a person has not requested an investigation by CRTIX, the CRTIX Coordinator may refer the matter to another Middlebury office or unit and may communicate back with the Reporting Individual that no further action will be taken by CRTIX.
+
+Regardless of whether the CRTIX Coordinator determines that additional steps by CRTIX are necessary, the CRTIX Coordinator will engage in outreach to the impacted individual(s) and will offer supportive measures if applicable. 
+
+For those matters that require additional steps by CRTIX—i.e., matters where someone is explicitly asking for a CRTIX investigation or matters that are determined by the CRTIX Coordinator to potentially implicate the Non-Discrimination Policy—the CRTIX Coordinator informs an HRO[\[8\]](#_ftn8) who in turn performs the following evaluation.
+
+**II.      HRO Evaluation**
+
+The HRO (or designee) conducts an initial evaluation, for the purpose of determining whether an investigation can proceed, in which they assess:
+
+1.       Whether the Respondent and the alleged conduct are under Middlebury’s authority; and
+
+2.       Whether the alleged conduct, if shown by a preponderance of the evidence to have actually occurred, could be a violation of the Non-Discrimination Policy[\[9\]](#_ftn9)
+
+The HRO (or designee) may seek to obtain sufficient additional information to make this evaluation if the information available is insufficient on its own to allow for these assessments to be accurately made.
+
+If the HRO (or designee) determines that both factors have been met and thus that an investigation can proceed, this information will be communicated back to the Reporting Individual by the CRTIX Coordinator, along with information about what the investigative process entails and information about alternative informal processes for resolving the matter (if applicable). The CRTIX Coordinator will also solicit the Reporting Individual’s input as to whether the Reporting Individual wishes to proceed with an investigation. This input is given careful consideration but does not control whether an investigation will start.
+
+Middlebury’s obligation to respond to reported Prohibited Conduct occurring in its programs and activities may necessitate CRTIX to investigate even in situations where a Reporting Individual has not requested an investigation or has indicated that they do not wish to proceed with an investigation. The CRTIX Coordinator retains the discretion as to whether an investigation is initiated. The CRTIX Coordinator will consider, at a minimum, the following factors:
+
+1.       The severity of the alleged violation, including whether the violation, if established, would require the removal of a Respondent from campus or imposition of another disciplinary sanction to end the violation and prevent its recurrence;
+
+2.       The risk that additional violations would occur if an investigation is not initiated;
+
+3.       The scope of the alleged violation, including information suggesting a pattern, ongoing violations, or impacts to multiple individuals;
+
+4.       The age and relationship of the Parties, including whether the Respondent is an employee;
+
+5.       The availability of evidence to assist a decision-maker in determining whether a violation occurred;
+
+6.       The Reporting Individual’s request not to proceed with initiation of an investigation;
+
+7.       The Reporting Individual’s reasonable safety concerns regarding initiation of an investigation; and
+
+8.       Whether other options exist to end the violation and prevent its recurrence without initiating an investigation.
+
+**III.    Closure Based on HRO Evaluation**
+
+In matters where the HRO determines either (i) that the alleged conduct, if it were established by a preponderance of the evidence, would not constitute a violation of the Non-Discrimination Policy or (ii) that the Respondent and/or the reported conduct are not subject to Middlebury’s authority, the matter may be closed by CRTIX. When a matter is closed after the HRO’s evaluation, the alleged conduct may be referred by CRTIX to another Middlebury office (including but not limited to Human Resources or Community Standards) or may be addressed under another resolution procedure, if applicable.
+
+The CRTIX Coordinator will communicate back to the Reporting Individual(s) that an investigation is not available, and will offer supportive measures and/or refer the matter to another office or unit as applicable.
+
+**IV.    Investigation**
+
+**A.      CRTIX decision re: Scope of the Investigation**
+
+Based upon their evaluation of the matter, the HRO will determine which allegations will be investigated, with which Respondent(s). Ordinarily the CRTIX Coordinator or Deputy CRTIX Coordinator will review a written version of the allegations with the Reporting Individual to confirm those assertions. In matters involving more than one Reporting Individual or more than one Respondent, CRTIX may consolidate the matters into a single investigation when the allegations arise out of the same facts or circumstances.
+
+**B.      Written Notice issued**
+
+Once CRTIX has determined the scope of the investigation, the CRTIX Coordinator will ordinarily issue a written notice to the Parties,[\[10\]](#_ftn10) along with a copy of the Non-Discrimination Policy and this Procedure. The notice will indicate that Middlebury is investigating the possibility that the Respondent has violated the Non-Discrimination Policy using this Procedure and will ordinarily include:
+
+·         Specific information about the investigation and adjudication process that is applicable to the matter;
+
+·         A statement of the allegations of behavior potentially constituting a violation of the Non-Discrimination Policy, including sufficient details known at the time. Sufficient details include the identities of the Parties involved in the incident, if known, the conduct allegedly constituting a violation of the Non-Discrimination Policy, and the date and location of the alleged incident, if known;
+
+·         A statement that retaliation is prohibited;
+
+·         The specific policies and offenses implicated by the alleged conduct;
+
+·         A statement that Middlebury’s Non-Discrimination Policy prohibits knowingly making false statements, including knowingly submitting false information during the investigation and adjudication process; and
+
+·         The name of the investigator, along with information about the process to notify the CRTIX Coordinator of any conflict of interest that the investigator may have in advance of the interview process.
+
+The Notice Letter may be amended as appropriate during the course of the investigation.
+
+**C.      Appointment of an Investigator**
+
+The CRTIX Coordinator appoints investigators, either a Middlebury employee[\[11\]](#_ftn11) or an external investigator, who serves as a neutral, impartial fact-finder. External investigators are supervised by a Middlebury HRO, including tracking the investigation for reasonable progress, assisting with the creation and maintenance of investigative records, and assisting the external investigator as necessary.[\[12\]](#_ftn12) Other Middlebury officials may at times be called upon to assist with an investigation, depending on the circumstances.
+
+In selecting the investigator for a particular matter, the CRTIX Coordinator will take care to select an individual who does not have a conflict of interest or bias against Reporting Individuals or Respondents generally or an individual Reporting Individual or Respondent. The CRTIX Coordinator will notify the Parties of the identity of the investigator before the formal investigation begins and Parties may, within 3 business days of such notice, object to the appointment of the investigator by providing a written statement (which may be transmitted electronically) as to why the Party believes that the investigator has a conflict of interest or bias. The CRTIX Coordinator will make decisions regarding such objections and the appointment of an alternate investigator, as necessary. The CRTIX Coordinator’s decision about whether there is a conflict is final.
+
+**D.      Fact Finding**
+
+The investigator is authorized to contact and schedule interviews with any and all individuals who may have relevant information. The nature and scope of the investigation is primarily within the discretion of the investigator. The investigator is authorized to access relevant records, except those legally protected as confidential or privileged or otherwise impermissible,[\[13\]](#_ftn13) and may collect any additional evidence relevant to the matter.[\[14\]](#_ftn14)
+
+The Reporting Individual and Respondent will be asked to identify, preserve and submit all evidence (inculpatory and exculpatory)[\[15\]](#_ftn15) pertaining to the matter under investigation, and to identify witnesses they believe may have relevant testimony to share. The investigator is not required to consider particular evidence submitted or to interview any particular witness, even if identified by one of the Parties.
+
+Interviews may be conducted in person, via videoconferencing (e.g., Zoom, Microsoft Teams), or by telephone. Interview participants may not make unauthorized recordings of investigative interviews or any other meetings occurring during the investigation and adjudication process.
+
+All witnesses identified in connection with an investigation under this Procedure are expected to cooperate fully in the investigation by providing complete, accurate, and truthful information.
+
+The investigation will be conducted in a prompt, thorough, fair, equitable, and impartial manner. If a Party or witness chooses not to participate in the investigation or becomes unresponsive, the investigator retains the right to continue it without their participation to ensure a prompt resolution.
+
+The Parties may each have an Advisor present with them for any investigative interviews (or at any other meetings occurring during the investigation and resolution process).[\[16\]](#_ftn16) Advisors are precluded from copying, sharing, describing, and/or otherwise disseminating any investigation- or adjudication-related materials to which they are privy, and they shall not disclose the contents of these materials to other Parties or individuals.
+
+The advisor may advise the Party privately, but cannot act as a speaking advocate at any meeting or interview. An investigator or other Middlebury official may terminate meetings and remove or dismiss advisors if an advisor is disruptive or otherwise refuses to comply with the requirements of this Procedure.
+
+**E.       Preparation of an Investigative Report**
+
+A written investigative report is completed by the investigator. The investigative report will impartially summarize the relevant evidence and may include as exhibits all evidence deemed by the investigator to be relevant and not otherwise impermissible. The investigator will provide the adjudicating HRO access to the investigative report and exhibits.[\[17\]](#_ftn17)
+
+The investigative report ordinarily will include proposed findings of fact based on the preponderance of the evidence standard (i.e., more likely than not). The investigative report will also ordinarily include the investigator’s recommendation, based on a preponderance of the evidence standard, as to whether the Respondent should be found responsible for violating the Policy provisions at issue.[\[18\]](#_ftn18)
+
+Submission of the investigative report to the adjudicating HRO ordinarily brings the fact-finding phase of the investigation and adjudication process to a close. In some instances an investigator may be asked to perform additional fact finding or make updates to the investigative report depending on the outcome of the adjudicating HRO’s review of the report and evidence file or depending on other circumstances warranting additional fact finding to be performed by the investigator.
+
+**V.      HRO Adjudication Process**
+
+Submission of the investigative report to the adjudicating HRO starts the adjudication phase. 
+
+The adjudicating HRO will review the investigative report and any attached exhibits. The HRO is authorized to request additional relevant information directly from the Parties or witnesses if the HRO believes it is necessary to do so before making a determination, including through requesting individual meetings with any Party or witness as appropriate.[\[19\]](#_ftn19) Additionally, any Party may request a live meeting with the adjudicating HRO to take place before the determination is made.
+
+The HRO determines whether a policy violation occurred using a preponderance of the evidence standard (i.e., is it more likely than not that the policy violation occurred). In making their determination, the HRO is in no way bound by the investigator’s investigative report, which is advisory to the HRO. The HRO may accept or reject the investigator’s recommended finding(s) or proposed findings of fact in whole or in part. The HRO will reach their own independent conclusions based on the evidence presented.
+
+The HRO will prepare a written determination explaining the rationale behind the determination. The HRO will provide the Parties with notification of the determination, in writing (by electronic or other means), providing an appropriate level of detail consistent with applicable law, privacy practices, and the purposes of the Non-Discrimination Policy. If a policy violation is found, sanctions and remedial actions, as appropriate, will be assigned pursuant to Sections VII.D and VII.E below.
+
+**VI.    Appeals**
+
+Appeals of dismissals and of HRO determinations regarding responsibility are permitted.[\[20\]](#_ftn20) Appeals of closures based on the HRO’s evaluation (see Section D.III. above) are permitted but only in those matters where the Reporting Individual had specifically requested CRTIX to open an investigation. Appeal grounds are strictly limited to the following bases:
+
+·         Procedural irregularity that affected the outcome of the matter;
+
+·         New evidence has become available that could affect the outcome of the matter and that was not reasonably available at the time the determination regarding responsibility, the dismissal, or the closure after initial evaluation was made; and/or
+
+·         The CRTIX Coordinator (or designee), investigator, or decision-maker (HRO) had a disqualifying conflict of interest or bias for or against Reporting Individuals or Respondents generally, or the individual Reporting Individual or Respondent, that affected the outcome of the matter
+
+Appeals must be submitted in writing to the CRTIX Coordinator within 5 business days[\[21\]](#_ftn21) of the applicable CRTIX action, must articulate one of the permissible bases for appeal, and must provide information or evidence to support the appealing Party’s argument.
+
+For matters involving student Respondents, appeals will be decided by the Vice President of Student Affairs (or designee). For matters involving staff Respondents, appeals will be decided by the Vice President of Human Resources (or designee). For matters involving faculty Respondents, appeals will be decided by the Vice President of Academic Affairs (or designee) of the appropriate academic program.
+
+Regardless of which Party appeals, both Parties may participate in the appeals process. Once an appeal is submitted, Middlebury’s CRTIX office, in addition to forwarding the appeal to the appropriate appellate decision-maker, will notify the other Party and invite their response to the appeal.[\[22\]](#_ftn22) The other Party will be given a period of 5 business days to submit a statement in support of the determination and/or in opposition to the appeal.[\[23\]](#_ftn23)
+
+The appellate decision-maker may deny the appeal, or if one or more of the appeal grounds have been met, may:
+
+·         Return the case to CRTIX for action;
+
+·         return the case to the original HRO for reconsideration; or
+
+·         appoint an alternate HRO to review the case for potential re-adjudication (if the original outcome was materially altered by bias or conflict of interest on the part of the adjudicating HRO).
+
+It is the responsibility of the appellate decision-maker to determine which aspects of the case merit a new review, and to direct the CRTIX office or HRO accordingly.
+
+The appellate decision-maker will issue a written decision on the appeal, including a brief explanation of their reasoning, which will be provided simultaneously to both Parties. A denial by an appellate decision-maker is final. In the event the appeal is accepted and the matter is returned to CRTIX or an HRO for reconsideration, the subsequent CRTIX action or HRO determination is final.
+
+**VII.  Outcomes**  
+
+After an investigation is started, there are several possible outcomes.
+
+**A.      Dismissal**
+
+1.       CRTIX may, at any time, dismiss a complaint under investigation, in whole or as to a particular Respondent, if it has been determined that:
+
+i.         The complained of conduct is the responsibility of a person who cannot reasonably be identified;
+
+ii.       The Respondent is not participating in any Middlebury education program or activity and is not employed by Middlebury; or
+
+iii.     The Reporting Individual voluntarily withdraws any or all of the allegations in the complaint, CRTIX declines to initiate a complaint, and CRTIX determines that, without the Reporting Individual’s withdrawn allegations, the conduct that remains alleged in the complaint, if any, would not constitute a violation of the Non-Discrimination Policy even if established by a preponderance of the evidence.
+
+2.       CRTIX may elect to continue the investigation after dismissing the complaint as to a particular Respondent if:
+
+i.         There are one or more remaining named or identifiable Respondents whom the CRTIX Coordinator determines may potentially be responsible for the alleged conduct; or
+
+ii.       CRTIX determines that the complaint alleges a potential hostile environment based on a protected personal characteristic(s) even in the absence of an identifiable Respondent over which Middlebury retains disciplinary authority.
+
+3.       If a complaint is dismissed by Middlebury under the circumstances described above, Middlebury will simultaneously provide to the Parties written notice (by electronic or other means) of the dismissal and the reasons for the dismissal, and notice of the Parties’ opportunity to appeal the dismissal through the appeal procedures outlined in Section V above.
+
+An Informal Resolution (Adaptable Resolution) process may include an outcome agreement entered into between the Parties in which it is agreed upon that the charges from the written notice of allegation letter will be dismissed (including waiver of the Parties’ right to appeal the dismissal). In such cases, the CRTIX Coordinator will dismiss the complaint, and appeal procedures will not be applicable.
+
+**B.      Respondent Accepts Responsibility**
+
+At any point in the proceedings, if a Respondent elects to admit to the charged violations and waive further process, the adjudicating HRO is authorized to accept that admission, adopt it as their finding or determination, and implement sanctions. The Respondent has no right to appeal findings based on their acceptance of responsibility. If the Respondent admits to some but not to all conduct charged, the investigation and adjudication process continues to its conclusion with respect to the conduct not admitted to. The Reporting Individual retains their right to appeal a determination when a Respondent admits responsibility.
+
+**C.      Finding of No Violation**
+
+If the adjudicating HRO determines that the investigation has produced insufficient evidence to find, by a preponderance of the evidence, that a violation of the Non-Discrimination Policy, or other relevant Middlebury policies, has occurred, the determination will be a finding of no policy violation. Under these circumstances, the full determination, or information obtained during the investigation, may still be shared with appropriate Middlebury officials to address concerns outside the scope of the Non-Discrimination Policy that come to light in the course of the investigation. (In most circumstances, consistent with Middlebury’s amnesty policy for Non-Discrimination Policy investigations, concerns related to student substance use or minor rules infractions uncovered during the investigation will not be referred to other Middlebury officials for disciplinary action.)
+
+**D.      Respondents found Responsible**
+
+1.       When the adjudicating HRO finds that the Respondent engaged in conduct that violates Middlebury policy, the CRTIX Coordinator will, in accordance with this Procedure, forward the case to the appropriate supervisory authority for the program at issue (“sanctioning authority”), who will assign a sanction or sanctions, and take other actions as appropriate. The sanctioning authority may collaborate with the adjudicating HRO in determining the appropriate sanction or sanctions.
+
+In determining sanctions or other actions, the sanctioning authority will be guided by a number of considerations, including but not limited to the following:
+
+·         The severity, pervasiveness, and objective offensiveness of the behavior;
+
+·         The nature of the violation;
+
+·         The impact of the violation on the Reporting Individual;
+
+·         The impact or implications of the violation within the Middlebury community;
+
+·         Any prior misconduct by the Respondent, including the Respondent’s relevant prior conduct history, at Middlebury or elsewhere;
+
+·         Whether the Respondent has accepted responsibility for the violation;
+
+·         The maintenance of a safe, nondiscriminatory and respectful environment conducive to living, learning, and working, as applicable; and
+
+·         Any other mitigating, aggravating, or compelling factors.
+
+2.       Sanctions and other actions will go into effect at either the expiration of the deadline for the submission of an appeal where no appeal is submitted, or at the conclusion of the appeal process if applicable.[\[24\]](#_ftn24) This language does not preclude the possibility of emergency action as needed in accordance with Section C.II.
+
+3.       Sanctions are assigned by the appropriate supervisory authority for the Respondent(s). When multiple supervisory authorities are involved in assigning sanctions, they may collaborate with each other as appropriate.
+
+4.       For students, the sanctioning authority is the Dean of Students, the Dean of the Language Schools, the VPAA of the Institute, the Dean of the Bread Loaf School of English, etc. (depending on the program the student is associated with).
+
+5.       For staff, the sanctioning authority is the appropriate Vice President (or designee) for the area or unit in which the staff member works.
+
+6.       If the adjudicating HRO finds that a faculty member has engaged in conduct that violates the Non-Discrimination Policy, or other Middlebury policies under investigation, if applicable (absent or following an appeal of that finding in accordance with this Procedure, if an appeal was granted), CRTIX will provide the case materials to the Provost. The Provost will initiate the appropriate procedures under the applicable Handbook policies and/or contracts. The Provost may also assign a designee—ordinarily the Vice President of Academic Affairs (VPAA)—to initiate the appropriate procedures under the applicable Handbook policies and/or contracts.
+
+7.       In any case in which a finding of a violation of the Non-Discrimination Policy has been issued, violation of a plan or directive to address the Prohibited Conduct or related sanction may be grounds for further discipline.
+
+**E.       Recommendation of Steps to Ensure that Violations do not Continue or Recur**
+
+1.       In any case where the adjudicating HRO determines that a violation of the Non-Discrimination Policy occurred that cannot be attributed solely to the actions of an identifiable Respondent, the adjudicating HRO will identify appropriate prompt and effective steps to ensure that violations of the Non-Discrimination Policy do not continue or recur within the Middlebury programs or activities reviewed during the investigation.
+
+2.       When the adjudicating HRO determines that remedial actions under this section must be implemented, the HRO will notify the Vice President(s) with oversight of the programs or activities reviewed during the investigation that a violation of the Non-Discrimination Policy has been found by providing a copy of the full determination prepared in accordance with Section D.IV, and will also provide a copy of the determination to the General Counsel, Chief Risk Officer and the Vice President of the Office of Institutional Diversity, Equity, and Inclusion.
+
+3.       The relevant Vice President(s) will identify relevant employees with knowledge and oversight of the program or activity at issue and direct that they promptly meet with the adjudicating HRO to discuss feasible steps to address the violation of the Non-Discrimination Policy found by the adjudicating HRO.
+
+4.       After consulting with the identified employees, the adjudicating HRO will provide the Vice President(s) with a list of remedial actions, which may include policy or practice changes and other steps designed to ensure that violations of the Non-Discrimination Policy do not continue or recur within the Middlebury programs or activities reviewed during the investigation. A copy of the remedial actions will also be provided to the General Counsel, Chief Risk Officer and the Vice President of the Office of Institutional Diversity, Equity, and Inclusion.
+
+5.        The recommended steps will include time frames for progress reporting on implementation that must be adhered to by the employees tasked with implementing the recommendations.
+
+  
+ 
 
 ---
 
-##### [\[1\]](#2-complaint-procedures) Everyone is entitled to report complaints of sexual harassment and sexual misconduct. Complaints should be made under the [Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy). {#\_ftn1}
+[\[1\]](#_ftnref1) In accordance with Federal law, allegations of sex-based discrimination and harassment (and related retaliation) falling under the scope of Title IX are ordinarily addressed through Middlebury’s [Title IX Investigations & Resolutions Procedure](https://handbook.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy/).
 
-##### [\[2\]](#2-complaint-procedures) Disclosure of the sanction imposed on the respondent will be permitted in sexual harassment cases when the sanction directly relates to the complainant (e.g., No Contact Orders, building restrictions, classroom changes or where the respondent is prohibited from attending Middlebury for a period of time) {#\_ftn2}
+[\[2\]](#_ftnref2) Students at the undergraduate College will be held accountable in accordance the Scope of Oversight provision in section [II.B.2.a.iii.](https://handbook.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a-introductory-matters/#scope-of-oversight) of the Handbook. Students at the Middlebury Institute of International Studies will be held accountable in accordance with the Scope of Oversight provision in section [IV.B.2.b.B.](https://handbook.middlebury.edu/pages/iv-policies-for-the-institute/b-policies-governing-student-conduct-and-student-organizations/b-conduct/b-2-c-student-conduct-policy-overview/#b-scope-of-oversight) of the Handbook.
 
-##### [\[3\]](#glossary) Middlebury’s Vermont undergraduate campus program includes a confidential resource called [MiddSafe](https://www.middlebury.edu/offices/health/saoc/middsafe); for more information, see [https://www.middlebury.edu/offices/health/saoc/middsafe](https://www.middlebury.edu/offices/health/saoc/middsafe) {#\_ftn3}
+[\[3\]](#_ftnref3) The CRTIX Coordinator is ultimately responsible for coordinating Middlebury’s compliance with applicable anti-discrimination laws and administering the Non-Discrimination Policy and this Procedure, but may choose to delegate specific duties, obligations and functions described in the Non-Discrimination Policy and this Procedure. Therefore, all references to the CRTIX Coordinator in the Non-Discrimination Policy and this Procedure should be read functionally as “CRTIX Coordinator or designee.”
+
+[\[4\]](#_ftnref4) Middlebury’s HROs serve as the CRTIX Coordinator’s designees for the purposes of overseeing investigations and adjudicating complaints under this Procedure.
+
+[\[5\]](#_ftnref5) When an individual who otherwise would be a Confidential Resource receives information about Prohibited Conduct outside the context of their confidential provision of services to a patient or client, they are required to report such information to CRTIX.
+
+[\[6\]](#_ftnref6) As one example, all individuals including Confidential Resources are typically obligated under state law to report instances of child abuse to the applicable state agency, or to make limited disclosures as necessary to address an imminent risk of physical harm to the reporting Party or another person. Exceptions to confidentiality are governed by the law of the state in which the Confidential Resource is located.
+
+[\[7\]](#_ftnref7) In instances where a matter is being investigated, CRTIX will ordinarily offer supportive measures to the Respondent as well.
+
+[\[8\]](#_ftnref8) The HRO’s specific duties and functions described in subsection D.II. may be delegated or may fall to another HRO or another employee or agent of Middlebury as needed or as appropriate.
+
+[\[9\]](#_ftnref9) For an investigation to be able to proceed, both factors must be met.
+
+[\[10\]](#_ftnref10) In cases where there is not a specific Respondent named, CRTIX will ordinarily send written notice to the Middlebury official responsible for the area or unit in which the alleged violation of Policy occurred.
+
+[\[11\]](#_ftnref11) Ordinarily a HRO
+
+[\[12\]](#_ftnref12) Ordinarily the supervising HRO will also be the adjudicating HRO (who will ultimately render a decision as to whether the Non-Discrimination Policy was violated).
+
+[\[13\]](#_ftnref13) The investigator may need to initially review relevant evidence that may or may not be otherwise impermissible, in order to determine whether an exception applies that would permit its consideration in the investigation.
+
+[\[14\]](#_ftnref14) Middlebury recognizes, however, that individuals who are bound by legal privileges may not be able to disclose privileged information, unless an exception applies. The investigator will not access, consider, disclose or otherwise use a Party’s privileged records without the Party’s voluntary, written consent to do so, and such information will not be deemed relevant to an investigation or adjudication absent the voluntary, written consent of the Party.
+
+[\[15\]](#_ftnref15) Inculpatory evidence refers to evidence that tends to show a Respondent’s responsibility for the alleged Prohibited Conduct, whereas exculpatory evidence refers to evidence that tends to clear a Respondent from responsibility for the alleged Prohibited Conduct.
+
+[\[16\]](#_ftnref16) CRTIX may permit Parties to have more than one Advisor, or an Advisor and a support person, upon special request. The decision to grant this request is at the CRTIX Coordinator’s sole discretion and will be granted equitably to all Parties.
+
+[\[17\]](#_ftnref17) Unless unforeseen circumstances arise necessitating otherwise, a Middlebury HRO will be the decision-maker responsible for rendering an official determination on behalf of the institution as to whether there was a violation of the Non-Discrimination Policy.
+
+[\[18\]](#_ftnref18) Or, in the case of a matter that does not involve a particular identifiable Respondent, whether there was otherwise a violation of the Non-Discrimination Policy.
+
+[\[19\]](#_ftnref19) In the event of such meetings taking place, it is standard practice for the HRO to record the meeting. In addition, each Party may have an advisor present with them when attending any meetings with the adjudicating HRO.
+
+[\[20\]](#_ftnref20) Appeals of dismissals following successful completion of an informal resolution process are excepted, as ordinarily in such matters there is an outcome agreement entered into between the Parties in which it is agreed upon that the charges from the written notice of investigation will be dismissed (including waiver of the Parties’ right to appeal the dismissal).
+
+[\[21\]](#_ftnref21) CRTIX or the appellate decision-maker may extend this deadline if warranted by the circumstances.
+
+[\[22\]](#_ftnref22) In matters where a Reporting Individual appeals a closure after initial determination, however, CRTIX does not notify the Respondent.
+
+[\[23\]](#_ftnref23) In matters where the HRO’s Determination is being appealed, the adjudicating HRO will also ordinarily provide to the applicable appellate decision-maker a response to the appealing Party’s appeal request.
+
+[\[24\]](#_ftnref24) In matters where an appeal is not applicable, the sanction(s) and/or other actions(s) will go into effect immediately.
