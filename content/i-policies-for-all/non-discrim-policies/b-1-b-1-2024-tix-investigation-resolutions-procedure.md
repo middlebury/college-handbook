@@ -1,13 +1,15 @@
 ---
 slug: /pages/i-policies-for-all/non-discrim-policies/b-1-b-1-2024-tix-investigation-resolutions-procedure
-title: "B.1.b (1) TIX Investigation & Resolutions Procedure "
-date: 2024-08-01
+title: "B.1.b (1) 2024 TIX Investigation & Resolutions Procedure "
+date: 01/17/2025
 ---
 **NOTE: THIS PROCEDURE IS CURRENTLY UNDER REVIEW.** The 2024 Title IX Final Rule has been vacated nationally in a decision by the United States District Court for the Eastern District of Kentucky. In this decision, the court states that the Department of Education exceeds its statutory authority in implementing the 2024 Title IX Final Rule and violates the First Amendment of the Constitution. This means that as of January 9, 2025, the 2024 Title IX Final Rule is no longer in effect for all schools receiving federal funding in the United States and that they must revert to the 2020 Title IX Final Rule, but we are awaiting further guidance from the Department of Education as to the compliance timeline. The prior policies and procedures that were in affect immediately prior to the effective date of the 2024 policies and procedures can be found [here](/assets/2020-2024-non-discrimination-policies-and-procedures.pdf).
 
+To comply with the court decision referenced above, an HRO may not reach a final decision as described below in Section D.IV.A paragraph 4, or Section D.IV.B paragraph 7, until a hearing has been held in accordance with section V. (Hearings and Determinations of Responsibility) of the 2020 TIX Investigation & Resolutions Procedure ([link](https://handbook.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/b-1-b-2-2020-tix-investigation-resolutions-procedure/)).  Additional alterations to this procedure to comply with the aforementioned court decision may be made if necessary and the parties will be informed of any such variances from this procedure by the CRTIX Coordinator in writing.
+
 ---
 
-**B.1.b (1) TIX Investigations & Resolutions Procedure**
+**B.1.b (1) 2024 TIX Investigations & Resolutions Procedure**
 
 **A. General Provisions** 
 
