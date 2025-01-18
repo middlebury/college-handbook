@@ -32,12 +32,17 @@ const Layout = ({ title, children }) => {
           href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"
         />
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-        <script>
-          window.CMS_MANUAL_INIT = true;
-        </script>
       </Helmet>
       <script>
-        netlifyIdentity.init()
+        if (window.netlifyIdentity) {
+          window.netlifyIdentity.on("init", (user) => {
+            if (!user) {
+              window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+              });
+            }
+          })
+        }
       </script>
       {children}
     </div>
