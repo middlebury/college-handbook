@@ -31,11 +31,13 @@ const Layout = ({ title, children }) => {
           rel="stylesheet"
           href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"
         />
+        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
         <script>
           window.CMS_MANUAL_INIT = true;
         </script>
       </Helmet>
       <script>
+        netlifyIdentity.init()
       </script>
       {children}
     </div>
