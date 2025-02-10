@@ -44,7 +44,8 @@ const PageWrapper = (props) => {
   const handlePageLoad = (slug) => {
     const currentHash = window.location.hash;
     if (currentHash.includes("_token")) {
-      window.location.replace(window.location.href + "/admin/" + currentHash);
+      console.log(window.location.origin + "/admin/" + currentHash);
+      window.location.replace(window.location.origin + "/admin/" + currentHash);
     }
     
     let url = slug ? slug.split("/") : window.location.href.split("/");
