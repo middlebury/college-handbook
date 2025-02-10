@@ -6,6 +6,12 @@ module.exports = {
   },
   
   plugins: [
+    {
+      resolve: `gatsby-plugin-netlify-identity`,
+      options: {
+        url: `https://college-handbook.netlify.com/`
+      }
+    },
     "gatsby-plugin-remove-fingerprints",
     {
       resolve: "gatsby-plugin-decap-cms",

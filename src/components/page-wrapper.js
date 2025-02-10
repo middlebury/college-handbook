@@ -42,11 +42,11 @@ const PageWrapper = (props) => {
 
   // const store = Object.values(data.localSearchPages.store);
   const handlePageLoad = (slug) => {
-    const currentHash = window.location.hash;
-    if (currentHash.includes("_token")) {
-      console.log(window.location.origin + "/admin/" + currentHash);
-      window.location.replace(window.location.origin + "/admin/" + currentHash);
-    }
+    // const currentHash = window.location.hash;
+    // if (currentHash.includes("_token")) {
+    //   console.log(window.location.origin + "/admin/" + currentHash);
+    //   window.location.replace(window.location.origin + "/admin/" + currentHash);
+    // }
     
     let url = slug ? slug.split("/") : window.location.href.split("/");
     if (url[url.length - 1] === "") {
