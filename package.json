@@ -41,5 +41,11 @@
   },
   "overrides": {
     "graphql": "^16.7.1"
+  },
+  "devDependencies": {
+    "@reach/dialog": "^0.18.0",
+    "@reach/tabs": "^0.18.0",
+    "@reach/visually-hidden": "^0.18.0",
+    "react-netlify-identity-widget": "^0.2.7"
   }
 }
