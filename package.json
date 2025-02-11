@@ -21,7 +21,6 @@
     "gatsby": "^5.14.0",
     "gatsby-plugin-decap-cms": "^4.0.4",
     "gatsby-plugin-local-search": "^2.0.1",
-    "gatsby-plugin-netlify-identity": "^0.0.3",
     "gatsby-plugin-react-helmet": "^6.14.0",
     "gatsby-plugin-remove-fingerprints": "0.0.2",
     "gatsby-plugin-sass": "^6.14.0",
@@ -41,11 +40,5 @@
   },
   "overrides": {
     "graphql": "^16.7.1"
-  },
-  "devDependencies": {
-    "@reach/dialog": "^0.18.0",
-    "@reach/tabs": "^0.18.0",
-    "@reach/visually-hidden": "^0.18.0",
-    "react-netlify-identity-widget": "^0.2.7"
   }
 }
