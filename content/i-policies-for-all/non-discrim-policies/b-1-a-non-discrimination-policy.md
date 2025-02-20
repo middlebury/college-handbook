@@ -1,12 +1,8 @@
 ---
 slug: /pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy
 title: B.1.a. Non-Discrimination Policy
-date: 01/15/2025
+date: 02/20/2025
 ---
-**THIS POLICY IS CURRENTLY UNDER REVIEW.** The 2024 Title IX Final Rule has been vacated nationally in a decision by the United States District Court for the Eastern District of Kentucky. In this decision, the court states that the Department of Education exceeds its statutory authority in implementing the 2024 Title IX Final Rule and violates the First Amendment of the Constitution. This means that as of January 9, 2025, the 2024 Title IX Final Rule is no longer in effect for all schools receiving federal funding in the United States and that they must revert to the 2020 Title IX Final Rule, but we are awaiting further guidance from the Department of Education as to the compliance timeline. The prior policies and procedures that were in affect immediately prior to the effective date of the 2024 policies and procedures can be found [here](/assets/2020-2024-non-discrimination-policies-and-procedures.pdf).
-
----
-
 Middlebury is committed to creating and maintaining a diverse, equitable and inclusive campus environment where we value openness, curiosity, rigor, and equality. Discrimination, including harassment, is antithetical to our values and mission, and, therefore, Middlebury seeks to eradicate unlawful discrimination based on protected personal characteristics in its educational and employment environments.
 
 Individuals who feel they have experienced discrimination, including harassment, based on a protected personal characteristic are strongly encouraged to report the behavior to our [Civil Rights and Title IX office](https://www.middlebury.edu/title-IX/about) (“CRTIX”). Middlebury provides timely services to those who have been affected by discrimination, including harassment.  It is not necessary to file a complaint with Middlebury or participate in an adjudication process in order to request “supportive measures” from Middlebury. Appropriate supportive measures may vary depending on specific facts and circumstances and will be determined on a case-by-case basis. Moreover, Middlebury provides procedures to assure prompt and equitable investigation and resolution intended to stop discrimination/harassment, remedy harms and prevent repetition.
@@ -23,7 +19,7 @@ See also the Addendum applicable to California employees only, available at [App
 
 This Policy prohibits the following:
 
-(i) Sex-Based Harassment as defined by Title IX, including but not limited to sexual assault, domestic and dating violence, sex-based stalking, hostile environment sexual harassment, and _quid pro quo_ sexual harassment;
+(i) Sexual Harassment as defined by Title IX, including but not limited to sexual assault, domestic and dating violence, sex-based stalking, hostile environment sexual harassment, and _quid pro quo_ sexual harassment;
 
 (ii) Discriminatory harassment, whether caused by an identifiable person or not, based on or motivated by an individual’s actual or perceived protected personal characteristics, or, if not attributable to one or more identifiable Respondents, that has the purpose or effect, from the point of view of a reasonable person, of objectively and significantly undermining and detracting from or interfering with an individual's educational or work performance or access to Middlebury resources on the basis of their protected personal characteristics;
 
@@ -37,17 +33,13 @@ Alleged violations of this policy are investigated and adjudicated using the fol
 
 **(A) Title IX Investigations & Resolutions Procedure**
 
-In accordance with Federal law and the Title IX regulations issued in April 2024, all Title IX Sex-based discrimination and harassment prohibited by this Policy is investigated and adjudicated using Middlebury’s [Title IX Investigation & Resolutions Procedure](https://handbook.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy), which applies to:
+In accordance with Federal law and the Title IX regulations issued in May 2020, alleged Title IX Sexual harassment prohibited by this Policy in an education program or activity of Middlebury in the United States where the Reporting Individual is participating in or attempting to participate in Middlebury’s education or employment program or activity at the time of the filing of the complaint is investigated and adjudicated using Middlebury’s [Title IX Investigation & Resolutions Procedure](https://handbook.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy), which applies to:
 
 (i)  Sexual assault, domestic violence, dating violence, or stalking on the basis of sex;
 
-(ii) _Quid pro quo_ sexual harassment (as defined below);
+(ii) _Quid pro quo_ sexual harassment (as further defined below); and
 
-(iii) Unwelcome sex-based conduct that, based on the totality of the circumstances, is subjectively and objectively offensive and is so severe or pervasive that it limits or denies a person’s ability to participate in or benefit from Middlebury’s education or employment program or activity (_i.e.,_ creates a hostile environment);
-
-(iv) Discrimination in employment, or in admission or access to Middlebury’s educational or extracurricular programs, activities, benefits or facilities based on an individual’s sex; and
-
-(v) The adoption or implementation of any policy, practice, or procedure that has a disparate impact that objectively and significantly undermines and detracts from an individual’s access to Middlebury resources or equal participation in Middlebury’s programs, on the basis of an individual's sex.
+(iii) Severe, pervasive and objectively offensive sexual harassment on the basis of sex that constitutes unwelcome conduct determined by a reasonable person to be so severe, pervasive and objectively offensive that it effectively denies a student or employee equal access to the College’s education program or activity (i.e., “hostile environment sexual harassment” for Title IX purposes).
 
 **(B) Non-Discrimination Investigations & Resolutions Procedure**
 
@@ -67,7 +59,7 @@ Middlebury will treat information it receives with appropriate sensitivity and c
 
 **1\. Protected personal characteristics** means actual or perceived sex, race, creed, color, place of birth, ancestry, ethnicity, national origin, religion, sexual orientation, sex characteristics, gender identity or expression, age, marital status, pregnancy, service in the armed forces of the United States, positive HIV-related blood test results, genetic information, or disability and/or any other status or characteristic as defined and to the extent protected by applicable law in particular states in which Middlebury operates educational programs (e.g. crime victim status in Vermont).
 
-**2\. Based on “sex”** includes sexual harassment. Some common examples include: touching or grabbing a sexual part of a person’s body; touching or grabbing any part of a person’s body after that person has indicated, or it is known or reasonably should be known, that such physical contact was unwelcome; continuing to ask a person to socialize when that person has indicated they’re not interested; displaying or transmitting sexually suggestive pictures, objects, cartoons, or posters if it is known or reasonably should be known that the behavior is unwelcome; continuing to write sexually suggestive notes or letters if it is known or reasonably should be known that the person does not welcome such behavior; referring to or calling a person a sexualized name if it is known or reasonably should be known that the person does not welcome such behavior; regularly telling sexual jokes or using sexually vulgar or explicit language in the presence of a person if it is known or reasonably should be known that the person does not welcome such behavior; derogatory or provoking remarks about or relating to a person’s sex or sexual orientation; harassing acts or behavior directed against a person on the basis of their sex or sexual orientation.
+**2\. "On the basis of sex”** includes sexual harassment. Some common examples include: touching or grabbing a sexual part of a person’s body; touching or grabbing any part of a person’s body after that person has indicated, or it is known or reasonably should be known, that such physical contact was unwelcome; continuing to ask a person to socialize when that person has indicated they’re not interested; displaying or transmitting sexually suggestive pictures, objects, cartoons, or posters if it is known or reasonably should be known that the behavior is unwelcome; continuing to write sexually suggestive notes or letters if it is known or reasonably should be known that the person does not welcome such behavior; referring to or calling a person a sexualized name if it is known or reasonably should be known that the person does not welcome such behavior; regularly telling sexual jokes or using sexually vulgar or explicit language in the presence of a person if it is known or reasonably should be known that the person does not welcome such behavior; derogatory or provoking remarks about or relating to a person’s sex; harassing acts or behavior directed against a person on the basis of their sex.
 
 **3\. Domestic violence** means conduct that constitutes a crime of violence in the relevant jurisdiction (either felony or misdemeanor) committed:
 
@@ -85,13 +77,11 @@ For the purposes of this definition, dating violence includes, but is not limite
 
 **5\. Discrimination in employment, admission or access to Middlebury’s education or extracurricular activities** means taking an adverse action in educational programs or employment against a person based on or motivated by that individual’s protected personal characteristics or effectively denying a person admission or access to Middlebury’s educational programs or activities based on that individual’s protected personal characteristics.
 
-**6\. Discriminatory harassment**, with one exception,[\[1\]](#_ftn1) means unwelcome conduct on the basis of a protected personal characteristic or characteristics that, based on the totality of the circumstances, is subjectively and objectively offensive and is so severe or pervasive that it limits or denies a person’s ability to participate in or benefit from Middlebury’s education or employment program or activity (_i.e.,_ creates a hostile environment). Whether a hostile environment has been created is a fact-specific inquiry that includes consideration of the following:
+**6\. Discriminatory harassment**, with one exception,[\[1\]](#_ftn1) means unwelcome conduct based on or motivated by a protected personal characteristic or characteristics that has the purpose or effect, from the point of view of a reasonable person, of objectively and significantly:
 
-*   The degree to which the conduct affected the Reporting Individual’s ability to access Middlebury’s education program or activity;
-*   The type, frequency, and duration of the conduct;
-*   The Parties’ ages, roles within Middlebury’s education program or activity, previous interactions, and other factors about each Party that may be relevant to evaluating the effects of the conduct;
-*   The location of the conduct and the context in which the conduct occurred; and
-*   Other protected personal characteristic-based harassment in Middlebury’s education program or activity.
+1\. undermining and detracting from or interfering with an individual's educational or work performance or access to Middlebury resources; or
+
+2\. creating an intimidating, hostile, or abusive educational, work, or living environment.
 
 Generally, harassment may include repeated slurs, or taunts in the guise of jokes, or disparaging references to others, use of epithets, stereotypes, comments, gestures, threats, graffiti, display or circulation of written or visual materials, taunts on manner of speech, and negative reference to customs when such conduct is based on or motivated by one or more of the protected characteristics identified above, or other characteristics as defined and protected by applicable law. In Middlebury’s Vermont programs, harassment may also include conduct of the type described above that is based on or motivated by a student's family member's actual or perceived protected personal characteristics, which has the type of purpose or effect described above. With respect to Middlebury programs operating in states other than Vermont (e.g., California and Washington, D.C.), harassment shall be defined as stated in this section unless the local law applicable to the program at issue mandates a broader definition, in which case such law will apply.
 
@@ -154,7 +144,7 @@ Determinations regarding whether a person is responsible for violating this Poli
 1.  A student or employee who is alleged to have been subjected to conduct that could constitute a violation of the Non-Discrimination Policy; or
 2.  A person other than a student or employee who is alleged to have been subjected to conduct that could constitute a violation of the Non-Discrimination Policy and who was participating or attempting to participate in Middlebury’s education or employment program or activity at the time of the alleged prohibited conduct.
 
-**Reporting Individual** also means “complainant” as that term is used in Federal law (including the Title IX regulations issued in April 2024).
+**Reporting Individual** also includes “complainant” as that term is used in Federal law (including the Title IX regulations issued in May 2020).
 
 **18\. Complaint** means an oral or written request for Middlebury to investigate and make a determination about alleged violations of the Non-Discrimination Policy.
 
@@ -176,7 +166,9 @@ Please also see [Appendix B: Applicable Definitions: U.S. State and Federal Law 
 
 _Published: August 14, 2020_
 
-_Last Amended: November 22, 2024_
+_Amended: November 22, 2024_
+
+_Amended: February 20, 2025_
 
 ---
 
