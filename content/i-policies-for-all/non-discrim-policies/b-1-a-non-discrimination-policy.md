@@ -1,11 +1,11 @@
 ---
 slug: /pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy
 title: B.1.a. Non-Discrimination Policy
-date: 02/20/2025
+date: 02/27/2025
 ---
 Middlebury is committed to creating and maintaining a diverse, equitable and inclusive campus environment where we value openness, curiosity, rigor, and equality. Discrimination, including harassment, is antithetical to our values and mission, and, therefore, Middlebury seeks to eradicate unlawful discrimination based on protected personal characteristics in its educational and employment environments.
 
-Individuals who feel they have experienced discrimination, including harassment, based on a protected personal characteristic are strongly encouraged to report the behavior to our [Civil Rights and Title IX office](https://www.middlebury.edu/title-IX/about) (“CRTIX”). Middlebury provides timely services to those who have been affected by discrimination, including harassment.  It is not necessary to file a complaint with Middlebury or participate in an adjudication process in order to request “supportive measures” from Middlebury. Appropriate supportive measures may vary depending on specific facts and circumstances and will be determined on a case-by-case basis. Moreover, Middlebury provides procedures to assure prompt and equitable investigation and resolution intended to stop discrimination/harassment, remedy harms and prevent repetition.
+Individuals who feel they have experienced discrimination, including harassment, based on a protected personal characteristic are strongly encouraged to report the behavior to our [Civil Rights and Title IX office](https://www.middlebury.edu/title-IX/about) (“CRTIX”). Middlebury takes reasonable and appropriate remedial action to prevent unlawful protected personal characteristic-based discrimination, harassment, and related retaliation, eliminate any hostile environment, prevent its recurrence, and address its discriminatory effects on all those impacted, if applicable. It is not necessary to file a complaint with Middlebury or participate in an adjudication process in order to request “supportive measures” from Middlebury. Appropriate supportive measures may vary depending on specific facts and circumstances and will be determined on a case-by-case basis. Moreover, Middlebury provides procedures to assure prompt and equitable investigation and resolution intended to stop discrimination/harassment, remedy harms and prevent repetition.
 
 Violations of this Policy may result in sanctions up to and including termination, dismissal, or expulsion, as determined by the appropriate Middlebury officials. Concerns about conduct under this Policy may be resolved through informal or “adaptable” resolutions, when appropriate. Retaliation against an individual because they have made an allegation of discrimination, or cooperated in an investigation of such a complaint, as further defined below, is prohibited. Submitting a complaint that is not in good faith or providing false or misleading information in any investigation of complaints is also prohibited. Nothing in this Policy shall be construed to abridge academic freedom and inquiry, principles of free speech, or impair Middlebury’s educational mission.
 
@@ -168,7 +168,7 @@ _Published: August 14, 2020_
 
 _Amended: November 22, 2024_
 
-_Amended: February 20, 2025_
+_Amended: February 27, 2025_
 
 ---
 
