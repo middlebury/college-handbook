@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/faculty-housing
 title: C.23. Housing Programs
-date: 2021-05-01
+date: 02/27/2025
 ---
 Middlebury College Employee Benefits are described in the Employee Handbook chapter of the College Handbook. Because faculty are employed on a contractual basis, specific provisions relating to vacation and sick leave as stated in the Employee Handbook chapter may not be applicable to them. Conversely, faculty may be eligible for specific provisions that are not applicable to general employees.
 
@@ -9,7 +9,7 @@ Middlebury College Employee Benefits are described in the Employee Handbook cha
 
 The purpose of the Middlebury College rental program is to provide temporary housing for faculty and certain administrative staff positions at the time of hire. Housing is meant to be short-term in duration. This policy is outlined below.
 
-Approved tenured and tenure-track faculty tenants can stay in College house for a maximum of 8 years or the end of employment with the College whichever comes first.  All other approved tenants can stay in College housing a maximum of 2 years.
+Approved tenured and tenure-track faculty tenants can stay in College house for a maximum of 4 years or the end of employment with the College whichever comes first.  All other approved tenants can stay in College housing a maximum of 2 years.
 
 All rental relationships are governed by a lease, require a security deposit and the rents are collected by payroll deduction.   Most housing units require the tenant to pay some or all of the utilities.  Middlebury Town water and sewer charges are billed to the College and may be rebilled to the tenant by the College according to the lease.
 
