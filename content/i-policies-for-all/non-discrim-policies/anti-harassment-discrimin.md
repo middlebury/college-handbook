@@ -1,13 +1,9 @@
 ---
 slug: /pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin
 title: B.1.b. Non-Discrimination Investigations & Resolutions Procedure
-date: 01/17/2025
+date: 02/27/2025
 ---
-**NOTE: THIS PROCEDURE IS CURRENTLY UNDER REVIEW**. Although this Procedure is not used to process claims of discrimination/harassment falling under Title IX, this procedure is connected to Middlebury’s Non-Discrimination Policy, which is currently under review based on a recent court decision concerning the 2024 Title IX regulations. Out of an abundance of caution, Middlebury is reviewing this non-Title IX procedure to ensure that it is consistent with the current state of the law.
-
----
-
-NOTE: This Procedure will be in effect August 1, 2024, and will not apply retroactively. For Prohibited Conduct allegedly occurring before August 1, 2024, the College will apply the definition of Prohibited Conduct and procedures in place at the time of the alleged conduct.[\[a\]](https://handbook.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy/#a) For Prohibited Conduct allegedly occurring on or after August 1, 2024, the definition of Prohibited Conduct and procedures set forth in this Procedure will apply, to the fullest extent permitted by applicable law. Middlebury retains discretion to make appropriate adjustments to promote fairness and consistency. The Parties will be notified in advance of any proceedings which definition(s) and procedures apply.
+NOTE: This Procedure is effective August 1, 2024, and does not apply retroactively. For Prohibited Conduct allegedly occurring before August 1, 2024, the College will apply the definition of Prohibited Conduct and procedures in place at the time of the alleged conduct.[\[a\]](https://handbook.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy/#a) For Prohibited Conduct allegedly occurring on or after August 1, 2024, the definition of Prohibited Conduct and procedures set forth in this Procedure will apply, to the fullest extent permitted by applicable law. Middlebury retains discretion to make appropriate adjustments to promote fairness and consistency. The Parties will be notified in advance of any proceedings which definition(s) and procedures apply.
 
 ---
 
@@ -19,7 +15,7 @@ NOTE: This Procedure will be in effect August 1, 2024, and will not apply retroa
 
 **I.        Purpose**
 
- Middlebury strictly prohibits conduct that constitutes unlawful protected personal characteristic-based discrimination and harassment, as well as related retaliation, through its [Non-Discrimination Policy](https://handbook.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy/). Through this Non-Discrimination Investigations and Resolutions Procedure (“Procedure”), administered by the [Middlebury Civil Rights and Title IX office](https://www.middlebury.edu/title-IX/about) (“CRTIX”), Middlebury takes reasonable and appropriate remedial action to prevent unlawful protected personal characteristic-based discrimination, harassment, and related retaliation, eliminate any hostile environment, prevent its recurrence, and address its discriminatory effects on all those impacted, if applicable. CRTIX may, depending upon the circumstances, vary from this Procedure. So long as such a variation is consistent with relevant law and allows for fundamental fairness in the processes followed, variations from this Procedure under those circumstances will not invalidate an outcome or constitute a basis for appeal.
+ Middlebury strictly prohibits conduct that constitutes unlawful protected personal characteristic-based discrimination and harassment, as well as related retaliation, through its [Non-Discrimination Policy](https://handbook.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy/). Through this Non-Discrimination Investigations and Resolutions Procedure (“Procedure”), administered by the [Middlebury Civil Rights and Title IX office](https://www.middlebury.edu/title-IX/about) (“CRTIX”), is intended to address instances of prohibited discrimination and harassment that are not required by the Department of Education to be handled under Middlebury’s Title IX Investigations & Resolutions Procedure. CRTIX may, depending upon the circumstances, vary from this Procedure. So long as such a variation is consistent with relevant law and allows for fundamental fairness in the processes followed, variations from this Procedure under those circumstances will not invalidate an outcome or constitute a basis for appeal.
 
 **II.      What this Procedure Covers**
 
@@ -356,9 +352,6 @@ In determining sanctions or other actions, the sanctioning authority will be gui
 4.       After consulting with the identified employees, the adjudicating HRO will provide the Vice President(s) with a list of remedial actions, which may include policy or practice changes and other steps designed to ensure that violations of the Non-Discrimination Policy do not continue or recur within the Middlebury programs or activities reviewed during the investigation. A copy of the remedial actions will also be provided to the General Counsel, Chief Risk Officer and the Vice President of the Office of Institutional Diversity, Equity, and Inclusion.
 
 5.        The recommended steps will include time frames for progress reporting on implementation that must be adhered to by the employees tasked with implementing the recommendations.
-
-  
- 
 
 ---
 
