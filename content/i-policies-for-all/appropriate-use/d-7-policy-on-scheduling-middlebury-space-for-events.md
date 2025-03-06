@@ -1,14 +1,14 @@
 ---
 slug: /pages/i-policies-for-all/appropriate-use/d-7-policy-on-scheduling-middlebury-space-for-events
-date: 2021-05-01
 title: D.7. Policy on Scheduling Middlebury Space for Events
+date: 03/06/2025
 ---
-The following requirements apply to all Middlebury locations, with the College and the Institute having separate meetings of their weekly review teams.
+The following requirements apply to all Middlebury locations, with the College and the Institute having separate meetings of their weekly review teams. The individual or organization requesting to schedule an event affirms that the event is open to all students (or students, faculty & staff, as applicable) and complies with Middlebury’s Non-Discrimination Policy. 
 
 1.  Middlebury students, student organizations, individual faculty and staff who wish to request space for an Event are required to submit a request to reserve space at least three (3) weeks prior to the proposed date. An “Event” includes events with invited speakers, events intended to attract more than 30 people, events needing additional resources, events anticipated to have significant community impact, demonstrations, and events with a potential for disruption. This policy is not intended to capture Middlebury’s normal operations such as classes, meetings, athletic practices, rehearsals, etc.
 2.  The reservation request must identify a named individual who is responsible for the activity or event and will be present throughout the entire event, known as the “Event Host”. If the person completing the reservation request is someone other than the Event Host, the named Event Host must still be present at the event.
 3.  Event Hosts are asked at the time of making a space reservation request whether there are any security concerns or unusual support requirements. Events Hosts are ordinarily responsible for the costs of their events.
-4.  Student organizations are required to discuss their events with their faculty or staff advisor, and will have to affirm that they have done so during the space reservation process.
+4.  Student organizations are required to discuss their events with their faculty or staff advisor and will have to affirm that they have done so during the space reservation process. Events hosted by Student Organizations must be open to all members or all students (or students, faculty and staff, as applicable) in accordance with our [Non-Discrimination Policy](https://handbook.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy/).
 5.  Priority will be given by Events Management to timely requests for appropriate spaces, as well as to key events being organized by Middlebury’s senior leadership.
 6.  Requests for space are reviewed weekly by staff from Student Activities, Event Management, Public Safety/Campus Security, and Communications.
 7.  Exceptions may be made for space requests for activities that present no unusual considerations or security concerns and/or are difficult to schedule more than 3 weeks in advance. Exceptions are made at the initial weekly review.
