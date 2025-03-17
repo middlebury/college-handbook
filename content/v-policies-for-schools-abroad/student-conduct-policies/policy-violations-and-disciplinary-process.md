@@ -1,7 +1,7 @@
 ---
 slug: /pages/v-policies-for-schools-abroad/student-conduct-policies/policy-violations-and-disciplinary-process
-title: A.3. Academic Honesty/Honor Code
-date: 2022-02-17
+title: A.3. Policy Violations and Disciplinary Process
+date: 03/17/2025
 ---
 This section describes the disciplinary process that is normally followed when a student participating in a Middlebury Schools Abroad program allegedly engages in conduct that violates a Middlebury policy or policies. Where other Middlebury policies specify separate processes, those processes will apply. (See, e.g., [Middlebury's Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy/) and [Middlebury's Policy Against Hazing](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy)).  Moreover, where applicable law or the local university where the program takes place mandate different procedures or policies, those procedures or policies will apply.
 
@@ -37,20 +37,20 @@ Middlebury retains sole discretion to determine whether to initiate disciplinary
 
 _a) Appeals_
 
-The student may appeal the Director/Principal's decision to the provost or designee (hereinafter referred to as "the provost") within three business days of issuance of the Director/Principal's determination. Appeals may be granted on the basis of one or more of the following grounds:
+The student may appeal the Director/Principal's decision to the Dean of International Programs at Middlebury College or designee (hereinafter referred to as "the Dean") within three business days of issuance of the Director/Principal's determination. Appeals may be granted on the basis of one or more of the following grounds:
 
 *   Discovery of significant new factual material not available to the Director/Principal that could have affected the original result; however, prior omission of factual information that the student knew or should reasonably have known about is not a ground for an appeal;
 *   Procedural error where the error prevented fundamental fairness;
 *   Extreme mitigating circumstances.
 
-The student must submit evidence and/or arguments they believe support any of the three grounds for appeal listed above, and their explanation of the evidence or arguments.  The provost may deny the appeal, or if one or more of the appeal grounds have been met, may:
+The student must submit evidence and/or arguments they believe support any of the three grounds for appeal listed above, and their explanation of the evidence or arguments.  The Dean may deny the appeal, or if one or more of the appeal grounds have been met, may:
 
 *   return the case to the Director/Principal for reconsideration; or
 *   appoint an alternate disciplinary authority, as appropriate, to review the case.
 
-Absent extenuating circumstances, the provost will notify the student of the appeal decision within five business days of the appeal receipt deadline. This deadline may be extended if warranted by the circumstances, in which case the student will be notified at the time the extension is determined.
+Absent extenuating circumstances, the Dean will notify the student of the appeal decision within five business days of the appeal receipt deadline. This deadline may be extended if warranted by the circumstances, in which case the student will be notified at the time the extension is determined.
 
-The decision made by the provost to grant or deny the appeal is final. Should an appeal be granted, the subsequent determination and/or sanction is/are final.
+The decision made by the Dean to grant or deny the appeal is final. Should an appeal be granted, the subsequent determination and/or sanction is/are final.
 
 Because Middlebury is committed to cultivating a safe, healthy and inclusive community where all individuals treat each other with respect, we ask all students to complete an on-line training course as part of the pre-departure process.
 
@@ -66,4 +66,4 @@ It may be that the Principal is able to resolve the matter informally by consult
 
 Should there be any merit in a complaint, then prompt and proportionate action will be taken to rectify the situation.
 
-Concerns about academic standards and quality may be raised with the Quality Assurance Agency (QAA), which has educational oversight over the M-CMRS program.
+Concerns about academic standards and quality may be raised with the Quality Assurance Agency (QAA), which has educational oversight over the M-CMRS program, or Middlebury's accrediting agency, the [New England Commission of Higher Education (NECHE)](https://www.neche.org/comments-complaints/).
