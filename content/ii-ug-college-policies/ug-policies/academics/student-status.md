@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/student-status
 title: B.1.l. Student Status
-date: 08/30/2024
+date: 03/17/2025
 ---
 Students may be admitted for undergraduate courses at Middlebury only if they do not already have a baccalaureate degree from Middlebury or any other institution.
 
@@ -11,9 +11,9 @@ Students are "in good academic standing" if they are meeting the requirements of
 
 "Successful completion of a year" for veterans' benefits certification is defined as "in good standing." Students taking fewer than four credits, however, should consult with the registrar regarding veterans' benefits.
 
-#### **2. Course Warnings**
+#### **2. Course Alerts**
 
-Faculty members may send out course warnings to students thought to be in danger of receiving grades of "D" or "F."  The Class Dean will normally monitor grades around the middle of the term and may contact parents or guardians of students who appear to be having academic difficulties, including receiving one or more course warning.
+Faculty members may send out course alerts to students thought to be in danger of receiving grades of "D" or "F."  The Class Dean will normally monitor grades around the middle of the term and may contact parents or guardians of students who appear to be having academic difficulties, including receiving one or more course alert.
 
 #### **3. Probation**
 
@@ -125,7 +125,7 @@ A student who is enrolled in three courses and receives one F and one D grade, o
 
 The above rules also apply to Middlebury undergraduates who enroll in Language Schools, Schools Abroad, Middlebury Institute of International Studies at Monterey, Bread Loaf School of English, School of the Environment, and externally sponsored programs approved by the office of International Programs and Off-Campus Study. Students withdrawn due to academic failure are not eligible to attend any Middlebury school or program until formally readmitted to the College.
 
-At any time, a student failing a course, consistently receiving grades below C-, or in any way neglecting the obligations of a course, may be placed on course warning.
+At any time, a student failing a course, consistently receiving grades below C-, or in any way neglecting the obligations of a course, may be placed on course alert.
 
 #### **8\. Readmission After Withdrawal for Academic Failure**
 
