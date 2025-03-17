@@ -1,7 +1,7 @@
 ---
 slug: /pages/v-policies-for-schools-abroad/student-conduct-policies/policy-violations-and-disciplinary-process
 title: A.3. Policy Violations and Disciplinary Process
-date: 02/13/2025
+date: 03/17/2025
 ---
 This section describes the disciplinary process that is normally followed when a student participating in a Middlebury Schools Abroad program allegedly engages in conduct that violates a Middlebury policy or policies. Where other Middlebury policies specify separate processes, those processes will apply. (See, e.g., [Middlebury's Non-Discrimination Policy](/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy/) and [Middlebury's Policy Against Hazing](http://www.middlebury.edu/about/handbook/ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy)).  Moreover, where applicable law or the local university where the program takes place mandate different procedures or policies, those procedures or policies will apply.
 
@@ -66,4 +66,4 @@ It may be that the Principal is able to resolve the matter informally by consult
 
 Should there be any merit in a complaint, then prompt and proportionate action will be taken to rectify the situation.
 
-Concerns about academic standards and quality may be raised with the Quality Assurance Agency (QAA), which has educational oversight over the M-CMRS program.
+Concerns about academic standards and quality may be raised with the Quality Assurance Agency (QAA), which has educational oversight over the M-CMRS program, or Middlebury's accrediting agency, the [New England Commission of Higher Education (NECHE)](https://www.neche.org/comments-complaints/).
