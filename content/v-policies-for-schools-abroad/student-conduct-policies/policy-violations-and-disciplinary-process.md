@@ -65,5 +65,3 @@ At every stage in the process, the Principal – or, if appropriate, another mem
 It may be that the Principal is able to resolve the matter informally by consultation with any students, tutors and staff involved. If a student is not satisfied with an informal resolution, then he/she can bring the matter to the Principal in writing. The Principal will investigate the matter, seeking guidance from others as appropriate. The Principal will then communicate the decision swiftly to the complainant. If a student is not satisfied with the decision of the Principal, then he/she can appeal to the Dean of International Programs at Middlebury College. The Dean’s decision is final.
 
 Should there be any merit in a complaint, then prompt and proportionate action will be taken to rectify the situation.
-
-Concerns about academic standards and quality may be raised with the Quality Assurance Agency (QAA), which has educational oversight over the M-CMRS program, or Middlebury's accrediting agency, the [New England Commission of Higher Education (NECHE)](https://www.neche.org/comments-complaints/).
