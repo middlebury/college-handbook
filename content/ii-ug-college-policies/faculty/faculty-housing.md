@@ -1,29 +1,64 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/faculty-housing
 title: C.23. Housing Programs
-date: 02/27/2025
+date: 03/17/2025
 ---
-Middlebury College Employee Benefits are described in the Employee Handbook chapter of the College Handbook. Because faculty are employed on a contractual basis, specific provisions relating to vacation and sick leave as stated in the Employee Handbook chapter may not be applicable to them. Conversely, faculty may be eligible for specific provisions that are not applicable to general employees.
+Middlebury College Employee Benefits are described in the [Employee Handbook](https://handbook.middlebury.edu/pages/ii-ug-college-policies/employee/) chapter of the College Handbook. Because faculty are employed on a contractual basis, specific provisions relating to vacation and sick leave, as stated in the Employee Handbook chapter, may not be applicable to them. Conversely, faculty may be eligible for specific provisions that are not applicable to staff.
 
-**College Rental Program**
+**A. COLLEGE RENTAL PROGRAM**
 
-The purpose of the Middlebury College rental program is to provide temporary housing for faculty and certain administrative staff positions at the time of hire. Housing is meant to be short-term in duration. This policy is outlined below.
+**1. Purpose**
 
-Approved tenured and tenure-track faculty tenants can stay in College house for a maximum of 4 years or the end of employment with the College whichever comes first.  All other approved tenants can stay in College housing a maximum of 2 years.
+The purpose of the Middlebury College rental program is to attract and retain new faculty and certain administrative staff hires and to facilitate their relocation to the area. Housing is meant to be temporary and short-term in duration until the new employee can secure their own permanent housing. The availability of College-owned housing is limited, and Middlebury makes no guarantee that it can provide housing to all who are eligible.
 
-All rental relationships are governed by a lease, require a security deposit and the rents are collected by payroll deduction.   Most housing units require the tenant to pay some or all of the utilities.  Middlebury Town water and sewer charges are billed to the College and may be rebilled to the tenant by the College according to the lease.
+**2. Eligibility**
 
-Available housing is listed on the Business Services website.  Please do not ask to tour occupied houses.  Housing is allocated by a lottery process each year in the spring.  All leases end on June 30, and are normally written for one year at a time with the option to renew.  The first year of a rental will normally begin in mid-August.
+Newly hired faculty members with the rank of Professor, Associate Professor, Assistant Professor, Instructor, and certain administrative staff are eligible for College-owned rental housing.
 
-The College attempts to operate its rental housing on a break-even basis, which in practice means that it is planned that anticipated income and projected expenses be equal for each fiscal year.
+Visiting faculty, Adjunct faculty, and other non, full-time faculty or scholars may be eligible for rental housing on an as needed basis in exceptional circumstances and will only be included in the housing selection process if there are units available after all other eligible employees are added to the list.
 
-Rents are based on the services and utilities provided real estate taxes, maintenance expenses and the local rental market.  The College rents are designed to be at local market rates.
+A person who already owns a home within an approximately 30-mile radius of the College is not eligible for rental housing, although allowances may be made for transitional situations in exceptional circumstances.
 
-Tenants must carry their own renters' insurance to protect their own contents and provide liability coverage.
+Tenants become ineligible for College-owned rental housing upon purchase of permanent housing or termination of employment with Middlebury, whichever comes first.
 
-**Mortgage Program**
+In all circumstances, the Vice President for Academic Affairs (VPAA) and/or the Director of Business Services has the final say in an employee’s eligibility.
 
-Middlebury College has a second mortgage program to assist faculty in the purchase of their first home in the Middlebury area. The second mortgage must be closed simultaneously with the first mortgage at the time of the initial home purchase. The home must be within 40 miles of campus; exceptions to this policy must be approved by the chief academic officer.  Faculty eligible for this program include tenured faculty; tenure track faculty who have passed their first review; and physical education faculty with five years of service.
+**3. Housing policies**
+
+All rental agreements (“agreement”) are written for a one-year term normally beginning in mid-August each year and ending June 30 the following year. Tenants will have the option to extend their agreements as long as they meet the following criteria:
+
+*   Eligible tenured and tenure-track faculty tenants can stay in College-owned housing for a **maximum of 4 consecutive years** or the end of employment with the College, whichever comes first.
+*   All other eligible tenants can stay in College-owned housing for a **maximum of 2 consecutive years** or the end of employment with the College, whichever comes first.
+*   In the event that the partner or spouse of a current tenant is newly hired at Middlebury, the maximum period of tenancy **will not be double counted or extended** based on the new hire’s starting date. Tenancy timeframes are consecutive and will be based on the current longest standing tenant.
+*   Employees **must be actively searching** for permanent housing during their temporary tenancy in College-owned housing.
+
+In all circumstances, the Vice President for Academic Affairs (VPAA) and/or the Director of Business Services has the final say in an employee’s ability to extend their rental agreement.
+
+This program does not permit moving from one unit to another unit each year, except in individual cases when a family has outgrown the unit originally assigned and is still unable to find permanent housing.
+
+In cases where a family is made up of two eligible members, only one unit is permitted in accordance with the maximum years of tenancy listed above - tenancy will not be double counted.
+
+In the event of divorce or separation, only the eligible person whose name is on the rental agreement has a right to remain in the unit.
+
+In the event of a death, the surviving spouse or domestic partner of the eligible faculty/staff member may enter into a new rental agreement of up to two years commencing with the eligible faculty/staff member's date of death, as long as the spouse or partner occupied the apartment as a primary residence at the time of the eligible faculty/staff member's death. 
+
+All rental relationships are governed by a rental agreement, require a security deposit, and the rents are collected by payroll deduction on a bi-weekly basis. Rents are based on local market rates and non-negotiable. Most housing units require the tenant to pay some or all of the utilities, which will be outlined in the rental agreement.
+
+Tenants must carry their own renters' insurance to protect their own contents and provide liability coverage. The College is not liable for loss, theft, or damage to tenants’ personal property, except in cases where the College is solely negligent.
+
+**4. Housing selection process**
+
+Housing is allocated by a lottery selection process conducted each year in the spring. A list of eligible employees to be included in the lottery will be sent to the Business Services Office by March 15 each year. Only staff from the VPAA’s Office or Human Resources may add individuals to the lottery. Eligible faculty and staff who are hired “off-cycle” (i.e. in periods of the year that do not align conveniently with the annual lottery selection process) and thus cannot participate in those selections are eligible on a first-come, first-served basis to choose from units that remain available after the housing selections (if any). Available housing is listed on the [Business Services website](https://www.middlebury.edu/enterprise-risk-management/compliance-partners/business-services/faculty-housing).  Please do not ask to tour occupied houses. 
+
+A resident who is: (1) already in College-owned rental housing, and (2) who will continue to be employed at the College, and (3) remains eligible for housing, does not need to re-enter the lottery selection process every year in order to keep living in their unit. Business Services will reach out to existing tenants by March 15 each year to confirm who is staying/leaving College-owned housing, which units will be available for the annual lottery selection process, and which tenants need to extend their rental agreement.
+
+If a tenant wants to move to a different unit due to changing family dynamics, they may select a unit from the existing housing stock at any point during the year. Please note as stated in Section A.3 above, this program does not permit moving from one unit to another unit each year, except in these circumstances.
+
+In all circumstances, the VPAA and/or the Director of Business Services has the final say in the housing selection process.
+
+**B. MORTGAGE PROGRAM**
+
+Middlebury College has a second mortgage program to assist faculty in the purchase of their first home in the Middlebury area. The second mortgage must be closed simultaneously with the first mortgage at the time of the initial home purchase. The home must be within 40 miles of campus; exceptions to this policy must be approved by the Provost or VPAA.  Faculty eligible for this program include tenured faculty; tenure track faculty who have passed their first review; and physical education faculty with five years of service.
 
 The National Bank of Middlebury (NBM) is the College’s partner in this mortgage program.
 
