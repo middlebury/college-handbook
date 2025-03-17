@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/grades-transcripts
 title: B.1.k. Grades and Transcripts
-date: 08/30/2024
+date: 03/17/2025
 ---
 #### **1\. Grading System**
 
@@ -73,7 +73,7 @@ Final grades are reported to the Office of the Registrar at the end of each seme
 
 Failure and D reports must be submitted by instructors to the registrar. These reports are used by the Administration Committee for determining eligibility for readmission and by Class Deans for advising.
 
-Students are responsible for keeping parents correctly and currently informed of their standing and progress in college. Students can view their own grades online and may print and distribute them as they wish. For students who sign an authorization form each semester, fall grades and spring grades are mailed to parents. Notices of second course warnings, academic probation, academic failure, withdrawals, written reprimands, disciplinary probation, suspension, and expulsion are sent to parents as a matter of course.
+Students are responsible for keeping parents correctly and currently informed of their standing and progress in college. Students can view their own grades online and may print and distribute them as they wish. For students who sign an authorization form each semester, fall grades and spring grades are mailed to parents. Notices of second course alerts, academic probation, academic failure, withdrawals, written reprimands, disciplinary probation, suspension, and expulsion are sent to parents as a matter of course.
 
 #### **4\. Repeated Courses**
 
