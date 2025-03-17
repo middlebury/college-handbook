@@ -1,9 +1,9 @@
 ---
 slug: /pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-11-class-attendance
 title: B.11. Class Attendance
-date: 2022-02-17
+date: 03/17/2025
 ---
-In order to benefit fully from your experience abroad, as well as for reasons of courtesy towards instructors, it is imperative that your arrival to class be punctual, your presence continuous, and your participation active. Attendance is required throughout your courses. Travel and other absences must be reserved for those periods when your attendance in class, or at other academic or mandatory events, is not required. Regular or repeated absences without a medical excuse or similar extenuating circumstances are considered unexcused absences and may result in course warnings and will ultimately affect the final grade. When disruptive to the program, this can result in the student’s dismissal from the School Abroad.
+In order to benefit fully from your experience abroad, as well as for reasons of courtesy towards instructors, it is imperative that your arrival to class be punctual, your presence continuous, and your participation active. Attendance is required throughout your courses. Travel and other absences must be reserved for those periods when your attendance in class, or at other academic or mandatory events, is not required. Regular or repeated absences without a medical excuse or similar extenuating circumstances are considered unexcused absences and may result in course alerts and will ultimately affect the final grade. When disruptive to the program, this can result in the student’s dismissal from the School Abroad.
 
 _**Visits by parents, relatives, or friends do not constitute a valid excuse for not attending classes or completing assignments on time.**_
 
