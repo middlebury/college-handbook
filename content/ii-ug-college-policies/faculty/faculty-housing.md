@@ -27,7 +27,7 @@ In all circumstances, the Vice President for Academic Affairs (VPAA) and/or the 
 
 All rental agreements (“agreement”) are written for a one-year term normally beginning in mid-August each year and ending June 30 the following year. Tenants will have the option to extend their agreements as long as they meet the following criteria:
 
-*   Eligible tenured and tenure-track faculty tenants whose contract begins on July 1, 2025, can stay in College-owned housing for a **maximum of 4 consecutive years** or the end of employment with the College, whichever comes first. The previous maximum term of 8 consecutive years shall apply to all faculty whose contracts started before July 1, 2025.
+*   Eligible tenured and tenure-track faculty tenants whose contract begins on July 1, 2025, can stay in College-owned housing for a **maximum of 4 consecutive years** or the end of employment with the College, whichever comes first. If your contract began before that date, the previous tenancy time period still applies.
 *   All other eligible tenants can stay in College-owned housing for a **maximum of 2 consecutive years** or the end of employment with the College, whichever comes first.
 *   In the event that the partner or spouse of a current tenant is newly hired at Middlebury, the maximum period of tenancy **will not be double counted or extended** based on the new hire’s starting date. Tenancy timeframes are consecutive and will be based on the current longest standing tenant.
 *   Employees **must be actively searching** for permanent housing during their temporary tenancy in College-owned housing.
