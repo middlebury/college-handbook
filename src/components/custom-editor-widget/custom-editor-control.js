@@ -120,9 +120,9 @@ export class CustomEditorControl extends Component {
     return (
       <div>
         <Helmet>
-          <link rel="preload" href="https://cdn.ckeditor.com/ckeditor5/43.3.0/ckeditor5.css" />
+          <link rel="preload" href="https://cdn.ckeditor.com/ckeditor5/45.0.0/ckeditor5.css" />
           <link rel="preload" href="/admin/cms.css" type="text/css" />
-          <link rel="stylesheet" href="https://cdn.ckeditor.com/ckeditor5/43.3.0/ckeditor5.css" />
+          <link rel="stylesheet" href="https://cdn.ckeditor.com/ckeditor5/45.0.0/ckeditor5.css" />
           <link rel="stylesheet" href="/admin/cms.css" type="text/css" />
         </Helmet>
         <CKEditor
