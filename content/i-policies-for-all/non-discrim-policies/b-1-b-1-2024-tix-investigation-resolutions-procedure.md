@@ -53,7 +53,7 @@ Middlebury, VT 05753
 
 You may also report to [knowyourrights@middlebury.edu](mailto:knowyourrights@middlebury.edu), by using the online reporting tool at _go/report_, or by visiting this [link to the official reporting form](https://docs.google.com/forms/d/e/1FAIpQLScdGEC6GzlLWXjerzahQSXdisBMProfp4Wj0ry-Pk9dYQYX5w/viewform).
 
-Middlebury’s CRTIX office staff also includes Human Relations Officers (“HROs”) who are able to receive reports of violations of the Non-Discrimination Policy in the event that the CRTIX Coordinator or Deputy CRTIX Coordinator are not available. For more information about the CRTIX office staff (including contact information), please visit [https://www.middlebury.edu/title-IX/about](https://www.middlebury.edu/title-IX/about). Concerns about discrimination, harassment, or related retaliation engaged in by any member of the CRTIX office should be directed to Middlebury’s Vice President for Equity and Inclusion, Khuram Hussain.  
+Middlebury’s CRTIX office staff also includes Human Relations Officers (“HROs”) who are able to receive reports of violations of the Non-Discrimination Policy in the event that the CRTIX Coordinator or Deputy CRTIX Coordinator are not available. For more information about the CRTIX office staff (including contact information), please visit [https://www.middlebury.edu/title-IX/about](https://www.middlebury.edu/title-IX/about). Concerns about discrimination, harassment, or related retaliation engaged in by any member of the CRTIX office should be directed to Middlebury’s Deputy General Counsel & Risk Officer Sue Ritter.  
 
 **II.      Confidential Reporting** 
 
