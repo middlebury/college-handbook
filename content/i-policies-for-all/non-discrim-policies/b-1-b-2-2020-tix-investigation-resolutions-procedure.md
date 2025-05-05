@@ -82,9 +82,9 @@ Middlebury encourages individuals to use confidential services.  Individuals wh
 
 **B. Participation and Cooperation**
 
-All members of Middlebury’s community covered by the Non-Discrimination Policy and identified in connection with an investigation under this Procedure are expected to cooperate and provide complete, accurate, and truthful information. Middlebury prohibits intentionally making a false report or providing false or misleading information in any investigation under this Procedure. Complainants will not be deemed to have provided false or misleading information under this Procedure if their factual allegations are intended to be truthful and are made in good faith, regardless of whether the conduct complained of is ultimately found to constitute a policy violation.
+All members of Middlebury’s community covered by the Non-Discrimination Policy and identified in connection with an investigation under this Procedure are expected to cooperate and provide complete, accurate, and truthful information. Middlebury prohibits intentionally making a false report or providing false or misleading information in any investigation under this Procedure. Reporting Individuals will not be deemed to have provided false or misleading information under this Procedure if their factual allegations are intended to be truthful and are made in good faith, regardless of whether the conduct complained of is ultimately found to constitute a policy violation.
 
-Witnesses may be expected to sign statements or other documents memorializing the information provided in the course of the investigation and may be asked to keep the substance of the investigation interview confidential.
+Witnesses may be asked to keep the substance of the investigation interview confidential to preserve the integrity of the investigation.
 
 **C. Supportive Measures (Previously called “Interim Measures”)**
 
