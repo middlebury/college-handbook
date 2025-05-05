@@ -1,10 +1,8 @@
 ---
 slug: /pages/i-policies-for-all/non-discrim-policies/b-1-b-2-2020-tix-investigation-resolutions-procedure
-title: B.1.b (2). 2020 TIX Investigation & Resolutions Procedure
-date: 2025-01-15
+title: B.1.b (1). TIX Investigation & Resolutions Procedure
+date: 05/05/2025
 ---
-**NOTE: THIS PROCEDURE IS CURRENTLY UNDER REVIEW.** The 2024 Title IX Final Rule has been vacated nationally in a decision by the United States District Court for the Eastern District of Kentucky. In this decision, the court states that the Department of Education exceeds its statutory authority in implementing the 2024 Title IX Final Rule and violates the First Amendment of the Constitution. This means that as of January 9, 2025, the 2024 Title IX Final Rule is no longer in effect for all schools receiving federal funding in the United States and that they must revert to the 2020 Title IX Final Rule, but we are awaiting further guidance from the Department of Education as to the compliance timeline.
-
 I. What This Procedure Covers  
 II. Reporting Title IX Sexual Harassment  
 III. Formal Complaints/Grievances & Pre-Investigation  
@@ -20,25 +18,33 @@ APPENDIX A
 
 **I. What This Procedure Covers**
 
-This Title IX Formal Grievance Procedure (“Procedure”) applies to instances of Sexual Harassment (as defined by May 2020 U.S. Department of Education Title IX regulation) which occur on or after August 14, 2020.  All references to Sexual Harassment within this Procedure are intended to apply to and comply with the definition of Sexual Harassment as defined by Department of Education in its Title IX regulation.
+This Title IX Formal Grievance Procedure (“Procedure”) applies to instances of Sexual Harassment (as defined by May 2020 U.S. Department of Education Title IX regulation) which occur on or after August 14, 2020.[\[1\]](#_ftn1)  All references to Sexual Harassment within this Procedure are intended to apply to and comply with the definition of Sexual Harassment as defined by Department of Education in its Title IX regulation.
 
 Middlebury may, in exceptional circumstances, vary from this Procedure.  So long as such a variation is consistent with Title IX regulations and allows for fundamental fairness in the processes followed, variations from this process under those circumstances will not invalidate an outcome.
 
-Except as otherwise specified herein, this Procedure applies to faculty, staff and students, as well as to others who participate or attempt to participate in Middlebury’s programs and activities.  This includes the undergraduate college, the Language Schools, the School of the Environment, MiddCore, Bread Loaf School of English, Bread Loaf Writers’ Conference, and the Middlebury Institute of International Studies at Monterey ("the Institute").[\[1\]](#ftnt1)  Faculty and staff are, together, referred to as “Employee” or “Employees” in this Procedure.
+Except as otherwise specified herein, this Procedure applies to faculty, staff and students, as well as to others who participate or attempt to participate in Middlebury’s programs and activities.  This includes the undergraduate college, the Language Schools, the School of the Environment, MiddCore, Bread Loaf School of English, Bread Loaf Writers’ Conference, and the Middlebury Institute of International Studies at Monterey ("the Institute").[\[2\]](#_ftn2)  Faculty and staff are, together, referred to as “Employee” or “Employees” in this Procedure.
 
-This Procedure applies to Sexual Harassment as defined by the Department of Education and as set forth in the [**Non-Discrimination Policy**](#Non_discrim_policy) so long as the following conditions are met:
+This Procedure applies to Sexual Harassment as defined by the Department of Education and as set forth in the [Non-Discrimination Policy](https://handbook.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy) so long as the following conditions are met:
 
 (i) The alleged conduct was perpetrated against a person in the United States; and
 
-(ii) The alleged conduct took place within Middlebury’s programs and activities, meaning that the conduct occurred in a location, at an event, or in a circumstance where Middlebury exercises substantial control over both the respondent and the context in which the conduct occurs, or in any building owned or controlled by a student organization recognized by Middlebury; **and**, the Complainant is participating in or attempting to participate in Middlebury’s programs or activities.
+(ii) The alleged conduct took place within Middlebury’s programs and activities, meaning that the conduct occurred in a location, at an event, or in a circumstance where Middlebury exercises substantial control over both the Respondent and the context in which the conduct occurs, or in any building owned or controlled by a student organization recognized by Middlebury; **and**, the Reporting Individual[\[3\]](#_ftn3) is participating in or attempting to participate in Middlebury’s programs or activities.
 
-Conduct that occurs off campus in locations or at events without direction or control by Middlebury does not meet the definition of occurring in “a program or activity of Middlebury”.  Such conduct may be prohibited under other Middlebury policies, including the Non-Discrimination Policy provisions addressing forms of discrimination other than Title IX Sexual Harassment, and is addressed using different procedures.  Only behavior meeting the definitional requirements of this section will be addressed utilizing this Procedure.  Where a complaint alleges other Middlebury policy violations arising out of the same facts and circumstances as allegations that must be addressed utilizing this Procedure, Middlebury may, in its discretion, address those other alleged violations through this Procedure.
+Conduct that occurs off campus in locations or at events without direction or control by Middlebury does not meet the definition of occurring in “a program or activity of Middlebury.”  Such conduct may be prohibited under other Middlebury policies, including the Non-Discrimination Policy provisions addressing forms of discrimination and harassment other than Title IX Sexual Harassment, and is addressed using different procedures.  Only behavior meeting the definitional requirements of this section will be addressed utilizing this Procedure.  Where a complaint alleges other Middlebury policy violations arising out of the same facts and circumstances as allegations that must be addressed utilizing this Procedure, Middlebury may, in its discretion, address those other alleged violations through this Procedure.
 
-Conduct that occurred prior to August 14, 2020 will be investigated and adjudicated consistent with the procedures detailed in the [SMDVS Policy](https://handbook.middlebury.edu/assets/smdvs-prior-to-8-14-2020.pdf) and/or the [Anti-Harassment/Discrimination Policy](https://handbook.middlebury.edu/assets/anti-harassment-prior-to-8-14-2020.pdf) in effect during Academic Year 2019-2020, prior to the August 14, 2020 effective date of the Department of Education’s May 2020 regulations.  However, informal or “adaptable” resolutions may be available to address concerns about alleged conduct under the [**Non-Discrimination Policy**](#Non_discrim_policy) regardless of the date it occurred.
+---
+
+[\[1\]](#_ftnref1) Conduct that occurred prior to August 14, 2020, will be investigated and adjudicated consistent with the procedures detailed in the [SMDVS Policy](https://handbook.middlebury.edu/assets/smdvs-prior-to-8-14-2020.pdf) and/or the [Anti-Harassment/Discrimination Policy](https://handbook.middlebury.edu/assets/anti-harassment-prior-to-8-14-2020.pdf) in effect during Academic Year 2019-2020, prior to the August 14, 2020, effective date of the Department of Education’s May 2020 regulations.
+
+[\[2\]](#_ftnref2) Note that alleged Prohibited Conduct occurring within the Schools Abroad is covered under the Non-Discrimination Investigations & Resolutions Procedure.
+
+[\[3\]](#_ftnref3) The terms “Complainant” and “Reporting Individual” have the same meaning for the purposes of this Procedure.
+
+---
 
 **II. Reporting Title IX Sexual Harassment**
 
-**In order to fulfill its commitment to fostering a safe and inclusive learning environment, Middlebury values reporting of all types of sexual harassment, which includes sexual assault.** Any person who believes that they have been subject to Title IX Sexual Harassment, or who has reason to believe that Title IX Sexual Harassment has occurred or is occurring, should report this information to the immediate attention of the Civil Rights and Title IX (“CRTIX”) Coordinator.  The CRTIX Coordinator is:
+**In order to fulfill its commitment to fostering a safe and inclusive learning environment, Middlebury values reporting of all types of sexual harassment, which includes sexual assault.** Any person who believes that they have been subject to Title IX Sexual Harassment, or who has reason to believe that Title IX Sexual Harassment has occurred or is occurring, should report this information to the immediate attention of the Civil Rights and Title IX Coordinator (“CRTIX Coordinator”) or to the Deputy Civil Rights and Title IX Coordinator (“Deputy CRTIX Coordinator”) at:
 
 Butterfly Blaise Boire  
 Civil Rights and Title IX Coordinator  
@@ -49,7 +55,18 @@ Middlebury, VT 05753
 (802) 443-2147  
 [bboire@middlebury.edu](mailto:bboire@middlebury.edu)
 
-A report or complaint may be made verbally (in person, by phone, or videoconferencing) during applicable business hours, or in writing (via mail or email) 24 hours per day, 7 days per week. You may also report using the online reporting tool at go/report. Please note that while a report may be made anonymously, this will limit Middlebury’s ability to take action to provide supportive measures or to address the situation.
+Taryn Moran  
+Deputy Civil Rights and Title IX Coordinator  
+Middlebury College  
+Service Building, Room 218  
+84 S Service Rd  
+Middlebury, VT 05753  
+(802) 443-5840  
+[tarynm@middlebury.edu](mailto:tarynm@middlebury.edu)
+
+A report or complaint may be made verbally (in person, by phone, or videoconferencing) during applicable business hours, or in writing (via mail or email) 24 hours per day, 7 days per week. You may also report to [knowyourrights@middlebury.edu](mailto:knowyourrights@middlebury.edu), by using the online reporting tool at _go/report_, or by visiting this [link to the official reporting form](https://docs.google.com/forms/d/e/1FAIpQLScdGEC6GzlLWXjerzahQSXdisBMProfp4Wj0ry-Pk9dYQYX5w/viewform).  Please note that while a report may be made anonymously, this will limit Middlebury’s ability to take action to provide supportive measures or to address the situation.
+
+Middlebury’s CRTIX office staff also includes Human Relations Officers (“HROs”) who are able to receive reports of alleged violations of the Non-Discrimination Policy in the event that the CRTIX Coordinator or Deputy CRTIX Coordinator are not available. For more information about the CRTIX office staff (including contact information), please visit [https://www.middlebury.edu/title-IX/about](https://www.middlebury.edu/title-IX/about). Concerns about discrimination, harassment, or related retaliation engaged in by any member of the CRTIX office should be directed to Deputy General Counsel and Risk Officer, Sue Ritter, at [sritter@middlebury.edu](mailto:sritter@middlebury.edu) or calling her at (802) 443-3289.
 
 **Which Middlebury Employees Must Report Sexual Harassment?**
 
