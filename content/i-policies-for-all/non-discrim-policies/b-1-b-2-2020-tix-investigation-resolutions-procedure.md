@@ -286,7 +286,7 @@ If a Party wishes to have an individual appear at the hearing as a witness, they
 
 **A) Report to be provided to Hearing Officer**
 
-At or before the hearing, the hearing officer will receive a copy of the investigative report, any attachments thereto, and copies of the parties’ written responses to the investigative report, if any, which will be part of the information of record to be considered by the hearing officer to the extent appropriate in light of the rules regarding evidence to be considered that are outlined below.
+At or before the hearing, the hearing officer will receive a copy of the final investigative report, any attachments thereto, and copies of the parties’ written responses to the investigative report, if any, which will be part of the information of record to be considered by the hearing officer to the extent appropriate in light of the rules regarding evidence to be considered that are outlined below.
 
 **B) General Order of the Hearing**
 
@@ -294,15 +294,15 @@ At or before the hearing, the hearing officer will receive a copy of the investi
 
 (ii) After the hearing officer has asked their initial questions of the parties, the hearing officer will permit each party’s advisor to ask the other party all relevant questions and follow-up questions, including those challenging credibility. Subject to the discretion of the hearing officer, questioning of witnesses will generally follow a similar process, whereby the hearing officer will pose relevant questions to each witness, then the parties’ advisors will be permitted to ask relevant questions of witnesses. In accordance with the 2020 Title IX regulations, such cross-examination by advisors will be conducted orally, and in real time by the party’s advisor of choice and never by a party personally.
 
-(iii) Only relevant cross-examination and other questions may be asked of a party or witness. Before a complainant, respondent, or witness answers a cross-examination or other question, the hearing officer will first determine whether the question is relevant and explain any decision to exclude a question as not relevant. Advisors are not permitted to object to hearing officer decisions regarding relevance during a hearing.
+(iii) Only relevant cross-examination and other questions may be asked of a party or witness. Before a Reporting Individual, Respondent, or witness answers a cross-examination or other question, the hearing officer will first determine whether the question is relevant and explain any decision to exclude a question as not relevant. Advisors are not permitted to object to hearing officer decisions regarding relevance during a hearing.
 
-(iv) The evidence gathered throughout the investigation will be made available at the hearing, and each party and/or their advisor (as applicable) will have an equal opportunity to refer to such evidence during the hearing, including for purposes of cross-examination.
+(iv) The evidence gathered throughout the investigation will be made available during the hearing, and each party and/or their advisor (as applicable) will have an equal opportunity to refer to such evidence during the hearing, including for purposes of cross-examination.
 
 (v) At the discretion of the hearing officer, parties (but not their advisors) will usually be given an opportunity to make a closing statement at the conclusion of the hearing.
 
 **C) Evidence**
 
-(i) Questions and evidence about the complainant’s sexual predisposition or prior sexual behavior are not relevant and will not be permitted, except for the limited circumstance where such questions and evidence about the complainant’s prior sexual behavior are offered to prove that someone other than the respondent committed the conduct alleged by the complainant, or if the questions and evidence concern specific incidents of the complainant’s prior sexual behavior with respect to the respondent and are offered to prove consent.
+(i) Questions and evidence about the Reporting Individual’s sexual predisposition or prior sexual behavior are not relevant and will not be permitted, except for the limited circumstance where such questions and evidence about the Reporting Individual’s prior sexual behavior are offered to prove that someone other than the Respondent committed the conduct alleged by the Reporting Individual, or if the questions and evidence concern specific incidents of the Reporting Individual’s prior sexual behavior with respect to the Respondent and are offered to prove consent.
 
 (ii) Information protected under a legally recognized privilege (such as, for example, privileged communications between a party and their physician, psychiatrist, psychologist, or other recognized professional or paraprofessional acting in a treatment capacity, or privileged communications between a party and their attorney), are not relevant unless the person holding the privilege has waived the privilege in writing and the hearing officer determines it is relevant.
 
