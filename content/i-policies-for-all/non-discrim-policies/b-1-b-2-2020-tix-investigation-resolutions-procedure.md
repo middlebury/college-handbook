@@ -86,30 +86,17 @@ All members of Middlebury’s community covered by the Non-Discrimination Policy
 
 Witnesses may be asked to keep the substance of the investigation interview confidential to preserve the integrity of the investigation.
 
-**C. Supportive Measures (Previously called “Interim Measures”)**
+**C. Supportive Measures**
 
-_Supportive measures_ are non-disciplinary, non-punitive individualized services offered as appropriate, as reasonably available, and without fee or charge to the complainant or the respondent before or after the filing of a formal complaint or where no formal complaint has been filed. Such measures are designed to restore or preserve equal access to the recipient’s education program or activity without unreasonably burdening the other party, including measures designed to protect the safety of all parties or the recipient’s educational environment, or deter sexual harassment. Supportive measures may include but are not limited to:
+_Supportive measures_ are non-disciplinary, non-punitive individualized services offered as appropriate, as reasonably available, and without fee or charge to the Reporting Individual or the Respondent before or after the filing of a formal complaint or where no formal complaint has been filed. Such measures are designed to restore or preserve equal access to the recipient’s education program or activity without unreasonably burdening the other party, including measures designed to protect the safety of all parties or the recipient’s educational environment, or deter sexual harassment.
 
-*   counseling;
-*   academic accommodations, such as extensions of deadlines or other course-related adjustments, course changes or late drops, or other arrangements as appropriate (see the Academics: Course Registration and Conduct of Courses and Grades and Transcripts sections of the Handbook for more information);
-*   modifications of work or class schedules;
-*   campus escort services;
-*   mutual restrictions on contact between the parties;
-*   Residential accommodations, including but not limited to arranging for new housing, or providing temporary housing options, as appropriate;
-*   changes in work locations;
-*   leaves of absence;
-*   increased security and monitoring of certain areas of the campus;
-*   Changing transportation or working arrangements or providing other employment accommodations, as appropriate;
-*   Assisting the individual in accessing support services, including, as available, victim advocacy, academic support, counseling, disability, health or mental health services, visa and immigration assistance, student financial aid services, and legal assistance both on and off campus, as applicable (see Appendix C for a list of resources);
-*   No Trespass Notices prohibiting the presence of an individual on Middlebury property, and/or other properties on which Middlebury programs are occurring;
-*   Informing the individual of the right to report a crime to local law enforcement and/or seek orders of protection, restraining orders, or relief from abuse orders from United States courts or courts outside of the United States as applicable, and providing assistance if the individual wishes to do so. Middlebury will also work with complainants and others as appropriate to respect and implement the requirements of such orders on premises that it owns or controls, as necessary and appropriate;
-*   and other similar measures.
+Common supportive measures include: counseling; extensions of deadlines and other course-related adjustments; campus escort services; increased security and monitoring of certain areas of the campus; restrictions on contact applied to one or more parties; leaves of absence; changes in class, work, housing, or extracurricular or any other activity, regardless of whether there is or is not a comparable alternative; and training and education programs related to sexual based harassment.
 
 It is not necessary to file a complaint with Middlebury, participate in an adjudication process, or file a criminal complaint in order to request supportive measures from Middlebury.
 
-Where a complainant reportedly subjected to Sexual Harassment makes a request for supportive measures like those described above, Middlebury will consider the request and provide those Supportive measures which are reasonably available and reasonably allow for the preservation or restoration of access to or participation in Middlebury programs.
+Where a Reporting Individual reportedly subjected to Sexual Harassment makes a request for supportive measures like those described above, Middlebury will consider the request and provide those supportive measures which are reasonably available and reasonably allow for the preservation or restoration of access to or participation in Middlebury programs.
 
-Students or employees seeking supportive measures should direct their request to the CRTIX Coordinator, HROs, Human Resources, dean, or program director, as appropriate. The request will be evaluated and responded to by the CRTIX Coordinator or designee (e.g. HRO, Student Life Dean, or program director) after consultation, as needed, with the appropriate authority or authorities for the school or program at issue. The CRTIX Coordinator is ultimately responsible for coordinating the effective implementation of supportive measures. Factors to be considered in determining whether to provide certain supportive measures may include the following:
+Students or employees seeking supportive measures should direct their request to the CRTIX Coordinator, Deputy CRTIX Coordinator, Human Resources, dean, or program director, as appropriate. The request will be evaluated and responded to by the CRTIX Coordinator or designee (e.g. Deputy CRTIX Coordinator, Student Life Dean, or program director) after consultation, as needed, with the appropriate authority or authorities for the school or program at issue. The CRTIX Coordinator is ultimately responsible for coordinating the effective implementation of supportive measures. Factors to be considered in determining whether to provide certain supportive measures may include the following:
 
 *   the specific need expressed by the party;
 *   the severity and/or pervasiveness of the allegations;
@@ -126,11 +113,11 @@ Nothing in this Procedure limits Middlebury’s rights to terminate or suspend t
 
 **1\. Emergency Removal**
 
-Where there is an immediate threat to the physical health or safety of any student or other individual arising from the alleged Title IX Sexual Harassment, Middlebury can remove a respondent from its education program or activity (which may include removing an employee respondent from their employment at Middlebury) and issue any necessary related no-trespass and no-contact orders.  Middlebury will make the decision to remove a respondent from its education program or activity based on an individualized assessment and risk analysis. If Middlebury makes such a decision, the respondent will be provided with notice and an opportunity to challenge the decision immediately following the removal.
+Where there is an immediate threat to the physical health or safety of any student or other individual arising from the alleged Title IX Sexual Harassment or related conduct, Middlebury can remove a Respondent from its education program or activity (which may include removing an employee Respondent from their employment at Middlebury) and issue any necessary related no-trespass and no-contact orders.  Middlebury will make the decision to remove a Respondent from its education program or activity based on an individualized assessment and risk analysis and will do so consistent with its [Emergency Removals Policy](https://handbook.middlebury.edu/pages/i-policies-for-all/health-safety/emerg-removals/) and/or its Threat Assessment & Management practices. If Middlebury makes such a decision, the Respondent will be provided with notice and an opportunity to challenge the decision immediately following the removal.
 
 **2\. Administrative Leave for Employees**
 
-Middlebury may place employee respondents (non-students) on paid administrative leave during the pendency of an investigation and resolution process as outlined below. Middlebury reserves the right to place an employee respondent (non-student) on unpaid administrative leave during the pendency of an investigation and resolution process. In those instances in which Middlebury determines that an administrative leave will be unpaid and the respondent was not offered the opportunity to challenge the suspension without pay before it was imposed through some other process, the respondent may present a written challenge regarding the need for or the adequacy of the unpaid administrative leave to the CRTIX Coordinator. Once a written challenge of unpaid administrative leave is received, the CRTIX Coordinator will involve the relevant Middlebury leadership, which may include Human Resources and/or department leaders, and schedule a virtual or in-person meeting with the respondent prior to making a determination.
+When the Respondent is an employee, or a student employee accused of misconduct in the course of their employment, Middlebury may take action in the form of placing the employee on paid or unpaid Administrative Leave, depending on the circumstances.
 
 **E. Options to Pursue Criminal or Legal Actions (Reporting Outside of Middlebury)**
 
@@ -144,7 +131,7 @@ Middlebury does not have the authority to issue Relief From Abuse Orders, Orders
 
 **3\. Assistance by Middlebury**
 
-Requests for assistance with contacting law enforcement authorities or obtaining an Order of Protection, a Relief from Abuse Order, a Restraining Order or other lawful order may be made in person, via email, phone or teleconference to the CRTIX Coordinator, an HRO, or Public Safety For additional information regarding making reports to the police and/or obtaining an Order of Protection, Restraining Order, or Relief from Abuse Order.
+Requests for assistance with contacting law enforcement authorities or obtaining an Order of Protection, a Relief from Abuse Order, a Restraining Order or other lawful order may be made in person, via email, phone or teleconference to the CRTIX Coordinator, Deputy CRTIX Coordinator, an HRO, or Public Safety.
 
 **III. FORMAL COMPLAINTS/GRIEVANCES & PRE-INVESTIGATION**
 
