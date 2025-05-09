@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/non-discrim-policies/b-1-b-2-2020-tix-investigation-resolutions-procedure
 title: B.1.b (1). TIX Investigation & Resolutions Procedure
-date: 05/05/2025
+date: 05/09/2025
 ---
 I. What This Procedure Covers  
 II. Reporting Title IX Sexual Harassment  
@@ -123,7 +123,7 @@ When the Respondent is an employee, or a student employee accused of misconduct 
 
 **1\. Criminal Complaints**
 
-Any student or employee may pursue criminal charges with local, state, or federal law enforcement agencies. Middlebury will offer and, upon request, provide assistance to individuals covered under this procedure with notifying law enforcement agencies. These options are available regardless of whether an individual chooses to file a complaint with Middlebury. Individuals have the option to notify such agencies with or without assistance from Middlebury, and have the option not to personally notify such authorities.
+Any student or employee may pursue criminal charges with local, state, or federal law enforcement agencies. Middlebury will offer and, upon request, provide assistance to individuals covered under this procedure with notifying law enforcement agencies. These options are available regardless of whether an individual chooses to file a complaint with Middlebury. Individuals have the option to notify such agencies with or without assistance from Middlebury and have the option not to personally notify such authorities.
 
 **2\. Orders of Protection**
 
@@ -139,7 +139,7 @@ In addition to the reporting options and access to supportive measures addressed
 
 **A. Pre-Investigation: Determinations of Applicable Procedures, Dismissals, Transfers and Appeals of Such Determinations**
 
-1\. Middlebury will investigate alleged Title IX Sexual Harassment where a Reporting Individual submits a signed or electronically submitted formal complaint to the CRTIX Coordinator (or designee), requests an investigation, and the signed written complaint meets the requirements of this section. In cases where the Reporting Individual does not wish to submit a formal complaint but the CRTIX Coordinator decides in their discretion to sign a complaint and initiate an investigation and resolution process, the CRTIX Coordinator will not be a complainant or otherwise a party to the matter.  Middlebury may terminate the Title IX Sexual Harassment Investigation if a Reporting Individual notifies the CRTIX Coordinator in writing that the Reporting Individual would like to withdraw the formal complaint.
+1\. Middlebury will investigate alleged Title IX Sexual Harassment where a Reporting Individual submits a signed or electronically submitted formal complaint to the CRTIX Coordinator (or designee), requests an investigation, and the signed written complaint meets the requirements of this section. In cases where the Reporting Individual does not wish to submit a formal complaint, but the CRTIX Coordinator decides in their discretion to sign a complaint and initiate an investigation and resolution process, the CRTIX Coordinator will not be a complainant or otherwise a party to the matter.  Middlebury may terminate the Title IX Sexual Harassment Investigation if a Reporting Individual notifies the CRTIX Coordinator in writing that the Reporting Individual would like to withdraw the formal complaint.
 
 2\. When a Reporting Individual requests an investigation,
 
@@ -226,7 +226,7 @@ Individuals needing disability accommodations to fully participate in the invest
 
 **B. Conduct of the Investigation**
 
-1.  The CRTIX Coordinator will appoint an investigator, either a Middlebury employee or an external investigator, who serves as a neutral, impartial fact-finder. External investigators are supervised by a Middlebury HRO, including tracking the investigation for timely progress, communicating with parties about the progress, assisting with the creation and maintenance of investigative records, and assisting the external investigator as necessary. Other Middlebury officials may at times be called upon to assist with an investigation, depending on the circumstances. In selecting the investigator for a particular matter, the CRTIX Coordinator will take care to select an individual who does not have a conflict of interest or bias against Reporting Individuals or Respondents generally or an individual Reporting Individual or Respondent. The CRTIX Coordinator will notify the parties of the identity of the investigator and parties may, within three calendar days of such notice, object to the appointment of the investigator by providing a written statement (which may be transmitted electronically) as to why the party believes that the investigator has a conflict of interest or bias. The CRTIX Coordinator will make decisions regarding such objections and the appointment of an alternate investigator, as necessary. The CRTIX Coordinator’s decision about whether there is a conflict is final.
+1.  The CRTIX Coordinator will appoint an investigator, either a Middlebury employee or an external investigator, who serves as a neutral, impartial factfinder. External investigators are supervised by a Middlebury HRO, including tracking the investigation for timely progress, communicating with parties about the progress, assisting with the creation and maintenance of investigative records, and assisting the external investigator as necessary. Other Middlebury officials may at times be called upon to assist with an investigation, depending on the circumstances. In selecting the investigator for a particular matter, the CRTIX Coordinator will take care to select an individual who does not have a conflict of interest or bias against Reporting Individuals or Respondents generally or an individual Reporting Individual or Respondent. The CRTIX Coordinator will notify the parties of the identity of the investigator and parties may, within three calendar days of such notice, object to the appointment of the investigator by providing a written statement (which may be transmitted electronically) as to why the party believes that the investigator has a conflict of interest or bias. The CRTIX Coordinator will make decisions regarding such objections and the appointment of an alternate investigator, as necessary. The CRTIX Coordinator’s decision about whether there is a conflict is final.
 2.  The investigator is authorized to contact any and all individuals who may have relevant information. The nature and scope of the investigation is within the discretion of the investigator.  The investigator is authorized to access relevant records, except those legally protected as confidential or privileged, and may collect any additional evidence relevant to the complaint. Middlebury recognizes, however, that individuals who are bound by legal privileges may not be able to disclose privileged information, unless an exception applies. The investigator will not access, consider, disclose or otherwise use a party’s privileged records without the party’s voluntary, written consent to do so, and such information will not be deemed relevant to an investigation or adjudication absent the voluntary, written consent of the party.
 3.  The Reporting Individual and Respondent will be asked to identify, preserve and submit all evidence pertaining to the matter under investigation, and to identify witnesses they believe may have relevant testimony to share. The investigator is not required to consider particular evidence submitted or interview any particular witness, even if identified by one of the parties.
 4.  All participants in the investigation are expected to provide complete, accurate, and truthful information.
@@ -248,9 +248,9 @@ Individuals needing disability accommodations to fully participate in the invest
 
 **D. Final Investigative Report** 
 
-1.  After considering any written response submitted by either party, or after the 10 calendar day comment period has lapsed without receiving a written response or responses, the investigator will address any relevant issues identified by the Reporting Individual and/or the Respondent, and as appropriate, pursue any additional investigative steps as needed. The final investigative report will be reviewed for completeness by the CRTIX Coordinator or one HRO (not the hearing officer) before it is issued.
+1.  After considering any written response submitted by either party, or after the 10-calendar day comment period has lapsed without receiving a written response or responses, the investigator will address any relevant issues identified by the Reporting Individual and/or the Respondent, and as appropriate, pursue any additional investigative steps as needed. The final investigative report will be reviewed for completeness by the CRTIX Coordinator or one HRO (not the hearing officer) before it is issued.
 2.  The final investigative report created by the investigator will fairly summarize relevant evidence and include as exhibits evidentiary materials as deemed appropriate by the investigator;
-3.  The final investigative report includes factual findings and analysis of the relevant evidence, as well as the investigator’s recommendation, based on a preponderance of the evidence standard, as to whether the Respondent should be found responsible for violating the policy provisions at issue.;
+3.  The final investigative report includes factual findings and analysis of the relevant evidence, as well as the investigator’s recommendation, based on a preponderance of the evidence standard, as to whether the Respondent should be found responsible for violating the policy provisions at issue;
 4.  At least 10 days prior to the hearing referenced below, Middlebury will make available to each party and the party’s advisor, if any, the final investigative report and exhibits for their review and written response; and
 5.  The final investigative report and the parties’ written responses, if any, will be provided to the hearing officer in advance of the hearing.
 
@@ -314,11 +314,11 @@ Middlebury will create an audio or audiovisual recording, or transcript, of any 
 
 **H. Determinations Regarding Responsibility**
 
-Within a reasonable time, the hearing officer (and if necessary the sanctioning authority, as provided below) will prepare and issue a written determination regarding responsibility and a recommendation on sanctions. In determining responsibility, the hearing officer will apply the preponderance of the evidence standard. The written determination will include:
+Within a reasonable time, the hearing officer (and if necessary, the sanctioning authority, as provided below) will prepare and issue a written determination regarding responsibility and a recommendation on sanctions. In determining responsibility, the hearing officer will apply the preponderance of the evidence standard. The written determination will include:
 
 *   Identification of the section(s) of Middlebury’s Non-Discrimination Policy alleged to have been violated
-*   A description of the procedural steps taken from the receipt of the complaint through the determination, including but not limited to, as applicable, any notifications to the parties, interviews with parties and witnesses, site visits, methods used to gather other evidence, and hearings held
-*   Findings of fact supporting the determination
+*   A description of the procedural steps taken from the receipt of the complaint through the determination, including but not limited to, as applicable, any notifications to the parties, interviews with parties and witnesses, site visits, methods used to gather other evidence, and hearings held;
+*   Findings of fact supporting the determination;
 *   Conclusions regarding the application of definitions of Title IX Sexual Harassment in Middlebury’s Non-Discrimination Policy to the facts;
 *   A statement of, and rationale for, the result as to each allegation, including a determination regarding responsibility; and
 *   Identification of Middlebury’s procedures and permissible bases for the Reporting Individual and Respondent to appeal (as outlined below).
@@ -411,11 +411,11 @@ The CRTIX Coordinator will assess the request for informal resolution in light o
 At any time prior to reaching a determination regarding responsibility, Middlebury may facilitate an informal resolution process (e.g., mediation or restorative justice) where requested by one party and agreed to by the other party. If a party requests the initiation of an informal resolution process and the CRTIX Coordinator agrees that the matter is appropriate for informal resolution, Middlebury will provide to each party a written notice that discloses:
 
 *   The allegations;
-*   The requirements of the informal resolution process, including the circumstances under which it precludes the parties from resuming a formal complaint arising from the same allegations-
+*   The requirements of the informal resolution process, including the circumstances under which it precludes the parties from resuming a formal complaint arising from the same allegations;
 *   As noted below, Middlebury generally permits parties to withdraw from the informal resolution process and initiate or re-initiate a formal investigation and hearing process at any time before the informal resolution process is completed and any informal resolution is agreed to in writing by the parties); and
 *   Any consequences resulting from participating in the informal resolution process, including the records that will be maintained or could be shared.
 
-The matter will be deemed resolved if and when the parties expressly agree in writing to an outcome that is acceptable to them and which is approved by the CRTIX Coordinator (in consultation with other Middlebury administrators as deemed necessary).  A party may withdraw from the informal resolution process at any time prior to their execution of a written informal resolution agreement. After an informal resolution is agreed to in writing between the parties, neither party may initiate a formal resolution process regarding substantially the same factual allegations.
+The matter will be deemed resolved if and when the parties expressly agree in writing to an outcome that is acceptable to them, and which is approved by the CRTIX Coordinator (in consultation with other Middlebury administrators as deemed necessary).  A party may withdraw from the informal resolution process at any time prior to their execution of a written informal resolution agreement. After an informal resolution is agreed to in writing between the parties, neither party may initiate a formal resolution process regarding substantially the same factual allegations.
 
 At any time before a matter is resolved through informal resolution, the CRTIX Coordinator may terminate an informal resolution process and initiate or re-initiate a formal investigation and hearing process at any time, as they deem appropriate in their discretion.
 
@@ -425,7 +425,7 @@ The CRTIX Coordinator, investigators, decision-makers, sanctioning authoritie
 
 **XI. Record Keeping** 
 
-The HROs and the CRTIX Coordinator will maintain as required by the May 2020 Title IX regulations any records related to Title IX Title IX Sexual Harassment cases, and will keep confidential records and/or reports under this policy and the actions taken in response to those reports.
+The HROs and the CRTIX Coordinator will maintain as required by the May 2020 Title IX regulations any records related to Title IX Title IX Sexual Harassment cases and will keep confidential records and/or reports under this policy and the actions taken in response to those reports.
 
 **APPENDIX A**
 
@@ -441,11 +441,11 @@ A Respondent is an individual who has been reported to have engaged in conduct t
 
 **3.** **Report**
 
-A Report is any information received by Middlebury College that a complainant has allegedly been subjected to conduct  which could constitute Title IX Sexual Harassment.  A Report is not a Formal Complaint and does not trigger a formal investigation or adjudication. Instead, reports serve as a basis for statistical reporting under the Jeanne Clery Act, and allow Middlebury to provide Supportive Measures to those who have experienced Title IX Sexual Harassment. Any Complainant who reports Title IX Sexual Harassment will receive information about the Formal Complaint and Investigation Process.
+A Report is any information received by Middlebury College that a Reporting Individual has allegedly been subjected to conduct  which could constitute Title IX Sexual Harassment.  A Report is not a Formal Complaint and does not trigger a formal investigation or adjudication. Instead, reports serve as a basis for statistical reporting under the Jeanne Clery Act, and allow Middlebury to provide Supportive Measures to those who have experienced Title IX Sexual Harassment. Any Reporting Individual who reports Title IX Sexual Harassment will receive information about the Formal Complaint and Investigation Process.
 
 **4.** **Formal Complaint**
 
-Formal complaint means a document filed by a complainant or signed by the Civil Rights and Title IX Coordinator alleging Title IX Sexual Harassment against a respondent and requesting that the recipient investigate the allegation of Title IX Sexual Harassment. At the time of filing a formal complaint, a complainant must be participating in or attempting to participate in the education program or activity of the recipient with which the formal complaint is filed. A formal complaint may be filed with the Title IX Coordinator in person, by mail, or by electronic mail, by using the contact information required to be listed for the Title IX Coordinator under § 106.8(a), and by any additional method designated by the recipient.
+Formal complaint means a document filed by a Reporting Individual or signed by the Civil Rights and Title IX Coordinator alleging Title IX Sexual Harassment against a Respondent and requesting that the recipient investigate the allegation of Title IX Sexual Harassment. At the time of filing a formal complaint, a Reporting Individual must be participating in or attempting to participate in the education program or activity of the recipient with which the formal complaint is filed. A formal complaint may be filed with the Title IX Coordinator in person, by mail, or by electronic mail, by using the contact information required to be listed for the Title IX Coordinator under § 106.8(a), and by any additional method designated by the recipient.
 
 **5.** **Human Relations Officer**
 
@@ -457,22 +457,18 @@ The Civil Rights and Title IX Coordinator ("CRTIX Coordinator") is the administr
 
 Middlebury’s CRTIX Coordinator also participates in Middlebury’s handling and responding to complaints of sexual misconduct, domestic and dating violence and misconduct, and stalking, as defined in this policy.
 
-References throughout this Procedure to the CRTIX should be read as including individuals to whom the CRTIX has designated certain duties either in general or in the context of a particular case or situation.
+References throughout this Procedure to the CRTIX Coordinator should be read as including individuals to whom the CRTIX Coordinator has designated certain duties either in general or in the context of a particular case or situation.
 
 **7.** **Days**
 
-Unless otherwise noted, “days” indicates calendar days, regardless of whether the majority of Middlebury’s administrative offices are open. “Business days” indicates days on which the majority of Middlebury’s administrative offices are open, and generally connotes Mondays through Fridays. In computing any period of time referenced in this Procedure, the day of the act or event (e.g., provision of evidence for review and response, issuance of a determination or sanction) from which the designated time period begins to run shall not be included. The last day of the period so computed shall be included if it is a business day; when not a business day, the period will conclude at the end of the next business day.
+Unless otherwise noted, “days” indicates calendar days, regardless of whether the majority of Middlebury’s administrative offices are open. “Business days” indicates days on which the majority of Middlebury’s administrative offices are open and generally connotes Mondays through Fridays. In computing any period of time referenced in this Procedure, the day of the act or event (e.g., provision of evidence for review and response, issuance of a determination or sanction) from which the designated time period begins to run shall not be included. The last day of the period so computed shall be included if it is a business day; when not a business day, the period will conclude at the end of the next business day.
 
 **8.** **Parties**
 
-Only the complainant and respondent are considered a “party” or “parties” as that term is used within this policy.
+Only the Reporting Individual and Respondent are considered a “party” or “parties” as that term is used within this policy.
 
 Published: August 14, 2020
 
 Amended: September 10, 2021
 
----
-
-**\[1\] Note that Schools Abroad are covered under AHD**
-
-**\[2\] Middlebury’s Vermont undergraduate campus program includes a confidential resource called MiddSafe; for more information, see** [**https://www.middlebury.edu/student-life/health-wellness-education-and-saf...**](https://www.middlebury.edu/student-life/health-wellness-education-and-safety/education/middsafe)**.**
+Amended: May 9, 2025
