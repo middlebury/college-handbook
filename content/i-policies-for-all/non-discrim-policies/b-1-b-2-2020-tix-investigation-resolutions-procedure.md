@@ -194,7 +194,7 @@ If the CRTIX Coordinator dismisses a complaint under subsections (A)(1) or (A)(6
 
 **A. Investigations Procedure**
 
-1.  General Investigation Provisions
+1\. General Investigation Provisions
 
 As required by the 2020 Title IX regulations, in investigations conducted under this Procedure, the following provisions will apply:
 
@@ -203,33 +203,37 @@ As required by the 2020 Title IX regulations, in investigations conducted under 
 *   Parties are not restricted in their ability to discuss the allegations under investigation or to gather and present relevant evidence; and
 *   When a party is invited or expected to attend a hearing, investigative interview, or other meeting, they will receive written notice of the date, time location, participants, and purpose of such a hearing, investigative interview or meeting, with sufficient time for the party to prepare to participate.
 
-1.  Initial Notice of Investigation
+2\. Initial Notice of Investigation
 
-When Middlebury initiates an investigation under this Procedure it will provide to the parties a written notice (by electronic or other means) that includes:
+Once the CRTIX Coordinator has initiated an investigation under this Procedure and determined the scope of the investigation based on information obtained during the pre-investigation stage, the CRTIX Coordinator or designee will issue a written notice to the parties, along with a copy of the Non-Discrimination Policy and this Procedure. The notice will indicate that Middlebury is investigating the possibility that the Respondent has violated the Non-Discrimination Policy using this Procedure and will include at a minimum:
 
 *   Information about Middlebury’s formal and informal resolution processes;
 *   A statement of the allegations of behavior potentially constituting Title IX Sexual Harassment, including sufficient details known at the time and with sufficient time to prepare a response before any initial post-intake interview. Sufficient details include the identities of the parties involved in the incident, if known, the conduct allegedly constituting Title IX Sexual Harassment, and the date and location of the alleged incident, if known;
-*   A statement that the respondent is presumed not responsible for the alleged conduct and that a determination regarding responsibility is made at the conclusion of the grievance process;
+*   A statement that the Respondent is presumed not responsible for the alleged conduct and that a determination regarding responsibility is made at the conclusion of the grievance process;
 *   Information regarding Middlebury’s presumption of good faith reporting and a summary of false complaint information outlined below;
 *   Notification that the parties may have an advisor of their choice, who may be, but is not required to be, an attorney; and
 *   Notification that the parties may inspect and review evidence during the investigation and resolution process, as provided below.
 
-If, in the course of an investigation, Middlebury decides to investigate allegations about any party that are not included in the notice described above, it will provide notice of the additional allegations to the parties whose identities are known.
+If, in the course of an investigation, Middlebury decides to investigate allegations about any party that are not included in the notice described above, it will provide notice of the additional allegations to the parties whose identities are known; Notice letters may be amended as appropriate during the course of the investigation, with parties being apprised of such by CRTIX when that occurs.
 
-1.  Consolidation of Formal Complaints
+3\. Consolidation of Formal Complaints
 
-Middlebury may consolidate formal complaints of Title IX Sexual Harassment against more than one respondent, or by more than one complainant against one or more respondents, or by one party against the other party, where the allegations of such Title IX Sexual Harassment arise out of the same facts or circumstances. Where a grievance process involves more than one complainant or more than one respondent, references in this section to the singular “party,” “complainant,” or “respondent” include the plural, as applicable.
+Middlebury may consolidate formal complaints of Title IX Sexual Harassment against more than one Respondent, or by more than one Reporting Individual against one or more Respondents, or by one party against the other party, where the allegations of such Title IX Sexual Harassment arise out of the same facts or circumstances. Where a grievance process involves more than one Reporting Individual or more than one Respondent, references in this section to the singular “party,” “Reporting Individual,” or “Respondent” include the plural, as applicable.
 
-1.  Disabilities
+4\. Disabilities
 
-Students registered with the [Disability Resource Center](https://www.middlebury.edu/studentlife/doc/ada) can request accommodations to ensure their full and equal participation in any conduct process and/or proceeding. Accommodation requests may be made directly to the CRTIX Coordinator. Accommodations are determined on an individual basis in consultation with the ADA Coordinators. Employees with disabilities may contact Human Resources.
+Individuals needing disability accommodations to fully participate in the investigation process may work with the CRTIX Coordinator to receive appropriate assistance. Accommodation requests may be made directly to the CRTIX Coordinator. Accommodations are determined on an individual basis in consultation with the ADA Coordinators within the Disability Resource Center and/or HR (in the case of employees).
 
 **B. Conduct of the Investigation**
 
-1.  The CRTIX Coordinator will appoint an investigator. In selecting the investigator for a particular matter, the CRTIX Coordinator will take care to select an individual who does not have a conflict of interest or bias against complainants or respondents generally or an individual complainant or respondent. The CRTIX Coordinator will notify the parties of the identity of the investigator and parties may, within three calendar days of such notice, object to the appointment of the investigator by providing a written statement (which may be transmitted electronically) as to why the party believes that the investigator has a conflict of interest or bias. The CRTIX Coordinator will make decisions regarding such objections and the appointment of an alternate investigator, as necessary.
+1.  The CRTIX Coordinator will appoint an investigator, either a Middlebury employee or an external investigator, who serves as a neutral, impartial fact-finder. External investigators are supervised by a Middlebury HRO, including tracking the investigation for timely progress, communicating with parties about the progress, assisting with the creation and maintenance of investigative records, and assisting the external investigator as necessary. Other Middlebury officials may at times be called upon to assist with an investigation, depending on the circumstances. In selecting the investigator for a particular matter, the CRTIX Coordinator will take care to select an individual who does not have a conflict of interest or bias against Reporting Individuals or Respondents generally or an individual Reporting Individual or Respondent. The CRTIX Coordinator will notify the parties of the identity of the investigator and parties may, within three calendar days of such notice, object to the appointment of the investigator by providing a written statement (which may be transmitted electronically) as to why the party believes that the investigator has a conflict of interest or bias. The CRTIX Coordinator will make decisions regarding such objections and the appointment of an alternate investigator, as necessary. The CRTIX Coordinator’s decision about whether there is a conflict is final.
 2.  The investigator is authorized to contact any and all individuals who may have relevant information. The nature and scope of the investigation is within the discretion of the investigator.  The investigator is authorized to access relevant records, except those legally protected as confidential or privileged, and may collect any additional evidence relevant to the complaint. Middlebury recognizes, however, that individuals who are bound by legal privileges may not be able to disclose privileged information, unless an exception applies. The investigator will not access, consider, disclose or otherwise use a party’s privileged records without the party’s voluntary, written consent to do so, and such information will not be deemed relevant to an investigation or adjudication absent the voluntary, written consent of the party.
-3.  The complainant and respondent will be asked to identify, preserve and submit all evidence pertaining to the matter under investigation, and to identify witnesses they believe may have relevant testimony to share. The investigator is not required to consider particular evidence submitted or interview any particular witness, even if identified by one of the parties.
+3.  The Reporting Individual and Respondent will be asked to identify, preserve and submit all evidence pertaining to the matter under investigation, and to identify witnesses they believe may have relevant testimony to share. The investigator is not required to consider particular evidence submitted or interview any particular witness, even if identified by one of the parties.
 4.  All participants in the investigation are expected to provide complete, accurate, and truthful information.
+5.  Interviews may be conducted in person, via videoconferencing (e.g., Zoom, Microsoft Teams), or by telephone. Interview participants may not make unauthorized recordings of investigative interviews or any other meetings occurring during the investigation and adjudication process.
+6.  The Parties may each have an Advisor of choice present with them for any investigative interviews (or at any other meetings occurring during the investigation and resolution process).
+7.  Advisors are precluded from copying, sharing, describing, and/or otherwise disseminating any investigation- or adjudication-related materials to which they are privy, and they shall not disclose the contents of these materials to other Parties or individuals.
+8.  The advisor may advise the Party privately but cannot act as a speaking advocate at any investigatory meeting or interview. An investigator or other Middlebury official may terminate meetings and remove or dismiss advisors if an advisor is disruptive or otherwise refuses to comply with the requirements of this Procedure.
 
 **C. Preliminary Report**
 
