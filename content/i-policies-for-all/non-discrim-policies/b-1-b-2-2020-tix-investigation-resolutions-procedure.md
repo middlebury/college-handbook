@@ -135,13 +135,13 @@ Requests for assistance with contacting law enforcement authorities or obtaining
 
 **III. FORMAL COMPLAINTS/GRIEVANCES & PRE-INVESTIGATION**
 
-In addition to the reporting options and access to supportive measures addressed above, a complainant may file a formal written complaint alleging Title IX Sexual Harassment against a respondent and requesting that Middlebury investigate the allegation. At the time of filing a formal complaint, a complainant must be participating in or attempting to participate in Middlebury’s programs or activities. A formal complaint may be filed with the CRTIX Coordinator in person, by mail, or by electronic mail, by using the contact information contained in Section II, above.
+In addition to the reporting options and access to supportive measures addressed above, a Reporting Individual may file a formal written complaint alleging Title IX Sexual Harassment against a Respondent and requesting that Middlebury investigate the allegation. At the time of filing a formal complaint, a Reporting Individual must be participating in or attempting to participate in Middlebury’s programs or activities. A formal complaint may be filed with the CRTIX Coordinator or Deputy CRTIX Coordinator in person, by mail, or by electronic mail, by using the contact information contained in Section II, above.
 
 **A. Pre-Investigation: Determinations of Applicable Procedures, Dismissals, Transfers and Appeals of Such Determinations**
 
-1\. Middlebury will investigate alleged Title IX Sexual Harassment where a complainant submits a signed or electronically submitted formal complaint to the CRTIX coordinator, requests an investigation, and the signed written complaint meets the requirements of this section. In cases where the complainant does not wish to submit a formal complaint but the CRTIX Coordinator decides in their discretion to sign a complaint and initiate an investigation and resolution process, the CRTIX Coordinator will not be a complainant or otherwise a party to the matter.  Middlebury will terminate the Title IX Sexual Harassment Investigation if a complainant notifies the CRTIX Coordinator in writing that the complainant would like to withdraw the formal complaint.
+1\. Middlebury will investigate alleged Title IX Sexual Harassment where a Reporting Individual submits a signed or electronically submitted formal complaint to the CRTIX Coordinator (or designee), requests an investigation, and the signed written complaint meets the requirements of this section. In cases where the Reporting Individual does not wish to submit a formal complaint but the CRTIX Coordinator decides in their discretion to sign a complaint and initiate an investigation and resolution process, the CRTIX Coordinator will not be a complainant or otherwise a party to the matter.  Middlebury may terminate the Title IX Sexual Harassment Investigation if a Reporting Individual notifies the CRTIX Coordinator in writing that the Reporting Individual would like to withdraw the formal complaint.
 
-2\. When a complainant requests an investigation,
+2\. When a Reporting Individual requests an investigation,
 
 (a) the CRTIX Coordinator will, promptly upon receipt of a report, determine whether:
 
