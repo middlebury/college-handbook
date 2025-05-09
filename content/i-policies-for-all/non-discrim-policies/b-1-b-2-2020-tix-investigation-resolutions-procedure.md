@@ -321,9 +321,11 @@ Within a reasonable time, the hearing officer (and if necessary the sanctioning 
 *   Findings of fact supporting the determination
 *   Conclusions regarding the application of definitions of Title IX Sexual Harassment in Middlebury’s Non-Discrimination Policy to the facts;
 *   A statement of, and rationale for, the result as to each allegation, including a determination regarding responsibility; and
-*   Identification of Middlebury’s procedures and permissible bases for the Complainant and Respondent to appeal (as outlined below).
+*   Identification of Middlebury’s procedures and permissible bases for the Reporting Individual and Respondent to appeal (as outlined below).
 
-The determination regarding responsibility becomes final either on the date that Middlebury provides the parties with the written determination of the appeal, if an appeal is filed, or if an appeal is not filed, the date on which the appeal would no longer be considered timely.
+In making the determination, the HRO is in no way bound by the investigator’s final investigative report, which is advisory to the HRO. The HRO may accept or reject the investigator’s recommended finding(s) or proposed findings of fact in whole or in part. The HRO will reach their own independent conclusions based on the evidence of record and information obtained as a result of the hearing.
+
+There will be no review and comment period following the issuance of the HRO’s Determination. The determination regarding responsibility becomes final either on the date that Middlebury provides the parties with the written determination of the appeal, if an appeal is filed, or if an appeal is not filed, the date on which the appeal would no longer be considered timely.
 
 If sanctions are necessary, they will be assigned in accordance with the Sanctions section below. The parties will receive notice simultaneously of the written determination and, if necessary, any sanctions as determined through the procedures outlined below.
 
