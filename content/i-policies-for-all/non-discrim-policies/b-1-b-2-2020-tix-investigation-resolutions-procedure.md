@@ -404,7 +404,7 @@ If at any point a Respondent chooses to accept responsibility for violating all 
 
 **A. General Information**
 
-Informal resolution is a voluntary option that does not involve a hearing process. Informal resolution may be used in Title IX Sexual Harassment matters in which a formal complaint has been filed by a complainant or signed by the CRTIX Coordinator.
+Informal resolution is a voluntary option that does not involve a hearing process. Informal resolution may be used in Title IX Sexual Harassment matters in which a formal complaint has been filed by a Reporting Individual or signed by the CRTIX Coordinator.
 
 The CRTIX Coordinator will assess the request for informal resolution in light of factors such as, but not limited to, the severity of the alleged violation and the potential risks to campus community members posed by the reported misconduct. Middlebury will only proceed with an informal resolution process if both parties provide their voluntary, written consent to initiate the informal resolution process. Middlebury will not offer or facilitate an informal resolution process in matters that involve allegations that an employee committed Title IX Sexual Harassment against a student.
 
@@ -421,7 +421,7 @@ At any time before a matter is resolved through informal resolution, the CRTIX C
 
 **X. Training of Individuals Conducting Investigations and Adjudications and Facilitating Informal Resolution Processes** 
 
-The CRTIX Coordinator, investigators, decision-makers, sanctioning authorities, appellate authorities, and individuals facilitating informal resolution processes (collectively, “Middlebury Officials”) receive training on the definition of Title IX Sexual Harassment in this policy, the scope of Middlebury’s education programs or activities, how to serve impartially (including by avoiding prejudgment of the facts at issue, conflicts of interest, and bias), and on issues of relevance of evidence as well as questions, including when questions and evidence about the complainant’s sexual predisposition or prior sexual behavior are not relevant. Any materials used to train Middlebury Officials will not rely on sex stereotypes and will promote impartial adjudications of formal complaints. Middlebury will ensure that all Middlebury Officials comply with the standards on serving impartially that are outlined in this paragraph.
+The CRTIX Coordinator, investigators, decision-makers, sanctioning authorities, appellate authorities, and individuals facilitating informal resolution processes (collectively, “Middlebury Officials”) receive training on the definition of Title IX Sexual Harassment in this policy, the scope of Middlebury’s education programs or activities, how to serve impartially (including by avoiding prejudgment of the facts at issue, conflicts of interest, and bias), and on issues of relevance of evidence as well as questions, including when questions and evidence about the Reporting Individual's sexual predisposition or prior sexual behavior are not relevant. Any materials used to train Middlebury Officials will not rely on sex stereotypes and will promote impartial adjudications of formal complaints. Middlebury will ensure that all Middlebury Officials comply with the standards on serving impartially that are outlined in this paragraph.
 
 **XI. Record Keeping** 
 
@@ -431,13 +431,13 @@ The HROs and the CRTIX Coordinator will maintain as required by the May 2020 Ti
 
 **A. DEFINITIONS**
 
-**1.** **Complainant**
+**1.** **Reporting Individual**
 
-A complainant is an individual who is reported to have experienced conduct that could constitute Prohibited Conduct, regardless of whether the individual makes a report or seeks disciplinary action
+Reporting Individual means an individual who is reported to have experienced conduct that could constitute Prohibited Conduct, regardless of whether the individual makes a report or seeks disciplinary action. “Reporting Individual” has the same meaning as “Complainant” as that term is used in the 2020 regulations; the terms “Complainant” and “Reporting Individual” may be used interchangeably for the purposes of this Procedure.
 
 **2.** **Respondent**
 
-A respondent is an individual who has been reported to have engaged in conduct that could constitute Prohibited Conduct and whose alleged conduct is being investigated to determine if it is in violation of Middlebury’s policies.
+A Respondent is an individual who has been reported to have engaged in conduct that could constitute Prohibited Conduct and whose alleged conduct is being investigated to determine if it is in violation of Middlebury’s policies.
 
 **3.** **Report**
 
