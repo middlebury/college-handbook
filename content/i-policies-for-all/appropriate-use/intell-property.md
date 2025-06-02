@@ -1,25 +1,25 @@
 ---
 slug: /pages/i-policies-for-all/appropriate-use/intell-property
-date: 2021-05-01
 title: D.4. Intellectual Property
+date: 06/02/2025
 ---
 Middlebury is the owner of various forms of intellectual property, including trademarks such as its name, shield, athletic logos and copyright in certain documents critical to its identity and operations.
 
 **A. Use of the College's Name, Logos, Images, and Other Service or Trademarks**
 
-Middlebury College has obtained trademark or service mark registrations on a variety of College names and logos.  These include Middlebury College, the College seal, the Middlebury College Panthers, the panther logo, the Middlebury Language Schools, the Middlebury Institute of International Studies at Monterey (MIIS), the MIIS shield, Bread Loaf, Bread Loaf School of English, MiddCORE, etc.
+Middlebury College has obtained trademark or service mark registrations on a variety of College names and logos. These include Middlebury College, the College seal, the Middlebury College Panthers, the panther logo, the Middlebury Language Schools, the Middlebury Institute of International Studies at Monterey (MIIS), the MIIS shield, Bread Loaf, Bread Loaf School of English, MiddCORE, etc.
 
-Whenever these marks are used they should be noted as being registered marks. Vendors must obtain permission to produce items bearing these marks and images, or to use these marks/logos in their marketing materials.  Merchandise bearing Middlebury marks or logos should usually be purchased or ordered through the College Book Store.
+Whenever these marks are used they should be noted as being registered marks. Vendors must obtain permission to produce items bearing these marks and images, or to use these marks/logos in their marketing materials. Merchandise bearing Middlebury marks or logos should usually be purchased or ordered through the College Book Store.
 
-Questions from Middlebury programs about using these logos or marks on marketing materials or other communications should be directed to the Middlebury Office of Communications in advance.  Questions about vendors using Middlebury’s name or marks should be directed to Business Services.
+Questions from Middlebury programs about using these logos or marks on marketing materials or other communications should be directed to the Middlebury Office of Communications in advance. Questions about vendors using Middlebury’s name or marks should be directed to Business Services.
 
-**B.** **Middlebury Policy on Intellectual Property Rights**     – Approved October 1, 2016
+**B.** **Middlebury Policy on Intellectual Property Rights** – Approved October 1, 2016
 
 **I. Principles and Definitions**
 
 The purpose of this Intellectual Property policy (this **“policy”**) is to protect and celebrate the work of members of the Middlebury Community, to establish understood guidelines with respect to ownership and use of Intellectual Property, and to demonstrate Middlebury’s commitment to sharing the Middlebury Community’s expertise for the public good. This policy outlines the rights, responsibilities, and opportunities of Middlebury Community members with regard to Intellectual Property created as part of work or study with Middlebury or with the use of Middlebury resources.
 
-_**(a)  Principles.**_
+_**(a) Principles.**_
 
 (1) Middlebury wishes to support and sustain its tradition of rigorous academic pursuit leading to the creation, dissemination, and preservation of knowledge, inventions and scholarly works for the benefit of the Middlebury Community and the world. Middlebury approaches Intellectual Property in a way that recognizes and honors the traditions of how institutions of higher education support scholarly work, and creates incentives to do such work, while ensuring that it is preserving the appropriate Intellectual Property rights Middlebury needs to function in an evolving world. Consistent with this academic tradition, Middlebury’s Intellectual Property policy affirms that ownership of scholarly work created by members of the Middlebury Community typically remains with the creator of such work.
 
@@ -27,7 +27,7 @@ _**(a)  Principles.**_
 
 (3) Middlebury does not distinguish between creative and scholarly works created by faculty, staff, or students. All members of the Middlebury Community are treated equally under this policy, though some kinds of work done by Middlebury Community members may fall under designations of specific interest for Middlebury and thus be subject to different Middlebury ownership guidelines.
 
-_**(b)  Definitions.**_
+_**(b) Definitions.**_
 
 For purposes of this policy, the following terms have the following meanings:
 
@@ -41,11 +41,11 @@ For purposes of this policy, the following terms have the following meanings:
 
 **II. Determination of Intellectual Property Ownership**
 
-_**(a)  General Rule.**_
+_**(a) General Rule.**_
 
 **Subject to applicable law, any IP created or developed by members of the Middlebury Community shall be owned by the creators of such IP.**
 
-_**(b)  Exceptions to General Rule.**_
+_**(b) Exceptions to General Rule.**_
 
 Notwithstanding subsection (a) above, Middlebury shall own such IP, and the creator(s) hereby assign, and shall assign, all IP rights to Middlebury, when:
 
@@ -79,15 +79,15 @@ For the purposes of this policy, _identity interest_ is defined as an interest i
 
 (4) The IP was created or developed with substantially greater use of Middlebury resources than would normally be provided in support of the creators’ employment duties or student activities, as applicable. This might occur through disproportionate use of staff time, student resources, networks, equipment, direct funding, or other Middlebury resources. If in such a situation the creator and Middlebury mutually agree that ownership should remain with the creator or be shared by Middlebury and the creator, then Middlebury and the creator must enter into a written agreement regarding ownership of the IP at an early stage of its development, generally before the use of extra Middlebury resources begins, and ownership will then be determined by the terms of such agreement (as further described below).
 
-_**(c)  IP Ownership Agreements.**_
+_**(c) IP Ownership Agreements.**_
 
 Notwithstanding subsections (a) and (b) above, where Middlebury and the creator of the IP have entered into a written agreement regarding the ownership of the IP, ownership and any assignment of IP rights obligations will then be determined by the terms of such agreement. Such agreements may involve the offering of non-exclusive, worldwide, royalty-free licenses for use by the creator or Middlebury, and/or the offering of creative commons licensing for broader use.
 
-_**(d)  Other Middlebury Policies.**_
+_**(d) Other Middlebury Policies.**_
 
 Though ownership of instructional and scholarly materials and other IP created or developed by the Middlebury Community that fall outside of the Middlebury ownership rights described in subsection (b) or (c) above remains with the creator, the rights of those individuals to create, develop, distribute, use and otherwise exploit those materials and other IP remain subject to all other applicable Middlebury policies, including **Middlebury’s Consulting and Outside Employment policy**, Middlebury’s **Trademark and Logos policy**, and policies dealing with conflicts of interest.
 
-_**(e)  IP Created through Partnerships, Collaborations and International Work/Study.**_
+_**(e) IP Created through Partnerships, Collaborations and International Work/Study.**_
 
 Intellectual Property may be created or developed through collaborations or partnerships by the Middlebury Community with other individuals and institutions. In those cases, the members of the Middlebury Community and the collaborating individuals or entities should sign an agreement that describes how Intellectual Property ownership and rights will be handled. It is important to recognize that such agreements should be made in advance of the start of a project and that they may be subject to institutional, state, U.S., and international laws and regulations.
 
@@ -95,11 +95,11 @@ Most of the Intellectual Property created or developed by Middlebury Community m
 
 Middlebury Community members studying or working with an international partner institution or an unrelated institution, organization, or entity, should review this policy and the Middlebury Conflict of Interest Policy, and investigate the Intellectual Property policies of that institution, organization, or entity before committing to study or work there, as they may be subject to those policies. Similarly, staff and students from international partner institutions or unrelated institutions, organizations, or entities will be subject to Middlebury’s IP policies when they are doing work as part of a Middlebury course of study or work.
 
-_**(f)    Institutional Support for Commercialization of IP Owned by Middlebury Community Members.**_
+_**(f) Institutional Support for Commercialization of IP Owned by Middlebury Community Members.**_
 
-Middlebury Community members who wish to pursue the commercialization of their Intellectual Property rights, including Patent Rights, through Middlebury, may provide the Office of the Provost with written notice of such proposed commercialization, which notice shall include a non-confidential description of such Intellectual Property rights.  The Intellectual Property Committee will then determine whether additional information or disclosure is required with respect to such Intellectual Property and, if so, may require the applicable Middlebury Community member to enter into a non-disclosure agreement with Middlebury with respect to such information.  Following the Intellectual Property Committee’s review of the Intellectual Property and additional information and disclosures (if any) and evaluation of the commercial potential of the Intellectual Property, the Intellectual Property Committee will make a recommendation to the Provost regarding Middlebury’s support of and role in the protection and commercialization of the Intellectual Property. Whether Middlebury will provide assistance in the protection and commercialization of such IP will be made at the sole discretion of the Middlebury Provost.  If Middlebury elects to provide assistance in the protection and commercialization of the IP, the owner of the IP rights and Middlebury shall negotiate in good faith an agreement governing the rights and responsibilities to protect the IP rights, to further develop, market and commercialize the IP rights and an equitable sharing of royalties or other financial returns from the IP rights in recognition of their respective contributions and responsibilities.
+Middlebury Community members who wish to pursue the commercialization of their Intellectual Property rights, including Patent Rights, through Middlebury, may provide the Office of the Provost with written notice of such proposed commercialization, which notice shall include a non-confidential description of such Intellectual Property rights. The Intellectual Property Committee will then determine whether additional information or disclosure is required with respect to such Intellectual Property and, if so, may require the applicable Middlebury Community member to enter into a non-disclosure agreement with Middlebury with respect to such information. Following the Intellectual Property Committee’s review of the Intellectual Property and additional information and disclosures (if any) and evaluation of the commercial potential of the Intellectual Property, the Intellectual Property Committee will make a recommendation to the Provost regarding Middlebury’s support of and role in the protection and commercialization of the Intellectual Property. Whether Middlebury will provide assistance in the protection and commercialization of such IP will be made at the sole discretion of the Middlebury Provost. If Middlebury elects to provide assistance in the protection and commercialization of the IP, the owner of the IP rights and Middlebury shall negotiate in good faith an agreement governing the rights and responsibilities to protect the IP rights, to further develop, market and commercialize the IP rights and an equitable sharing of royalties or other financial returns from the IP rights in recognition of their respective contributions and responsibilities.
 
-_**(g)  Questions.**_
+_**(g) Questions.**_
 
 Questions regarding the interpretation of the above-described Intellectual Property ownership determination framework should be directed to the [Intellectual Property Committee](https://ipwg.middcreate.net/ip/) as defined in the “Administration” section below.
 
@@ -109,22 +109,22 @@ Middlebury is committed to sharing the expertise of Middlebury Community members
 
 **IV. Administration**
 
-_**(a)  Office of the Provost.**_
+_**(a) Office of the Provost.**_
 
-This policy will be administered by the Office of the Provost.  Interpretations of and rulings with respect to the terms and conditions of this policy will be made by the Provost, following consultation with the Intellectual Property Committee. Any matters that involve the Provost as a creator under this policy will be determined by an ad hoc committee of the Middlebury Board of Trustees.
+This policy will be administered by the Office of the Provost. Interpretations of and rulings with respect to the terms and conditions of this policy will be made by the Provost, following consultation with the Intellectual Property Committee. Any matters that involve the Provost as a creator under this policy will be determined by an ad hoc committee of the Middlebury Board of Trustees.
 
-_**(b)  Intellectual Property Committee.**_
+_**(b) Intellectual Property Committee.**_
 
-In implementing this policy, the Middlebury Board of Trustees will, in consultation with the Provost, appoint an Intellectual Property review committee (the **“Intellectual Property Committee”**) consisting of members of various constituencies within the Middlebury Community.  The [Intellectual Property Committee](https://ipwg.middcreate.net/ip/) will have an Executive Committee designated by the Board of Trustees.
+In implementing this policy, the Provost will appoint an Intellectual Property review committee (the **“Intellectual Property Committee”**) consisting of members of various constituencies within the Middlebury Community. The [Intellectual Property Committee](https://ipwg.middcreate.net/ip/) will have an Executive Committee designated by the Provost.
 
-The Executive Committee will meet at least semi-annually to discuss and make recommendations to the Provost on matters regarding (i) changes or amendments to this policy, (ii) general guidance to the Middlebury Community regarding the interpretation of, and procedures described in, this policy, and (iii) other issues relating to the matters described in this policy as requested by the President, the Middlebury Board of Trustees or the Provost.  Meetings of the Executive Committee will be open to the Middlebury Community.
+The Executive Committee will meet at least semi-annually to discuss and make recommendations to the Provost on matters regarding (i) changes or amendments to this policy, (ii) general guidance to the Middlebury Community regarding the interpretation of, and procedures described in, this policy, and (iii) other issues relating to the matters described in this policy as requested by the President, the Provost, or the Middlebury Board of Trustees. Meetings of the Executive Committee will be open to the Middlebury Community.
 
-The full Intellectual Property Committee will be convened and meet as needed in response to disputes arising under this policy, and additionally from time to time as requested by the Executive Committee or the Office of the Provost.   Both the Executive and full Intellectual Property Committees will keep regular minutes of meetings and provide such minutes to the Provost.
+The full Intellectual Property Committee will be convened and meet as needed in response to disputes arising under this policy, and additionally from time to time as requested by the Executive Committee or the Office of the Provost. Both the Executive and full Intellectual Property Committees will keep regular minutes of meetings and provide such minutes to the Provost.
 
-_**(c)  Resolution of Disputes and Conflicts.**_
+_**(c) Resolution of Disputes and Conflicts.**_
 
-Disputes relating to this policy and Intellectual Property created or developed by the Middlebury Community will be referred to the full Intellectual Property Committee, the President and the Vice President of Human Resources (collectively, the _**“Adjudicating Committee”**_) for review and resolution.  When addressing a dispute, the Adjudicating Committee shall investigate the dispute, which investigation shall include soliciting feedback and information from the General Counsel of Middlebury, who shall serve as an advocate on behalf of Middlebury (or, in the absence of the General Counsel, an individual appointed by the President to serve as an advocate on behalf of Middlebury) and the creator.  Resolution of all disputes will be made by the Adjudicating Committee, subject to the approval of the President.  The decision of the Adjudicating Committee, subject to the approval of the President, shall be final.
+Disputes relating to this policy and Intellectual Property created or developed by the Middlebury Community will be referred to the full Intellectual Property Committee, the President and the Vice President of Human Resources (collectively, the _**“Adjudicating Committee”**_) for review and resolution. When addressing a dispute, the Adjudicating Committee shall investigate the dispute, which investigation shall include soliciting feedback and information from the General Counsel of Middlebury, who shall serve as an advocate on behalf of Middlebury (or, in the absence of the General Counsel, an individual appointed by the President to serve as an advocate on behalf of Middlebury) and the creator. Resolution of all disputes will be made by the Adjudicating Committee, subject to the approval of the President. The decision of the Adjudicating Committee, subject to the approval of the President, shall be final.
 
-_**(d)  Approval and Modification.**_
+_**(d) Approval and Modification.**_
 
-This policy has been approved by the Middlebury Board of Trustees.  It may only be modified, restated or repealed with the approval of the Middlebury Board of Trustees.
+This policy has been approved by the Middlebury Board of Trustees. It may only be modified, restated or repealed with the approval of the Middlebury Board of Trustees.
