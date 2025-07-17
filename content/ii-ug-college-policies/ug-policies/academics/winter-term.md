@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/winter-term
 title: B.1.h. Winter Term
-date: 2021-05-01
+date: 07/17/2025
 ---
 **1\. General**
 
@@ -37,11 +37,11 @@ iii. Changes in course registration may be made only during the first three days
 
 iv. A student who misses the first class of winter term must be excused by a class dean or it will be assumed that the student has dropped the course.
 
-v. The registration windows for winter term open as follows: (1) students with 7-16.99 credits earned; (2) students with 3-6.99 credits earned; (3) students with 17-36+ credits earned.
+v. The registration windows for winter term open as follows: (1) students with 7-16.99 credits earned; (2) students with 3-6.99 credits earned; (3) students with 17-34+ credits earned.
 
 **3\. Student Options for Winter Term**
 
-Students are required to earn Middlebury credits during two winter terms. All first-year students must enroll in a winter term course on the Middlebury campus. This includes both September and February matriculates. The second credit may be earned by enrolling in a winter term course, a credit-bearing independent project, a credit-bearing internship, or by studying abroad and earning winter term equivalent credit. (A minimum of two and a maximum of four winter term courses will count toward the graduation requirement of 36 course credits.)
+Students are required to earn Middlebury credits during two winter terms. All first-year students must enroll in a winter term course on the Middlebury campus. This includes both September and February matriculates. The second credit may be earned by enrolling in a winter term course, a credit-bearing independent project, a credit-bearing internship, or by studying abroad and earning winter term equivalent credit. (A minimum of two and a maximum of four winter term courses will count toward the graduation requirement of 34 course credits.)
 
 _a. Independent Projects (0500 Work)_
 
