@@ -57,9 +57,9 @@ The students of Middlebury College believe that individual undergraduates must a
 
 **a**. Before enrolling in Middlebury College each student must agree to abide by and uphold this honor system. Additional commitments to the honor system should be part of orientation week activities.
 
-**b**. The judicial affairs officer shall prepare a statement for all incoming students describing the aims and operation of the academic honor system. The judicial affairs officer will be responsible for an orientation session during orientation week so that all new students fully understand the system.
+**b**. All incoming students will receive information describing the aims and operation of the academic honor system before classes start.
 
-**c**. The Academic Judicial Board will meet annually at the beginning of the fall term with deans from the Office of the Dean of the College, the Community Judicial Board, and the Judicial Appeals Board to review the honor system and to orient new members.
+**c**. The Judicial Board will meet annually at the beginning of the fall term to review the honor system and to orient new members.
 
 **Article II: Examination Procedure**
 
