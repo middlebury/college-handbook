@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/summer-study
 title: B.1.g. Summer Study
-date: 2021-05-01
+date: 07/17/2025
 ---
 **1\. General**
 
@@ -19,7 +19,7 @@ a. Unless an exception is granted by the Curriculum Committee, enrollment will n
 
 b. During the Summer Study period, faculty and students are involved in a maximum of one academic credit bearing course at a time (including Language Schools, Bread Loaf School of English, and other Middlebury programs).  Summer Study courses must meet for a minimum of four weeks and 32 hours of instruction during the available Summer Study period.
 
-c. A maximum of three Summer Study credits will count toward required credits for graduation. A maximum of four Winter Term and a maximum of three Summer Study credits may count toward the graduation requirement of 36 credits.
+c. A maximum of three Summer Study credits will count toward required credits for graduation. A maximum of four Winter Term and a maximum of three Summer Study credits may count toward the graduation requirement of 34 credits.
 
 d. Summer Study course registration: 
 
