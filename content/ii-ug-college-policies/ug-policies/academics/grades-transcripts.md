@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/grades-transcripts
 title: B.1.k. Grades and Transcripts
-date: 03/17/2025
+date: 07/17/2025
 ---
 #### **1\. Grading System**
 
@@ -103,21 +103,19 @@ Students wishing to protest a grade may do so by speaking first to the instructo
 
 #### **8\. College Honors** {#chonors}
 
-**a.** _**College Scholar:**_ semester grade point average of 3.60 or higher for students taking four or more full-credit courses, with no grade below B-.
+**a.** _**Dean's List:**_ students completing at least 4 graded credits with a semester grade point average in the top 15% of full-time student enrollment at Middlebury College each semester (not summer or schools abroad programs).
 
-**b.** _**Dean's List:**_ semester grade point average of 3.30 or higher for students taking four or more full-credit courses, with no grade below B-.
+**b.** _**Graduation honors**_ (on the basis of cumulative grades from the Middlebury undergraduate, summer, and schools abroad, all other approved programs abroad, and approved programs of domestic off-campus study), students receive the highest of these honors which they qualify for:
 
-**c.** _**Graduation honors**_ (on the basis of cumulative grades from the Middlebury undergraduate, summer, and overseas schools, all other approved programs abroad, and approved programs of domestic off-campus study):
+**i.** _Cum laude:_ students in the top 30% of the graduating class
 
-**i.** _Cum laude:_ graduation average of 3.40 or higher
+**ii.** _Magna cum laude:_ students in the top 15% of the graduating class
 
-**ii.** _Magna cum laude:_ graduation average of 3.60 or higher
-
-**iii.** _Summa cum laude:_ graduation average of 3.80 or higher
+**iii.** _Summa cum laude:_ students in the top 2% of the graduating class
 
 Standards for graduation honors are the same for all students eligible for a degree, regardless of the number of courses taken at Middlebury.
 
-Except for valedictory and salutatory honors, no class rank is computed for official College purposes. Transfer students are not eligible for valedictory or salutatory honors.
+No class rank is computed for any other official College purposes. All student GPAs are truncated to two decimal points for the determination of graduation honors. The minimum GPA for each graduation honor is determined by the Office of the Registrar following the criteria established above. Graduation honors are awarded using the minimum GPA values by honors category as calculated on March 1 of the calendar year of graduation.
 
 Students who have received official College discipline as a result of academic dishonesty are ineligible for graduation honors.
 
