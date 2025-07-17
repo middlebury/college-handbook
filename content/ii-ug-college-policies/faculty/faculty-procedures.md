@@ -183,11 +183,11 @@ iii. The faculty at any point in its proceedings may, by majority vote, declare 
 
 i. In faculty actions, decisions will be taken by a majority of those voting unless otherwise specified.
 
-ii. Voting at plenary sessions of the faculty may be by voice, by show of hands, or by written ballot. A written ballot may be used at the discretion of the moderator and will be used when requested by ten members.
+ii. Voting at plenary sessions of the faculty may be by voice, by show of hands, or by written or electronic ballot. An anonymous written or electronic ballot may be used at the discretion of the moderator and will be used when requested by ten members.
 
-iii. On matters affecting general educational policy, a vote of the faculty may require that balloting be conducted electronically through the Office of the Vice President for Academic Affairs and Dean of the Faculty.
+iii. On matters affecting general educational policy, a vote of the faculty may require that balloting be conducted electronically through the Office of the Vice President for Academic Affairs and Dean of the Faculty asynchronously outside of the plenary meeting.
 
-iv. Questions involving votes upon faculty members by name will be decided by written ballot.
+iv. Questions involving votes upon faculty members by name will be decided by anonymous written or electronic ballot.
 
 v. If the discussion of any motion extends beyond 4:30 p.m. at any given plenary session of the faculty, voting on that motion will be automatically suspended until the following session.
 
@@ -195,37 +195,29 @@ v. If the discussion of any motion extends beyond 4:30 p.m. at any given plenary
 
 i. The Faculty Council and the Educational Affairs Committee will report at each plenary session of the faculty. The Faculty Council’s report will include a summary of the discussion of small group meetings of the faculty held in the previous month.
 
-ii. The Strategy Committee will report at plenary sessions as appropriate, but at least twice each year.
+ii. The Strategy Committee, the Resources Committee, and the Committee on Diversity, Equity and Inclusion will report at plenary sessions as appropriate, but at least twice each year.
 
-iii. The Resources Committee will report at plenary sessions as appropriate, but at least twice each year.
-
-iv. All other committees will report, when appropriate, at least once a year.
+iii. All other committees and administrative units can report, when appropriate, by requesting that the moderator provide a spot on the agenda.
 
 **4\. Article IV Small Group Meetings of the Faculty**
 
 **a. Section 1 Time and Scheduling of Meetings**
 
-i. Small group meetings of the faculty will normally be scheduled in October, December, February, and April. The specific schedule for any given academic year will be determined by the Faculty Council, in consultation with the VPAA/DoF, in accordance with the following guidelines:
+i. Small group meetings of the faculty will normally be scheduled in October, January and March. The specific schedule for any given academic year will be determined by the Faculty Council, in consultation with the VPAA/DoF, in accordance with the following guidelines:
 
-The October, February, and April meetings will normally be held on the first Friday of the month. These meetings will normally be scheduled to begin at 3:00 p.m. The Faculty Council may choose to reschedule these meetings in order to avoid having them fall in the first week of classes in a term or on a Friday immediately before a vacation.
+The October, January and March meetings will normally be held on the first Friday of the month. These meetings will normally be scheduled to begin at 2:15 p.m. The Faculty Council may choose to reschedule these meetings in order to avoid having them fall in the first week of classes in a term or on a Friday immediately before a break.
 
-The December meetings will be held on the Monday following the end of fall semester classes. These meetings will normally be scheduled to begin at 3:00 p.m.
-
-ii. Special small group meetings of the faculty may be called at the request of the Faculty Council.
+ii. Special small group meetings of the faculty may be called at the request of the Faculty Council or any other committee sponsoring major policy proposals.
 
 **b. Section 2 Purpose of Small Group Meetings**
 
-The agenda for the small group meetings will be determined by the Faculty Council, the moderator, and the VPAA/DoF.
+The agenda for the small group meetings will be determined by the Faculty Council, the moderator, and the Dean of Faculty, in consultation with other committees who bring forward agenda items to discuss. Voting faculty members are expected to attend small group meetings; other members of the college community may be invited to attend and speak by Faculty Council or other sponsoring committees. These meetings are typically not open to students or the press, unless by invitation.
 
-Topics to be considered at small group meetings of the faculty may include, but are not limited to the following:
+Topics to be considered at small group meetings of the faculty may include, but are not limited to motions before the faculty, as introduced by committees or by individual members of the faculty, and matters under discussion within a committee in preparation for bringing a motion or preparing a report. 
 
-i. Motions before the faculty, as introduced by committees or by individual members of the faculty;
+Members of Faculty Council will normally moderate the small group discussions. Members of other committees or groups may assist in or lead discussions, as appropriate. The chair of Faculty Council will solicit reports from the moderators of the small groups and provide summaries of the small group discussions at the next regularly scheduled plenary session of the faculty and/or disseminate them electronically.
 
-ii. Matters under discussion within a committee in preparation for bringing a motion;
-
-iii. Members of Faculty Council will normally moderate the small group discussions. Members of other committees or groups may assist in or lead discussions, as appropriate. The chair of Faculty Council will solicit reports from the moderators of the small groups and provide summaries of the small group discussions at the next regularly scheduled plenary session of the faculty.
-
-iv. The purpose of the small group meetings is to allow for full and open discussion among all faculty members. Since votes will not be taken at small group meetings, they will not be governed by Handbook language pertaining to faculty voting procedures, or by Robert’s Rules of Order.
+The purpose of the small group meetings is to allow for full and open discussion among all faculty members. Since votes will not be taken at small group meetings, they will not be governed by Handbook language pertaining to faculty voting procedures, or by Robert’s Rules of Order.
 
 **5\. Article V Committees**
 
