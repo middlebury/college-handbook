@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/degree-requires
 title: B.1.c. Degree Requirements
-date: 2021-05-01
+date: 07/17/2025
 ---
 #### **1\. Degree Requirements**
 
