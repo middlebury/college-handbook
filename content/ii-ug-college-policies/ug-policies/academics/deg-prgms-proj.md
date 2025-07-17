@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/deg-prgms-proj
 title: B.1.e. Degree Programs & Projects
-date: 2021-05-01
+date: 07/17/2025
 ---
 #### **A. First-year Student Seminars and College Writing Courses** {#first}
 
@@ -108,7 +108,7 @@ Major/Advisor Declaration/Change Forms are available [online](https://www.middle
 
 **D. Change of Major**
 
-To change a major, students must petition and gain approval from the new department or program (or designee) to ensure that they can complete the major by the end of the eighth semester. Upon gaining approval of that plan, the student must submit a Change of Major Form to the Office of the Registrar, signed by the advisor and chair (or designee) of the proposed major department or program.
+To change a major, students must petition and gain approval from the new department or program (or designee) to ensure that they can complete the major by the end of the eighth semester. Upon gaining approval of that plan, the student must submit a Change of Major Form to the Office of the Registrar, signed by the advisor.
 
 **E. Joint Majors**
 
