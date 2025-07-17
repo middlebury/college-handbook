@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/course-reg-course-conduct
 title: B.1.f. Course Registration and Conduct of Courses
-date: 2021-05-01
+date: 07/17/2025
 ---
 #### **1\. Registration Procedure**
 
@@ -9,7 +9,7 @@ Students register for fall, winter, and spring courses using the online registra
 
 #### **2\. Course Load** {#course}
 
-A student's normal program consists of four credits in the fall and spring semesters and one course in the winter term. First-year students must be in residence for winter term and enrolled in an academic course.  Full-time students must take at least three credits per semester.
+A student's normal program consists of four credits in the fall and spring semesters and one course in the winter term. First-year students must be in residence for winter term and enrolled in an academic course.  Full-time students must take at least three credits per semester. It is expected that students will pursue a full course load each semester, leading to 36 credits; however, the minimum graduation requirement of 34 credits allows for flexibility in a semester where the student, their Dean, and their advisor believe that 3 or 3.5 credits is more appropriate.
 
 Sophomores and juniors may register for a fifth credit during the fall or spring semester only with specific approval of their advisors and their Class Dean during the add period using the online CARE form. Normally, this permission is granted to students who have maintained an average of B or better in the two preceding semesters. Seniors may register for five  credits during the add period without their dean's or advisor's approval. First-year students may not register for a fifth course. The comprehensive fee remains unchanged for a three-, four-, and five- credit program. Students may not take more than five credits per semester.
 
