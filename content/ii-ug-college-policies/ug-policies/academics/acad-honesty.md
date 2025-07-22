@@ -65,15 +65,15 @@ The students of Middlebury College believe that individual undergraduates must a
 
 **a.** Only authorized materials may be used during an examination.
 
-**b.** No proctors will be present during examinations, unless specific authorization has been given by the dean of the College.
+**b.** No proctors will be present during examinations, unless specific authorization has been given by the Dean of the Faculty.
 
-**c.** The dean of the College may grant an instructor permission to proctor an examination in his or her course when the instructor has communicated to the dean of the College that she or he has a concern that students will cheat in examinations in the course. Authorization will apply to the remainder of the semester.
+**c.** The Dean of the Faculty may grant an instructor permission to proctor an examination when the instructor has communicated to the Dean of the Faculty that she or he has a concern that students will cheat in examinations in the course. Authorization will apply to the remainder of the semester.
 
-i) Communication of concern may take the form of an e-mail to the dean of the College.
+i) Communication of concern may take the form of an e-mail to the Dean of the Faculty.
 
-ii) Instructors who have concerns about cheating and wish to proctor must make a formal announcement to the class both in class and in e-mail form at least 24 hours prior to the examination. The dean of the College must be copied on the announcement e-mail.
+ii) Instructors who have concerns about cheating and wish to proctor must make a formal announcement to the class at least 24 hours prior to the examination. 
 
-iii) Students may register complaints or concerns about the method of proctoring with the dean of the College.
+iii) Students may register complaints or concerns about the method of proctoring with the Dean of the Faculty.
 
 **d.** When an instructor's presence in the exam is required because of the nature of the exam (e.g., slides), the instructor should receive permission from the dean of the College and notify the class in advance.
 
