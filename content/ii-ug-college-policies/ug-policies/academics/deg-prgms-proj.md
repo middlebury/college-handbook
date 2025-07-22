@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/deg-prgms-proj
 title: B.1.e. Degree Programs & Projects
-date: 07/17/2025
+date: 07/22/2025
 ---
 #### **A. First-year Student Seminars and College Writing Courses** {#first}
 
@@ -77,8 +77,6 @@ plus one Comparative (**CMP**) course, focused on the process of comparison betw
 
 A single course may be listed as fulfilling one of the regional categories (SOA, NOA, MDE, SAF, EUR, AMR; as recommended by the course instructor and determined by the Curriculum Committee).  Courses that satisfy CMP may also carry one of the regional area designations, however a student may not count one of these courses toward both the CMP and regional requirements. A student may count the same course toward both an academic category requirement, and one of the cultures and civilizations requirements. Courses that count toward the major and the minor, winter term courses, summer study courses, and first-year student seminars may be used to satisfy the cultures and civilizations requirement.
 
-College Board Advanced Placement credits may not be used to satisfy distribution or cultures and civilizations requirements.
-
 #### **C. Major Programs of Study** {#major}
 
 Students choose one of the following programs of study:
@@ -96,7 +94,7 @@ Students choose one of the following programs of study:
 
 A major requires a minimum of 10 fall and spring semester credits. Students may take no more than 16 fall and spring semester credits and, in addition, no more than two winter term and summer study courses, combined, in a major department or program (one of which may be senior work).
 
-All students must officially declare a major by the end of the third semester. Any student who wishes to complete a second major must officially declare by the end of the fourth semester of study. After the fourth semester, students wishing to add a second major, or change majors, must petition and gain approval from the new department or program to ensure that the student can complete the major by the end of the eighth semester.
+All students should officially declare a major by the end of the third semester and must declare a major no later than the end of the fourth semester. Any student who wishes to complete a second major must officially declare by the end of the fourth semester of study. After the fourth semester, students wishing to add a second major, or change majors, must petition and gain approval from the new department or program to ensure that the student can complete the major by the end of the eighth semester.
 
 Some highly structured programs, particularly those involving study in the foreign languages or the natural sciences, are facilitated by a declaration of major by the end of the second semester.
 
@@ -104,7 +102,7 @@ A department may define standards for the admission of students to its major pro
 
 In addition to specific courses required for a major, cognate courses may be recommended to further the student's particular academic interests or intentions. Departments offer different opportunities for senior work, adjusted both to the nature of the field and to students' needs. Students should consult the descriptions of senior work under each department or program for details on the available senior work offerings.
 
-Major/Advisor Declaration/Change Forms are available [online](https://www.middlebury.edu/office/registrar/forms). The declaration Form must be signed by the chair of the major department or program (or designee).
+Major/Advisor Declaration/Change Forms are available [online](https://www.middlebury.edu/office/registrar/forms).
 
 **D. Change of Major**
 
