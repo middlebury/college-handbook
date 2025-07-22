@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/acad-honesty
 title: B.1.a. Academic Honesty, the Honor Code, and Related Disciplinary Policies
-date: 07/17/2025
+date: 07/22/2025
 ---
 **A. Introduction**
 
