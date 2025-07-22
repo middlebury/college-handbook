@@ -75,7 +75,7 @@ ii) Instructors who have concerns about cheating and wish to proctor must make 
 
 iii) Students may register complaints or concerns about the method of proctoring with the Dean of the Faculty.
 
-**d.** When an instructor's presence in the exam is required because of the nature of the exam (e.g., slides), the instructor should receive permission from the dean of the College and notify the class in advance.
+**d.** When an instructor's presence in the exam is required because of the nature of the exam (e.g., slides), the instructor should receive permission from the Dean of the Faculty and notify the class in advance.
 
 **e.** The instructor will remain in the examination room for no more than 15 minutes after the start of an examination. He or she may return during the examination to check on any further problems that students may have with examination questions or general procedure, only if he or she announces his or her intention to do so at the beginning of the examination. Instructors will remain in the general area for questions for the duration of the examination period.
 
@@ -83,21 +83,21 @@ iii) Students may register complaints or concerns about the method of proctorin
 
 **Article III: Violations of the Honor Code, Procedures, and Disciplinary Actions**
 
-**a.** Any member of the College community (student, faculty, or administrator) who is aware of a case of academic dishonesty is morally obligated to report it to the professor or the judicial affairs officer.
+**a.** Any member of the College community (student, faculty, or administrator) who is aware of a case of academic dishonesty is morally obligated to report it to the professor or the Dean of Students.
 
-**b.** Those who cheat are morally obliged to report their own offense to the professor or the judicial affairs officer.
+**b.** Those who cheat are morally obliged to report their own offense to the professor or the Dean of Students.
 
 **c.** Alleged violations will be handled according to the academic disciplinary policies of the current Middlebury College Handbook.
 
-**d.** For cases that are heard by the Academic Judicial Board, if seven members of the Board are present, six votes are needed for a decision of guilt. If six members are present, five votes are needed.
+**d.** For cases that are heard by the Judicial Board, if seven members of the Board are present, six votes are needed for a decision of guilt. If six members are present, five votes are needed.
 
-**e.** Any infraction of the honor system is normally punishable by suspension from the College. However, the penalty may be modified when, in the opinion of the Academic Judicial Board, conclusive reasons warrant such action.
+**e.** Any infraction of the honor system is punishable by an academic penalty and a sanction ranging from a reprimand to expulsion from the College.
 
 **f.** Should the accused be found not guilty, all records of the proceeding will be destroyed.
 
 **g.** Right of Appeal: A student found guilty of an offense will have the right of appeal to the Judicial Appeals Board in all cases.
 
-**h.** All deliberations of the Academic Judicial Board concerning violations of the honor system will be conducted in confidence.
+**h.** All deliberations of the Judicial Board concerning violations of the honor system will be conducted in confidence.
 
 **Article IV: Amendment Procedures and Review Committee**
 
