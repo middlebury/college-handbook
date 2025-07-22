@@ -1,49 +1,47 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/acad-honesty
-date: 2021-05-01
 title: B.1.a. Academic Honesty, the Honor Code, and Related Disciplinary Policies
+date: 07/22/2025
 ---
-_Last updated August 22, 2017_
-
 **A. Introduction**
 
 As an academic community devoted to the life of the mind, Middlebury requires of every student complete intellectual honesty in the preparation and submission of all academic work.
 
 **B. Academic Honesty**
 
-**_1\. Definitions of Prohibited Acts_**
+_**1\. Definitions of Prohibited Acts**_
 
 Any student action that does not reflect complete intellectual honesty in the preparation and submission of all academic work is prohibited.  Although the definitions below are provided to offer clarity, they are not intended to be exhaustive. Faculty members may define additional actions as Academic Honesty violations for their particular departments and courses as appropriate.
 
-**a. Plagiarism**
-Plagiarism is intentionally or unintentionally representing the ideas, research, language, creations, or inventions of another person as one's own. In written work and oral and artistic presentations, even a single sentence or key phrase, idea, image, or sound taken from the work of another without specific citation of the source and quotations around verbatim language constitutes plagiarism. It makes no difference whether the source is a student, a professional, or a source with no clear designated author.
+**a. Plagiarism**  
+Plagiarism is intentionally or unintentionally representing as one’s own any ideas, research, language, creations, or inventions from another source. In written work and oral and artistic presentations, even a single sentence or key phrase, idea, image, or sound taken from another source without specific citation of the source and quotations around verbatim language constitutes plagiarism. It makes no difference whether the source is a student, a professional, artificial intelligence, or a source with no clear designated author.
 
-Although it does not involve reproducing language verbatim, paraphrasing is the close restatement of another's idea using approximately the language and/or structure of the original. Paraphrasing without acknowledgment of authorship is also plagiarism and is as serious a violation as an unacknowledged quotation.
+Although it does not involve reproducing language verbatim, paraphrasing is the close restatement of another's idea using approximately the language and/or structure of the original. Paraphrasing without acknowledgment of authorship, whether the source is human or computer-generated, is also plagiarism and is as serious a violation as an unacknowledged quotation.
 
 **b. Cheating**  
 Cheating is defined as giving, receiving, or attempting to give or receive any aid unauthorized by the instructor for any assigned work. On assignments other than exams, academic assistance from the staff of the Center for Teaching, Learning and Research (CTLR) and from Middlebury’s professional librarians is considered authorized aid unless an assignment or course clearly indicates otherwise.
 
 **c. Duplicate Use of Work**  
-Any work submitted to meet the requirements of a particular course is expected to be original work completed for that course. Students who wish to incorporate any portion of their own previously developed work into a new assignment must consult with the involved faculty members to establish appropriate expectations and parameters. The same work, or substantially similar work, may not be used to meet the requirements of two different courses.
+Any work submitted to meet the requirements of a particular course is expected to be original work completed for that course. Students who wish to incorporate any portion of their own previously developed work into a new assignment must consult with the involved faculty members to establish appropriate expectations and parameters. The same work, or substantially similar work, may not be used to meet the requirements of two different courses. Students repeating part or all of any course may only submit previously developed work in that course with prior approval from the faculty member of the course in which they are currently enrolled.
 
 **d. Falsifying Data**  
 The collection and analysis of data are fundamental aspects of many types of research. It is the researcher’s responsibility to ensure that data are recorded and documented accurately. Fabrication, misrepresentation or falsification of data, and practices that significantly deviate from those that are commonly accepted in the academic community, are prohibited.  “Data” includes but is not limited to laboratory research, human subjects research, and fieldwork.
 
-**_2\. Student Responsibilities_**
+_**2\. Student Responsibilities**_
 
 **Expectations**: All assignments should be the work of the individual student, unless otherwise directed by the instructor. Students are responsible for ensuring that their work does not involve plagiarism, cheating, or duplication of their own previous work. Students with questions relating to correct citation of sources, proper recognition of collaborative work on assignments, paraphrasing, authorized aid, utilization of their own prior work, or any other aspect of an academic assignment should consult with the professor for whom they are preparing work. Ignorance of the nature of plagiarism or of Middlebury’s policies may not be offered as a mitigating circumstance.
 
 **Honor Code Pledge**: The Honor Code pledge reads as follows: "I have neither given nor received unauthorized aid on this assignment." It is the responsibility of the student to write out in full, adhere to, and sign the Honor Code pledge on all examinations, research papers, and laboratory reports. Faculty members reserve the right to require the signed Honor Code pledge on other kinds of academic work.
 
-**Community Accountability**: Academic integrity is the foundation of a healthy intellectual community. One individual’s intellectual dishonesty erodes that foundation and negatively affects all community members. Therefore, in addition to adhering to the Academic Honesty Policy themselves, the student-written Constitution of the Undergraduate Honor Code states that “Any member of the College community (student, faculty, or administrator) who is aware of a case of academic dishonesty is morally obligated to report it to the professor or the judicial affairs officer.”
+**Community Accountability**: Academic integrity is the foundation of a healthy intellectual community. One individual’s intellectual dishonesty erodes that foundation and negatively affects all community members. Therefore, in addition to adhering to the Academic Honesty Policy themselves, the student-written Constitution of the Undergraduate Honor Code states that “Any member of the College community (student, faculty, or administrator) who is aware of a case of academic dishonesty is morally obligated to report it to the professor or the Dean of Students.
 
-**_3\. Faculty Responsibilities_**
+_**3\. Faculty Responsibilities**_
 
 **Expectations**: At the beginning of each term, professors s are strongly encouraged to discuss and include on their syllabus their expectations of academic honesty as they relate to the course and to Middlebury’s policies They are also encouraged to orient students to issues of academic integrity, source attribution, and authorized resources that may be particular to their academic field and to the assignments of the class. In the absence of specific verbal or written instruction from a faculty member, the language of this Academic Honesty Policy applies.
 
 **Honor Code Pledge**: Faculty reserve the right to require the signed Honor Code pledge before grading any assigned academic work.
 
-**Community Accountability**: Middlebury faculty members who suspect a student of violating Middlebury’s Academic Honesty Policy are expected to contact a judicial affairs officer to discuss their concerns.
+**Community Accountability**: Middlebury faculty members who suspect a student of violating Middlebury’s Academic Honesty Policy are expected to contact the Dean of Students to discuss their concerns.
 
 #### **C. Undergraduate Honor System** {#ughonor}
 
@@ -59,25 +57,25 @@ The students of Middlebury College believe that individual undergraduates must a
 
 **a**. Before enrolling in Middlebury College each student must agree to abide by and uphold this honor system. Additional commitments to the honor system should be part of orientation week activities.
 
-**b**. The judicial affairs officer shall prepare a statement for all incoming students describing the aims and operation of the academic honor system. The judicial affairs officer will be responsible for an orientation session during orientation week so that all new students fully understand the system.
+**b**. All incoming students will receive information describing the aims and operation of the academic honor system before classes start.
 
-**c**. The Academic Judicial Board will meet annually at the beginning of the fall term with deans from the Office of the Dean of the College, the Community Judicial Board, and the Judicial Appeals Board to review the honor system and to orient new members.
+**c**. The Judicial Board will meet annually at the beginning of the fall term to review the honor system and to orient new members.
 
 **Article II: Examination Procedure**
 
 **a.** Only authorized materials may be used during an examination.
 
-**b.** No proctors will be present during examinations, unless specific authorization has been given by the dean of the College.
+**b.** No proctors will be present during examinations, unless specific authorization has been given by the Dean of the Faculty.
 
-**c.** The dean of the College may grant an instructor permission to proctor an examination in his or her course when the instructor has communicated to the dean of the College that she or he has a concern that students will cheat in examinations in the course. Authorization will apply to the remainder of the semester.
+**c.** The Dean of the Faculty may grant an instructor permission to proctor an examination when the instructor has communicated to the Dean of the Faculty that she or he has a concern that students will cheat in examinations in the course. Authorization will apply to the remainder of the semester.
 
-i) Communication of concern may take the form of an e-mail to the dean of the College.
+i) Communication of concern may take the form of an e-mail to the Dean of the Faculty.
 
-ii) Instructors who have concerns about cheating and wish to proctor must make a formal announcement to the class both in class and in e-mail form at least 24 hours prior to the examination. The dean of the College must be copied on the announcement e-mail.
+ii) Instructors who have concerns about cheating and wish to proctor must make a formal announcement to the class at least 24 hours prior to the examination. 
 
-iii) Students may register complaints or concerns about the method of proctoring with the dean of the College.
+iii) Students may register complaints or concerns about the method of proctoring with the Dean of the Faculty.
 
-**d.** When an instructor's presence in the exam is required because of the nature of the exam (e.g., slides), the instructor should receive permission from the dean of the College and notify the class in advance.
+**d.** When an instructor's presence in the exam is required because of the nature of the exam (e.g., slides), the instructor should receive permission from the Dean of the Faculty and notify the class in advance.
 
 **e.** The instructor will remain in the examination room for no more than 15 minutes after the start of an examination. He or she may return during the examination to check on any further problems that students may have with examination questions or general procedure, only if he or she announces his or her intention to do so at the beginning of the examination. Instructors will remain in the general area for questions for the duration of the examination period.
 
@@ -85,24 +83,24 @@ iii) Students may register complaints or concerns about the method of proctorin
 
 **Article III: Violations of the Honor Code, Procedures, and Disciplinary Actions**
 
-**a.** Any member of the College community (student, faculty, or administrator) who is aware of a case of academic dishonesty is morally obligated to report it to the professor or the judicial affairs officer.
+**a.** Any member of the College community (student, faculty, or administrator) who is aware of a case of academic dishonesty is morally obligated to report it to the professor or the Dean of Students.
 
-**b.** Those who cheat are morally obliged to report their own offense to the professor or the judicial affairs officer.
+**b.** Those who cheat are morally obliged to report their own offense to the professor or the Dean of Students.
 
 **c.** Alleged violations will be handled according to the academic disciplinary policies of the current Middlebury College Handbook.
 
-**d.** For cases that are heard by the Academic Judicial Board, if seven members of the Board are present, six votes are needed for a decision of guilt. If six members are present, five votes are needed.
+**d.** For cases that are heard by the Judicial Board, if seven members of the Board are present, six votes are needed for a decision of guilt. If six members are present, five votes are needed.
 
-**e.** Any infraction of the honor system is normally punishable by suspension from the College. However, the penalty may be modified when, in the opinion of the Academic Judicial Board, conclusive reasons warrant such action.
+**e.** Any infraction of the honor system is punishable by an academic penalty and a sanction ranging from a reprimand to expulsion from the College.
 
 **f.** Should the accused be found not guilty, all records of the proceeding will be destroyed.
 
 **g.** Right of Appeal: A student found guilty of an offense will have the right of appeal to the Judicial Appeals Board in all cases.
 
-**h.** All deliberations of the Academic Judicial Board concerning violations of the honor system will be conducted in confidence.
+**h.** All deliberations of the Judicial Board concerning violations of the honor system will be conducted in confidence.
 
 **Article IV: Amendment Procedures and Review Committee**
 
 **a.** This constitution (Undergraduate Honor System: Preamble and Articles I-IV) may be amended by a referendum in which two-thirds of all students who are currently registered for classes vote, and in which two-thirds of those voting support the change, subject to ratification by the faculty. Community Council, the faculty, or the Honor Code Review Committee can suggest changes to other aspects of the judicial system by making recommendations. Those recommendations would eventually need to be ratified by the Community Council, which forwards them to Faculty Council for review, and then to the faculty for final approval.
 
-**b**. At least every fourth year, a committee consisting of two faculty members, two students (one of whom will be the current co-chair of the Academic Judicial Board), and a dean from the Office of the Dean of the College shall examine the honor system and its operation and make any appropriate recommendations for revision to the faculty and the Community Council. Faculty members will be selected by the Faculty Council, the second student member by the Student Government Association, and the dean from the Office of the Dean of the College.
+**b**. At least every fourth year, a committee consisting of two faculty members, two students (one of whom will be the current co-chair of the Judicial Board), and the Dean of Students shall examine the honor system and its operation and make any appropriate recommendations for revision to the faculty and the Community Council. Faculty members will be selected by the Faculty Council, and the second student member by the Student Government Association.
