@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/faculty-procedures
-title: C.1. Faculty Rules and Proceduress
-date: 07/17/2025
+title: C.1. Faculty Rules and Procedures
+date: 07/30/2025
 ---
 **1\. Article I Membership**
 
