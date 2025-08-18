@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/health-safety/tam-policy
 title: C.2. Threat Assessment and Response Policy
-date: 11/14/2024
+date: 08/18/2025
 ---
 *   [**Introduction**](#i-introduction--purpose)
 *   [**Threat Assessment Team**](#ii-threat-assessment-team)
