@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/appropriate-use/library-resources
-date: 2021-05-01
 title: D.3. Library
+date: 2021-05-01
 ---
 **Overview**
 
@@ -19,4 +19,4 @@ As members of the scholarly community using our common resources, all library us
 
 Library use is a privilege extended to those who recognize that the collections are resources to be shared with current and future users and who observe the regulations and procedures established to make materials accessible to all.
 
-Abuse of library materials may result in the revocation of library borrowing privileges and could result in referral for College judicial procedure. The Library is committed to maintaining collections, which exist as a common resource to be shared, preserved and respected in a manner guaranteeing protection for future users. The ethical use of library materials involves acceptance of this principle and appropriate conduct regarding library collections.
+Abuse of library materials may result in the revocation of library borrowing privileges and could result in referral for College judicial procedure. The Library is committed to maintaining collections, which exist as a common resource to be shared, preserved and respected in a manner guaranteeing protection for future users. The ethical use of library materials involves acceptance of this principle and appropriate conduct regarding library collections...
