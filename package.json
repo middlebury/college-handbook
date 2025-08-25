@@ -40,5 +40,8 @@
   },
   "overrides": {
     "graphql": "^16.7.1"
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1"
   }
 }
