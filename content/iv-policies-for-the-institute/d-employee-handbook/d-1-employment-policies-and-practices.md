@@ -1,7 +1,7 @@
 ---
 slug: /pages/iv-policies-for-the-institute/d-employee-handbook/d-1-employment-policies-and-practices
 title: D.1. Employment Policies and Practices
-date: 2021-05-01
+date: 08/26/2025
 ---
 **D.1.a. Introduction**
 
@@ -256,13 +256,17 @@ If a situation, at the discretion of the Institute, warrants progressive discipl
 
 Employees are encouraged to apply for promotions to positions for which they are qualified. Promotions and transfer decisions are based on the hiring supervisor’s and/or his/her supervisor’s judgment of ability, qualifications, and potential for the position. Some promotions or transfers may be offered without open recruitment.
 
-**D.1.gg. Employment: Internal Career Opportunities**
+**D.1.gg. Reorganization**
+
+Managers considering reorganization of their units should consult with Human Resources. They will be expected to complete a specific process as outlined in the Reorganization and Severance Policy, in partnership with Human Resources.  
+
+**D.1.hh. Employment: Internal Career Opportunities**
 
 All vacant positions are posted on the Institute web site for a minimum of 5 business days and internal candidates have an opportunity to apply unless in a special circumstance a waiver of posting is granted by the president of the College.
 
 Normally, an employee must have been in her/his current position for a minimum of 3 months before being eligible to apply for positions in other departments. If an employee is selected to interview for a position, and is a final candidate, the employee should inform her/his current supervisor of her/his interest in the new position. If an employee is offered and accepts a position external to her/his current department, coordination between both departments, facilitated by Human Resources, may be required to ensure that the timing of such a transfer does not result in a hardship to the Institute. Normally, the transferring employee will assume her/his new duties two weeks after being selected for the new position.
 
-**D.1.hh. Voluntary Termination of Employment/Resignation**
+**D.1.ii. Voluntary Termination of Employment/Resignation**
 
 Resignation is defined as employment termination initiated by an employee who chooses to leave the Institute. An employee who is considering leaving the Institute for any reason is encouraged to discuss her/his situation with her/his immediate supervisor before making a final decision.
 
@@ -274,15 +278,15 @@ CTO time may not be taken in lieu of working the last two weeks of employment. T
 
 All Institute-owned property (vehicles, keys, identification cards, parking permit, credit cards, laptop computers, uniforms, etc.) must be returned immediately upon termination of employment in order to receive final payments.
 
-**D.1.ii. Institute Re-employment**
+**D.1.jj. Institute Re-employment**
 
 Consideration for re-employment is based on qualifications and demonstrated ability, as well as prior job performance and fitness for Institute employment. An employee who was terminated by the Institute in a manner such that the employee left not in good standing may not be re-employed.
 
-**D.1.jj. Emeritus Status**
+**D.1.kk. Emeritus Status**
 
 Emeritus status may be granted to retiring staff as a special recognition for exemplary work performance and outstanding, loyal, and dedicated service to the Institute. To be eligible for consideration for Emeritus status, an employee must be in retirement status from the Institute, have at least ten years of service in a full-time regular position, be nominated by the senior administrator of her/his department, and have the approval of the VPAA.
 
-**D.1.kk. Retirement**
+**D.1.ll. Retirement**
 
 There is no mandatory retirement age for Institute employees; they may continue working without regard to age, subject to provisions concerning at-will and other termination of employment. Continuing employees nearing age 65 should contact Human Resources regarding Medicare coverage and certain decisions that must be made about health insurance coverage at age 65.
 
@@ -292,12 +296,10 @@ Retirement plan participants should initiate procedures for receipt of retiremen
 
 Although the Institute has no retirement age, work restrictions may be imposed under TIAA-CREF. Employees should refer to the TIAA-CREF summary plan description for details.
 
-**D.1.ll. Reductions in Force**
+**D.1.mm. Reductions in Force**
 
 Under some circumstances, the Institute may restructure or reduce its workforce. If so, the Institute will make a reasonable effort to inform affected employees in advance. Employees to be laid off will be told the expected duration of the layoff if known. In determining which employees will be laid off, the Institute will identify the positions to be reduced and in selecting for retention among staff members performing in the same position to be reduced, will consider its operating requirements and other factors, including employees’ skills, productivity, ability, past performance, and, where other factors are equal in its judgment, their length of service.
 
-Managers considering reorganization of their units should consult with Human Resources. They will be expected to complete a specific process as outlined in the Reorganization and Severance Policy, in partnership with Human Resources.  
-
-**D.1.mm. Exit Interview**
+**D.1.nn. Exit Interview**
 
 Employees ending employment at the Institute, whether voluntarily or involuntarily are strongly encouraged to meet with Human Resources staff for an exit interview. This interview will normally occur on or before the employee’s final workday. During the interview, the Manager of Human Resources or designee may ask for information about working conditions and the employee’s relationship with her/his supervisor and fellow staff members and will discuss employment benefits conversion. The employee also will have the opportunity to suggest ways to improve Institute operations. It is the employee’s responsibility to return all Institute property (vehicles, keys, identification cards, parking permit, credit cards, laptop computers, uniforms, etc.) by her/his final day of employment.
