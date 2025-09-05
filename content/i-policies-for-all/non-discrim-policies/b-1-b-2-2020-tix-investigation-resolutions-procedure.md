@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/non-discrim-policies/b-1-b-2-2020-tix-investigation-resolutions-procedure
 title: B.1.b (1). TIX Investigation & Resolutions Procedure
-date: 05/09/2025
+date: 09/05/2025
 ---
 I. What This Procedure Covers  
 II. Reporting Title IX Sexual Harassment  
@@ -76,7 +76,7 @@ The report should include relevant details about the incident of which they are 
 
 **A. Who Are Confidential Resources?**
 
-Confidential Resources include medical and support staff of the Center for Health and Wellness (including SANE nurses), Chaplains within the Scott Center, Middlebury Safe and Confidential Advocates (“MiddSafe”), and staff within Counseling Services who are required by law to maintain confidentiality.
+Confidential Resources include medical and support staff of the Center for Health and Wellness (including SANE nurses), Chaplains within the Scott Center, and staff within Counseling Services who are required by law to maintain confidentiality.
 
 Middlebury encourages individuals to use confidential services.  Individuals who seek those services should understand that confidentiality is not absolute and that those resources may have ethical or legal obligations to report certain information to others.  As one example, Confidential Resources are typically obligated under state law to report instances of child abuse, or to make limited disclosures as necessary to address an imminent risk of physical harm to the reporting Party or another person. Exceptions to confidentiality are governed by the law of the state in which the Confidential Resource is located.
 
