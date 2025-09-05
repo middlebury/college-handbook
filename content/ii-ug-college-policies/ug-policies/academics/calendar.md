@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/calendar
 title: B.1.b. Calendar
-date: 2021-05-01
+date: 09/05/2025
 ---
 #### **The Academic Year**
 
@@ -21,7 +21,7 @@ The Middlebury College calendar is determined according to the following guideli
 
 #### **b. Winter Term**
 
-Winter term begins between January 3 and 6, depending upon when New Year's Day falls.  Winter term will consist of 20 days of instruction.  The break between winter and spring terms will normally be a minimum of 11 days and a maximum of 16 days, but when this schedule necessitates beginning spring term classes in midweek the break may be reduced to 9 days.
+Winter term begins between January 3 and 6, depending upon when New Year's Day falls.  Winter term will consist of 19 days of instruction.  The break between winter and spring terms will normally be a minimum of 11 days and a maximum of 16 days, but when this schedule necessitates beginning spring term classes in midweek the break may be reduced to 9 days.
 
 #### **c. Spring Semester**
 
