@@ -28,7 +28,7 @@ For the purposes of this policy, the term “hazing” means; any intentional, k
 *   any activity that is intended to have the effect of, or should reasonably be expected to have the effect of, humiliating, intimidating or demeaning the student
 *   planning, soliciting, directing, aiding, or otherwise participating actively or passively in the above acts.
 
-Middlebury prohibits hazing as defined by the SCHA, through this Policy.
+Middlebury prohibits hazing as defined by the [Stop Campus Hazing Act (SCHA)](https://www.congress.gov/bill/118th-congress/house-bill/5646) through this Policy.
 
 Middlebury also prohibits hazing as defined by applicable Vermont hazing statutes, which definition is stated in the Vermont Hazing Statutes section of this Policy, below, as well as applicable California statutes.
 
