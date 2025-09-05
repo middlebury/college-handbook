@@ -1,17 +1,17 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/course-reg-course-conduct
 title: B.1.f. Course Registration and Conduct of Courses
-date: 2021-05-01
+date: 09/05/2025
 ---
 #### **1\. Registration Procedure**
 
-Students register for fall, winter, and spring courses using the online registration system. Registration information is communicated to students, by e-mail, prior to the registration period, which consists of an advising period and a real-time registration round. Registration for half-credit courses running for the second half of the fall or spring semester will be available as announced by the Office of the Registrar.
+Students register for fall, winter, and spring courses using the online registration system. Registration information is communicated to students, by e-mail, prior to the registration period, which consists of an advising period and a real-time or batch registration round. Registration for half-credit courses running for the second half of the fall or spring semester will be available as announced by the Office of the Registrar.
 
 #### **2\. Course Load** {#course}
 
-A student's normal program consists of four credits in the fall and spring semesters and one course in the winter term. First-year students must be in residence for winter term and enrolled in an academic course.  Full-time students must take at least three credits per semester.
+A student's normal program consists of four credits in the fall and spring semesters and one course in the winter term. First-year students must be in residence for winter term and enrolled in an academic course.  Full-time students must take at least three credits per semester. It is expected that students will pursue a full course load each semester, leading to 36 credits; however, the minimum graduation requirement of 34 credits allows for flexibility in a semester where the student, their Dean, and their advisor believe that 3 or 3.5 credits is more appropriate.
 
-Sophomores and juniors may register for a fifth credit during the fall or spring semester only with specific approval of their advisors and their Class Dean during the add period using the online CARE form. Normally, this permission is granted to students who have maintained an average of B or better in the two preceding semesters. Seniors may register for five  credits during the add period without their dean's or advisor's approval. First-year students may not register for a fifth course. The comprehensive fee remains unchanged for a three-, four-, and five- credit program. Students may not take more than five credits per semester.
+Sophomores and juniors may register for a fifth credit during the fall or spring semester only with specific approval of their advisors and their Class Dean during the add period using the online CARE form. Normally, this permission is granted to students who have maintained an average of B or better in the two preceding semesters. Seniors may register for five credits during the add period without their dean's or advisor's approval. First-year students may not register for five or more credits. The comprehensive fee remains unchanged for a program of three to five credits. Students may not take more than five credits per semester.
 
 All entering first-year students register for a first-year seminar in their first semester at Middlebury. Students are encouraged to explore a range of subjects and select the remainder of their first-semester program in consultation with their advisors. In their first semester students may not take two courses in the same subject, may not register for more than one first-year seminar, may not receive college-writing (CW) credit for a CW course taken concurrently with the first-year seminar, and may register for only one beginning language in the fall term. In their second semester, first-year students may register for two courses in one subject with their advisor's approval.
 
@@ -21,7 +21,7 @@ Under certain exceptional circumstances, students may be permitted to carry fewe
 
 Students may opt to take a course on a Credit/No Credit basis under the following conditions:
 
-a. Students may count toward graduation no more than a total of five courses with non-standard grading.  The category of “non-standard grading” includes courses elected under the Pass/D/Fail option (before Fall 2022); courses elected under the Credit/No Credit option (Fall 2022 or later); AP, IB, A-Level, and other pre-college testing credits;; and credit-bearing internships.  Of these five credits, only _two_ may be taken under the former Pass/D/Fail option (before Fall 2022) or Credit/No Credit (Fall 2022 or later) option. Specific guidelines concerning non-standard grading can be found in the College Handbook under [Degree Requirements](https://www.middlebury.edu/about/college-handbook-2017-revision/II.-policies-for-the-undergraduate-college/policies-for-undergrads/academic-policies/degree-requirements).
+a. Students may count toward graduation no more than a total of five courses with non-standard grading.  The category of “non-standard grading” includes courses elected under the Pass/D/Fail option (before Fall 2022); courses elected under the Credit/No Credit option (Fall 2022 or later); and credit-bearing internships.  Of these five credits, only _two_ may be taken under the former Pass/D/Fail option (before Fall 2022) or Credit/No Credit (Fall 2022 or later) option. Specific guidelines concerning non-standard grading can be found in the College Handbook under [Degree Requirements](https://www.middlebury.edu/about/college-handbook-2017-revision/II.-policies-for-the-undergraduate-college/policies-for-undergrads/academic-policies/degree-requirements).
 
 b. Students may invoke the CR/NCR option for a single course when they are enrolled in courses totaling at least four credits in that semester.
 
@@ -31,11 +31,13 @@ d. Courses taken under the Credit/No Credit option may not be used to satisfy ma
 
 e. Students may elect the Credit/No Credit option for a course in which they are already registered during the first eight weeks of the classes.  The deadline for changing a course from Credit/No Credit to standard grading or vice versa is the drop deadline (i.e., the end of the  eighth week of  classes).
 
-f. Winter Term: Students may not elect the Credit/No Credit option for winter term courses that are otherwise offered with standard grading.  Occasionally the Curriculum Committee gives an instructor permission to offer an entire course as pass/fail or honors/pass/fail; if a student takes one of these courses, it will not count as one of the permitted two Pass/D/Fail or Credit/No Credit courses.
+f. Winter Term: Students may not elect the Credit/No Credit option for winter term courses that are otherwise offered with standard grading.  Occasionally the Curriculum Committee gives an instructor permission to offer an entire course as pass/fail or honors/pass/fail; if a student takes one of these courses, it will not count as one of the permitted two Credit/No Credit courses.
 
-g. Middlebury Institute of International Studies at Monterey (MIIS) and Study Abroad: Students may not elect the Credit/No Credit option for courses taken abroad or at MIIS. However, courses taken at MIIS or within an approved study away program in the fall, winter, or spring semester that are offered in their entirety as pass/fail—including study abroad internships—will not count as one of the Credit/No Credit courses, but will count toward the total of five courses with non-standard grading a student may count toward graduation.
+g. Middlebury Institute of International Studies at Monterey (MIIS): Students enrolled in a Study Away at Monterey program may not elect the Credit/No Credit option for courses taken at MIIS. MIIS courses that are offered in their entirety as pass/fail in the fall, winter, or spring semesterwill not count as one of the two Credit/No Credit courses students are permitted to take, but will count toward the total of five courses with non-standard grading a student may count toward graduation.
 
-h. CR and NCR grades will not be calculated in the student’s GPA.  A minimum grade of C- is required for CR.  NCR will be recorded for grades of D or F.
+h. Off-Campus Study: Middlebury students enrolled in an approved off-campus study program, including Middlebury Schools Abroad, may elect the Credit/No Credit option for a single course per semester, following the framework of this policy.  Individual deadlines to invoke or revoke Credit/No Credit vary by program due to differing academic calendars and will be determined by International Programs and Off-Campus Study as outlined in the Schools Abroad and Externally Sponsored Programs handbooks.
+
+i. CR and NCR grades will not be calculated in the student’s GPA.  A minimum grade of C- is required for CR.  NCR will be recorded for grades of D or F.
 
 #### **4\. Auditing** {#auditing}
 
