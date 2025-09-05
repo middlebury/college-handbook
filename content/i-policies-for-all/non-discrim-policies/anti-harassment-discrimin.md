@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin
 title: B.1.b. Non-Discrimination Investigations & Resolutions Procedure
-date: 02/27/2025
+date: 09/05/2025
 ---
 NOTE: This Procedure is effective August 1, 2024, and does not apply retroactively. For Prohibited Conduct allegedly occurring before August 1, 2024, the College will apply the definition of Prohibited Conduct and procedures in place at the time of the alleged conduct.[\[a\]](https://handbook.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy/#a) For Prohibited Conduct allegedly occurring on or after August 1, 2024, the definition of Prohibited Conduct and procedures set forth in this Procedure will apply, to the fullest extent permitted by applicable law. Middlebury retains discretion to make appropriate adjustments to promote fairness and consistency. The Parties will be notified in advance of any proceedings which definition(s) and procedures apply.
 
@@ -62,7 +62,6 @@ Some members of the Middlebury community have legal obligations or privileges no
 *   Medical and support staff at the Middlebury Center for Health & Wellness (including SANE nurses)
 *   Counseling Services
 *   MiddCare
-*   MiddSafe Advocates
 *   Chaplains within the Scott Center
 
 In addition, an employee of Middlebury who is conducting an Institutional Review Board-approved human-subjects research study designed to gather information about protected characteristic based discrimination and harassment is a Confidential Resource. The employee’s confidential status, however, is only with respect to information received while conducting the study.
