@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/x-courses-ocs
 title: B.1.i. Transfer Courses and Off-Campus Study
-date: 2021-05-01
+date: 09/05/2025
 ---
 At Middlebury's discretion, students may earn academic credit through the following categories of off-campus study: transfer courses, 0555 courses, study abroad, pre-professional combined plans, domestic off-campus programs, and exchange programs. Each category of off-campus study is subject to separate rules, procedures, and financial aid implication, as indicated below. In cases of uncertainty as to the category of a student's off-campus study, a final determination will be made by the Dean of Curriculum or Dean of International Programs.
 
@@ -13,7 +13,7 @@ Students may transfer course credits from other institutions of higher education
 
 To receive credit the transfer course should carry at least three semester-hour credits or five quarter-hour credits. Only courses that meet for a period of four weeks or longer and at least the same number of class hours as an equivalent Middlebury College course are eligible to receive credit. A student may only transfer two courses per summer session and a maximum of four summer courses over two sessions. Likewise, a student may only transfer a maximum of one course per Winter Term session. Only courses with a grade of C- or better may be transferred from another institution toward the Middlebury degree.  Courses graded on a pass/fail basis do not transfer. Transfer credits may be used to satisfy the academic and cultures/civilizations distribution requirements if the transfer credit is considered by the appropriate Middlebury department to be the equivalent of a Middlebury course that would satisfy one or more of those requirements. After students matriculate at Middlebury College, they normally may not take two-year or community college courses for credit towards a Middlebury degree.  College courses taken in high school and applied toward a high school diploma or in a college/high school cooperative program are not transferable. Only courses taken on college campuses, taught by college professors, for college students, and for which there are official transcripts may be considered for transfer.
 
-Transfer work from other institutions will be evaluated on a course-by-course basis to determine the fulfillment of Middlebury departmental and College requirements. All transfer courses completed off campus must receive final approval by the dean of curriculum (for U.S. courses) or the dean of international programs (for courses taken abroad). When courses are taken prior to matriculation at Middlebury, during summers, or while withdrawn from the College are transferred, the credit is recorded but not the grade that was awarded. Students on a post-matriculation semester or year-long study abroad program are not completing transfer courses, but rather a study abroad program (see below). Such students must have the program approved by the Programs Abroad Committee prior to their study abroad to receive Middlebury credit. Students will not receive transfer credit for non-approved study abroad programs.
+Transfer work from other institutions will be evaluated on a course-by-course basis to determine the fulfillment of Middlebury departmental and College requirements. All transfer courses completed off campus must receive final approval by the dean of curriculum (for U.S. courses) or the dean of international programs (for courses taken abroad). When courses are taken prior to matriculation at Middlebury, during summers, or while withdrawn from the College are transferred, the credit is recorded but not the grade that was awarded. Students on a post-matriculation semester or year-long study abroad program are not completing transfer courses, but rather a study abroad program (see below). Such students must have the program approved by the Programs Abroad Committee prior to their study abroad to receive Middlebury credit. Students will not receive transfer credit for non-approved study abroad programs, nor are they eligible to earn transfer credit from an institution with which the Schools Abroad has a partnership agreement.
 
 Neither federal financial aid nor Middlebury financial aid may be used in support of transfer courses. Questions about financial aid for transfer courses should be directed to the Office of Student Financial Services.
 
@@ -63,7 +63,7 @@ Students intending to enroll in the Study Away at Monterey program must apply fo
 
 Grades for courses taken as part of Study Away at Monterey are recorded on the Middlebury transcript and are included in the calculation of the grade point average at Middlebury.
 
-While at MIIS, students are expected to enroll in a normal full load of courses totaling at least 12 but not exceeding 18 credits per semester.  Part-time enrollment (fewer than 12 credits in a semester) is not permitted.  Students who enroll in more than 18 credits will be charged an overload at the MIIS per credit rate.  Questions about the use of financial aid for this program should be directed to the Office of Student Financial Services.
+While at MIIS, students are expected to enroll in a normal full load of courses totaling at least 12 but not exceeding 18 credits per semester.  Part-time enrollment (fewer than 12 credits in a semester) is not permitted.  Students who enroll in more than 18 credits will be charged an overload at the MIIS per credit rate. Students may audit an additional course in accordance with MIIS course audit policies. Questions about the use of financial aid for this program should be directed to the Office of Student Financial Services.
 
 Students must receive approval from the program director or program chair of the Study Away Program, or the Associate Dean of Academic Operations at MIIS prior to registration. MIIS courses that are offered in their entirety as pass/fail will not count as one of the two non-standard grade mode courses students are permitted to take (either under the former Pass/D/Fail option or the current Credit/No Credit option) but will count toward the total of five courses with non-standard grading a student may count toward graduation.  The Credit/No Credit grade option is not available for courses taken with the Study Away at Monterey program.
 
@@ -71,7 +71,7 @@ Additional information about this program, including housing, orientation, and c
 
 **7\. Domestic Exchange Programs**
 
-Middlebury maintains exchange agreements with several U.S. institutions, which include reciprocal programs of study for outgoing Middlebury students and incoming students from partner exchange institutions. Middlebury maintains exchange programs with Spelman College, Swarthmore College and the Association of Vermont Independent Colleges (Bennington College, Champlain College, Goddard College, Norwich University, Saint Michael's College, and Sterling College). Interested students should contact International Programs and Off-Campus Study. When credit is awarded for domestic exchange programs, both the credits and the grades are recorded on the transcript, and the grades are included in the calculation of the grade point average.
+Middlebury maintains exchange agreements with several U.S. institutions, which include reciprocal programs of study for outgoing Middlebury students and incoming students from partner exchange institutions. Middlebury maintains exchange programs with Spelman College, Swarthmore College and the Association of Vermont Independent Colleges (Bennington College, Champlain College, Norwich University, Saint Michael's College, and Sterling College). Interested students should contact International Programs and Off-Campus Study. When credit is awarded for domestic exchange programs, both the credits and the grades are recorded on the transcript, and the grades are included in the calculation of the grade point average.
 
 Questions about the availability of financial aid for these programs should be directed to the Office of Student Financial Services.
 
@@ -79,8 +79,8 @@ Questions about the availability of financial aid for these programs should be d
 
 Middlebury students completing work in the ROTC program at the University of Vermont are eligible to receive up to three credits towards their Middlebury College degree: one academic credit upon completion of the first two years of ROTC classes and one credit upon completion of each of the third and fourth years of ROTC classes. The credits awarded will be general non-graded credits and will not satisfy any major, minor or distribution requirements. The following University of Vermont courses may count toward the three academic credits:
 
-*   For the first academic credit: completion of MS 011, MS 012, MS 021, and MS 022.
-*   For the second academic credit: completion of MS 131 and MS 132.
-*   For the third academic credit: completion of MS 241 and MS 242.
+*   For the first academic credit: completion of MS 1110, MS 1210, MS 1120, and MS 1220.
+*   For the second academic credit: completion of MS 2131 and MS 2132.
+*   For the third academic credit: completion of MS 3241 and MS 3242.
 
 Participation in the ROTC program may also satisfy both of the two physical education units required for graduation. One physical education credit will be awarded for completion of the first year of ROTC physical training and the second for the second year.
