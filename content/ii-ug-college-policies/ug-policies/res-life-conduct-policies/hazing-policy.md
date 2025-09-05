@@ -24,7 +24,8 @@ For the purposes of this policy, the term “hazing” means; any intentional, k
 *   causing coercing, or otherwise inducing another person to perform or simulate sexual acts
 *   any activity that places another person in reasonable fear of bodily harm through the use of threatening words or conduct
 *   any activity against another person that includes a criminal violation of local, State, Tribal or Federal law
-*   any activity that induces, causes, or requires another person to perform a duty or task that involves a criminal violation of local, State, Tribal, or Federal law. any activity that is intended to have the effect of, or should reasonably be expected to have the effect of, humiliating, intimidating or demeaning the student
+*   any activity that induces, causes, or requires another person to perform a duty or task that involves a criminal violation of local, State, Tribal, or Federal law
+*   any activity that is intended to have the effect of, or should reasonably be expected to have the effect of, humiliating, intimidating or demeaning the student
 *   planning, soliciting, directing, aiding, or otherwise participating actively or passively in the above acts.
 
 Middlebury prohibits hazing as defined by the SCHA, through this Policy.
