@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/winter-term
 title: B.1.h. Winter Term
-date: 07/17/2025
+date: 09/05/2025
 ---
 **1\. General**
 
@@ -37,7 +37,7 @@ iii. Changes in course registration may be made only during the first three days
 
 iv. A student who misses the first class of winter term must be excused by a class dean or it will be assumed that the student has dropped the course.
 
-v. The registration windows for winter term open as follows: (1) students with 7-16.99 credits earned; (2) students with 3-6.99 credits earned; (3) students with 17-34+ credits earned.
+v. The registration windows for winter term open as follows: (1) students with 7-15.99 credits earned; (2) students with 3-6.99 credits earned; (3) students with 16-34+ credits earned.
 
 **3\. Student Options for Winter Term**
 
@@ -74,7 +74,7 @@ Proposals for student-led courses may be submitted to the Curriculum Committee. 
 The chair or director of the department/program supporting the course will forward, via email to [Diane Burnham](mailto:dburnham@middlebury.edu), a written endorsement of the student leader and will designate a faculty supervisor for the proposed course. The designated faculty supervisor will also forward, via email to [Diane Burnham](mailto:dburnham@middlebury.edu), a statement accepting this role. The Curriculum Committee will consider this information along with the course proposal form. The student leader will organize and conduct the course and propose its syllabus. Student leaders shall consult with the faculty supervisor on a regular basis. The faculty supervisor shall determine whether the course credit has been earned. These courses are graded Credit/No Credit. Student-led courses are subject to the following restrictions:
 
 i. The proposal should be submitted to the Curriculum Committee by the end of the second week of the fall semester.   
-**Deadline: September 22, 2023.**
+**Deadline: September 19, 2025.**
 
 ii. A proposal must include a departmental recommendation of the course and its leader, a detailed syllabus, and a list of interested students who will participate in the course if it is offered. Proposed work assignments and meeting schedules must also be submitted.
 
