@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/acad-honesty
 title: B.1.a. Academic Honesty, the Honor Code, and Related Disciplinary Policies
-date: 07/22/2025
+date: 08/29/2025
 ---
 **A. Introduction**
 
@@ -14,7 +14,7 @@ _**1\. Definitions of Prohibited Acts**_
 Any student action that does not reflect complete intellectual honesty in the preparation and submission of all academic work is prohibited.  Although the definitions below are provided to offer clarity, they are not intended to be exhaustive. Faculty members may define additional actions as Academic Honesty violations for their particular departments and courses as appropriate.
 
 **a. Plagiarism**  
-Plagiarism is intentionally or unintentionally representing as one’s own any ideas, research, language, creations, or inventions from another source. In written work and oral and artistic presentations, even a single sentence or key phrase, idea, image, or sound taken from another source without specific citation of the source and quotations around verbatim language constitutes plagiarism. It makes no difference whether the source is a student, a professional, artificial intelligence, or a source with no clear designated author.
+Plagiarism is intentionally or unintentionally representing as one’s own any ideas, research, language, creations, or inventions from another source. In written work and oral and artistic presentations, even a single sentence or key phrase, idea, image, or sound taken from another source without specific citation of the source and quotations around verbatim language constitutes plagiarism. It makes no difference whether the source is a student, a professional, artificial intelligence, or a source with no clear designated author. 
 
 Although it does not involve reproducing language verbatim, paraphrasing is the close restatement of another's idea using approximately the language and/or structure of the original. Paraphrasing without acknowledgment of authorship, whether the source is human or computer-generated, is also plagiarism and is as serious a violation as an unacknowledged quotation.
 
@@ -47,7 +47,7 @@ _**3\. Faculty Responsibilities**_
 
 **Constitution of the Undergraduate Honor System**
 
-All assigned academic work is conducted under the terms of the [Undergraduate Honor System](https://www.middlebury.edu/studentlife-older-delete-pending/doc/honorcode), which follows in full:
+All assigned academic work is conducted under the terms of the Undergraduate Honor System, which follows in full:
 
 **Preamble**
 
@@ -57,9 +57,9 @@ The students of Middlebury College believe that individual undergraduates must a
 
 **a**. Before enrolling in Middlebury College each student must agree to abide by and uphold this honor system. Additional commitments to the honor system should be part of orientation week activities.
 
-**b**. All incoming students will receive information describing the aims and operation of the academic honor system before classes start.
+**b.** All incoming students will receive information describing the aims and operation of the academic honor system before classes start.
 
-**c**. The Judicial Board will meet annually at the beginning of the fall term to review the honor system and to orient new members.
+**c.** The Judicial Board will meet annually at the beginning of the fall term to review the honor system and to orient new members.
 
 **Article II: Examination Procedure**
 
