@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies
 title: B.2.f. Residential Life Policies
-date: 08/30/2024
+date: 08/29/2025
 ---
 1.       [Fundamental Purposes](#fundamental)
 
@@ -27,7 +27,7 @@ d.       [Housing Regulations & Resources](#housing)
 
 #### **(1) Fundamental Purposes** {#fundamental}
 
-Middlebury College’s [Community Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) speak directly to the goals and values that underlie all of Middlebury’s residential life policies: safety; respect for self, others and our shared environment; individual responsibility; and fostering a diverse and inclusive community committed to civility, open-mindedness and finding common ground. Enrolled students are required to live on campus for all 8 eight semesters and participate in the dining plan.  A small number of upper class students may be permitted to live off-campus as authorized by the office of the Residential Life Dean of Students (DOS).  The procedure to request permission is [below](#requesting). The College assigns housing and reserves the right to change and alter housing assignments to better serve compelling community interests.
+Middlebury College’s [Community Standards](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/genl-cond-standards) speak directly to the goals and values that underlie all of Middlebury’s residential life policies: safety; respect for self, others and our shared environment; individual responsibility; and fostering a diverse and inclusive community committed to civility, open-mindedness and finding common ground. Enrolled students are required to live on campus for the entirety of their time as a full-time student and participate in the dining plan.  A small number of upper class students may be permitted to live off-campus as authorized by the office of the Residential Life or Dean of Students (DOS).  The procedure to request permission is [below](#requesting). The College assigns housing and reserves the right to change and alter housing assignments to better serve compelling community interests.
 
 #### **(2) Housing options on Campus** {#housing}
 
@@ -43,11 +43,13 @@ Middlebury reserves the right to reassign, restrict, and, suspend student housin
 
 Residential Living Spaces are provided for actively enrolled Middlebury students only.
 
-Middlebury’s housing spaces provide students the opportunity for independent, adult living, within Middlebury’s residential campus, providing certain facilities to allow students to dine together, do their laundry, study and gather socially, etc.  It is the student’s responsibility to maintain their person, their belongings, and clean and sanitary conditions in dormitory rooms, and they must clear common spaces after personal use. Students are responsible for what takes place in their rooms and common suite space, including parties and other activities, whether or not they are present.
+Middlebury’s housing spaces provide students the opportunity for independent, adult living, within Middlebury’s residential campus, providing certain facilities to allow students to dine together, do their laundry, study and gather socially, etc.  It is the student’s responsibility to maintain their person, their belongings, and clean and sanitary conditions in dormitory rooms, and they must clear common spaces after personal use. Students who fail to maintain clean and sanitary conditions as assessed by Middlebury College Officials will be subject to Middlebury’s [student conduct process](https://handbook.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process) which may result in sanctions and [fines](https://www.middlebury.edu/office/student-financial-services/financial-tools-and-resources/student-financial-services-handbook). 
 
-Students cannot switch rooms and room codes/keys or change residences without permission from the Office of Residential Life
+Students are responsible for what takes place in their rooms and common suite space, including parties and other activities, whether or not they are present. Students who reside in spaces where policy violations occur will be subject to Middlebury’s [student conduct process](https://handbook.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process) which may result in sanctions and [fines](https://www.middlebury.edu/office/student-financial-services/financial-tools-and-resources/student-financial-services-handbook). 
 
-Students are not expected to be in areas that are not regular living spaces. They should not use areas outside of their living spaces for storage unless authorized. The list of spaces excluded from student use includes any roof or outer surface of any Middlebury building. Accessing a roof in any manner or climbing on a building is considered dangerous behavior and is prohibited; fines will be assessed.  Unauthorized access to prohibited areas of Middlebury buildings (e. g. basements, closets, crawlspaces and/or attics) will incur fines (see [section on fines and fees](https://www.middlebury.edu/offices/support/sfs/sfs-handbook)).
+Unauthorized room changes are prohibited and subject to Middlebury's [student conduct process and](https://handbook.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process) [fines](https://www.middlebury.edu/office/student-financial-services/financial-tools-and-resources/student-financial-services-handbook). Students cannot switch rooms and room codes/keys or change residences without permission from the Office of Residential Life
+
+Students shall not use areas outside of their living spaces for personal storage at any time. The list of spaces excluded from student use includes any roof or outer surface of any Middlebury building. Accessing a roof in any manner or climbing on a building is considered dangerous behavior and is prohibited; fines will be assessed.  Unauthorized access to prohibited areas of Middlebury buildings (e. g. basements, closets, crawlspaces and/or attics) will incur fines (see [section on fines and fees](https://www.middlebury.edu/offices/support/sfs/sfs-handbook)).
 
 Students are expected to be considerate of others with respect to noise in the residence halls; see [Noise Policy](https://www.middlebury.edu/offices/health/publicsafety/Noise_Regulationshttps://www.middlebury.edu/office/public-safety/safety-and-security/noise-regulations) for more information. Conduct that creates a public disturbance in a residence hall or interferes with another student’s ability to study is prohibited.
 
