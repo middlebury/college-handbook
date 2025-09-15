@@ -158,7 +158,7 @@ xiv. If a hearing results in a finding of not responsible, the finding will be r
 
 xv. The Office of Community Standards will ordinarily give written notification of the determination of the Board, and the sanction assigned by the Office, to the student charged.  Failure to meet this guideline does not invalidate a decision or form a basis for appeal.
 
-## VII. Sanctions {#sanctions}
+## VI. Sanctions {#sanctions}
 
 Middlebury College’s sanctions are generally described in Section B. 2. e. of the Handbook and the information below is specific to conduct matters addressed under this process.
 
@@ -166,11 +166,11 @@ a. Sanctioning Philosophy: When assigning a sanction, mitigating factors such as
 
 b. Sanctions are ordinarily issued by the Office of Community Standards.  However, Middlebury officials including the VPSA, DOS, Deans, and RDs may issue sanctions when they determine that Middlebury student life policies have been violated.  These officials, and the Office of Community Standards, may also issue restrictions on Middlebury privileges, such as housing lottery participation or guest privileges, and assign educational sanctions such as research or reparative community service, as appropriate.  Students may appeal the issuance of official College discipline by Deans and RDs; they may not appeal unofficial sanctions, such as warnings, reprimands and probationary status.
 
-c. Plagiarism, cheating, or any other violation of the Undergraduate Honor System is normally punishable by suspension. In 1997, the faculty reaffirmed its commitment to suspension as the normal outcome for violations of the standards of academic integrity. Students found guilty of academic dishonesty will normally fail the course in which the offense occurred.  On rare occasions, if compelling reasons exist for not suspending a student found guilty of academic dishonesty, the sanctioning authority may issue no less than a reprimand and invoke either of the following penalties: a 0 or an F on the piece of work, or a 0 or an F in the course.
+c. Plagiarism, cheating, or any other violation of the Undergraduate Honor System or Academic Honesty Policy is normally punishable by an academic penalty and a sanction ranging from a reprimand to expulsion from the College. Typically, academic penalties may include, but are not limited to, a grade reduction in the assignment, a 0 or F on the assignment, a grade reduction in the course, or a 0 or F in the course.  
 
 d. Upon written request, the outcome of any disciplinary proceedings involving a crime of violence will be shared with the victim, or next of kin.
 
-## VIII. Appeals {#appeals}
+## VII. Appeals {#appeals}
 
 a. Appeals are reviewed by Middlebury authorities who did not participate in the initial determination, and are trained to be impartial and free from a conflict of interest.
 
