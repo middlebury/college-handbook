@@ -57,7 +57,7 @@ In certain circumstances, the Office of Community Standards (or the Vice Preside
 
 ### c. No Contact Orders {#NCO}
 
-When a verbal or physical altercation, sexual misconduct, stalking, harassment, discrimination, retaliation, or hazing has been alleged, or when otherwise deemed appropriate under the circumstances, the VPSA, dean of students, student life deans, Human Relations Officers, Civil Rights/Title IX coordinator, Assistant Director for Student Success and members of the Public Safety staff have the authority to issue No Contact Orders to the persons involved, whether or not disciplinary action is taken. A No Contact Order is used to restrict encounters between individuals. While a No Contact Order is not a disciplinary sanction, and will not appear on a student’s disciplinary record, refusal to adhere to the order after written or verbal notification of its terms is prohibited and may result in disciplinary action.
+When a verbal or physical altercation, sexual misconduct, stalking, harassment, discrimination, retaliation, or hazing has been alleged, or when otherwise deemed appropriate under the circumstances, the VPSA, Dean of Students, Human Relations Officers, Civil Rights/Title IX Coordinator, and members of the Public Safety staff have the authority to issue No Contact Orders to the persons involved, whether or not disciplinary action is taken. A No Contact Order is used to restrict encounters between individuals. While a No Contact Order is not a disciplinary sanction, and will not appear on a student’s disciplinary record, refusal to adhere to the order after written or verbal notification of its terms is prohibited and may result in disciplinary action.
 
 No Contact Orders ordinarily remain in effect until all, or all but one, of the involved students is permanently separated from the College through graduation, resignation, transfer or expulsion, at which time NCOs are closed and archived. No Contact Orders can be modified by those with the authority to issue them in response to changes in the parties’ circumstances, and can be rescinded by the issuing authority at the request of both parties to the No Contact Order. If a No Contact Order is in place between parties in an active adaptable resolution process, any communication between parties that is coordinated by an adaptable resolution facilitator will not be considered a violation of the No Contact Order.
 
@@ -81,9 +81,9 @@ Colleges are not courts of law, and Middlebury’s disciplinary proceedings have
 
 ## III. Charges and Evidence {#chargesevidence}
 
-a. Concerns regarding student behavior may be brought to the Office of Community Standards by any individual, whether or not they are a member of the Middlebury College community.
+a. Concerns regarding perceived policy violations by students may be brought to the Office of Community Standards by any individual, whether or not they are a member of the Middlebury College community.
 
-b. A faculty member who believes a student has engaged in academic dishonesty shall submit a written statement of the facts supporting the charge to the Office of Community Standards. The faculty member's statement will serve as the formal presentation of charges to the Judicial Board, and therefore should be sufficiently detailed to enable all parties to respond and prepare for the hearing, if necessary.
+b. A faculty member who believes a student has engaged in academic dishonesty shall submit a written statement of the facts supporting the charge to the Office of Community Standards or Dean of Students. The faculty member's statement will serve as the formal presentation of charges to the Judicial Board, and therefore should be sufficiently detailed to enable all parties to respond and prepare for the hearing, if necessary.
 
 c. The Office of Community Standards may conduct an initial inquiry into the concern to determine whether or not to bring charges against a student. This inquiry may include gathering evidence, including statements from witnesses and documentary evidence, as well as other steps to understand the issue.
 
@@ -93,25 +93,13 @@ e. The Office of Community Standards will ordinarily notify the student with a w
 
 f. Formal or legal rules of evidence do not apply in Middlebury disciplinary proceedings.  The Office of Community Standards is responsible for administering procedures to ensure they are based on meaningful evidence.  If a hearing occurs, the chair will make decisions on evidentiary or procedural questions that must be resolved during the hearing.  The majority of the Board may override the chair’s decision, if they disagree.
 
-## IV. Restorative Resolutions {#restorativeresolutions}
-
-a. If a student accepts responsibility for violating academic or non-academic policy, a Restorative Justice Panel (RJP) may be called to explore and identify the harm to individuals and/or community, and work with the responsible party to design an action plan and outcomes to repair harm caused.
-
-b. For academic policy violations, students must report the violation to the Office for Community Standards within 72 hours of submitting the assignment. Additionally, the faculty member must be a willing participant in the restorative process and agree to the action plan/outcomes. If the faculty member is unwilling to participate, students may choose to engage the Dean’s Disposition process.
-
-c. For non-academic policy violations, harmed parties are welcome participants in a Restorative Justice Panel, but they are not required to attend, as board members can represent the perspective of the community.
-
-d. All action plans must be approved by the Office of Community Standards. Students participating in a Restorative Justice Panel are required to complete the action plan within the agreed-upon timeline or they will be referred back to the Office for Community Standards for sanctioning.
-
-e. Restorative Panels will be comprised by one faculty, one staff, and one student, trained in Restorative Practices.
-
-## V. Dean’s Dispositions {#deansdisposition}
+## IV. Dean’s Dispositions Without a Hearing {#deansdisposition}
 
 a. After written notice of the concern or charges against them, and the student’s opportunity to provide evidence, the Office of Community Standards will determine whether there are disputed facts at issue.
 
-b. At any time, a student respondent may notify the Office of Community Standards that they do not contest the charges and the Office may issue a sanction appropriate to the violation.
+b. At any time, a student respondent may notify the Office of Community Standards, Dean of Students, or designee that they do not contest the charges. In such instances, the Office of Community Standards, Dean of Student, or designee may resolve the concern by issuing sanctions appropriate to the violation without a Hearing.
 
-c. Where there are no disputed facts at issue, the Office of Community Standards will issue a sanction appropriate to the violation.
+c. Where there are no disputed facts at issue, and a preponderance of evidence indicates that a policy violation has occurred, the Office of Community Standards, Dean of Students, or designee will issue a sanction appropriate to the violation.
 
 d. If the student objects to a sanction other than official College discipline, they may submit a statement of their objection within three days to both the Community Standards Office and the Dean of Students. The Dean of Students and the Community Standards Office shall discuss the sanction and the student’s objection, and provide a written explanation of a decision to retain or adjust the sanction if appropriate.
 
