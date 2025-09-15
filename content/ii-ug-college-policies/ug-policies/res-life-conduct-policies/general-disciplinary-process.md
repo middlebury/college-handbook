@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process
 title: B.2.d. Student Conduct Process
-date: 2021-05-01
+date: 08/29/2025
 ---
 **TABLE OF CONTENTS**
 
@@ -49,7 +49,7 @@ Conduct matters may be resolved in several ways.  Restorative justice may be av
 
 ### a. Applicability of These Procedures {#applicability}
 
-As described in [Section B.2.a.iii, Scope of Oversight](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a-introductory-matters), students will be held accountable for policy violations that take place between the time they first arrive on campus to begin their Middlebury program and their graduation, or the College's confirmation of their withdrawal or resignation.  As described in [Section B.2.a.iv, Pending Discipline](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a-introductory-matters), a student respondent will not be permitted to graduate from or otherwise be deemed to have officially completed a Middlebury program in which they are enrolled while a disciplinary matter is pending.
+As described in [Section B.2.a.iii, Scope of Oversight](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a-introductory-matters), students will be held accountable for policy violations that take place between the time they are accepted at Middlebury and their graduation, or the College's confirmation of their withdrawal or resignation.  As described in [Section B.2.a.iv, Pending Discipline](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/a-introductory-matters), a student respondent will not be permitted to graduate from or otherwise be deemed to have officially completed a Middlebury program in which they are enrolled while a disciplinary matter is pending.
 
 ### b. Administrative resolution {#adminresolution}
 
@@ -204,10 +204,10 @@ ii. If the sanction is a form of official College discipline for non-academic mi
 
 iii. Appeals to the DOF and the VPSA will follow the same process:
 
-1.  The DOF or the VPSA may grant extensions of time for the respondent to appeal, upon request. 
+1.  The DOF or the VPSA may grant extensions of time for the respondent to appeal, upon request.
 2.  The DOF or the VPSA will provide a copy of the written appeal to the Office of Community Standards, and the Office will provide access to the records of the case to the DOF or VPSA.
-3.  The DOF or the VPSA may consult with the Office of Community Standards and any other relevant individual regarding the appeal, as appropriate. 
-4.  The DOF or the VPSA will consider whether the appeal demonstrates by a preponderance of the evidence one of the bases for further action, and may require re-consideration by the initial decision-maker, re-convening the original Judicial Board, convening a new Judicial Board, to re-hear the entire matter or only a limited portion, or may require re-deliberation on the sanction. 
+3.  The DOF or the VPSA may consult with the Office of Community Standards and any other relevant individual regarding the appeal, as appropriate.
+4.  The DOF or the VPSA will consider whether the appeal demonstrates by a preponderance of the evidence one of the bases for further action, and may require re-consideration by the initial decision-maker, re-convening the original Judicial Board, convening a new Judicial Board, to re-hear the entire matter or only a limited portion, or may require re-deliberation on the sanction.
 5.  The DOF or the VPSA will ordinarily notify the student of their decision within seven business days of the receipt of the records of the initial determination, but this time may be extended if compelling circumstances warrant, and variation from this shall not invalidate a decision.
 6.  If reconsideration of some kind is required, the Office of Community Standards will take the appropriate steps to implement the decision of the DOF or the VPSA, as necessary.
 7.  Decisions of the DOF and the VPSA, or reconsideration of the initial determination by the Dean or the Board after a successful appeal are final, and not subject to further appeal, absent extraordinary circumstances.
