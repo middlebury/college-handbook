@@ -18,18 +18,16 @@ date: 08/29/2025
 
 [**III. Charges and Evidence**](#chargesevidence)
 
-[**IV. Restorative Resolutions**](#restorativeresolutions)
+[**IV. Dean’s Dispositions**](#deansdisposition)
 
-[**V. Dean’s Dispositions**](#deansdisposition)
-
-[**VI. The Judicial Board**](#judicialboard)
+[**V. The Judicial Board**](#judicialboard)
 
 *   [a. Composition](#composition)
 *   [b. Hearing Procedures](#hearingprocedures)
 
-[**VII. Sanctions**](#sanctions)
+[**VI. Sanctions**](#sanctions)
 
-[**VIII. Appeals**](#appeals)
+[**VII. Appeals**](#appeals)
 
 ---
 
