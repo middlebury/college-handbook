@@ -150,11 +150,11 @@ x. Individuals participating in the hearing as a complainant (including a facult
 
 xi. The respondent has the right to be present throughout the hearing and to hear adverse testimony. In no case should the Board consider evidence against a student unless the source, author, and content of any statement or other evidence has been identified to the student, and the student has been given the opportunity to rebut the statement or respond to the evidence.
 
-xii. Immediately after a hearing, the Board will deliberate and make determinations of the facts, based on the preponderance of the evidence under consideration at the hearing.  After the facts have been determined, the Judicial Board will make a recommendation to the Office of Community Standards on whether or not the respondent should be found responsible, or not responsible for a policy violation.
+xii. Immediately after a hearing, the Board will deliberate and make determinations of the relevant facts, based on the evidence presented during the hearing.  After the facts have been determined, the Judicial Board will make a recommendation to the Office of Community Standards on whether or not the respondent should be found responsible or not responsible for a policy violation based on whether a preponderance of the evidence supports a finding of responsibility or not.
 
-xiii. After a finding of responsibility, the Office of Community Standards may share a written character reference relating to the respondent with the Judicial Board, for their consideration in connection with their recommendation for a sanction.
+xiii. After a finding of responsibility, the Office of Community Standards may share a written character reference submitted on behalf of the respondent if available, as well as information related to the student’s disciplinary history with the Judicial Board for their consideration in connection with their recommendation for a sanction.
 
-xiv. If a hearing results in a finding of not responsible, there will be no record of the charges or the hearing in the student’s permanent file.
+xiv. If a hearing results in a finding of not responsible, the finding will be recorded in the student’s Community Standards file.
 
 xv. The Office of Community Standards will ordinarily give written notification of the determination of the Board, and the sanction assigned by the Office, to the student charged.  Failure to meet this guideline does not invalidate a decision or form a basis for appeal.
 
