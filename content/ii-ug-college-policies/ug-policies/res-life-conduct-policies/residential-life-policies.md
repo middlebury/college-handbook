@@ -19,7 +19,7 @@ c.       [Entry by College Officials](#entry)
 
 d.       [Housing Regulations & Resources](#housing)
 
-5.       [Requesting Changes or Off-Campus Housing](#requesting)
+5.       [Changing Housing Assignments or Off-Campus Housing](#requesting)
 
 6.       [Termination of a House](#termination)
 
@@ -143,56 +143,35 @@ Fire Safety inspections will be organized and conducted on an on-going basis as 
 
 #### **Noise Policy** {#noise}
 
-Middlebury seeks to promote the quiet, comfort, and health of the campus, the Town of Middlebury, and surrounding communities. Students are required to be considerate of others with respect to noise in the residence halls. Students should neither cause nor condone excessive amounts of noise, but should strive to be considerate and respectful of others and to be good neighbors. Conduct that creates a public disturbance in a residence hall or interferes with another student’s ability to study is prohibited.
+Middlebury seeks to promote the quiet, comfort, and health of the campus, the Town of Middlebury, and surrounding communities through established Courtesy and Quiet Hours. Courtesy hours are always in effect, meaning students are required to be considerate of others at all times with respect to noise in residential spaces, neither causing  nor condoning excessive amounts of noise. Quiet Hours are 10 p.m. - 7 a.m., Sunday through Thursday and 1 a.m. - 7 a.m., Friday through Saturday. Noise from conversations, music, tvs, gaming, phone/video calls, musical instruments, etc. should be kept at a level that doesn’t interfere with other residents’ ability to study or sleep. Should noise concerns arise, students are encouraged to speak to the individual or group themselves first, letting them know their noise level is impacting others and asking them to quiet down. Where problems cannot be resolved in this way, the complaint should be brought to the appropriate member of the Residential Life staff, or the Department of Public Safety. Conduct that creates a public disturbance in a residential space or interferes with another student’s ability to study or sleep is prohibited and may result in disciplinary action.
 
 Students must also abide by all applicable town noise ordinances, including but not limited to the [Town of Middlebury Ordinance for the Regulation of Noise](https://www.middlebury.edu/office/sites/www.middlebury.edu.office/files/2020-10/NoiseGuidelines.pdf?fv=_HhJc6KU). This ordinance prohibits excessive or unnecessary noise, including vocal disturbances and loud music, and includes fines for non-compliance. Procedures on Noise Complaints can be found [here](https://www.middlebury.edu/office/public-safety/safety-and-security/noise-regulations). Students who violate Middlebury policy or local ordinances will be subject to Middlebury's [student conduct process](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
 
 #### **Storage Regulations**
 
-Students leaving Middlebury College at any time during the academic year are responsible for packing their belongings and arranging for storage or shipping. Storage during the regular academic year for undergraduate Middlebury students:
+Students leaving Middlebury College at any time are responsible for packing their belongings and arranging for storage or shipping. Storage of student belongings is not provided by the college. Students are expected to keep their belongings within their residential space and are prohibited from using outdoor spaces of small houses, such as porches, patios, balconies, or lawns for storage of personal items.
 
-1.  _Regular dormitory storage_ (trunks, suitcases, boxed items).  
-    i. Storage for some student belongings during the academic year is provided in some campus buildings. Interested students should consult with their resident assistant.  
-    ii. At the end of the school year, Facilities Services staff will clean out these storage areas and will dispose of any items not removed by students.
-2.  _House Storage_  
-    Houses may only store house items, such as pool tables and composites, in their houses over the summer recess. Personal items may not be left in the social houses. The president of each social house is responsible for supervising the storage area.
+Bicycle storage is provided in some residential buildings. Items other than bicycles may not be stored in bike rooms.
 
-#### **(5) Requesting Changes or Off-Campus Housing** {#requesting}
+Social and Specialty House Storage: Houses may only store house items in their houses over the summer recess. Personal items may not be kept in social, specialty, or language house storage at any time.
 
-**Changing Housing Assignment**
+#### **(5) Changing Housing Assignments or Off-Campus Housing** {#requesting}
 
-Students are assigned housing by the College through the room draw process. If students are experiencing a roommate conflict, they are highly encouraged to speak with their Residential Life staff member or RD before approaching the dean or submitting a room-change request.
-
-**Procedure to Request Room Change**
-
-Mid-term room change requests may be submitted following the end of the second week of classes and will be considered in mid-October and mid-March.  Requests submitted during J-Term, and after the fall and spring deadlines will be considered on a case-by-case basis.   End of Term room change requests (fall and J-term) should be submitted to the residential systems coordinator by the assigned date.
-
-If a student is offered a mid-semester room change, the student has 48 hours to accept or reject the offer. If students have a double as a single for whatever reason, they must find an eligible roommate, or the residential systems coordinator will assign someone to fill the space. Students will always be encouraged to resolve any conflicts before considering a room change.
-
-As noted above, switching rooms and keys or changing residences without authorization is prohibited and subject to [fines](https://www.middlebury.edu/office/student-financial-services/financial-tools-and-resources/student-financial-services-handbook).
-
-**Procedure to Request Off Campus Housing**
+**Changing Housing Assignment**  
+Students are normally assigned housing by the College through the room draw process. If students are experiencing a roommate conflict, they are highly encouraged to speak with their Residential Life staff member. Unauthorized room changes are prohibited and may be subject to Middlebury’s student conduct process and/or fines.   
 
 **Off campus housing**  
-A limited number of releases are available for senior students to live off campus with prior approval from Residential Life. Students with special medical needs that necessitate a housing accommodation should address their concerns to Residential Life and the Disability Resource Center. Students who are married or have dependent children living with them are exempted from the residency and board requirements upon providing documentation to Residential Life.
+Each year, Middlebury College approves a small number of students to live off campus. Living off campus is a privilege, and students are responsible for their behavior and are held accountable by both the College and the local community. Violations of policy may result in off campus release being revoked. 
 
-**Procedure to Request Living Off-Campus**
+Acceptance of an off campus release offer carries through until graduation. Students who then request to move back on campus will be placed on a waiting list and will only receive on-campus housing if it is available. Students on the waitlist cannot participate in room selection processes, and will be assigned housing in whatever space is available if approved to return. There is no guarantee of housing for these students. 
 
-Middlebury permits a limited number of seniors to live off campus. Permission is granted by a process coordinated by the Office of the Dean of Students. Students with the status of "special students" are required to live off campus. The number of off-campus residents is based on our commitment to the residential experience and an evaluation of the rental market in the town of Middlebury. Off-Campus status requires the approval of the Student Life Dean. Approval may not be granted if a student has been subject to official College discipline or academic failure.  Students living off campus must provide their local address and phone number to Residential Life within the first five days of the term or the Off-Campus Fee Reduction will be forfeited.
+A limited number of releases to live off campus are available for students with three or fewer terms until graduation with prior approval from Residential Life. Students with special medical needs that necessitate a housing accommodation should address their concerns to Residential Life and the Disability Resource Center. Living on campus is an essential component of the educational experience at Middlebury, and requests for off-campus housing on the basis of a medical or ADA-certified need will be considered on a case-by-case basis and will require appropriate documentation. Students who are married or have dependent children living with them are exempted from the residency and board requirements upon providing documentation to Residential Life. 
 
-All Off-Campus forms must be submitted to the residential systems coordinator by the determined [deadlines](https://www.middlebury.edu/office/residential-life/housing-overview). Any student wishing to move off campus after the Off-Campus application deadline must notify the residential systems coordinator to be placed on a waiting list. Off-campus permission is granted through a random draw each term for the subsequent term. Applications are submitted electronically; students may apply as individuals or in groups up to three members.  Students who accept off-campus housing status are ineligible to participate in further fall term housing processes.
+Students with the status of "special students" are required to live off campus. The number of off-campus residents is based on our commitment to the residential experience and an evaluation of the rental market in the town of Middlebury. Approval may not be granted if a student has been subject to official College discipline or academic failure.  Students living off campus must provide their local address and phone number to Residential Life within the first five days of the term or the Off-Campus Fee Reduction will be forfeited. 
 
-Permission must be granted for each term a student wants to live off campus and an Off-Campus Fee Reduction Form must be submitted by the posted deadline.  A form submitted one term will not automatically transfer to the next term. Students living off campus for one term will be given priority to live off campus for the next term as long as there have been no disciplinary, academic or behavioral concerns raised during the previous term. Completing the form every term provides the Office of the Dean of Students with up-to-date residential information.
+Students who choose to live off-campus without authorization - that is, students who are not granted off-campus status but move off-campus nonetheless - will be subject to Middlebury's [student conduct process](https://handbook.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process). 
 
-Students who accept off-campus housing status and then request to move back on campus will be placed on a waiting list and will only receive on campus housing if it is available following the completion of the housing processes for the semester in question. There is no guarantee of housing for these students.
-
-If housing is available, students returning from off campus residency will be assigned housing by Residential Life. 
-
-Students who choose to live off-campus without authorization - that is, students who are not granted off-campus status but move off-campus nonetheless - will be subject to Middlebury's [student conduct process](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
-
-Students who live off campus are expected to be good neighbors. Students who violate Middlebury policy or local ordinances will be subject to Middlebury's [student conduct process](/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
-
-Living on campus is an essential component of the educational experience at Middlebury. Request for off-campus housing on the basis of a medical or ADA-certified need will be considered on a case-by-case basis and will require appropriate documentation.
+Students who live off campus are expected to be good neighbors. Students who violate Middlebury policy or local ordinances will be subject to Middlebury's [student conduct process](https://handbook.middlebury.edu/pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/general-disciplinary-process).
 
 #### **(6) Termination of a House** {#termination}
 
