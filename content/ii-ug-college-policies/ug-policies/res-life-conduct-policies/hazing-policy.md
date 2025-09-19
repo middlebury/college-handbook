@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy
 title: B.2.c. Policy Against Hazing
-date: 09/05/2025
+date: 09/19/2025
 ---
 Middlebury  is committed to promoting healthy, safe, and balanced lifestyles. Student organizations and athletic teams can play a vital role in this process, and can provide transformative opportunities for friendship, leadership, and personal growth and discovery. Hazing of any kind is antithetical to these goals; therefore, Middlebury prohibits hazing activities, whether by an individual or an organization. In keeping with Middlebury’s prohibition of any kind of hazing, training and educational activities are periodically conducted with appropriate staff who support students and campus life.
 
@@ -132,16 +132,26 @@ Joe Russell
 802.443.3417  
 [Joer@middlebury.edu](mailto:Joer@middlebury.edu)
 
-Associate Vice President of Student Affairs for the Institute and Schools  
-Derek Doucet  
-802.443.3108  
-[ddoucet@middlebury.edu](mailto:ddoucet@middlebury.edu)
-
 [Class Deans](https://www.middlebury.edu/college/student-life/student-life-deans)  
 Scott Barnicle:  802.443.3350, [sbarnicl@middlebury.edu](mailto:sbarnicl@middlebury.edu)  
 Sabrina Durand: 802.443.3321, sdurand@middlebury.edu  
 Matt Longman:  802.443.3350, [longman@middlebury.edu](mailto:longman@middlebury.edu)  
 Jennifer Sellers:  802.443.3340, [jsellers@middlebury.edu](mailto:jsellers@middlebury.edu)
+
+**Institute and Schools Contacts**
+
+Middlebury Institute Security Department  
+831-647-4153
+
+Associate Vice President of Student Affairs for the Institute and Schools  
+Derek Doucet  
+802.443.3108  
+[ddoucet@middlebury.edu](mailto:ddoucet@middlebury.edu)
+
+Middlebury Institute Associate Dean of Student Services  
+Ashley Arrocha  
+831.647.4654  
+[aarrocha@middlebury.edu](mailto:aarrocha@middlebury.edu)
 
 **8.** **Vermont Hazing Statutes**
 
