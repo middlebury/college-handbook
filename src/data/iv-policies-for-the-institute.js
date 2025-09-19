@@ -195,6 +195,12 @@ export const policiesForInstituteNodes = [
                 label: "A.6.n. Graduation with Honors",
                 className: "a-6-n-graduation-with-honors",
               },
+              {
+                value:
+                  "iv-policies-for-the-institute/a-academic-policies/a-6-grades-credits-and-academic-policies/a-6-o-attendance",
+                label: "A.6.o. Attendance",
+                className: "a-6-o-attendance",
+              },
             ],
           },
           {

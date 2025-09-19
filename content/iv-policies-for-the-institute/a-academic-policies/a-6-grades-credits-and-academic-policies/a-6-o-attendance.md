@@ -1,0 +1,7 @@
+---
+slug: /pages/iv-policies-for-the-institute/a-academic-policies/a-6-grades-credits-and-academic-policies/a-6-o-attendance
+title: A.6.o. Attendance
+date: 2025-09-19
+---
+
+The Institute expects that students enrolled in In Person programs attend class regularly throughout the term, missing only those days noted as breaks or observed holidays on the Academic Calendar. Missing classes outside of breaks or observed holidays may impact course grades, degree progression, and/or immigration status. In cases where an extended absence may be necessary (i.e. for health-related matters or personal emergency), it is the student’s responsibility to first request and receive approval from the professor and/or program chair. Final approval for any extended absence is granted only by the Associate Dean of Academic Operations or designee.The Institute expects that students enrolled in In Person programs attend class regularly throughout the term, missing only those days noted as breaks or observed holidays on the Academic Calendar. Missing classes outside of breaks or observed holidays may impact course grades, degree progression, and/or immigration status. In cases where an extended absence may be necessary (i.e. for health-related matters or personal emergency), it is the student’s responsibility to first request and receive approval from the professor and/or program chair. Final approval for any extended absence is granted only by the Associate Dean of Academic Operations or designee.
