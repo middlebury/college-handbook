@@ -171,7 +171,13 @@ Hazing under Vermont law shall not include any activity or conduct that furthers
 
 “Pledging” under Vermont law means any action or activity related to becoming a member of an organization.
 
-**9\. Statement of Policy Regarding Hazing Prevention and Awareness Programs**
+**9\. California Hazing Statues**
+
+California Penal Code section [245.6](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fleginfo.legislature.ca.gov%2Ffaces%2Fcodes_displaySection.xhtml%3FsectionNum%3D245.6.%26lawCode%3DPEN&data=05%7C02%7Cnsteen%40middlebury.edu%7Cf200a492a41b427480d008ddfd249482%7Ca1bb0a191576421dbe93b3a7d4b6dcaa%7C1%7C0%7C638945055746061215%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C4000%7C%7C%7C&sdata=uyrvvDiB6CJKKNdraO5V8YrhG85MRKIHxrEhqpWXDB0%3D&reserved=0) states it shall be unlawful to engage in hazing and defines “hazing” as “any method of initiation or pre-initiation into a student organization or student body, whether or not the organization or body is officially recognized by an educational institution, which is likely to cause physical harm, to any former, current, or prospective student of any school, community college, college, university or other educational institution in this state. “Hazing” does not include customary and ordinary athletic events or school sanctioned events.”
+
+Supporting California Education Code anti-hazing laws:  [Stop Campus Hazing Act](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fleginfo.legislature.ca.gov%2Ffaces%2FbillCompareClient.xhtml%3Fbill_id%3D202320240AB2193%26showamends%3Dfalse&data=05%7C02%7Cnsteen%40middlebury.edu%7Cf200a492a41b427480d008ddfd249482%7Ca1bb0a191576421dbe93b3a7d4b6dcaa%7C1%7C0%7C638945055746084090%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C4000%7C%7C%7C&sdata=%2F0uLlbes8JaoGZ0jFzM4qOq6OYaJGYBVxW0rmIwbPj0%3D&reserved=0)
+
+**10\. Statement of Policy Regarding Hazing Prevention and Awareness Programs**
 
 Through the publication of this Policy Against Hazing and its awareness and prevention programs related to hazing, Middlebury seeks to promote understanding and intolerance of prohibited hazing behaviors in the Middlebury community.
 
