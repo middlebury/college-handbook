@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/h-information-technology/h-3-privacy-and-security-policy
 title: H.3. Privacy and Security Policy
-date: 12/11/2024
+date: 09/26/2025
 ---
 ## PURPOSE
 
@@ -13,7 +13,7 @@ This policy applies to all students, faculty, and staff, as well as retirees, em
 
 ## Definitions
 
-Please refer to H.1 Information Technology - Overview for explanations of phrases and terms used throughout the Information Technology policies. 
+Please refer to [H.1 Information Technology - Overview](https://handbook.middlebury.edu/pages/i-policies-for-all/h-information-technology/h-1-info-tech-overview/) for explanations of phrases and terms used throughout the Information Technology policies. 
 
 ## Policy
 
@@ -27,7 +27,7 @@ By choosing to interact with Middlebury technology services, including with your
 
 ### Protecting Privacy
 
-Per Middlebury’s Information Technology Responsible Use Policy, you are obligated to protect sensitive information that you have access to and you must not abuse your privileges to access sensitive information for reasons other than fulfilling your official responsibilities. See: Information Technology Responsible Use Policy and [Banner Security Procedures.](https://www.middlebury.edu/information-technology-services/policies/information-security-policies/banner-security-procedures) 
+Per Middlebury’s Information Technology Responsible Use Policy, you are obligated to protect sensitive information that you have access to and you must not abuse your privileges to access sensitive information for reasons other than fulfilling your official responsibilities. See: [Information Technology Responsible Use Policy](https://handbook.middlebury.edu/pages/i-policies-for-all/h-information-technology/h-2-responsible-use-policy/) and [Banner Security Procedures.](https://www.middlebury.edu/information-technology-services/policies/information-security-policies/banner-security-procedures) 
 
 ### Marketing Data
 
