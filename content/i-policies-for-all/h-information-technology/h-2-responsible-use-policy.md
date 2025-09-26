@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/h-information-technology/h-2-responsible-use-policy
 title: H.2. Responsible Use Policy
-date: 12/11/2024
+date: 09/26/2025
 ---
 ## PURPOSE
 
@@ -9,15 +9,15 @@ The Information Technology Policy promotes innovation within the framework of et
 
 ## DEFINITIONS
 
-Please refer to H.1 Information Technology Overview for explanations of phrases and terms used throughout the Information Technology policies. 
+Please refer to [H.1 Information Technology Overview](https://handbook.middlebury.edu/pages/i-policies-for-all/h-information-technology/h-1-info-tech-overview/) for explanations of phrases and terms used throughout the Information Technology policies. 
 
-## SCOPE 
+## SCOPE
 
 This policy applies to all students, faculty, and staff, as well as retirees, emeriti, contractors, guests, alumni, parents, and other parties authorized to interact with Middlebury’s technology services.
 
 ## POLICY
 
-## Your Responsibilities 
+## Your Responsibilities
 
 As a member of the Middlebury community and a Middlebury account holder interacting with Middlebury’s technology services, you must understand and adhere to these policies. Failure to comply may result in penalties, such as losing privileges to use technology services or facing disciplinary or legal action.
 
@@ -29,11 +29,11 @@ For additional guidance, please see these related Handbook policies: [Respectful
 
 **Authentication Credentials:** Keep your login details private. Don’t share your passwords. Don’t use your Middlebury password as the password for anything else. Authentication credentials are considered sensitive information. See [Password Policy](https://www.middlebury.edu/information-technology-services/policies/information-security-policies/password-policy) for more details.
 
-**Respect and Privacy:** Respect the rights and privacy of others. Accessing other people’s data, files, or communications without permission is prohibited. Only access sensitive information necessary to fulfill your responsibilities. Do not leverage your account to access sensitive data unrelated to your Middlebury duties. Harassment, doxing (revealing private information without consent), and creating public nuisances by, as an example, making inappropriate posts to social media or mass emails are prohibited. 
+**Respect and Privacy:** Respect the rights and privacy of others. Accessing other people’s data, files, or communications without permission is prohibited. Only access sensitive information necessary to fulfill your responsibilities. Do not leverage your account to access sensitive data unrelated to your Middlebury duties. Harassment, doxxing/doxing (revealing private information without consent), and creating public nuisances by, as an example, making inappropriate posts to social media, are prohibited. 
 
 **Personal and Commercial Use:** You may make limited use of Middlebury’s technology services for personal purposes, consistent with this policy, though it is discouraged. It is better to keep your personal digital life separate from your Middlebury digital life. Don’t use Middlebury technology services to handle your own sensitive personal information, such as taxes or medical records, or for reasons unrelated to Middlebury business. You may not use Middlebury telephone services for personal international long distance calls. You may not use Middlebury’s technology services for commercial purposes or personal financial gain. 
 
-**Use of Personally Owned Devices:** You may use personally owned devices to interact with Middlebury technology services, in compliance with this policy and subject to restrictions depending on the nature of your work. Middlebury may need access to data on your personal devices in the event of a legal or conduct investigation, or to preserve operational continuity. Refer to the Security and Privacy for information.
+**Use of Personally Owned Devices:** You may use personally owned devices to interact with Middlebury technology services, in compliance with this policy and subject to restrictions depending on the nature of your work. Middlebury may need access to data on your personal devices in the event of a legal or conduct investigation, or to preserve operational continuity. Refer to the [Privacy and Security Policy](https://handbook.middlebury.edu/pages/i-policies-for-all/h-information-technology/h-3-privacy-and-security-policy/) for additional information.
 
 **Copyright and Content Use:** Don’t copy or distribute copyrighted material without permission. Follow copyright laws and institutional policies when posting content on Middlebury websites. 
 
