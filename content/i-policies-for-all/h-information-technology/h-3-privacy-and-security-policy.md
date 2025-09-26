@@ -31,7 +31,7 @@ Per Middlebury’s Information Technology Responsible Use Policy, you are obliga
 
 ### Marketing Data
 
-Middlebury will not share your personal data to third-parties for marketing purposes. Data is collected for the purposes outlined below. For additional information on website analytics, including options to opt-out of website analytic tracking, please refer to the [ITS Website Privacy Policy](https://www.middlebury.edu/about/website-privacy-policy).
+Middlebury will not share your personal data to third-parties for marketing purposes. Data is collected for the purposes outlined below. For additional information on website analytics, including options to opt-out of website analytic tracking, please refer to the [Website Privacy Policy](https://www.middlebury.edu/about/website-privacy-policy).
 
 ### Preservation of Information
 
@@ -100,7 +100,7 @@ Emergency access to information needed to reduce a serious threat to a person’
 
 Other than in an emergency, access to identifiable electronic information in connection with a legal or conduct investigation may be authorized by individual account holder(s) subject to investigation, or the following authorities and/or their official delegates:
 
-<table><tbody><tr><td><strong>Cohort</strong></td><td><strong>Authorizing Senior Leader(s)</strong></td></tr><tr><td>All community members</td><td>Dep. General Counsel<br>General Counsel<br>Chief Risk Officer<br>President</td></tr><tr><td>All staff</td><td>VP for Human Resources<br>EVP for Finance and Administration</td></tr><tr><td>College faculty</td><td>Dean of Faculty<br>VP for Academic Affairs<br>EVP for Academics and Provost</td></tr><tr><td>College students</td><td>VP for Student Affairs<br>Dean of College</td></tr><tr><td>Middlebury Institute faculty</td><td><p>Dean of the Institute</p><p>VP for Academic Affairs<br>EVP for Academics and Provost</p></td></tr><tr><td>Alumni, Parents, and Friends</td><td>VP for Advancement</td></tr><tr><td>Faculty and Students of the Schools</td><td>VP for Academic Affairs<br>Dean of the Schools</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Cohort</strong></td><td><strong>Authorizing Senior Leader(s)</strong></td></tr><tr><td>All community members</td><td>General Counsel<br>Chief Risk Officer<br>Deputy General Counsel<br>President</td></tr><tr><td>All staff</td><td>VP for Human Resources<br>EVP for Finance and Administration</td></tr><tr><td>College faculty</td><td>Dean of Faculty<br>VP for Academic Affairs<br>EVP and Provost</td></tr><tr><td>College students</td><td>VP for Student Affairs<br>Dean of College</td></tr><tr><td>Middlebury Institute faculty</td><td>Dean of the Institute<br>VP for Academic Affairs<br>EVP and Provost</td></tr><tr><td>Alumni, Parents, and Friends</td><td>VP for Advancement</td></tr><tr><td>Faculty and Students of the Schools</td><td>VP for Academic Affairs<br>Dean of the Schools</td></tr></tbody></table>
 
 ITS will notify the senior leader about a pending need for authorization. The senior leader is responsible for weighing the needs of Middlebury against the privacy interests of the individual, in the context of applicable legal restrictions, and may take into consideration technological tools utilizing non-consumptive or data analytical techniques. Senior leaders may consult with the General Counsel and others as needed. Information provided under this exception will be limited to the information that is necessary to effectuate the institution’s purpose and must be maintained as confidential to the maximum extent possible.
 
