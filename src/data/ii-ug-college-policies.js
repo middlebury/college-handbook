@@ -185,14 +185,6 @@ export const ugCollegePoliciesNodes = [
                   "ii-ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies",
                 label: "B.2.f. Residential Life Policies",
                 className: "residential-life-policies",
-                children: [
-                  {
-                    value:
-                      "ii-ug-college-policies/ug-policies/res-life-conduct-policies/residential-life-policies/apprv-furniture",
-                    label: "Approved Furniture",
-                    className: "apprv-furniture",
-                  },
-                ],
               },
               {
                 value:
