@@ -36,7 +36,8 @@ _**Lorem**_, ipsum [dolor sit](https://www.middlebury.edu) amet **consectetur** 
 
 ---
 
-| header | header | header |
-| ------ | ------ | ------ |
-| 1      | 2      | 3      |
-| 4      | 5      | 6      |
+|            |            |            |
+| ---------- | ---------- | ---------- |
+| **header** | **header** | **header** |
+| 1          | 2          | 3          |
+| 4          | 5          | 6          |
