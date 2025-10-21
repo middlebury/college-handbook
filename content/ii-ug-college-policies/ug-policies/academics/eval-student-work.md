@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/eval-student-work
 title: B.1.j. Evaluation of Student Work
-date: 2021-05-01
+date: 10/21/2025
 ---
 **1. Evaluation of Student Work**
 
