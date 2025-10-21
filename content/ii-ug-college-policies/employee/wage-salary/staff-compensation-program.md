@@ -1,15 +1,14 @@
 ---
 slug: /pages/ii-ug-college-policies/employee/wage-salary/staff-compensation-program
 title: 6.1 Staff Compensation Program
-date: 2021-05-01
+date: 10/21/2025
 ---
-The compensation team evaluates pay practices and market conditions, participates in surveys, and supports managers and the HR department with position classification, position descriptions, and salary recommendations.
+The compensation team evaluates pay practices, conducts annual market analyses, participates in compensation surveys, and supports managers and Human Resources with position descriptions, job analysis, and compensation recommendations. Positions at Middlebury are placed into grades based upon market benchmarking and internal review. Each grade includes multiple skill matrix levels, each with a corresponding salary.
 
-Positions at Middlebury are grouped according to content in one of four career bands. Within each band, there are multiple levels with salary ranges associated with them. Middlebury College is committed to maintaining a competitive staff compensation program in order to attract and retain the most qualified employees.
+Middlebury College is committed to maintaining a compensation program that attracts, retains, and rewards a qualified and diverse workforce.  As outlined in the Compensation Administration Guidelines, the program is guided by the following framework for determining compensation:
 
-As described in the Administrative Guidelines, the College's program relies on the tools below for assigning positions to a Career Band and Level.
-
-*   [Career Band Definitions](/assets/careerbanddefinitions.pdf)
-*   [Job Content Framework](/assets/jobcontentframework.pdf)
-*   [Job Description Review Process](https://www.middlebury.edu/offices/business/hr/comp/review)
-*   [Ranges](/assets/middlebury-staff-pay-ranges-.pdf)
+* [Role](https://www.middlebury.edu/human-resources/role)
+* [Individual](https://www.middlebury.edu/human-resources/individual)
+* [Discretion](https://www.middlebury.edu/human-resources/discretion)
+* [Pay Grades](https://www.middlebury.edu/human-resources/self-service-resources/staff-compensation-program/pay-grades)
+* [Skill Matrix Ranges](https://www.middlebury.edu/human-resources/self-service-resources/staff-compensation-program/pay-grades/skill-matrix-ranges)
