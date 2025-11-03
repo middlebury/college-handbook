@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/deg-prgms-proj
 title: B.1.e. Degree Programs & Projects
-date: 07/22/2025
+date: 11/03/2025
 ---
 #### **A. First-year Student Seminars and College Writing Courses** {#first}
 
@@ -21,7 +21,7 @@ Independent study courses (0500 and above) do not qualify for distribution requi
 
 Students must take at least one course in seven of eight academic categories described below. Single courses can be listed with two distribution categories. A student may count a single course in no more than one academic category requirement. Courses taken under the Pass/D/Fail option (before Fall 2022) or the Credit/No-Credit option (Fall 2022 or later) may not be used to satisfy distribution, College Writing, First Year Seminar, or cultures and civilizations requirements.
 
-**1\. Academic Categories**
+**1. Academic Categories**
 
 **a. Literature (LIT)**
 
@@ -55,7 +55,7 @@ This category deals with the analysis of the individual in society. Courses in t
 
 Speaking, listening, reading, and writing in a language other than one's own exercise and expand the mind. Because of the close interdependence between language and culture, study of a foreign language helps one gain insights into other societies and ultimately one's own. Courses in this category include many, but not all, of those taught in a foreign language or which focus on texts in a foreign language.
 
-#### **2\. Cultures and Civilizations Requirement** {#cultures}
+#### **2. Cultures and Civilizations Requirement** {#cultures}
 
 Middlebury College believes that students should 1) have educational exposure to the variety of the world's cultures and civilizations, where these terms are broadly understood to intersect with geography, history, ethnicity, gender and other factors, and 2) engage critically with sameness, difference, culture, and perspective. These goals are integral to most of the academic disciplines represented in the curriculum.
 
@@ -89,8 +89,8 @@ Students choose one of the following programs of study:
 
 (d) 2 majors\* (_either 2 departmental or one departmental and one interdisciplinary\*\*_), no minor.
 
-\*_A student who has declared two majors will have to choose to complete only one major should scheduling conflicts occur._  
-\*\*_Majors considered interdisciplinary include: American Studies; Black Studies; Environmental Studies; Gender, Sexuality, and Feminist Studies; International and Global Studies; International Politics and Economics; Molecular Biology and Biochemistry; and Neuroscience._
+\*_A student who has declared two majors will have to choose to complete only one major should scheduling conflicts occur._
+\*\*_Majors considered interdisciplinary include: American Studies; Black Studies; Environmental Studies; International and Global Studies; International Politics and Economics; Molecular Biology and Biochemistry; and Neuroscience._
 
 A major requires a minimum of 10 fall and spring semester credits. Students may take no more than 16 fall and spring semester credits and, in addition, no more than two winter term and summer study courses, combined, in a major department or program (one of which may be senior work).
 
