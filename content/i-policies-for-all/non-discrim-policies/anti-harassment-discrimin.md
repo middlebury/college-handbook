@@ -1,13 +1,13 @@
 ---
 slug: /pages/i-policies-for-all/non-discrim-policies/anti-harassment-discrimin
 title: B.1.b. Non-Discrimination Investigations & Resolutions Procedure
-date: 09/05/2025
+date: 11/06/2025
 ---
 NOTE: This Procedure is effective August 1, 2024, and does not apply retroactively. For Prohibited Conduct allegedly occurring before August 1, 2024, the College will apply the definition of Prohibited Conduct and procedures in place at the time of the alleged conduct.[\[a\]](https://handbook.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/b-1-b-1-title-ix-investigation-resolutions-policy/#a) For Prohibited Conduct allegedly occurring on or after August 1, 2024, the definition of Prohibited Conduct and procedures set forth in this Procedure will apply, to the fullest extent permitted by applicable law. Middlebury retains discretion to make appropriate adjustments to promote fairness and consistency. The Parties will be notified in advance of any proceedings which definition(s) and procedures apply.
 
 ---
 
- \[a\] The policies and procedures that were in effect immediately prior to the effective date of the current policies and procedures can be found [here](https://handbook.middlebury.edu/assets/2020-2024-non-discrimination-policies-and-procedures.pdf).
+ \[a] The policies and procedures that were in effect immediately prior to the effective date of the current policies and procedures can be found [here](https://handbook.middlebury.edu/assets/2020-2024-non-discrimination-policies-and-procedures.pdf).
 
 ---
 
@@ -33,22 +33,22 @@ In addition, as will be described below, Middlebury employees who learn of poten
 
 Any person who believes that they have been impacted by a violation of the Non-Discrimination Policy, or who has reason to believe that one has occurred or is occurring, should report this information to the immediate attention of the CRTIX Coordinator or to the Deputy Civil Rights and Title IX Coordinator (“Deputy CRTIX Coordinator”) at:
 
-**Butterfly Blaise Boire**  
-Civil Rights and Title IX Coordinator  
-Middlebury College  
-Service Building, Room 213  
-84 S Service Rd  
-Middlebury, VT 05753  
-(802) 443-2147  
+**Butterfly Blaise Boire**
+Civil Rights and Title IX Coordinator
+Middlebury College
+Service Building, Room 213
+84 S Service Rd
+Middlebury, VT 05753
+(802) 443-2147
 [bboire@middlebury.edu](mailto:bboire@middlebury.edu)
 
-**Taryn Moran**  
-Deputy Civil Rights and Title IX Coordinator  
-Middlebury College  
-Service Building, Room 218  
-84 S Service Rd  
-Middlebury, VT 05753  
-(802) 443-5840  
+**Taryn Moran**
+Deputy Civil Rights and Title IX Coordinator
+Middlebury College
+Service Building, Room 218
+84 S Service Rd
+Middlebury, VT 05753
+(802) 443-5840
 [tarynm@middlebury.edu](mailto:tarynm@middlebury.edu)
 
 You may also report to [knowyourrights@middlebury.edu](mailto:knowyourrights@middlebury.edu), by using the online reporting tool at _go/report_, or by visiting this [link to the official reporting form](https://docs.google.com/forms/d/e/1FAIpQLScdGEC6GzlLWXjerzahQSXdisBMProfp4Wj0ry-Pk9dYQYX5w/viewform).
@@ -59,18 +59,18 @@ Middlebury’s CRTIX office staff also includes Human Relations Officers (“HRO
 
 Some members of the Middlebury community have legal obligations or privileges not to disclose information that is shared with them in their professional capacities.  These individuals are “Confidential Resources” who can be told about potential Non-Discrimination Policy violations in a confidential manner—meaning, they will not share with anyone else (including CRTIX) the information that has been disclosed to them in a way that identifies a reporting Party or the individuals involved in an incident of Prohibited Conduct (unless they are requested to by the reporting Party or a legal obligation requires it). Confidential Resources[\[5\]](#_ftn5) include:
 
-*   Medical and support staff at the Middlebury Center for Health & Wellness (including SANE nurses)
-*   Counseling Services
-*   MiddCare
-*   Chaplains within the Scott Center
+* Medical and support staff at the Middlebury Center for Health & Wellness (including SANE nurses)
+* Counseling Services
+* MiddCare
+* Chaplains within the Scott Center
 
 In addition, an employee of Middlebury who is conducting an Institutional Review Board-approved human-subjects research study designed to gather information about protected characteristic based discrimination and harassment is a Confidential Resource. The employee’s confidential status, however, is only with respect to information received while conducting the study.
 
 Confidential Resources must explain to any reporting Party who describes conduct that reasonably may constitute Prohibited Conduct:
 
-*   The Confidential Resource’s status as confidential for purposes of this Procedure, and that they will not report information about conduct that reasonably may constitute Prohibited Conduct to CRTIX without the reporting Party’s permission;
-*   How to contact CRTIX and how to make a complaint of Prohibited Conduct; and
-*   That CRTIX may be able to offer and coordinate supportive measures, as well as initiate an informal resolution process or an investigation under Middlebury policy and procedures.
+* The Confidential Resource’s status as confidential for purposes of this Procedure, and that they will not report information about conduct that reasonably may constitute Prohibited Conduct to CRTIX without the reporting Party’s permission;
+* How to contact CRTIX and how to make a complaint of Prohibited Conduct; and
+* That CRTIX may be able to offer and coordinate supportive measures, as well as initiate an informal resolution process or an investigation under Middlebury policy and procedures.
 
 Individuals who report incidents of discrimination and harassment to Confidential Resources should be aware that in certain limited circumstances, confidentiality may not be absolute.[\[6\]](#_ftn6) 
 
@@ -130,8 +130,8 @@ For those matters that require additional steps by CRTIX—i.e., matters where s
 
 The HRO (or designee) conducts an initial evaluation, for the purpose of determining whether an investigation can proceed, in which they assess:
 
-1.  Whether the Respondent and the alleged conduct are under Middlebury’s authority; and
-2.  Whether the alleged conduct, if shown by a preponderance of the evidence to have actually occurred, could be a violation of the Non-Discrimination Policy[\[9\]](#_ftn9)
+1. Whether the Respondent and the alleged conduct are under Middlebury’s authority; and
+2. Whether the alleged conduct, if shown by a preponderance of the evidence to have actually occurred, could be a violation of the Non-Discrimination Policy[\[9\]](#_ftn9)
 
 The HRO (or designee) may seek to obtain sufficient additional information to make this evaluation if the information available is insufficient on its own to allow for these assessments to be accurately made.
 
@@ -139,14 +139,14 @@ If the HRO (or designee) determines that both factors have been met and thus tha
 
 Middlebury’s obligation to respond to reported Prohibited Conduct occurring in its programs and activities may necessitate CRTIX to investigate even in situations where a Reporting Individual has not requested an investigation or has indicated that they do not wish to proceed with an investigation. The CRTIX Coordinator retains the discretion as to whether an investigation is initiated. The CRTIX Coordinator will consider, at a minimum, the following factors:
 
-1.  The severity of the alleged violation, including whether the violation, if established, would require the removal of a Respondent from campus or imposition of another disciplinary sanction to end the violation and prevent its recurrence;
-2.  The risk that additional violations would occur if an investigation is not initiated;
-3.  The scope of the alleged violation, including information suggesting a pattern, ongoing violations, or impacts to multiple individuals;
-4.  The age and relationship of the Parties, including whether the Respondent is an employee;
-5.  The availability of evidence to assist a decision-maker in determining whether a violation occurred;
-6.  The Reporting Individual’s request not to proceed with initiation of an investigation;
-7.  The Reporting Individual’s reasonable safety concerns regarding initiation of an investigation; and
-8.  Whether other options exist to end the violation and prevent its recurrence without initiating an investigation.
+1. The severity of the alleged violation, including whether the violation, if established, would require the removal of a Respondent from campus or imposition of another disciplinary sanction to end the violation and prevent its recurrence;
+2. The risk that additional violations would occur if an investigation is not initiated;
+3. The scope of the alleged violation, including information suggesting a pattern, ongoing violations, or impacts to multiple individuals;
+4. The age and relationship of the Parties, including whether the Respondent is an employee;
+5. The availability of evidence to assist a decision-maker in determining whether a violation occurred;
+6. The Reporting Individual’s request not to proceed with initiation of an investigation;
+7. The Reporting Individual’s reasonable safety concerns regarding initiation of an investigation; and
+8. Whether other options exist to end the violation and prevent its recurrence without initiating an investigation.
 
 **III.    Closure Based on HRO Evaluation**
 
@@ -164,13 +164,13 @@ Based upon their evaluation of the matter, the HRO will determine which allegati
 
 Once CRTIX has determined the scope of the investigation, the CRTIX Coordinator will ordinarily issue a written notice to the Parties,[\[10\]](#_ftn10) along with a copy of the Non-Discrimination Policy and this Procedure. The notice will indicate that Middlebury is investigating the possibility that the Respondent has violated the Non-Discrimination Policy using this Procedure and will ordinarily include:
 
-*   Specific information about the investigation and adjudication process that is applicable to the matter;
-*   A statement of the allegations of behavior potentially constituting a violation of the Non-Discrimination Policy, including sufficient details known at the time. Sufficient details include the identities of the Parties involved in the incident, if known, the conduct allegedly constituting a violation of the Non-Discrimination Policy, and the date and location of the alleged incident, if known;
-*   A statement that retaliation is prohibited;
-*   The specific policies and offenses implicated by the alleged conduct;
-*   A statement that Middlebury’s Non-Discrimination Policy prohibits knowingly making false statements, including knowingly submitting false information during the investigation and adjudication process; and
-*   The name of the investigator, along with information about the process to notify the CRTIX Coordinator of any conflict of interest that the investigator may have in advance of the interview process.
-*   The Notice Letter may be amended as appropriate during the course of the investigation.
+* Specific information about the investigation and adjudication process that is applicable to the matter;
+* A statement of the allegations of behavior potentially constituting a violation of the Non-Discrimination Policy, including sufficient details known at the time. Sufficient details include the identities of the Parties involved in the incident, if known, the conduct allegedly constituting a violation of the Non-Discrimination Policy, and the date and location of the alleged incident, if known;
+* A statement that retaliation is prohibited;
+* The specific policies and offenses implicated by the alleged conduct;
+* A statement that Middlebury’s Non-Discrimination Policy prohibits knowingly making false statements, including knowingly submitting false information during the investigation and adjudication process; and
+* The name of the investigator, along with information about the process to notify the CRTIX Coordinator of any conflict of interest that the investigator may have in advance of the interview process.
+* The Notice Letter may be amended as appropriate during the course of the investigation.
 
 **C.      Appointment of an Investigator**
 
@@ -216,9 +216,9 @@ The HRO will prepare a written determination explaining the rationale behind the
 
 Appeals of dismissals and of HRO determinations regarding responsibility are permitted.[\[20\]](#_ftn20) Appeals of closures based on the HRO’s evaluation (see Section D.III. above) are permitted but only in those matters where the Reporting Individual had specifically requested CRTIX to open an investigation. Appeal grounds are strictly limited to the following bases:
 
-*   Procedural irregularity that affected the outcome of the matter;
-*   New evidence has become available that could affect the outcome of the matter and that was not reasonably available at the time the determination regarding responsibility, the dismissal, or the closure after initial evaluation was made; and/or
-*   The CRTIX Coordinator (or designee), investigator, or decision-maker (HRO) had a disqualifying conflict of interest or bias for or against Reporting Individuals or Respondents generally, or the individual Reporting Individual or Respondent, that affected the outcome of the matter
+* Procedural irregularity that affected the outcome of the matter;
+* New evidence has become available that could affect the outcome of the matter and that was not reasonably available at the time the determination regarding responsibility, the dismissal, or the closure after initial evaluation was made; and/or
+* The CRTIX Coordinator (or designee), investigator, or decision-maker (HRO) had a disqualifying conflict of interest or bias for or against Reporting Individuals or Respondents generally, or the individual Reporting Individual or Respondent, that affected the outcome of the matter
 
 Appeals must be submitted in writing to the CRTIX Coordinator within 5 business days[\[21\]](#_ftn21) of the applicable CRTIX action, must articulate one of the permissible bases for appeal, and must provide information or evidence to support the appealing Party’s argument.
 
@@ -228,9 +228,9 @@ Regardless of which Party appeals, both Parties may participate in the appeals p
 
 The appellate decision-maker may deny the appeal, or if one or more of the appeal grounds have been met, may:
 
-*   Return the case to CRTIX for action;
-*   return the case to the original HRO for reconsideration; or
-*   appoint an alternate HRO to review the case for potential re-adjudication (if the original outcome was materially altered by bias or conflict of interest on the part of the adjudicating HRO).
+* Return the case to CRTIX for action;
+* return the case to the original HRO for reconsideration; or
+* appoint an alternate HRO to review the case for potential re-adjudication (if the original outcome was materially altered by bias or conflict of interest on the part of the adjudicating HRO).
 
 It is the responsibility of the appellate decision-maker to determine which aspects of the case merit a new review, and to direct the CRTIX office or HRO accordingly.
 
@@ -274,14 +274,14 @@ If the adjudicating HRO determines that the investigation has produced insuffici
 
 In determining sanctions or other actions, the sanctioning authority will be guided by a number of considerations, including but not limited to the following:
 
-*   The severity, pervasiveness, and objective offensiveness of the behavior;
-*   The nature of the violation;
-*   The impact of the violation on the Reporting Individual;
-*   The impact or implications of the violation within the Middlebury community;
-*   Any prior misconduct by the Respondent, including the Respondent’s relevant prior conduct history, at Middlebury or elsewhere;
-*   Whether the Respondent has accepted responsibility for the violation;
-*   The maintenance of a safe, nondiscriminatory and respectful environment conducive to living, learning, and working, as applicable; and
-*   Any other mitigating, aggravating, or compelling factors.
+* The severity, pervasiveness, and objective offensiveness of the behavior;
+* The nature of the violation;
+* The impact of the violation on the Reporting Individual;
+* The impact or implications of the violation within the Middlebury community;
+* Any prior misconduct by the Respondent, including the Respondent’s relevant prior conduct history, at Middlebury or elsewhere;
+* Whether the Respondent has accepted responsibility for the violation;
+* The maintenance of a safe, nondiscriminatory and respectful environment conducive to living, learning, and working, as applicable; and
+* Any other mitigating, aggravating, or compelling factors.
 
 2.       Sanctions and other actions will go into effect at either the expiration of the deadline for the submission of an appeal where no appeal is submitted, or at the conclusion of the appeal process if applicable.[\[24\]](#_ftn24) This language does not preclude the possibility of emergency action as needed in accordance with Section C.II.
 
@@ -297,11 +297,11 @@ In determining sanctions or other actions, the sanctioning authority will be gui
 
 **E.       Recommendation of Steps to Ensure that Violations do not Continue or Recur**
 
-1.  In any case where the adjudicating HRO determines that a violation of the Non-Discrimination Policy occurred that cannot be attributed solely to the actions of an identifiable Respondent, the adjudicating HRO will identify appropriate prompt and effective steps to ensure that violations of the Non-Discrimination Policy do not continue or recur within the Middlebury programs or activities reviewed during the investigation.
-2.  When the adjudicating HRO determines that remedial actions under this section must be implemented, the HRO will notify the Vice President(s) with oversight of the programs or activities reviewed during the investigation that a violation of the Non-Discrimination Policy has been found by providing a copy of the full determination prepared in accordance with Section D.IV, and will also provide a copy of the determination to the General Counsel, Chief Risk Officer and the Vice President of the Office of Institutional Diversity, Equity, and Inclusion.
-3.  The relevant Vice President(s) will identify relevant employees with knowledge and oversight of the program or activity at issue and direct that they promptly meet with the adjudicating HRO to discuss feasible steps to address the violation of the Non-Discrimination Policy found by the adjudicating HRO.
-4.  After consulting with the identified employees, the adjudicating HRO will provide the Vice President(s) with a list of remedial actions, which may include policy or practice changes and other steps designed to ensure that violations of the Non-Discrimination Policy do not continue or recur within the Middlebury programs or activities reviewed during the investigation. A copy of the remedial actions will also be provided to the General Counsel, Chief Risk Officer and the Vice President of the Office of Institutional Diversity, Equity, and Inclusion.
-5.  The recommended steps will include time frames for progress reporting on implementation that must be adhered to by the employees tasked with implementing the recommendations.
+1. In any case where the adjudicating HRO determines that a violation of the Non-Discrimination Policy occurred that cannot be attributed solely to the actions of an identifiable Respondent, the adjudicating HRO will identify appropriate prompt and effective steps to ensure that violations of the Non-Discrimination Policy do not continue or recur within the Middlebury programs or activities reviewed during the investigation.
+2. When the adjudicating HRO determines that remedial actions under this section must be implemented, the HRO will notify the Vice President(s) with oversight of the programs or activities reviewed during the investigation that a violation of the Non-Discrimination Policy has been found by providing a copy of the full determination prepared in accordance with Section D.IV, and will also provide a copy of the determination to the General Counsel and Chief Risk Officer.
+3. The relevant Vice President(s) will identify relevant employees with knowledge and oversight of the program or activity at issue and direct that they promptly meet with the adjudicating HRO to discuss feasible steps to address the violation of the Non-Discrimination Policy found by the adjudicating HRO.
+4. After consulting with the identified employees, the adjudicating HRO will provide the Vice President(s) with a list of remedial actions, which may include policy or practice changes and other steps designed to ensure that violations of the Non-Discrimination Policy do not continue or recur within the Middlebury programs or activities reviewed during the investigation. A copy of the remedial actions will also be provided to the General Counsel and Chief Risk Officer.
+5. The recommended steps will include time frames for progress reporting on implementation that must be adhered to by the employees tasked with implementing the recommendations.
 
 ---
 
