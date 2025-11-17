@@ -101,7 +101,7 @@ iv. Warned, asked to leave, refuses and/or must be escorted or arrested by law e
 
 v. Removed, including by arrest, due to physical violence against another person or property damage: _Range is ordinarily from suspension to expulsion_.
 
-For more information on the interpretation and enforcement of the [Open Expression Policy](/pages/i-policies-for-all/genl-principles/freedom-of-expression) and these Regulations, please see the related [Frequently Asked Questions](https://www.middlebury.edu/about/open-expression/faqs) and [Resources](https://www.middlebury.edu/about/open-expression/speech-inclusion-resources).
+For more information on the interpretation and enforcement of the [Open Expression Policy](/pages/i-policies-for-all/genl-principles/freedom-of-expression) and these Regulations, please see the related [Frequently Asked Questions](static/assets/faq-about-open-expression-clean-11-17-2025.pdf) and [Resources](https://www.middlebury.edu/about/open-expression/speech-inclusion-resources).
 
 _Effective 11-21-19_
 
