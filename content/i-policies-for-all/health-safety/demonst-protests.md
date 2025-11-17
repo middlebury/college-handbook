@@ -1,13 +1,13 @@
 ---
 slug: /pages/i-policies-for-all/health-safety/demonst-protests
 title: C.4. Demonstration and Protest Regulations
-date: 2024-08-28
+date: 11/17/2025
 ---
 In keeping with Middlebury’s Open Expression Policy, these Regulations provide the process for ensuring demonstrations can occur safely and establish Middlebury’s time, place and manner requirements. These time, place and manner requirements are intended to ensure safety and protect Middlebury’s ability to fulfill its essential operations, especially its educational functions. Essential operations are operations that are necessary for the daily or regular operation of Middlebury to support and carry out our educational mission and typically cannot be easily moved to another location. For example, teaching and attending classes, maintaining heat and power to the campus, supporting campus events and activities, providing meals to students in residence, clearing snow and ice, are examples of some of Middlebury’s essential operations.
 
 Middlebury’s mission is to promote intellectual inquiry and exchange in accordance with our three pillars of academic freedom, integrity, and respect. The safety of all participants is of utmost importance to Middlebury, and Event Sponsors as well as individual protestors or demonstrators are obligated to comply with Middlebury requirements designed to protect the safety of our community and to allow Middlebury to maintain its essential operations.
 
-1\. Anyone who wishes to hold a demonstration or protest on Middlebury property, whether or not it is in response to another event, must submit an Event Scheduling Request. This is required in order for Middlebury staff and relevant offices to review the event to determine whether there are safety or other operational considerations that should be addressed. See also [Policy on Scheduling Middlebury Space for Events](https://handbook.middlebury.edu/pages/i-policies-for-all/appropriate-use/d-7-policy-on-scheduling-middlebury-space-for-events/), which applies to all Middlebury locations. For additional information regarding campus-specific procedures, see [Event Management](https://www.middlebury.edu/event-management/event-planning) (Middlebury’s Vermont-based campuses), and [Plan Your Event](https://www.middlebury.edu/institute/events/plan-your-event) (Middlebury Institute of International Studies campus).
+1\. Anyone who wishes to reserve space for a demonstration or protest on Middlebury property, whether or not it is in response to another event, must submit an Event Scheduling Request. This is required in order for Middlebury staff and relevant offices to review the event to determine whether there are safety, logistical, or other operational considerations that should be addressed. Distribution of information without the reservation of space is not an “event” requiring registration. See [Policy on Scheduling Middlebury Space for Events](https://handbook.middlebury.edu/pages/i-policies-for-all/appropriate-use/d-7-policy-on-scheduling-middlebury-space-for-events/), which applies to all Middlebury locations and details on Event Scheduling Requests. For additional information regarding campus-specific procedures, see [Event Management](https://www.middlebury.edu/event-management/event-planning) (Middlebury’s Vermont-based campuses), and [Plan Your Event](https://www.middlebury.edu/institute/events/plan-your-event) (Middlebury Institute of International Studies campus). Individuals are encouraged to consult with Events Management to understand requirements for events, even if they are not requesting to reserve space.
 
 2\. After submitting an Event Scheduling Request, Events Management staff will facilitate a meeting with the Event Sponsor(s), Public Safety (Vermont-based campuses) or Campus Security (Middlebury Institute campus), and other offices, as appropriate, to review Middlebury policies, these Regulations, and safety and operational issues in general. 
 
@@ -105,4 +105,4 @@ For more information on the interpretation and enforcement of the [Open Expressi
 
 _Effective 11-21-19_
 
-_Updated 8-28-24_
+_Updated 11-17-2025_
