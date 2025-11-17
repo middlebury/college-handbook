@@ -1,20 +1,35 @@
 ---
 slug: /pages/i-policies-for-all/appropriate-use/d-7-policy-on-scheduling-middlebury-space-for-events
 title: D.7. Policy on Scheduling Middlebury Space for Events
-date: 03/06/2025
+date: 11/17/2025
 ---
 The following requirements apply to all Middlebury locations, with the College and the Institute having separate meetings of their weekly review teams. The individual or organization requesting to schedule an event affirms that the event is open to all students (or students, faculty & staff, as applicable) and complies with Middlebury’s [Non-Discrimination Policy](https://handbook.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy/). 
 
-1.  Middlebury students, student organizations, individual faculty and staff who wish to request space for an Event are required to submit a request to reserve space at least three (3) weeks prior to the proposed date. An “Event” includes events with invited speakers, events intended to attract more than 30 people, events needing additional resources, events anticipated to have significant community impact, demonstrations, and events with a potential for disruption. This policy is not intended to capture Middlebury’s normal operations such as classes, meetings, athletic practices, rehearsals, etc.
-2.  The reservation request must identify a named individual who is responsible for the activity or event and will be present throughout the entire event, known as the “Event Host”. If the person completing the reservation request is someone other than the Event Host, the named Event Host must still be present at the event.
-3.  Event Hosts are asked at the time of making a space reservation request whether there are any security concerns or unusual support requirements. Events Hosts are ordinarily responsible for the costs of their events.
-4.  Student organizations are required to discuss their events with their faculty or staff advisor and will have to affirm that they have done so during the space reservation process. Events hosted by Student Organizations must be open to all members or all students (or students, faculty and staff, as applicable) in accordance with our [Non-Discrimination Policy](https://handbook.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy/).
-5.  Priority will be given by Events Management to timely requests for appropriate spaces, as well as to key events being organized by Middlebury’s senior leadership.
-6.  Requests for space are reviewed weekly by staff from Student Activities, Event Management, Public Safety/Campus Security, and Communications.
-7.  Exceptions may be made for space requests for activities that present no unusual considerations or security concerns and/or are difficult to schedule more than 3 weeks in advance. Exceptions are made at the initial weekly review.
-8.  The initial safety review will flag space requests for events for which there is a reasonable concern that they will be subject to disruption, threats, violence, acts of intimidation, draw unusually large crowds or otherwise indicate that additional planning is necessary to protect the safety and security of the Middlebury community.
-9.  Space may be held but not be finally confirmed for requests that have been flagged for safety review until the review is completed.
-10.  Requests flagged by the initial review may be reviewed by Public Safety/Campus Security for consideration of an Incident Action Plan, additional information gathering, and/or feedback to the weekly review team.
-11.  If needed, Public Safety/Campus Security may convene the Threat Assessment & Management (TAM) Team on the appropriate campus to gather more information about the proposed event/activity and conduct a risk assessment. The TAM Team will consult with local law enforcement as appropriate, in order to advise the administration, and provide feedback to the weekly review team.
-12.  The TAM Team may require or recommend changes to the location, timing, entry practices, etc. to reduce risks to physical safety as well as to minimize the risk of disruption of essential operations. This review will include consideration of Middlebury’s Emergency Preparedness Plan and the Emergency Operations Plan. The TAM Team may recommend or require the use of additional resources to adequately manage risks of the activity, including activating the Crisis Management Team (CMT).
-13.  In an exceptional case where the review, after application of risk mitigation strategies, indicates that the activity presents an imminent and credible threat to the physical safety of individuals that cannot be adequately mitigated, the president and the senior administration reserve the right to re-schedule or, if necessary, to cancel an event.
+1\. Middlebury students, student organizations, individual faculty and staff who wish to request space for an Event are required to submit a request to reserve space at least three (3) weeks prior to the proposed date. An “Event” includes events with invited speakers, events intended to attract more than 30 people, events needing additional resources, events anticipated to have significant community impact, certain demonstrations, and events with a potential for disruption. Distributing information without reserving space is not an event, unless the group doing the distribution wants to reserve specific space on Middlebury’s campus. This policy is not intended to capture Middlebury’s normal operations such as classes, meetings, athletic practices, rehearsals, etc.
+
+* Our Events Management staff works closely with individuals planning events, including protests or demonstrations, and always seeks to support events that are timely or need to be organized on short notice. Therefore, event organizers are always encouraged to work with Events Management as soon as they begin planning an event, even if it is less than 3 weeks away. 
+* For protests and demonstrations that require a scheduled space, we ask that these requests be submitted at least 2 business days in advance of the anticipated date of the protest or demonstration.
+
+2\. The reservation request must identify a named individual who is responsible for the activity or event and will be present throughout the entire event, known as the “Event Host”. If the person completing the reservation request is someone other than the Event Host, the named Event Host must still be present at the event.
+
+3\. Event Hosts are asked at the time of making a space reservation request whether there are any security concerns or unusual support requirements. Events Hosts are ordinarily responsible for the costs of their events.
+
+4\. Student organizations are required to discuss their events with their faculty or staff advisor and will have to affirm that they have done so during the space reservation process. Events hosted by Student Organizations must be open to all members or all students (or students, faculty and staff, as applicable) in accordance with our [Non-Discrimination Policy](https://handbook.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy/).
+
+5\. Priority will be given by Events Management to timely requests for appropriate spaces, as well as to key events being organized by Middlebury’s senior leadership.
+
+6\. Requests for space are reviewed weekly by staff from Student Activities, Event Management, Public Safety/Campus Security, and Communications.
+
+7\. Exceptions may be made for space requests for activities that present no unusual considerations or security concerns and/or are difficult to schedule more than 3 weeks in advance. Exceptions are made at the initial weekly review.
+
+8\. The initial safety review will flag space requests for events for which there is a reasonable concern that they will be subject to disruption, threats, violence, acts of intimidation, draw unusually large crowds or otherwise indicate that additional planning is necessary to protect the safety and security of the Middlebury community.
+
+9\. Space may be held but not be finally confirmed for requests that have been flagged for safety review until the review is completed.
+
+10\. Requests flagged by the initial review may be reviewed by Public Safety/Campus Security for consideration of an Incident Action Plan, additional information gathering, and/or feedback to the weekly review team.
+
+11\. If needed, Public Safety/Campus Security may convene the Threat Assessment & Management (TAM) Team on the appropriate campus to gather more information about the proposed event/activity and conduct a risk assessment. The TAM Team will consult with local law enforcement as appropriate, in order to advise the administration, and provide feedback to the weekly review team.
+
+The TAM Team may require or recommend changes to the location, timing, entry practices, etc. to reduce risks to physical safety as well as to minimize the risk of disruption of essential operations. This review will include consideration of Middlebury’s Emergency Preparedness Plan and the Emergency Operations Plan. The TAM Team may recommend or require the use of additional resources to adequately manage risks of the activity, including activating the Crisis Management Team (CMT).
+
+12\. In an exceptional case where the review, after application of risk mitigation strategies, indicates that the activity presents an imminent and credible threat to the physical safety of individuals that cannot be adequately mitigated, the president and the senior administration reserve the right to re-schedule or, if necessary, to cancel an event.
