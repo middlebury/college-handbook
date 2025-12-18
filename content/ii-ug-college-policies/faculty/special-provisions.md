@@ -1,14 +1,15 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/special-provisions
-date: 2021-05-01
-title: C.18. Special Provisions of Appointment (associate status, release from contract)
+title: C.18. Special Provisions of Appointment (associate status, release from
+  contract)
+date: 12/18/2025
 ---
 _a. Associate Appointment_
 
-i. Purpose  
+i. Purpose
 Appointment with associate status is designed to allow particular individuals to reduce their teaching responsibilities at the College for limited periods without interrupting their normal employment. The reasons for requesting associate status may include, for example, the need to fulfill familial obligations, the wish to engage more fully in scholarly or artistic projects (or other forms of professional development), or the wish to reduce one's teaching obligations for a few years before retirement.
 
-ii. Conditions  
+ii. Conditions
 With the exception of colleagues nearing retirement (that is, those colleagues who have passed their 60th birthday), faculty on associate status are normally expected to be in residence at the College for the entire academic year and to fulfill normal advising and service responsibilities. Colleagues on associate status who have passed their 60th birthday by September 1 of the academic year in question are required to be in residence during either the fall or spring term. Other faculty members who wish to be excused from normal advising and service responsibilities must apply for a regular leave of absence through the Educational Affairs Committee.
 
 (a) Requests for associate status for purposes of professional development will, if granted, be treated as leaves of absence. Handbook guidelines will govern the eligibility of colleagues granted associate status for future leaves of absence. Tenure-track faculty normally will not be eligible to request associate status for the purpose of professional development until they have undergone a review for tenure. They may request associate status before the tenure review for personal reasons (e.g., familial obligations), however. In the event that a tenure-track faculty's request is approved, the tenure review schedule may be extended one semester for each year on associate status.
@@ -19,9 +20,9 @@ With the exception of colleagues nearing retirement (that is, those colleagues w
 
 (d) Colleagues on associate status will be eligible for travel and research support from the FPDF.
 
-(e) Requests for associate status of whatever sort will be governed by a goal of maintaining from year to year, and over the years, a student/faculty ratio of 9:1\. It should be understood that commitment to a multi-year associate status arrangement may affect the leave patterns of other full-time faculty, both within and beyond the department directly affected by the request.
+(e) Requests for associate status of whatever sort will be governed by a goal of maintaining from year to year, and over the years, a student/faculty ratio of 9:1. It should be understood that commitment to a multi-year associate status arrangement may affect the leave patterns of other full-time faculty, both within and beyond the department directly affected by the request.
 
-iii. Appointment Procedures  
+iii. Appointment Procedures
 A faculty member on regular appointment at any rank may request associate appointment for limited periods of time ranging from a year to a maximum of three years before resuming regular teaching responsibilities. Such requests will be made to the vice president for Academic Affairs and dean of the faculty (VPAA/DoF). The deadline for requesting associate appointment in any given academic year is September 1 of the year prior.
 
 (a) Those requests that seek time off for purposes of professional development will be considered by the Educational Affairs Committee (EAC) as requests for leave without pay. A letter from the department chair and the chairs of any affected programs must accompany each request. This letter should comment upon the proposal and present a strategy for replacing the colleague making the request. Time off or reduced teaching in order to complete a terminal degree will not be considered professional development.
@@ -32,6 +33,6 @@ A faculty member on regular appointment at any rank may request associate appoin
 
 _b. Release from Contractual Obligations_
 
-i. The contract of appointment of a member of the faculty of Middlebury College may not be terminated by the College prior to the expiration of the period of appointment except for adequate cause as specified in section c. below or under extraordinary circumstances because of serious financial emergency.
+i. The contract of appointment of a member of the faculty of Middlebury College may not be terminated by the College prior to the expiration of the period of appointment except for adequate cause as specified in section ii. below or under extraordinary circumstances because of serious financial emergency.
 
-ii. The contract of a member of the faculty may be terminated if the faculty member himself or herself requests release. In order to receive consideration, the request must be presented in writing to the VPAA/DoF, and it should call for an effective date coinciding with the concluding date of the academic year so as to avoid disruption of the work of the College. The request should be dispatched early enough to be in the VPAA/DoF's hand no later than the July 1 preceding the effective date if the faculty member concerned is a professor or associate professor; no later than August 1 if they are an assistant professor or instructor or lecturer. Waiver of these dates may be granted by the VPAA/DoF upon specific request in writing if, in their judgment, compliance with them would impose hardship upon the faculty member.
+ii. The contract of a member of the faculty may be terminated if the faculty member personally requests release. In order to receive consideration, the request must be presented in writing to the VPAA/DoF, and it should call for an effective date coinciding with the concluding date of the academic year so as to avoid disruption of the work of the College. The request should be dispatched early enough to be in the VPAA/DoF's hand no later than the July 1 preceding the effective date if the faculty member concerned is a professor or associate professor; no later than August 1 if they are an assistant professor or instructor or lecturer. Waiver of these dates may be granted by the VPAA/DoF upon specific request in writing if, in their judgment, compliance with them would impose hardship upon the faculty member.
