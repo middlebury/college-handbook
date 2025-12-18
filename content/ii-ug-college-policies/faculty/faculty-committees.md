@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/faculty-committees
 title: C.2. Faculty Councils and Committees
-date: 2021-05-01
+date: 12/18/2025
 ---
 There are eight general councils and committees of the faculty:
 
@@ -33,13 +33,13 @@ Deans and other senior administrators will only serve on committees as designate
 
 Faculty who are scheduled to serve as department chair, program director, or similar administrative role in the coming academic year can request to not appear on committee ballots. If a faculty member is appointed as a chair or program director while still serving on an elected committee, they may request to step down from the committee, leading to a replacement being elected. This does not count as committee amnesty, as chairs and directors are still eligible to serve on non-elected committees.
 
-Any faculty member may request to be exempted from the ballots for elected committees and from selection for standing appointed committees, on an annual basis, for a period of time not to exceed four years in a career. Normally no more than two of these four years may be consecutive.
+Any faculty member may request to be exempted from the ballots for elected committees and from selection for standing appointed committees, on an annual basis, for a period of time not to exceed four years in a career. No more than two of these four years may be consecutive.
 
-To be exempt from committee service during the following year, faculty members must normally notify the Office of the Vice President for Academic Affairs and Dean of the Faculty (VPAA/DoF) by November 1.
+To be exempt from committee service during the following year, faculty members must notify the Dean of the Faculty (DoF) by September 15. Faculty members who are interested in serving on a specific committee should notify the Office of the Dean of the Faculty by the same date. The Dean of Faculty can make exceptions for extenuating circumstances on an individual basis.
 
 If more than 12 percent of the full-time faculty request exemptions for a given year, then the requests will be honored on the basis of seniority, as determined by date of first appointment to the faculty.
 
-Elections for all elected faculty councils and committees will take place online. Balloting for all committees will be conducted online and coordinated by the VPAA/DoF. The VPAA/DoF will determine those members of the faculty, including faculty on leave, who are eligible to vote in the elections.
+Elections for all elected faculty councils and committees will take place online. Balloting for all committees will be conducted online and coordinated by the DoF. The DoF will consult the Handbook to determine those members of the faculty who are eligible to vote in the elections, including faculty on leave, and the members of the faculty who are eligible to be elected.
 
 The online polls for each election will remain open for a minimum of two working days, defined as days on which classes are scheduled, weekdays during the period between Winter Term and the spring semester, or weekdays during the examination period.
 
@@ -95,7 +95,7 @@ For any second or third vacancy on the Reappointments Committee, the election pr
 
 In the event of a tie vote on the preliminary ballot of any election, the names of candidates who received the five highest vote totals will be included on the second ballot.  On the second ballot of any election, in the event of a tie among three or more candidates for first place, a runoff ballot will be issued, listing the names of the tied candidates.  Faculty members may vote for one candidate on the runoff ballot.  The names of the two candidates who received the greatest number of votes on the runoff ballot will appear on the final ballot.  On the second ballot of any election, in the event of a tie among two or more candidates for second place, a runoff ballot will be issued, listing the names of the tied candidates.  Faculty members may vote for one candidate on the runoff ballot.  The name of the candidate who received the greatest number of votes on the runoff ballot will appear on the final ballot, along with the name of the candidate who received the greatest number of votes on the second ballot.
 
-#### **2\. The Faculty Council** {#faculty\_council}
+#### **2. The Faculty Council** {#faculty\_council}
 
 **a.** _**Function**_
 
@@ -139,7 +139,7 @@ For any second, third or fourth tenured vacancy and/or any second pre-tenure vac
 
 In the event of a tie vote on the preliminary ballot of any election, the names of candidates who received the five highest vote totals will be included on the second ballot.  On the second ballot of any election, in the event of a tie among three or more candidates for first place, a runoff ballot will be issued, listing the names of the tied candidates.  Faculty members may vote for one candidate on the runoff ballot.  The names of the two candidates who received the greatest number of votes on the runoff ballot will appear on the final ballot.  On the second ballot of any election, in the event of a tie among two or more candidates for second place, a runoff ballot will be issued, listing the names of the tied candidates.  Faculty members may vote for one candidate on the runoff ballot.  The name of the candidate who received the greatest number of votes on the runoff ballot will appear on the final ballot, along with the name of the candidate who received the greatest number of votes on the second ballot.
 
-#### **3\. Educational Affairs Committee (EAC)** {#eac}
+#### **3. Educational Affairs Committee (EAC)** {#eac}
 
 **a.** _**Function**_
 
@@ -223,14 +223,14 @@ ii. _Administration Committee_
 
 This committee is responsible for reviewing petitions from students for exceptions to certain academic policies and from faculty members for grade changes. Policies overseen by the Administration Committee include but are not limited to the following:
 
-*   course drops after the deadline for exceptional personal circumstances;
-*   reduced course load for exceptional personal circumstances;
-*   invocation of Pass/D/Fail status after the deadline for exceptional personal circumstances;
-*   requests for readmission after academic failure or conduct-related suspension;
-*   reinstatement for the purpose of credit transfer toward the Middlebury degree;
-*   exceptions allowing retaking of courses for which credit was earned;
-*   waivers of residence requirements for first-year Winter Term or senior year for non-medical reasons;
-*   grade change requests from faculty members.
+* course drops after the deadline for exceptional personal circumstances;
+* reduced course load for exceptional personal circumstances;
+* invocation of Pass/D/Fail status after the deadline for exceptional personal circumstances;
+* requests for readmission after academic failure or conduct-related suspension;
+* reinstatement for the purpose of credit transfer toward the Middlebury degree;
+* exceptions allowing retaking of courses for which credit was earned;
+* waivers of residence requirements for first-year Winter Term or senior year for non-medical reasons;
+* grade change requests from faculty members.
 
 The Office of the Registrar may forward to the Administration Committee unusual or unprecedented petitions that fall within the office’s scope of responsibility for which the Registrar requests a Committee decision.
 
@@ -238,10 +238,10 @@ The Administration Committee is composed of two co-chairs, generally a dean from
 
 Middlebury’s academic policies embody the expectations that students are enrolled at Middlebury to pursue their academic degree; that they must adhere responsibly to the policies that support this goal; and that if factors arise that interfere with this goal, they will address them responsibly and/or seek help from Middlebury or external resources in a timely fashion. When evaluating petitions requesting exceptions to these policies, the Committee generally considers the following:
 
-*   the goals of the relevant policies;
-*   the responsibilities of students and of the institution;
-*   the principles of fairness to the petitioner and of fairness to all other affected parties;
-*   the individual circumstances of the petitioner.
+* the goals of the relevant policies;
+* the responsibilities of students and of the institution;
+* the principles of fairness to the petitioner and of fairness to all other affected parties;
+* the individual circumstances of the petitioner.
 
 Petitions may be approved, tabled, or denied. Petitions are tabled when the Committee identifies additional information needed for the evaluation; upon its receipt, the Committee resumes consideration. In cases of denial, petitioners who wish to provide relevant new or clarifying information may resubmit their petition to the Administration Committee for reconsideration.
 
@@ -271,25 +271,25 @@ viii. _Honorary Degree Committee_
 
 Two faculty members will be appointed to serve on the trustee committee that recommends to the president candidates for honorary degrees and Commencement speakers.
 
-#### **4\. Committee on Diversity, Equity, and Inclusion (CDEI)** {#cdei}
+#### **4. Committee on Diversity, Equity, and Inclusion (CDEI)** {#cdei}
 
 **a. Function**
 
 The Committee on Diversity, Equity, and Inclusion is the primary faculty governance body addressing institutional and social diversity in the broadest sense, serving as an independent advocacy group, advisory body, and faculty network for exchange and support of ideas and policies. The committee consults and meets, at least once per academic year, with different entities such as the Senior Leadership Group, the Office of Institutional Diversity, Equity, and Inclusion, the Strategy and Resources Committees, the Alliance for an Inclusive Middlebury, the Admissions Office, the Educational Affairs Committee and its subcommittees (in particular, the Curriculum Committee and Administration Committee). Its activities take two forms: reaching out to the relevant parts of the College to address issues raised among the faculty, and being a resource for various parts of the College to consult for a faculty perspective on diversity. It works to strengthen Middlebury’s commitment to the ideals, practices, and policies with which we collectively seek equity and inclusion across the institution by working with and through other institutional governance structures to provide recommendations that support students, staff and faculty work toward these goals. The committee's areas of attention may include but are not limited to the following:
 
-1)  Faculty Leadership
+1\)  Faculty Leadership
 
 The CDEI represents faculty perspectives on diversity policies and practices, and serves as the institutional connection between the administration and the faculty on issues of diversity, inclusion, and equity. It advocates for opportunities for all faculty members to learn more strategies to address these issues in their teaching, promote a culture of inclusivity, and enhance our potential for institutional transformation. The CDEI meets with the Provost at least once each semester, and with other members of the Senior Leadership Group as necessary. The CDEI also works with the Student Government Association and other relevant student groups (such as the Black Student Union, Women of Color, and Distinguished Men of Color) to ensure open and productive communication between students and faculty around issues pertaining to diversity at Middlebury.
 
-2)  Policy Brokerage
+2\)  Policy Brokerage
 
 The CDEI compiles and expresses faculty concerns and suggestions for transforming Middlebury’s status quo. It serves both as a sounding board for the administration to workshop its ideas for policy changes, and as a loudspeaker for faculty ideas. This brokerage function is particularly important for junior faculty with concerns and good ideas, who may be cautious about asserting themselves while working their way toward tenure.
 
-3)  Communication and Reporting
+3\)  Communication and Reporting
 
 The CDEI occasionally reports on its activities at faculty meetings, in addition to setting an agenda of targets and goals at the beginning of each academic year. It also responds to faculty questions and initiatives relating to issues of racism, diversity, and inclusion as these emerge from these meetings and the other mechanisms of faculty governance. At the end of each academic year, the CDEI will submit a brief report to the faculty on its deliberations and actions, and identify issues for consideration the following year. This report will be included in the minutes of the last plenary session of the faculty.
 
-4)  Outreach
+4\)  Outreach
 
 The CDEI annually engages the College faculty in a discussion of issues of race, diversity, and inclusion, especially as they relate to the College, and solicit faculty input regarding them. Pragmatically, this may take the form of an annual Summit on Diversity and Inclusion. The committee may also sponsor reading groups or lectures on topics related to issues in higher education that warrant consideration by the faculty. It can also keep records, numbers, and data about diversity issues in a centralized and public space, open to all faculty. This resource will solidify our institutional memory and support curricular and institutional innovations.
 
@@ -317,7 +317,7 @@ In the event of a tie vote on the preliminary ballot of any election, the names 
 
 In carrying out its functions, the CDEI may create _ad hoc_ committees comprised of other faculty (and, as necessary, staff members and students) as needed.  The procedures for seeking approval of CDEI initiatives will be dictated by the nature of the initiative, but will follow existing channels for review as appropriate, including but not limited to the SGA, Community Council, Faculty Council, Educational Affairs Committee, and full faculty vote.
 
-#### **5\. The Strategy Committee** {#strategy}
+#### **5. The Strategy Committee** {#strategy}
 
 **a.** _**Function**_
 
@@ -357,7 +357,7 @@ If there is a second vacancy on the Strategy Committee to be filled by election 
 
 In the event of a tie vote on the preliminary ballot of any election, the names of candidates who received the five highest vote totals will be included on the second ballot. On the second ballot of any election, in the event of a tie among three or more candidates for first place, a runoff ballot will be issued, listing the names of the tied candidates. Faculty members may vote for one candidate on the runoff ballot. The names of the two candidates who received the greatest number of votes on the runoff ballot will appear on the final ballot. On the second ballot of any election, in the event of a tie among two or more candidates for second place, a runoff ballot will be issued, listing the names of the tied candidates. Faculty members may vote for one candidate on the runoff ballot. The name of the candidate who received the greatest number of votes on the runoff ballot will appear on the final ballot, along with the name of the candidate who received the greatest number of votes on the second ballot.
 
-#### **6\. The Resources Committee** {#resources}
+#### **6. The Resources Committee** {#resources}
 
 **a.** _**Function**_
 
@@ -399,7 +399,7 @@ If there is a second vacancy on the Resources Committee to be filled by election
 
 In the event of a tie vote on the preliminary ballot of any election, the names of candidates who received the five highest vote totals will be included on the second ballot. On the second ballot of any election, in the event of a tie among three or more candidates for first place, a runoff ballot will be issued, listing the names of the tied candidates. Faculty members may vote for one candidate on the runoff ballot. The names of the two candidates who received the greatest number of votes on the runoff ballot will appear on the final ballot. On the second ballot of any election, in the event of a tie among two or more candidates for second place, a runoff ballot will be issued, listing the names of the tied candidates. Faculty members may vote for one candidate on the runoff ballot. The name of the candidate who received the greatest number of votes on the runoff ballot will appear on the final ballot, along with the name of the candidate who received the greatest number of votes on the second ballot.
 
-#### **7\. The Appeals Council and Appeal Committees** {#appeals}
+#### **7. The Appeals Council and Appeal Committees** {#appeals}
 
 **a.** _**Function**_
 
