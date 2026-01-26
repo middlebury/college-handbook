@@ -1,5 +1,7 @@
 @use "sass:list";
 @use "sass:map";
+@use 'sass:meta';
+
 @use "variables";
 
 // breakpoints functions from bootstrap@4.0.0-beta
@@ -22,7 +24,7 @@
 //    md
 @function breakpoint-next($name, $breakpoints: variables.$grid-breakpoints, $breakpoint-names: map.keys($breakpoints)) {
     $n: list.index($breakpoint-names, $name);
-    @return if($n < list.length($breakpoint-names), list.nth($breakpoint-names, $n + 1), null);
+    @return if(sass($n < list.length($breakpoint-names)): list.nth($breakpoint-names, $n + 1); else: null);
   }
   
   // Minimum breakpoint width. Null for the smallest (first) breakpoint.
@@ -31,7 +33,7 @@
   //    576px
   @function breakpoint-min($name, $breakpoints: variables.$grid-breakpoints) {
     $min: map.get($breakpoints, $name);
-    @return if($min != 0, $min, null);
+    @return if(sass($min != 0): $min; else: null);
   }
   
   // Maximum breakpoint width. Null for the largest (last) breakpoint.
@@ -41,7 +43,7 @@
   //    767px
   @function breakpoint-max($name, $breakpoints: variables.$grid-breakpoints) {
     $next: breakpoint-next($name, $breakpoints);
-    @return if($next, breakpoint-min($next, $breakpoints) - 1px, null);
+    @return if(sass($next): breakpoint-min($next, $breakpoints) - 1px; else: null);
   }
   
   // Returns a blank string if smallest breakpoint, otherwise returns the name with a dash infront.
@@ -52,7 +54,7 @@
   //    >> breakpoint-infix(sm, (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px))
   //    "-sm"
   @function breakpoint-infix($name, $breakpoints: variables.$grid-breakpoints) {
-    @return if(breakpoint-min($name, $breakpoints) == null, "", "-#{$name}");
+    @return if(sass(breakpoint-min($name, $breakpoints) == null): ""; else: "-#{$name}");
   }
   
   // Media of at least the minimum breakpoint width. No query for the smallest breakpoint.
