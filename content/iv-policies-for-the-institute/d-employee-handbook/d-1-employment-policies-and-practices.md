@@ -1,7 +1,7 @@
 ---
 slug: /pages/iv-policies-for-the-institute/d-employee-handbook/d-1-employment-policies-and-practices
 title: D.1. Employment Policies and Practices
-date: 08/26/2025
+date: 01/29/2026
 ---
 **D.1.a. Introduction**
 
@@ -51,15 +51,11 @@ It is the policy of the Institute to employ only United States citizens and alie
 
 Providing false documentation or making false statements on the verification shall be grounds for immediate termination. During the course of employment, if the Institute requests further information relating to the employee's authorization to work in the United States, the employee shall furnish the information requested. Failure to cooperate in furnishing such information shall be grounds for discipline, up to and including termination.
 
-**D.1.g. Affirmative Action**
-
-Middlebury College and the Middlebury Institute maintain Affirmative Action Plans, and commit themselves to good faith and lawful efforts to correct any under-representation or under-utilization that has been identified by the Institute as warranting such action. The Manager of Human Resources has been designated the Equal Employment Opportunity/Affirmative Action Officer for the Institute. Inquiries concerning the application of federal and state laws and regulations should be referred to the Human Resources Office.
-
-**D.1.h. Identification Cards**
+**D.1.g. Identification Cards**
 
 All employees are expected to obtain an Institute photo identification card within the first week of employment. After submitting the required employment paperwork to the Human Resources Office, new employees may make arrangements to obtain identification cards by contacting Security at x4153. Identification cards are property of the Institute and must be relinquished at the conclusion of employment.
 
-**D.1.i. Background Screenings**
+**D.1.h. Background Screenings**
 
 The Institute requires that all newly hired employees have a background screening, and in some cases a credit check, performed by a third party specialist organization.
 
@@ -75,7 +71,7 @@ An employee who transfers or is promoted to a position that has fiduciary respon
 
 These screenings will only be performed with the candidate’s permission and only if the Institute intends to offer a candidate employment. If a candidate declines to give permission to conduct these screenings, s/he will not be eligible for employment at the Institute.
 
-**D.1.j. New Employee Orientation**
+**D.1.i. New Employee Orientation**
 
 Orientation sessions are hosted by Human Resources and are designed to introduce new staff members to the history, culture, and mission of the Institute, as well as allow them to complete required employment paperwork. The orientation program provides employees with the opportunity to meet different members of the community, become acquainted with the campus, review Institute policies, and enroll in eligible benefit programs.
 
@@ -83,7 +79,7 @@ Each newly hired regular staff employee receives a job description and a letter 
 
 New employees also receive orientation within their departments, covering safety procedures for the particular location and other matters pertinent to the position.
 
-**D.1.k. Introductory Period for New Employees**
+**D.1.j. Introductory Period for New Employees**
 
 All new or rehired employees work on a provisional basis for the first three months. Employees are encouraged to take advantage of this period to determine whether the position meets their expectations and to get clarification concerning responsibilities. The Institute will use this period to evaluate an employee's capabilities and work habits. Either the Institute or the employee may end the employment relationship at will, with or without cause, during the introductory period or thereafter.
 
@@ -91,7 +87,7 @@ Provisional employment status does not affect eligibility for employer-provided 
 
 A newly hired employee will receive a performance appraisal at the completion of the provisional period. Subsequent reviews occur annually on a schedule published by the Human Resources Office.
 
-**D.1.l. Personnel Records**
+**D.1.k. Personnel Records**
 
 Disclosure of personnel files is restricted to authorized persons within the Institute. Any request regarding personnel files should be directed to Human Resources staff, who are the only people authorized to release information about current or former employees. Disclosure of confidential personnel information to outside sources is limited. The Institute generally will release personnel information to third parties if the employee has given her/his written authorization or if release of the records is needed to protect or advance the Institute's business interests or otherwise is lawful. The Institute will provide information as requested by authorized law enforcement or local, state, or federal agencies conducting official investigations and as otherwise legally required.
 
@@ -99,7 +95,7 @@ Employees are responsible for ensuring that their names, addresses and informati
 
 Personal directory information about Institute employees (home address, phone number) is maintained for the purpose of facilitating essential communication and is disseminated only to those members of the Institute administration who have a need to know.
 
-**D.1.m. Personnel File Access Policy**
+**D.1.l. Personnel File Access Policy**
 
 Employees have the legal right to inspect certain documents in their personnel files. Such inspections must occur in the presence of a Human Resources representative at a mutually convenient time.
 
@@ -111,7 +107,7 @@ The personnel records may be made available to you either at 437 Pierce Street, 
 
 Disclosure of personnel information to outside sources, other than your designated representative, will be limited. However, the Institute will cooperate with requests from authorized law enforcement or local, state, or federal agencies conducting official investigations and as otherwise legally required.
 
-**D.1.n. Reporting Time & Payroll Issues**
+**D.1.m. Reporting Time & Payroll Issues**
 
 All employees of the Institute are paid every other Friday on a bi-weekly pay period basis. If a payday falls on a holiday, employees will receive paychecks on the last working day of the week. The pay period begins on Monday and ends on the following second Sunday. The pay calendar can be downloaded from the [Employee Resources](https://www.middlebury.edu/institute/offices-services/human-resources/employee-resources) section of the Institute’s website.
 
@@ -119,7 +115,7 @@ Hourly and salaried staff are required to use the [BannerWeb](https://ssb-prod.e
 
 If you feel your check may be inaccurate, first verify that your time was submitted accurately and on time. Issues regarding rate of pay, positions or titles and time off should be directed to Human Resources. Other paycheck issues, such as those involving taxes, should be directed to the Payroll department.
 
-**D.1.o. Employment Status**
+**D.1.n. Employment Status**
 
 The Middlebury Institute of International Studies at Monterey maintains the following staff employment status definitions. These definitions are used primarily to determine eligibility for benefits. The primary basis for determining employment status is committed hours, defined as regularly scheduled and budgeted hours assigned to a specific position. Regardless of the number of hours actually worked, on-call positions have no committed hours. Human Resources will work collaboratively with managers to determine the classification of each position.
 
@@ -149,47 +145,47 @@ If you have any doubt about your status as described above, contact the Manager 
 
 The Institute reserves the right, at any time, to alter or change job responsibilities, reassign or transfer job positions, or assign additional job responsibilities. From time to time, employees may be asked to work on special projects or to perform other work necessary or important to the operation of the department or the Institute. Cooperation and assistance in performing such additional work is expected.
 
-**D.1.p. At-Will Employment**
+**D.1.o. At-Will Employment**
 
-The administration of The Middlebury Institute of International Studies at Monterey hopes that every staff employee will find the employment relationship with the Institute satisfying and rewarding in all respects. At the same time, it recognizes that employment relationships are not always mutually satisfactory. To protect the rights of both staff employee and the Institute, employees should remember that employment is at the mutual consent of the employee and the Institute. As defined by the [California Labor Code](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=LAB&division=3.&title=&part=&chapter=2.&article=4.), either the at-will employee or the Institute can terminate the employment relationship, at any time, with or without cause, and with or without advance notice. Staff members who work in positions with a pre-scheduled not to exceed end date, whether funded by grant or contract monies or otherwise known as a “fixed term” position are in at-will status during that time and subject to conclusion of employment at or before the scheduled end date.
+The administration of The Middlebury Institute of International Studies at Monterey hopes that every staff employee will find the employment relationship with the Institute satisfying and rewarding in all respects. At the same time, it recognizes that employment relationships are not always mutually satisfactory. To protect the rights of both staff employee and the Institute, employees should remember that employment is at the mutual consent of the employee and the Institute. As defined by the [California Labor Code](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=LAB\&division=3.\&title=\&part=\&chapter=2.\&article=4.), either the at-will employee or the Institute can terminate the employment relationship, at any time, with or without cause, and with or without advance notice. Staff members who work in positions with a pre-scheduled not to exceed end date, whether funded by grant or contract monies or otherwise known as a “fixed term” position are in at-will status during that time and subject to conclusion of employment at or before the scheduled end date.
 
-**D.1.q. Work Schedule**
+**D.1.p. Work Schedule**
 
 The Institute normally is open for business between the hours of 8:30 AM and 5:00 PM, Monday through Friday. Some departments, such as the library, are open extended hours. Supervisors are responsible for assigning individual work schedules. Employees are expected to be at their desks or work stations at the start of their scheduled hours, ready to perform their work. The workday (a consecutive 24-hour period) begins at 12:01 AM and ends at midnight. The workweek begins on Monday and ends on Sunday.
 
-**D.1.r. Telecommuting**
+**D.1.q Telecommuting**
 
 The Institute places a high value on community and quality of service to its students. Generally, this means that faculty and staff need to perform their work on campus with their students and colleagues.  We do recognize, however, that there may be circumstances in which an employee is unable to be present on campus, but could work effectively from another location.  An employee who would like to explore this possibility should first speak with his/her supervisor, who will ascertain whether or not telecommuting is feasible, and if so, work with HR to develop a telecommuting agreement that ensures compliance with relevant state and federal regulations.
 
-**D.1.s. Exempt/Non-Exempt Status**
+**D.1.r. Exempt/Non-Exempt Status**
 
 Under state and federal laws regarding overtime pay, the Institute’s executive, administrative and support staff members are classified either overtime exempt or non-exempt. Exempt employees are paid a salary that covers all work and do not receive additional compensation for hours worked beyond their normal workweek. Determination of exempt or non-exempt status is made by Human Resources, based on the employee’s job description, state and federal law, and guidelines issued by the California Industrial Welfare Commission and U.S. Department of Labor.
 
-**D.1.t. Compensatory Time Off**
+**D.1.s. Compensatory Time Off**
 
 Employees who are non-exempt under the Fair Labor Standards Act or the California Labor Code are not granted compensatory time off in lieu of overtime pay. All hours worked in excess of the employee’s normal workweek will be compensated as extra pay and should be recorded and submitted in the current pay period.
 
 Exempt employees are paid a fixed salary intended to provide all of the compensation to which they are entitled. They are not entitled to additional compensation for extra hours of work or time off in lieu of additional compensation. Neither extra compensation nor compensatory time off will be owed or payable to an exempt employee upon separation from the Institute for any reason.
 
-**D.1.u. Meal and Rest Periods**
+**D.1.t. Meal and Rest Periods**
 
 Non-exempt employees working shifts lasting five hours or longer are entitled to a one-hour, unpaid meal period taken approximately in the middle of the work shift. Non-exempt employees working more than six-hour shifts may not “skip” the meal period to shorten the workday. If an employee is not provided a meal break, they will be paid one additional hour of pay at their regular pay rate. They are allowed paid ten-minute rest periods for every four hours of work or major portion thereof. Rest periods should be taken approximately halfway through the four-hour period. Rest periods cannot be combined or saved to create extended meal breaks, leave early, or arrive late. When necessary, supervisors are responsible for scheduling meal and rest periods.
 
-**D.1.v. Voting (time off)**
+**D.1.u. Voting (time off)**
 
 In accordance with California Elections Code section 14000, employees who do not have sufficient time outside of working hours to vote at a statewide election may take off enough working time that — when added to the voting time available outside of working hours — will enable them to vote. The Institute will provide the employee up to two hours of time off with pay to vote. The time off for voting will be only at the beginning or end of the regular work shift, whichever allows the most free time for voting and the least time off from the regular working shifts, unless otherwise mutually agreed.
 
 If by the third working day prior to the day of election employees know, or have reason to believe, that time off will be necessary to be able to vote on election day, they must give their supervisor at least two working days' notice that time off for voting is desired, in accordance with the provisions of this section.
 
-**D.1.w. Call-In Pay (Reporting-Time Pay)**
+**D.1.v. Call-In Pay (Reporting-Time Pay)**
 
 In accordance with the State of California's Industrial Welfare Commission Wage Order 4-2001, the Institute will pay a minimum of two hours pay to non-exempt employees who are required to report to work on a day other than their normally scheduled workday. In addition, the Institute will pay non-exempt employees for half of the regularly scheduled workday if employees report to work as instructed and there is not work available, except if the interruption of work is because of the failure of any or all public utilities, or because of an act of God or other cause not within the Institute's power to control.
 
-**D.1.x. Garnishment of Wages**
+**D.1.w. Garnishment of Wages**
 
 The Institute is obligated to comply with all wage garnishment orders. Questions regarding wage garnishment should be directed to Human Resources.
 
-**D.1.y. Overtime**
+**D.1.x. Overtime**
 
 Employees occasionally may be required to work extra hours. Exempt employees may be expected to work beyond their normal schedules, as their job responsibilities require, and do so without additional pay beyond their regular salary. Non-exempt employees receive additional compensation at the rate of time and one-half, for hours worked in addition to 8 hours per workday and/or 40 hours per workweek, up to 12 hours worked and thereafter at double time. For purposes of determining which hours constitute additional time, only actual hours worked in a given work week will be counted;  sick leave taken, jury duty leave, or call-in/reporting time payment do not count towards hours worked. Failure to obtain one’s supervisor’s approval before working overtime may result in disciplinary action.
 
@@ -197,7 +193,7 @@ A workday begins at 12:01 AM and ends 24 hours later. A workweek begins each Mon
 
 All regular time and overtime hours must be accurately recorded on the non-exempt employee's timesheet and approved by the supervisor prior to payment. Tampering, altering, or falsifying time records will result in disciplinary action, up to and including termination.
 
-**D.1.z. Travel Pay**
+**D.1.y. Travel Pay**
 
 Exempt employees are not paid on the basis of hours worked, and there is therefore no additional pay or compensatory time for time spent traveling.
 
@@ -211,19 +207,19 @@ If the total number of hours worked (including travel) exceeds 8 hours in a day 
 
 Time spent during the course of travel on sleeping, eating meals, and other personal activities is not considered work time and is not compensated.
 
-**D.1.aa. Pay Advances**
+**D.1.z. Pay Advances**
 
 The Institute does not provide pay advances.
 
-**D.1.bb. Direct Deposits**
+**D.1.aa. Direct Deposits**
 
 Employees are eligible for automatic payroll deposit. They may initiate automatic deposit through the online [Banner](https://ssb-prod.ec.middlebury.edu/PNTR/twbkwbis.P_WWWLogin) system. Automatic deposit can be started or stopped at any time.
 
-**D.1.cc. Payroll Records**
+**D.1.bb. Payroll Records**
 
 Employees may access their payroll records through the online [Banner](https://ssb-prod.ec.middlebury.edu/PNTR/twbkwbis.P_WWWLogin) system.
 
-**D.1.dd. Performance Evaluations**
+**D.1.cc. Performance Evaluations**
 
 Each staff employee is scheduled to receive periodic performance reviews.
 
@@ -235,38 +231,38 @@ Performance evaluations are intended to help employees recognize their progress,
 
 While professional development goals are an expected component of performance evaluations in general, a specific, written performance improvement plan is mandated if an employee receives an unacceptable overall rating on a performance evaluation, if the employee’s employment in that position is to continue thereafter.
 
-**D.1.ee. Progressive Discipline**
+**D.1.dd. Progressive Discipline**
 
 The Institute may choose in appropriate situations to utilize a progressive discipline system to serve as a fair and consistent means to enforce Institute rules and regulations and to address conduct or performance deficiencies. The purpose of progressive discipline is to retain employees through identification and correction of certain types of problems. Failure to correct such problems may lead to suspension or termination, and serious infractions may result in immediate termination. The Institute reserves the right to terminate the at-will employment of any employee at any time, with or without cause or notice; thus, progressive discipline is applicable or not, at the discretion of the Institute, for those situations deemed appropriate by the Institute.
 
 If a situation, at the discretion of the Institute, warrants progressive discipline, the disciplinary actions applied may include a verbal warning, a written warning, a written reprimand, and/or termination from employment. Every action need not be taken in each case, and depending upon the relevant circumstances, the Institute may decide to take any disciplinary action, including immediate termination, at any time. Relevant circumstances that affect the course of disciplinary action may include the Institute’s judgment as to the seriousness or severity of the individual employee's deficiencies in performance and/or conduct, prior performance and conduct, and management's assessment of appropriate factors identified during the investigation. Examples of some of the circumstances that in the Institute’s judgment might lead to summary discharge include, but are not limited to:
 
-*   Conduct that is in opposition to the Institute's nondiscrimination or harassment policies;
-*   Sustained insubordination or refusal to comply with a reasonable request given by the supervisor or Institute official, or abusive treatment of a supervisor or Institute official;
-*   Theft of Institute property, personal property, or theft of service;
-*   Falsification of records, time cards, or claiming sickness under false pretenses;
-*   Disorderly conduct while on the job;
-*   Deliberate, frequent, and/or recurring violations of stated safety regulations, even if they are not intentional;
-*   Unexcused absence without notice for three days;
-*   Use or possession of, or being under the influence of illegal substances or alcohol while at work;
-*   Threatening physical harm, or actual physical violence to another member of the Institute community;
-*   Breach of confidentiality, which is defined as releasing to unauthorized persons, or misuse of confidential information to which an employee is privy because of her/his job.
+* Conduct that is in opposition to the Institute's nondiscrimination or harassment policies;
+* Sustained insubordination or refusal to comply with a reasonable request given by the supervisor or Institute official, or abusive treatment of a supervisor or Institute official;
+* Theft of Institute property, personal property, or theft of service;
+* Falsification of records, time cards, or claiming sickness under false pretenses;
+* Disorderly conduct while on the job;
+* Deliberate, frequent, and/or recurring violations of stated safety regulations, even if they are not intentional;
+* Unexcused absence without notice for three days;
+* Use or possession of, or being under the influence of illegal substances or alcohol while at work;
+* Threatening physical harm, or actual physical violence to another member of the Institute community;
+* Breach of confidentiality, which is defined as releasing to unauthorized persons, or misuse of confidential information to which an employee is privy because of her/his job.
 
-**D.1.ff. Promotions and Transfers**
+**D.1.ee. Promotions and Transfers**
 
 Employees are encouraged to apply for promotions to positions for which they are qualified. Promotions and transfer decisions are based on the hiring supervisor’s and/or his/her supervisor’s judgment of ability, qualifications, and potential for the position. Some promotions or transfers may be offered without open recruitment.
 
-**D.1.gg. Reorganization**
+**D.1.ff. Reorganization**
 
 Managers considering reorganization of their units should consult with Human Resources. They will be expected to complete a specific process as outlined in the Reorganization and Severance Policy, in partnership with Human Resources.  
 
-**D.1.hh. Employment: Internal Career Opportunities**
+**D.1.gg. Employment: Internal Career Opportunities**
 
 All vacant positions are posted on the Institute web site for a minimum of 5 business days and internal candidates have an opportunity to apply unless in a special circumstance a waiver of posting is granted by the president of the College.
 
 Normally, an employee must have been in her/his current position for a minimum of 3 months before being eligible to apply for positions in other departments. If an employee is selected to interview for a position, and is a final candidate, the employee should inform her/his current supervisor of her/his interest in the new position. If an employee is offered and accepts a position external to her/his current department, coordination between both departments, facilitated by Human Resources, may be required to ensure that the timing of such a transfer does not result in a hardship to the Institute. Normally, the transferring employee will assume her/his new duties two weeks after being selected for the new position.
 
-**D.1.ii. Voluntary Termination of Employment/Resignation**
+**D.1.hh. Voluntary Termination of Employment/Resignation**
 
 Resignation is defined as employment termination initiated by an employee who chooses to leave the Institute. An employee who is considering leaving the Institute for any reason is encouraged to discuss her/his situation with her/his immediate supervisor before making a final decision.
 
@@ -278,15 +274,15 @@ CTO time may not be taken in lieu of working the last two weeks of employment. T
 
 All Institute-owned property (vehicles, keys, identification cards, parking permit, credit cards, laptop computers, uniforms, etc.) must be returned immediately upon termination of employment in order to receive final payments.
 
-**D.1.jj. Institute Re-employment**
+**D.1.ii. Institute Re-employment**
 
 Consideration for re-employment is based on qualifications and demonstrated ability, as well as prior job performance and fitness for Institute employment. An employee who was terminated by the Institute in a manner such that the employee left not in good standing may not be re-employed.
 
-**D.1.kk. Emeritus Status**
+**D.1.jj. Emeritus Status**
 
 Emeritus status may be granted to retiring staff as a special recognition for exemplary work performance and outstanding, loyal, and dedicated service to the Institute. To be eligible for consideration for Emeritus status, an employee must be in retirement status from the Institute, have at least ten years of service in a full-time regular position, be nominated by the senior administrator of her/his department, and have the approval of the VPAA.
 
-**D.1.ll. Retirement**
+**D.1.kk. Retirement**
 
 There is no mandatory retirement age for Institute employees; they may continue working without regard to age, subject to provisions concerning at-will and other termination of employment. Continuing employees nearing age 65 should contact Human Resources regarding Medicare coverage and certain decisions that must be made about health insurance coverage at age 65.
 
@@ -296,10 +292,10 @@ Retirement plan participants should initiate procedures for receipt of retiremen
 
 Although the Institute has no retirement age, work restrictions may be imposed under TIAA-CREF. Employees should refer to the TIAA-CREF summary plan description for details.
 
-**D.1.mm. Reductions in Force**
+**D.1.ll. Reductions in Force**
 
 Under some circumstances, the Institute may restructure or reduce its workforce. If so, the Institute will make a reasonable effort to inform affected employees in advance. Employees to be laid off will be told the expected duration of the layoff if known. In determining which employees will be laid off, the Institute will identify the positions to be reduced and in selecting for retention among staff members performing in the same position to be reduced, will consider its operating requirements and other factors, including employees’ skills, productivity, ability, past performance, and, where other factors are equal in its judgment, their length of service.
 
-**D.1.nn. Exit Interview**
+**D.1.mm. Exit Interview**
 
 Employees ending employment at the Institute, whether voluntarily or involuntarily are strongly encouraged to meet with Human Resources staff for an exit interview. This interview will normally occur on or before the employee’s final workday. During the interview, the Manager of Human Resources or designee may ask for information about working conditions and the employee’s relationship with her/his supervisor and fellow staff members and will discuss employment benefits conversion. The employee also will have the opportunity to suggest ways to improve Institute operations. It is the employee’s responsibility to return all Institute property (vehicles, keys, identification cards, parking permit, credit cards, laptop computers, uniforms, etc.) by her/his final day of employment.
