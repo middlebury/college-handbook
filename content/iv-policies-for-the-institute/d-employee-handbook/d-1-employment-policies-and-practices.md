@@ -1,7 +1,7 @@
 ---
 slug: /pages/iv-policies-for-the-institute/d-employee-handbook/d-1-employment-policies-and-practices
 title: D.1. Employment Policies and Practices
-date: 01/29/2026
+date: 01/30/2026
 ---
 **D.1.a. Introduction**
 
@@ -35,9 +35,9 @@ The Institute is also home to the James Martin Center for Nonproliferation Studi
 
 At the Institute, our international focus reinforces our emphasis on diversity in our student body and in our faculty and staff. The Institute recognizes the importance of treating every member of the community with fairness and respect and encourages inter-cultural understanding in all our dealings with each other, just as we embed cross-cultural competence in all our academic programs.
 
-**D.1.d. Non-discrimination, Anti-Harassment and Related Policies**
+**D.1.d. Non-Discrimination Policies**
 
-The Middlebury Institute of International Studies at Monterey, as a Graduate School of Middlebury College, falls under the jurisdiction of Middlebury College policy with regard to compliance with any and all federal and state laws that prohibit discrimination.  Please see the Middlebury [Non-Discrimination Policies](/pages/i-policies-for-all/non-discrim-policies), which include the Middlebury [Anti-Harassment/Discrimination Policy](/assets/anti-harassment-prior-to-8-14-2020.pdf),  and the [Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct, and Stalking](/assets/smdvs-prior-to-8-14-2020.pdf).
+The Middlebury Institute of International Studies at Monterey, as a Graduate School of Middlebury College, falls under the jurisdiction of Middlebury College policy with regard to compliance with any and all federal and state laws that prohibit discrimination.  Please see the Middlebury [Non-Discrimination Policies](https://handbook.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/).
 
 **D.1.e. Americans with Disabilities Act (ADA)**
 
@@ -47,7 +47,7 @@ The Institute will make reasonable accommodations as required by law. Qualifying
 
 **D.1.f. Employment Eligibility**
 
-It is the policy of the Institute to employ only United States citizens and aliens who are authorized to work in the United States. In complying with the Immigration Reform and Control Act of 1986, it is against Institute policy to discriminate because of an individual's national origin, citizenship, or intent to become a U.S. citizen. In accordance with federal law, each prospective employee shall be required to provide, within 72 hours of employment, documents verifying her/his identity and authorization to be legally employed in the United States. In addition, the prospective employee will be required to sign a verification attesting s/he is legally employable in the United States. The Institute shall retain copies of the documents submitted by the employee. To the extent practical and appropriate, these documents will be kept confidential. However, the Institute is required to provide copies of the documents to the U.S. Department of Labor and the Customs and Immigration Service ("USCIS", formerly “INS”) on request.
+It is the policy of the Institute to employ United States citizens and individuals who are legally authorized to work in the United States. In complying with the Immigration Reform and Control Act of 1986, it is against Institute policy to discriminate because of an individual's national origin, citizenship, or intent to become a U.S. citizen. In accordance with federal law, each prospective employee shall be required to provide, within 72 hours of employment, documents verifying her/his identity and authorization to be legally employed in the United States. In addition, the prospective employee will be required to sign a verification attesting s/he is legally employable in the United States. The Institute shall retain copies of the documents submitted by the employee. To the extent practical and appropriate, these documents will be kept confidential. However, the Institute is required to provide copies of the documents to the U.S. Department of Labor and the Customs and Immigration Service ("USCIS", formerly “INS”) on request.
 
 Providing false documentation or making false statements on the verification shall be grounds for immediate termination. During the course of employment, if the Institute requests further information relating to the employee's authorization to work in the United States, the employee shall furnish the information requested. Failure to cooperate in furnishing such information shall be grounds for discipline, up to and including termination.
 
@@ -63,7 +63,7 @@ Credit checks are conducted for positions in the Business Office, the Institutio
 
 Any offer of employment made prior to the completion of the background check is conditional, contingent upon receipt of information satisfactory to the Institute.
 
-All pre-employment background screenings are conducted by a third party to ensure privacy. Screenings are conducted in conformity with the Federal Fair Credit Reporting Act, the Americans with Disabilities Act, and state and federal anti-discrimination and privacy laws. All screening reports are maintained separately from employee personnel files. Under the Fair Credit Reporting Act (FCRA), all background screenings are done only after a person has received a disclosure and has signed a release.
+All pre-employment background screenings are conducted by a third party to ensure privacy. Screenings are conducted in conformity with the Federal Fair Credit Reporting Act, the Americans with Disabilities Act, and state and federal non-discrimination and privacy laws. All screening reports are maintained separately from employee personnel files. Under the Fair Credit Reporting Act (FCRA), all background screenings are done only after a person has received a disclosure and has signed a release.
 
 An individual who has previously been employed at the Institute and is returning to work after being absent for more than one year will be required to undergo a background screening.
 
