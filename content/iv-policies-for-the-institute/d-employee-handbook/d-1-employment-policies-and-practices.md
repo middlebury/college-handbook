@@ -35,9 +35,9 @@ The Institute is also home to the James Martin Center for Nonproliferation Studi
 
 At the Institute, our international focus reinforces our emphasis on diversity in our student body and in our faculty and staff. The Institute recognizes the importance of treating every member of the community with fairness and respect and encourages inter-cultural understanding in all our dealings with each other, just as we embed cross-cultural competence in all our academic programs.
 
-**D.1.d. Non-discrimination, Anti-Harassment and Related Policies**
+**D.1.d. Non-Discrimination Policies**
 
-The Middlebury Institute of International Studies at Monterey, as a Graduate School of Middlebury College, falls under the jurisdiction of Middlebury College policy with regard to compliance with any and all federal and state laws that prohibit discrimination.  Please see the Middlebury [Non-Discrimination Policies](/pages/i-policies-for-all/non-discrim-policies), which include the Middlebury [Anti-Harassment/Discrimination Policy](/assets/anti-harassment-prior-to-8-14-2020.pdf),  and the [Policy Against Sexual Misconduct, Domestic and Dating Violence and Misconduct, and Stalking](/assets/smdvs-prior-to-8-14-2020.pdf).
+The Middlebury Institute of International Studies at Monterey, as a Graduate School of Middlebury College, falls under the jurisdiction of Middlebury College policy with regard to compliance with any and all federal and state laws that prohibit discrimination.  Please see the Middlebury [Non-Discrimination Policies](https://handbook.middlebury.edu/pages/i-policies-for-all/non-discrim-policies/).
 
 **D.1.e. Americans with Disabilities Act (ADA)**
 
