@@ -1,7 +1,7 @@
 ---
 slug: /pages/v-policies-for-schools-abroad/academic-policies/schools-abroad-b-2-language-pledge
 title: B.2. Language Pledge
-date: 12/05/2024
+date: 02/09/2026
 ---
 To take full advantage of their time abroad, students are expected to maintain the spirit of the Middlebury Language Pledge and speak only the language they are studying. With the exception of our program in the United Kingdom, we expect no English to be used in the Schools Abroad offices, except in emergency consultations with the Director/Principal and their staff.
 
@@ -13,10 +13,14 @@ _To take fullest advantage of my time abroad, I will maintain the spirit of the 
 
 _Violation of the Language Pledge deprives me and my fellow students of a valuable opportunity. By signing this, I agree to abide by the Middlebury College Language Pledge._
 
+**For Beginner/Intermediate Track Students**:
+
+As a Beginner/Intermediate Track student signing this Language Pledge, I understand that although my proficiency in the language of my host country may be limited, I will do my best to keep the Pledge as defined by my School. I signed the Language Pledge, understanding that there will be reasonable accommodation for Beginner/Intermediate Track students, which my School's Handbook and on-site staff will explain.
+
 Students violating the Language Pledge will be given a verbal warning.  Subsequent violations will result in the following disciplinary action(s):
 
-*   Written warning.  This is considered informal College discipline and is not part of the student's permanent record.  The written warning remains in a student's file until graduation, when it is removed.
-*   Probation.  Notification to the home institution and parents/guardians occurs in cases of probation.  Probationary status is effective for a designated period of time, at the discretion of the Director.  Probationary status is informal College discipline and is not part of the student's permanent record, but a probationary status letter remains in a student's file until graduation, when it is removed.
-*   Dismissal from program.  Dismissal is a permanent part of the student's file.  In case of dismissal from the School Abroad, no refund of the program fee is made.  Parents or guardians and the student's home institution are informed when students are dismissed.
+* Written warning.  This is considered informal College discipline and is not part of the student's permanent record.  The written warning remains in a student's file until graduation, when it is removed.
+* Probation.  Notification to the home institution and parents/guardians occurs in cases of probation.  Probationary status is effective for a designated period of time, at the discretion of the Director.  Probationary status is informal College discipline and is not part of the student's permanent record, but a probationary status letter remains in a student's file until graduation, when it is removed.
+* Dismissal from program.  Dismissal is a permanent part of the student's file.  In case of dismissal from the School Abroad, no refund of the program fee is made.  Parents or guardians and the student's home institution are informed when students are dismissed.
 
 In all cases, it is important to note that discipline is cumulative at Middlebury, and each infraction will be considered in determining future disciplinary penalties and may serve to make further violations of Middlebury regulations more serious.
