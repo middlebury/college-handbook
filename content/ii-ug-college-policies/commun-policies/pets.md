@@ -60,8 +60,8 @@ d. When the dog is on campus, the faculty or staff member is responsible for ens
 
 a. Concerns about Dogs at Work should first be directed to the Vice-President/Dean/Supervisor for the office or program where the dog owner works, if possible. Otherwise, issues and complaints about dogs at work should be sent to [dogsatwork@middlebury.edu](mailto:dogsatwork@middlebury.edu) for further handling.
 
-b. The Department of Public Safety shall not be contacted with dog complaints, with the exception of emergencies or serious incidents involving a dog, such as a dog bite.
+b. Do not contact the Department of Public Safety with dog complaints, except for emergencies or serious incidents involving a dog, such as a dog bite.
 
 c. Violation of any of the Conduct Requirements is a basis for terminating the registration of a dog. Failure to comply with the Conduct Requirements may result in fines, in addition to termination of registration, and repeated violations may be subject to additional sanctions.
 
-Any questions about this policy may contact [dogsatwork@middlebury.edu](mailto:dogsatwork@middlebury.edu).
+Any questions about this policy, please contact [dogsatwork@middlebury.edu](mailto:dogsatwork@middlebury.edu).
