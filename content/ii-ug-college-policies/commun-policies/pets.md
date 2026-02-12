@@ -15,7 +15,7 @@ Administrative offices open to the public are considered public spaces, and no a
 
 ### 2. Exception for "Dogs at Work"
 
-Middlebury employees on the College campus in Vermont may bring their dogs to work in accordance with the requirements of this Policy, detailed below. Dogs demonstrating any aggressive behavior will not be allowed on campus. Bringing a dog to work is a privilege and when other individuals’ health or participation are negatively impacted, this Policy places greater importance on the well-being and full participation of all members of our community than on the preference for bringing a dog to work. Employees may not register dogs that do not belong to them (e.g. friends' or family members' dogs).
+Middlebury employees on the College campus in Vermont may bring their dogs to work in accordance with the requirements of this Policy, detailed below. Dogs demonstrating any aggressive behavior will not be allowed on campus. Bringing a dog to work is a privilege and when other individuals’ health or participation are negatively impacted, this Policy places greater importance on the well-being and full participation of all members of our community than on the preference for bringing a dog to work. Employees may not register or board dogs that do not belong to them (e.g. colleagues', friends', or family members' dogs).
 
 **Note:** Service dogs are not required to be registered under this policy. Please see the [Service Animal Policy](/pages/i-policies-for-all/non-discrim-policies/svc-assist-animals) for more information.
 
@@ -30,7 +30,7 @@ Middlebury employees on the College campus in Vermont may bring their dogs to wo
 * Davis Library (dogs are not allowed in this building at any time)
 * Bread Loaf campus (exceptions may be made for specific locations)
 
-Faculty and staff with private, enclosed offices (not cubicles) or faculty and staff who share an office may bring their registered dogs to work during [standard business hours](https://handbook.middlebury.edu/pages/ii-ug-college-policies/employee/employment/scheduling-hours-operation/) only, so long as they follow these steps for approval:
+Employees with private, fully-enclosed offices may bring their registered dogs to work during [standard business hours](https://handbook.middlebury.edu/pages/ii-ug-college-policies/employee/employment/scheduling-hours-operation/) only, so long as they follow these steps for approval:
 
 a. The dog owner must first obtain permission from their supervisor/department chair/VP by completing Part I of the [approval and registration form](static/assets/dog-at-work-registration-form_2024.pdf). To be eligible for approval, employees must have a private office. With the approval of a supervisor/department chair/VP, two employees who share a single office may be permitted to register their dog. However, only one dog is permitted in a single office at any given time.
 
