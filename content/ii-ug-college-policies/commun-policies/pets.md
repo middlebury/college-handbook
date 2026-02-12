@@ -15,7 +15,7 @@ Administrative offices open to the public are considered public spaces, and no a
 
 ### 2. Exception for "Dogs at Work"
 
-Middlebury employees on the College campus in Vermont may bring their dogs to work in accordance with the requirements of this Policy, detailed below. Dogs demonstrating any aggressive behavior will not be allowed on campus. Bringing a dog to work is a privilege and when other individuals’ health or participation are negatively impacted, this Policy places greater importance on the well-being and full participation of all members of our community than on the preference for bringing a dog to work. Employees may not register dogs that do not belong to them (e.g. friends' or family members' dogs).
+Middlebury employees on the College campus in Vermont may bring their dogs to work in accordance with the requirements of this Policy, detailed below. Dogs demonstrating any aggressive behavior will not be allowed on campus. Bringing a dog to work is a privilege and when other individuals’ health or participation are negatively impacted, this Policy places greater importance on the well-being and full participation of all members of our community than on the preference for bringing a dog to work. Employees may not register or board dogs that do not belong to them (e.g. colleagues', friends', or family members' dogs).
 
 **Note:** Service dogs are not required to be registered under this policy. Please see the [Service Animal Policy](/pages/i-policies-for-all/non-discrim-policies/svc-assist-animals) for more information.
 
