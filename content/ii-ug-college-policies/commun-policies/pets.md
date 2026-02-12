@@ -15,7 +15,7 @@ Administrative offices open to the public are considered public spaces, and no a
 
 ### 2. Exception for "Dogs at Work"
 
-Middlebury employees on the College campus in Vermont may bring their dogs to work in accordance with the requirements of this Policy, detailed below. Dogs demonstrating any aggressive behavior will not be allowed on campus. Bringing a dog to work is a privilege and when other individuals’ health or participation are negatively impacted, this Policy places greater importance on the well-being and full participation of all members of our community than on the preference for bringing a dog to work. Employees may not register or board dogs that do not belong to them (e.g. colleagues', friends', or family members' dogs).
+Middlebury employees on the College campus in Vermont may bring their dogs to work in accordance with the requirements of this Policy, detailed below. Bringing a dog to work is a privilege and when other individuals’ health or participation are negatively impacted, this Policy places greater importance on the well-being and full participation of all members of our community than on the preference for bringing a dog to work.  
 
 **Note:** Service dogs are not required to be registered under this policy. Please see the [Service Animal Policy](/pages/i-policies-for-all/non-discrim-policies/svc-assist-animals) for more information.
 
@@ -30,15 +30,15 @@ Middlebury employees on the College campus in Vermont may bring their dogs to wo
 * Davis Library (dogs are not allowed in this building at any time)
 * Bread Loaf campus (exceptions may be made for specific locations)
 
-Employees with private, fully-enclosed offices may bring their registered dogs to work during [standard business hours](https://handbook.middlebury.edu/pages/ii-ug-college-policies/employee/employment/scheduling-hours-operation/) only, so long as they follow these steps for approval:
+Employees with private, fully enclosed offices may bring their registered dogs to work only during [standard business hours](https://handbook.middlebury.edu/pages/ii-ug-college-policies/employee/employment/scheduling-hours-operation/), so long as they follow these steps for approval:
 
-a. The dog owner must first obtain permission from their supervisor/department chair/VP by completing Part I of the [approval and registration form](static/assets/dog-at-work-registration-form_2024.pdf). To be eligible for approval, employees must have a private, fully-enclosed office. Workstations located in cubicles or other open‑air environments do not meet this requirement. With the approval of a supervisor/department chair/VP, two employees who share a single, private office may be permitted to register their dog. However, only one dog is permitted in a single office at any given time.
+a. The dog owner must first obtain permission from their supervisor/department chair/VP by completing Part I of the [approval and registration form](static/assets/dog-at-work-registration-form_2024.pdf). To be eligible for approval, employees must have a private, fully enclosed office. Workstations located in cubicles or other open‑air environments do not meet this requirement. Employees may not register or board dogs that do not belong to them (e.g. colleagues', friends', or family members' dogs). With the approval of a supervisor/department chair/VP, two employees who share a single, private office may be permitted to register their dog. However, only one dog is permitted in a single office at any given time.
 
 b. The dog owner must complete Part II of the registration form and email a scanned copy of the completed form (Parts I and II), plus a digital photograph of their dog, to [dogsatwork@middlebury.edu](mailto:dogsatwork@middlebury.edu) (please write “Dog Registration” in the subject line). Note that the registration process requires that your dog have a current dog license in the owner’s hometown and a copy of the license must be provided annually. No dog may be permitted on campus that is not fully vaccinated and current on all vaccinations (this includes puppies).
 
 c. Once final approval is granted by the Office of General Counsel & Risk Management, and a sign to hang on your door has been received, only then may the dog be brought to your office. If you have not received notification of final approval from the Office of General Counsel & Risk Management, your dog has not yet been approved to come to work and may not be brought to the office until it has been received. 
 
-d. When the dog is on campus, the faculty or staff member is responsible for ensuring that the Conduct Requirements spelled out below are followed.
+d. When the dog is on campus, the faculty or staff member is responsible for ensuring that the Conduct Requirements spelled out below are followed. Dogs demonstrating any aggressive behavior will not be allowed on campus.
 
 **Conduct Requirements for "Dogs at Work" Program**
 
