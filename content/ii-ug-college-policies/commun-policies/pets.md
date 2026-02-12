@@ -27,10 +27,10 @@ Middlebury employees on the College campus in Vermont may bring their dogs to wo
 * 700 Exchange Street (dogs are not allowed in this building at any time)
 * Peterson Family Athletic Complex (exceptions may be made for specific locations)
 * The Mahaney Center for the Arts (exceptions may be made for specific locations)
-* Davis Library
+* Davis Library (dogs are not allowed in this building at any time)
 * Bread Loaf campus (exceptions may be made for specific locations)
 
-Faculty and staff with private offices or faculty and staff who share an office may bring their registered dogs to work during [standard business hours](https://handbook.middlebury.edu/pages/ii-ug-college-policies/employee/employment/scheduling-hours-operation/) only, so long as they follow these steps for approval:
+Faculty and staff with private, enclosed offices (not cubicles) or faculty and staff who share an office may bring their registered dogs to work during [standard business hours](https://handbook.middlebury.edu/pages/ii-ug-college-policies/employee/employment/scheduling-hours-operation/) only, so long as they follow these steps for approval:
 
 a. The dog owner must first obtain permission from their supervisor/department chair/VP by completing Part I of the [approval and registration form](static/assets/dog-at-work-registration-form_2024.pdf). To be eligible for approval, employees must have a private office. With the approval of a supervisor/department chair/VP, two employees who share a single office may be permitted to register their dog. However, only one dog is permitted in a single office at any given time.
 
