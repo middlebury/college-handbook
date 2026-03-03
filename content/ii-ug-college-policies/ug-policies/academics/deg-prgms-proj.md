@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/deg-prgms-proj
 title: B.1.e. Degree Programs & Projects
-date: 11/03/2025
+date: 03/03/2026
 ---
 #### **A. First-year Student Seminars and College Writing Courses** {#first}
 
@@ -148,7 +148,7 @@ A course may count toward a student's major or minor, but not toward both. A cou
 
 **H. Independent Scholar Program**
 
-The Independent Scholar Program is designed to meet the needs of outstanding students who have clearly defined educational goals that cannot be fulfilled within the framework of a normal departmental or interdisciplinary major. Independent Scholars plan their own curricular programs with the assistance of a faculty advisor. Independent Scholars cannot propose two majors, but can pursue an independent scholar major and one minor. For the 2023-24 academic year, application materials are due to the Curriculum Committee by Monday, October 9, 2023, for fall review; and Monday, February 19, 2024, for spring review.
+The Independent Scholar Program is designed to meet the needs of outstanding students who have clearly defined educational goals that cannot be fulfilled within the framework of a normal departmental or interdisciplinary major. Independent Scholars plan their own curricular programs with the assistance of a faculty advisor. Independent Scholars cannot propose two majors, but can pursue an independent scholar major and one minor. Application materials are due to the Curriculum Committee by the 2nd Monday in October for fall review, and the 3rd Monday in February for spring review.
 
 **Eligibility:** For an application to be considered, a student must be in the sophomore year and have a GPA of 3.5 or higher. If approved, students must fulfill all requirements for the degree using their approved Independent Scholar plan as their major course of study.  Independent Scholar proposals will be evaluated in light of feasibility, academic disciplinary integrity, and demonstrated ability of the student. A successful proposal must articulate a fully developed program of study, must include a methods course, and must demonstrate compellingly that the student’s academic goals cannot be met through existing majors.
 
