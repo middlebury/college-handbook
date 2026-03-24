@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy
 title: B.2.c. Policy Against Hazing
-date: 01/05/2026
+date: 03/24/2026
 ---
 Middlebury  is committed to promoting healthy, safe, and balanced lifestyles. Student organizations and athletic teams can play a vital role in this process, and can provide transformative opportunities for friendship, leadership, and personal growth and discovery. Hazing of any kind is antithetical to these goals; therefore, Middlebury prohibits hazing activities, whether by an individual or an organization. In keeping with Middlebury’s prohibition of any kind of hazing, training and educational activities are periodically conducted with appropriate staff who support students and campus life.
 
@@ -19,8 +19,7 @@ For the purposes of this policy, the term “hazing” means; any intentional, k
 
 * whipping, beating, striking, electronic shocking, placing of a harmful substance on someone’s body, or similar activity
 * causing, coercing, or otherwise inducing sleep deprivation, exposure to the elements, confinement in a small space, extreme calisthenics, or other similar activity
-* causing, coercing, or otherwise inducing another person to consume food, liquid,
-* alcohol, drugs, or other substances
+* causing, coercing, or otherwise inducing another person to consume food, liquid, alcohol, drugs, or other substances
 * causing coercing, or otherwise inducing another person to perform or simulate sexual acts
 * any activity that places another person in reasonable fear of bodily harm through the use of threatening words or conduct
 * any activity against another person that includes a criminal violation of local, State, Tribal or Federal law
