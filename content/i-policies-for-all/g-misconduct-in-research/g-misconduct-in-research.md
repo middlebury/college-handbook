@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/g-misconduct-in-research
 title: G. Misconduct in Research and Other Scholarly Activities
-date: 03/30/2026
+date: 03/31/2026
 ---
 Effective January 1, 2026
 
@@ -31,7 +31,7 @@ This policy and related procedures apply only to research misconduct occurring w
 
 ## 3.  Deﬁnitions
 
-**Accepted practices of the relevant research community.&#x20;**&#x54;his term means those practices established by 42 CFR Part 93 and by PHS funding components, as well as commonly accepted professional codes or norms within the overarching community of researchers and institutions that apply for and receive PHS awards.
+**Accepted practices of the relevant research community.&#x20;**&#x54;his term means those practices established by 42 CFR Part 93 and by PHS funding components, as well as commonly accepted professional codes or norms within the overarching community of researchers and institutions that apply for and receive PHS awards or other agency awards.
 
 **Administrative record.&#x20;**&#x54;he administrative record comprises: the institutional record; any information provided by the respondent to ORI, including but not limited to the transcript of any virtual or in-person meetings under § 93.403(b) between the respondent and ORI, and correspondence between the respondent and ORI; any additional information provided to ORI while the case is pending before ORI; and any analysis or additional information generated or obtained by ORI. Any analysis or additional information generated or obtained by ORI will also be made available to the respondent.
 
@@ -51,9 +51,9 @@ This policy and related procedures apply only to research misconduct occurring w
 
 **Inquiry.&#x20;**&#x49;nquiry means preliminary information-gathering and preliminary fact-ﬁnding that meets the criteria and follows the procedures of § 93.307 through § 93.309.
 
-**Institution.&#x20;**&#x54;he President and Fellows of Middlebury College.
+**Institution.&#x20;**&#x54;he President and Fellows of Middlebury College ("Middlebury College" or "Middlebury").
 
-**Institutional Deciding Oﬃcial.&#x20;**&#x49;nstitutional Deciding Oﬃcial means the institutional oﬃcial who makes ﬁnal determinations on allegations of research misconduct and any institutional actions. The same individual cannot serve as the Institutional Deciding Oﬃcial and the Research Integrity Oﬃcer. The IDO at Middlebury is the Executive Vice President and Provost.
+**Institutional Deciding Oﬃcial.&#x20;**&#x49;nstitutional Deciding Oﬃcial means the institutional oﬃcial who makes ﬁnal determinations on allegations of research misconduct and any institutional actions. The same individual cannot serve as the Institutional Deciding Oﬃcial and the Research Integrity Oﬃcer. The IDO at Middlebury College is the Executive Vice President and Provost.
 
 **Institutional member.&#x20;**&#x49;nstitutional member and members means an individual (or individuals) who is employed by, is an agent of, or is aﬃliated by contract or agreement with an institution. Institutional members may include, but are not limited to, oﬃcials, tenured and untenured faculty, teaching and support staﬀ, researchers, research coordinators, technicians, postdoctoral and other fellows, students, volunteers, subject matter experts, consultants, or attorneys, or employees or agents of contractors, subcontractors, or sub-awardees.**&#xA0;**
 
@@ -75,7 +75,7 @@ This policy and related procedures apply only to research misconduct occurring w
 
 **Recklessly.&#x20;**&#x54;o act recklessly means to propose, perform, or review research, or report research results, with indiﬀerence to a known risk of fabrication, falsiﬁcation, or plagiarism.**&#xA0;**
 
-**Research Integrity Oﬃcer**. The Research Integrity Oﬃcer (RIO) refers to the institutional oﬃcial responsible for administering Middlebury’s written policies and procedures for addressing allegations of research misconduct in compliance with 42 CFR Part 93. Middlebury’s RIO is the Associate Dean of the Sciences.
+**Research Integrity Oﬃcer**. The Research Integrity Oﬃcer (RIO) refers to the institutional oﬃcial responsible for administering Middlebury’s written policies and procedures for addressing allegations of research misconduct in compliance with 42 CFR Part 93. The RIO at Middlebury College is the Associate Dean of the Sciences.
 
 **Research misconduct.&#x20;**&#x52;esearch misconduct means fabrication, falsiﬁcation, or plagiarism in proposing, performing, or reviewing research, or in reporting research results. Research misconduct does not include honest error or diﬀerences of opinion.
 
