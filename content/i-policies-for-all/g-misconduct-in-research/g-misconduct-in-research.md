@@ -21,7 +21,7 @@ For deﬁnitions of terms used in this section and elsewhere, see the Deﬁnitio
 
 ## 2.  Scope and Applicability
 
-This policy and related procedures apply to all allegations of research misconduct involving any Middlebury faculty member or employee, consistent with the PHS regulation. 
+This policy and related procedures apply to all allegations of research misconduct involving any member of the Middlebury community, including but not limited to issues addressed by the PHS regulation. 
 
 This policy and related procedures apply only to research misconduct occurring within six years of the date when U.S. Department of Health & Human Services (HHS) or Middlebury College receives an allegation of research misconduct, subject to the following exceptions:
 
@@ -77,7 +77,7 @@ This policy and related procedures apply only to research misconduct occurring w
 
 **Research Integrity Oﬃcer**. The Research Integrity Oﬃcer (RIO) refers to the institutional oﬃcial responsible for administering Middlebury’s written policies and procedures for addressing allegations of research misconduct in compliance with 42 CFR Part 93. The RIO at Middlebury College is the Associate Dean of the Sciences.
 
-**Research misconduct.&#x20;**&#x52;esearch misconduct means fabrication, falsiﬁcation, or plagiarism in proposing, performing, or reviewing research, or in reporting research results. Research misconduct does not include honest error or diﬀerences of opinion.
+**Research misconduct.&#x20;**&#x52;esearch misconduct includes fabrication, falsiﬁcation, or plagiarism in proposing, performing, or reviewing research, or in reporting research results. Research misconduct also includes failure to comply with applicable regulatory requirements or Middlebury policies governing the type of research being conducted, e.g., research involving animals, human subjects, hazardous materials, etc. Research misconduct does not include honest error or diﬀerences of opinion.
 
 **Research misconduct proceeding.&#x20;**&#x52;esearch misconduct proceeding means any actions related to alleged research misconduct taken under 42 CFR Part 93, including allegation assessments, inquiries, investigations, ORI oversight reviews, and appeals under subpart E of 42 CFR Part 93.
 
