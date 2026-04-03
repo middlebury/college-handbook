@@ -1,7 +1,7 @@
 ---
 slug: /pages/iii-policies-for-the-language-schools/c-financial-policies/c-1-fees
 title: C.1 Fees
-date: 2021-05-01
+date: 04/03/2026
 ---
 Students assume full responsibility for the payment of their bills by the due date. Without payment, students cannot register for courses or receive student ID cards.
 
@@ -16,14 +16,3 @@ If a student receives permission to take an extra course for credit, the student
 Doctor of Modern Languages students who live on campus during the summer to consult with their advisers, audit classes prior to examinations, or defend their dissertations pay for prorated room and board only.
 
 There is a dissertation fee for students defending, payable at the time the dissertation is submitted; contact the School Assistant Director for dissertation fee information.
-
-**Special Fees**
-
-Late Payment $50  
-Late Course Change $10  
-Late Placement Test $25  
-Late Registration $25  
-ID Replacement $20  
-Lost Key Replacement $50  
-Lock Change $50  
-Lockout Fee $10
