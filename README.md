@@ -2,7 +2,7 @@
 
 ## Requirements
 
-* [Node.js](https://nodejs.org/) ^20.19.4
+* [Node.js](https://nodejs.org/) ^24.14.1
 * [Gatsby CLI](https://www.gatsbyjs.com/docs/tutorial/getting-started/part-0/#gatsby-cli) - Install the Gatsby CLI globally by running the command below:
 
 ```shell

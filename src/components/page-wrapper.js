@@ -209,6 +209,7 @@ const PageWrapper = (props) => {
               expanded={expanded}
               expandOnClick
               showNodeIcon={false}
+              iconsClass="fa4"
               onCheck={(checked) => {
                 setChecked(checked);
                 handleChecked(checked);
