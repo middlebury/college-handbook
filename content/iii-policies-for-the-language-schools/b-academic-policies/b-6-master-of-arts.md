@@ -1,7 +1,7 @@
 ---
 slug: /pages/iii-policies-for-the-language-schools/b-academic-policies/b-6-master-of-arts
 title: B.6 Master of Arts
-date: 2021-05-01
+date: 04/17/2026
 ---
 **Master of Arts Degree Candidacy**
 
