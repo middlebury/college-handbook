@@ -1,31 +1,29 @@
 ---
 slug: /pages/iii-policies-for-the-language-schools/b-academic-policies/b-4-registration
 title: B.4 Registration
-date: 05/29/2025
+date: 04/17/2026
 ---
-Graduate students in the Arabic, French, German, Italian, Russian and Spanish Schools register for courses in Banner 9 Registration and receive an email with instructions on registration procedures. All other Language Schools and programs hold course registration on site after arrival. Once students have selected courses with their advisors, registration information is sent directly to the Registrar’s Office. Students’ courses will be listed on BannerWeb on the first day of class. If an error in scheduling occurs, students need to check with the Assistant Director of their Language School.
+Graduate students in the Arabic, French, German, Italian, Russian and Spanish Schools register for courses in Banner 9 Registration and receive an email with instructions on registration procedures. All other Language Schools and programs hold course registration on site after arrival. Once students have selected courses with their advisors, registration information is sent directly to the Registrar’s Office. Students’ courses will be listed on Banner 9 on the first day of class. If an error in scheduling occurs, students need to check with the Assistant Director of their Language School.
 
 **ADD/DROP Procedures**
 
-Add/Drop procedures are handled by each School office. Students must obtain the approvals of the instructors involved in the added and dropped courses, as well as approval of the director or associate director of the School. Students cannot add new courses after the Add/Drop deadline. Courses dropped before the Add/Drop deadline do not appear on transcripts. Courses dropped after the posted deadlines, but on or before July 16 will receive a grade of WD (withdraw) on the transcript. Courses dropped after July 16 receive a grade of WDF (withdraw failing) on the transcript. Notifying an instructor of non-attendance does not constitute official withdrawal from a course.
+Add/Drop procedures are handled by each School office. Students must obtain the approvals of the instructors involved in the added and dropped courses, as well as approval of the director or associate director of the School. Students cannot add new courses after the Add/Drop deadline. Courses dropped before the Add/Drop deadline do not appear on transcripts. Courses dropped after the posted deadlines, but on or before July 15 will receive a grade of WD (withdraw) on the transcript. Courses dropped after July 15 receive a grade of WDF (withdraw failing) on the transcript. Notifying an instructor of non-attendance does not constitute official withdrawal from a course.
 
-**2025 Add/Drop Deadlines:**
+**2026 Add/Drop Deadlines:**
 
-Paris 6-week session: June 20
+Paris 6-week session: June 18
 
-Arabic, Chinese, Japanese, Korean, and Russian 8-week sessions: July 1
+Arabic, Chinese, Japanese, Korean, and Russian 8-week sessions: June 30
 
-Buenos Aires 6-week session: July 1
+Buenos Aires 6-week session: June 30
 
-Arabic, Chinese, French, German, Hebrew, Italian, Japanese, Korean, Russian and Spanish 6-week sessions: July 4
+Arabic, Chinese, French, German, Hebrew, Italian, Japanese, Korean, Russian and Spanish 6-week sessions: July 3
 
-English, French, German, Hebrew, Italian, Portuguese and Spanish 7-week sessions: July 7
-
-English 6-week session: July 11
+French, German, Hebrew, Italian, Portuguese and Spanish 7-week sessions: July 6
 
 All 2, 3 and 4-week sessions: end of the third day of class
 
-\* _Last date to drop without grade penalty for all programs is July 16_
+\* Last date to drop without grade penalty for all programs is July 15
 
 **Credits and Credit Load**
 
@@ -43,7 +41,7 @@ All summer students must pay the full tuition even if they carry less than the f
 
 During the academic year, in certain circumstances with approval of the Director, students can pay a single course fee for an online portion of a graduate program.
 
-A degree must be earned within a 10-year period. All units of credit expire after 10 years, whether earned at Middlebury College or transferred from another institution. Thus, credit earned at the 2025 session will expire after the end of the 2035 session. The validity of a degree, which certifies a level of achievement, does not expire.
+A degree must be earned within a 10-year period. All units of credit expire after 10 years, whether earned at Middlebury College or transferred from another institution. Thus, credit earned at the 2026 session will expire after the end of the 2036 session. The validity of a degree, which certifies a level of achievement, does not expire.
 
 **Auditing**
 
