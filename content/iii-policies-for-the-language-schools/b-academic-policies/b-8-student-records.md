@@ -21,10 +21,8 @@ To petition for an incomplete grade, students must fill out an Incomplete Reques
 
 **Grade Reports**
 
-Final grades are available online (BannerWeb) approximately two weeks after the end of the session. Students are notified via email when final grades are available. Grades are never released over the phone or by email.
+Final grades are available online (Banner 9 Student) approximately two weeks after the end of the session. Students are notified via email when final grades are available. Grades are never released over the phone or by email.
 
 **Transcripts**
 
-Full instructions for ordering transcripts can be found at: [www.middlebury.edu/offices/academic/records/transcripts](https://www.middlebury.edu/offices/academic/records/transcripts).
-
-No transcripts are issued to students who are financially indebted to the College until satisfactory arrangements have been made with the Bursar’s Office.
+Full instructions for ordering transcripts can be found at: [https://www.middlebury.edu/registrar/records/transcripts](https://www.middlebury.edu/registrar/records/transcripts).
