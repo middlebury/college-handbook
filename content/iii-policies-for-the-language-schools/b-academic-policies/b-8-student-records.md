@@ -1,13 +1,13 @@
 ---
 slug: /pages/iii-policies-for-the-language-schools/b-academic-policies/b-8-student-records
-date: 2021-05-01
 title: B.8 Grades and Transcripts
+date: 04/17/2026
 ---
 **Grades**
 
 The following grades are used: A, A-, B+, B, B-, C+, C, C-, D, F. **No grade below a B- may be applied to a Middlebury Master of Arts degree, nor below B+ to the Doctor of Modern Languages degree**. An A+ grade is available only at the graduate level and represents exceptional level of achievement. Late submission of course work may have a negative impact on student grades as determined by the course instructor. Master of Arts degree students who are assigned a grade of “F” will be dismissed from the program. Doctor of Modern Languages students who are assigned a grade of "B" or lower will be dismissed from the program.
 
-Courses dropped after the end of the add/drop deadlines but on or before July 23 are recorded on the transcript with a grade of WD. A grade of WDF is recorded for courses dropped after July 23\. Requests for a grade of WD after July 23 will be granted only in cases of documented and unforeseeable medical or family emergencies. Pass/Fail grades and notations of “no credit” or “auditor” are not available.
+Courses dropped after the end of the add/drop deadlines but on or before July 15 are recorded on the transcript with a grade of WD. A grade of WDF is recorded for courses dropped after July 15. Requests for a grade of WD after July 15 will be granted only in cases of documented and unforeseeable medical or family emergencies. Pass/Fail grades and notations of “no credit” or “auditor” are not available.
 
 A change in grade will only be allowed in a case of clerical error or for the reason of fairness to the student.Students who wish to appeal a course grade should consult with the instructor of the course and the director of the School. Students must write a letter stating the reasons for the appeal and should include copies of all relevant supporting materials. A Change of Grade Form must be completed by the instructor of the course and the director. Subsequent appeal may be made to the dean of the Language Schools whose decision is final. **Appeal must be made in the six months following receipt of the course final grade.**
 
