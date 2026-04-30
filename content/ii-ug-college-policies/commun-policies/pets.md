@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/commun-policies/pets
 title: A.6. Pet Policy
-date: 02/12/2026
+date: 04/30/2026
 ---
 Pet Policy and Requirements for “Dogs at Work”
 
@@ -21,24 +21,30 @@ Middlebury employees on the College campus in Vermont may bring their dogs to wo
 
 **Dogs May Not Be Registered In These Buildings (this list is subject to change at any time)**
 
+Dogs are not allowed in the following buildings at any time:
+
+* Davis Family Library
 * Emma Willard House
-* McCardell Bicentennial Hall (dogs are not allowed in this building at any time)
-* The Marble Works (dogs are not allowed in this building at any time)
-* 700 Exchange Street (dogs are not allowed in this building at any time)
-* Peterson Family Athletic Complex (exceptions may be made for specific locations)
-* The Mahaney Center for the Arts (exceptions may be made for specific locations)
-* Davis Library (dogs are not allowed in this building at any time)
-* Bread Loaf campus (exceptions may be made for specific locations)
+* McCardell Bicentennial Hall 
+* The Marble Works 
+* 700 Exchange Street 
+* Peterson Family Athletic Complex\*
+* The Mahaney Center for the Arts\*
+* Bread Loaf campus\* 
+
+_\*exceptions may be made for specific locations_
 
 Employees with private, fully enclosed offices may bring their registered dogs to work only during [standard business hours](https://handbook.middlebury.edu/pages/ii-ug-college-policies/employee/employment/scheduling-hours-operation/), so long as they follow these steps for approval:
 
 a. The dog owner must first obtain permission from their supervisor/department chair/VP by completing Part I of the [approval and registration form](static/assets/dog-at-work-registration-form_2024.pdf). To be eligible for approval, employees must have a private, fully enclosed office. Workstations located in cubicles or other open‑air environments do not meet this requirement. Employees may not register or board dogs that do not belong to them (e.g. colleagues', friends', or family members' dogs). With the approval of a supervisor/department chair/VP, two employees who share a single, private office may be permitted to register their dog. However, only one dog is permitted in a single office at any given time.
 
-b. The dog owner must complete Part II of the registration form and email a scanned copy of the completed form (Parts I and II), plus a digital photograph of their dog, to [dogsatwork@middlebury.edu](mailto:dogsatwork@middlebury.edu) (please write “Dog Registration” in the subject line). Note that the registration process requires that your dog have a current dog license in the owner’s hometown and a copy of the license must be provided annually. No dog may be permitted on campus that is not fully vaccinated and current on all vaccinations (this includes puppies).
+b. The dog owner must complete Part II of the registration form and email a scanned copy of the completed form (Parts I and II), plus a digital photograph of their dog, to [dogsatwork@middlebury.edu](mailto:dogsatwork@middlebury.edu) (please write “Dog Registration” in the subject line). Note that the registration process requires that your dog have a current dog license in the owner’s hometown. A copy of the license must be provided to Dogs at Work annually. If an updated license is not submitted by April 30 of each year, the dog registration may be terminated. No dog may be permitted on campus that is not fully vaccinated and current on all vaccinations (this includes puppies).
 
 c. Once final approval is granted by the Office of General Counsel & Risk Management, and a sign to hang on your door has been received, only then may the dog be brought to your office. If you have not received notification of final approval from the Office of General Counsel & Risk Management, your dog has not yet been approved to come to work and may not be brought to the office until it has been received. 
 
 d. When the dog is on campus, the faculty or staff member is responsible for ensuring that the Conduct Requirements spelled out below are followed. Dogs demonstrating any aggressive behavior will not be allowed on campus.
+
+e. Employees must immediately notify Dogs at Work when they move to a new office. If the office is in a building that does not permit dogs, then their dog registration will be terminated.
 
 **Conduct Requirements for "Dogs at Work" Program**
 
