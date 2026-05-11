@@ -9,5 +9,6 @@ title: B. Academic Policies
 * [B.4 Registration](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-4-registration)
 * [B.5 For Middlebury College Undergraduates](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-5-for-middlebury-college-undergraduates)
 * [B.6 Master of Arts](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-6-master-of-arts)
-* [B.7 Doctor of Modern Languages](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-7-doctor-of-modern-languages)
-* [B.8 Grades and Transcripts](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-8-student-records)
+* [B.7 Master of Arts in Teaching in Secondary Education](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-7-master-of-arts-in-teaching-in-secondary-education)
+* [B.8 Doctor of Modern Languages](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-8-doctor-of-modern-languages)
+* [B.9 Grades and Transcripts](/pages/iii-policies-for-the-language-schools/b-academic-policies/b-9-student-records)

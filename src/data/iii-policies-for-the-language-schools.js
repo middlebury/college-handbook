@@ -66,16 +66,22 @@ export const policiesForLanguageSchoolsNodes = [
           },
           {
             value:
-              "iii-policies-for-the-language-schools/b-academic-policies/b-7-doctor-of-modern-languages",
-            label: "B.7 Doctor of Modern Languages",
-            className: "b-7-doctor-of-modern-languages",
+              "iii-policies-for-the-language-schools/b-academic-policies/b-7-master-of-arts-in-teaching-in-secondary-education",
+            label: "B.7 Master of Arts in Teaching in Secondary Education",
+            className: "b-7-master-of-arts-in-teaching-in-secondary-education",
           },
           {
             value:
-              "iii-policies-for-the-language-schools/b-academic-policies/b-8-student-records",
-            label: "B.8 Grades and Transcripts",
-            className: "b-8-student-records",
+              "iii-policies-for-the-language-schools/b-academic-policies/b-8-doctor-of-modern-languages",
+            label: "B.8 Doctor of Modern Languages",
+            className: "b-8-doctor-of-modern-languages",
           },
+          {
+            value:
+              "iii-policies-for-the-language-schools/b-academic-policies/b-9-student-records",
+            label: "B.9 Grades and Transcripts",
+            className: "b-9-student-records",
+          }
         ],
       },
       {
