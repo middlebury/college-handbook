@@ -1,6 +1,6 @@
 ---
-slug: /pages/iii-policies-for-the-language-schools/b-academic-policies/b-8-student-records
-title: B.8 Grades and Transcripts
+slug: /pages/iii-policies-for-the-language-schools/b-academic-policies/b-9-student-records
+title: B.9 Grades and Transcripts
 date: 04/17/2026
 ---
 **Grades**
