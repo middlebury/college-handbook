@@ -14,3 +14,5 @@ date: 2021-12-17
 *   [D.7. Alcohol and Illegal Drugs](/pages/v-policies-for-schools-abroad/other-program-policies/alcohol-and-illegal-drugs)
 *   [D.8. Married Students](/pages/v-policies-for-schools-abroad/other-program-policies/married-students)
 *   [D.9. Students with Disabilities](/pages/v-policies-for-schools-abroad/other-program-policies/students-with-disabilities)
+*   [D.10. Ethical Reporting and Complaints on Academic Quality](/pages/v-policies-for-schools-abroad/other-program-policies/ethical-reporting-complaints-on-academic-quality)
+*   [D.11. Housing and Residential Expectations](/pages/v-policies-for-schools-abroad/other-program-policies/housing-residential-expectations)
