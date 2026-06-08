@@ -1,5 +1,5 @@
 ---
-slug: /pages/v-policies-for-schools-abroad/other-program-policies/housing-residential-expecteations
+slug: /pages/v-policies-for-schools-abroad/other-program-policies/housing-residential-expectations
 title: D.11. Housing and Residential Expectations
 date: 2026-06-08
 ---
