@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/contract-policy
 title: C.13. Grants & Contracts
-date: 2021-05-01
+date: 06/09/2026
 ---
 _**Please note:**_ In light of ongoing changes in federal regulations and administrative structure, this section may be revised periodically. Please check with the dean for faculty development and research, or the Office of Grants and Sponsored Programs if you have questions regarding administrative policies or procedures.
 
@@ -27,9 +27,9 @@ Awards made as a result of grant or contract proposals submitted by Middlebury f
 
 **5.** Applications approved by the aforementioned officers must be reviewed by the Office of Grants and Sponsored Programs to ensure compliance with Middlebury and federal government (or other sponsor) requirements. The following guidelines apply:
 
-**a.** Project applications incorporating provisions for extra pay for research or other project work normally will be approved to provide for up to two months of extra work during the summer. One month's summer salary is equal to 1/9th of the annual contract salary for the prior academic year.  Exceptions to this policy must be approved by the VPAA/DOF, upon recommendation of the DFDR.
+**a.** Project applications incorporating provisions for extra pay for research or other project work normally will be allowed to provide for up to two months of extra work during the summer, or up to three months of summer salary with approval by the VPAA. One month's summer salary is equal to 1/9th of the annual contract salary for the prior academic year.
 
-**b.** The budget incorporated in the project application must include applicable indirect (F&A) costs at Middlebury’s federally-approved indirect cost rate unless the sponsor or solicitation otherwise limits them.  Exceptions to this policy must be approved in advance by the VPAA/DOF.
+**b.** The budget incorporated in the project application must include applicable indirect (F\&A) costs at Middlebury’s federally-approved indirect cost rate unless the sponsor or solicitation otherwise limits them.  Exceptions to this policy must be approved in advance by the VPAA/DOF.
 
 **c.** All direct costs comprehensively defined will be reflected in the budget incorporated in the project application. When faculty apply for outside funding to support academic leaves, the level of support from the College is understood to be 75 percent of stated salary for a semester leave and 55 percent of stated salary for a year's leave.
 
