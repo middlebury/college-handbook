@@ -1,7 +1,7 @@
 ---
 slug: /pages/iii-policies-for-the-language-schools/b-academic-policies/b-6-master-of-arts
 title: B.6 Master of Arts
-date: 04/17/2026
+date: 06/09/2026
 ---
 **Master of Arts Degree Candidacy**
 
@@ -23,13 +23,13 @@ Chinese
 
 French:
 
-[MA in French, degree requirements 2024/25](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1C0-Pfnyo01jtxoMCvamT8bGhejP00J3ERWgd_wXzd4w%2Fedit%3Fusp%3Dsharing&data=05%7C02%7Cnsteen%40middlebury.edu%7C45500442a4544a251a4e08dc84d0160f%7Ca1bb0a191576421dbe93b3a7d4b6dcaa%7C1%7C0%7C638531276459500347%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C4000%7C%7C%7C&sdata=jua88dNxpGVaXHZG6It6eikJhJbRnwF1esqy1C2d3%2BA%3D&reserved=0) 
+[MA in French, degree requirements 2024/25](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1C0-Pfnyo01jtxoMCvamT8bGhejP00J3ERWgd_wXzd4w%2Fedit%3Fusp%3Dsharing\&data=05%7C02%7Cnsteen%40middlebury.edu%7C45500442a4544a251a4e08dc84d0160f%7Ca1bb0a191576421dbe93b3a7d4b6dcaa%7C1%7C0%7C638531276459500347%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C4000%7C%7C%7C\&sdata=jua88dNxpGVaXHZG6It6eikJhJbRnwF1esqy1C2d3%2BA%3D\&reserved=0) 
 
-[MA in Applied Languages; French, degree requirements 2024/25](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1lVDVfZ3IdiqbABsgae63KDlhpQitUVuV6n715V4aeNQ%2Fedit%3Fusp%3Dsharing&data=05%7C02%7Cnsteen%40middlebury.edu%7C45500442a4544a251a4e08dc84d0160f%7Ca1bb0a191576421dbe93b3a7d4b6dcaa%7C1%7C0%7C638531276459512893%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C4000%7C%7C%7C&sdata=HSm%2Fs4tsbR2Go6E%2FO0S3D6ePPJgNexkcsp4sXGINYXI%3D&reserved=0) 
+[MA in Applied Languages; French, degree requirements 2024/25](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1lVDVfZ3IdiqbABsgae63KDlhpQitUVuV6n715V4aeNQ%2Fedit%3Fusp%3Dsharing\&data=05%7C02%7Cnsteen%40middlebury.edu%7C45500442a4544a251a4e08dc84d0160f%7Ca1bb0a191576421dbe93b3a7d4b6dcaa%7C1%7C0%7C638531276459512893%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C4000%7C%7C%7C\&sdata=HSm%2Fs4tsbR2Go6E%2FO0S3D6ePPJgNexkcsp4sXGINYXI%3D\&reserved=0) 
 
-[MA in Applied Languages with TAPIF, degree requirements 2024/25](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F10F6DiUiJwbEsaoPb9TxwfsmvOVuF25mdJRUmuZ--r-g%2Fedit%3Fusp%3Dsharing&data=05%7C02%7Cnsteen%40middlebury.edu%7C45500442a4544a251a4e08dc84d0160f%7Ca1bb0a191576421dbe93b3a7d4b6dcaa%7C1%7C0%7C638531276459521752%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C4000%7C%7C%7C&sdata=J6XnIRjbinJJGXnEHEqZ2sOA7uF%2BkDYHB47sFy1jPCo%3D&reserved=0) 
+[MA in Applied Languages with TAPIF, degree requirements 2024/25](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F10F6DiUiJwbEsaoPb9TxwfsmvOVuF25mdJRUmuZ--r-g%2Fedit%3Fusp%3Dsharing\&data=05%7C02%7Cnsteen%40middlebury.edu%7C45500442a4544a251a4e08dc84d0160f%7Ca1bb0a191576421dbe93b3a7d4b6dcaa%7C1%7C0%7C638531276459521752%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C4000%7C%7C%7C\&sdata=J6XnIRjbinJJGXnEHEqZ2sOA7uF%2BkDYHB47sFy1jPCo%3D\&reserved=0) 
 
-[MA in French, Independent Research paper, 2024](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1JtFlgTLeYcAEJ65Qc91rt_KgjZT3qaThISQJkoeqgU8%2Fedit%3Fusp%3Dsharing&data=05%7C02%7Cnsteen%40middlebury.edu%7C45500442a4544a251a4e08dc84d0160f%7Ca1bb0a191576421dbe93b3a7d4b6dcaa%7C1%7C0%7C638531276459528097%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C4000%7C%7C%7C&sdata=JWG4unv7YSd1rqkITlUO7Pu93mrq3QSIkWv2PSVt0Ks%3D&reserved=0)
+[MA in French, Independent Research paper, 2024](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1JtFlgTLeYcAEJ65Qc91rt_KgjZT3qaThISQJkoeqgU8%2Fedit%3Fusp%3Dsharing\&data=05%7C02%7Cnsteen%40middlebury.edu%7C45500442a4544a251a4e08dc84d0160f%7Ca1bb0a191576421dbe93b3a7d4b6dcaa%7C1%7C0%7C638531276459528097%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C4000%7C%7C%7C\&sdata=JWG4unv7YSd1rqkITlUO7Pu93mrq3QSIkWv2PSVt0Ks%3D\&reserved=0)
 
 German MA Degree Requirements: 
 
@@ -45,7 +45,7 @@ Japanese:
 
 Korean:
 
-[https://www.middlebury.edu/language-schools/sites/default/files/2022-10/Korean%20Policies%202022-2023_1.pdf](https://www.middlebury.edu/language-schools/sites/default/files/2022-10/Korean%20Policies%202022-2023_1.pdf)
+[https://www.middlebury.edu/language-schools/sites/default/files/2022-10/Korean%20Policies%202022-2023\_1.pdf](https://www.middlebury.edu/language-schools/sites/default/files/2022-10/Korean%20Policies%202022-2023_1.pdf)
 
 Russian:
 
@@ -69,7 +69,7 @@ All credit awarded by the Language Schools is defined in terms of units. One uni
 
 The Language Schools advise against taking more than the three-course load. Permission to take a fourth course must be obtained from the director or associate director of the School, and is granted only in rare exceptions, and only to graduate students who have studied previously at the School. Students are billed for extra courses after the beginning of the session (see Extra Course Fees). Payment in full is due upon receipt of the bill.
 
-A degree must be earned within a 10-year period. All units of credit expire after 10 years, whether earned at Middlebury College or transferred from another institution. Thus, credit earned at the 2020 session will expire after the end of the 2030 session. The validity of a degree, which certifies a level of achievement, does not expire.
+A degree must be earned within a 10-year period. All units of credit expire after 10 years, whether earned at Middlebury College or transferred from another institution. Thus, credit earned at the 2026 session will expire after the end of the 2036 session. The validity of a degree, which certifies a level of achievement, does not expire.
 
 **Independent Study Courses**
 
