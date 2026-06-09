@@ -1,13 +1,13 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/leave-program
-date: 2021-05-01
 title: C.7. Research Leave Program
+date: 06/09/2026
 ---
-**1\. PURPOSE OF THE PROGRAM**
+**1. PURPOSE OF THE PROGRAM**
 
 Leaves of absence are granted to enhance the scholarly and teaching capacity of the individual faculty member and to promote the general interest of the College.
 
-**2\. BASIC ASPECTS OF THE PROGRAM**
+**2. BASIC ASPECTS OF THE PROGRAM**
 
 **a.** Normally, a minimum of four consecutive academic years (eight consecutive semesters, when the last leave was a semester leave) should elapse before a faculty member becomes eligible for a one-semester leave, and, with the exception of the leaves described in paragraph c. below, five years in the case of a full-year leave. A colleague must have taught full time during the academic year preceding a leave. Exceptions are sometimes made in the case of intervening familial or disability leaves. Tenured colleagues may request that a future leave be split between an accelerated semester leave that occurs after five consecutive semesters of teaching, and a second semester of leave that is taken five semesters later. Departmental and College planning will have top priority in determining any exceptions to the policy of the leave of absence program.
 
@@ -25,7 +25,7 @@ Once outside funding sources have been exhausted, the College will then consider
 
 **d.** All faculty who apply for outside funding are required to submit to the DFDR copies of proposals sent to granting sources whether or not the awards involve institutional commitments. The College cannot guarantee leaves to faculty who have applied for and received outside funds for a year in which they are not scheduled for academic leave. However, requests for out-of-sequence leaves may be considered when a colleague is offered an unusual professional opportunity.
 
-**e.** Colleagues who seek funds for summer salary during academic leaves must discuss with the DFDR the impact of these funds, if awarded, on College contributions to the academic year salary. Normally, a colleague may seek summer support of no more than two-ninths of the previous academic year's salary.  This amount may rise to 2.5/9ths with permission of the VPAA/DoF.
+**e.** Colleagues may seek funds for summer salary in addition to funds to support their leave proposals. A colleague may seek summer support of two-ninths of the previous academic year's salary, or up to three-ninths with approval of the VPAA.
 
 **f.** When the needs of the department or the College lead the administration to request that a colleague postpone a full-year leave according to the normal rotation, after six years of full-time teaching the automatic amount of salary paid will be 75 percent, rising to 90 percent once outside funding sources have been exhausted. If personal circumstances lead a colleague to choose to put off a leave, the normal funding rules will apply (see a. and b. above). The intent to take a full-year leave after six years must be announced at least three semesters in advance and must be accommodated in departmental planning.
 
@@ -37,7 +37,7 @@ Once outside funding sources have been exhausted, the College will then consider
 
 **j.** Upon completion of leave, a full report on the faculty member's scholarly activity should be sent to the Office of the Dean for Faculty Development and Research, for inclusion in his or her file. Faculty must submit the report by September 1 following the leave in order to become eligible for future leaves.
 
-**3\. IMPLEMENTATION**
+**3. IMPLEMENTATION**
 
 **a.** The needs and resources of the College program, and the ability to plan, will be a major factor in the implementation and maintenance of the leave program. The exact timing of individual leaves is subject to change due to department, program, or college needs.
 
