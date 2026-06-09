@@ -1,11 +1,11 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/extra-service-pay-policy
-date: 2021-05-01
 title: C.16. Faculty Extra Service Pay policy
+date: 06/09/2026
 ---
 **BACKGROUND**
 
-Faculty at Middlebury’s undergraduate college (hereafter, the College) have regular responsibilities for teaching, research, and service, and they are compensated for these responsibilities with their 9 month institutional base salary (IBS). The regular responsibilities encompassed in IBS are described in appointment letters, job descriptions as posted in original advertisements, and the _[Middlebury Handbook](/pages/ii-ug-college-policies/faculty/faculty-rules#principles)_. At times, faculty members at the College assume various additional responsibilities that are not directly related to their regular responsibilities, or that are in addition to their regular responsibilities; these responsibilities include serving as department chairs or program directors, serving as administrative directors, as well as other additional responsibilities as determined by the VPAA/DoF. Extra service pay is made to faculty as acknowledgement of the additional responsibilities when certain conditions are met. In addition, it is important to ensure extra service pay paid from federally funded awards complies with requirements in Office of Management and Budget (OMB) circular 2 CFR 200 Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards.
+Faculty at Middlebury’s undergraduate college (hereafter, the College) have regular responsibilities for teaching, research, and service, and they are compensated for these responsibilities with their 9 month institutional base salary (IBS). The regular responsibilities encompassed in IBS are described in appointment letters, job descriptions as posted in original advertisements, and the [_Middlebury Handbook_](/pages/ii-ug-college-policies/faculty/faculty-rules#principles). At times, faculty members at the College assume various additional responsibilities that are not directly related to their regular responsibilities, or that are in addition to their regular responsibilities; these responsibilities include serving as department chairs or program directors, serving as administrative directors, as well as other additional responsibilities as determined by the VPAA/DoF. Extra service pay is made to faculty as acknowledgement of the additional responsibilities when certain conditions are met. In addition, it is important to ensure extra service pay paid from federally funded awards complies with requirements in Office of Management and Budget (OMB) circular 2 CFR 200 Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards.
 
 **POLICY STATEMENT**
 
@@ -19,7 +19,7 @@ Intra-institution consulting by faculty is assumed to be undertaken as an obliga
 
 Extra service pay from a sponsored award from any source should be identified and justified in the original proposal if the circumstances are known at the time. Extra service pay that is paid from a sponsored award must be disclosed and approved in accordance with sponsor requirements, if applicable.
 
-The Contracts & Grants Policy section of the _Middlebury Handbook_ states that *“Applications incorporating provisions for extra pay for research work normally will be approved to provide for up to two months of extra work during the summer. One month's summer salary is equal to 1/9th of the annual contract salary for the prior academic year. Exceptions to this policy must be approved by the VPAA/DoF, upon recommendation of the director of the Sciences, director of the Arts, director of humanities or DFDR.”*  The VPAA/DoF will consider and approve faculty requests for 2.5 months of grant-funded summer salary when the sponsor allows such requests and there is sufficient documentation for that level of effort.
+The Contracts & Grants Policy section of the _Faculty Handbook_ states that "_Project applications incorporating provisions for extra pay for research or other project work normally will be allowed to provide for up to two months of extra work during the summer, or up to three months of summer salary with approval by the VPAA. One month's summer salary is equal to 1/9th of the annual contract salary for the prior academic year._" The VPAA will consider and approve faculty requests for up to 3.0 months of grant-funded summer salary when the sponsor(s) allow such requests and there is appropriate confirmation for that level of effort.
 
 **EXAMPLES OF RESPONSIBILITES ELIGIBLE FOR EXTRA SERVICE PAY**
 
@@ -33,4 +33,4 @@ The Contracts & Grants Policy section of the _Middlebury Handbook_ states that *
 
 **Institutional Base Salary (IBS)** is the annual compensation paid by Middlebury for an individual’s appointment responsibilities, whether that individual’s time is spent on teaching, research, service, or other activities. For faculty members, IBS is based on a 9 months academic year.
 
-**Regular Responsibilities** for teaching, research, service, or other activities are the duties compensated by IBS. Regular responsibilities are described in appointment letters and the _[Middlebury handbook](/pages/ii-ug-college-policies/faculty/faculty-rules#principles)_.
+**Regular Responsibilities** for teaching, research, service, or other activities are the duties compensated by IBS. Regular responsibilities are described in appointment letters and the [_Middlebury handbook_](/pages/ii-ug-college-policies/faculty/faculty-rules#principles).
