@@ -21,7 +21,7 @@ A person who already owns a home within an approximately 30-mile radius of the C
 
 Tenants become ineligible for College-owned rental housing upon relocation to non-College owned housing, purchase of permanent housing, or termination of employment with Middlebury, whichever comes first. Upon leaving College-owned housing for any reason, an employee shall be deemed ineligible for any future participation in the College rental program.
 
-In all circumstances, the Vice President for Academic Affairs (VPAA) and/or the Director of Business Services has the final say in an employee’s eligibility.
+In all circumstances, the VPAA and/or the Director of Business Services shall have the sole and exclusive authority to make any decision, determination, approval or denial of a tenant's eligibility. Any decision or action by any other administrator is invalid and shall have no force or effect.
 
 **3. Housing policies**
 
@@ -54,7 +54,7 @@ A resident who is: (1) already in College-owned rental housing, and (2) who will
 
 If a tenant wants to move to a different unit at any point during the year due to changing family size and dynamics, they should contact the Director of Business Services to determine eligibility and availability of housing. If approved, they may select a unit from the available housing stock. Please note as stated in Section A.3 above, this program does not permit moving from one unit to another unit each year, except in these circumstances.
 
-In all circumstances, the VPAA and/or the Director of Business Services has the final say in the housing selection process.
+In all circumstances, the VPAA and/or the Director of Business Services shall have the sole and exclusive authority to make any decision, determination, approval or denial in the housing selection process. Any decision or action by any other administrator is invalid and shall have no force or effect.
 
 **B. MORTGAGE PROGRAM**
 
