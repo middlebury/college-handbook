@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/faculty-housing
 title: C.23. Housing Programs
-date: 03/17/2025
+date: 06/19/2026
 ---
 Middlebury College Employee Benefits are described in the [Employee Handbook](https://handbook.middlebury.edu/pages/ii-ug-college-policies/employee/) chapter of the College Handbook. Because faculty are employed on a contractual basis, specific provisions relating to vacation and sick leave, as stated in the Employee Handbook chapter, may not be applicable to them. Conversely, faculty may be eligible for specific provisions that are not applicable to staff.
 
@@ -15,22 +15,22 @@ The purpose of the Middlebury College rental program is to attract and retain ne
 
 Newly hired faculty members with the rank of Professor, Associate Professor, Assistant Professor, Instructor, and certain administrative staff are eligible for College-owned rental housing.
 
-Visiting faculty, Adjunct faculty, and other non, full-time faculty or scholars may be eligible for rental housing on an as needed basis in exceptional circumstances and will only be included in the housing selection process if there are units available after all other eligible employees are added to the list.
+Visiting faculty, Adjunct faculty, and other non-full-time faculty or scholars may be eligible for rental housing on an as needed basis in exceptional circumstances and will only be included in the housing selection process if there are units available after all other eligible employees are added to the list.
 
 A person who already owns a home within an approximately 30-mile radius of the College is not eligible for rental housing, although allowances may be made for transitional situations in exceptional circumstances.
 
-Tenants become ineligible for College-owned rental housing upon purchase of permanent housing or termination of employment with Middlebury, whichever comes first.
+Tenants become ineligible for College-owned rental housing upon relocation to non-College owned housing, purchase of permanent housing, or termination of employment with Middlebury, whichever comes first. Upon leaving College-owned housing for any reason, an employee shall be deemed ineligible for any future participation in the College rental program.
 
-In all circumstances, the Vice President for Academic Affairs (VPAA) and/or the Director of Business Services has the final say in an employee’s eligibility.
+In all circumstances, the VPAA and/or the Director of Business Services shall have the sole and exclusive authority to make any decision, determination, approval or denial of a tenant's eligibility. Any decision or action by any other administrator is invalid and shall have no force or effect.
 
 **3. Housing policies**
 
 All rental agreements (“agreement”) are written for a one-year term normally beginning in mid-August each year and ending June 30 the following year. Tenants will have the option to extend their agreements as long as they meet the following criteria:
 
-*   Eligible tenured and tenure-track faculty tenants whose contract begins on July 1, 2025, can stay in College-owned housing for a **maximum of 4 consecutive years** or the end of employment with the College, whichever comes first. If your contract began before that date, the previous tenancy time period still applies.
-*   All other eligible tenants can stay in College-owned housing for a **maximum of 2 consecutive years** or the end of employment with the College, whichever comes first.
-*   In the event that the partner or spouse of a current tenant is newly hired at Middlebury, the maximum period of tenancy **will not be double counted or extended** based on the new hire’s starting date. Tenancy timeframes are consecutive and will be based on the current longest standing tenant.
-*   Employees **must be actively searching** for permanent housing during their temporary tenancy in College-owned housing.
+* Eligible tenured and tenure-track faculty tenants whose contract begins on July 1, 2025, can stay in College-owned housing for a **maximum of 4 consecutive years** or the end of employment with the College, whichever comes first. If your contract began before that date, the previous tenancy time period still applies.
+* All other eligible tenants can stay in College-owned housing for a **maximum of 2 consecutive years** or the end of employment with the College, whichever comes first.
+* In the event that the partner or spouse of a current tenant is newly hired at Middlebury, the maximum period of tenancy **will not be double counted or extended** based on the new hire’s starting date. Tenancy timeframes for couples will be based on the current longest standing tenant.
+* Employees **must be actively searching** for permanent housing during their temporary tenancy in College-owned housing.
 
 In all circumstances, the Vice President for Academic Affairs (VPAA) and/or the Director of Business Services has the final say in an employee’s ability to extend their rental agreement.
 
@@ -54,7 +54,7 @@ A resident who is: (1) already in College-owned rental housing, and (2) who will
 
 If a tenant wants to move to a different unit at any point during the year due to changing family size and dynamics, they should contact the Director of Business Services to determine eligibility and availability of housing. If approved, they may select a unit from the available housing stock. Please note as stated in Section A.3 above, this program does not permit moving from one unit to another unit each year, except in these circumstances.
 
-In all circumstances, the VPAA and/or the Director of Business Services has the final say in the housing selection process.
+In all circumstances, the VPAA and/or the Director of Business Services shall have the sole and exclusive authority to make any decision, determination, approval or denial in the housing selection process. Any decision or action by any other administrator is invalid and shall have no force or effect.
 
 **B. MORTGAGE PROGRAM**
 
