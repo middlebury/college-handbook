@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/faculty-housing
 title: C.23. Housing Programs
-date: 03/26/2026
+date: 06/19/2026
 ---
 Middlebury College Employee Benefits are described in the [Employee Handbook](https://handbook.middlebury.edu/pages/ii-ug-college-policies/employee/) chapter of the College Handbook. Because faculty are employed on a contractual basis, specific provisions relating to vacation and sick leave, as stated in the Employee Handbook chapter, may not be applicable to them. Conversely, faculty may be eligible for specific provisions that are not applicable to staff.
 
@@ -19,7 +19,7 @@ Visiting faculty, Adjunct faculty, and other non-full-time faculty or scholars m
 
 A person who already owns a home within an approximately 30-mile radius of the College is not eligible for rental housing, although allowances may be made for transitional situations in exceptional circumstances.
 
-Tenants become ineligible for College-owned rental housing upon purchase of permanent housing or termination of employment with Middlebury, whichever comes first.
+Tenants become ineligible for College-owned rental housing upon relocation to non-College owned housing, purchase of permanent housing, or termination of employment with Middlebury, whichever comes first. Upon leaving College-owned housing for any reason, an employee shall be deemed ineligible for any future participation in the College rental program.
 
 In all circumstances, the Vice President for Academic Affairs (VPAA) and/or the Director of Business Services has the final say in an employee’s eligibility.
 
