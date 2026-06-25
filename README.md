@@ -46,3 +46,13 @@ npm run serve
 ## Contributing to the project 
 
 Look at CONTRIBUTING.md for instructions on how to add new pages to the handbook. 
+
+## Workflows
+
+1. Build workflow
+
+```mermaid
+flowchart LR
+    A@{ shape: sm-circ, label: "Small start" } --> B[Commit to main] --> C[Triggers Github Action to deploy to Azure] --> D[Latest updates are deployed to the site at handbook.middlebury.edu];
+B --> E[Triggers build in Netlify] --> F[Latest updates are deployed to the site at college-handbook.netlify.app];
+```
