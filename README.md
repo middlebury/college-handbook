@@ -53,6 +53,6 @@ Look at CONTRIBUTING.md for instructions on how to add new pages to the handbook
 
 ```mermaid
 flowchart LR
-    A@{ shape: sm-circ, label: "Small start" } --> B[Commit to main] --> C[Triggers Github Action to deploy to Azure] --> D[Latest updates are deployed to the site at handbook.middlebury.edu];
-B --> E[Triggers build in Netlify] --> F[Latest updates are deployed to the site at college-handbook.netlify.app];
+    A@{ shape: sm-circ, label: "Small start" } --> B[Commit to `main` branch] -- Azure flow --> C[Github Action workflow runs 'Build and Deploy Job' as defined in .github/workflows/azure-static-web-apps-happy-bay-0bf76b610.yml] --> E['npm run build' builds files and assets for frontend application and CMS] --> F[Built bundle is deployed to the site at handbook.middlebury.edu];
+B -- Netlify flow --> G[Triggers build in Netlify] --> H['npm run build' builds files and assets for frontend application and CMS] --> I[Built bundle is deployed to the site at college-handbook.netlify.app];
 ```
