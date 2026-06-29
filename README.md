@@ -46,3 +46,19 @@ npm run serve
 ## Contributing to the project 
 
 Look at CONTRIBUTING.md for instructions on how to add new pages to the handbook. 
+
+## Project Setup
+This project uses [GatsbyJS](https://www.gatsbyjs.com/front-end-framework/) and [Decap CMS](https://decapcms.org/). The built assets are served as an Azure site at [handbook.middlebury.edu](https://handbook.middlebury.edu/). 
+
+The built assets are also served through Netlify at [college-handbook.netlify.app](https://college-handbook.netlify.app), in order to take advantage of Netlify's built-in authentication service called [Identity](https://docs.netlify.com/manage/security/secure-access-to-sites/identity/overview/). It allows for easy management of users for this application.
+To manage the college handbook site in Netlify go to app.netlify.com and login using the webaster@middlebury.edu account.
+
+The CMS can be accessed at [college-handbook.netlify.app/admin](https://college-handbook.netlify.app/admin/).
+
+## Build Workflow
+
+```mermaid
+flowchart LR
+    A@{ shape: sm-circ, label: "Small start" } --> B[Commit to `main` branch] -- Azure flow --> C[Github Action workflow runs 'Build and Deploy Job' as defined in .github/workflows/azure-static-web-apps-happy-bay-0bf76b610.yml] --> E['npm run build' builds files and assets for frontend application and CMS] --> F[Built bundle is deployed to the site at handbook.middlebury.edu];
+B -- Netlify flow --> G[Triggers build in Netlify] --> H['npm run build' builds files and assets for frontend application and CMS] --> I[Built bundle is deployed to the site at college-handbook.netlify.app];
+```

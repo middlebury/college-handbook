@@ -63,7 +63,8 @@ export const policiesForSchoolsAbroadNodes = [
           {value: "v-policies-for-schools-abroad/other-program-policies/alcohol-and-illegal-drugs", label: "D.7. Alcohol and Illegal Drugs", className: "alcohol-and-illegal-drugs"},
           {value: "v-policies-for-schools-abroad/other-program-policies/married-students", label: "D.8. Married Students", className: "married-students"},
           {value: "v-policies-for-schools-abroad/other-program-policies/students-with-disabilities", label: "D.9. Students with Disabilities", className: "students-with-disabilities"},
-          {value: "v-policies-for-schools-abroad/other-program-policies/ethical-reporting-complaints-on-academic-quality", label: "D.10. Ethical Reporting and Complaints on Academic Quality", className: "ethical-reporting-complaints-on-academic-quality"}
+          {value: "v-policies-for-schools-abroad/other-program-policies/ethical-reporting-complaints-on-academic-quality", label: "D.10. Ethical Reporting and Complaints on Academic Quality", className: "ethical-reporting-complaints-on-academic-quality"},
+          {value: "v-policies-for-schools-abroad/other-program-policies/housing-residential-expectations", label: "D.11. Housing and Residential Expectations", className: "housing-residential-expectations"}
         ]
       }
     ],
