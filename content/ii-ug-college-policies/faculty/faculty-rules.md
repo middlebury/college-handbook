@@ -236,7 +236,7 @@ Faculty who have completed the equivalent of two years of full-time teaching may
 
 #### **c. Evaluation of Scholarship** {#review\_eval\_scholarship}
 
-A candidate's scholarship or artistic production is considered by the Promotions Committee or Reappointments Committee in terms of activity and of achievement.
+A candidate's scholarship or artistic production is considered in terms of activity and of achievement.
 
 _Scholarly activity_ represents a pattern of related professional involvements, which may include: research and experimentation; writing, analyzing, creating; presentations to peers or to the public; responsible roles in professional organizations; visiting professorships; applying for and receiving outside grants and fellowships; and developing new fields of expertise.
 
