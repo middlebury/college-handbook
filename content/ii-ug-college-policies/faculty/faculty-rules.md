@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/faculty-rules
 title: C.3. Rules of Appointment and Tenure for Academic Faculty
-date: 2021-05-01
+date: 07/01/2026
 ---
 **Section Links:**
 
@@ -38,7 +38,7 @@ f. [Program Director’s Evaluation](#program_eval)
 
 g. [Confidentiality and Access](#confidentiality)
 
-**3.** [**Procedures and Responsibilities**](#procedures_responsibilities)
+**3.** [**Procedural Responsibilities**](#procedures_responsibilities)
 
 a. [First Review](#firstr)
 
@@ -768,7 +768,7 @@ Faculty who teach less than full-time are normally reviewed after they have taug
 
 The _**normal**_ schedule for length of initial appointment and the character of initial review for reappointment is as follows:
 
-|                          |                            |                  |                                                                |
+|                          |                            |                  |                                                                |
 | ------------------------ | -------------------------- | ---------------- | -------------------------------------------------------------- |
 | _Years of Prior Service_ | _Length of First Contract_ | _Initial Review_ | _Year in which review takes place_                             |
 | 1-2                      | 3                          | First            | Third (fall)                                                   |
