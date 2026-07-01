@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/faculty-committees
 title: C.2. Faculty Councils and Committees
-date: 12/18/2025
+date: 07/01/2026
 ---
 There are eight general councils and committees of the faculty:
 
@@ -423,4 +423,4 @@ When an appeal is to be heard, the Appeals Council will form an Appeal Committee
 
 #### **8.  Physical Education and Athletics Committee on Reappointment** {#athletics}
 
-The Physical Education and Athletics Committee on Reappointment (PEACOR) will be composed of the director of athletics, the senior woman administrator, a senior department member elected by the members of the department of physical education, the chair of the Faculty Athletic Policy Committee, and the dean of the College.  This committee will conduct major reviews of faculty in the department of physical education in accordance with the provisions for "Review and Reappointment in the Department of Physical Education" included in the rules of reappointment and tenure.
+The Physical Education and Athletics Committee on Reappointment (PEACOR) will be composed of the director of athletics, the senior woman administrator, a senior associate in physical education elected by the members of the department of physical education, the chair of the Faculty Athletic Policy Committee or their designate, and the dean of the College.  This committee will conduct major reviews of faculty in the department of physical education in accordance with the provisions for "Review and Reappointment in the Department of Physical Education" included in the rules of reappointment and tenure.
