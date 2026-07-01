@@ -10,11 +10,6 @@ display_url: https://handbook.middlebury.edu
 
 publish_mode: editorial_workflow
 
-media_library:
-  name: uploadfiles
-  config:
-      max_file_size: 8192000
-
 collections:
   - name: "middlebury-wide"
     label: "I. Middlebury Wide Policies"
