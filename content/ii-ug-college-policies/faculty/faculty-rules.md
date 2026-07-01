@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/faculty-rules
 title: C.3. Rules of Appointment and Tenure for Academic Faculty
-date: 2021-05-01
+date: 07/01/2026
 ---
 **Section Links:**
 
@@ -11,15 +11,15 @@ a. [Purpose](#purpose)
 
 b. [Principles](#principles) – teaching, scholarship, service, academic freedom
 
-c. [Faculty Appointments](#faculty_appts) – regular, term, special, associate   
+c. [Faculty Appointments](#faculty_appts) – regular, term, special, associate 
 appointments, voting, committee assignments
 
 d. [Procedure of Appointment](#procedure_appt)
 
-e. [Review and Reappointment](#review_reappt) – review schedule, first review,   
+e. [Review and Reappointment](#review_reappt) – review schedule, first review, 
 post-review consultation, appointments following a negative review
 
-f. [Promotion to Tenure](#promote_tenure) – institutional assumptions regarding tenure,   
+f. [Promotion to Tenure](#promote_tenure) – institutional assumptions regarding tenure, 
 initial appointment with tenure, review for promotion to professor, ten-year review
 
 **2.** [**Review Procedures**](#review_procedures)
@@ -38,7 +38,7 @@ f. [Program Director’s Evaluation](#program_eval)
 
 g. [Confidentiality and Access](#confidentiality)
 
-**3.** [**Procedures and Responsibilities**](#procedures_responsibilities)
+**3.** [**Procedural Responsibilities**](#procedures_responsibilities)
 
 a. [First Review](#firstr)
 
@@ -68,7 +68,7 @@ f. [Notification Date](#notification_date)
 
 g. [Retirement](#retire)
 
-#### **1\. General Provisions** {#general\_provisions}
+#### **1. General Provisions** {#general\_provisions}
 
 #### **a. Purpose** {#purpose}
 
@@ -182,7 +182,7 @@ The Reappointments Committee will arrange a meeting with successful first review
 
 #### **f. Promotion to Tenure** {#promote\_tenure}
 
-**i.** _**Institutional Assumptions Regarding Promotion to Tenure**_. The granting of tenure, whether with or without promotion in rank, is recommended by the president to the Board of Trustees or its designated committee or subcommittee for approval. The College expects to appoint to tenure faculty who are of exceptional quality as teachers and who are scholars or artists of significant achievement as recognized by the broader academic community beyond Middlebury. Such long-term institutional commitment to an individual's career comes with the expectation of a demonstrable reciprocal commitment by the faculty member to the departmental and College curricula and to the broader life of the institution. College involvement cannot compensate for an absence of scholarly or creative achievement, but its presence must be considered as the institution assesses tenurability. Tenure reviews will be based solely on the performance of the candidate, without regard to numerical quotas.
+**i.** _**Institutional Assumptions Regarding Promotion to Tenure**_. The granting of tenure, whether with or without promotion in rank, is recommended by the president to the Board of Trustees or its designated committee or subcommittee for approval. The College expects to appoint to tenure faculty who are of exceptional quality as teachers and who are scholars or artists of significant achievement as recognized by the broader academic community beyond Middlebury. Such long-term institutional commitment to an individual's career comes with the expectation of a demonstrable reciprocal commitment by the faculty member to the departmental and College curricula and to the broader life of the institution. College involvement cannot compensate for an absence of scholarly or creative achievement, but its presence must be considered as the institution assesses tenurability. Tenure reviews will be based solely on the performance of the candidate, without regard to departmental or programmatic student-faculty ratios.
 
 Procedures for the review for tenure are set forth below.
 
@@ -200,7 +200,7 @@ As a result of the review, the vice president for Academic Affairs/dean of the 
 
 Procedures for the ten-year review are set forth below.
 
-#### **2\. Review Procedures** {#review\_procedures}
+#### **2. Review Procedures** {#review\_procedures}
 
 #### **a. Purpose** {#review\_purpose}
 
@@ -236,7 +236,7 @@ Faculty who have completed the equivalent of two years of full-time teaching may
 
 #### **c. Evaluation of Scholarship** {#review\_eval\_scholarship}
 
-A candidate's scholarship or artistic production is considered in terms of activity and of achievement.
+A candidate's scholarship or artistic production is considered by the Promotions Committee or Reappointments Committee in terms of activity and of achievement.
 
 _Scholarly activity_ represents a pattern of related professional involvements, which may include: research and experimentation; writing, analyzing, creating; presentations to peers or to the public; responsible roles in professional organizations; visiting professorships; applying for and receiving outside grants and fellowships; and developing new fields of expertise.
 
@@ -244,26 +244,26 @@ _Scholarly achievement_ is the result of that activity, primarily as evidenced 
 
 Evaluation is undertaken by colleagues and by other appropriate professionals in the candidate's field. In reviews for tenure and for full professor (not required for faculty who were awarded tenure prior to 2011), scholars from outside the College will be asked to judge the candidate's scholarship. Evaluators will be supplied with the Handbook description of the scholarly activity and achievement appropriate to the review in question and will be asked to evaluate it on that basis.
 
-Middlebury recognizes that many faculty produce nontraditional modes of scholarship and creative  
-work, including (but not limited to) digital, collaborative, interdisciplinary, and/or public-facing  
-formats and modes. Scholarly activity and achievement is to be measured on a project’s own terms,  
-rather than adhering to standards that may have once been assumed to be uniform for any given  
-field. Regardless of its format or mode, all scholarship and creative work will be evaluated through  
-evidence of its contribution to and impact on its field(s) and communities ; as applicable, such  
-evidence includes its documented peer review process, its ongoing public reception and  
-recognition, its creativity and insight, and/or its innovations in scholarly content, methodology, form,  
-or medium. A candidate’s dossier should iterate the goals of scholarly and creative works, and  
-explain the relevant criteria for evaluating their impact and achievement; if there are published  
-guidelines for evaluating digital, public, or other nontraditional scholarship within a candidate’s  
-scholarly or artistic community, or professional organizations or journals, it is useful and appropriate  
+Middlebury recognizes that many faculty produce nontraditional modes of scholarship and creative
+work, including (but not limited to) digital, collaborative, interdisciplinary, and/or public-facing
+formats and modes. Scholarly activity and achievement is to be measured on a project’s own terms,
+rather than adhering to standards that may have once been assumed to be uniform for any given
+field. Regardless of its format or mode, all scholarship and creative work will be evaluated through
+evidence of its contribution to and impact on its field(s) and communities ; as applicable, such
+evidence includes its documented peer review process, its ongoing public reception and
+recognition, its creativity and insight, and/or its innovations in scholarly content, methodology, form,
+or medium. A candidate’s dossier should iterate the goals of scholarly and creative works, and
+explain the relevant criteria for evaluating their impact and achievement; if there are published
+guidelines for evaluating digital, public, or other nontraditional scholarship within a candidate’s
+scholarly or artistic community, or professional organizations or journals, it is useful and appropriate
 to include these sources within the dossier.
 
-Middlebury will commit to seeking out internal and external evaluators poised to assess  
-nontraditional scholarship, and ensure that all such assessment is made of works in their native  
-formats, if at all possible, including digital forms. Departments and programs will evaluate  
-interdisciplinary work in light of appropriate norms, striving to understand other disciplines’ customs  
-on co-authorship and collaboration, rhetorical style, and the relative weight of various venues of  
-publication and presentation. For collaborative work, evaluators will distinguish and assess the  
+Middlebury will commit to seeking out internal and external evaluators poised to assess
+nontraditional scholarship, and ensure that all such assessment is made of works in their native
+formats, if at all possible, including digital forms. Departments and programs will evaluate
+interdisciplinary work in light of appropriate norms, striving to understand other disciplines’ customs
+on co-authorship and collaboration, rhetorical style, and the relative weight of various venues of
+publication and presentation. For collaborative work, evaluators will distinguish and assess the
 candidate’s specific intellectual and/or creative contributions, as specified by the dossier.
 
 #### **d. Evaluation of Service** {#review\_eval\_service}
@@ -284,9 +284,9 @@ A program director will submit a letter of programmatic evaluation in faculty re
 
 Letters from students and alumni are always confidential. Letters from outside evaluators are always confidential. Letters from colleagues at Middlebury are made available to candidates only in the event of a decision to deny reappointment. Restricting access is meant to ensure frank and honest assessments of the candidates. The letters should be accurate in matters of fact upon which judgments are based. The departmental letter (i.e., the letter written by a chair that summarizes, without attribution, the views of tenured colleagues) will be made available to the candidate at the time when it is submitted to the Reappointments Committee or the Promotions Committee. If a program letter is written, it will also be made available to the candidate at the time when it is submitted to the Reappointments Committee or the Promotions Committee. Any response to the departmental or programmatic letter that the candidate wishes to submit to the Reappointments Committee or the Promotions Committee must be submitted to the Reappointments Committee or the Promotions Committee and made available to the department chair or program director within two weeks of the receipt of the chair's or director's letter. Any further letters of response, either from the chair, the director, or the candidate, will be held in confidence by the Reappointments Committee or the Promotions Committee.
 
-The VPAA/DoF, the president, the provost, and members of the Reappointments Committee or the Promotions Committee will have access to all materials submitted in connection with a review. The department chair will have access to letters from other senior members of the department and to the candidate's vita, publications, and course response forms. The program director will have access to solicited letters from other senior members of the program and to the candidate's vita, relevant syllabi, an example of scholarship, and, when the candidate has taught a course with an explicit program label, course response forms from those courses.
+The VPAA/DoF, the president, the provost, and members of the Reappointments Committee or the Promotions Committee will have access to all materials submitted in connection with a review. Any Middlebury committee or senior leader may also consult with Middlebury's legal counsel, and counsel will have access to any materials necessary to provide legal advice. The department chair will have access to letters from other senior members of the department and to the candidate's vita, publications, and course response forms. The program director will have access to solicited letters from other senior members of the program and to the candidate's vita, relevant syllabi, an example of scholarship, and, when the candidate has taught a course with an explicit program label, course response forms from those courses.
 
-#### **3\. Procedures and Responsibilities** {#procedures\_responsibilities}
+#### **3. Procedural Responsibilities** {#procedures\_responsibilities}
 
 #### _**a. First Review**_ {#firstr}
 
@@ -420,9 +420,9 @@ _(a)_ To discuss with the candidate his or her progress in teaching and scholar
 
 #### **c. Review for Tenure** {#tenure}
 
-The review for tenure examines a faculty member for evidence of exceptional quality in teaching, and of significant scholarship or artistic achievement recognized as such by scholars and artists beyond Middlebury College. The evaluation of scholarship includes the assessment by the candidate, members of the candidate's department, members of the candidate's program (when relevant), other faculty colleagues, and appropriate professionals in the field outside Middlebury. Beyond teaching and scholarship, the service roles played by the individual faculty member will be examined.
+The review for tenure examines a faculty member for evidence of exceptional quality in teaching, and for continuing significant scholarship or artistic achievement recognized as such by scholars and artists beyond Middlebury College. The evaluation of scholarship includes the assessment by the candidate, members of the candidate's department, members of the candidate's program (when relevant), other faculty colleagues, and appropriate professionals in the field outside Middlebury. Beyond teaching and scholarship, the service roles played by the individual faculty member will be examined.
 
-The long-term institutional commitment to an individual's career that is made with the granting of tenure comes with the expectation of a demonstrable reciprocal commitment on the part of the faculty member to the departmental and College curricula and to the broader life of the institution.
+The long-term institutional commitment to an individual's career that is made with the granting of tenure comes with the expectation of a demonstrable reciprocal commitment on the part of the faculty member to the departmental and College curricula, through teaching, scholarship, and service at Middlebury and to the broader life of the institution.
 
 _i. The Candidate_
 
@@ -481,6 +481,8 @@ _(r)_ To meet with the candidate within four weeks of the completion of a succes
 _(s)_ In the case of unsuccessful review, to offer to meet with the candidate for the same purpose.
 
 _(t)_ At the time of the tenure review, the Promotions Committee does not consider the long-term staffing needs of the department and the faculty.
+
+_(u)_ The Promotions Committee may consult with Middlebury's legal counsel, as needed.
 
 _iii. Vice President for Academic Affairs and Dean of the Faculty (VPAA/DoF)_
 
@@ -756,7 +758,7 @@ _(d)_ In the case of a reversal of the committee's recommendation, to explain t
 
 _(e)_ To make the final decision and to notify the candidate in a letter that indicates the recommendation of the Reappointments Committee.
 
-#### **4\. PRIOR SERVICE, EARLY REVIEW, AND LENGTH OF APPOINTMENT UNDER "NEW" RULES** {#prior\_service}
+#### **4. PRIOR SERVICE, EARLY REVIEW, AND LENGTH OF APPOINTMENT UNDER "NEW" RULES** {#prior\_service}
 
 #### **a. Normal Review Schedules in Case of Prior Service** {#normal\_review\_sched}
 
@@ -766,7 +768,13 @@ Faculty who teach less than full-time are normally reviewed after they have taug
 
 The _**normal**_ schedule for length of initial appointment and the character of initial review for reappointment is as follows:
 
-<table><tbody><tr><td><i>Years of Prior Service</i></td><td><i>Length of First Contract</i></td><td><i>Initial Review</i></td><td><i>Year in which review takes place</i></td></tr><tr><td>1-2</td><td>3</td><td>First</td><td>Third (fall)</td></tr><tr><td>3</td><td>2</td><td>First</td><td>Second (January)</td></tr><tr><td>4</td><td>4</td><td>Tenure</td><td>Third (spring)</td></tr><tr><td>5-7</td><td>3</td><td>Tenure</td><td>Second or third (January) as negotiated at time of appointment</td></tr></tbody></table>
+|                          |                            |                  |                                                                |
+| ------------------------ | -------------------------- | ---------------- | -------------------------------------------------------------- |
+| _Years of Prior Service_ | _Length of First Contract_ | _Initial Review_ | _Year in which review takes place_                             |
+| 1-2                      | 3                          | First            | Third (fall)                                                   |
+| 3                        | 2                          | First            | Second (January)                                               |
+| 4                        | 4                          | Tenure           | Third (spring)                                                 |
+| 5-7                      | 3                          | Tenure           | Second or third (January) as negotiated at time of appointment |
 
 Any deviations from this schedule will be specifically stated in the initial letter of appointment. Prior service counts for anyone who has held a regular, full-time appointment at a senior college or university. Only full-year appointments at Middlebury or elsewhere counts toward tenure date.
 
@@ -778,11 +786,11 @@ Initial term appointments to the Middlebury College faculty may range from one t
 
 A faculty member with a regular full-time appointment may not serve beyond the eighth year (at Middlebury or as accumulated) without review for tenure, except when the initial term appointment carries beyond the eighth year (as accumulated). With the exceptions noted below, faculty members holding special full-time appointments may not be reappointed beyond the eighth year of full-time teaching at Middlebury College. This limitation does not apply to faculty members in the following categories as defined previously in section 1.c.ii., Faculty Appointments, Special Appointments.
 
-i. _Lecturers and Senior Lecturers_  
-ii. _Assistant Professor (non-tenure-track) and Associate Professor (without tenure)_  
-iii. _Assistants in Instruction_  
-iv. _Laboratory Instructor, Assistant Laboratory Professor, and Associate Laboratory Professor_  
-v. _Members of the Department of Physical Education_  
+i. _Lecturers and Senior Lecturers_
+ii. _Assistant Professor (non-tenure-track) and Associate Professor (without tenure)_
+iii. _Assistants in Instruction_
+iv. _Laboratory Instructor, Assistant Laboratory Professor, and Associate Laboratory Professor_
+v. _Members of the Department of Physical Education_
 vi. _Administrative appointments with faculty rank_
 
 When (following a stringent review by the Reappointments Committee) a full-time faculty member is appointed beyond the eighth year, the length of the employment contract will normally be from three to five years.
