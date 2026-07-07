@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/res-life-conduct-policies/hazing-policy
 title: B.2.c. Policy Against Hazing
-date: 03/24/2026
+date: 07/07/2026
 ---
 Middlebury  is committed to promoting healthy, safe, and balanced lifestyles. Student organizations and athletic teams can play a vital role in this process, and can provide transformative opportunities for friendship, leadership, and personal growth and discovery. Hazing of any kind is antithetical to these goals; therefore, Middlebury prohibits hazing activities, whether by an individual or an organization. In keeping with Middlebury’s prohibition of any kind of hazing, training and educational activities are periodically conducted with appropriate staff who support students and campus life.
 
@@ -75,7 +75,7 @@ xiii. Subjecting someone to abusive or demeaning conduct
 The Vice President for Student Affairs or an appropriate designee (hereinafter referred to as “VPSA”) monitors the implementation of this policy and imposes sanctions for violations. Any questions concerning the interpretation or application of this policy should be referred to the VPSA.
 
 **b. Reporting**
-All Middlebury community members are expected to report activities believed to be hazing to a Class Dean, Director of Athletics, Office of Student Engagement, Dean of Students, the AVP of Student Affairs for the Institute and the Schools, or the VPSA. See contact information below.
+All Middlebury community members are expected to report activities believed to be hazing to a Director of Athletics, Office of Student Engagement, Dean of Students, the AVP of Student Affairs for the Institute and the Schools, or the VPSA. See contact information below.
 
 **c. Process**
 i. When an allegation of hazing or related retaliation is made, the VPSA or appropriate designee will determine initially whether the report or complaint alleges conduct that is prohibited by this policy and whether an investigation should be initiated. The VPSA may also suspend the activities of the organization or the activities of individual members thereof pending the outcome of the investigation.
@@ -122,20 +122,14 @@ Smita Ruzicka
 [sruzicka@middlebury.edu](mailto:sruzicka@middlebury.edu)
 
 [Director of Athletics](https://athletics.middlebury.edu/information/directory/bios/quinn?view=bio)
-Erin Quinn
-802.443.5253
-[quinn@middlebury.edu](mailto:quinn@middlebury.edu)
+Todd Phelps
+802.443.6886
+[tphelps@middlebury.edu](mailto:tphelps@middlebury.edu) 
 
 Dean of Students
 Joe Russell
 802.443.3417
 [Joer@middlebury.edu](mailto:Joer@middlebury.edu)
-
-[Class Deans](https://www.middlebury.edu/college/student-life/student-life-deans)
-Scott Barnicle:  802.443.3350, [sbarnicl@middlebury.edu](mailto:sbarnicl@middlebury.edu)
-Sabrina Durand: 802.443.3321, [sdurand@middlebury.edu](mailto:sdurand@middlebury.edu)
-Matt Longman:  802.443.3350, [longman@middlebury.edu](mailto:longman@middlebury.edu)
-Jennifer Sellers:  802.443.3340, [jsellers@middlebury.edu](mailto:jsellers@middlebury.edu)
 
 **Institute and Schools Contacts**
 
