@@ -32,6 +32,7 @@ const Layout = ({ title, children }) => {
           href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"
         />
         <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+        <script async src="https://cse.google.com/cse.js?cx=b09d356ccb07742e2"></script>
       </Helmet>
       {children}
     </div>

@@ -156,7 +156,7 @@ const PageWrapper = (props) => {
     if (document.getElementsByClassName(className)[0] !== undefined) {
       document
         .getElementsByClassName(className)[0]
-        .children[0].children[2].classList.add("active");
+        .children[0].children[2]?.classList.add("active");
     }
 
     if (className === "/") {
