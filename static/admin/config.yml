@@ -15,7 +15,7 @@ collections:
     label: "I. Middlebury Wide Policies"
     folder: "content/i-policies-for-all"
     path: "{{slug}}/"
-    create: false
+    create: true
     sortable_fields: []
     fields:
       - {
@@ -44,7 +44,7 @@ collections:
     label: "II. Policies for the Undergraduate College"
     folder: "content/ii-ug-college-policies"
     path: "{{slug}}/{{slug}}/{{slug}}/"
-    create: false
+    create: true
     sortable_fields: []
     fields:
       - {
@@ -73,7 +73,7 @@ collections:
     label: "III. Policies for the Language Schools"
     folder: "content/iii-policies-for-the-language-schools"
     path: "{{slug}}/"
-    create: false
+    create: true
     sortable_fields: []
     fields:
       - {
@@ -102,7 +102,7 @@ collections:
     label: "IV. Policies for the Institute of International Studies"
     folder: "content/iv-policies-for-the-institute"
     path: "{{slug}}/{{slug}}/{{slug}}/"
-    create: false
+    create: true
     sortable_fields: []
     fields:
       - {
@@ -131,7 +131,7 @@ collections:
     label: "V. Policies for Schools Abroad"
     folder: "content/v-policies-for-schools-abroad"
     path: "{{slug}}/{{slug}}/"
-    create: false
+    create: true
     sortable_fields: []
     fields:
       - {
@@ -160,7 +160,7 @@ collections:
     label: "VI. Policies for Middlebury Institute Online"
     folder: "content/vi-policies-for-middlebury-institute-online"
     path: "{{slug}}/{{slug}}/"
-    create: false
+    create: true
     sortable_fields: []
     fields:
       - {
@@ -189,7 +189,7 @@ collections:
     label: "Previous Handbooks"
     folder: "content/vii-handbook-archive"
     path: "{{slug}}/"
-    create: false
+    create: true
     sortable_fields: []
     fields:
       - {
