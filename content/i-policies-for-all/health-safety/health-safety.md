@@ -20,3 +20,4 @@ The subpages in this section apply to all members of the Middlebury community in
 *   [C.7. Alcohol, Tobacco and Other Drugs](/pages/i-policies-for-all/health-safety/alcohol-drugs)
 *   [C.8. No Smoking Policy](/pages/i-policies-for-all/health-safety/no-smoking)
 *   [C.9 Camping/Overnight Occupancy of Unauthorized Locations](https://handbook.middlebury.edu/pages/i-policies-for-all/health-safety/camping-overnight-occupancy/)
+*   [C.10. Cameras on Campus](https://handbook.middlebury.edu/pages/i-policies-for-all/health-safety/cameras-on-campus)

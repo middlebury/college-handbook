@@ -123,6 +123,11 @@ export const policiesForAllNodes = [
             value: "i-policies-for-all/health-safety/camping-overnight-occupancy",
             label: "C.9 Camping/Overnight Occupancy of Unauthorized Locations",
             className: "camping-overnight-occupancy",
+          },
+          {
+            value: "i-policies-for-all/health-safety/cameras-on-campus",
+            label: "C.10 Cameras on Campus",
+            className: "cameras-on-campus",
           }
         ],
       },
