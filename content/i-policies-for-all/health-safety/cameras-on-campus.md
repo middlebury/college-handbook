@@ -11,7 +11,7 @@ In an effort to discourage behaviors that threaten personal safety, campus secur
 
 Information obtained from the Security Camera System shall be used for safety and security purposes and for investigations pertaining to violations of law and Middlebury policies. The specific functions of the Security Camera System include deterrence, detection, property protection, personal safety, situational awareness and investigative assistance. This Policy details procedures for installation, security, access, monitoring, training, retention, destruction and provides a complaint process. Reasonable measures are used to protect individual privacy and restricted Middlebury information.
 
-|                                      |                                                         |
+|                                      |                                                         |
 | ------------------------------------ | ------------------------------------------------------- |
 | **Responsible Senior Administrator** | Executive Vice President for Finance and Administration |
 | **Policy Contact**                   | Associate Vice President of Safety                      |
@@ -66,7 +66,7 @@ Complaints or concerns regarding the misuse of the Security Camera System may be
 
 ### V. Drones
 
-Drones are prohibited on Middlebury College property unless approved by the Associate Vice President of Safety, or designee, and/or the Vice President of Communications, or designee.
+Drones are prohibited on Middlebury College property unless approved by the Associate Vice President of Safety, Director of Business Services, and/or the Vice President of Communications, or their designees.
 
 ### Exclusions
 
