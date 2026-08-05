@@ -55,27 +55,13 @@ Students intending to enroll in a domestic off-campus study program must apply f
 
 Federal sources of aid, but not Middlebury sources of aid, can be used in support of approved domestic off-campus study programs. Questions about the use of financial aid for these programs should be directed to the Office of Student Financial Services.
 
-**6. Study Away at Monterey**
-
-The Study Away at Monterey program offers students the opportunity to enroll full-time at the Middlebury Institute of International Studies at Monterey (MIIS) in Monterey, California.  Depending on the program of study, students enroll either partially or entirely in graduate-level courses with degree-seeking Master of Arts candidates in areas such as coastal and climate studies, global security, and language education.  A full list of academic program options is available on the [Study Away at MIIS website](https://www.middlebury.edu/office/study-abroad/programs-locations/california/studyaway).
-
-Students intending to enroll in the Study Away at Monterey program must apply for approval through International Programs and Off-Campus Study.
-
-Grades for courses taken as part of Study Away at Monterey are recorded on the Middlebury transcript and are included in the calculation of the grade point average at Middlebury.
-
-While at MIIS, students are expected to enroll in a normal full load of courses totaling at least 12 but not exceeding 18 credits per semester.  Part-time enrollment (fewer than 12 credits in a semester) is not permitted.  Students who enroll in more than 18 credits will be charged an overload at the MIIS per credit rate. Students may audit an additional course in accordance with MIIS course audit policies. Questions about the use of financial aid for this program should be directed to the Office of Student Financial Services.
-
-Students must receive approval from the program director or program chair of the Study Away Program, or the Associate Dean of Academic Operations at MIIS prior to registration. MIIS courses that are offered in their entirety as pass/fail will not count as one of the two non-standard grade mode courses students are permitted to take (either under the former Pass/D/Fail option or the current Credit/No Credit option) but will count toward the total of five courses with non-standard grading a student may count toward graduation.  The Credit/No Credit grade option is not available for courses taken with the Study Away at Monterey program.
-
-Additional information about this program, including housing, orientation, and course load conversions can be found on the [Study Away at Monterey website](https://www.middlebury.edu/office/study-abroad/programs-locations/california/studyaway).
-
-**7. Domestic Exchange Programs**
+**6. Domestic Exchange Programs**
 
 Middlebury maintains exchange agreements with several U.S. institutions, which include reciprocal programs of study for outgoing Middlebury students and incoming students from partner exchange institutions. Middlebury maintains exchange programs with Spelman College, Swarthmore College and the Association of Vermont Independent Colleges (Bennington College, Champlain College, Norwich University, Saint Michael's College, and Sterling College). Interested students should contact International Programs and Off-Campus Study. When credit is awarded for domestic exchange programs, both the credits and the grades are recorded on the transcript, and the grades are included in the calculation of the grade point average.
 
 Questions about the availability of financial aid for these programs should be directed to the Office of Student Financial Services.
 
-**8. Reserve Officers' Training Corps (ROTC)**
+**7. Reserve Officers' Training Corps (ROTC)**
 
 Middlebury students completing work in the ROTC program at the University of Vermont are eligible to receive up to three credits towards their Middlebury College degree: one academic credit upon completion of the first two years of ROTC classes and one credit upon completion of each of the third and fourth years of ROTC classes. The credits awarded will be general non-graded credits and will not satisfy any major, minor or distribution requirements. The following University of Vermont courses may count toward the three academic credits:
 
