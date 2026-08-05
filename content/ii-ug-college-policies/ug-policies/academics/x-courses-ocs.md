@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/x-courses-ocs
 title: B.1.i. Transfer Courses and Off-Campus Study
-date: 08/03/2026
+date: 08/05/2026
 ---
 At Middlebury's discretion, students may earn academic credit through the following categories of off-campus study: transfer courses, 0555 courses, study abroad, pre-professional combined plans, domestic off-campus programs, and exchange programs. Each category of off-campus study is subject to separate rules, procedures, and financial aid implication, as indicated below. In cases of uncertainty as to the category of a student's off-campus study, a final determination will be made by the Dean of Curriculum or Dean of International Programs.
 
