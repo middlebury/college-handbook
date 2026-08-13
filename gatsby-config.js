@@ -3,6 +3,7 @@ module.exports = {
   siteMetadata: {
     title: "Middlebury Handbook",
     description: "Middlebury Handbook",
+    siteUrl: "https://handbook.middlebury.edu/",
   },
   
   plugins: [
@@ -88,45 +89,6 @@ module.exports = {
       options: {
         name: "vii-handbook-archive",
         path: `${__dirname}/content/vii-handbook-archive`,
-      },
-    },
-    {
-      resolve: "gatsby-plugin-local-search",
-      options: {
-        name: "pages",
-        engine: "flexsearch",
-        engineOptions: {
-          encode: "icase",
-          async: false,
-        },
-        query: `
-        {
-          allMarkdownRemark {
-            nodes {
-              id
-              frontmatter {
-                slug
-                title
-              }
-              excerpt
-              rawMarkdownBody
-              html
-            }
-          }
-        }
-        `,
-        ref: "id",
-        index: ["title", "body"],
-        store: ["id", "slug", "title", "body", "excerpt", "html"],
-        normalizer: ({ data }) =>
-          data.allMarkdownRemark.nodes.map((node) => ({
-            id: node.id,
-            slug: node.frontmatter.slug,
-            title: node.frontmatter.title,
-            body: node.rawMarkdownBody,
-            excerpt: node.excerpt,
-            html: node.html,
-          })),
       },
     },
   ],
