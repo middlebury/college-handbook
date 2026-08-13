@@ -5,7 +5,7 @@ import SearchIcon from "../images/search.svg";
 export const SearchBarPresentation = (props) => {
   return (
     <section className="navbar__search" aria-labelledby="search-label">
-      <form onSubmit={props.handleSubmit} className="navbar__input-group">
+      <form action="/search" method="GET" className="navbar__input-group">
         <label for="search-input" id="search-label" className="sr-only">
           Search
         </label>
@@ -14,11 +14,12 @@ export const SearchBarPresentation = (props) => {
           className="navbar__search-input"
           id="search-input"
           placeholder="Search"
+          name="q"
           value={props.query}
           onChange={(e) => {
-            if (e.target.value.length === 0) {
-              props.setResults([]);
-            }
+            // if (e.target.value.length === 0) {
+            //   props.setResults([]);
+            // }
             props.setQuery(e.target.value);
           }}
         />

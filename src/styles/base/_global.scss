@@ -160,14 +160,14 @@ h4, h5, h6 {
   font-size: 0.875rem;
 }
 
-table {
+table:not(.gsc-control-cse table) {
   margin-bottom: 1em;
   border-collapse: collapse;
   width: 100%;
   border: solid 1px variables.$gray;
 }
 
-.print-section__font-size td {
+.print-section__font-size td:not(.gsc-control-cse table td) {
   font-size: 0.929em;
   color: #404040;
   font-weight: normal;
@@ -177,7 +177,7 @@ table {
   width: 20%;
 }
 
-td:hover {
+td:not(.gsc-control-cse table td):hover {
   background: #efeee9;
   color: #404040;
 }
