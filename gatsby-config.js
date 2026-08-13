@@ -3,9 +3,9 @@ module.exports = {
   siteMetadata: {
     title: "Middlebury Handbook",
     description: "Middlebury Handbook",
-    siteUrl: "https://handbook.middlebury.edu/",
+    siteUrl: "https://handbook.middlebury.edu/"
   },
-  
+
   plugins: [
     "gatsby-plugin-remove-fingerprints",
     {
@@ -89,6 +89,33 @@ module.exports = {
       options: {
         name: "vii-handbook-archive",
         path: `${__dirname}/content/vii-handbook-archive`,
+      },
+    },
+    "gatsby-plugin-git-lastmod",
+    {
+      resolve: "gatsby-plugin-sitemap",
+      options: {
+        query: `
+        {
+          site {
+            siteMetadata {
+              siteUrl
+            }
+          }
+          allSitePage {
+            nodes {
+              path
+              pageContext
+            }
+          }
+        }
+      `,
+        serialize: (node) => {
+          return {
+            url: node.path,
+            lastmod: node.pageContext?.lastMod,
+          }
+        },
       },
     },
   ],
