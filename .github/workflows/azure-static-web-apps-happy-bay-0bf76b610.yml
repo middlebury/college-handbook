@@ -19,6 +19,7 @@ jobs:
         with:
           submodules: true
           lfs: false
+          fetch-depth: 0
       - name: NPM Install
         run: npm install
       - name: NPM Build
