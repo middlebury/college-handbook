@@ -131,8 +131,8 @@ const Navbar = (props) => {
         <div className="navbar__search-content">
           {props.index !== "" ? (
             <SearchBar
-              index={props.index}
-              store={props.store}
+              // index={props.index}
+              // store={props.store}
               setResults={props.setResults}
               valueCallback={props.valueCallback}
               handleSubmitToggle={props.handleSubmitToggle}

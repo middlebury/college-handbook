@@ -23,30 +23,13 @@ const PageWrapper = (props) => {
   const [currentClass, setCurrentClass] = useState("");
   const [results, setResults] = useState([]);
   const [printResults, setPrintResults] = useState("");
-  const [index, setIndex] = useState("");
-  const [store, setStore] = useState({});
   const [handleSubmitToggle, setHandleSubmitToggle] = useState(0);
   const prevClass = useRef();
   const toggleRef = useRef();
   let allNodes = Object.values(nodes);
   let buffer = "";
 
-  const data = useStaticQuery(graphql`
-    query {
-      localSearchPages {
-        publicIndexURL
-        publicStoreURL
-      }
-    }
-  `);
-
-  // const store = Object.values(data.localSearchPages.store);
   const handlePageLoad = (slug) => {
-    // const currentHash = window.location.hash;
-    // if (currentHash.includes("_token")) {
-    //   console.log(window.location.origin + "/admin/" + currentHash);
-    //   window.location.replace(window.location.origin + "/admin/" + currentHash);
-    // }
     
     let url = slug ? slug.split("/") : window.location.href.split("/");
     if (url[url.length - 1] === "") {
@@ -103,19 +86,6 @@ const PageWrapper = (props) => {
   }, []);
 
   useEffect(() => {
-    fetch(data.localSearchPages.publicIndexURL)
-      .then((result) => result.text())
-      .then((res) => {
-        setIndex(res);
-      });
-    fetch(data.localSearchPages.publicStoreURL)
-      .then((result) => result.json())
-      .then((res) => {
-        setStore(res);
-      });
-  }, []);
-
-  useEffect(() => {
     prevClass.current = currentClass;
   }, [currentClass]);
 
@@ -168,21 +138,6 @@ const PageWrapper = (props) => {
     }
   };
 
-  const handleChecked = (checked) => {
-    for (let i = 0; i < checked.length; i++) {
-      let ele = Object.values(store)
-        .map((obj) => {
-          return obj.slug;
-        })
-        .indexOf(`/pages/${checked[i]}`);
-      buffer = buffer.concat(
-        `<br><h2>${Object.values(store)[ele].title}</h2>`,
-        Object.values(store)[ele].html
-      );
-    }
-    setPrintResults(buffer);
-  };
-
   return (
     <Layout title={props.data?.markdownRemark?.frontmatter.title}>
       <div className="App">
@@ -193,8 +148,8 @@ const PageWrapper = (props) => {
           valueCallback={(value) => {
             setValue(value);
           }}
-          index={index}
-          store={store}
+          // index={index}
+          // store={store}
           setResults={setResults}
           handleSubmitToggle={handleSubmitToggle}
           setHandleSubmitToggle={setHandleSubmitToggle}
@@ -212,7 +167,6 @@ const PageWrapper = (props) => {
               iconsClass="fa4"
               onCheck={(checked) => {
                 setChecked(checked);
-                handleChecked(checked);
               }}
               onExpand={(expanded) => setExpanded(expanded)}
               onClick={(targetNode) => {

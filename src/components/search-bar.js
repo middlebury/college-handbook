@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { useFlexSearch } from "react-use-flexsearch";
 import SearchIcon from "../images/search.svg";
 
 export const SearchBarPresentation = (props) => {
@@ -17,9 +16,6 @@ export const SearchBarPresentation = (props) => {
           name="q"
           value={props.query}
           onChange={(e) => {
-            // if (e.target.value.length === 0) {
-            //   props.setResults([]);
-            // }
             props.setQuery(e.target.value);
           }}
         />
@@ -38,15 +34,11 @@ export const SearchBarPresentation = (props) => {
 };
 
 export const SearchBar = ({
-  index,
-  store,
   handleSubmitToggle,
   setResults,
   setHandleSubmitToggle,
 }) => {
   const [query, setQuery] = useState("");
-
-  const results = useFlexSearch(query, index, store);
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -55,13 +47,11 @@ export const SearchBar = ({
     } else {
       setHandleSubmitToggle(0);
     }
-    setResults(results.slice(0, 25));
   };
 
   return (
     <SearchBarPresentation
       handleSubmit={handleSubmit}
-      setResults={setResults}
       query={query}
       setQuery={setQuery}
     />
