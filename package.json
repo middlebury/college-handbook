@@ -43,5 +43,18 @@
   },
   "devDependencies": {
     "ajv": "^8.17.1"
+  },
+  "allowScripts": {
+    "lmdb@2.5.2": true,
+    "lmdb@2.5.3": true,
+    "@parcel/watcher@2.6.0": true,
+    "core-js@3.50.0": true,
+    "core-js-pure@3.50.0": true,
+    "es5-ext@0.10.64": true,
+    "fsevents@2.3.3": true,
+    "gatsby@5.16.1": true,
+    "gatsby-cli@5.16.0": true,
+    "msgpackr-extract@3.0.4": true,
+    "sharp@0.32.6": true
   }
 }
