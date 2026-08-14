@@ -116,6 +116,6 @@ As of August 14, 2026, the following dependencies have newer releases that we ca
 1. `decap-cms-app` - Versions >3.6.2 are not compatible with React 19.
 2. `react` & `react-dom` - React and ReactDOM cannot be upgraded to version 19.2.8 as the latest version of `decap-cms-app` is not compatible.
 
-If other dependencies have new major releases, check the release notes for the dependencies and review breaking changes if any. Install the latest versions of the dependencies and make the necessary updates in code.
+If there are no other dependencies with major releases, `npm install` should automatically update minor and patch versions of dependencies in `package-lock.json`. Commit the changes to `package-lock.json` to the `main` branch. 
 
-If there are no other dependencies with major releases, `npm install` should automatically update minor and patch versions of dependencies in `package-lock.json`. Commit the changes to package-lock.json to the `main` branch. 
+If other dependencies have new major releases, check the release notes for the dependencies in their respective repositories and review breaking changes if any. Install the latest versions of the dependencies and make the necessary updates in code. Run `npm start` to review the built templates served through localhost in the browser. If all looks good, run `npm run build` to test if the build process runs smoothly. If there are no issues, commit changes and push to the `main` branch. 
