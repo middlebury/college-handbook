@@ -111,7 +111,6 @@ module.exports = {
         }
       `,
         serialize: (node) => {
-          console.log(node);
           return {
             url: node.path,
             lastmod: node.pageContext?.lastMod,
