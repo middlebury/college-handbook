@@ -33,7 +33,7 @@ Employees are NOT eligible if they work in:
 
 * cubicles, workstations, or other open-office environments.
 * buildings identified in the "Prohibited Buildings" section.
-* a work location that is off-campus, seasonal, temporary, or otherwise not based year-round on the Vermont College campus e.g., Language Schools.
+* a work location that is off-campus, seasonal, temporary, or otherwise not based year-round on the Vermont College campus e.g., Language Schools (see pet policy for Language Schools).
 
 **Shared Offices.** With Supervisor (Vice-President, Dean, Dept. Chair, etc.) approval, two employees who share a single private office may each register a dog. However, only one dog may be present in the office at any given time.
 
