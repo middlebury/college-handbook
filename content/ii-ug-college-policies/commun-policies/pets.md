@@ -35,7 +35,7 @@ Employees are NOT eligible if they work in:
 * buildings identified in the "Prohibited Buildings" section.
 * a work location that is off-campus, seasonal, temporary, or otherwise not based year-round on the Vermont College campus e.g., Language Schools.
 
-**Shared Offices.** With supervisor/department chair/VP approval, two employees who share a single private office may each register a dog. However, only one dog may be present in the office at any given time.
+**Shared Offices.** With Supervisor (Vice-President, Dean, Dept. Chair, etc.) approval, two employees who share a single private office may each register a dog. However, only one dog may be present in the office at any given time.
 
 #### b. Prohibited Buildings (this list is subject to change at any time)
 
@@ -54,13 +54,13 @@ _\*exceptions may be made for specific locations_
 
 #### c. How to Register Your Dog
 
-**Step 1.** The dog owner must first obtain permission from their supervisor/department chair/VP by completing Part I of the [approval and registration form](static/assets/dog-at-work-registration-form_2024.pdf). 
+**Step 1.** The dog owner must first obtain permission from their Supervisor (Vice-President, Dean, Dept. Chair, etc.) by completing Part I of the [approval and registration form](static/assets/dog-at-work-registration-form_2024.pdf). 
 
 **Step 2.** The dog owner must complete Part II of the registration form and email a scanned copy of the completed form (Parts I and II), plus a digital photograph of their dog, to [dogsatwork@middlebury.edu](mailto:dogsatwork@middlebury.edu) (please write “Dog Registration” in the subject line). Note that the registration process requires that your dog have a current dog license in the owner’s hometown. A copy of the license must be provided to Dogs at Work annually. If an updated license is not submitted by April 30 of each year, the dog registration may be terminated. No dog may be permitted on campus that is not fully vaccinated and current on all vaccinations (this includes puppies).
 
 **Step 3.** Once final approval is granted by the Office of General Counsel & Risk Management, and a sign to hang on your door has been received, only then may the dog be brought to your office. If you have not received notification of final approval from the Office of General Counsel & Risk Management, your dog has not yet been approved to come to work and may not be brought to the office until it has been received. 
 
-Once the dog is approved and on campus, the employee is responsible for ensuring that the Rules and Conduct Requirements spelled out below are followed. 
+Once the dog is approved and on campus, the employee is responsible for ensuring that the Rules and Conduct Requirements outlined below are followed. 
 
 Employees must immediately notify Dogs at Work when they move to a new office. If the office is in a building that does not permit dogs, then their dog registration will immediately be terminated, and the dog will no longer be allowed on campus.
 
@@ -80,10 +80,11 @@ Employees must immediately notify Dogs at Work when they move to a new office. I
 * Owners will be financially responsible for any damage or cleaning costs resulting from the dog.
 * Owners are responsible for cleaning their own offices. Custodians will not clean offices where dogs are registered, regardless of how often the dog is present in the office.
 * Owners must make alternate arrangements to meet with students, co-workers, visitors and/or vendors who are allergic to or uncomfortable when dogs are present in the office. It is the responsibility of the owner to notify visitors beforehand that a dog will be present in the office.
+* Owners must immediately notify Dogs at Work if their office location changes.
 
 #### e. Enforcement
 
-i. Concerns about Dogs at Work should first be directed to the Vice-President/Dean/Dept. Chair/Supervisor for the office, program, or department where the dog owner works, if possible. Otherwise, issues and complaints about dogs at work should be sent to [dogsatwork@middlebury.edu](mailto:dogsatwork@middlebury.edu) for further handling.
+i. Concerns about Dogs at Work should first be directed to the Supervisor (Vice-President, Dean, Dept. Chair, etc.) for the office, program, or department where the dog owner works, if possible. Otherwise, issues and complaints about dogs at work should be sent to [dogsatwork@middlebury.edu](mailto:dogsatwork@middlebury.edu) for further handling.
 
 ii. Do not contact the Department of Public Safety with dog complaints, except for emergencies or serious incidents involving a dog, such as a dog bite.
 
