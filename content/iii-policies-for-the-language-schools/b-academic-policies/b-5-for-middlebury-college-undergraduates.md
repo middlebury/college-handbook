@@ -1,7 +1,7 @@
 ---
 slug: /pages/iii-policies-for-the-language-schools/b-academic-policies/b-5-for-middlebury-college-undergraduates
-date: 2021-05-01
 title: B.5 For Middlebury College Undergraduates
+date: 09/08/2026
 ---
 **Course Numbers and Titles**
 
@@ -24,3 +24,7 @@ As with other Middlebury College course work, the following circumstances will r
 Graduate work that students do not want or need applied to the undergraduate degree will be designated by the GR attribute and only will appear on the graduate-level page of the transcript. In such cases, GPA will be calculated at the graduate level and become part of the overall Middlebury record.
 
 **Post BA:** Courses taken and grades earned at a Language School at the undergraduate level after the Middlebury BA has been awarded will not be included in the BA GPA.
+
+**Leaves of Absence (LOA) from programs in progress**
+
+Taking a leave of absence (LOA) from any Middlebury or Middlebury-sponsored school or program constitutes an LOA from all Middlebury schools or programs. Middlebury undergraduates participating in summer Language Schools who take leave from a program in progress are therefore subject to the same leave of absence policies and return policies and procedures outlined in [II.B.1.1.](https://handbook.middlebury.edu/pages/ii-ug-college-policies/ug-policies/academics/student-status/) of the Handbook. Of particular note is the expectation that students who take leave from a term in progress ordinarily remain on the leave for the entirety of the subsequent semester. This means that Middlebury undergraduates who take leave from the Language Schools will, ordinarily, automatically be placed on leave for the following Fall semester.
