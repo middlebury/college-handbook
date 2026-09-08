@@ -130,15 +130,11 @@ Health records at the Center for Health and Wellness are confidential treatment 
 
 Students may authorize sharing of information to third parties such as family members, campus employees, and external health care facilities and they have the right to revoke that authorization at any time. The Center for Health and Wellness will not release any information about you to third parties outside of the healthcare partners named above without your authorization, except under the following conditions:
 
-·         As authorized or required by law (i.e., when we are presented with a valid court order requiring us to release records or when a student is diagnosed with or suspected of having a reportable disease, as required by the Department of Health);
-
-·         As necessary to protect the student or others from a serious, imminent threat to health and safety, or to protect against a serious, imminent threat of property damage;
-
-·         As necessary to notify parents, emergency contacts, and/or College officials when students have a serious mental or physical health problem and are unable or unwilling to assume responsibility for notifying others;
-
-·         Under some circumstances when legal guardians may have the right to access the records of a minor;
-
-·         As necessary in emergency situations
+* As authorized or required by law (i.e., when we are presented with a valid court order requiring us to release records or when a student is diagnosed with or suspected of having a reportable disease, as required by the Department of Health);
+* As necessary to protect the student or others from a serious, imminent threat to health and safety, or to protect against a serious, imminent threat of property damage;
+* As necessary to notify parents, emergency contacts, and/or College officials when students have a serious mental or physical health problem and are unable or unwilling to assume responsibility for notifying others;
+* Under some circumstances when legal guardians may have the right to access the records of a minor;
+* As necessary in emergency situations
 
 Middlebury College and the Center for Health and Wellness are regulated by the Family Education Rights Protection Act of 1974 (FERPA), which classifies your health records as confidential education records and incorporates privacy protections. Center for Health and Wellness staff operate under FERPA, State of Vermont statutes, institutional policies, and the ethics and guidelines of their individual licensure and/or certification status.  Middlebury College and the Center for Health and Wellness are not subject to the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and therefore are not required to comply with those federal regulations relating to the use and disclosure of health information.
 
@@ -146,19 +142,13 @@ Middlebury College and the Center for Health and Wellness are regulated by the F
 
 Ordinarily, legal guardians must provide permission for some forms of healthcare for individuals under the age of 18 (minors), with certain exceptions. A legal guardian’s permission to receive healthcare is not required for:
 
-·         Emergency situations that necessitate immediate treatment;
-
-·         Outpatient mental health counseling, excluding prescription medications;
-
-·         Treatment for sexually transmitted infections, substance dependence, and/or substance abuse;
-
-·         Minors require hospitalization for treatment of sexually transmitted infections, substance dependence, or substance abuse. The legal guardian(s) must be notified of the hospitalization;
-
-·         Contraception, including medications, devices, and the termination of a pregnancy;
-
-·         Medical treatment related to rape, incest, or sexual abuse. Health care providers are required to report such incidents to the Department of Children and Families within 24 hours;
-
-·         Minors seeking treatment for any healthcare need who are married or have ever been married, minors on active U.S. military duty, and minors emancipated by court order may give informed consent to their own health care.
+* Emergency situations that necessitate immediate treatment;
+* Outpatient mental health counseling, excluding prescription medications;
+* Treatment for sexually transmitted infections, substance dependence, and/or substance abuse;
+* Minors require hospitalization for treatment of sexually transmitted infections, substance dependence, or substance abuse. The legal guardian(s) must be notified of the hospitalization;
+* Contraception, including medications, devices, and the termination of a pregnancy;
+* Medical treatment related to rape, incest, or sexual abuse. Health care providers are required to report such incidents to the Department of Children and Families within 24 hours;
+* Minors seeking treatment for any healthcare need who are married or have ever been married, minors on active U.S. military duty, and minors emancipated by court order may give informed consent to their own health care.
 
 Center for Health and Wellness staff are available to provide an initial consultation with students who are under 18 years of age to review the need(s) for guardian consent for treatment(s) as stipulated by Vermont State law.
 
@@ -166,7 +156,7 @@ Additionally, minors arriving on campus will need to set up guardian-approved ac
 
 **4. Questions and Grievance Process**
 
-Students with concerns, needs, or questions that were not (or could not be) addressed by staff members from the Center for Health and Wellness directly involved in care may contact the Associate Vice President for Student Health and Well-being at 802-443-5361 or chw\@middlebury.edu, or the Vice President of Student Affairs at 802-443-2465 or vpsa\@middlebury.edu.
+Students with concerns, needs, or questions that were not (or could not be) addressed by staff members from the Center for Health and Wellness directly involved in care may contact the Associate Vice President for Student Health and Well-being at 802-443-5361 or [chw@middlebury.edu](mailto:chw@middlebury.edu), or the Vice President of Student Affairs at 802-443-2465 or [vpsa@middlebury.edu](mailto:vpsa@middlebury.edu).
 
 Most professions in the Center for Health and Wellness are also governed by laws and/or professional organizations that define a scope of practice, professional conduct and/or codes of ethics. Healthcare consumers who have inquiries can contact those professional organizations directly or file a complaint with the State of Vermont via [online form](https://www.sec.state.vt.us/professional-regulation/file-a-complaint.aspx), phone (802-828-1505) or mail at the following address:
 
@@ -192,15 +182,11 @@ Because of the potential need for a quick departure from campus related to a per
 
 All students are required to submit their plan through Banner. Students should consider and plan for the following as a part of their personal departure plans:
 
-·         Any currently known reasons an emergency departure may be necessary (e.g., vaccination exemptions for communicable diseases, prior history of emergency departures, chronic health conditions, family needs, etc.)
-
-·         Primary and secondary safe locations to which a student could reasonably and safely return
-
-·         Travel plans for each identified location including mode of transportation (i.e., automobile, bus, train, plane, etc.)
-
-·         Cost considerations for the identified travel plans
-
-·         An identified person (who may or may not also be listed as an emergency contact in Banner) who could accompany you to travel if you are unable to safely do so on your own in an emergency, their phone number, physical/mailing address, and email address.
+* Any currently known reasons an emergency departure may be necessary (e.g., vaccination exemptions for communicable diseases, prior history of emergency departures, chronic health conditions, family needs, etc.)
+* Primary and secondary safe locations to which a student could reasonably and safely return
+* Travel plans for each identified location including mode of transportation (i.e., automobile, bus, train, plane, etc.)
+* Cost considerations for the identified travel plans
+* An identified person (who may or may not also be listed as an emergency contact in Banner) who could accompany you to travel if you are unable to safely do so on your own in an emergency, their phone number, physical/mailing address, and email address.
 
 Students should alert any family members, friends, or trusted acquaintances that are a part of their emergency evacuation plan at the time of submission and annually thereafter. In situations where students may need to enact their departure plan or where plan review is required by College officials, persons identified in the plan may be contacted by the College to verify their participation in the plan. Students may not be allowed to attend classes, register for classes, or otherwise fully participate in their program until they have provided a plan that meets the minimum required elements as stated within each program.
 
@@ -208,9 +194,8 @@ Students should alert any family members, friends, or trusted acquaintances that
 
 The Center for Health and Wellness engages in the following actions in order to appropriately maintain, retain, preserve and purge treatment records:
 
-·         The Center retains treatment records for the period of time required by applicable law and regulation as indicated in these guidelines;
-
-·         The Center purges treatment records promptly, in the appropriate manner after they have satisfied their required retention period, unless they are the subject of a Litigation Hold.
+* The Center retains treatment records for the period of time required by applicable law and regulation as indicated in these guidelines;
+* The Center purges treatment records promptly, in the appropriate manner after they have satisfied their required retention period, unless they are the subject of a Litigation Hold.
 
 **a. Retention Guidelines**
 
