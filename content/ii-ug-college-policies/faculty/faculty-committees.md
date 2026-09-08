@@ -66,7 +66,7 @@ The Promotions Committee advises the president on each case in which a faculty m
 
 The vice president for Academic Affairs sits with the Promotions Committee. All decisions and recommendations by both the committee, the president and the provost will be made and justified in accordance with the provisions and procedures specified in the Rules of Appointment and Tenure in the Faculty  section of this handbook.
 
-The committee, as part of the Council on Reviews will hold an annual open meeting to explain its procedures and to respond to questions and concerns from the faculty.
+The committee, as part of the Council on Reviews, will hold an annual open meeting to explain its procedures and to respond to questions and concerns from the faculty.
 
 **b.** _**Composition**_
 
@@ -82,7 +82,7 @@ iii. The nomination ballot will list all tenured full professors, with the excep
 
 The Reappointments Committee advises the provost in all reappointment decisions. This committee also conducts ten-year reviews. Details on the primary duties of the Reappointments Committee are discussed in chapter C.3 about the review processes. The DoF sits with the Reappointments Committee. All decisions and recommendations by both the committee and the provost shall be made and justified in accordance with the provisions and procedures specified in the Rules of Appointment and Tenure in the Faculty Handbook chapter of this handbook.
 
-The committee as part of the Council on Reviews will hold an annual open meeting to explain its procedures and to respond to questions and concerns from the faculty.
+The committee, as part of the Council on Reviews, will hold an annual open meeting to explain its procedures and to respond to questions and concerns from the faculty.
 
 **b.** _**Composition**_
 
