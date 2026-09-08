@@ -1,11 +1,11 @@
 ---
 slug: /pages/iii-policies-for-the-language-schools/b-academic-policies/b-3-general-policies
 title: B.3 General Policies
-date: 2021-05-01
+date: 09/08/2026
 ---
-**Attendance**
+**Attendance and Participation**
 
-Attendance and participation in all classes is mandatory and an integral part of the academic program. Students must receive written approval from their School director for all absences and are ordinarily are not permitted to miss more than three days of class for any reason. Missing more than three days will likely result in removal from the program and failing grades. No reimbursement will be given in such cases. 
+Attendance and participation, as integral and essential components of the academic program, are mandatory in all classes. Students must receive written approval from their School director for all absences and are ordinarily not permitted to miss more than three days of class for any reason. Missing more than three days of any class may result in dismissal from the program and failing grades. Because active class participation is essential for both the educational experience of the individual student and for the class as a whole, it too is mandatory (except in instances involving relevant accommodations approved in advance by the Disability Resource Center). A pattern of non-participation in any class may therefore also result in dismissal from the program and failing grades. Dismissals under this policy are made at the discretion of the Dean of the Language Schools or their designee, after notice is given to the student and the student has an opportunity to respond (which may be in writing only). No reimbursement will be given in such cases.
 
 **Placement Tests**
 
