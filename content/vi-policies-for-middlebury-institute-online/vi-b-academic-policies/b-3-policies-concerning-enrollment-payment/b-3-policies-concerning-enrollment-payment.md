@@ -15,3 +15,5 @@ date: 2024-08-23
 *   [B.3.h. Repeating Courses](/pages/vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-3-policies-concerning-enrollment-payment/b-3-h-repeating-courses/)
 *   [B.3.i. Registration Policies for Non-Degree Students](/pages/vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-3-policies-concerning-enrollment-payment/b-3-i-registration-policies/)
 *   [B.3.j. English Language Proficiency](/pages/vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-3-policies-concerning-enrollment-payment/b-3-j-english-language-proficiency/)
+*   [B.3.k. Course Cancellation for Low Enrollment](/pages/vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-3-policies-concerning-enrollment-payment/b-3-k-course-cancellation-for-low-enrollment/)
+*   [B.3.l. Administrative Withdrawal Due to Non-Participation](/pages/vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-3-policies-concerning-enrollment-payment/b-3-l-administrative-withdrawal-due-to-non-participation/)
