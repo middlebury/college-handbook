@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/non-discrim-policies/b-1-a-non-discrimination-policy
 title: B.1.a. Non-Discrimination Policy
-date: 02/27/2025
+date: 09/09/2026
 ---
 Middlebury is committed to creating and maintaining a diverse, equitable and inclusive campus environment where we value openness, curiosity, rigor, and equality. Discrimination, including harassment, is antithetical to our values and mission, and, therefore, Middlebury seeks to eradicate unlawful discrimination based on protected personal characteristics in its educational and employment environments.
 
@@ -57,27 +57,27 @@ Middlebury will treat information it receives with appropriate sensitivity and c
 
 **Glossary of Terms**
 
-**1\. Protected personal characteristics** means actual or perceived sex, race, creed, color, place of birth, ancestry, ethnicity, national origin, religion, sexual orientation, sex characteristics, gender identity or expression, age, marital status, pregnancy, service in the armed forces of the United States, positive HIV-related blood test results, genetic information, or disability and/or any other status or characteristic as defined and to the extent protected by applicable law in particular states in which Middlebury operates educational programs (e.g. crime victim status in Vermont).
+**1. Protected personal characteristics** means actual or perceived sex, race, creed, color, place of birth, ancestry, ethnicity, national origin, religion, sexual orientation, sex characteristics, gender identity or expression, age, marital status, pregnancy, service in the armed forces of the United States, positive HIV-related blood test results, genetic information, or disability and/or any other status or characteristic as defined and to the extent protected by applicable law in particular states in which Middlebury operates educational programs (e.g. crime victim status in Vermont).
 
-**2\. "On the basis of sex”** includes sexual harassment. Some common examples include: touching or grabbing a sexual part of a person’s body; touching or grabbing any part of a person’s body after that person has indicated, or it is known or reasonably should be known, that such physical contact was unwelcome; continuing to ask a person to socialize when that person has indicated they’re not interested; displaying or transmitting sexually suggestive pictures, objects, cartoons, or posters if it is known or reasonably should be known that the behavior is unwelcome; continuing to write sexually suggestive notes or letters if it is known or reasonably should be known that the person does not welcome such behavior; referring to or calling a person a sexualized name if it is known or reasonably should be known that the person does not welcome such behavior; regularly telling sexual jokes or using sexually vulgar or explicit language in the presence of a person if it is known or reasonably should be known that the person does not welcome such behavior; derogatory or provoking remarks about or relating to a person’s sex; harassing acts or behavior directed against a person on the basis of their sex.
+**2. "On the basis of sex”** includes sexual harassment. Some common examples include: touching or grabbing a sexual part of a person’s body; touching or grabbing any part of a person’s body after that person has indicated, or it is known or reasonably should be known, that such physical contact was unwelcome; continuing to ask a person to socialize when that person has indicated they’re not interested; displaying or transmitting sexually suggestive pictures, objects, cartoons, or posters if it is known or reasonably should be known that the behavior is unwelcome; continuing to write sexually suggestive notes or letters if it is known or reasonably should be known that the person does not welcome such behavior; referring to or calling a person a sexualized name if it is known or reasonably should be known that the person does not welcome such behavior; regularly telling sexual jokes or using sexually vulgar or explicit language in the presence of a person if it is known or reasonably should be known that the person does not welcome such behavior; derogatory or provoking remarks about or relating to a person’s sex; harassing acts or behavior directed against a person on the basis of their sex.
 
-**3\. Domestic violence** means conduct that constitutes a crime of violence in the relevant jurisdiction (either felony or misdemeanor) committed:
+**3. Domestic violence** means conduct that constitutes a crime of violence in the relevant jurisdiction (either felony or misdemeanor) committed:
 
-1.  By a current or former spouse or intimate partner of the Reporting Individual;
-2.  By a person with whom the Reporting Individual shares a child in common;
-3.  By a person who is cohabitating with, or has cohabitated with, the Reporting Individual as a spouse or intimate partner;
-4.  By a person similarly situated to a spouse of the Reporting Individual under the domestic or family violence laws of the jurisdiction in which the crime of violence occurred; or
-5.  By any other person against an adult or youth Reporting Individual who is protected from that person’s acts under the domestic or family violence laws of the jurisdiction in which the crime of violence occurred.
+1. By a current or former spouse or intimate partner of the Reporting Individual;
+2. By a person with whom the Reporting Individual shares a child in common;
+3. By a person who is cohabitating with, or has cohabitated with, the Reporting Individual as a spouse or intimate partner;
+4. By a person similarly situated to a spouse of the Reporting Individual under the domestic or family violence laws of the jurisdiction in which the crime of violence occurred; or
+5. By any other person against an adult or youth Reporting Individual who is protected from that person’s acts under the domestic or family violence laws of the jurisdiction in which the crime of violence occurred.
 
 For the purposes of this definition, domestic violence includes but is not limited to sexual or physical abuse or the threat of such abuse, if involving individuals who are or have been in a domestic relationship as defined above, and violence means conduct that involves the use or threatened use of physical force against a person, or creates a reasonable belief that physical force may be used against a person in the course of the conduct.
 
-**4\. Dating violence** means violence committed by a person who is or has been in a social relationship of a romantic or intimate nature with the Reporting Individual.
+**4. Dating violence** means violence committed by a person who is or has been in a social relationship of a romantic or intimate nature with the Reporting Individual.
 
 For the purposes of this definition, dating violence includes, but is not limited to, sexual or physical abuse or the threat of such abuse, if involving individuals who are or have been dating as defined here, and violence means conduct that involves the use or threatened use of physical force against a person, or creates a reasonable belief that physical force may be used against a person in the course of the conduct. The existence of such a relationship shall be determined, as an initial matter, based on the Reporting Individual’s statement and with consideration of the length of the relationship, the type of relationship, and the frequency of interaction between the persons involved in the relationship. For the purposes of this definition, dating violence includes, but is not limited to, sexual or physical abuse or the threat of such abuse. Dating violence does not include acts covered under the definition of domestic violence.
 
-**5\. Discrimination in employment, admission or access to Middlebury’s education or extracurricular activities** means taking an adverse action in educational programs or employment against a person based on or motivated by that individual’s protected personal characteristics or effectively denying a person admission or access to Middlebury’s educational programs or activities based on that individual’s protected personal characteristics.
+**5. Discrimination in employment, admission or access to Middlebury’s education or extracurricular activities** means taking an adverse action in educational programs or employment against a person based on or motivated by that individual’s protected personal characteristics or effectively denying a person admission or access to Middlebury’s educational programs or activities based on that individual’s protected personal characteristics.
 
-**6\. Discriminatory harassment**, with one exception,[\[1\]](#_ftn1) means unwelcome conduct based on or motivated by a protected personal characteristic or characteristics that has the purpose or effect, from the point of view of a reasonable person, of objectively and significantly:
+**6. Discriminatory harassment**, with one exception,[\[1\]](#_ftn1) means unwelcome conduct based on or motivated by a protected personal characteristic or characteristics that has the purpose or effect, from the point of view of a reasonable person, of objectively and significantly:
 
 1\. undermining and detracting from or interfering with an individual's educational or work performance or access to Middlebury resources; or
 
@@ -89,47 +89,45 @@ Specifically in the context of Reporting Individuals who are Middlebury employee
 
 **7.** _**Quid Pro Quo**_ **Sexual Harassment** means unwelcome sexual advances, requests for sexual favors, and other verbal, written, visual or physical conduct of a sexual nature when:
 
-1.  submission to that conduct is made either explicitly or implicitly a term or condition of employment or educational status;
-2.  submission to or rejection of such conduct is used as a component of or as the basis for employment decisions (such as wages, evaluation, advancement, assigned duties, or shifts) or educational/student life-related decisions (such as grades, class assignments, or letters of recommendation, or residence-related decisions) affecting an individual; or
-3.  an employee, agent, or other person authorized to provide an aid, benefit, or service under Middlebury’s education program or activity explicitly or impliedly conditions the provision of such an aid, benefit, or service on a person’s participation in unwelcome sexual conduct.
+1. submission to that conduct is made either explicitly or implicitly a term or condition of employment or educational status;
+2. submission to or rejection of such conduct is used as a component of or as the basis for employment decisions (such as wages, evaluation, advancement, assigned duties, or shifts) or educational/student life-related decisions (such as grades, class assignments, or letters of recommendation, or residence-related decisions) affecting an individual; or
+3. an employee, agent, or other person authorized to provide an aid, benefit, or service under Middlebury’s education program or activity explicitly or impliedly conditions the provision of such an aid, benefit, or service on a person’s participation in unwelcome sexual conduct.
 
-**8\. Retaliation** means intimidation, threats, coercion, or discrimination against any individual by Middlebury, a student, or an employee or other person authorized by Middlebury to provide aid, benefit, or service under Middlebury’s education program or activity, for the purpose of interfering with any right or privilege secured by this Policy, or because the individual has reported information, made a complaint, testified, assisted, or participated or refused to participate in any manner in an investigation or proceeding regarding potential violations of this Policy.[\[2\]](#_ftn2) Retaliation also means taking an adverse action against a person because of their report of prohibited conduct or participation in any procedure(s) under this Policy, including intimidation, threats, coercion, harassment or negative employment or educational actions that would discourage a reasonable person from engaging in activity protected by this Policy.  Middlebury will not engage in retaliation and will investigate and address reports of retaliatory conduct. Retaliation under this policy may be found whether or not the underlying complaint is ultimately found to have merit. Complaints of retaliation should be reported to the Civil Rights & Title IX Coordinator (“CRTIX Coordinator”) in accordance with the applicable investigation and adjudication procedures.
+**8. Retaliation** means intimidation, threats, coercion, or discrimination against any individual by Middlebury, a student, or an employee or other person authorized by Middlebury to provide aid, benefit, or service under Middlebury’s education program or activity, for the purpose of interfering with any right or privilege secured by this Policy, or because the individual has reported information, made a complaint, testified, assisted, or participated or refused to participate in any manner in an investigation or proceeding regarding potential violations of this Policy.[\[2\]](#_ftn2) Retaliation also means taking an adverse action against a person because of their report of prohibited conduct or participation in any procedure(s) under this Policy, including intimidation, threats, coercion, harassment or negative employment or educational actions that would discourage a reasonable person from engaging in activity protected by this Policy.  Middlebury will not engage in retaliation and will investigate and address reports of retaliatory conduct. Retaliation under this policy may be found whether or not the underlying complaint is ultimately found to have merit. Complaints of retaliation should be reported to the Civil Rights & Title IX Coordinator (“CRTIX Coordinator”) in accordance with the applicable investigation and adjudication procedures.
 
-**9\. Sexual Assault** can be committed by any person against any other person, regardless of gender, gender identity, sexual orientation, or past or current relationship status, and with or without physical resistance or violence.  In accordance with federal law and regulations, the definition of Sexual Assault in this Policy incorporates the definitions of the FBI’s Uniform Crime Reporting (NIBRS) program, and includes:
+**9. Sexual Assault** can be committed by any person against any other person, regardless of gender, gender identity, sexual orientation, or past or current relationship status, and with or without physical resistance or violence.  In accordance with federal law and regulations, the definition of Sexual Assault in this Policy incorporates the definitions of the FBI’s Uniform Crime Reporting (NIBRS) program, which generally defines sexual assault as an offense classified as a forcible or nonforcible sex offense in the NIBRS program, and which includes the following sexual acts directed against another person without the consent of the impacted person, including instances where the impacted person is incapable of giving consent, and unlawful sexual intercourse (i.e., incest and statutory rape), as defined below:
 
-1.  rape (defined below),
-2.  fondling without consent (defined below),
-3.  incest (defined below), or
-4.  statutory rape (defined below)
+1\. attempted rape, or rape (defined below),
+2\. prohibited sexual contact (known as “criminal sexual contact” in NIBRS) (defined below),
+3\. incest (defined below), or
+4\. statutory rape (defined below).
 
-**10\. Rape** means
+**10. Rape** (except Statutory Rape) means:
 
-*   The carnal knowledge of a person (i.e., penile-vaginal penetration), without the consent of that person;
-*   Oral or anal sexual intercourse (i.e., penile penetration) with another person, without the consent of that person; and/or
-*   To use an object or instrument to penetrate, however slightly, the genital or anal opening of the body of another person, without the consent of that person. An “object” or “instrument” is anything other than a penis.
+Penetration, no matter how slight, of the vagina or anus with any body part or object, or oral penetration by a sex organ of another person, or by a sex-related object. This definition also includes instances in which the impacted person is incapable of giving consent because of temporary or permanent mental or physical incapacity (including due to the influence of drugs or alcohol) or because of age. Physical resistance is not required on the part of the impacted person to demonstrate lack of consent.
 
-**11\. Fondling** is the touching of the private body parts of another person for the purpose of sexual gratification, without the consent of the Reporting Individual, including instances where the Reporting Individual is incapable of giving consent (as defined below) because of their age or because of their temporary or permanent mental incapacity; for purposes of this definition, “private body parts” is defined as a person’s breast(s), buttock(s), groin or genitals, and prohibited touching may be over or under clothing.
+**11.** **Prohibited Sexual Contact**: The intentional touching of the clothed or unclothed body parts without consent of the impacted person for the purpose of sexual degradation, sexual gratification, or sexual humiliation, or the forced touching by the impacted person of the actor’s clothed or unclothed body parts, without consent of the impacted person for the purpose of sexual degradation, sexual gratification, or sexual humiliation. This offense includes instances where the impacted person is incapable of giving consent because of age or incapacity due to temporary or permanent mental or physical impairment or intoxication.
 
-**12\. Incest** is sexual intercourse between persons who are related to each other within the degrees wherein marriage is prohibited by the law of the state where the conduct occurred.
+**12. Incest** is sexual intercourse between persons who are related to each other within the degrees wherein marriage is prohibited by the law of the state where the conduct occurred.
 
-**13\. Statutory Rape** is sexual intercourse with a person who is under the statutory age of consent in the state where the conduct occurred.
+**13. Statutory Rape** is sexual intercourse with a person who is under the statutory age of consent in the state where the conduct occurred.
 
-**14\. Stalking** means engaging in two or more acts directed at a specific person that would cause a reasonable person to either (i) fear for the person’s safety or the safety of others; OR (ii) suffer substantial emotional distress. For purposes of this definition:
+**14. Stalking** means engaging in two or more acts directed at a specific person that would cause a reasonable person to either (i) fear for the person’s safety or the safety of others; OR (ii) suffer substantial emotional distress. For purposes of this definition:
 
-1.  Acts means acts in which the stalker directly, indirectly, or through third parties, by any action, method, device, or means, follows, monitors, observes, surveils, threatens, or communicates to or about a person, or interferes with a person’s property.
-2.  Reasonable person means a reasonable person under similar circumstances and with similar identities to the Reporting Individual.
-3.  Substantial emotional distress means significant mental suffering or anguish that may, but does not necessarily, require medical or other professional treatment or counseling.
+1. Acts means acts in which the stalker directly, indirectly, or through third parties, by any action, method, device, or means, follows, monitors, observes, surveils, threatens, or communicates to or about a person, or interferes with a person’s property.
+2. Reasonable person means a reasonable person under similar circumstances and with similar identities to the Reporting Individual.
+3. Substantial emotional distress means significant mental suffering or anguish that may, but does not necessarily, require medical or other professional treatment or counseling.
 
-**15\. Consent** means words or actions, affirmatively, unambiguously and voluntarily spoken or engaged in by each party, which a reasonable person would interpret as a willingness to participate in agreed-upon sexual conduct.
+**15. Consent** means words or actions, affirmatively, unambiguously and voluntarily spoken or engaged in by each party, which a reasonable person would interpret as a willingness to participate in agreed-upon sexual conduct.
 
 Consent is not present or valid when a person is incapable of consenting, as defined below; when intimidation, use of force, threat of force, or other actions that a reasonable person in that person’s circumstances would consider coercive are applied; when that person is placed in fear that any person will suffer imminent bodily injury; when a physical or mental condition is present such that the person cannot knowingly or voluntarily give consent; or when a person is under the age of 16. Silence, non-communication, or a lack of resistance does not necessarily imply consent. Previous relationships or consent do not imply consent to future sexual conduct. Consent to one form of sexual activity does not imply consent to other forms of sexual activity. Consent can be revoked at any time.
 
 A person is “incapable of consenting” for purposes of this Policy if they:
 
-*   are incapable of understanding the nature of the conduct at issue;
-*   are physically incapable of resisting, declining participation in, or communicating unwillingness to engage in the conduct at issue; or
-*   are asleep, unconscious, or otherwise unaware that the conduct is occurring; or
-*   lack the mental ability to make or communicate a decision about whether to engage in the conduct at issue.
+* are incapable of understanding the nature of the conduct at issue;
+* are physically incapable of resisting, declining participation in, or communicating unwillingness to engage in the conduct at issue; or
+* are asleep, unconscious, or otherwise unaware that the conduct is occurring; or
+* lack the mental ability to make or communicate a decision about whether to engage in the conduct at issue.
 
 A person may be incapable of consenting due to the effects of alcohol, drugs or other intoxicants, or due to a physical, mental or other condition.
 
@@ -137,30 +135,30 @@ The use of alcohol or drugs does not minimize or excuse a person’s responsibil
 
 Determinations regarding whether a person is responsible for violating this Policy will be made by considering whether the person knew, or a reasonable, unimpaired person in their circumstances should have known, that the other person was incapable of consenting to the sexual conduct at issue.
 
-**16\. Coercion** means the use of unreasonable pressure to gain sexual access. Coercion is more than a momentary effort to persuade, entice, or attract another person to engage in sexual activity.  When a person makes clear a decision not to engage in sexual activity, or makes a decision to stop sexual activity, or a decision not to go beyond a certain sexual activity, continued pressure to engage can be coercive.  In evaluating whether coercion was used, the College will consider: (i) the frequency of the application of pressure; (ii) the intensity of the pressure; (iii) the degree of isolation of the person being pressured; (iv) the duration of the pressure; and (v) any other similar or related conduct.
+**16. Coercion** means the use of unreasonable pressure to gain sexual access. Coercion is more than a momentary effort to persuade, entice, or attract another person to engage in sexual activity.  When a person makes clear a decision not to engage in sexual activity, or makes a decision to stop sexual activity, or a decision not to go beyond a certain sexual activity, continued pressure to engage can be coercive.  In evaluating whether coercion was used, the College will consider: (i) the frequency of the application of pressure; (ii) the intensity of the pressure; (iii) the degree of isolation of the person being pressured; (iv) the duration of the pressure; and (v) any other similar or related conduct.
 
-**17\. Reporting Individual** means
+**17. Reporting Individual** means
 
-1.  A student or employee who is alleged to have been subjected to conduct that could constitute a violation of the Non-Discrimination Policy; or
-2.  A person other than a student or employee who is alleged to have been subjected to conduct that could constitute a violation of the Non-Discrimination Policy and who was participating or attempting to participate in Middlebury’s education or employment program or activity at the time of the alleged prohibited conduct.
+1. A student or employee who is alleged to have been subjected to conduct that could constitute a violation of the Non-Discrimination Policy; or
+2. A person other than a student or employee who is alleged to have been subjected to conduct that could constitute a violation of the Non-Discrimination Policy and who was participating or attempting to participate in Middlebury’s education or employment program or activity at the time of the alleged prohibited conduct.
 
 **Reporting Individual** also includes “complainant” as that term is used in Federal law (including the Title IX regulations issued in May 2020).
 
-**18\. Complaint** means an oral or written request for Middlebury to investigate and make a determination about alleged violations of the Non-Discrimination Policy.
+**18. Complaint** means an oral or written request for Middlebury to investigate and make a determination about alleged violations of the Non-Discrimination Policy.
 
-**19\. CRTIX** means Middlebury’s Civil Rights & Title IX office.
+**19. CRTIX** means Middlebury’s Civil Rights & Title IX office.
 
-**20\. Reasonable Person** means a reasonable person under similar circumstances and with similar identities to the Reporting Individual.
+**20. Reasonable Person** means a reasonable person under similar circumstances and with similar identities to the Reporting Individual.
 
-**21\. Respondent** means a person who is alleged to have violated Middlebury’s Non-Discrimination Policy.
+**21. Respondent** means a person who is alleged to have violated Middlebury’s Non-Discrimination Policy.
 
-**22\. Party** means a Reporting Individual or Respondent.
+**22. Party** means a Reporting Individual or Respondent.
 
-**23\. Prohibited Conduct** means conduct that is prohibited by this Non-Discrimination Policy.
+**23. Prohibited Conduct** means conduct that is prohibited by this Non-Discrimination Policy.
 
-**24\. Supportive Measures** are non-punitive, non-disciplinary individualized services offered as appropriate, as reasonably available, and without fee or charge that are calculated to restore or preserve access to Middlebury educational or employment programs, activities, and resources, and/or to provide support during a resolution process.
+**24. Supportive Measures** are non-punitive, non-disciplinary individualized services offered as appropriate, as reasonably available, and without fee or charge that are calculated to restore or preserve access to Middlebury educational or employment programs, activities, and resources, and/or to provide support during a resolution process.
 
-**25\. Preponderance of the Evidence** is an evidentiary standard (e.g., the level of evidence that is sufficient to persuade a decisionmaker that there was a policy violation) that means “more likely than not,” or, greater than 50%.
+**25. Preponderance of the Evidence** is an evidentiary standard (e.g., the level of evidence that is sufficient to persuade a decisionmaker that there was a policy violation) that means “more likely than not,” or, greater than 50%.
 
 Please also see [Appendix B: Applicable Definitions: U.S. State and Federal Law where Middlebury Operates Programs](static/assets/appendix-b_applicable-definitions-in-states-where-midd-operates-8-23-24.pdf).
 
