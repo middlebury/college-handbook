@@ -107,6 +107,16 @@ export const policiesForInstituteOnline = [
                 value: "vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-3-policies-concerning-enrollment-payment/b-3-j-english-language-proficiency",
                 label: "B.3.j. English Language Proficiency",
                 className: "b-3-j-english-language-proficiency"
+              },
+              {
+                value: "vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-3-policies-concerning-enrollment-payment/b-3-k-course-cancellation-for-low-enrollment",
+                label: "B.3.k. Course Cancellation for Low Enrollment",
+                className: "b-3-k-course-cancellation-for-low-enrollment"
+              },
+              {
+                value: "vi-policies-for-middlebury-institute-online/vi-b-academic-policies/b-3-policies-concerning-enrollment-payment/b-3-l-administrative-withdrawal-due-to-non-participation",
+                label: "B.3.l. Administrative Withdrawal Due to Non-Participation",
+                className: "b-3-l-administrative-withdrawal-due-to-non-participation"
               }
             ]
           },
