@@ -1,13 +1,13 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/course-reg-course-conduct
 title: B.1.f. Course Registration and Conduct of Courses
-date: 09/05/2025
+date: 09/10/2026
 ---
-#### **1\. Registration Procedure**
+#### **1. Registration Procedure**
 
 Students register for fall, winter, and spring courses using the online registration system. Registration information is communicated to students, by e-mail, prior to the registration period, which consists of an advising period and a real-time or batch registration round. Registration for half-credit courses running for the second half of the fall or spring semester will be available as announced by the Office of the Registrar.
 
-#### **2\. Course Load** {#course}
+#### **2. Course Load** {#course}
 
 A student's normal program consists of four credits in the fall and spring semesters and one course in the winter term. First-year students must be in residence for winter term and enrolled in an academic course.  Full-time students must take at least three credits per semester. It is expected that students will pursue a full course load each semester, leading to 36 credits; however, the minimum graduation requirement of 34 credits allows for flexibility in a semester where the student, their Dean, and their advisor believe that 3 or 3.5 credits is more appropriate.
 
@@ -17,7 +17,7 @@ All entering first-year students register for a first-year seminar in their firs
 
 Under certain exceptional circumstances, students may be permitted to carry fewer than three credits. When this request is based on a documented disability, students should apply to the Disability Resource Center (DRC) office. When this request is based on an exceptional personal circumstances, students may apply to the Administration Committee.  Students who receive approval for a reduced course load pay the full comprehensive fee. Students with reduced course loads should work closely with their academic advisors to ensure their compliance with Middlebury’s Satisfactory Academic Progress policy.
 
-#### **3\. Credit/No Credit Grading Option** {#pass}
+#### **3. Credit/No Credit Grading Option** {#pass}
 
 Students may opt to take a course on a Credit/No Credit basis under the following conditions:
 
@@ -39,13 +39,13 @@ h. Off-Campus Study: Middlebury students enrolled in an approved off-campus stud
 
 i. CR and NCR grades will not be calculated in the student’s GPA.  A minimum grade of C- is required for CR.  NCR will be recorded for grades of D or F.
 
-#### **4\. Auditing** {#auditing}
+#### **4. Auditing** {#auditing}
 
 With advance permission of the instructor, a regularly enrolled student may audit other classes. The instructor establishes the conditions under which the student may audit. A student may request official audit status, in which case the course will be recorded on his or her transcript with "AUD" in the grade column. In order to obtain official audit status, the student must make a request to the instructor, and they must agree in writing on the conditions of satisfactory completion. Students must register for audited courses during the normal add period. In no case may the student receive credit for auditing.
 
 Community members living in the Middlebury area may audit courses only with the permission of the instructor and the dean of curriculum or designee. Community members interested in auditing a course at the College, must complete the Community Member Audit Request form and obtain the requisite signatures indicating approval. The audit status, if approved, is not officially recorded and there is no academic transcript kept in these cases. Current high school students may not audit courses at Middlebury College.
 
-#### **5\. Change of Course Registration** {#change}
+#### **5. Change of Course Registration** {#change}
 
 Immediately following the online registration period and through the end of the second week of the fall and spring semesters, course additions may be made if students have the consent of the instructor of the course into which the student wishes to enroll. Students must add the approved course in Banner by the end of the second week of classes.  In the case of half-credit courses running for the second half of the fall or spring semester, students may add the class in accordance with a schedule announced by the Office of the Registrar.
 
@@ -59,13 +59,13 @@ During winter term, course changes are made by the same procedures, but the add/
 
 Students who add a class late do so at their own risk. They will not be permitted to use a late start as the reason for dropping a course after the deadline.
 
-#### **6\. Size of Classes** {#size}
+#### **6. Size of Classes** {#size}
 
 Fall or spring semester course enrollment may not be limited or cut off during registration without permission of the VPAA or designee. This restriction does not apply to first-year student seminars, College Writing courses, seminars, language and laboratory sections, and studio courses. Department chairs are responsible for ensuring that there are an adequate number of openings for incoming first-year students in September and February.
 
 A list of all courses in which six or fewer students are enrolled will be referred to the VPAA or designee after completion of a registration period. The advisability of offering such courses for the current semester will be discussed promptly with the department chair involved. Enrollment in winter term courses is limited. _(See "_[_Winter Term_](/pages/ii-ug-college-policies/ug-policies/academics/winter-term)_")._
 
-#### **7\. Class Meeting and Scheduling** {#class}
+#### **7. Class Meeting and Scheduling** {#class}
 
 Instructors are expected to conduct classes at the time and place scheduled. Regularly scheduled classes are not held between the hours of 4:15 p.m. and 7:30 p.m. Evening classes are permitted on Monday, Tuesday, and Wednesday. Evening classes on other nights must be approved by the VPAA/DOF or designee. No intercollegiate athletic contests will be scheduled for Monday evenings.
 
@@ -73,15 +73,21 @@ Individual faculty requests for changes in the published schedule must be approv
 
 Most full-credit courses meet for three hours per week with the exception of laboratory, drill, and discussion meetings. Department chairs are responsible for ensuring that scheduling information is included on the department course information files.
 
-#### **8\. Attendance** {#attendance}
+#### **8. Attendance** {#attendance}
 
-Individual instructors set attendance policies. They should announce these policies during the first week of classes. A student's grade in a course may be reduced for nonattendance.
+Attendance and participation in classes is mandatory and is an integral part of the immersive liberal arts education provided by Middlebury College. Middlebury courses are conducted in person, and students are expected to attend all scheduled course meetings, to be present promptly at the start of the course meeting, and to be prepared to participate fully through the opportunities offered during the course. A student's grade in a course may be reduced for non-attendance.   
 
-The Class Deans are charged with the responsibility of granting substantiated excuses for absences from class if warranted by compelling personal circumstances, observance of religious holidays, illnesses, or injuries. Please note that dean's excuses for class absences are granted only under exceptional circumstances, or where there are repeated or prolonged absences involved. Most concerns about class absences should be worked out between the individual student and the faculty member, in the context of the faculty member's own policies on class attendance. The Class Dean may provide an "Explanation of Absence" for athletic absences.
+A student who is absent from a pre-announced examination without excuse receives a failure for the examination and is not granted the privilege of making it up. 
 
-A student who is absent from a pre-announced examination without excuse receives a failure for the examination and is not granted the privilege of making it up.
+A student who fails to attend the first two hours of class loses their space in the class, unless excused in advance. 
 
-A student who fails to attend the first two hours of class loses his or her space in the class, unless excused in advance.
+On occasion, students may have a compelling reason to miss a class; for example, to observe a religious holiday, or because of illness, including an approved disability accommodation; ordinarily, these absences are excused. Deans in the Center for Student Success may provide an "Explanation of Absence" for athletic absences. Personal travel, job interviews, or extracurricular commitments, including team practices or other events, are not compelling reasons to miss class, nor are they excused.   
+
+Absences from classes negatively affect the totality of a student’s educational experience and the education of other students.   At Middlebury College, an absence exceeding two weeks or ten consecutive days of classes in a semester - for any reason - may represent grounds for a voluntary leave of absence, or a required leave from the College by the Vice President of Student Affairs. Additional information about these processes can be found in the [Student Status Policy.](https://handbook.middlebury.edu/pages/ii-ug-college-policies/ug-policies/academics/student-status/) 
+
+Departments or instructors may set their own attendance policy for their courses that may establish higher requirements than this Policy, and/or impose grading consequences for absences. 
+
+Students who are unable to attend class for any reason should notify their course instructor(s) immediately; for excused absences, students are expected to provide documentation, if applicable, to the Center for Student Success, and to make prompt arrangements to catch up on missed work as determined by the instructor. Not all assignments or classwork can be made up.  In the event of an extended illness, students may want to consider a [Temporary Medical Leave](https://handbook.middlebury.edu/pages/ii-ug-college-policies/ug-policies/academics/student-status/).  To make a plan to submit missing assignments, students should contact both their instructor(s) and the Center for Student Success to discuss appropriate arrangements, if possible.
 
 _**Guidelines for Handling Athletics-Explained Absences**_
 
@@ -147,11 +153,11 @@ _**To the Captains:**_
 
 As a team leader, you should encourage your team members to meet with professors to discuss possible scheduling conflicts. Please ensure that your team members are aware of these guidelines on explained absences and understand that the process is one of negotiation among the coach, student, and professor.
 
-**9\. Class Lectures and Presentations**
+**9. Class Lectures and Presentations**
 
 Classroom lectures or presentations at the College are the intellectual property of the individual professor, Middlebury College, and/or both. The copying, publication, or distribution of any transcripts, audio, or video of such lectures or presentations without prior written approval of the individual professor is prohibited.
 
-**10\. Religious Holidays**
+**10. Religious Holidays**
 
 Middlebury College recognizes that the student body includes adherents of many faiths and that observance of religious holidays is an important part of religious practice for many students. The following policies have been established in order that students at Middlebury will not suffer academic penalties because of the conscientious observance of religious holidays:
 
