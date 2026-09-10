@@ -75,7 +75,7 @@ Most full-credit courses meet for three hours per week with the exception of lab
 
 #### **8. Attendance** {#attendance}
 
-Attendance and participation in classes is mandatory and is an integral part of the immersive liberal arts education provided by Middlebury College.  Middlebury courses are conducted in person, and students are expected to attend all scheduled course meetings, to be present promptly at the start of the course meeting, and to be prepared to participate fully through the opportunities offered during the course. A student's grade in a course may be reduced for non-attendance.   
+Attendance and participation in classes is mandatory and is an integral part of the immersive liberal arts education provided by Middlebury College. Middlebury courses are conducted in person, and students are expected to attend all scheduled course meetings, to be present promptly at the start of the course meeting, and to be prepared to participate fully through the opportunities offered during the course. A student's grade in a course may be reduced for non-attendance.   
 
 A student who is absent from a pre-announced examination without excuse receives a failure for the examination and is not granted the privilege of making it up. 
 
@@ -83,7 +83,7 @@ A student who fails to attend the first two hours of class loses their space in 
 
 On occasion, students may have a compelling reason to miss a class; for example, to observe a religious holiday, or because of illness, including an approved disability accommodation; ordinarily, these absences are excused. Deans in the Center for Student Success may provide an "Explanation of Absence" for athletic absences. Personal travel, job interviews, or extracurricular commitments, including team practices or other events, are not compelling reasons to miss class, nor are they excused.   
 
-Absences from classes negatively affect the totality of a student’s educational experience and the education of other students.   At Middlebury College, an absence exceeding two weeks or ten consecutive days of classes in a semester -- for any reason -- may represent grounds for a voluntary leave of absence, or a required leave from the College by the Vice President of Student Affairs.  Additional information about these processes can be found in the [Student Status Policy.](https://handbook.middlebury.edu/pages/ii-ug-college-policies/ug-policies/academics/student-status/) 
+Absences from classes negatively affect the totality of a student’s educational experience and the education of other students.   At Middlebury College, an absence exceeding two weeks or ten consecutive days of classes in a semester - for any reason - may represent grounds for a voluntary leave of absence, or a required leave from the College by the Vice President of Student Affairs. Additional information about these processes can be found in the [Student Status Policy.](https://handbook.middlebury.edu/pages/ii-ug-college-policies/ug-policies/academics/student-status/) 
 
 Departments or instructors may set their own attendance policy for their courses that may establish higher requirements than this Policy, and/or impose grading consequences for absences. 
 
