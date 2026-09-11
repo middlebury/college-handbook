@@ -1,11 +1,11 @@
 ---
 slug: /pages/ii-ug-college-policies/ug-policies/academics/student-status
 title: B.1.l. Student Status
-date: 03/17/2025
+date: 09/11/2026
 ---
 Students may be admitted for undergraduate courses at Middlebury only if they do not already have a baccalaureate degree from Middlebury or any other institution.
 
-#### **1\. Good Academic Standing**
+#### **1. Good Academic Standing**
 
 Students are "in good academic standing" if they are meeting the requirements of the Satisfactory Academic Progress policy. Seniors who need only one or two credits to graduate and who have been approved for special student status are also considered to be "in good academic standing."
 
@@ -13,7 +13,7 @@ Students are "in good academic standing" if they are meeting the requirements of
 
 #### **2. Course Alerts**
 
-Faculty members may send out course alerts to students thought to be in danger of receiving grades of "D" or "F."  The Class Dean will normally monitor grades around the middle of the term and may contact parents or guardians of students who appear to be having academic difficulties, including receiving one or more course alert.
+Faculty members are encouraged to send out course alerts to students who are showing sign of academic disengagement, academic struggle, or who are thought to be in danger of receiving grades of "D" or "F."  The Dean of Students or designee notifies parents/guardians of students who have received two or more course alerts or who have received one course alert while on Academic Probation.
 
 #### **3. Probation**
 
@@ -22,10 +22,6 @@ See [Grades and Transcripts](/pages/ii-ug-college-policies/ug-policies/academics
 #### **4. Off-Campus Study**
 
 A student may be granted Off-Campus Study status to pursue a full-time program of studies at another recognized and accredited college or university in the United States or abroad. For details regarding the approval and transfer credit process for studying off-campus, see [Transfer Courses and Off-Campus Study](/pages/ii-ug-college-policies/ug-policies/academics/x-courses-ocs).
-
-a. Off-Campus Study status for overseas programs is approved by the [Off-Campus Study](https://www.middlebury.edu/office/study-abroad) (Programs Abroad) Committee at the request of the student and the recommendation of his or her major department. Course programs must be approved by the appropriate Middlebury departments in advance to remain in good standing.
-
-b. Middlebury agrees to accept approved junior year abroad programs as equivalent to a full year's work. Students on other forms of leave have no such guarantee and must seek final approval of courses after their return to Middlebury. Students on Off-Campus Study status must inform the College if they withdraw from the institution they are attending or if they take a reduced course load.
 
 The following policies will govern readmission for students who have been approved for programs of Off-Campus Study and then wish to change their status:
 
@@ -37,17 +33,17 @@ iii. The deadline for guaranteed readmission for the spring semester is October 
 
 iv. There will be no readmissions after the September 1 and January 15 dates.
 
-#### **5\. Leaves of Absence**
+#### **5. Leaves of Absence**
 
 **a. Voluntary Leaves of Absence**
 
-i. Students may choose to take a leave of absence during their time at Middlebury. They may choose not to return after a successfully completed semester, or they may choose to take a leave during a semester in progress. Any student wishing to take a leave of absence should consult their Class Dean to review their academic progress and identify any changes to their academic plan that may be indicated before or after a leave. When students leave during a semester in progress and prior to December 1 for the fall semester or May 1 for the spring semester, no courses will appear on their transcript. If they take a leave from a semester after December 1 (fall) or May 1 (spring), their courses will remain on the transcript. A course with a failing grade assessed as a penalty for academic dishonesty by the Academic Judicial Board will not be removed from a transcript regardless of the timing. 
+i. Students may choose to take a leave of absence during their time at Middlebury. They may choose not to return after a successfully completed semester, or they may choose to take a leave during a semester in progress. Any student wishing to take a leave of absence should consult the Dean of Students of designee to review their academic progress and identify any changes to their academic plan that may be indicated before or after a leave. When students leave during a semester in progress and prior to December 1 for the fall semester or May 1 for the spring semester, no courses will appear on their transcript. If they take a leave from a semester after December 1 (fall) or May 1 (spring), their courses will remain on the transcript. A course with a failing grade assessed as a penalty for academic dishonesty by the Academic Judicial Board will not be removed from a transcript regardless of the timing. 
 
 ii. Students may declare a leave of absence without penalty on or before June 1 for the fall semester and October 15 for the spring semester. Students who declare a leave of absence after these deadlines will be assessed a $500 fee. 
 
-Once declared in writing, including in email to a dean, care manager or their designees, Leaves of Absence are binding and may not be reversed.  
+Once declared by submitting the Undergraduate Withdrawal Request Form, Leaves of Absence are binding and may not be reversed.  
 
-iii. Students who take a leave in the middle of a semester are ordinarily eligible for readmission after a full (Fall or Spring) semester away.  
+iii. Students who take a leave in the middle of a semester are ordinarily eligible for readmission after a full (Fall or Spring) semester away.  Mid-semester leaves also impact students’ Satisfactory Academic Progress.
 
 iv. In circumstances where a student on a leave of absence does not respond to communications from the College about their intentions to return for the next eligible semester, and there is no activity in campus-based processes that may suggest their intent to return (e.g., no activity related to class registration, no engagement with Student Financial Services, no participation in housing processes, etc.) their leave will be automatically continued and will be placed on a voluntary leave of absence with no anticipated return date. 
 
@@ -65,7 +61,7 @@ In situations where a student is unable or unwilling to carry out substantial se
 
 ii. Before placing any student on a mandatory leave of absence, Middlebury will do an individualized assessment to determine if there are reasonable accommodations that would permit the student to continue to participate in the campus community without taking a leave of absence.  A medical evaluation by a competent specialist may be required. To enable careful, individualized consideration, the student may need to sign a release authorizing disclosure of relevant information by and between treatment providers working with the student and the appropriate College official(s).
 
-iii. The student will be notified of the decision to place them on leave in writing. Student(s) will be given notice and an opportunity to speak with their Class Dean and/or a Care Manager prior to or within five business days following the start of the mandatory leave. The decision may be appealed, following the procedures set forth in Section 5.b.iv., below. Students are required to depart campus within the timeframe stipulated in the leave letter or otherwise communicated by the VPSA, Dean of Students, or their designee, and may not remain on campus during consideration of an appeal.
+iii. The student will be notified of the decision to place them on leave in writing. Student(s) will be given notice and an opportunity to speak with the Dean of Students or designee prior to or within five business days following the start of the mandatory leave. The decision may be appealed, following the procedures set forth in Section 5.b.iv., below. Students are required to depart campus within the timeframe stipulated in the leave letter or otherwise communicated by the VPSA, Dean of Students, or their designee, and may not remain on campus during consideration of an appeal.
 
 iv. An appeal of a mandatory leave of absence may be made in writing (including email) to the Vice President of Student Affairs (VPSA) or designee within five business days of receipt of the decision. The appeal must state the grounds for the appeal and include any supporting evidence. The VPSA will ordinarily notify the student of the appeal decision within ten business days of receipt of the appeal.
 
@@ -73,30 +69,30 @@ v. Students placed on leave under this section may also be subject to the normal
 
 **c.  Temporary Medical Leave of Absence**
 
-i. A student may request a temporary medical leave of absence of up to ten consecutive class days and ordinarily for no more than 10 total class days per semester. Temporary medical leaves are appropriate for health-related situations in which a student needs to take time away from classes to manage a short-term need such as injury rehabilitation, symptoms improved by rest, or for planned procedures associated with relatively short recovery times. Temporary medical leaves are not appropriate in situations where intensive levels of care are indicated including inpatient, intensive outpatient, or residential settings. A temporary leave beyond ten days will only be granted in extraordinary circumstances at the discretion of the Dean of Students or their designee, ordinarily in consultation with the Center for Health and Wellness.
+i. A student may request a temporary medical leave of absence of up to ten consecutive class days and ordinarily for no more than 10 total class days per semester. Temporary medical leaves are appropriate for health-related situations in which a student needs to take time away from classes to manage a short-term need such as injury rehabilitation, symptoms improved by rest, or for planned procedures associated with relatively short recovery times. Temporary medical leaves are not appropriate in situations where intensive levels of care are indicated including inpatient, intensive outpatient, or residential settings. A temporary leave beyond ten days will only be granted in extraordinary circumstances at the discretion of the Dean of Students or their designee, ordinarily in consultation with the Center for Health and Wellness and after an assessment of the academic impact of an extended leave.
 
 ii. To initiate a temporary medical leave of absence, students must complete the Temporary Medical Leave Form in their student health portal or meet with a staff member in the Center for Health and Wellness to explain their plans and receive approval in all cases. Center for Health and Wellness staff will perform an individualized assessment to ensure that the temporary medical leave length will meet the student’s health and/or recovery goals. In situations where a longer leave may be indicated and a temporary medical leave is not approved, Center for Health and Wellness staff will review those options with the student, make recommendations, and refer the student to a Care Manager to begin longer term leave planning. 
 
 iii. The College may place the student on a temporary mandatory leave of absence for up to ten days when the conditions for a mandatory leave of absence, above, are met.  Whenever possible, a student wishing to appeal the mandatory temporary leave will be given notice and an opportunity to speak with the Dean of Students or their designee prior to or within three business days following the start of the temporary leave. The Dean of Students, Associate Vice President of Student Health and Well-being or their designees, in consultation with others as appropriate, will make a determination regarding the mandatory temporary leave. There is no right of appeal following this determination.
 
-*   Students who are placed on temporary medical leave may also be subject to the normal disciplinary processes when their conduct has violated College policy. If disciplinary action is appropriate, the matter must be resolved either before or immediately upon the student’s return.
-*   Students may return from their temporary medical leave after providing documentation and information in accordance with Section 5.d. and 5.e., below.
+* Students who are placed on temporary medical leave may also be subject to the normal disciplinary processes when their conduct has violated College policy. If disciplinary action is appropriate, the matter must be resolved either before or immediately upon the student’s return.
+* Students may return from their temporary medical leave after providing documentation and information in accordance with Section 5.d. and 5.e., below.
 
 **d. Readmission**
 
-Except where indicated below, all requests for readmission will be reviewed by the Leaves and Returns committee, who will make a recommendation for or against readmission to the Dean of Students based on an individualized assessment of each student’s readiness to return and successfully participate in the College’s academic and residential program. The Leaves and Returns Committee is comprised of staff from the Center for Health and Wellness and the Office of Care Management, with input from other relevant offices such as the Disability Resource Center, Class Deans and International Student and Scholar Services as necessary and appropriate.  
+Except where indicated below, all requests for readmission will be reviewed by the Leaves and Returns committee, who will make a recommendation for or against readmission to the Dean of Students based on an individualized assessment of each student’s readiness to return and successfully participate in the College’s academic and residential program. The Leaves and Returns Committee is comprised of staff from Dean of Students Office, with input from other relevant offices such as the Disability Resource Center, Class Deans and International Student and Scholar Services as necessary and appropriate. The Committee may include in its assessment a student’s compliance with the [Satisfactory Academic Progress Policy](https://handbook.middlebury.edu/pages/ii-ug-college-policies/ug-policies/academics/satis-acad-prog/) and may require students to submit a plan articulating how they will stay on track to complete degree requirements within the remaining allotted semesters of study.   
 
 The Dean of Students will ordinarily accept committee recommendations, but final readmission decisions are at the discretion of the Dean of Students or their designee.  
 
 i. Students on leave are eligible to request readmission for a three-year period, starting from the date on which their leave began as documented in their leave letter.
 
-ii. Students eligible for readmission with an anticipated return date of the upcoming semester (as stated in their original leave letter) can expect to receive instructions for completing the online readmission forms from the Office of Care Management. They must confirm their plan to return on this readmission date by completing the instructions provided by the Office of Care Management no later than June 1 for the fall term and November 1 for the spring semester. Normally, readmission is for fall or spring semester only. Students will be readmitted for winter term or summer study only with special permission from the Dean of Students or designee.
+ii. Students eligible for readmission with an anticipated return date of the upcoming semester (as stated in their original leave letter) must confirm their plan to return on this readmission date by completing the instructions on their original leave letter no later than April 1 for the fall term and November 1 for the spring semester. Normally, readmission is for fall or spring semester only. Students will be readmitted for winter term or summer study only with special permission from the Dean of Students or designee.
 
 iii. Students on probation for disciplinary or academic reasons will resume their probationary status upon their return for the duration of the assigned probationary period.
 
 iv. Students with conduct pending through Community Standards must clarify with Community Standards whether their conduct must be resolved before they are eligible to return.
 
-iv. In the  circumstance that a student’s request for readmission is denied by the Dean of Students , the decision may be appealed in writing to the Vice President of Student Affairs within 5 business days of the decision. Appeal instructions will be provided to students in their readmission denial letters.
+iv. In the circumstance that a student’s request for readmission is denied by the Dean of Students, the decision may be appealed in writing to the Vice President of Student Affairs within 5 business days of the decision. Appeal instructions will be provided to students in their readmission denial letters.
 
 **e. Readmission after Leaves with Conditions**
 
@@ -104,12 +100,12 @@ In addition to the requirements outlined in 5.d above, in those cases where spec
 
 In the event a return from leave petition is initiated and the student does not matriculate that semester, for any reason, the College reserves the right to require submission of updated or new versions of any of the required documentation outlined above, due not later than the published submissions deadline for the semester in which the student is petitioning for return.
 
-*   _Returns from Leaves of Absence (all Types and Durations) and Athletics Participation._ Athletes returning from a Leave of Absence of any type or duration must be cleared by  Sports Medicine prior to return to participation in any varsity or tier 1 club athletics activities.
-*   _Returns After Attendance at Other Institutions._ The College also reserves the right to obtain a dean’s certification if a student has attended another institution. Dean’s certifications are official documents confirming attendance and good standing and are typically obtained by request to the office of the dean of students of the institution in question.
+* _Returns from Leaves of Absence (all Types and Durations) and Athletics Participation._ Athletes returning from a Leave of Absence of any type or duration must be cleared by Sports Medicine prior to return to participation in any varsity or tier 1 club athletics activities.
+* _Returns After Attendance at Other Institutions._ The College also reserves the right to obtain a dean’s certification if a student has attended another institution. Dean’s certifications are official documents confirming attendance and good standing and are typically obtained by request to the office of the dean of students of the institution in question.
 
-#### **6\. Accommodations for Students with Disabilities**
+#### **6. Accommodations for Students with Disabilities**
 
-Middlebury is committed to ensuring equal access to its educational programs for students with disabilities. The term "disability" may include learning, physical, sensory, psychological, medical, and certain temporary disabilities. The Americans with Disabilities Act (ADA) of 1990 as amended, Section 504 of the Rehabilitation Act of 1973 (504), and analogous state laws prohibit discrimination against individuals with disabilities and entitle individuals with disabilities to reasonable accommodations. Students with disabilities may request academic accommodations; housing and dining accommodations; modifications to Middlebury policies, rules, and regulations; environmental adjustments such as the removal of architectural, communication, or transportation barriers; and auxiliary aids and services. Additional policies and procedures regarding accommodations can be found on the website of the Disability Resource Center and in Middlebury’s [Americans with Disabilities Act Policy](/pages/i-policies-for-all/non-discrim-policies/ada-policy).
+Middlebury is committed to ensuring equal access to its educational programs for students with disabilities. The term "disability" may include learning, physical, sensory, psychological, medical, and certain temporary disabilities. The Americans with Disabilities Act (ADA) of 1990 as amended, Section 504 of the Rehabilitation Act of 1973 (504), and analogous state laws prohibit discrimination against individuals with disabilities and entitle individuals with disabilities to reasonable accommodations. Students with disabilities may request academic accommodations; housing and dining accommodations; modifications to Middlebury policies, rules, and regulations; environmental adjustments such as the removal of architectural, communication, or transportation barriers. Additional policies and procedures regarding accommodations can be found on the website of the Disability Resource Center and in Middlebury’s [Americans with Disabilities Act Policy](/pages/i-policies-for-all/non-discrim-policies/ada-policy).
 
 Students with disabilities who seek accommodations must register with the Disability Resource Center (DRC). Registration through self-identification is a voluntary process that is treated confidentially and may occur at any time during the student's course of study. Such students may seek modifications of the academic regulations set forth herein as accommodations from DRC, which may refer certain requests to the [Administration Committee](https://www.middlebury.edu/college/student-life/academic-life).
 
@@ -123,29 +119,23 @@ A student who receives D or an F in the winter term or in summer study while on 
 
 A student who is enrolled in three courses and receives one F and one D grade, or two D grades, will be required to withdraw. A student enrolled in three courses who is on probation and who receives one D grade will be required to withdraw.
 
+A student who earns Academic Failure twice is permanently withdrawn from the college with no chance to return.
+
 The above rules also apply to Middlebury undergraduates who enroll in Language Schools, Schools Abroad, Middlebury Institute of International Studies at Monterey, Bread Loaf School of English, School of the Environment, and externally sponsored programs approved by the office of International Programs and Off-Campus Study. Students withdrawn due to academic failure are not eligible to attend any Middlebury school or program until formally readmitted to the College.
 
 At any time, a student failing a course, consistently receiving grades below C-, or in any way neglecting the obligations of a course, may be placed on course alert.
 
-#### **8\. Readmission After Withdrawal for Academic Failure**
+#### **8. Readmission After Withdrawal for Academic Failure**
 
-The policies, processes and deadlines in this section pertain only to students seeking readmission after withdrawal for Academic Failure. Readmission after academic failure requires approval from the Administration Committee. Readmission is a special privilege, not a right. The committee will grant re-admission petitions only when it is satisfied that the factors which led to failure have been rectified and that the student has both ample motivation and capacity to earn a degree. Mere lapse of time is not a sufficient basis for readmission. The burden of proof of motivation and capacity rests with the student. During a leave of absence resulting from withdrawl after academic failure, the student is ordinarily required to enroll full-time at another accredited institution and to achieve a good record there by receiving grades of B- or better in all courses. (See [Transfer Courses and Off-Campus Study](https://www.middlebury.edu/handbook/pages/ii-ug-college-policies/ug-policies/academics/x-courses-ocs) for information about the transferability of these courses to Middlebury.)
+The policies, processes and deadlines in this section pertain only to students seeking readmission after withdrawal for Academic Failure. Readmission after academic failure requires approval from the Administration Committee. Readmission is a special privilege, not a right. The committee will grant re-admission petitions only when it is satisfied that the factors which led to failure have been rectified and that the student has both ample motivation and capacity to earn a degree. Mere lapse of time is not a sufficient basis for readmission. The burden of proof of motivation and capacity rests with the student. During a leave of absence resulting from withdrawl after academic failure, the student is ordinarily required to enroll full-time at another accredited institution and to achieve a good record there by receiving grades of B- or better in all courses. (See [Transfer Courses and Off-Campus Study](https://www.middlebury.edu/handbook/pages/ii-ug-college-policies/ug-policies/academics/x-courses-ocs) for information about the transferability of these courses to Middlebury.)  Students for whom meeting this standard process is a demonstrable hardship may work with the Dean of Students or designee to develop and document an alternative plan to address readiness to return.  These plans must receive approval from a representative from the Administration Committee.  Deviations from documented plans must be approved in advance.
 
-Application for readmission must be made to the [Administration Committee](https://www.middlebury.edu/college/student-life/academic-life), who will consult with the student's Class Dean. Readmission is normally for fall or spring semester only. Students will be readmitted for winter term or for summer study only with special permission from the Administration Committee in consultation with the Dean of Students. Any student readmitted will be on academic probation for the first semester following return and, if withdrawn for due to academic failure a second time, will not be readmitted. A student readmitted on academic probation for winter term remains on probation for the following spring semester; a student readmitted on probation for summer study remains on probation for the following fall semester.
+Application for readmission must be made to the [Administration Committee](https://www.middlebury.edu/college/student-life/academic-life), who will consult with the student's the Dean of Students or designee. Readmission is normally for fall or spring semester only. Students will be readmitted for winter term or for summer study only with special permission from the Administration Committee in consultation with the Dean of Students. Any student readmitted will be on academic probation for the first semester following return and, if withdrawn for due to academic failure a second time, will be permanently withdrawn from the college. A student readmitted on academic probation for winter term remains on probation for the following spring semester; a student readmitted on probation for summer study remains on probation for the following fall semester.
 
-There are two tracks to apply for readmission following academic failure, Regular Readmission and Late-Decision Readmission, each with its own deadlines.
+**Readmission:** Application must be made by June 15 for fall semester, and by November 1 for spring semester. Only complete applications consisting of a petition and all supporting materials (including a final, official transcript) submitted by the June 15 or the November 1 deadline will be considered for Readmission. 
 
-**Regular Readmission:** Application must be made by June 15 for fall semester, and by November 1 for spring semester. Only complete applications consisting of a petition and all supporting materials (including a final, official transcript) submitted by the June 15 or the November 1 deadline will be considered for Regular Readmission. 
+A full year away is the recommended timeline for all students to ensure the best opportunities for success after their return. Deadlines for Regular Readmission have been set to enable readmitted students to participate in registration and housing processes for the following fall or spring term at the same time as other students in their class. It must be understood that students taking courses elsewhere to qualify for readmission will not be able to acquire an official transcript of final grades early enough to meet the deadline to apply for Regular Readmission for the immediately following fall or spring term.
 
-Regular Readmission is the recommended timeline for all students to ensure the best opportunities for success after their return. Deadlines for Regular Readmission have been set to enable readmitted students to participate in registration and housing processes for the following fall or spring term at the same time as other students in their class. It must be understood that students taking courses elsewhere to qualify for readmission will not be able to acquire an official transcript of final grades early enough to meet the deadline to apply for Regular Readmission for the immediately following fall or spring term.
-
-**Late-Decision Readmission:** Application must be made by August 15 for fall semester, and January 15 for spring semester. Only complete applications consisting of a petition and all supporting materials (including a final, official transcript) submitted by the August 15 or the January 15 deadline will be considered for Late-Decision Readmission. 
-
-Late-Decision Readmission is not recommended but is available as an exceptional provision that comes with caveats and conditions which students should carefully consider before electing it. Deadlines for Late-Decision Readmission have been set to allow students the possibility of returning in the spring or fall term immediately following coursework done elsewhere to qualify for readmission. Since students readmitted via Late-Decision will be notified of that outcome after the registration and housing processes have been run, the selection of courses and housing will be limited. Students may elect this option only on the condition that they accept whatever courses and housing assignments are available. 
-
-<table><tbody><tr><td colspan="2"><strong>SUMMARY OF DEADLINES FOR READMISSION FROM ACADEMIC FAILURE</strong></td></tr><tr><td><strong>Return Track</strong></td><td><strong>Application Deadline</strong></td></tr><tr><td>Fall Return, Regular</td><td>June 15</td></tr><tr><td>Fall Return, Late Decision</td><td>August 15</td></tr><tr><td>Spring Return, Regular</td><td>November 1</td></tr><tr><td>Spring Return, Late Decision &nbsp; &nbsp;&nbsp;</td><td>January 15</td></tr></tbody></table>
-
-**9\. Special Students**
+**9. Special Students**
 
 Special student status is designated for students with only one or two remaining credits (although Febs may apply for special student status for the fall semester when they have three remaining credits), and for students with a documented disability for which this arrangement is deemed by the Disability Resource Center staff to be a reasonable accommodation. Special students are charged by the course and may not live on campus.
 
@@ -155,7 +145,7 @@ Beginning in the spring 2024 semester, special students will automatically be ad
 
 Occasionally, special students wish to remain living on campus. When this request is based on a documented disability, students should submit this request to the Disability Resource Center office. When this request is based on exceptional personal circumstances, students may apply to the Administration Committee.
 
-#### **10\. Ninth Semester**
+#### **10. Ninth Semester**
 
 As stated in section B.1.c, Degree Requirements, the normal pattern for earning the baccalaureate degree at Middlebury College is four consecutive years of study.  If, due to extenuating circumstances, a student is unable to successfully complete all degree requirements within eight semesters, the student must petition the Administration Committee for permission to enroll in a ninth semester.  All semesters in which a student attends classes, including any semester(s) from which a student withdraws before the end of the semester, are included in the eight-semester count.  Petitions for a ninth semester are only considered in cases where the student can demonstrate that, due to no fault of their own, and based upon extraordinary circumstances, the student is unable to complete the degree within eight semesters.  Requests for a ninth semester to complete a second major or to accommodate a late change of major will not be considered.
 
@@ -163,7 +153,7 @@ As stated in section B.1.c, Degree Requirements, the normal pattern for earning 
 
 Students from other colleges may be admitted through the Administration Committee, if space is available, for one semester as non-matriculated students. Such students are required to be in good academic and social standing at their home institutions and have the approval of their home institutions. The Administration Committee will review potential visiting students' applications and transcripts and proposed courses of study at Middlebury to ensure that the students meet academic standards and that there is room in the courses they plan to take. Any visiting student wishing to transfer to Middlebury must apply in the regular manner through the Admissions Office.
 
-#### **12\. Resignation**
+#### **12. Resignation**
 
 Students who wish to leave Middlebury College and plan never to return may resign from the College. Students who resign must notify their Class Dean in writing. There is no readmission after a resignation.
 
