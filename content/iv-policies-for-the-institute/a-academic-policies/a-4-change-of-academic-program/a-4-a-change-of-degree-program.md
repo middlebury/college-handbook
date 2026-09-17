@@ -1,11 +1,8 @@
 ---
 slug: /pages/iv-policies-for-the-institute/a-academic-policies/a-4-change-of-academic-program/a-4-a-change-of-degree-program
 title: A.4.a. Change of Degree Program
-date: 2021-05-01
+date: 09/17/2026
 ---
-The process for changing degree programs includes the following steps:
+A student who has been admitted to a graduate degree program and wishes to change to a different graduate degree program should contact their academic advisor to discuss eligibility and possible implications for degree requirements and degree completion.  Following this discussion, students will apply for the new degree program through Admissions. A new study plan, including confirmation of any previous courses taken and how they may apply (or not) towards the new program must be approved by the Associate Dean of Academic Operations.   
 
-*   The student discusses the matter with their advisor, including eligibility and possible implications for degree requirements and degree completion.
-*   The advisor directs the student to file a new application with the admissions office and may also be subject to an additional Student Tuition Recovery Fund (STRF) fee. 
-    *   NOTE: Effective April 1, 2024, the Student Tuition Recovery Fund (STRF) assessment rate will change from two dollars and fifty cents ($2.50) per one thousand dollars ($1,000) of institutional charges to zero dollars ($0.00) per one thousand dollars ($1,000) of institutional charges.
-*   Once a change of program has been reviewed and approved by all relevant parties, the advisor works with the student to develop a new plan of study for the new degree. The associate dean of academic operations may be consulted for questions regarding credit that can be applied to the new degree. For more information on using existing credit toward language requirements of the new degree (if applicable) see section A.5.F.3.
+NOTE: Due to the announced closure of academic programs at the Institute, requests for degree program changes will only be considered in cases where a student can complete all degree requirements by the end of the spring 2027 semester.
