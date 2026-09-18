@@ -1,11 +1,11 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/appeals
 title: C.5. Appeal Procedures
-date: 09/03/2026
+date: 09/18/2026
 ---
 **a. Appeal of Non-reappointment**
 
-_i. Grounds for Appeal_ A faculty member who has received notice of non-reappointment may appeal that judgment on the basis of either procedural errors and/or violation of academic freedom that may have influenced the academic department or program, and/or the Reappointments Committee or the Promotions Committee, and/or the provost (in the case of first and contract reviews) or the president (in the case of tenure reviews).
+_i. Grounds for Appeal_ A faculty member who has received notice of non-reappointment may appeal that judgment on the basis of procedural errors and/or violation of academic freedom that may have influenced the academic department or program, and/or the Reappointments Committee or the Promotions Committee, and/or the provost (in the case of first and contract reviews) or the president (in the case of tenure reviews).
 
 _ii. Procedures for All Appeals_ The faculty member must notify the secretary of the Appeals Council of intent to appeal in writing within 10 business days of receipt of notification of non-reappointment.
 
