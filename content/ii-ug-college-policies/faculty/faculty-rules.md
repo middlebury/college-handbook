@@ -1,7 +1,7 @@
 ---
 slug: /pages/ii-ug-college-policies/faculty/faculty-rules
 title: C.3. Rules of Appointment and Tenure for Academic Faculty
-date: 07/01/2026
+date: 09/18/2026
 ---
 **Section Links:**
 
