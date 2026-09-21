@@ -436,10 +436,10 @@ export const ugCollegePoliciesNodes = [
               },
               {
                 value:
-                  "ii-ug-college-policies/employee/employment/hr-controlled-sub-cdl",
+                  "ii-ug-college-policies/employee/employment/reserved-for-future-use",
                 label:
-                  "2.12 Controlled Substance and Alcohol Testing for Employees with a Work-required CDL",
-                className: "hr-controlled-sub-cdl",
+                  "2.12 Reserved for Future Use",
+                className: "reserved-for-future-use",
               },
               {
                 value:
