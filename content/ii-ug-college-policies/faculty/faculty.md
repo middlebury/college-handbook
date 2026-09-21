@@ -32,3 +32,4 @@ These rules are applicable to members of the faculty of the undergraduate Colleg
 *   [C.23. Housing Programs](/pages/ii-ug-college-policies/faculty/faculty-housing)
 *   [C.24. Miscellaneous Policies](/pages/ii-ug-college-policies/faculty/misc-policies)
 *   [C.25. Policy on Consensual Relationships Between Faculty and Staff Members and Students](/pages/ii-ug-college-policies/faculty/consensual-relationships-faculty)
+*   [C.26. Tenure Extension](/pages/ii-ug-college-policies/faculty/tenure-extension)
