@@ -333,6 +333,11 @@ export const ugCollegePoliciesNodes = [
             label: "C.25. Policy on Consensual Relationships Between Faculty and Staff Members and Students",
             className: "consensual-relationships-faculty",
           },
+          {
+            value: "ii-ug-college-policies/faculty/tenure-extension",
+            label: "C.26. Tenure Extension",
+            className: "tenure-extension",
+          },
         ],
       },
       {
