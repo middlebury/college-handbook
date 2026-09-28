@@ -1,7 +1,7 @@
 ---
 slug: /pages/i-policies-for-all/health-safety/cameras-on-campus
 title: C.10. Cameras on Campus
-date: 2026-07-30
+date: 09/28/2026
 ---
 Middlebury recognizes the importance of utilizing best practices for on-campus safety and security, including integrating technology into its safety planning and practices.
 
@@ -17,10 +17,7 @@ Information obtained from the Security Camera System shall be used for safety an
 | **Policy Contact**                   | Associate Vice President of Safety                      |
 | **Effective Date**                   | February 25, 2020                                       |
 | **Last Update**                      | March 3, 2026                                           |
-
-## Next Review Date
-
-Spring 2028. Public Safety convenes representatives from Human Resources, Student Affairs, the Dean of the Faculty, the General Counsel, Facilities Services (Facilities) and Information Technology Services (ITS).
+| **Nest Review Date**                 | Spring 2028                                             |
 
 ## Who Is Affected By this Policy
 
